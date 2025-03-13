@@ -1,0 +1,356 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "저녁 식사 했어?",
+      "tokens": [
+        "저녁",
+        "식사",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저녁 먹었지 **는?",
+      "tokens": [
+        "저녁",
+        "먹",
+        "었",
+        "지",
+        "*",
+        "*",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 아직! 좀따 먹으려구",
+      "tokens": [
+        "나",
+        "는",
+        "아직",
+        "좀",
+        "따먹",
+        "으려구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 오늘 초밥 먹음 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "초밥",
+        "먹",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 마파두부 먹었음 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "마파두부",
+        "먹",
+        "었",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "올 키키 몇 피스 먹었어 키키",
+      "tokens": [
+        "올키",
+        "키",
+        "ETN",
+        "몇",
+        "피스",
+        "먹",
+        "었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "** 아직 밥 안먹어 뭐했어",
+      "tokens": [
+        "*",
+        "*",
+        "아직",
+        "밥",
+        "안",
+        "먹",
+        "어",
+        "뭐",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오늘 따로 먹었음 하하",
+      "tokens": [
+        "오늘",
+        "따로",
+        "먹",
+        "었",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "마파두부 맛있겠다 ㅠㅠ",
+      "tokens": [
+        "마파두부",
+        "맛있",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 방금 집옴",
+      "tokens": [
+        "난",
+        "JX",
+        "방금",
+        "집",
+        "옴"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나... 10피스 엄청 맛있",
+      "tokens": [
+        "나",
+        ".",
+        ".",
+        "10",
+        "피스",
+        "엄청",
+        "맛있"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "장모님표 마파두부 존맛 하하",
+      "tokens": [
+        "장모님",
+        "표마",
+        "파두",
+        "부존",
+        "맛",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 미니 우동은 어따 팔아먹었어 키키",
+      "tokens": [
+        "키",
+        "키",
+        "미니",
+        "우동",
+        "은",
+        "어따",
+        "JX",
+        "팔아먹",
+        "었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "와 그 초밥집 맛집 이더라",
+      "tokens": [
+        "와",
+        "그",
+        "초밥",
+        "집",
+        "맛집",
+        "이",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "식당 차리셔도 될듯 하하",
+      "tokens": [
+        "식당",
+        "차리",
+        "셔도",
+        "EC",
+        "될",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오호 마파두부 ㅜㅠㅜㅠ 밥 두공기 각",
+      "tokens": [
+        "오호",
+        "마파두부",
+        "ㅜㅠ",
+        "ㅜㅠ",
+        "밥",
+        "두공",
+        "기각"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "엄청 배고프겠는데?",
+      "tokens": [
+        "엄청",
+        "배고프",
+        "겠",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 먹어 보고싶다 초밥",
+      "tokens": [
+        "나",
+        "도",
+        "먹",
+        "어",
+        "보",
+        "고",
+        "싶",
+        "다",
+        "초밥"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "역시 장모님 밥이 최고야 키키",
+      "tokens": [
+        "역시",
+        "장모님",
+        "밥",
+        "이",
+        "최고",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

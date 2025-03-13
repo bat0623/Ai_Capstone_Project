@@ -1,0 +1,455 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "스트레스를 안 받아야 한다",
+      "tokens": [
+        "스트레스",
+        "를",
+        "안",
+        "받",
+        "아야",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "스트레스는 아주 만병의 근원 하하",
+      "tokens": [
+        "스트레스",
+        "는",
+        "아주",
+        "만병",
+        "의",
+        "근원",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞음 키키",
+      "tokens": [
+        "맞음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 근데 그거 알제 애플 워치",
+      "tokens": [
+        "나",
+        "근데",
+        "그거",
+        "알제",
+        "애플",
+        "워치"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "건강하려면 한귀듣 한귀흘 스킬 써야 해",
+      "tokens": [
+        "건강",
+        "하",
+        "려면",
+        "한귀",
+        "듣",
+        "한",
+        "ETM",
+        "귀",
+        "흘",
+        "스킬",
+        "써야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "** 스트레스 받니?",
+      "tokens": [
+        "*",
+        "*",
+        "스트레스",
+        "받",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "스트레스 테스트 해 봤나 키키",
+      "tokens": [
+        "스트레스",
+        "테스트",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "애플 워치 뭔데...?",
+      "tokens": [
+        "애플",
+        "워치",
+        "뭔데",
+        "VCP",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거 하면 항상 좋음 뜨던데 난",
+      "tokens": [
+        "그거",
+        "하",
+        "면",
+        "항상",
+        "좋",
+        "음",
+        "뜨",
+        "던데",
+        "난",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "풀이던데 빨간색이던데 키키",
+      "tokens": [
+        "풀",
+        "이",
+        "던데",
+        "EC",
+        "빨간색",
+        "이",
+        "던데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "스트레스 지수",
+      "tokens": [
+        "스트레스",
+        "지수"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "스트레스 테스트가 있어?",
+      "tokens": [
+        "스트레스",
+        "테스트",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "안 해 본 듯",
+      "tokens": [
+        "안",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "헐 왜 그런 거야 하하",
+      "tokens": [
+        "헐",
+        "왜",
+        "그런",
+        "거",
+        "야",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 진짜",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난 빨간색 무조건 키키 핵핵",
+      "tokens": [
+        "난",
+        "JX",
+        "빨간색",
+        "무조건",
+        "키",
+        "키",
+        "핵",
+        "핵"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 좋음 뜬다 키키",
+      "tokens": [
+        "아",
+        "좋",
+        "음",
+        "뜬",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "뭐? 스트레스 받나",
+      "tokens": [
+        "뭐",
+        "스트레스",
+        "받",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "난 초록색임 항상 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "초록색",
+        "임항",
+        "상하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "몰라",
+      "tokens": [
+        "몰라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나 행복한데 그럼 키키",
+      "tokens": [
+        "나",
+        "행복",
+        "한데",
+        "EC",
+        "그럼",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "왜 그래...?",
+      "tokens": [
+        "왜",
+        "그래",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "무슨 일이야",
+      "tokens": [
+        "무슨",
+        "일",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "스트레스 받는데도 초록색 하하",
+      "tokens": [
+        "스트레스",
+        "받",
+        "는데",
+        "도",
+        "초록색",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "술 마시면 좀 내려가던데 키키",
+      "tokens": [
+        "술",
+        "마시",
+        "면",
+        "좀",
+        "내려가",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

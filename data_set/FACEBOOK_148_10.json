@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 낚시 갈래 이번 주?",
+      "tokens": [
+        "우리",
+        "낚시",
+        "갈래",
+        "이번",
+        "주",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 요즘 축구를 배우고 있어",
+      "tokens": [
+        "나",
+        "는",
+        "요즘",
+        "축구",
+        "를",
+        "배우",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "낚시 좋지 배 타고 가자",
+      "tokens": [
+        "낚시",
+        "좋",
+        "지",
+        "배",
+        "타",
+        "고",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 낚시가 너무 좋아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "낚시",
+        "가",
+        "너무",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "낚시는 너무 재미없어",
+      "tokens": [
+        "낚시",
+        "는",
+        "너무",
+        "재미없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "요즘 농구 하는 게 재밌어",
+      "tokens": [
+        "요즘",
+        "농구",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "축구 다같이 한번 차자",
+      "tokens": [
+        "축구",
+        "다",
+        "같이",
+        "한번",
+        "차자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "차라리 구슬치기를 하겠어",
+      "tokens": [
+        "차라리",
+        "구슬치기",
+        "를",
+        "하",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아니야",
+      "tokens": [
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "농구를 ㄷ가ㅏㅌ이 하자",
+      "tokens": [
+        "농구",
+        "를",
+        "ㄷ",
+        "가",
+        "ㅏㅌ",
+        "이하자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 골키퍼를 잘해 아주 키키",
+      "tokens": [
+        "나",
+        "는",
+        "골키퍼",
+        "를",
+        "잘",
+        "해",
+        "EC",
+        "아주",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "농구는 너무 위험한 스포츠야",
+      "tokens": [
+        "농구",
+        "는",
+        "너무",
+        "위험",
+        "한",
+        "ETM",
+        "스포츠",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "야구도 재밌는데 해볼래?",
+      "tokens": [
+        "야구",
+        "도",
+        "재밌",
+        "는",
+        "데",
+        "해볼래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "농구는 당연 내가 짱이지",
+      "tokens": [
+        "농구",
+        "는",
+        "당연",
+        "내",
+        "가",
+        "짱",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나는 호날두 뺨치는 스트라이커야",
+      "tokens": [
+        "나",
+        "는",
+        "호날두",
+        "뺨치",
+        "는",
+        "스트라이커",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "내가 타자를 할게",
+      "tokens": [
+        "내",
+        "가",
+        "타자",
+        "를",
+        "할",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "조던 신발 신고 덩크 할꺼야",
+      "tokens": [
+        "조던",
+        "신발",
+        "신고",
+        "덩크",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 포수를 전문으로 해",
+      "tokens": [
+        "나",
+        "는",
+        "포수",
+        "를",
+        "전문",
+        "으로",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "홈런쳐서 모두 기쁘게 할거야",
+      "tokens": [
+        "홈런",
+        "쳐서",
+        "EC",
+        "모두",
+        "기쁘",
+        "게",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

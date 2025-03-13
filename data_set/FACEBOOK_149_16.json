@@ -1,0 +1,411 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 이번에 보톡스 맞으려고 키키",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "보톡스",
+        "맞",
+        "으려고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나도 보톡스 맞을려고 얼굴에 키키",
+      "tokens": [
+        "나",
+        "도",
+        "보톡스",
+        "맞",
+        "을려고",
+        "얼굴",
+        "에",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오 어디에 맞아?",
+      "tokens": [
+        "오",
+        "어디",
+        "에",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 관심 있어 ㅋ",
+      "tokens": [
+        "나도관심있어ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "보톡스 드라마틱 하더라고 진짜로 키키",
+      "tokens": [
+        "보톡스",
+        "드라마틱",
+        "하",
+        "더라고",
+        "진짜",
+        "로키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나도 한번 맞고 싶었어 진짜",
+      "tokens": [
+        "나",
+        "도",
+        "한",
+        "번",
+        "맞",
+        "고",
+        "싶",
+        "었",
+        "어",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "코에 많이 맞더라 키키 진짜",
+      "tokens": [
+        "코",
+        "에",
+        "많이",
+        "맞",
+        "더라",
+        "키",
+        "키",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "에고 보톡스 진짜 싸고 좋더라 키키",
+      "tokens": [
+        "에고",
+        "보톡스",
+        "진짜",
+        "싸",
+        "고",
+        "좋",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래 오 대박 신기해 키키",
+      "tokens": [
+        "그래",
+        "오",
+        "대박",
+        "신기",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "연예인들은 입술에도 맞고 키키 ㅇㅇ",
+      "tokens": [
+        "연예인",
+        "들",
+        "은",
+        "입술",
+        "에",
+        "도",
+        "맞",
+        "고",
+        "키",
+        "키",
+        "ETN",
+        "ㅇㅇ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "보톡스 맞고 관리나 하자 키키",
+      "tokens": [
+        "보톡스",
+        "맞",
+        "고",
+        "관리",
+        "나",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래 나도 코에 한번 맞아야게따 키키",
+      "tokens": [
+        "그래",
+        "나",
+        "도",
+        "코",
+        "에",
+        "한",
+        "번",
+        "맞",
+        "아야",
+        "게",
+        "따",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "신기하긴 하더라 근육 빼는 것도 있고 ㅋ",
+      "tokens": [
+        "신기",
+        "하",
+        "긴",
+        "JX",
+        "하",
+        "더라",
+        "근육",
+        "빼",
+        "는",
+        "것",
+        "도",
+        "있",
+        "고",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "보톡스가 좋아 주름도 펴지고 키키",
+      "tokens": [
+        "보톡스",
+        "가",
+        "좋",
+        "아",
+        "주름",
+        "도",
+        "펴지",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "마자 입술에도 맞더라 두툼하게 키키",
+      "tokens": [
+        "마자",
+        "입술",
+        "에",
+        "도",
+        "맞",
+        "더라",
+        "두툼",
+        "하",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 진짜 한번 맞아 봐야겠네 나도 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "한",
+        "번",
+        "맞",
+        "아",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "네",
+        "나",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "다음에 다같이 맞으러 가자 키키",
+      "tokens": [
+        "다음",
+        "에다",
+        "같이",
+        "맞",
+        "으러",
+        "가",
+        "자키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 너무 부자연하게 될 때도 있더라 키키",
+      "tokens": [
+        "근데",
+        "너무",
+        "부",
+        "자연",
+        "하",
+        "게",
+        "될",
+        "ETM",
+        "때",
+        "도",
+        "있",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그거 엉덩이에도 맞는다며 키키 진짜 키키",
+      "tokens": [
+        "그거",
+        "엉덩이",
+        "에",
+        "도",
+        "맞",
+        "는다며",
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

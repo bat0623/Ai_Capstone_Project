@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "당근마켓으로 130억치 판 아줌마 봄?",
+      "tokens": [
+        "당근",
+        "마켓",
+        "으로",
+        "130",
+        "억치판아줌마봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엥? 뭘 팔아서 그렇대",
+      "tokens": [
+        "엥",
+        "뭘",
+        "JKO",
+        "팔",
+        "아서",
+        "그렇",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 무릎이 넘모 아파...",
+      "tokens": [
+        "나",
+        "무릎",
+        "이",
+        "넘",
+        "모아",
+        "VV",
+        "EC",
+        "파",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "무릎보호대 살거야...",
+      "tokens": [
+        "무릎",
+        "보호",
+        "대",
+        "살",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "당근으로 탈세 했데",
+      "tokens": [
+        "당근",
+        "으로",
+        "탈세",
+        "했",
+        "EP",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뭐 강남 명품 팔았나",
+      "tokens": [
+        "뭐",
+        "강남",
+        "명품",
+        "팔",
+        "았",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 강남 재벌 사모님 키키",
+      "tokens": [
+        "아",
+        "강남",
+        "재벌",
+        "사모님",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 손목 보호대 살거야...",
+      "tokens": [
+        "난",
+        "JX",
+        "손",
+        "목보",
+        "호대",
+        "살",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 대단하다 대단해",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "대단",
+        "하",
+        "다",
+        "대단",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "장난 아니던데?",
+      "tokens": [
+        "장난",
+        "아니",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "명품을 무슨 떨이를 하던데",
+      "tokens": [
+        "명품",
+        "을",
+        "무슨",
+        "떨이",
+        "를",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "탈세를 당근으로 요새는 한다네...",
+      "tokens": [
+        "탈세",
+        "를",
+        "당근",
+        "으로",
+        "요새",
+        "는",
+        "한다네",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나는 산 적은 한번도 없네",
+      "tokens": [
+        "나",
+        "는",
+        "산적",
+        "은",
+        "한",
+        "번",
+        "도",
+        "없",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 당근하면 온도 있잖아... 100도 가까이 되던데",
+      "tokens": [
+        "그거",
+        "당근",
+        "하",
+        "면",
+        "온도",
+        "있",
+        "잖아",
+        ".",
+        ".",
+        "100",
+        "도",
+        "가까이",
+        "되",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "대단한 머리구먼 정말",
+      "tokens": [
+        "대단",
+        "한",
+        "ETM",
+        "머리",
+        "구먼",
+        "EF",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "팔고 나눔만 하고",
+      "tokens": [
+        "팔",
+        "고",
+        "나눔",
+        "ETN",
+        "만",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오 나 똥도 공짜면 먹는다.나한테 버려",
+      "tokens": [
+        "오나",
+        "똥",
+        "도",
+        "공짜",
+        "면",
+        "EC",
+        "먹",
+        "는다",
+        "나",
+        "한테",
+        "버려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 로봇 청소기 샀어! 좋아 좋아",
+      "tokens": [
+        "난",
+        "JX",
+        "로봇",
+        "청소기",
+        "샀",
+        "EP",
+        "어",
+        "좋",
+        "아",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 오호 사봐야겠네",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "호",
+        "사",
+        "봐야",
+        "VX",
+        "EC",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "로봇청소기 청소 잘해?",
+      "tokens": [
+        "로봇",
+        "청소기",
+        "청소",
+        "잘",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

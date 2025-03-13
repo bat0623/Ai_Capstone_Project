@@ -1,0 +1,703 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "연애 하면서 꼭 하고 싶은 거 있어?",
+      "tokens": [
+        "연애",
+        "하",
+        "면서",
+        "꼭",
+        "하",
+        "고",
+        "싶",
+        "은",
+        "거",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "음 웅 제주 한 달 살이!",
+      "tokens": [
+        "음웅제주한달살이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "너무 가고 싶어 물론 강아지랑^^",
+      "tokens": [
+        "너무",
+        "가",
+        "고",
+        "싶",
+        "어",
+        "물론",
+        "강아지",
+        "랑",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 제주 살이 재밌겠다",
+      "tokens": [
+        "오제",
+        "주살",
+        "이",
+        "재밌",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 가고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "가",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나두 나두",
+      "tokens": [
+        "나",
+        "두",
+        "나",
+        "두"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리 시간 좀 많았음 좋겠다ㅜ",
+      "tokens": [
+        "우리",
+        "시간",
+        "좀",
+        "많",
+        "았",
+        "음",
+        "좋",
+        "겠",
+        "다ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 시간이랑 돈만 많으면 난 행복할 거 같앙",
+      "tokens": [
+        "진짜",
+        "시간",
+        "이랑",
+        "돈",
+        "만",
+        "많",
+        "으면",
+        "난",
+        "ETM",
+        "행복",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "앙"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "시간이랑 돈만 있으면 제주도에서 골프만 치고 띵가띵가",
+      "tokens": [
+        "시간",
+        "이랑",
+        "돈",
+        "만",
+        "있",
+        "으면",
+        "제주도",
+        "에서",
+        "골프",
+        "만",
+        "치",
+        "고",
+        "띵",
+        "가",
+        "EC",
+        "띵",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "히히 좋긴 좋지",
+      "tokens": [
+        "히히",
+        "좋",
+        "긴",
+        "JX",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "같이 가자 [이모티콘]",
+      "tokens": [
+        "같이",
+        "가",
+        "자",
+        "이모티콘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 기승전 골프넼 키키",
+      "tokens": [
+        "키",
+        "키",
+        "기",
+        "승전",
+        "골프",
+        "넼키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "너희는 결혼하면 같이 라운딩도 가고 좋겠당",
+      "tokens": [
+        "너희",
+        "는",
+        "결혼",
+        "하",
+        "면",
+        "같이",
+        "라운",
+        "딩",
+        "도",
+        "가",
+        "고",
+        "좋",
+        "겠",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 띵띵가 띵띵가 하고 싶다",
+      "tokens": [
+        "키",
+        "키",
+        "띵띵",
+        "가",
+        "EC",
+        "띵띵",
+        "가하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "더 격렬하게 띵가하게",
+      "tokens": [
+        "더",
+        "격렬",
+        "하",
+        "게",
+        "띵",
+        "가하",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나두 나두",
+      "tokens": [
+        "나",
+        "두",
+        "나",
+        "두"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "열심히 돈 벌어서 빌딩 사서 돈 따박따박 나오면 같이 행복하게 띵가띵가 하면서 살아야지!",
+      "tokens": [
+        "열심히",
+        "돈",
+        "벌",
+        "어서",
+        "빌딩",
+        "사",
+        "서",
+        "돈",
+        "따박따박",
+        "나오",
+        "면",
+        "같이",
+        "행복",
+        "하",
+        "게",
+        "띵",
+        "가",
+        "EC",
+        "띵",
+        "가하",
+        "면서",
+        "살",
+        "아야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 띵띵가 웃기네",
+      "tokens": [
+        "키키띵띵가웃기네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "너희는 정말 찰떡이다",
+      "tokens": [
+        "너희",
+        "는",
+        "정말",
+        "찰떡",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "얘드라 파이팅!",
+      "tokens": [
+        "얘",
+        "드라",
+        "EF",
+        "파이팅"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "얼른 결혼 갈겨",
+      "tokens": [
+        "얼른",
+        "결혼",
+        "갈겨",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 빌딩 사자!",
+      "tokens": [
+        "키",
+        "키",
+        "빌딩",
+        "사자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "빌디잉!",
+      "tokens": [
+        "빌",
+        "디",
+        "잉"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "히히 맞아!",
+      "tokens": [
+        "히히",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "우리 열심히 돈 벌어서 부동산 투자해서 멋진 부부 돼보자 크크",
+      "tokens": [
+        "우리",
+        "열심히",
+        "돈",
+        "벌",
+        "어서",
+        "부동산",
+        "투자",
+        "해서",
+        "EC",
+        "멋진",
+        "ETM",
+        "부부",
+        "돼",
+        "EC",
+        "보",
+        "자",
+        "크크"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "믓찌다 믓찌다!",
+      "tokens": [
+        "믓찌다믓찌다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "너희는 주변 커플도 다 오래 사귀었어?",
+      "tokens": [
+        "너희",
+        "는",
+        "주변",
+        "커플",
+        "도",
+        "다",
+        "오래",
+        "사귀",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "키키 내 주변에는 그렇게 많지 않은 거 같아 ㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "내",
+        "JKG",
+        "주변",
+        "에",
+        "는",
+        "그렇게",
+        "많",
+        "지",
+        "않",
+        "은",
+        "거",
+        "같",
+        "아",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "내 주변도 너희랑 우리가 좀 오래된 것 같은데?",
+      "tokens": [
+        "내",
+        "JKG",
+        "주변",
+        "도",
+        "너희",
+        "랑",
+        "우리",
+        "가",
+        "좀",
+        "오래",
+        "된",
+        "ETM",
+        "것",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "근데 울 회사 사람들은 다들 오래되긴 했오!",
+      "tokens": [
+        "근데",
+        "울회",
+        "사",
+        "사람",
+        "들",
+        "은",
+        "다",
+        "들",
+        "오래",
+        "되",
+        "긴",
+        "JX",
+        "했",
+        "EP",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 32,
+      "text": "막 7년도 있구 11년도 있구... 넘 다양해",
+      "tokens": [
+        "막",
+        "7",
+        "년",
+        "도",
+        "있",
+        "구",
+        "11",
+        "년",
+        "도",
+        "있",
+        "구",
+        ".",
+        ".",
+        "넘",
+        "다양",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 33,
+      "text": "나는 한 커플?",
+      "tokens": [
+        "나",
+        "는",
+        "한",
+        "커플"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 34,
+      "text": "빼고는 다 나보다 오래된 거 같아",
+      "tokens": [
+        "빼",
+        "고",
+        "는",
+        "다",
+        "나",
+        "보다",
+        "오래",
+        "된",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 35,
+      "text": "오 엄청 많네!",
+      "tokens": [
+        "오",
+        "엄청",
+        "많",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 36,
+      "text": "오래 만나니까 너무 좋은 거 같아",
+      "tokens": [
+        "오래",
+        "만나",
+        "니까",
+        "너무",
+        "좋",
+        "은",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

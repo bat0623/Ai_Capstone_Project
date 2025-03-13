@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "코로나 사망자가 일주일에 5만 명이래...",
+      "tokens": [
+        "코로나",
+        "사망자",
+        "가",
+        "일",
+        "주일",
+        "에",
+        "5",
+        "만",
+        "명",
+        "이",
+        "래",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "전 세계에?",
+      "tokens": [
+        "전",
+        "세계",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "5만 명?",
+      "tokens": [
+        "5",
+        "만",
+        "명"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "와 대박이다... 키키",
+      "tokens": [
+        "와",
+        "대박",
+        "이",
+        "다",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "언제 끝날런지 ㅜㅜ",
+      "tokens": [
+        "언제끝날런지ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "한 달이면 25만 명은 죽는 듯... ㄷㄷ",
+      "tokens": [
+        "한",
+        "달",
+        "이",
+        "면",
+        "25",
+        "만",
+        "명",
+        "은",
+        "죽",
+        "는",
+        "듯",
+        ".",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "와 진짜 많네 ㅠㅠ",
+      "tokens": [
+        "와진짜많네ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "얼마 전에도 사람 죽었다덩데 ㅜㅜ",
+      "tokens": [
+        "얼마",
+        "전",
+        "에",
+        "도",
+        "사람",
+        "죽",
+        "었",
+        "다",
+        "덩데",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "엉 일주일에 전 세계에서 5만 명...!",
+      "tokens": [
+        "엉",
+        "일",
+        "주일",
+        "에",
+        "전",
+        "세계",
+        "에서",
+        "5",
+        "만",
+        "명",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진짜 무슨 음모론 같아",
+      "tokens": [
+        "진짜",
+        "무슨",
+        "음모",
+        "론",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 언제 끝나?",
+      "tokens": [
+        "진짜",
+        "언제",
+        "끝나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "끝날 기미가 없다 ~",
+      "tokens": [
+        "끝",
+        "날",
+        "기미",
+        "가",
+        "없",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "세계 인구를 줄이기 위한",
+      "tokens": [
+        "세계",
+        "인구",
+        "를",
+        "줄이",
+        "기",
+        "위한",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "끝나기는 할런지... 키키",
+      "tokens": [
+        "끝",
+        "나기",
+        "는",
+        "할런지",
+        "EC",
+        ".",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "한 달에  25만이면...",
+      "tokens": [
+        "한",
+        "달",
+        "에",
+        "25",
+        "만",
+        "이",
+        "면",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "와 일 년이면... 와",
+      "tokens": [
+        "와",
+        "일",
+        "년",
+        "이",
+        "면",
+        ".",
+        ".",
+        "와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "일부러 퍼트린 거 아냐 진짜?",
+      "tokens": [
+        "일부러",
+        "퍼트린",
+        "ETM",
+        "거",
+        "아냐",
+        "EF",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그거 예능에서 나오덩데 일부러",
+      "tokens": [
+        "그거",
+        "예능",
+        "에서",
+        "나오",
+        "덩데",
+        "일부러"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아이구 끝까지 조심하자 ㅠㅠ",
+      "tokens": [
+        "아이구",
+        "끝",
+        "까지",
+        "조심",
+        "하",
+        "자",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 대박이야",
+      "tokens": [
+        "진짜",
+        "대박",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "조심하자",
+      "tokens": [
+        "조심",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그래 그래",
+      "tokens": [
+        "그래",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "다들 조심하자",
+      "tokens": [
+        "다",
+        "들",
+        "조심",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

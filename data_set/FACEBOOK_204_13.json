@@ -1,0 +1,433 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 밖에 별로 안 춥...",
+      "tokens": [
+        "아",
+        "밖",
+        "에",
+        "별로",
+        "안",
+        "춥",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "내도 술 먹어서 안 춥더라 키키",
+      "tokens": [
+        "내",
+        "도",
+        "술",
+        "먹",
+        "어서",
+        "안",
+        "춥",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오늘 밤에 추운데? ㅠㅠ",
+      "tokens": [
+        "오늘",
+        "밤",
+        "에",
+        "추운데",
+        "EC",
+        "?",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "롱패딩 입고 나갔다가 땀 났어",
+      "tokens": [
+        "롱",
+        "패딩",
+        "입",
+        "고",
+        "나갔",
+        "EP",
+        "다가",
+        "땀",
+        "났",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이번 주에 비온다며",
+      "tokens": [
+        "이번",
+        "주",
+        "에",
+        "비",
+        "EC",
+        "온다며",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "짜증",
+      "tokens": [
+        "짜증"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 왜 오늘 춥지 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "왜",
+        "오늘",
+        "춥",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오늘 날씨 추워?",
+      "tokens": [
+        "오늘",
+        "날씨",
+        "추워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "롱패딩 입어서 땀 난 거 아이가 키키",
+      "tokens": [
+        "롱",
+        "패딩",
+        "입",
+        "어서",
+        "땀",
+        "난거",
+        "아이",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 누나 롱패딩이라서...",
+      "tokens": [
+        "아누",
+        "나롱",
+        "패딩",
+        "이",
+        "라서",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "안 추운 거 아니야? ...",
+      "tokens": [
+        "안",
+        "추운",
+        "ETM",
+        "거",
+        "아니",
+        "야",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 넘넘 따뜻한 듯...",
+      "tokens": [
+        "난넘넘따뜻한듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "롱패딩 입으면 졸 따실 듯",
+      "tokens": [
+        "롱",
+        "패딩",
+        "입",
+        "으면",
+        "졸",
+        "따",
+        "실",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 원래 10월부터 패딩 입음... 하하",
+      "tokens": [
+        "나",
+        "원래",
+        "10",
+        "월",
+        "부터",
+        "패딩",
+        "입음",
+        ".",
+        ".",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 롱패딩 벗고 싶었음...",
+      "tokens": [
+        "응",
+        "롱",
+        "패딩",
+        "벗",
+        "고",
+        "싶",
+        "었",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 한 12월 말쯤 입는다",
+      "tokens": [
+        "나",
+        "는",
+        "한",
+        "12",
+        "월",
+        "말",
+        "쯤",
+        "입",
+        "는다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "추위 핵 많이 타서...",
+      "tokens": [
+        "추위",
+        "핵",
+        "많이",
+        "타",
+        "서",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "유명해여 키키",
+      "tokens": [
+        "유명해",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 안에 나체라서 못 벗음...",
+      "tokens": [
+        "근데",
+        "안",
+        "에",
+        "나체",
+        "라서",
+        "EC",
+        "못",
+        "벗",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "남자는 강해야지",
+      "tokens": [
+        "남자",
+        "는",
+        "강",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "추위에 질 수 없지",
+      "tokens": [
+        "추위",
+        "에",
+        "질",
+        "ETM",
+        "수",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 아놔",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "놔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "꽁꽁 싸매야지",
+      "tokens": [
+        "꽁꽁",
+        "싸매",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

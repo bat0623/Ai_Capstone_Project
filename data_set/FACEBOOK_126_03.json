@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "진주 삼천포 간 지하철 뚫렸으면...",
+      "tokens": [
+        "진주",
+        "삼천포",
+        "간",
+        "지하철",
+        "뚫렸",
+        "EP",
+        "으면",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 지하철 생길 리가 없지 않나",
+      "tokens": [
+        "키",
+        "키",
+        "지하철",
+        "생길",
+        "ETM",
+        "리",
+        "가",
+        "없",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "지하철이 왜 거기 생기냐고 키키",
+      "tokens": [
+        "지하철",
+        "이",
+        "왜",
+        "거기",
+        "생기",
+        "냐고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "삼천포 갈 때 넘 편할 듯 ^^",
+      "tokens": [
+        "삼천포갈때넘편할듯",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 갈 때 편하긴 하겠지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "갈",
+        "ETM",
+        "때",
+        "편하",
+        "긴",
+        "JX",
+        "하",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "제주에나 생겼으면 좋겠다",
+      "tokens": [
+        "제주",
+        "에",
+        "나",
+        "생겼",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 키키",
+      "tokens": [
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "낚시 갈 때 불편해...",
+      "tokens": [
+        "낚시",
+        "갈",
+        "ETM",
+        "때",
+        "불편",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "제주는 좀 필요하다",
+      "tokens": [
+        "제주",
+        "는",
+        "좀",
+        "필요",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "내 볼 때",
+      "tokens": [
+        "내볼",
+        "ETM",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그니까 솔직히 제주는 가능성 있",
+      "tokens": [
+        "그니까",
+        "솔직히",
+        "제주",
+        "는",
+        "가능",
+        "성",
+        "있"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "지하철 넘넘 간절해",
+      "tokens": [
+        "지하철넘넘간절해"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 그놈의 낚시 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그놈",
+        "의",
+        "낚시",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "차 타고 가야지 키키",
+      "tokens": [
+        "차",
+        "타",
+        "고",
+        "가",
+        "야지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 낚시는 차 타고 가야지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "낚",
+        "시",
+        "는",
+        "차",
+        "타",
+        "고",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "제주도는 땅이 돌이라서 못 뚫을껄?",
+      "tokens": [
+        "제주도",
+        "는",
+        "땅",
+        "이",
+        "돌",
+        "이",
+        "라서",
+        "못",
+        "뚫",
+        "을껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "지하철 타고 가면 오히려 불편하다",
+      "tokens": [
+        "지하철",
+        "타",
+        "고",
+        "가",
+        "면",
+        "오히려",
+        "불편",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "장비 실어서 가야 하니까",
+      "tokens": [
+        "장비",
+        "실어서",
+        "EC",
+        "가",
+        "야",
+        "하",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그 밑에 다 현무암이라서 못 함",
+      "tokens": [
+        "그",
+        "밑",
+        "에다",
+        "현무암",
+        "이",
+        "라서",
+        "못함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 쁘레까로 박살 내야지 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "쁘레",
+        "까",
+        "로",
+        "박살내",
+        "야지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "쁘레까는 또 뭐임",
+      "tokens": [
+        "쁘레까는또뭐임"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

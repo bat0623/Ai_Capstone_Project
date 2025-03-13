@@ -1,0 +1,412 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 회사랑도 꽤나 가까운 듯!",
+      "tokens": [
+        "*",
+        "*",
+        "회사",
+        "랑",
+        "도",
+        "꽤",
+        "나",
+        "가까운",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "** 회사는 어디임?",
+      "tokens": [
+        "*",
+        "*",
+        "회사",
+        "는",
+        "어디",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 난 바로 앞이지 키키",
+      "tokens": [
+        "웅",
+        "난",
+        "JX",
+        "바로",
+        "앞",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니냐?",
+      "tokens": [
+        "아니",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "평거까지 완전 가깝",
+      "tokens": [
+        "평거",
+        "까지",
+        "완전",
+        "가깝"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "** 여기 영어학원 차리셈 하하",
+      "tokens": [
+        "*",
+        "*",
+        "여기영어학원차리셈하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "탑 마트 바로 앞이여 키키",
+      "tokens": [
+        "탑",
+        "마트",
+        "바로",
+        "앞",
+        "이",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**는 회사가 어디구?",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "회사",
+        "가",
+        "어디",
+        "구",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "여기 영어 학원 없는 듯 하하",
+      "tokens": [
+        "여기",
+        "영어",
+        "학원",
+        "없",
+        "는",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그러고 싶은 거기 없다매 키키",
+      "tokens": [
+        "그러",
+        "고",
+        "싶",
+        "은",
+        "거기",
+        "없",
+        "다매",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "여기가 입지가 괜찮은디?",
+      "tokens": [
+        "여기",
+        "가",
+        "입지",
+        "가",
+        "괜찮",
+        "은디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "원장님으로 업그레이드 하자 하하",
+      "tokens": [
+        "원장",
+        "님",
+        "으로",
+        "업그레이드",
+        "하",
+        "자",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "영어학원 없다 해서 갈랬는데 *랑 얘기하다가",
+      "tokens": [
+        "영어학원없다해서갈랬는데",
+        "*",
+        "랑",
+        "얘기",
+        "하",
+        "다가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "회사랑 가까이 살아야지",
+      "tokens": [
+        "회사",
+        "랑",
+        "가까이",
+        "살",
+        "아야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "여기 상가 아주 저렴 하하",
+      "tokens": [
+        "여기",
+        "상가",
+        "아주",
+        "저렴",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "원장 좋다 좋아 키키",
+      "tokens": [
+        "원장",
+        "좋",
+        "다",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "가자 가자",
+      "tokens": [
+        "가",
+        "자",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "여기 영어 학원 없는 듯",
+      "tokens": [
+        "여기",
+        "영어",
+        "학원",
+        "없",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "구니까 원장님 이리 오세요",
+      "tokens": [
+        "구",
+        "니까",
+        "원장",
+        "님",
+        "이",
+        "리오",
+        "세요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "상가 그래",
+      "tokens": [
+        "상가",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "싼 거 알아봐야겠다 키키",
+      "tokens": [
+        "싼",
+        "ETM",
+        "거",
+        "알",
+        "아",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

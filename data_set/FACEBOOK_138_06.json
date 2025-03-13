@@ -1,0 +1,328 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너 지금 졸업 했어?",
+      "tokens": [
+        "너",
+        "지금",
+        "졸업",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "졸업 했을걸 아마",
+      "tokens": [
+        "졸업",
+        "했",
+        "EP",
+        "을",
+        "걸",
+        "JKO",
+        "아마"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "이번에 졸업 해 하하",
+      "tokens": [
+        "이번",
+        "에",
+        "졸업",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이제 학생 아니냐?",
+      "tokens": [
+        "이제",
+        "학생",
+        "아니",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오 졸업 축하 해",
+      "tokens": [
+        "오",
+        "졸업",
+        "축하",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아직 학생 신분이야 키키",
+      "tokens": [
+        "아직",
+        "학생",
+        "신분",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요새는 졸업식도 안 하니?",
+      "tokens": [
+        "요새",
+        "는",
+        "졸업식",
+        "도",
+        "안",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "앞으로 열심히 해보자",
+      "tokens": [
+        "앞",
+        "으로",
+        "열심히",
+        "해",
+        "EC",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "얼른 졸업 하고 시ㅠ어",
+      "tokens": [
+        "얼른",
+        "졸업",
+        "하",
+        "고",
+        "시ㅠ",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오 졸업 축하해 사회인이 되었넹",
+      "tokens": [
+        "오",
+        "졸업",
+        "축하",
+        "해",
+        "EC",
+        "사회인",
+        "이",
+        "되",
+        "었",
+        "넹"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "졸업식 비대면으로 하는 갑던데",
+      "tokens": [
+        "졸업",
+        "식비",
+        "대면",
+        "으로",
+        "하",
+        "는",
+        "갑",
+        "던데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "취업 준비 중이지 요즘",
+      "tokens": [
+        "취업",
+        "준비",
+        "중",
+        "이",
+        "지",
+        "요즘"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "얼른 졸업하고 싶다고?",
+      "tokens": [
+        "얼른",
+        "졸업",
+        "하",
+        "고",
+        "싶",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아닌가 하하",
+      "tokens": [
+        "아닌가",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "취업 준비 화이팅",
+      "tokens": [
+        "취업",
+        "준비",
+        "화이팅"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "사회 나오면 백수야,",
+      "tokens": [
+        "사회",
+        "나오",
+        "면",
+        "백수",
+        "야",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "졸업하면 더 스트레스일 껄...",
+      "tokens": [
+        "졸업하면더스트레스일껄",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "좋은 소식 있겠지 하하",
+      "tokens": [
+        "좋",
+        "은",
+        "소식",
+        "있",
+        "겠",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "백수 된다 봐야지...",
+      "tokens": [
+        "백수",
+        "된다",
+        "EC",
+        "봐야지",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

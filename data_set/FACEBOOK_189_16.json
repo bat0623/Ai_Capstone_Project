@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 외모가 마음에 안들어 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "외모",
+        "가",
+        "마음",
+        "에",
+        "안",
+        "들",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 머리가 너무 빠져 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "머리",
+        "가",
+        "너무",
+        "빠져",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "머리가 너무 길어서 문제야",
+      "tokens": [
+        "머리",
+        "가",
+        "너무",
+        "길",
+        "어서",
+        "문제",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "피부부터 고쳐야 겠어 ㅠㅠ",
+      "tokens": [
+        "피부",
+        "부터",
+        "고쳐야",
+        "EC",
+        "VX",
+        "겠",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "신은 참 공평한것 같아",
+      "tokens": [
+        "신",
+        "은",
+        "참",
+        "공평",
+        "한",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "파마할려고 하는데 어디가 좋을까",
+      "tokens": [
+        "파마",
+        "할려고",
+        "EC",
+        "하",
+        "는데",
+        "어디",
+        "가",
+        "좋",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니면 머리를 바꿔볼까?",
+      "tokens": [
+        "아니면",
+        "머리",
+        "를",
+        "바꿔",
+        "EC",
+        "볼까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "요즘에 흰머리도 나고 있어",
+      "tokens": [
+        "요즘",
+        "에",
+        "흰머리",
+        "도",
+        "나",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "탈모는 샴푸 두번해야 돼",
+      "tokens": [
+        "탈모",
+        "는",
+        "샴푸",
+        "두",
+        "번",
+        "해야",
+        "EC",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "삭발이라도 해서 변화를 줄까?",
+      "tokens": [
+        "삭발",
+        "이",
+        "라도",
+        "해서",
+        "EC",
+        "변화",
+        "를",
+        "줄까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "피부과는 너무 비싸잖아 ㅠㅠ",
+      "tokens": [
+        "피부과",
+        "는",
+        "너무",
+        "비싸",
+        "잖아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "탈모는 머리관리 안해도 좋겠다",
+      "tokens": [
+        "탈모",
+        "는",
+        "머리",
+        "관리",
+        "안",
+        "해도",
+        "EC",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "샴푸가 엄청 안좋다더라구",
+      "tokens": [
+        "샴푸",
+        "가",
+        "엄청",
+        "안",
+        "좋",
+        "다",
+        "더라구",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "삭발하면 확실이 인상이 좋아져",
+      "tokens": [
+        "삭발",
+        "하",
+        "면",
+        "확실이",
+        "인상",
+        "이",
+        "좋",
+        "아",
+        "져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 탈모가 걸렸으면 해",
+      "tokens": [
+        "나",
+        "도",
+        "탈모",
+        "가",
+        "걸렸",
+        "EP",
+        "으면",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래도 관리를 해야겠어 이제",
+      "tokens": [
+        "그래도",
+        "관리",
+        "를",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "어",
+        "이제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "야전삽 짱재같은 남자가 되고 싶어",
+      "tokens": [
+        "야전삽",
+        "짱",
+        "재",
+        "같",
+        "은",
+        "남자",
+        "가",
+        "되",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "두피마사지 잘하는데가 있어",
+      "tokens": [
+        "두피",
+        "마사지",
+        "잘",
+        "하",
+        "는",
+        "데",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

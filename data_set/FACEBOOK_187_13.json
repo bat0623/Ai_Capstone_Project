@@ -1,0 +1,462 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내일 비 온다더라 키키",
+      "tokens": [
+        "내일",
+        "비온다",
+        "더라",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우산 챙겨 키키",
+      "tokens": [
+        "우산",
+        "챙겨",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 우산 챙겨야겠네",
+      "tokens": [
+        "진짜",
+        "우산",
+        "챙겨야",
+        "EC",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "추워지니까 모기가 집 안으로 들어오네 키키",
+      "tokens": [
+        "추워",
+        "EC",
+        "지",
+        "니까",
+        "모기",
+        "가",
+        "집안",
+        "으로",
+        "들어오",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응응 우산 무조건 챙겨야 함 키키",
+      "tokens": [
+        "응",
+        "응",
+        "우산",
+        "무조건",
+        "챙겨야",
+        "EC",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 맨날 안 챙겨서 이번엔 챙겨야지",
+      "tokens": [
+        "나",
+        "는",
+        "맨날",
+        "안",
+        "챙겨서",
+        "EC",
+        "이번",
+        "엔",
+        "JX",
+        "챙겨야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "지금도 비 오는 거 아니야?",
+      "tokens": [
+        "지금",
+        "도",
+        "비오",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데? 키키",
+      "tokens": [
+        "근데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 아직도 모기가 있나? 키키",
+      "tokens": [
+        "키",
+        "키",
+        "아직",
+        "도",
+        "모기",
+        "가",
+        "있",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "꼭 챙길게 고마웡 키키",
+      "tokens": [
+        "꼭",
+        "챙길",
+        "ETM",
+        "게",
+        "JKS",
+        "고마",
+        "웡",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "곧 있으면 눈 올 수도 있겠네 키키",
+      "tokens": [
+        "곧",
+        "있",
+        "으면",
+        "눈",
+        "올",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "겠",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "지금 비와?",
+      "tokens": [
+        "지금",
+        "비와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오바야 키키",
+      "tokens": [
+        "오바",
+        "야키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "내일 일 가는데 키키",
+      "tokens": [
+        "내일",
+        "일가",
+        "는",
+        "데키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "설마 아직도 모기가?",
+      "tokens": [
+        "설마",
+        "아직",
+        "도",
+        "모기",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리 집은 모기 많더라 따뜻해서 그런가? 키키",
+      "tokens": [
+        "우리집은모기많더라따뜻해서그런가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "모기 짜증난다 진짜 키키",
+      "tokens": [
+        "모기",
+        "짜증",
+        "난다",
+        "EF",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "에이 설마 모기가 이 추운 날? 키키 대박 키키",
+      "tokens": [
+        "에이",
+        "설마",
+        "모기",
+        "가",
+        "이",
+        "추운",
+        "ETM",
+        "날",
+        "?",
+        "키키대박키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "전기 모기채 필수야 키키 진짜 키키",
+      "tokens": [
+        "전",
+        "기모",
+        "기채",
+        "필수",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나도 저번주에 있었어 키키 모기",
+      "tokens": [
+        "나",
+        "도",
+        "저번",
+        "주",
+        "에",
+        "있",
+        "었",
+        "어",
+        "키",
+        "키",
+        "모기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "신기하다",
+      "tokens": [
+        "신기",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "모기 너무 시러 나도",
+      "tokens": [
+        "모기",
+        "너무",
+        "시러",
+        "EC",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "물리면 짱 가려워 진짜로 키키",
+      "tokens": [
+        "물리",
+        "면",
+        "짱",
+        "가려워",
+        "EC",
+        "진짜",
+        "로키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 남친이랑 다담주 제주도 간다!",
+      "tokens": [
+        "나",
+        "남친",
+        "이랑",
+        "다담",
+        "주제",
+        "주도",
+        "간다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 더블로 여행 같이 가자",
+      "tokens": [
+        "우리",
+        "더블",
+        "로",
+        "여행",
+        "같이",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "응...? 더블 데이트 하잔 거야?",
+      "tokens": [
+        "응",
+        ".",
+        ".",
+        "더블데이트",
+        "하",
+        "잔",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "제주도 나도 가고 싶은데 ㅠㅠ 제주도 델고 가",
+      "tokens": [
+        "제주도",
+        "나",
+        "도",
+        "가",
+        "고",
+        "싶",
+        "은데",
+        "ㅠㅠ",
+        "제주도",
+        "델",
+        "JKO",
+        "고가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "안돼 오빤 여친이랑 다른 곳 가~ 하하",
+      "tokens": [
+        "안",
+        "돼",
+        "EC",
+        "오빤",
+        "VCP",
+        "JX",
+        "여친",
+        "이랑",
+        "다른",
+        "곳",
+        "가",
+        "~",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "왜 나 제주도 가고 싶단 말야",
+      "tokens": [
+        "왜",
+        "나",
+        "제주",
+        "도",
+        "가",
+        "고",
+        "싶",
+        "단",
+        "말",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요즘 제주도 억새가 이쁘다 해서 가긴 가야 해",
+      "tokens": [
+        "요즘",
+        "제주도",
+        "억새",
+        "가",
+        "이쁘",
+        "다",
+        "해서",
+        "EC",
+        "가",
+        "긴가",
+        "VCP",
+        "EC",
+        "야해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 아 진짜 억새가 이쁘대?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜",
+        "억새",
+        "가",
+        "이쁘",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 모르겠다",
+      "tokens": [
+        "난",
+        "JX",
+        "모르",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아 억새가 요즘 이쁘긴 하더라고~  sns 억새 도배야",
+      "tokens": [
+        "맞아억새가요즘이쁘긴하더라고",
+        "~",
+        "sns",
+        "억새",
+        "도",
+        "배",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "진짜 억새 보러 거기까지 간다고?",
+      "tokens": [
+        "진짜",
+        "억새",
+        "보러",
+        "거기",
+        "까지",
+        "간다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 라면 먹으러 일본 가고 싶다",
+      "tokens": [
+        "난",
+        "JX",
+        "라면",
+        "EC",
+        "먹",
+        "으러",
+        "일본",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "지금 해외여행 가지도 못하는데 뭘...",
+      "tokens": [
+        "지금",
+        "해외여행",
+        "가지",
+        "도",
+        "못하",
+        "는데",
+        "뭘",
+        "JKO",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "제주도 가면 진짜 흑돼지 꼭 먹고 와",
+      "tokens": [
+        "제주",
+        "도",
+        "가",
+        "면",
+        "진짜",
+        "흑",
+        "돼지",
+        "꼭",
+        "먹",
+        "고",
+        "와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "당연하지 이번에 흑돼지 맛집 예약하려고!",
+      "tokens": [
+        "당연",
+        "하",
+        "지",
+        "이번",
+        "에",
+        "흑",
+        "돼지",
+        "맛집",
+        "예약",
+        "하",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "고사리 해장국이랑 그거 고기 국수 알지 먹어야 하는 거",
+      "tokens": [
+        "고사리",
+        "해장국",
+        "이랑",
+        "그거",
+        "고기",
+        "국수",
+        "알",
+        "지",
+        "먹",
+        "어야",
+        "하",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "알지 키키 나 제주도 매니아라서 다 알아",
+      "tokens": [
+        "알",
+        "지",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "제주도",
+        "매니아",
+        "라서",
+        "EC",
+        "다",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 제주도는 맛집이 너무 많아 좋아",
+      "tokens": [
+        "아",
+        "제주도",
+        "는",
+        "맛집",
+        "이",
+        "너무",
+        "많",
+        "아",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

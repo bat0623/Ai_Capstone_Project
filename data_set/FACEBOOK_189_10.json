@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번주 지리산 등산가자",
+      "tokens": [
+        "이번",
+        "주",
+        "지리산",
+        "등산",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 탁구가 너무 재밌어",
+      "tokens": [
+        "요즘",
+        "에",
+        "탁구",
+        "가",
+        "너무",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "지리산은 너무힘들어서 뒷산가자",
+      "tokens": [
+        "지리산",
+        "은",
+        "너무",
+        "힘들",
+        "어서",
+        "뒷산",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 요즘 등산이 너무 재밌어 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "요즘",
+        "등산",
+        "이",
+        "너무",
+        "재밌",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "드라이브 넣는게 너무 짜릿해",
+      "tokens": [
+        "드라이브",
+        "넣",
+        "는",
+        "게",
+        "JKS",
+        "너무",
+        "짜릿",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "탁구치면 드라이브 엄청 잘넣어",
+      "tokens": [
+        "탁구",
+        "치",
+        "면",
+        "드라이브",
+        "엄청",
+        "잘",
+        "넣",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "천왕봉 찍고 오자 다같이 키키",
+      "tokens": [
+        "천왕봉",
+        "찍",
+        "고",
+        "오",
+        "자",
+        "다",
+        "같이",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "등산은 너무 힘들지 않아?",
+      "tokens": [
+        "등산",
+        "은",
+        "너무",
+        "힘들",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "탁구치면 내 서브 한번도 못받을걸",
+      "tokens": [
+        "탁구",
+        "치",
+        "면",
+        "내",
+        "서",
+        "브",
+        "한",
+        "번",
+        "도",
+        "못",
+        "받",
+        "을",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "탁구는 드라이브가 제맛이지 키키",
+      "tokens": [
+        "탁구",
+        "는",
+        "드라이브",
+        "가",
+        "제맛",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "내가 군대 있을 때 지리산은 뛰어서 올라갔어",
+      "tokens": [
+        "내",
+        "가",
+        "군대",
+        "있",
+        "을",
+        "때",
+        "지리산",
+        "은",
+        "뛰",
+        "어서",
+        "올라갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "지리산말고 가좌산을 가자",
+      "tokens": [
+        "지리산",
+        "말",
+        "고가",
+        "좌산",
+        "을",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "월아산이라도 갔다오자 이번주 키키",
+      "tokens": [
+        "월아산",
+        "이",
+        "라도",
+        "갔다오",
+        "자",
+        "이번",
+        "주",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "내 별명이 탁구왕 김핑퐁이야",
+      "tokens": [
+        "내",
+        "JKG",
+        "별명",
+        "이",
+        "탁구",
+        "왕",
+        "김",
+        "핑퐁",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "탁구 말고 테니스를 치자",
+      "tokens": [
+        "탁구",
+        "말",
+        "고",
+        "테니스",
+        "를",
+        "치",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "가좌산 너무 시시해서 싫어 키키",
+      "tokens": [
+        "가좌",
+        "산",
+        "너무",
+        "시시",
+        "해서",
+        "EC",
+        "싫",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "월아산 너무 이쁘지 ㅠㅠ",
+      "tokens": [
+        "월아산",
+        "너무",
+        "이쁘",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "테니스 치면 한판도 안질 잔신있어",
+      "tokens": [
+        "테니스",
+        "치",
+        "면",
+        "한판",
+        "도",
+        "안",
+        "질",
+        "잔",
+        "신",
+        "JX",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

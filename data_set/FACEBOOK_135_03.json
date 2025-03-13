@@ -1,0 +1,406 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난폭 운전하시는 분 있나여...",
+      "tokens": [
+        "난폭",
+        "운전",
+        "하",
+        "시",
+        "는",
+        "분",
+        "있",
+        "나",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 너무 싫지 키키",
+      "tokens": [
+        "아",
+        "너무",
+        "싫",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 동승자 위주 운전",
+      "tokens": [
+        "나",
+        "는",
+        "동승자",
+        "위주",
+        "운전"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "저는 안전 운전입니당...",
+      "tokens": [
+        "저",
+        "는",
+        "안전",
+        "운전",
+        "입",
+        "니당",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "도로에서 왜 목숨을 걸고 난폭 운전을 할까여?",
+      "tokens": [
+        "도로",
+        "에서",
+        "왜",
+        "목숨",
+        "을",
+        "걸",
+        "고",
+        "난폭운전",
+        "을",
+        "할까",
+        "EF",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 진짜 키키 한문철 티비 보면",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "키키",
+        "한문철",
+        "티비",
+        "보",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "차 타고 다니다 보면... 완전 뒤에 붙어서",
+      "tokens": [
+        "차",
+        "타",
+        "고",
+        "다니",
+        "다",
+        "보",
+        "면",
+        ".",
+        ".",
+        "완전",
+        "뒤",
+        "에",
+        "붙",
+        "어서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "느므 싫다 정말 극혐",
+      "tokens": [
+        "느므싫다정말극혐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "속 뒤집어지더라 이상한 사람들",
+      "tokens": [
+        "속",
+        "뒤집",
+        "어",
+        "지",
+        "더라",
+        "이상",
+        "한",
+        "ETM",
+        "사람",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "압박하고 하는 사람들 너무 많음 ㅠㅠ",
+      "tokens": [
+        "압박",
+        "하",
+        "고",
+        "하",
+        "는",
+        "사람",
+        "들",
+        "너무",
+        "많",
+        "음",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "블랙박스 나 완전 애청자거든",
+      "tokens": [
+        "블랙박스",
+        "나",
+        "완전",
+        "애청자",
+        "거든",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "운전을 왜 그렇게 하는 거야 ㅠㅠ",
+      "tokens": [
+        "운전",
+        "을",
+        "왜",
+        "그렇게",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 그냥 비켜 주고 말아",
+      "tokens": [
+        "그래서",
+        "그냥",
+        "비켜",
+        "EC",
+        "주",
+        "고",
+        "말",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "거기 이상한 사람들 너무 많이 나옴",
+      "tokens": [
+        "거기",
+        "이상",
+        "한",
+        "ETM",
+        "사람",
+        "들",
+        "너무",
+        "많이",
+        "나옴",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "별의별 사람들 진짜 많음",
+      "tokens": [
+        "별의별",
+        "사람",
+        "들",
+        "진짜",
+        "많",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난폭 운전 너무 많아",
+      "tokens": [
+        "난폭운전",
+        "너무",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "면허를 너무 아무나 주는 듯",
+      "tokens": [
+        "면허",
+        "를",
+        "너무",
+        "아무",
+        "나",
+        "주",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "좀 더 어렵게 해야 해",
+      "tokens": [
+        "좀",
+        "더",
+        "어렵",
+        "게",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 조심해야 해...",
+      "tokens": [
+        "진짜",
+        "조심",
+        "해야",
+        "EC",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "위험하니까",
+      "tokens": [
+        "위험",
+        "하",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

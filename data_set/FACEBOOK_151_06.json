@@ -1,0 +1,491 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네 나중에 대학 갈 생각 없어?",
+      "tokens": [
+        "너",
+        "네",
+        "나중",
+        "에",
+        "대학",
+        "갈",
+        "ETM",
+        "생각",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 이미 졸업하고 취업의 길로...",
+      "tokens": [
+        "나",
+        "는",
+        "이미",
+        "졸업",
+        "하",
+        "고",
+        "취업",
+        "의",
+        "길",
+        "로",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 그냥 안 갈거 같아 키키",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "안",
+        "갈",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "요즘 취업하고 나서 대학 많이 가!",
+      "tokens": [
+        "요즘",
+        "취업",
+        "하",
+        "고",
+        "나",
+        "서",
+        "대학",
+        "많이",
+        "가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그건 몰랐어 키키!",
+      "tokens": [
+        "그건",
+        "JX",
+        "몰랐",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 야간대학도 많이 있던데?",
+      "tokens": [
+        "아",
+        "야간",
+        "대학",
+        "도",
+        "많이",
+        "있",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "선취업 후진학이라구~ 재직자 전형으로 대학가",
+      "tokens": [
+        "선취업후진학이라구",
+        "~",
+        "재직",
+        "자전",
+        "형",
+        "으로",
+        "대학가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그거 들어 봤어!",
+      "tokens": [
+        "그거",
+        "들",
+        "어",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 아마 그걸로 갈 거 같아",
+      "tokens": [
+        "나",
+        "도",
+        "아마",
+        "그걸로",
+        "JKB",
+        "갈",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 근데 취업해서 필요로 하면 진학 하는 거 같긴 하더라",
+      "tokens": [
+        "아",
+        "근데",
+        "취업",
+        "해서",
+        "EC",
+        "필요",
+        "로",
+        "하",
+        "면",
+        "진학",
+        "하",
+        "는",
+        "거",
+        "같",
+        "긴",
+        "JX",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "4년제는 힘들고 전문 대학 많이 가더라",
+      "tokens": [
+        "4",
+        "년",
+        "제",
+        "는",
+        "힘들",
+        "고",
+        "전문",
+        "대학",
+        "많이",
+        "가",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "전문대로?",
+      "tokens": [
+        "전문",
+        "대로"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 2년제인가 3년제잖아!",
+      "tokens": [
+        "그거",
+        "2",
+        "년",
+        "제인",
+        "가",
+        "3",
+        "년",
+        "제",
+        "잖아",
+        "EC",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "짧고 굵게 갔다 오는 것도 나쁘지 않을 것 같아",
+      "tokens": [
+        "짧",
+        "고",
+        "굵",
+        "게",
+        "갔다오",
+        "는",
+        "것",
+        "도",
+        "나쁘",
+        "지",
+        "않",
+        "을",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그치 키키",
+      "tokens": [
+        "그치",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "4년 다니긴 힘들지 않을까?",
+      "tokens": [
+        "4",
+        "년",
+        "다니",
+        "긴",
+        "JX",
+        "힘들",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "일 하면서면 뭐든  힘들긴 하지... ㅠㅠ",
+      "tokens": [
+        "일",
+        "하",
+        "면서",
+        "면",
+        "뭐",
+        "든",
+        "EC",
+        "힘들",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "일 끝나고 피곤한데 하려면 힘들 듯 ㅠㅠ",
+      "tokens": [
+        "일",
+        "끝",
+        "나",
+        "고",
+        "피곤",
+        "한",
+        "ETM",
+        "데",
+        "하",
+        "려면",
+        "힘들",
+        "듯",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그치 키키",
+      "tokens": [
+        "그치",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "대학교도 은근 과제나 공부량이 많아",
+      "tokens": [
+        "대학교",
+        "도",
+        "은근",
+        "과제",
+        "나",
+        "공부",
+        "량",
+        "이",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "야간대학 이런 거 다니면 괜찮지 않을까...?!",
+      "tokens": [
+        "야간",
+        "대학",
+        "이런",
+        "거",
+        "다니",
+        "면",
+        "괜찮",
+        "지",
+        "않",
+        "을까",
+        ".",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "과제 하는 게 어려울 것 같아 키키",
+      "tokens": [
+        "과제",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "어려울",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

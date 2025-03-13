@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "파라 바이러스가 난리임...!",
+      "tokens": [
+        "파라",
+        "바이러스",
+        "가",
+        "난리",
+        "임",
+        "ETN",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "파리인플루엔자가 정식 용어란다",
+      "tokens": [
+        "파리",
+        "인플루엔자",
+        "가",
+        "정식",
+        "용어",
+        "란",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래 ㅜㅜ 난리다 우리 학원도",
+      "tokens": [
+        "그래",
+        "EC",
+        "ㅜㅜ",
+        "난리",
+        "다",
+        "EF",
+        "우리",
+        "학원",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "황소 조카도 걸렸데 ㅠㅠ",
+      "tokens": [
+        "황소",
+        "조카",
+        "도",
+        "걸렸",
+        "EP",
+        "데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거 근데 증상이 뭐임",
+      "tokens": [
+        "그거",
+        "근데",
+        "증상",
+        "이",
+        "뭐",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 좀 그거 갠춘해짐 이번주는",
+      "tokens": [
+        "근데",
+        "좀",
+        "그거",
+        "갠",
+        "ETM",
+        "춘",
+        "해짐",
+        "EC",
+        "VX",
+        "ETN",
+        "이",
+        "번",
+        "주",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "** 학원 애기들도 난리임?",
+      "tokens": [
+        "*",
+        "*",
+        "학원",
+        "애기",
+        "들",
+        "도",
+        "난리",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "** 학원 애들 몇살임",
+      "tokens": [
+        "*",
+        "*",
+        "학원",
+        "애",
+        "들",
+        "몇",
+        "살",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "고열이 심해가지고 ㅜㅜ 애기들은 위험",
+      "tokens": [
+        "고열",
+        "이",
+        "심해",
+        "EC",
+        "가지",
+        "고",
+        "ㅜㅜ",
+        "애기",
+        "들",
+        "은",
+        "위험"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그게 고열이 특징이라던데",
+      "tokens": [
+        "그게",
+        "JKS",
+        "고열",
+        "이",
+        "특징",
+        "이",
+        "라던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그거 특별방역 한다던데",
+      "tokens": [
+        "그거",
+        "특별",
+        "방역",
+        "한다던데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "웅 고열인데 안 내린데 열이",
+      "tokens": [
+        "웅고",
+        "열",
+        "인데",
+        "EC",
+        "안",
+        "내린",
+        "ETM",
+        "데",
+        "열",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "특별 방역을 한데?",
+      "tokens": [
+        "특별",
+        "방역",
+        "을",
+        "한데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "고열이면 엄청 안 좋은 거네",
+      "tokens": [
+        "고열",
+        "이",
+        "면",
+        "엄청",
+        "안",
+        "좋",
+        "은",
+        "거",
+        "네",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 이게 걔네가 돌아다니지도 않는데",
+      "tokens": [
+        "근데",
+        "이게",
+        "JKS",
+        "걔",
+        "네",
+        "가",
+        "돌아다니",
+        "지",
+        "도",
+        "않",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "10명중에 9명이  6세 미만이래",
+      "tokens": [
+        "10",
+        "명",
+        "중",
+        "에",
+        "9",
+        "명",
+        "이",
+        "6",
+        "세미",
+        "만",
+        "이래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "면역이 바이러스랑 싸운다는거임",
+      "tokens": [
+        "면역",
+        "이",
+        "바이러스",
+        "랑",
+        "싸운다는",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "왜그런겨 ㅜㅜ어찌옮아",
+      "tokens": [
+        "왜",
+        "그런겨",
+        "EF",
+        "ㅜㅜ",
+        "어찌",
+        "옮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_157_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

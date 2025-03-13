@@ -1,0 +1,362 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오징어 게임 ost 지겨워 지겨워...",
+      "tokens": [
+        "오징어",
+        "게임",
+        "ost",
+        "지겨워",
+        "EC",
+        "지겨워",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 아직도 난리가 오겜",
+      "tokens": [
+        "키",
+        "키",
+        "아직",
+        "도",
+        "난리",
+        "가",
+        "오",
+        "겜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘 뭐만 하면 나오더라 진짜",
+      "tokens": [
+        "요즘",
+        "뭐",
+        "만",
+        "하",
+        "면",
+        "나오",
+        "더라",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "틀면 그 노래 나와 ㅠ",
+      "tokens": [
+        "틀면그노래나와ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 예능에서도 많이 써먹제",
+      "tokens": [
+        "키",
+        "키",
+        "예능",
+        "에서",
+        "도",
+        "많이",
+        "써먹",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "들을 때 마다 질린다 이제는",
+      "tokens": [
+        "들",
+        "을",
+        "때",
+        "마다",
+        "질린다",
+        "EF",
+        "이제",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "세상을 지배 했다 그 노래가",
+      "tokens": [
+        "세상",
+        "을",
+        "지배",
+        "했",
+        "EP",
+        "다",
+        "그",
+        "노래",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 진짜 세계를 지배함",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "세계",
+        "를",
+        "지배",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 오징어게임 세계 지배설",
+      "tokens": [
+        "키",
+        "키",
+        "오징어",
+        "게임",
+        "세계",
+        "지배",
+        "설"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엉 들을 때 마다 질린다 키키",
+      "tokens": [
+        "엉",
+        "들",
+        "을",
+        "때",
+        "마다",
+        "질린",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "또 재밌는 거 뭐하나 나오면 안 나오겠지 뭐 키키",
+      "tokens": [
+        "또",
+        "재밌",
+        "는",
+        "거",
+        "뭐",
+        "하나",
+        "나오",
+        "면",
+        "안",
+        "나오",
+        "겠",
+        "지",
+        "뭐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "뭔가 새로운게 빨ㄹ ㅣ나와야한다",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "새로운",
+        "ETM",
+        "게",
+        "JKS",
+        "빨",
+        "ETM",
+        "ㄹ",
+        "ㅣ",
+        "나와야",
+        "EC",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 좋아하는  ost 있니?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "ost",
+        "있",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "디피도 난리였다가 오겜 덕에 최단기 퇴물됐다이가 키키",
+      "tokens": [
+        "디피",
+        "도",
+        "난리",
+        "였",
+        "EP",
+        "다가",
+        "오겜",
+        "덕",
+        "에",
+        "최",
+        "단기",
+        "퇴물",
+        "됐",
+        "EP",
+        "다",
+        "이",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 지브리 만화 ost다 좋아함",
+      "tokens": [
+        "나",
+        "지브리",
+        "만화",
+        "ost",
+        "다",
+        "좋",
+        "아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마자 디피 훅 가버렸어... 기억에서 지워졌어",
+      "tokens": [
+        "마자",
+        "디피",
+        "훅",
+        "가",
+        "버렸",
+        "VX",
+        "EP",
+        "어",
+        ".",
+        "기억",
+        "에서",
+        "지워졌",
+        "EC",
+        "VX",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 오에스티는 저거 저거 비긴어게인 ㅋ 키키",
+      "tokens": [
+        "나",
+        "는",
+        "오",
+        "에스티",
+        "는",
+        "저거",
+        "저거",
+        "비긴",
+        "ETM",
+        "어게인",
+        "ㅋ키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

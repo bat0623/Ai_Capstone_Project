@@ -1,0 +1,419 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 오늘 점심 밖에서 먹었는데 좀 짜증 났어!",
+      "tokens": [
+        "나",
+        "오늘",
+        "점심",
+        "밖",
+        "에서",
+        "먹",
+        "었",
+        "는데",
+        "좀",
+        "짜증",
+        "났",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "왜 밖에서 먹으면 좋지 않아?",
+      "tokens": [
+        "왜",
+        "밖",
+        "에서",
+        "먹",
+        "으면",
+        "좋",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 밥이 나왔는데 그릇이 더러웠어!",
+      "tokens": [
+        "근데",
+        "밥",
+        "이",
+        "나왔",
+        "EP",
+        "는데",
+        "그릇",
+        "이",
+        "더러웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 위생 별로인 데는 가기 싫어",
+      "tokens": [
+        "아",
+        "위생",
+        "별",
+        "로",
+        "인",
+        "ETM",
+        "데",
+        "는",
+        "가",
+        "기",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어 거기 진짜 유명한 곳이었거든!?",
+      "tokens": [
+        "어",
+        "거기",
+        "진짜",
+        "유명",
+        "한",
+        "ETM",
+        "곳",
+        "이",
+        "었",
+        "거든",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "유명한 곳에서 더더욱 그럼 안 되지 ㅡㅡ",
+      "tokens": [
+        "유명",
+        "한",
+        "ETM",
+        "곳",
+        "에서",
+        "더더욱",
+        "그럼",
+        "안",
+        "되",
+        "지",
+        "ㅡㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 분명히 카레를 시켰는데 왜 그릇이 빨개?",
+      "tokens": [
+        "나",
+        "는",
+        "분명히",
+        "카레",
+        "를",
+        "시켰",
+        "EP",
+        "는데",
+        "왜",
+        "그릇",
+        "이",
+        "빨개",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭐야",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "뭐가 묻었길래 그런 거야?",
+      "tokens": [
+        "뭐",
+        "가",
+        "묻",
+        "었",
+        "길래",
+        "그런",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이제 고추기름 제대로 안 닦인 거겠지!",
+      "tokens": [
+        "이제",
+        "고추기름",
+        "제대로",
+        "안",
+        "닦인",
+        "ETM",
+        "거",
+        "겠",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 헐 그럼 먹기 싫어 ㅡㅡ",
+      "tokens": [
+        "아",
+        "헐",
+        "그럼",
+        "먹",
+        "기",
+        "싫",
+        "어",
+        "ㅡㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "환불했어?",
+      "tokens": [
+        "환불",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니,",
+      "tokens": [
+        "아니",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 그냥 배고파서 먹었어,",
+      "tokens": [
+        "나",
+        "그냥",
+        "배고파서",
+        "EC",
+        "먹",
+        "었",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "야 너 너무 착하다",
+      "tokens": [
+        "야",
+        "너",
+        "너무",
+        "착하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난 절대 못 먹어",
+      "tokens": [
+        "난",
+        "JX",
+        "절대",
+        "못",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 나도 시간 많고 혼자 먹었으면 그냥 바로  환불했지!",
+      "tokens": [
+        "근데",
+        "나",
+        "도",
+        "시간",
+        "많",
+        "고",
+        "혼자",
+        "먹",
+        "었",
+        "으면",
+        "그냥",
+        "바로",
+        "환불",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래도 가게에 말은 하고 나왔지?",
+      "tokens": [
+        "그래도",
+        "가게",
+        "에",
+        "말",
+        "은",
+        "하",
+        "고",
+        "나왔",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어 했는데 그냥 죄송하다고만 하더라~",
+      "tokens": [
+        "어",
+        "했",
+        "EP",
+        "는데",
+        "그냥",
+        "죄송",
+        "하",
+        "다고",
+        "만",
+        "하",
+        "더라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "쿠폰이라도 하나 챙겨 줘야지 너무하네",
+      "tokens": [
+        "쿠폰",
+        "이",
+        "라도",
+        "하나",
+        "챙겨",
+        "EC",
+        "줘야지",
+        "EF",
+        "너무",
+        "하네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

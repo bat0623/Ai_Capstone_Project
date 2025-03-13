@@ -1,0 +1,395 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "와 마트에서 귤 사왔는데 존맛!",
+      "tokens": [
+        "와",
+        "마트",
+        "에서",
+        "귤",
+        "사",
+        "EC",
+        "왔",
+        "EP",
+        "는데",
+        "존",
+        "맛"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "와 귤 철이지 이제?",
+      "tokens": [
+        "와",
+        "귤",
+        "철",
+        "이",
+        "지",
+        "이제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 맞아 근데 하우스 귤인데도 진짜 맛있어!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "근데",
+        "하우스",
+        "귤",
+        "인데",
+        "EC",
+        "도",
+        "진짜",
+        "맛있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벌써 맛있어?",
+      "tokens": [
+        "벌써",
+        "맛있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 먹고 싶다 ㅜㅜ",
+      "tokens": [
+        "나",
+        "도",
+        "먹",
+        "고",
+        "싶",
+        "다",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어 키키 근데 귤 12개에 4천 원이면 가격 괜찮은 건가?",
+      "tokens": [
+        "어",
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "귤",
+        "12",
+        "개",
+        "에",
+        "4",
+        "천",
+        "원",
+        "이",
+        "면",
+        "가격",
+        "괜찮",
+        "은",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "괜찮은 거 아냐?",
+      "tokens": [
+        "괜찮",
+        "은",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "먹고 있어?",
+      "tokens": [
+        "먹",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헤헤 키키 아니 아까 앉은 자리에서 다 먹음!",
+      "tokens": [
+        "헤헤",
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "아까",
+        "앉",
+        "은",
+        "자리",
+        "에서",
+        "다",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 그러다 화장실 자주 간다 너",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러",
+        "다",
+        "화장실",
+        "자주",
+        "간다",
+        "EC",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 어 그래서 화장실 가서 가볍게 하고 나왔지~",
+      "tokens": [
+        "키",
+        "키어",
+        "그래서",
+        "화장실",
+        "가",
+        "서",
+        "가볍",
+        "게",
+        "하",
+        "고",
+        "나왔",
+        "EP",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "전기 장판에서 귤 까먹는 게 존맛",
+      "tokens": [
+        "전기장판",
+        "에서",
+        "귤",
+        "까먹",
+        "는",
+        "게",
+        "JKS",
+        "존",
+        "ETM",
+        "맛"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 맞아 키키 나 주말에 또 가서 사오려고!",
+      "tokens": [
+        "아",
+        "맞",
+        "아",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "주말",
+        "에",
+        "또",
+        "가",
+        "서",
+        "VCP",
+        "사오",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나도 귤 보이면 사야지",
+      "tokens": [
+        "나",
+        "도",
+        "귤",
+        "보이",
+        "면",
+        "사",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 오 완전 좋지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "완전",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "애기도 하나씩 먹여!",
+      "tokens": [
+        "애기",
+        "도",
+        "하나",
+        "씩",
+        "먹여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "와 그래야겠다 애기도 줘야지",
+      "tokens": [
+        "와",
+        "그래야",
+        "EC",
+        "VX",
+        "겠",
+        "다",
+        "애기",
+        "도",
+        "줘야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 귤은 작은 게 맛있음!",
+      "tokens": [
+        "키",
+        "키",
+        "귤",
+        "은",
+        "작",
+        "은",
+        "게",
+        "JKS",
+        "맛있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 맞아 귤 먹을 줄 아는구나",
+      "tokens": [
+        "맞",
+        "아",
+        "맞",
+        "아",
+        "귤",
+        "먹",
+        "을",
+        "줄",
+        "아",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

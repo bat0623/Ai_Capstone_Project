@@ -1,0 +1,343 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 낼 베놈 보러갈 꺼야",
+      "tokens": [
+        "우리",
+        "낼",
+        "ETM",
+        "베",
+        "놈",
+        "보러",
+        "갈",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "베놈 진짜 재밌어 매력 짱",
+      "tokens": [
+        "베",
+        "놈",
+        "진짜",
+        "재밌",
+        "어",
+        "매력",
+        "짱"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "베놈 벌써 재밌다",
+      "tokens": [
+        "베",
+        "놈",
+        "벌써",
+        "재밌",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "베놈 빨리 보고 싶다",
+      "tokens": [
+        "베",
+        "놈",
+        "빨리",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너네 1은 본거지?",
+      "tokens": [
+        "너",
+        "네",
+        "1",
+        "은",
+        "본",
+        "ETM",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "엄청 강하다고 소문났던데?",
+      "tokens": [
+        "엄청",
+        "강하",
+        "다고",
+        "소문났",
+        "EP",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 이터널스도 봤어?",
+      "tokens": [
+        "아",
+        "이터널",
+        "스도",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니 아니 오늘 개봉 했자나",
+      "tokens": [
+        "아니",
+        "아니",
+        "오늘",
+        "개봉",
+        "했",
+        "EP",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "1은 봤지! 완전 재밌었잖아",
+      "tokens": [
+        "1",
+        "은",
+        "봤",
+        "EP",
+        "지",
+        "완전",
+        "재밌",
+        "었잖",
+        "VX",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 오늘 개봉한 지도 몰랐네",
+      "tokens": [
+        "아",
+        "오늘",
+        "개봉",
+        "한지",
+        "EC",
+        "도",
+        "몰랐",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "난 진짜 마블 영화 너어무 좋아ㅔ",
+      "tokens": [
+        "난",
+        "JX",
+        "진짜",
+        "마블",
+        "영화",
+        "너",
+        "어",
+        "무",
+        "좋",
+        "아",
+        "ㅔ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "이터널스 우리 토열날 볼라구!",
+      "tokens": [
+        "이터널",
+        "스",
+        "우리",
+        "토",
+        "열",
+        "날",
+        "볼라구",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "영화관 가고 싶다",
+      "tokens": [
+        "영화관",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이제 영화관 시간 제한 없어서 ㅜ 넘 좋아",
+      "tokens": [
+        "이제",
+        "영화관",
+        "시간",
+        "제한",
+        "없",
+        "어서",
+        "ㅜ넘",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리 진짜 빨리 보자 ***~",
+      "tokens": [
+        "우리",
+        "진짜",
+        "빨리",
+        "보",
+        "자",
+        "*",
+        "*",
+        "*",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "영화 씹꿀잼",
+      "tokens": [
+        "영화",
+        "씹",
+        "꿀",
+        "ETM",
+        "잼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "낼이랑 모레 가야지",
+      "tokens": [
+        "낼",
+        "이랑",
+        "모레",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "이제 재미있는 거 많이 개봉할 거 같애",
+      "tokens": [
+        "이제",
+        "재미있",
+        "는",
+        "거",
+        "많이",
+        "개봉",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "애"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_186_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

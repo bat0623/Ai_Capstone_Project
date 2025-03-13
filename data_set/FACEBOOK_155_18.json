@@ -1,0 +1,482 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그래서 가방 왔음? 키키",
+      "tokens": [
+        "그래서",
+        "가방",
+        "왔음",
+        "EP",
+        "EC",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 어떤 가방 샀어요",
+      "tokens": [
+        "키키",
+        "어떤",
+        "가방",
+        "샀어요",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어 왔지 키키 키키",
+      "tokens": [
+        "어왔지키키키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "쟤 누가 가방 훔쳐 갈까 봐",
+      "tokens": [
+        "쟤",
+        "누가",
+        "JKS",
+        "가방",
+        "훔쳐갈까봐",
+        "EC",
+        "VX",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 응? 훔쳐갈까 봐 어떻게 한 거예요",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "응",
+        "훔쳐갈까봐",
+        "EC",
+        "VX",
+        "EC",
+        "VX",
+        "EC",
+        "어떻게",
+        "한",
+        "ETM",
+        "거",
+        "예요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엄마가 택배 찾으러 와주심 키키",
+      "tokens": [
+        "엄마",
+        "가",
+        "택배",
+        "찾",
+        "으러",
+        "와",
+        "주심",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "엄마 부른 거임 키키",
+      "tokens": [
+        "엄마",
+        "부른",
+        "ETM",
+        "거",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "귀여워 키키",
+      "tokens": [
+        "귀여워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "택배 누가 훔쳐 갈까 봐",
+      "tokens": [
+        "택배",
+        "누가",
+        "JKS",
+        "훔쳐갈까봐",
+        "EC",
+        "VX",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "궁금쓰 키키",
+      "tokens": [
+        "궁금",
+        "쓰키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아놔 키키 진짜 귀엽",
+      "tokens": [
+        "아놔키키진짜귀엽"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "내가 집에 없었어서 키키",
+      "tokens": [
+        "내",
+        "가",
+        "집",
+        "에",
+        "없",
+        "었",
+        "어서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 그래서 어떤데",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래서",
+        "어떤",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "뜯었음?",
+      "tokens": [
+        "뜯",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 진짜키키 산 건 어때여",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "키",
+        "키",
+        "ETN",
+        "산",
+        "ETM",
+        "건",
+        "JX",
+        "어때",
+        "EC",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 근데 엄마가 가방 너무 짝다고함;",
+      "tokens": [
+        "아근데엄마가가방너무짝다고함",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 아주 만족이가",
+      "tokens": [
+        "키",
+        "키",
+        "아주",
+        "만족",
+        "이",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "블랙 샀음? 키키",
+      "tokens": [
+        "블랙",
+        "샀",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "엄마들은 미니 사이즈 다 작데...",
+      "tokens": [
+        "엄마",
+        "들",
+        "은",
+        "미니",
+        "사이즈",
+        "다",
+        "작",
+        "데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나는 맘에 드는데 키키",
+      "tokens": [
+        "나",
+        "는",
+        "맘",
+        "에",
+        "드",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "블랙 샀엉",
+      "tokens": [
+        "블랙",
+        "샀",
+        "EP",
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "흰색 무서워서 키키",
+      "tokens": [
+        "흰색",
+        "무서워서",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그럼 니가 덩치를 줄일 수 밖에  없어.",
+      "tokens": [
+        "그럼",
+        "니",
+        "가",
+        "덩치",
+        "를",
+        "줄일",
+        "ETM",
+        "수",
+        "밖에",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "키키 항상 그렇게 말하더라구요",
+      "tokens": [
+        "키",
+        "키",
+        "항상",
+        "그렇게",
+        "말",
+        "하",
+        "더라구요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "졸귀탱이라 내가 덩치 줄여야 됨... 응응",
+      "tokens": [
+        "졸귀탱이라내가덩치줄여야됨",
+        ".",
+        "응",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

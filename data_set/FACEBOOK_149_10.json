@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아오 레저 뭐가 좋지 키키",
+      "tokens": [
+        "아오",
+        "레저",
+        "뭐",
+        "가",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 요즘 미식축구가 좋아 키키",
+      "tokens": [
+        "나",
+        "는",
+        "요즘",
+        "미식축구",
+        "가",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요새 나는 조깅하는 맛에 산다 키키",
+      "tokens": [
+        "요새",
+        "나",
+        "는",
+        "조깅",
+        "하",
+        "는",
+        "맛",
+        "에",
+        "산다",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "복싱이나 하려고 요새 그냥 키키",
+      "tokens": [
+        "복싱",
+        "이나",
+        "하",
+        "려고",
+        "요새",
+        "그냥",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "미식축가 젤 재밌어 모두 가치 하자 키키",
+      "tokens": [
+        "미식",
+        "축가",
+        "젤",
+        "재밌",
+        "어",
+        "모두",
+        "가치",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "혼자 하기도 좋아 키키 추천한다 키키 밤에 ㅋ",
+      "tokens": [
+        "혼자",
+        "하",
+        "기",
+        "도",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "추천",
+        "한",
+        "ETM",
+        "다키키",
+        "밤",
+        "에",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "한강 조깅 뛰고 회사 간다 나는 키키",
+      "tokens": [
+        "한강",
+        "조깅",
+        "뛰",
+        "고",
+        "회사",
+        "간다나",
+        "EC",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "조깅도 좋긴 하지 가치 하자 키키",
+      "tokens": [
+        "조깅",
+        "도",
+        "좋",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "가치",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "미식축구는 접근성이 좀 떨어져서 키키",
+      "tokens": [
+        "미식축구",
+        "는",
+        "접근",
+        "성",
+        "이",
+        "좀",
+        "떨어져서",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 요새 쉐도우 복싱 많이 해 키키",
+      "tokens": [
+        "나",
+        "요새",
+        "쉐",
+        "도우",
+        "복싱",
+        "많이",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 요즘도 혼자 하긴 햌 키키",
+      "tokens": [
+        "나",
+        "는",
+        "요즘",
+        "도",
+        "혼자",
+        "하",
+        "긴",
+        "JX",
+        "햌키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진입 장벽이 높아 너는 어디서 해? 키키",
+      "tokens": [
+        "진입",
+        "장벽",
+        "이",
+        "높",
+        "아",
+        "너",
+        "는",
+        "어디",
+        "서",
+        "해",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "혼자 운동 하는 게 편해 키키",
+      "tokens": [
+        "혼자",
+        "운동",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "편해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마자 접근성이 멀긴 하지 진짜 키키",
+      "tokens": [
+        "마자",
+        "접근",
+        "성",
+        "이",
+        "멀",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "꿈속에서 하는 거 아니지? 키키",
+      "tokens": [
+        "꿈속",
+        "에서",
+        "하",
+        "는",
+        "거",
+        "아니",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오케이 다음에 같이 미식축구 하자고 키키",
+      "tokens": [
+        "오케이",
+        "다음",
+        "에",
+        "같이",
+        "미식축구",
+        "하",
+        "자고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "혼자 운동하는 게 좋긴 한데 키키",
+      "tokens": [
+        "혼자",
+        "운동",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그래 !",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "다음에 거기서 보자!",
+      "tokens": [
+        "다음",
+        "에",
+        "거기",
+        "서",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

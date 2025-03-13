@@ -1,0 +1,365 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "버스 타고 출퇴근 너무 힘들어",
+      "tokens": [
+        "버스",
+        "타",
+        "고",
+        "출퇴근",
+        "너무",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 비행기가 너무 타고싶어",
+      "tokens": [
+        "요즘",
+        "에",
+        "비행기",
+        "가",
+        "너무",
+        "타",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "지하철 타고 다니는 인생이 너무 힘들다",
+      "tokens": [
+        "지하철",
+        "타",
+        "고",
+        "다니",
+        "는",
+        "인생",
+        "이",
+        "너무",
+        "힘들",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이젠 차를 사고 싶어",
+      "tokens": [
+        "이젠",
+        "JX",
+        "차",
+        "를",
+        "사",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "노래도 거북이 비행기만 들어",
+      "tokens": [
+        "노래",
+        "도",
+        "거북",
+        "이",
+        "비행기",
+        "만들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "매일같이 지하철 타는 시간이 아까워",
+      "tokens": [
+        "매일",
+        "같이",
+        "지하철",
+        "타",
+        "는",
+        "시간",
+        "이",
+        "아까워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "택시 타는 것도 너무 비싸",
+      "tokens": [
+        "택시",
+        "타",
+        "는",
+        "것",
+        "도",
+        "너무",
+        "비싸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "택시 기사는 너무 불친절해",
+      "tokens": [
+        "택시",
+        "기사",
+        "는",
+        "너무",
+        "불친절",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "택시 기사 친절한 사람도 많아.",
+      "tokens": [
+        "택시",
+        "기사",
+        "친절",
+        "한",
+        "ETM",
+        "사람",
+        "도",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "버스는 너무 타기 싫어...",
+      "tokens": [
+        "버스",
+        "는",
+        "너무",
+        "타",
+        "기",
+        "싫",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "버스 기사도 너무 불친절해 ㅠ",
+      "tokens": [
+        "버스",
+        "기사",
+        "도",
+        "너무",
+        "불친절",
+        "해",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "버스 기사님들 가끔씩 문 안 열어줘서 힘들어",
+      "tokens": [
+        "버스",
+        "기사",
+        "님",
+        "들",
+        "가끔",
+        "씩",
+        "문",
+        "안",
+        "열",
+        "어",
+        "줘서",
+        "EC",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리 얼른 차를 사자구",
+      "tokens": [
+        "우리",
+        "얼른",
+        "차",
+        "를",
+        "사자구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그냥 자가용 타는 게 마음 편하겠더라",
+      "tokens": [
+        "그냥",
+        "자가용",
+        "타",
+        "는",
+        "게",
+        "JKS",
+        "마음",
+        "편하",
+        "겠",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나는 롤스로이스 주문할 거야",
+      "tokens": [
+        "나",
+        "는",
+        "롤스로이스",
+        "주문",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "버스 너무 막 달려 ㅠㅠ",
+      "tokens": [
+        "버스",
+        "너무",
+        "막",
+        "달려",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "지하철 기사도 불친절해",
+      "tokens": [
+        "지하철",
+        "기사",
+        "도",
+        "불친절",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "지하철 기사님을 만난 적이 있어?",
+      "tokens": [
+        "지하철",
+        "기사",
+        "님",
+        "을",
+        "만난",
+        "ETM",
+        "적",
+        "이",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

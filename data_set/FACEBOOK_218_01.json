@@ -1,0 +1,378 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "저녁 식사 했쥬? 하하",
+      "tokens": [
+        "저녁",
+        "식사",
+        "했",
+        "EP",
+        "쥬",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 먹었지 하하 **은?",
+      "tokens": [
+        "응",
+        "먹",
+        "었",
+        "지",
+        "하하",
+        "*",
+        "*",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 오늘 부대찌개 먹었엉 키키",
+      "tokens": [
+        "나",
+        "오늘",
+        "부대찌개",
+        "먹",
+        "었",
+        "엉",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 오늘 저녁 초밥~",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "저녁",
+        "초밥",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오 부대찌개 맛이썼겠다",
+      "tokens": [
+        "오",
+        "부대찌개",
+        "맛",
+        "이",
+        "썼",
+        "EP",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우와 다들 맛있는 거 먹었네?",
+      "tokens": [
+        "우와",
+        "다",
+        "들",
+        "맛있",
+        "는",
+        "거",
+        "먹",
+        "었",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 부대찌개 맛있는 거 먹었넹",
+      "tokens": [
+        "오",
+        "부대찌개",
+        "맛있",
+        "는",
+        "거",
+        "먹",
+        "었",
+        "넹"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 마파두부 머겄어 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "마파두부",
+        "머",
+        "EC",
+        "겄",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 근데 또 배고프네...",
+      "tokens": [
+        "나",
+        "근데",
+        "또",
+        "배고프",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "부대찌개 진짜 맛있어...",
+      "tokens": [
+        "부대찌개",
+        "진짜",
+        "맛있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "벌써 배고프다고?",
+      "tokens": [
+        "벌써",
+        "배고프",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사실 나도",
+      "tokens": [
+        "사실",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 백신 휴유증인 거 같아 하하",
+      "tokens": [
+        "나",
+        "백",
+        "신휴",
+        "유증",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마파두부도 진짜 맛있어...",
+      "tokens": [
+        "마파두부",
+        "도",
+        "진짜",
+        "맛있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "다이제를 먹어야겠어 하하",
+      "tokens": [
+        "다",
+        "이제",
+        "를",
+        "먹",
+        "어야",
+        "겠어",
+        "EP",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "식욕이 폭발적이야",
+      "tokens": [
+        "식욕",
+        "이",
+        "폭발",
+        "적",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "완전 큰일 났어",
+      "tokens": [
+        "완전",
+        "큰일났",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 지금 배 고프당...",
+      "tokens": [
+        "나",
+        "도",
+        "지금",
+        "배고프",
+        "당",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "다이제는 언제나 맛있어 하하",
+      "tokens": [
+        "다",
+        "이제",
+        "는",
+        "언제나",
+        "맛있",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "우린 전부 살을 뺄 수가 없어 키키",
+      "tokens": [
+        "우린",
+        "JX",
+        "전부",
+        "살",
+        "을",
+        "뺄",
+        "ETM",
+        "수",
+        "가",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

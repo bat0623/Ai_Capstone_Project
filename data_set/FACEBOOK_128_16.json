@@ -1,0 +1,408 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "벅수 미용실 드디어 간닷...!",
+      "tokens": [
+        "벅수미용실드디어간닷",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 드디어 간닷",
+      "tokens": [
+        "그니까",
+        "드디어",
+        "간",
+        "ETM",
+        "닷"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 키키 미용실 가서 깎임?",
+      "tokens": [
+        "아키",
+        "키",
+        "미용실",
+        "가",
+        "서",
+        "깎",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "강아지 미용실 예약하기 힘들어...",
+      "tokens": [
+        "강아지",
+        "미용실",
+        "예약",
+        "하",
+        "기",
+        "힘들",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "완젼 냄새나 죽겠어 ㅠㅠ",
+      "tokens": [
+        "완",
+        "젼",
+        "냄새",
+        "나",
+        "죽",
+        "겠",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "목욕 시키자나",
+      "tokens": [
+        "목욕",
+        "시키",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엉 벅수 미용실 다녀...",
+      "tokens": [
+        "엉",
+        "벅수",
+        "미용실",
+        "다녀",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 냄새 심해",
+      "tokens": [
+        "진짜",
+        "냄새",
+        "심해"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "벅토니...",
+      "tokens": [
+        "벅",
+        "토니",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 생각만 해도 귀여운데",
+      "tokens": [
+        "키",
+        "키",
+        "생각",
+        "만",
+        "해도",
+        "EC",
+        "귀여운데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "미용실 가기 전에는 목욕 안 시키지 키키",
+      "tokens": [
+        "미용실",
+        "가",
+        "기",
+        "전",
+        "에",
+        "는",
+        "목욕",
+        "안",
+        "시키",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "벅토니 목욕 안 하는데?",
+      "tokens": [
+        "벅",
+        "토니",
+        "목욕",
+        "안",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 아 미용실에서 해 주니까?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "미용실",
+        "에서",
+        "해",
+        "EC",
+        "주",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "미용실 가기 아깝잖아!",
+      "tokens": [
+        "미용실",
+        "가",
+        "기",
+        "아깝",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "놀라지 마",
+      "tokens": [
+        "놀라",
+        "지",
+        "마",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "냄새에 도망 갈 수도 있어 **",
+      "tokens": [
+        "냄새",
+        "에",
+        "도망갈",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "어",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "왜 목욕을 안 해 키키",
+      "tokens": [
+        "왜",
+        "목욕",
+        "을",
+        "안",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "응 당근 미용실 갈 때 머리 안 감는 거랑 똑같은 거",
+      "tokens": [
+        "응",
+        "당근",
+        "미용실",
+        "갈",
+        "ETM",
+        "때머리",
+        "안",
+        "감",
+        "는",
+        "거",
+        "랑",
+        "똑같",
+        "은",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "냄새 난다고 싫어하지 마,",
+      "tokens": [
+        "냄새",
+        "난다고",
+        "EC",
+        "싫",
+        "어",
+        "하",
+        "지",
+        "마",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "먼가 미용실에서 해 주면 개이득!",
+      "tokens": [
+        "먼가",
+        "VCP",
+        "EC",
+        "미용실",
+        "에서",
+        "해",
+        "EC",
+        "주",
+        "면",
+        "개",
+        "이득"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

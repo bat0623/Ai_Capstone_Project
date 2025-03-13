@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 8도네...?",
+      "tokens": [
+        "오늘",
+        "8",
+        "도",
+        "네",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엄청 춥다",
+      "tokens": [
+        "엄청",
+        "춥",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 진짜 난 괜찮은데 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "난",
+        "JX",
+        "괜찮",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "제주는 오늘도 흐림...",
+      "tokens": [
+        "제주",
+        "는",
+        "오늘",
+        "도",
+        "흐림",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "볕이 안 드네;",
+      "tokens": [
+        "볕",
+        "이",
+        "안",
+        "드",
+        "네",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "창문에서 찬바람이 휙휙",
+      "tokens": [
+        "창문",
+        "에서",
+        "찬바람",
+        "이",
+        "휙휙"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이번 주부터 비 오면 이제 추울 듯",
+      "tokens": [
+        "이번",
+        "주",
+        "부터",
+        "비오",
+        "면",
+        "이제",
+        "추울",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "추운 건 모르겠다 키키",
+      "tokens": [
+        "추운",
+        "ETM",
+        "건",
+        "JX",
+        "모르",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "바람도 거의 없고",
+      "tokens": [
+        "바람",
+        "도",
+        "거의",
+        "없",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오늘 엄청 흐림!",
+      "tokens": [
+        "오늘",
+        "엄청",
+        "흐림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엄청 추워진대 ㅜㅜ",
+      "tokens": [
+        "엄청추워진대ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "역시나 수능 때문에",
+      "tokens": [
+        "역시",
+        "나",
+        "수능",
+        "때문",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "주말 비 오고 나면 또 후욱 추워지겠지",
+      "tokens": [
+        "주말",
+        "비오",
+        "고",
+        "나",
+        "면",
+        "또",
+        "후욱",
+        "추워",
+        "EC",
+        "지",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "바람은 없는데 차다 ㅠㅠ",
+      "tokens": [
+        "바람",
+        "은",
+        "없",
+        "는",
+        "데",
+        "차",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "웅 오늘은 좀 흐리네 키키",
+      "tokens": [
+        "웅",
+        "오늘",
+        "은",
+        "좀",
+        "흐리",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "다시 밝을 듯",
+      "tokens": [
+        "다시",
+        "밝",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "롱패딩으로 둘둘 말고 다녀야지",
+      "tokens": [
+        "롱",
+        "패딩",
+        "으로",
+        "둘",
+        "둘",
+        "말",
+        "고",
+        "다녀야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "수능 언제래?",
+      "tokens": [
+        "수능",
+        "언제",
+        "래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "다음 주 아님?",
+      "tokens": [
+        "다음",
+        "주아",
+        "님"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 문을 벌써 열었나 ㅜㅜ",
+      "tokens": [
+        "키",
+        "키",
+        "문",
+        "을",
+        "벌써",
+        "열",
+        "었",
+        "나",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "다음 주 아니야 수능 ?",
+      "tokens": [
+        "다음",
+        "주",
+        "아니",
+        "야",
+        "수능"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "수능 칠 때 개 추운거 알지...",
+      "tokens": [
+        "수능칠때개추운거알지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "다음 주 목요일이던데 키키",
+      "tokens": [
+        "다음",
+        "주",
+        "목요일",
+        "이",
+        "던데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "개 추워서 난리다",
+      "tokens": [
+        "개추워서난리다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "큰일남",
+      "tokens": [
+        "큰",
+        "ETM",
+        "일남"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 남친이랑 이번에 싸움!",
+      "tokens": [
+        "나",
+        "남친",
+        "이랑",
+        "이번",
+        "에",
+        "싸움"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "뭐야",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜 그래",
+      "tokens": [
+        "왜",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왜 싸웠어?",
+      "tokens": [
+        "왜",
+        "싸웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너는 기념일이면 보통 뭐할 거 같아?",
+      "tokens": [
+        "너",
+        "는",
+        "기념일",
+        "이",
+        "면",
+        "보통",
+        "뭐",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "특별한 곳이나 먹으러 가지 않을까?",
+      "tokens": [
+        "특별",
+        "한",
+        "ETM",
+        "곳",
+        "이나",
+        "먹",
+        "으러",
+        "가",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아, 근데 뭐 먹자고 했는 줄 알아,,?",
+      "tokens": [
+        "맞",
+        "아",
+        ",",
+        "근데",
+        "뭐",
+        "먹",
+        "자고",
+        "했",
+        "EP",
+        "는",
+        "줄",
+        "알",
+        "아",
+        ",",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "남자 친구가 뭐 먹자고 하는데?",
+      "tokens": [
+        "남자",
+        "친구",
+        "가",
+        "뭐",
+        "먹",
+        "자고",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "순대전골 먹고 싶다고 전골 먹으러 가재!",
+      "tokens": [
+        "순대",
+        "전골",
+        "먹",
+        "고",
+        "싶",
+        "다고",
+        "전골",
+        "먹",
+        "으러",
+        "가",
+        "재"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "순대전골?",
+      "tokens": [
+        "순대",
+        "전골"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맛있긴 한데... 좀 기념일에 그렇다...",
+      "tokens": [
+        "맛있",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        ".",
+        ".",
+        "좀",
+        "기념일",
+        "에",
+        "그렇",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그니까 그거는 아무 때나 먹을 수 있잖아,",
+      "tokens": [
+        "그니까",
+        "그거",
+        "는",
+        "아무",
+        "때",
+        "나",
+        "먹",
+        "을",
+        "수",
+        "있",
+        "잖아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그러니까",
+      "tokens": [
+        "그러니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "기념일인데 신경 좀 써주지 ㅠㅠ",
+      "tokens": [
+        "기념일",
+        "인데",
+        "EC",
+        "신경",
+        "좀",
+        "써",
+        "EC",
+        "주",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아,",
+      "tokens": [
+        "맞",
+        "아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래서 내가 얘 옷 사주려다가 입 싹 닫음",
+      "tokens": [
+        "그래서",
+        "내",
+        "가",
+        "얘",
+        "옷",
+        "사",
+        "EC",
+        "주",
+        "려다",
+        "가입",
+        "싹",
+        "닫",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 잘했어 이래서 행동을 잘 해야 된다니까...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "잘",
+        "했",
+        "EP",
+        "어",
+        "이래서",
+        "EC",
+        "행동",
+        "을",
+        "잘",
+        "해야",
+        "EC",
+        "된다니까",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 문자로 미안하다고 지금 왔어 키키",
+      "tokens": [
+        "키",
+        "키",
+        "문자",
+        "로",
+        "미안",
+        "하",
+        "다고",
+        "지금",
+        "왔",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 뭘 잘못한 지는 알겠데?",
+      "tokens": [
+        "아",
+        "뭘",
+        "JKO",
+        "잘못",
+        "한지",
+        "EC",
+        "는",
+        "알",
+        "겠",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "내가 말했지!",
+      "tokens": [
+        "내",
+        "가",
+        "말",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "기념일인데 순대를 먹자고?",
+      "tokens": [
+        "기념일",
+        "인데",
+        "EC",
+        "순대",
+        "를",
+        "먹",
+        "자고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "이러면서 끊었거든!",
+      "tokens": [
+        "이러",
+        "면서",
+        "끊",
+        "었",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 그래도 사과를 해서 다행이다!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래도",
+        "사과",
+        "를",
+        "해서",
+        "EC",
+        "다행",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

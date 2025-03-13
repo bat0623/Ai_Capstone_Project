@@ -1,0 +1,419 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘은 어제보다는 좀 추운 듯!",
+      "tokens": [
+        "오늘",
+        "은",
+        "어제",
+        "보다",
+        "는",
+        "좀",
+        "추운",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어제가 좀 따뜻했지 맞지,",
+      "tokens": [
+        "어제",
+        "가",
+        "좀",
+        "따뜻",
+        "했",
+        "EP",
+        "지",
+        "맞",
+        "지",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 어제도 따뜻한 날씨는 아니었어!",
+      "tokens": [
+        "근데",
+        "어제",
+        "도",
+        "따뜻",
+        "한",
+        "ETM",
+        "날씨",
+        "는",
+        "아니",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 오늘은 추워 ㅜㅜ 겨울이야",
+      "tokens": [
+        "근데",
+        "오늘",
+        "은",
+        "추워",
+        "EC",
+        "ㅜㅜ",
+        "겨울",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "월요일이 진짜 장난 아니었지!",
+      "tokens": [
+        "월요일",
+        "이",
+        "진짜",
+        "장난",
+        "아니",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 날씨 적응이 안 된다 지금...",
+      "tokens": [
+        "진짜",
+        "날씨",
+        "적응",
+        "이",
+        "안",
+        "된다",
+        "EF",
+        "지금",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 다음 주에 패딩 필수로 가져와야 해!",
+      "tokens": [
+        "나",
+        "다음",
+        "주",
+        "에",
+        "패딩",
+        "필수",
+        "로",
+        "가져와야",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 다다음주에 패딩 꼭 가져올 거야!",
+      "tokens": [
+        "나",
+        "도",
+        "다",
+        "다음",
+        "주",
+        "에",
+        "패딩",
+        "꼭",
+        "가져올",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 아 이제 진짜 반팔은 집어넣어야 해!",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "이제",
+        "진짜",
+        "반팔",
+        "은",
+        "집어넣",
+        "어야",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 얼마 전에 옷 정리했는데 반팔 정리는 안 했는데...",
+      "tokens": [
+        "나",
+        "얼마",
+        "전",
+        "에",
+        "옷",
+        "정리",
+        "했",
+        "EP",
+        "는데",
+        "반팔",
+        "정리",
+        "는",
+        "안",
+        "했",
+        "EP",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "흙 ㅜㅜ 반팔, 이제 보내줘야 할 때가 됐어,",
+      "tokens": [
+        "흙ㅜㅜ반팔",
+        ",",
+        "이제",
+        "보내",
+        "EC",
+        "줘야",
+        "EC",
+        "할",
+        "ETM",
+        "때",
+        "가",
+        "됐",
+        "EP",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "뭔가 입고 겉옷 입을 정도는 될 거 같았는데... 이렇게 빨리 끝나다니",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "입",
+        "고",
+        "겉옷",
+        "입",
+        "을",
+        "정도",
+        "는",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "았",
+        "는데",
+        ".",
+        ".",
+        "이렇게",
+        "빨리",
+        "끝나",
+        "다니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그니까,",
+      "tokens": [
+        "그니까",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이게 북극에 있어야 할 찬 기운인데 한반도로 내려온 거래!",
+      "tokens": [
+        "이게",
+        "JKS",
+        "북극",
+        "에",
+        "있",
+        "어야",
+        "할",
+        "ETM",
+        "찬",
+        "ETM",
+        "기운",
+        "인데",
+        "EC",
+        "한반도",
+        "로",
+        "내려온",
+        "ETM",
+        "거",
+        "래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "왜? 왜 내려왔대? 추워",
+      "tokens": [
+        "왜",
+        "왜",
+        "내려왔",
+        "EP",
+        "대",
+        "추워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "뭐 결국에는 지구온난화 때문이지!",
+      "tokens": [
+        "뭐",
+        "결국",
+        "에",
+        "는",
+        "지구",
+        "온난",
+        "화",
+        "때문",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "으 이러다 진짜 멸망해,",
+      "tokens": [
+        "으",
+        "이러다",
+        "진짜",
+        "멸망",
+        "해",
+        "EC",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

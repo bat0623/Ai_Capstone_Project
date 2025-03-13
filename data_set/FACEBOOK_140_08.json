@@ -1,0 +1,482 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 연애 얼마나 했어?",
+      "tokens": [
+        "다",
+        "들연",
+        "애",
+        "얼마나",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 남친 2년 정도 만났어 ~",
+      "tokens": [
+        "나",
+        "는",
+        "남친",
+        "2",
+        "년",
+        "정도",
+        "만났",
+        "EP",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 이제 연애한지 500일 다 되가는 중이야!",
+      "tokens": [
+        "나",
+        "는",
+        "이제",
+        "연애",
+        "한지",
+        "EC",
+        "500",
+        "일",
+        "다",
+        "되",
+        "EC",
+        "가",
+        "는",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "다들 오래 만났네 ㅠㅠ",
+      "tokens": [
+        "다",
+        "들",
+        "오래",
+        "만났",
+        "EP",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "부럽다 ㅠㅠ",
+      "tokens": [
+        "부럽다ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "애인이 잘 해줘?",
+      "tokens": [
+        "애인",
+        "이",
+        "잘",
+        "해",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그럼 잘해주니깐 아직도 만나지~",
+      "tokens": [
+        "그럼",
+        "잘",
+        "해",
+        "EC",
+        "주",
+        "니깐",
+        "아직",
+        "도",
+        "만나",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "당연하지!",
+      "tokens": [
+        "당연",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그러니 오래 연애하고 있잖아 누나 하하",
+      "tokens": [
+        "그러니",
+        "오래",
+        "연애",
+        "하",
+        "고",
+        "있",
+        "잖아",
+        "누나",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 전 남자친구 3년 만났는데 고생만 엄청했거든 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "전",
+        "남자",
+        "친구",
+        "3",
+        "년만났는데고생만엄청했거든ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나한테 못하면 바로 끝이야 키키",
+      "tokens": [
+        "나",
+        "한테",
+        "못",
+        "하",
+        "면",
+        "바로",
+        "끝",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아... 고생만 하면 진짜 힘들긴 해 ㅠㅠ",
+      "tokens": [
+        "아",
+        ".",
+        "고생만하면진짜힘들긴해ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "남친이 너한테 잡혀 사는가 보네 키키",
+      "tokens": [
+        "남친",
+        "이",
+        "너",
+        "한테",
+        "잡혀",
+        "EC",
+        "사",
+        "는가",
+        "보",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 고생만 하면 좋은 기억도 없을 것 같네",
+      "tokens": [
+        "맞",
+        "아",
+        "고생",
+        "만",
+        "하",
+        "면",
+        "좋",
+        "은",
+        "기억",
+        "도",
+        "없",
+        "을",
+        "것",
+        "같",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "저 누나가 휘어 잡고 있는 거 아니야?~",
+      "tokens": [
+        "저",
+        "누나",
+        "가",
+        "휘어잡",
+        "고",
+        "있",
+        "는",
+        "거",
+        "아니",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그러니까 키키",
+      "tokens": [
+        "그러니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "바로 끝이란 말이 너무 무섭다 키키",
+      "tokens": [
+        "바로",
+        "끝",
+        "이",
+        "란",
+        "말",
+        "이",
+        "너무",
+        "무섭",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 내가 확 휘어 잡고 있지~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "내",
+        "가",
+        "확",
+        "휘어잡",
+        "고",
+        "있",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "무서운걸 누나~?",
+      "tokens": [
+        "무서운",
+        "ETM",
+        "걸",
+        "JKO",
+        "누나",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나는 그냥 적당한 수준인 거 같아",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "적당",
+        "한",
+        "ETM",
+        "수준",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "다들 연애도 하고 겨울에 옆구리 안 시리겠다 ㅠㅠ",
+      "tokens": [
+        "다",
+        "들연",
+        "애",
+        "도",
+        "하",
+        "고",
+        "겨울",
+        "에",
+        "옆구리",
+        "안",
+        "시리",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "에이 말뿐이지 실제로는 그렇게 안 해~",
+      "tokens": [
+        "에이",
+        "말",
+        "뿐",
+        "이",
+        "지",
+        "실제로",
+        "는",
+        "그렇게",
+        "안",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "크리스마스 때 데이트하고 놀고 그래야지 뭐~",
+      "tokens": [
+        "크리스마스",
+        "때",
+        "데이트",
+        "하",
+        "고",
+        "놀",
+        "고",
+        "그래야지",
+        "EF",
+        "뭐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

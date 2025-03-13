@@ -1,0 +1,537 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여자친구랑 자주 만나는 편이야?",
+      "tokens": [
+        "여자",
+        "친구",
+        "랑",
+        "자주",
+        "만나",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "음 나는 장거리라 2~3주에 한 번?!",
+      "tokens": [
+        "음",
+        "나",
+        "는",
+        "장거리",
+        "라",
+        "EC",
+        "2",
+        "~",
+        "3",
+        "주",
+        "에",
+        "한",
+        "번",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 여자친구랑 같은 지역이라 틈 나면 만나 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "여자",
+        "친구",
+        "랑",
+        "같",
+        "은",
+        "지역",
+        "이",
+        "라",
+        "틈나",
+        "면",
+        "만나",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아하 키키 부럽다 ㅠㅠ",
+      "tokens": [
+        "아",
+        "하키",
+        "키",
+        "ETN",
+        "부럽",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "일주일에 자주 만나겠네",
+      "tokens": [
+        "일",
+        "주일",
+        "에",
+        "자주",
+        "만나",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "자주 만나면 비용이 많이 들지 않아?~",
+      "tokens": [
+        "자주",
+        "만나",
+        "면",
+        "비용",
+        "이",
+        "많이",
+        "들",
+        "지",
+        "않",
+        "아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그냥 저녁에 만나면 커피 한잔 아님 공원 돌고 집 가고 키키",
+      "tokens": [
+        "그냥",
+        "저녁",
+        "에",
+        "만나",
+        "면",
+        "커피",
+        "한잔",
+        "아님",
+        "ETN",
+        "공원",
+        "돌",
+        "고",
+        "집",
+        "가",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 데이트할 때 십만원 깨지던데 키키",
+      "tokens": [
+        "나",
+        "도",
+        "데이트",
+        "할",
+        "ETM",
+        "때",
+        "십",
+        "만",
+        "원",
+        "깨",
+        "지",
+        "던데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 하루 종일 만나는 게 아니구나? 키키",
+      "tokens": [
+        "아",
+        "하루",
+        "종일",
+        "만나",
+        "는",
+        "게",
+        "JKC",
+        "아니",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "평일엔 그렇고 주말엔 이제 길게 만나지? 키키",
+      "tokens": [
+        "평일",
+        "엔",
+        "JX",
+        "그렇",
+        "고",
+        "주말",
+        "엔",
+        "JX",
+        "이제",
+        "길",
+        "게",
+        "만나",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "완전 소소하게 데이트 하는구나 \\",
+      "tokens": [
+        "완전",
+        "소소",
+        "하",
+        "게",
+        "데이트",
+        "하",
+        "는구나",
+        "\\"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엄청 소소하다...",
+      "tokens": [
+        "엄청",
+        "소소",
+        "하",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "공원 산책하고 커피 한잔...?",
+      "tokens": [
+        "공원",
+        "산책",
+        "하",
+        "고",
+        "커피",
+        "한잔",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "틈 나면 만나는 그런 게 좋아 키키",
+      "tokens": [
+        "틈나",
+        "면",
+        "만나",
+        "는",
+        "그런",
+        "게",
+        "JKS",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 남친이랑 만날 때마다 여행 가 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "남친",
+        "이랑",
+        "만날",
+        "ETM",
+        "때",
+        "마다",
+        "여행가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "부럽다 키키 다른 커플은 그렇게 하지도 못하잖아",
+      "tokens": [
+        "부럽",
+        "다키키",
+        "다른",
+        "커플",
+        "은",
+        "그렇게",
+        "하",
+        "지",
+        "도",
+        "못하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "이야 좋은데 돈 많이 깨지겠는데 키키",
+      "tokens": [
+        "이야",
+        "좋",
+        "은데",
+        "돈",
+        "많이",
+        "깨",
+        "지",
+        "겠는데",
+        "EP",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그치 키키",
+      "tokens": [
+        "그치",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "근데 소소한 데이트가 없어서 아쉬워",
+      "tokens": [
+        "근데",
+        "소소",
+        "한",
+        "ETM",
+        "데이트",
+        "가",
+        "없",
+        "어서",
+        "아쉬워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그렇긴 해",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "누나 남친이랑 이번 달에도 여행 가잖아~",
+      "tokens": [
+        "누나",
+        "남친",
+        "이랑",
+        "이번",
+        "달",
+        "에",
+        "도",
+        "여행가",
+        "잖아",
+        "EC",
+        "VX",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "가까우면 그런 장점이 있지~",
+      "tokens": [
+        "가까우",
+        "면",
+        "그런",
+        "장점",
+        "이",
+        "있",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "오 어디로 가",
+      "tokens": [
+        "오",
+        "어디",
+        "로",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

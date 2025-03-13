@@ -1,0 +1,338 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "바다 오염이 심각하데",
+      "tokens": [
+        "바다",
+        "오염",
+        "이",
+        "심각",
+        "하",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 넘 심각함",
+      "tokens": [
+        "그니까",
+        "넘",
+        "심각",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래 바다생물들 많이 죽더라 ㅠ",
+      "tokens": [
+        "그래",
+        "바다",
+        "생물",
+        "들",
+        "많이",
+        "죽",
+        "더라",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "바다 생물들이 고통이래 ㅠ",
+      "tokens": [
+        "바다",
+        "생물",
+        "들",
+        "이",
+        "고통",
+        "이",
+        "래ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그걸 고기가 먹고 우리가 또 그걸",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "고기",
+        "가",
+        "먹",
+        "고",
+        "우리",
+        "가",
+        "또",
+        "그걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "불쌍하다 바다사는 생물들 ㅠ",
+      "tokens": [
+        "불쌍",
+        "하",
+        "다",
+        "바다",
+        "사",
+        "는",
+        "생물",
+        "들",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "태평양 쓰레기섬 봤제?",
+      "tokens": [
+        "태평양",
+        "쓰레기",
+        "섬",
+        "봤",
+        "EP",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "플라스틱을 줄이자 그니까",
+      "tokens": [
+        "플라스틱",
+        "을",
+        "줄이",
+        "자",
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "쓰레기 섬 진짜 무섭들",
+      "tokens": [
+        "쓰레기",
+        "섬",
+        "진짜",
+        "무섭",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엉 미세 플라스틱 장난 아니라함",
+      "tokens": [
+        "엉",
+        "미세",
+        "플라스틱",
+        "장난",
+        "아니",
+        "라",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "우리나라보다 ㅋ 큰 쓰레기섬",
+      "tokens": [
+        "우리",
+        "나라",
+        "보다",
+        "ㅋ큰",
+        "쓰레기",
+        "섬"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내는 이제부터 안써볼게",
+      "tokens": [
+        "내",
+        "는",
+        "이제",
+        "부터",
+        "안",
+        "써볼",
+        "EC",
+        "VX",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거 다 다시 우리 입으로 들어옴",
+      "tokens": [
+        "그거",
+        "다",
+        "다시",
+        "우리",
+        "입",
+        "으로",
+        "들어옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "모두 조심하자고 우리",
+      "tokens": [
+        "모두",
+        "조심",
+        "하",
+        "자고",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "사실 안 쓰는건 무리고 줄여봄",
+      "tokens": [
+        "사실",
+        "안",
+        "쓰",
+        "는",
+        "건",
+        "JX",
+        "무리",
+        "고",
+        "EC",
+        "줄여",
+        "EC",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우리나라 보다 더 크데? 대박",
+      "tokens": [
+        "우리",
+        "나라",
+        "보다",
+        "더",
+        "크",
+        "데",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "한 명 한 명이 노력해야해",
+      "tokens": [
+        "한",
+        "명",
+        "한",
+        "명",
+        "이",
+        "노력",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "헐 진짜 쓰레기가 그리 많나",
+      "tokens": [
+        "헐",
+        "진짜",
+        "쓰레기",
+        "가",
+        "그리",
+        "많",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

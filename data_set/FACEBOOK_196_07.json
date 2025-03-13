@@ -1,0 +1,408 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "엄마 보고 싶다",
+      "tokens": [
+        "엄마",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엄마는 맨날 보고 싶음 ㅠㅠ",
+      "tokens": [
+        "엄마",
+        "는",
+        "맨날",
+        "보",
+        "고",
+        "싶",
+        "음",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 ... 엄마 보고 싶다 ...",
+      "tokens": [
+        "나",
+        "도",
+        ".",
+        ".",
+        "엄마",
+        "보",
+        "고",
+        "싶",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 엄마 맨날 보고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "엄마",
+        "맨날",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "엄마랑 같이 살고싶다 ㅠㅠ",
+      "tokens": [
+        "엄마",
+        "랑",
+        "같이",
+        "살",
+        "고",
+        "싶",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 엄마 못 본 지 얼마나 됐어",
+      "tokens": [
+        "키",
+        "키",
+        "엄마",
+        "못",
+        "본",
+        "ETM",
+        "지",
+        "얼마나",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엄마 집에 사는 게 꿀이야...",
+      "tokens": [
+        "엄마",
+        "집",
+        "에",
+        "사",
+        "는",
+        "게",
+        "JKS",
+        "꿀",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엄마가 세상에서 젤 좋아",
+      "tokens": [
+        "엄마",
+        "가",
+        "세상",
+        "에서",
+        "젤",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 오늘 아침에 봤는데 ...",
+      "tokens": [
+        "나",
+        "오늘",
+        "아침",
+        "에",
+        "봤",
+        "EP",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래도 보고싶다 ...",
+      "tokens": [
+        "그래도",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엄마 어제 보고 못 봤어 ㅠㅠ",
+      "tokens": [
+        "엄마",
+        "어제",
+        "보",
+        "고",
+        "못",
+        "봤",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 엄마 밑에 있을 때가 가장 햄복 ~!",
+      "tokens": [
+        "나",
+        "도",
+        "엄마",
+        "밑",
+        "에",
+        "있",
+        "을",
+        "때",
+        "가",
+        "가장",
+        "햄",
+        "복",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜냐면 ... 배가 살짝 고파졌어",
+      "tokens": [
+        "왜냐면",
+        ".",
+        "배",
+        "가",
+        "살짝",
+        "고파졌",
+        "EC",
+        "VX",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "일하러 갔어...",
+      "tokens": [
+        "일",
+        "하",
+        "러",
+        "갔",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "워킹맘",
+      "tokens": [
+        "워킹",
+        "맘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 저번 주에 봤음 엄마 ㅠㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "저번",
+        "주",
+        "에",
+        "봤",
+        "EP",
+        "음",
+        "엄마",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "엄마 빨리 들어와서 나 밥 좀 줘 ...",
+      "tokens": [
+        "엄마",
+        "빨리",
+        "들어와서",
+        "EC",
+        "나",
+        "밥",
+        "좀",
+        "줘",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 엄마가 밥 차려 주시냐구...",
+      "tokens": [
+        "키",
+        "키",
+        "엄마",
+        "가",
+        "밥",
+        "차려",
+        "EC",
+        "주",
+        "시",
+        "냐구",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "엄마들 진짜 짱이다",
+      "tokens": [
+        "엄마",
+        "들",
+        "진짜",
+        "짱",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "밥도 해주시고 ㅠ",
+      "tokens": [
+        "밥도해주시고ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "웅 ... 나 계란후라이도 못하거든 ...",
+      "tokens": [
+        "웅",
+        ".",
+        "나",
+        "계란",
+        "후",
+        "라이",
+        "도",
+        "못하",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

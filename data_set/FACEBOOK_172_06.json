@@ -1,0 +1,810 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이젠 교육의 늪인가?",
+      "tokens": [
+        "이젠",
+        "JX",
+        "교육",
+        "의",
+        "늪",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 수업 잘해",
+      "tokens": [
+        "나",
+        "수업",
+        "잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나한테 농구 배워볼래? 히히",
+      "tokens": [
+        "나",
+        "한테",
+        "농구",
+        "배워",
+        "EC",
+        "볼래",
+        "EF",
+        "히히"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "농구?",
+      "tokens": [
+        "농구"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 운동은 진짜 못하는데 나 알려줭",
+      "tokens": [
+        "나",
+        "운동",
+        "은",
+        "진짜",
+        "못",
+        "하",
+        "는",
+        "데",
+        "나",
+        "알려",
+        "EC",
+        "줭"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 나도!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 *** 자유투 ㅋ 조금 못 넣던데~",
+      "tokens": [
+        "근데",
+        "*",
+        "*",
+        "*",
+        "자유투ㅋ조금못넣던데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 너보다 잘하거두운?!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "너",
+        "보다",
+        "잘",
+        "하거",
+        "두운",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 근데 나 막내동생 공부하는 거 보니까 요새 애들 장난 아니더라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "나",
+        "막내",
+        "동생",
+        "공부",
+        "하",
+        "는",
+        "거",
+        "보",
+        "니까",
+        "요새",
+        "애",
+        "들",
+        "장난",
+        "아니",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 막내동생이 몇 살이야?",
+      "tokens": [
+        "키",
+        "키",
+        "막내",
+        "동생",
+        "이",
+        "몇",
+        "살",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "고 1 일걸?",
+      "tokens": [
+        "고",
+        "1",
+        "일",
+        "걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘 학생들은 대학교처럼 고등학교도 교과 선택이지?",
+      "tokens": [
+        "요즘",
+        "학생",
+        "들",
+        "은",
+        "대학교",
+        "처럼",
+        "고등",
+        "학교",
+        "도",
+        "교과",
+        "선택",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "고 2야",
+      "tokens": [
+        "고",
+        "2",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "내년에 고 3!",
+      "tokens": [
+        "내년",
+        "에",
+        "고",
+        "3"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "교과 선택은 나도 고등학교 때부터 그랬는뎅!",
+      "tokens": [
+        "교과",
+        "선택",
+        "은",
+        "나",
+        "도",
+        "고등",
+        "학교",
+        "때",
+        "부터",
+        "그랬",
+        "EP",
+        "는",
+        "뎅"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우아 고 3이네",
+      "tokens": [
+        "우아",
+        "고",
+        "3",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이제 너무 빡세겠다 ㅠㅠ",
+      "tokens": [
+        "이제",
+        "너무",
+        "빡세",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "히히 지금 엄빠 자는데 약간 미션임파서블",
+      "tokens": [
+        "히히",
+        "지금",
+        "엄",
+        "빠",
+        "자는데",
+        "약간",
+        "미션",
+        "임파서블"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 예전에 생각난다",
+      "tokens": [
+        "키",
+        "키",
+        "예전",
+        "에",
+        "생각난다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "예전에 술 먹고 자주 갔는데",
+      "tokens": [
+        "예전",
+        "에",
+        "술",
+        "먹",
+        "고",
+        "자주",
+        "갔",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 임파서블 ㅌㅋ 귀엽네 ***",
+      "tokens": [
+        "키키임파서블ㅌㅋ귀엽네",
+        "*",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 고딩 때 우리 집도 너희 집도 많이 갔지...",
+      "tokens": [
+        "키키고딩때우리집도너희집도많이갔지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "우리 부모님들도 참 웃겼을 꺼야...?",
+      "tokens": [
+        "우리",
+        "부모",
+        "님",
+        "들",
+        "도",
+        "참",
+        "웃겼",
+        "EP",
+        "을",
+        "꺼",
+        "VCP",
+        "야",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "울 엄마는 나랑 너네 보고 골 때린다고 가지가지한대잖아...^^ 키키",
+      "tokens": [
+        "울엄마는나랑너네보고골때린다고가지가지한대잖아",
+        ".",
+        "^",
+        "^",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 너희 어렸을 때 정말 궁금하다...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "너희",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "정말",
+        "궁금",
+        "하",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "우리 어렸을 때도 귀여웠어!",
+      "tokens": [
+        "우리",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "도",
+        "귀여웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "그저 지금처럼 술을 좋아했을 뿐...",
+      "tokens": [
+        "그저",
+        "지금",
+        "처럼",
+        "술",
+        "을",
+        "좋아했",
+        "EP",
+        "을",
+        "뿐",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "난 지금도 귀여운뎅?",
+      "tokens": [
+        "난",
+        "JX",
+        "지금",
+        "도",
+        "귀여운",
+        "ETM",
+        "뎅"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "과거로 돌아가면 그때보다 더 열심히 놀아야지",
+      "tokens": [
+        "과거",
+        "로",
+        "돌아가",
+        "면",
+        "그때",
+        "보다",
+        "더",
+        "열심히",
+        "놀",
+        "아야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "키키 둘이 말하는 게 똑같아...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "둘",
+        "이",
+        "말",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "똑같",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "키키 과거로 돌아가면 산본 찾아 갈겡",
+      "tokens": [
+        "키",
+        "키",
+        "과거",
+        "로",
+        "돌아가",
+        "면",
+        "산본",
+        "찾아갈",
+        "ETM",
+        "겡"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 32,
+      "text": "같이 놀자!",
+      "tokens": [
+        "같이",
+        "놀",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 33,
+      "text": "근데 너희는 가족 여행 어디가 젤 재밌었엉?",
+      "tokens": [
+        "근데",
+        "너희",
+        "는",
+        "가족",
+        "여행",
+        "어디",
+        "가",
+        "젤",
+        "재밌",
+        "었",
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 34,
+      "text": "난 속초!",
+      "tokens": [
+        "난",
+        "JX",
+        "속초"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 35,
+      "text": "우리는 속초로 엄청 갔거든!",
+      "tokens": [
+        "우리",
+        "는",
+        "속초",
+        "로",
+        "엄청",
+        "갔",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 36,
+      "text": "나는 하와이!",
+      "tokens": [
+        "나",
+        "는",
+        "하와이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 37,
+      "text": "성인 돼서 다같이 간 거라 재미있었어!",
+      "tokens": [
+        "성인",
+        "돼서",
+        "EC",
+        "다",
+        "같이",
+        "간",
+        "ETM",
+        "거",
+        "라",
+        "EC",
+        "재미있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 38,
+      "text": "오...난 일본!",
+      "tokens": [
+        "오",
+        ".",
+        "난",
+        "JX",
+        "일본"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 39,
+      "text": "짱구마을 가서 너무 좋았어... 하하",
+      "tokens": [
+        "짱",
+        "구마",
+        "을",
+        "가",
+        "서",
+        "너무",
+        "좋",
+        "았",
+        "어",
+        ".",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 40,
+      "text": "물론 나만!",
+      "tokens": [
+        "물론",
+        "나",
+        "만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 41,
+      "text": "짱구마을... 키키",
+      "tokens": [
+        "짱구",
+        "마을",
+        ".",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 42,
+      "text": "나두 하와이 가고 싶당",
+      "tokens": [
+        "나",
+        "두",
+        "하와이",
+        "가",
+        "고싶",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 43,
+      "text": "키키 짱구마을 나도 데려가!",
+      "tokens": [
+        "키",
+        "키",
+        "짱구",
+        "마을",
+        "나",
+        "도",
+        "데려가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

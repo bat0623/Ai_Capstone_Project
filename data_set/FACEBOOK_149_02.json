@@ -1,0 +1,400 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 요새 갭투자 함 키",
+      "tokens": [
+        "나요새갭투자함키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그게 갭투자가 머야 알려줰 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "갭",
+        "투자",
+        "가",
+        "머",
+        "야",
+        "알려",
+        "EC",
+        "줰키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오 나도 해보려고 키키 핫하지 키키",
+      "tokens": [
+        "오",
+        "나",
+        "도",
+        "해",
+        "EC",
+        "보",
+        "려고",
+        "키",
+        "키",
+        "핫",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "갭투자가 진짜 쏠쏠해 부동산 키키",
+      "tokens": [
+        "갭",
+        "투자",
+        "가",
+        "진짜",
+        "쏠쏠",
+        "해",
+        "EC",
+        "부동산",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그런 게 있어 신기하네 나도 할까",
+      "tokens": [
+        "그런",
+        "게",
+        "JKS",
+        "있",
+        "어",
+        "신기",
+        "하",
+        "네",
+        "나",
+        "도",
+        "할까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "공부 많이 하고 해야 하더라 키키",
+      "tokens": [
+        "공부",
+        "많이",
+        "하",
+        "고",
+        "해야",
+        "EC",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "ㅇㅇ 송도에 갭투자로 5채 얻음 키키",
+      "tokens": [
+        "ㅇㅇ송도에갭투자로",
+        "5",
+        "채",
+        "얻",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "부동산 아 대박 와우 나도 할랰 키키",
+      "tokens": [
+        "부동산",
+        "아",
+        "대박",
+        "와",
+        "우나",
+        "도",
+        "할",
+        "ETM",
+        "랰키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오우 대박이네 키키",
+      "tokens": [
+        "오우",
+        "대박",
+        "이",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "팁 좀 줘 ㅋ",
+      "tokens": [
+        "팁좀줘ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "ㅇㅇ 공부가 필수여 요새 키키",
+      "tokens": [
+        "ㅇㅇ",
+        "공부",
+        "가",
+        "필수",
+        "여요",
+        "EF",
+        "새",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "공부 좀 해야겠다 그거 할려면 키키",
+      "tokens": [
+        "공부",
+        "좀",
+        "해야겠다",
+        "EC",
+        "VX",
+        "EP",
+        "EF",
+        "그거",
+        "할려면",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "송도 좋지 살기 좋은 동네지 ㅋ",
+      "tokens": [
+        "송",
+        "도",
+        "좋",
+        "지",
+        "살",
+        "기",
+        "좋",
+        "은",
+        "동네",
+        "지ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나중에 만나서 알려줌 키키",
+      "tokens": [
+        "나중",
+        "에",
+        "만나",
+        "서",
+        "알려줌",
+        "EC",
+        "VX",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "마자 팁 좀 줘 한번 키키",
+      "tokens": [
+        "마자",
+        "팁",
+        "좀",
+        "줘",
+        "EF",
+        "한번",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 송도에 살려고 조만간 키키",
+      "tokens": [
+        "나",
+        "도",
+        "송도",
+        "에",
+        "살",
+        "려고",
+        "조만간",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "요새 공인중개사 시험도 많이 보더라고 키키 부동산 때문에",
+      "tokens": [
+        "요새",
+        "공인",
+        "중개사",
+        "시험",
+        "도",
+        "많이",
+        "보",
+        "더라고",
+        "키",
+        "키",
+        "부동산",
+        "때문",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 그런 거 잘 몰라 키키",
+      "tokens": [
+        "나",
+        "는",
+        "그런",
+        "거",
+        "잘",
+        "몰라",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "잘 모를 것 같더라 키키 너는 키키",
+      "tokens": [
+        "잘",
+        "모를",
+        "ETM",
+        "것",
+        "같",
+        "더라",
+        "키",
+        "키",
+        "ETN",
+        "너",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 독일어 공부 중이야 키키",
+      "tokens": [
+        "요즘",
+        "독일어",
+        "공부",
+        "중",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "곧 있으면 수능이네 너무 떨려",
+      "tokens": [
+        "곧",
+        "있",
+        "으면",
+        "수능",
+        "이",
+        "네",
+        "너무",
+        "떨려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 영어선생님이 될 거야~!",
+      "tokens": [
+        "나",
+        "는",
+        "영어",
+        "선생",
+        "님",
+        "이",
+        "될",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "독일어 진짜 재밌어 요즘",
+      "tokens": [
+        "독일",
+        "어",
+        "진짜",
+        "재밌",
+        "어",
+        "요즘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "독일어 너무 어렵지 않아?",
+      "tokens": [
+        "독일어",
+        "너무",
+        "어렵",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "수능이야?",
+      "tokens": [
+        "수능",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "시험 잘쳐!",
+      "tokens": [
+        "시험",
+        "잘",
+        "쳐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "영어는 이젠 시시해 키키",
+      "tokens": [
+        "영어",
+        "는",
+        "이젠",
+        "JX",
+        "시시",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "영어는 조금 쉬운 편인 거 같아",
+      "tokens": [
+        "영어",
+        "는",
+        "조금",
+        "쉬운",
+        "ETM",
+        "편",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "영어가 이제 시시하다고 ?",
+      "tokens": [
+        "영어",
+        "가",
+        "이제",
+        "시시",
+        "하",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "수학 과학은 나한테 배워 키키",
+      "tokens": [
+        "수학",
+        "과학",
+        "은",
+        "나",
+        "한테",
+        "배워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "수능 별로 긴장은 안돼 키키",
+      "tokens": [
+        "수능",
+        "별",
+        "로",
+        "긴장",
+        "은",
+        "안",
+        "돼",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "7번째라서 키키",
+      "tokens": [
+        "7",
+        "번",
+        "째",
+        "라서",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "영어는 깊게 배우면 어렵다고",
+      "tokens": [
+        "영어",
+        "는",
+        "깊",
+        "게",
+        "배우",
+        "면",
+        "어렵",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "영어 엄청 시시해",
+      "tokens": [
+        "영어",
+        "엄청",
+        "시시",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "다 알아 키키",
+      "tokens": [
+        "다",
+        "알",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "수학 과학 너 잘해?",
+      "tokens": [
+        "수학",
+        "과학",
+        "너",
+        "잘",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "부럽다 야",
+      "tokens": [
+        "부럽",
+        "다야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나한테 수학 가르쳐줘",
+      "tokens": [
+        "나",
+        "한테",
+        "수학",
+        "가르쳐줘",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "매일 공부 중이야 난 키키",
+      "tokens": [
+        "매일",
+        "공부",
+        "중",
+        "이",
+        "야",
+        "난키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "수학은 덧셈 뺄셈만 하면 다한 거야",
+      "tokens": [
+        "수학",
+        "은",
+        "덧셈",
+        "뺄셈",
+        "만",
+        "하",
+        "면",
+        "다한",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "과학은 내가 더 잘할 듯",
+      "tokens": [
+        "과학",
+        "은",
+        "내",
+        "가",
+        "더",
+        "잘",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

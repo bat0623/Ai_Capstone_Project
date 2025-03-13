@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 학생 때는 참 순수했던 듯",
+      "tokens": [
+        "우리",
+        "학생",
+        "때",
+        "는",
+        "참",
+        "순수",
+        "했",
+        "EP",
+        "던",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "순수 그 자체 하하",
+      "tokens": [
+        "순수",
+        "그",
+        "자체",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "엄청 순수했지 키키",
+      "tokens": [
+        "엄청",
+        "순수",
+        "했",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "요즘 학생들은 노답이더라... 촉법들",
+      "tokens": [
+        "요즘",
+        "학생",
+        "들",
+        "은",
+        "노",
+        "답",
+        "이",
+        "더라",
+        ".",
+        "촉",
+        "법",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그니까 차를 훔치고 하하",
+      "tokens": [
+        "그니까",
+        "차",
+        "를",
+        "훔치",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "공부는 안 했지만 키키 순수했어",
+      "tokens": [
+        "공부",
+        "는",
+        "안",
+        "했",
+        "EP",
+        "지만",
+        "키",
+        "키",
+        "순수",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "촉법 넘 무서워 ㅠㅠ",
+      "tokens": [
+        "촉법넘무서워ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마약도 하고 완젼",
+      "tokens": [
+        "마약",
+        "도",
+        "하",
+        "고",
+        "완",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그래 ㅜㅜ",
+      "tokens": [
+        "그래ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너무 무서운 애들 많드라",
+      "tokens": [
+        "너무",
+        "무서운",
+        "ETM",
+        "애",
+        "들",
+        "많",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "학생들이 그냥 왕이야...",
+      "tokens": [
+        "학생",
+        "들",
+        "이",
+        "그냥",
+        "왕",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그 나비약 그거 한다대?",
+      "tokens": [
+        "그나",
+        "비약",
+        "그거",
+        "한다",
+        "EC",
+        "대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래 그런 건 어찌 구함",
+      "tokens": [
+        "그래",
+        "그런",
+        "건",
+        "JX",
+        "어찌",
+        "구함"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 그게 더 신기",
+      "tokens": [
+        "근데",
+        "그게",
+        "JKS",
+        "더",
+        "신기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "차 훔치는 거 소름 아냐?",
+      "tokens": [
+        "차",
+        "훔치",
+        "는",
+        "거",
+        "소름",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "애들 그거 사서 먹는다던데 하하",
+      "tokens": [
+        "애",
+        "들",
+        "그거",
+        "사",
+        "서",
+        "먹",
+        "는다던데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "헐 대박 ㅜㅜ",
+      "tokens": [
+        "헐대박ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "차도 훔치나 키키",
+      "tokens": [
+        "차",
+        "도",
+        "훔치",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "촉법이 생겨서 그럼 ㅠㅠ",
+      "tokens": [
+        "촉",
+        "법",
+        "이",
+        "생겨서",
+        "EC",
+        "그럼",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "엊그제도 하나 훔침 하하",
+      "tokens": [
+        "엊그제",
+        "도하",
+        "나훔",
+        "침하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "무서운 게 없는 애들이네 요새 키키",
+      "tokens": [
+        "무서운",
+        "ETM",
+        "게",
+        "JKS",
+        "없",
+        "는",
+        "애",
+        "들",
+        "이",
+        "네",
+        "요새",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

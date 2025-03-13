@@ -1,0 +1,375 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 점심 메뉴 정했어?",
+      "tokens": [
+        "오늘",
+        "점심",
+        "메뉴",
+        "정했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "에너지 드링크 몸에 안 좋음",
+      "tokens": [
+        "에너지",
+        "드링크",
+        "몸",
+        "에",
+        "안",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아침부터 배고프다",
+      "tokens": [
+        "아침",
+        "부터",
+        "배고프",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "뭐 먹을껴",
+      "tokens": [
+        "뭐",
+        "먹",
+        "을",
+        "껴",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 오늘 찜닭!",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "찜",
+        "닭"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 돼지국밥 픽!",
+      "tokens": [
+        "난",
+        "JX",
+        "돼지국밥",
+        "픽"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 오 찜닭스 좋은데",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "찜",
+        "닭",
+        "스",
+        "좋",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "고추장 찜닭이 집에  있어!",
+      "tokens": [
+        "고추장",
+        "찜",
+        "닭",
+        "이",
+        "집",
+        "에",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "찜닭은 안동이 맛있음",
+      "tokens": [
+        "찜",
+        "닭",
+        "은",
+        "안동",
+        "이",
+        "맛있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 아직도 못 정함",
+      "tokens": [
+        "난",
+        "JX",
+        "아직",
+        "도",
+        "못",
+        "정함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "찜닭은 안동이 맛있어?",
+      "tokens": [
+        "찜",
+        "닭",
+        "은",
+        "안동",
+        "이",
+        "맛있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "봉추찜닭도 맛있어 배달 중엔",
+      "tokens": [
+        "봉추",
+        "찜",
+        "닭",
+        "도",
+        "맛있",
+        "어",
+        "배달",
+        "중",
+        "엔",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "선택 장애 있어서 좀 있다 떙기는 거",
+      "tokens": [
+        "선택",
+        "장애",
+        "있",
+        "어서",
+        "좀",
+        "있",
+        "다",
+        "떙기",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "언제 정할 거야...",
+      "tokens": [
+        "언제",
+        "정할",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "지금쯤 정해야지",
+      "tokens": [
+        "지금",
+        "쯤",
+        "정해야",
+        "EC",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "안동이 젤 맛있다는 거",
+      "tokens": [
+        "안동",
+        "이",
+        "젤",
+        "맛있",
+        "다는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오오 난 그거 안동 맛있더라 키키",
+      "tokens": [
+        "오오",
+        "난",
+        "JX",
+        "그거",
+        "안동",
+        "맛있",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "안동 찜닭 맛있다고?",
+      "tokens": [
+        "안동",
+        "찜",
+        "닭",
+        "맛있",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 돈이 없어서 급식",
+      "tokens": [
+        "난",
+        "JX",
+        "돈",
+        "이",
+        "없",
+        "어서",
+        "급식"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래 ㅜㅜ",
+      "tokens": [
+        "그래ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "지금 정해야 점심에 먹지 키키",
+      "tokens": [
+        "지금",
+        "정해야",
+        "EC",
+        "점심",
+        "에",
+        "먹",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

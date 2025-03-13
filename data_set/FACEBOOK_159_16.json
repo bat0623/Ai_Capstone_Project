@@ -1,0 +1,349 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "머리 어디서 잘라?",
+      "tokens": [
+        "머리",
+        "어디",
+        "서",
+        "잘라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 그냥 가까운데",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "가까운데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 시내에서 자르는데 장발로 길뤄볼까?",
+      "tokens": [
+        "나",
+        "시내",
+        "에서",
+        "자르",
+        "는데",
+        "장발",
+        "로",
+        "길",
+        "뤄",
+        "볼까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "바버샵 가보신분 있나여",
+      "tokens": [
+        "바버",
+        "샵",
+        "가",
+        "보",
+        "신",
+        "ETM",
+        "분",
+        "있",
+        "나",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "바버샵 너무 비싸",
+      "tokens": [
+        "바버샵너무비싸"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "바버샵 나 마니 마니 갔었징 근데 비싸",
+      "tokens": [
+        "바버",
+        "샵",
+        "나마니",
+        "마니",
+        "갔었",
+        "EP",
+        "징",
+        "근데",
+        "비싸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "바버샵은 서비스가 달라?",
+      "tokens": [
+        "바버",
+        "샵",
+        "은",
+        "서비스",
+        "가",
+        "달라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "음 일단 머리 오래 깎으니까",
+      "tokens": [
+        "음",
+        "일단",
+        "머리",
+        "오래",
+        "깎",
+        "으니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "좀 섬세하게 잘해주셔",
+      "tokens": [
+        "좀",
+        "섬세",
+        "하",
+        "게",
+        "잘",
+        "해",
+        "EC",
+        "주",
+        "셔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "얼마나 비싼지 말해죠",
+      "tokens": [
+        "얼마나",
+        "비싼지",
+        "EC",
+        "말",
+        "해",
+        "EC",
+        "죠"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "커트 한 5만 하지 않나",
+      "tokens": [
+        "커트",
+        "한",
+        "ETM",
+        "5",
+        "만",
+        "하",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "강남은 5만5천원 출발?",
+      "tokens": [
+        "강남",
+        "은",
+        "5",
+        "만",
+        "5",
+        "천",
+        "원",
+        "출발"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "머리를 엄청 정성스럽게 깎는 거임?",
+      "tokens": [
+        "머리",
+        "를",
+        "엄청",
+        "정성",
+        "스럽",
+        "게",
+        "깎",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나는 그 돈 주고는 못 자르겠드라",
+      "tokens": [
+        "나",
+        "는",
+        "그",
+        "돈",
+        "주고",
+        "는",
+        "못",
+        "자르",
+        "겠",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그렇지 한 두세번 깎아주셔",
+      "tokens": [
+        "그렇",
+        "지",
+        "한",
+        "두세",
+        "번",
+        "깎",
+        "아",
+        "주",
+        "셔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "비싸긴 비싸네 심했네",
+      "tokens": [
+        "비싸",
+        "긴",
+        "JX",
+        "비싸",
+        "네",
+        "심했",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "가위로만 커트하잖오 바리깡 안쓰고",
+      "tokens": [
+        "가위",
+        "로",
+        "만",
+        "커트",
+        "하",
+        "잖",
+        "오",
+        "바리",
+        "깡",
+        "안",
+        "쓰",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "8.5만원까지 봄",
+      "tokens": [
+        "8",
+        ".",
+        "5",
+        "만",
+        "원",
+        "까지",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

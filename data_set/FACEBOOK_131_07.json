@@ -1,0 +1,374 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부모님이랑 통화 자주 해?",
+      "tokens": [
+        "부모",
+        "님",
+        "이랑",
+        "통화",
+        "자주",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "통화 자주 해야 해 하하",
+      "tokens": [
+        "통화",
+        "자주",
+        "해야",
+        "EC",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "저는 매일 전화 드리고 있어요 하하",
+      "tokens": [
+        "저",
+        "는",
+        "매일",
+        "전화",
+        "드리",
+        "고",
+        "있",
+        "어요",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 아빠랑은 자주 안 하는 듯",
+      "tokens": [
+        "난",
+        "JX",
+        "아빠",
+        "랑",
+        "은",
+        "자주",
+        "안",
+        "하",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "하루에 한번은 해야지 하하",
+      "tokens": [
+        "하루",
+        "에",
+        "한",
+        "번",
+        "은",
+        "해야",
+        "EC",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "특히 아버지한테도 자주 하구요",
+      "tokens": [
+        "특히",
+        "아버지",
+        "한테",
+        "도",
+        "자주",
+        "하",
+        "구요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아빠는 한 일주일에  한번 할까?",
+      "tokens": [
+        "아빠",
+        "는",
+        "한",
+        "일",
+        "주일",
+        "에",
+        "한",
+        "번",
+        "할까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나도 아빠랑은 안 하네 하하",
+      "tokens": [
+        "나",
+        "도",
+        "아빠",
+        "랑",
+        "은",
+        "안",
+        "하",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아버지들 전화하시면 좋아 하실 거에요",
+      "tokens": [
+        "아버지",
+        "들",
+        "전화",
+        "하",
+        "시",
+        "면",
+        "좋",
+        "아",
+        "하",
+        "실",
+        "ETM",
+        "거",
+        "에요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엄마한테는 하루에  한... 5번...",
+      "tokens": [
+        "엄마",
+        "한테",
+        "는",
+        "하루",
+        "에",
+        "한",
+        "ETM",
+        ".",
+        ".",
+        "5",
+        "번",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 아빠한테는 자주 가지 나는 하하",
+      "tokens": [
+        "근데",
+        "아빠",
+        "한테",
+        "는",
+        "자주",
+        "가",
+        "지나",
+        "는",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "의외로 우리 전화를 기다리시거든요",
+      "tokens": [
+        "의외",
+        "로",
+        "우리",
+        "전화",
+        "를",
+        "기다리",
+        "시",
+        "거든요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리 아빠는 넘 쿨해서",
+      "tokens": [
+        "우리",
+        "아빠",
+        "는",
+        "넘",
+        "쿨",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엄마는 거진 뭐 그렇지",
+      "tokens": [
+        "엄마",
+        "는",
+        "거진",
+        "뭐",
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "안부 인사 드리고 하면 많이 좋아하셔요 하하",
+      "tokens": [
+        "안부",
+        "인사",
+        "드리",
+        "고",
+        "하",
+        "면",
+        "많이",
+        "좋",
+        "아",
+        "하",
+        "셔요",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "전화하면 빨리 끊으려고 함 하하",
+      "tokens": [
+        "전화",
+        "하",
+        "면",
+        "빨리",
+        "끊",
+        "으려고",
+        "함하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "장인 어른은 쿨하심 하하",
+      "tokens": [
+        "장인어른",
+        "은",
+        "쿨",
+        "하",
+        "심하",
+        "ETM",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러니 전화는 자주 해야 해요!",
+      "tokens": [
+        "그러",
+        "니",
+        "전화",
+        "는",
+        "자주",
+        "해야",
+        "EC",
+        "해요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "집에  철봉 하나 사려구",
+      "tokens": [
+        "집",
+        "에",
+        "철봉",
+        "하나",
+        "사",
+        "려구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 철봉으로 뭐하게?",
+      "tokens": [
+        "키",
+        "키",
+        "철봉",
+        "으로",
+        "뭐",
+        "하",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "빨래걸이?",
+      "tokens": [
+        "빨래",
+        "걸이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "철봉 어디다 걸라구",
+      "tokens": [
+        "철봉",
+        "어디",
+        "다",
+        "걸",
+        "라구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "철봉 사보신분 있나여",
+      "tokens": [
+        "철봉",
+        "사보",
+        "신분",
+        "있",
+        "나",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 사봤지 키키 있어 지금도",
+      "tokens": [
+        "나사",
+        "봤",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN",
+        "있",
+        "어",
+        "지금",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리집에 있움...",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "있",
+        "움",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "빨래걸이 옷걸이로 쓰는듕",
+      "tokens": [
+        "빨래",
+        "걸이",
+        "옷걸이",
+        "로",
+        "쓰",
+        "는",
+        "듕"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "철봉 거는거 말고!",
+      "tokens": [
+        "철봉",
+        "거",
+        "는",
+        "거",
+        "말",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아하? 힘콩 철봉 같은 거 말하나",
+      "tokens": [
+        "아하",
+        "힘",
+        "콩",
+        "철봉",
+        "같",
+        "은",
+        "거",
+        "말",
+        "하",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "철봉 밑에 사람말고 제습기 있음^^",
+      "tokens": [
+        "철봉",
+        "밑",
+        "에",
+        "사람",
+        "말",
+        "고",
+        "제습기",
+        "있",
+        "음",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그거 그 뭐냐 헬스장에 있는 거",
+      "tokens": [
+        "그거",
+        "그",
+        "뭐",
+        "냐",
+        "EC",
+        "헬스",
+        "장",
+        "에",
+        "있",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "스쿼트렉 같은 거 말하나...?",
+      "tokens": [
+        "스쿼트렉같은거말하나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "치닝디핑  키키 그거 있음 공간 너무 많이 차지해",
+      "tokens": [
+        "치",
+        "닝",
+        "디",
+        "핑키",
+        "키",
+        "그거",
+        "있",
+        "음",
+        "공간",
+        "너무",
+        "많이",
+        "차지",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 철봉 열심히 할꺼라고오",
+      "tokens": [
+        "키",
+        "키",
+        "철봉",
+        "열심히",
+        "할꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "라고",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 고무밴드만 겁나 박살낼듯",
+      "tokens": [
+        "키",
+        "키",
+        "고",
+        "무",
+        "밴드",
+        "만",
+        "겁나",
+        "EC",
+        "박살",
+        "낼",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그게 안되더라구... 우리집 철봉은 사망해써 그래서...",
+      "tokens": [
+        "그게",
+        "JKS",
+        "안",
+        "되",
+        "더라구",
+        ".",
+        "우리",
+        "집",
+        "철봉",
+        "은",
+        "사망",
+        "해",
+        "EC",
+        "써",
+        "EC",
+        "그래서",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "스쿼트렉은 또 뭐여...",
+      "tokens": [
+        "스쿼트렉은또뭐여",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나는 키키 집에 문틈봉~",
+      "tokens": [
+        "나",
+        "는",
+        "키",
+        "키",
+        "집",
+        "에",
+        "문틈",
+        "봉",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "헬스장에 있는 거...무거운 거 재놓는 거...스쿼트 하는 거...",
+      "tokens": [
+        "헬스",
+        "장",
+        "에",
+        "있",
+        "는",
+        "거",
+        ".",
+        "무거운",
+        "ETM",
+        "거",
+        "재",
+        "EC",
+        "놓",
+        "는",
+        "거",
+        ".",
+        "스",
+        "쿼트",
+        "하",
+        "는",
+        "거",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

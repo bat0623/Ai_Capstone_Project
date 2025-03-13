@@ -1,0 +1,415 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대도 월급 올라야 한다봄",
+      "tokens": [
+        "군대",
+        "도",
+        "월급",
+        "올라야",
+        "EC",
+        "한다",
+        "EC",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "지금도 50 받을텐데",
+      "tokens": [
+        "지금",
+        "도",
+        "50",
+        "받",
+        "을",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘도 많이 주잖어... 나 때는 병장 7만 9천원이었어",
+      "tokens": [
+        "요즘",
+        "도",
+        "많이",
+        "주",
+        "잖어",
+        "VX",
+        "EF",
+        ".",
+        "나",
+        "때",
+        "는",
+        "병장",
+        "7",
+        "만",
+        "9",
+        "천",
+        "원",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "최저 시급 이상은 줘야지",
+      "tokens": [
+        "최저",
+        "시급",
+        "이상",
+        "은",
+        "줘야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어렵다 어려워~ 뭐가 맞는지",
+      "tokens": [
+        "어렵",
+        "다",
+        "어려워",
+        "EC",
+        "~",
+        "뭐",
+        "가",
+        "맞",
+        "는지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "담배값도 없어서 집에 돈 보내 달랬었는데",
+      "tokens": [
+        "담배",
+        "값",
+        "도",
+        "없",
+        "어서",
+        "집",
+        "에",
+        "돈",
+        "보내",
+        "EC",
+        "달랬었",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "50넘 적게 주잖아 ㅠㅠ",
+      "tokens": [
+        "50",
+        "넘적게주잖아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 맞아 형때는 그랬겠다",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "형",
+        "때",
+        "는",
+        "그랬",
+        "EP",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "줄건 줘야지. 그게 맞음.",
+      "tokens": [
+        "줄",
+        "건",
+        "줘야지",
+        "EF",
+        "그게",
+        "JKS",
+        "맞음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 7만 9천원 심했네",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "7",
+        "만",
+        "9",
+        "천",
+        "원심",
+        "했",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그때 담배 얼마였음?",
+      "tokens": [
+        "그때",
+        "담배",
+        "얼마",
+        "였",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그땐 2500아니었나? 키키",
+      "tokens": [
+        "그",
+        "땐",
+        "JX",
+        "2500",
+        "아니",
+        "었",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "2500원 키키 진짜 답도없음",
+      "tokens": [
+        "2500",
+        "원키키진짜답도없음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "지금처럼 비싸진 않았겠지",
+      "tokens": [
+        "지금",
+        "처럼",
+        "비싸",
+        "진",
+        "JX",
+        "않",
+        "았",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 키키 그땐 그나마 나았음",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "그땐",
+        "JX",
+        "그나마",
+        "나았",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래도 한보루 만원에 한달 한보루 보급나왔었다",
+      "tokens": [
+        "그래도",
+        "한",
+        "보루",
+        "만",
+        "원",
+        "에",
+        "한",
+        "달",
+        "한",
+        "ETM",
+        "보루",
+        "보급",
+        "나왔었",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 뭐야 월급이 더 많이 올랐네 그럼",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "뭐",
+        "야",
+        "EF",
+        "월급",
+        "이",
+        "더",
+        "많이",
+        "올랐",
+        "EP",
+        "네",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "담배값 같은 거 키키",
+      "tokens": [
+        "담배",
+        "값",
+        "같",
+        "은",
+        "거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "지금은 너무 비쌈 담배값",
+      "tokens": [
+        "지금",
+        "은",
+        "너무",
+        "비",
+        "쌈",
+        "담배",
+        "값"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "엄청 시리 오른거라니까... 피엑스도 못감",
+      "tokens": [
+        "엄청",
+        "시리",
+        "오른",
+        "VV",
+        "ETM",
+        "거",
+        "라니까",
+        "EF",
+        ".",
+        "피엑스",
+        "도",
+        "못",
+        "감",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

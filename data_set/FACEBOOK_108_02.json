@@ -1,0 +1,515 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너 지금 룸메랑 사는 곳 계약일은 언제야?",
+      "tokens": [
+        "너",
+        "지금",
+        "룸",
+        "메",
+        "랑",
+        "사",
+        "는",
+        "곳",
+        "계",
+        "약일",
+        "은",
+        "언제",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "계약은 7월 초에 다시 했어!",
+      "tokens": [
+        "계약",
+        "은",
+        "7",
+        "월",
+        "초",
+        "에",
+        "다시",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "올해 7월에 들어간 거야?",
+      "tokens": [
+        "올해",
+        "7",
+        "월",
+        "에",
+        "들어간",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어어 맞아",
+      "tokens": [
+        "어",
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그전에는 다른 곳에 있었구",
+      "tokens": [
+        "그",
+        "전",
+        "에",
+        "는",
+        "다른",
+        "곳",
+        "에",
+        "있",
+        "었",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "1년 계약한 거야?",
+      "tokens": [
+        "1",
+        "년",
+        "계약",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "1년 했어 이번엔",
+      "tokens": [
+        "1",
+        "년",
+        "했",
+        "EP",
+        "어",
+        "이번",
+        "엔",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "내년에 다른 곳으로 갈 생각은 없고?",
+      "tokens": [
+        "내년",
+        "에",
+        "다른",
+        "곳",
+        "으로",
+        "갈",
+        "ETM",
+        "생각",
+        "은",
+        "없",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "일단은 계속 있을 생각이야",
+      "tokens": [
+        "일단",
+        "은",
+        "계속",
+        "있",
+        "을",
+        "생각",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "이사 비용도 많이 들고 ㅠㅠ",
+      "tokens": [
+        "이사",
+        "비용",
+        "도",
+        "많이",
+        "들",
+        "고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 이사 가려다가 이사비가 만만치 않더라 ㅜ",
+      "tokens": [
+        "나",
+        "도",
+        "이사",
+        "가",
+        "려다가",
+        "이사비",
+        "가",
+        "만만",
+        "치",
+        "EC",
+        "않",
+        "더라",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 맞아",
+      "tokens": [
+        "맞",
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그리고 요즘엔 집도 별로 없고 비싸더라 ㅠ",
+      "tokens": [
+        "그리고",
+        "요즘",
+        "엔",
+        "JX",
+        "집",
+        "도",
+        "별로",
+        "없",
+        "고",
+        "비싸",
+        "더라",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 이사 비용 견적만 20만 원 나와서 그냥 있던 집 재계약했어 ㅜㅜ",
+      "tokens": [
+        "나",
+        "이사",
+        "비용",
+        "견적",
+        "만",
+        "20",
+        "만원나와서그냥있던집재계약했어ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 그전에 살 때 계속 그렇게 한 집에 있었던 거 같아",
+      "tokens": [
+        "나",
+        "도",
+        "그",
+        "전",
+        "에",
+        "살",
+        "ETM",
+        "때",
+        "계속",
+        "그렇게",
+        "한",
+        "집",
+        "에",
+        "있",
+        "었",
+        "던",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "차라리 좋은 집을 열심히 찾아보고 구해서 계속 그 곳에 사는 게 나은 거 같아!",
+      "tokens": [
+        "차라리",
+        "좋",
+        "은",
+        "집",
+        "을",
+        "열심히",
+        "찾아보",
+        "고",
+        "구해서",
+        "EC",
+        "계속",
+        "그곳",
+        "에",
+        "사",
+        "는",
+        "게",
+        "JKS",
+        "나",
+        "은",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "맞아 ㅠ",
+      "tokens": [
+        "맞아ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그리고 직장도 다니면 한 곳이 낫지!",
+      "tokens": [
+        "그리고",
+        "직장",
+        "도",
+        "다니",
+        "면",
+        "한",
+        "곳",
+        "이",
+        "낫",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "하지만 현실은 그게 제일 어렵다는 거~",
+      "tokens": [
+        "하지만",
+        "현실",
+        "은",
+        "그게",
+        "JKS",
+        "제일",
+        "어렵",
+        "다는",
+        "거",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "그것도 아주 인정 힘들다 ㅠㅠ",
+      "tokens": [
+        "그것",
+        "도",
+        "아주",
+        "인정",
+        "힘들",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

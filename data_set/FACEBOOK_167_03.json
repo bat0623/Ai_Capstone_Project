@@ -1,0 +1,354 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그럼 이제 산청 출퇴근...?",
+      "tokens": [
+        "그럼",
+        "이제",
+        "산청",
+        "출퇴근",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "산청 출퇴근 힘들겠다",
+      "tokens": [
+        "산청",
+        "출퇴근",
+        "힘들",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "** 행님이 데리러 오는 구조예요",
+      "tokens": [
+        "*",
+        "*",
+        "행님이데리러오는구조예요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "차타고 얼마나 걸려?",
+      "tokens": [
+        "차",
+        "타",
+        "고",
+        "얼마나",
+        "걸려",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "겨울에 조심히 운전해야지",
+      "tokens": [
+        "겨울",
+        "에",
+        "조심히",
+        "운전",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "행님이 차타고 아줌마들도 태워서",
+      "tokens": [
+        "행",
+        "님",
+        "이",
+        "차",
+        "타",
+        "고",
+        "아줌마",
+        "들",
+        "도",
+        "태워서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "거리가 얼마나 되냥?",
+      "tokens": [
+        "거리",
+        "가",
+        "얼마나",
+        "되",
+        "냥"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그러게 아주 먼가?",
+      "tokens": [
+        "그러게",
+        "아주",
+        "먼가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "같이 가는 시스템?",
+      "tokens": [
+        "같이",
+        "가",
+        "는",
+        "시스템"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오 역시 ** 운전수",
+      "tokens": [
+        "오",
+        "역시",
+        "*",
+        "*",
+        "운전수"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 아줌마들도 태웡야하는ㄱ둔",
+      "tokens": [
+        "아",
+        "아줌마",
+        "들",
+        "도",
+        "태웡",
+        "야",
+        "하",
+        "는",
+        "ㄱ",
+        "둔",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 옥종까지 가야한데여 ㅠㅠ",
+      "tokens": [
+        "근데",
+        "옥종",
+        "까지",
+        "가",
+        "야",
+        "한",
+        "EP",
+        "데여",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "통근 버스 운전 하는 군",
+      "tokens": [
+        "통근",
+        "버스",
+        "운전",
+        "하",
+        "는군"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "옥종하면 온천 아닌가",
+      "tokens": [
+        "옥종",
+        "하",
+        "면",
+        "온천",
+        "아닌가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "산청이 아니라 일하는 곳이 옥종! 하동",
+      "tokens": [
+        "산청",
+        "이",
+        "아니",
+        "라",
+        "일",
+        "하",
+        "는",
+        "곳",
+        "이",
+        "옥종",
+        "!",
+        "하동"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "대박 웃기당",
+      "tokens": [
+        "대박",
+        "웃기",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "버스 샀음?",
+      "tokens": [
+        "버스",
+        "샀",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "옥종 온천 많이갓ㄴ는데",
+      "tokens": [
+        "옥종",
+        "온천",
+        "많이",
+        "갓",
+        "ㄴ",
+        "는",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "행님이 힘들 거예요 ~",
+      "tokens": [
+        "행",
+        "님",
+        "이",
+        "힘들",
+        "ETM",
+        "거",
+        "예요",
+        "EF",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "스타렉스 키키 타고 갑니다",
+      "tokens": [
+        "스타렉스",
+        "키",
+        "키",
+        "ETN",
+        "타",
+        "고",
+        "갑니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

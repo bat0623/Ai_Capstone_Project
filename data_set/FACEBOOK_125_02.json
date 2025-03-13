@@ -1,0 +1,383 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 집 엘리베이터 없는 게 너무 불편해 ㅠㅠ",
+      "tokens": [
+        "우리",
+        "집",
+        "엘리베이터",
+        "없",
+        "는",
+        "게",
+        "JKS",
+        "너무",
+        "불편",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 진짜 엘리베이터 없음 어떻게",
+      "tokens": [
+        "아",
+        "진짜",
+        "엘리베이터",
+        "없",
+        "음",
+        "어떻",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그니까... 요즘 발 다치고 나니 느껴지네",
+      "tokens": [
+        "그니까",
+        ".",
+        "요즘발다치고나니느껴지네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "몇 층이야 집이?",
+      "tokens": [
+        "몇",
+        "층",
+        "이",
+        "야집",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "걸어다닐라면 힘들겠다",
+      "tokens": [
+        "걸",
+        "어",
+        "다닐",
+        "ETM",
+        "라면",
+        "힘들",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우리집 4층인데 요즘 힘들어 키키",
+      "tokens": [
+        "우리",
+        "집",
+        "4",
+        "층",
+        "인데",
+        "EC",
+        "요즘",
+        "힘들",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 진짜 힘들긴 하겠다 키키 올라가기",
+      "tokens": [
+        "아",
+        "진짜",
+        "힘들",
+        "긴",
+        "JX",
+        "하",
+        "겠",
+        "다키키",
+        "올라가",
+        "기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오빠 집에는 엘리베이터 있어?",
+      "tokens": [
+        "오빠",
+        "집",
+        "에",
+        "는",
+        "엘리베이터",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 삼 층만 올라가도 헥헥 거리는데 키키",
+      "tokens": [
+        "나",
+        "는",
+        "삼",
+        "층",
+        "만",
+        "올라가",
+        "도",
+        "헥헥거리",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "에이 완전 저질 체력이네!",
+      "tokens": [
+        "에이",
+        "완전",
+        "저질",
+        "체력",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "걸어 다니자 키키",
+      "tokens": [
+        "걸",
+        "어",
+        "다니자키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니 엘리베이터 없지 우리 집에도 키키",
+      "tokens": [
+        "아니",
+        "엘리베이터",
+        "없",
+        "지",
+        "우리",
+        "집",
+        "에",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "걸어 다녀 나도",
+      "tokens": [
+        "걸",
+        "어",
+        "다녀",
+        "EF",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "3층 정도면 당연히 걸어 다녀야지!",
+      "tokens": [
+        "3",
+        "층",
+        "정도",
+        "면",
+        "EC",
+        "당연히",
+        "걸",
+        "어",
+        "다녀야지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 진짜 힘들어... 체력 저질이야",
+      "tokens": [
+        "나",
+        "진짜",
+        "힘들",
+        "어",
+        ".",
+        "체력",
+        "저질",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그런 거 같아 나도 요즘 계단 힘들어",
+      "tokens": [
+        "그런",
+        "거",
+        "같",
+        "아",
+        "나",
+        "도",
+        "요즘",
+        "계단",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 그래도 나는 엘리베이터 있는 집으로 이사 가고 싶어",
+      "tokens": [
+        "아",
+        "그래도",
+        "나",
+        "는",
+        "엘리베이터",
+        "있",
+        "는",
+        "집",
+        "으로",
+        "이사",
+        "가",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그것도 맞아 근데 이사하기 부담스럽다 ㅠㅠ",
+      "tokens": [
+        "그것",
+        "도",
+        "맞",
+        "아",
+        "근데",
+        "이사",
+        "하",
+        "기",
+        "부담",
+        "스럽",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아직 계약 끝날라면 멀었어 나는 ...",
+      "tokens": [
+        "아직",
+        "계약",
+        "끝",
+        "날",
+        "라면",
+        "EC",
+        "멀",
+        "었",
+        "어",
+        "나",
+        "는",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

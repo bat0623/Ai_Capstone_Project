@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "중국에 지금 사재기 난리래",
+      "tokens": [
+        "중국",
+        "에",
+        "지금",
+        "사재",
+        "기",
+        "난리",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "뭐를 그렇게 사재기한대",
+      "tokens": [
+        "뭐",
+        "를",
+        "그렇게",
+        "사재",
+        "기",
+        "한대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "이제는 또 뭘 사재낀데?",
+      "tokens": [
+        "이제",
+        "는",
+        "또",
+        "뭘",
+        "JKO",
+        "사재",
+        "낀데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "걔네 코로나 강력 봉쇄 한다구",
+      "tokens": [
+        "걔",
+        "네",
+        "코로나",
+        "강력",
+        "봉쇄",
+        "한다구",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아하… 생활용품 같은 거 하나보네",
+      "tokens": [
+        "아하",
+        "…",
+        "생활",
+        "용품",
+        "같",
+        "은",
+        "거",
+        "하나",
+        "보네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "갸들은 적당히가 없다 진짜",
+      "tokens": [
+        "갸",
+        "들",
+        "은",
+        "적당히",
+        "가",
+        "없",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "집에서 이제 못 나오나 보던데?",
+      "tokens": [
+        "집",
+        "에서",
+        "이제",
+        "못",
+        "나오",
+        "나",
+        "보",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 적당히가 없는 민족…",
+      "tokens": [
+        "진짜",
+        "적당히",
+        "가",
+        "없",
+        "는",
+        "민족",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "구호 물품도 제대로 안줄텐데",
+      "tokens": [
+        "구호",
+        "물품",
+        "도",
+        "제대로",
+        "안",
+        "줄",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응 생활 용품 싹쓸이 한데",
+      "tokens": [
+        "응",
+        "생활",
+        "용품",
+        "싹쓸이",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "통조림 같은 거 겁나 사겠네",
+      "tokens": [
+        "통조림",
+        "같",
+        "은",
+        "거",
+        "겁나",
+        "EC",
+        "사",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "정부를 못 믿어서 사람들이 더 그러나보다",
+      "tokens": [
+        "정부",
+        "를",
+        "못",
+        "믿",
+        "어서",
+        "사람",
+        "들",
+        "이",
+        "더",
+        "그러",
+        "나",
+        "보",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "올림픽 하기 전에 코로나 박살 낸다함",
+      "tokens": [
+        "올림픽",
+        "하",
+        "기",
+        "전",
+        "에",
+        "코로나",
+        "박살",
+        "낸다",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 서로 못 믿고... 이상한 곳임",
+      "tokens": [
+        "맞",
+        "아",
+        "서로",
+        "못",
+        "믿",
+        "고",
+        ".",
+        ".",
+        "이상",
+        "한",
+        "ETM",
+        "곳",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "과연.. .끝이날까...",
+      "tokens": [
+        "과연",
+        ".",
+        "끝",
+        "이",
+        "날까",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "올림픽 유치 성공 해야 한데",
+      "tokens": [
+        "올림픽",
+        "유치",
+        "성공",
+        "해야",
+        "EC",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내가 볼 땐 못 끝낼듯 키키",
+      "tokens": [
+        "내",
+        "가",
+        "볼땐",
+        "ETM",
+        "NNG",
+        "JX",
+        "못",
+        "끝낼",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "치료제도 나온 마당에 적당히 해도 될 거 같은데",
+      "tokens": [
+        "치료제",
+        "도",
+        "나온",
+        "ETM",
+        "마당",
+        "에",
+        "적당히",
+        "해도",
+        "EC",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

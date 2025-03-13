@@ -1,0 +1,350 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그걸로 게임 하면 재밌겠넹",
+      "tokens": [
+        "그걸로",
+        "JKB",
+        "게임",
+        "하",
+        "면",
+        "재밌",
+        "겠",
+        "넹"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 내기 하면 좋을듯 하하",
+      "tokens": [
+        "그니까",
+        "내기",
+        "하",
+        "면",
+        "좋",
+        "을",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 그거 재미가 솔솔 하겠더라구",
+      "tokens": [
+        "맞",
+        "아",
+        "그거",
+        "재미",
+        "가",
+        "솔솔",
+        "하",
+        "겠",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "돈내기 해가지고!  어때",
+      "tokens": [
+        "돈내기",
+        "해",
+        "EC",
+        "가지",
+        "고",
+        "어",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "내기하면 완젼 잼날듯 하하",
+      "tokens": [
+        "내기",
+        "하",
+        "면",
+        "완",
+        "젼",
+        "잼",
+        "날",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞아 근데 지면 열받을듯",
+      "tokens": [
+        "맞아",
+        "근데",
+        "지",
+        "면",
+        "열받",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엉엉 아주 재미가 있을듯",
+      "tokens": [
+        "엉엉",
+        "아주",
+        "재미",
+        "가",
+        "있",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "피 내기 하면 되겠다 하하",
+      "tokens": [
+        "피",
+        "내기",
+        "하",
+        "면",
+        "되",
+        "겠",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아주 승부욕이 불타오르네~ 방탄노래야",
+      "tokens": [
+        "아주",
+        "승부",
+        "욕",
+        "이",
+        "불타오르",
+        "네",
+        "~",
+        "방탄",
+        "노래",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "지면 핵 열받지 돈인데 키키",
+      "tokens": [
+        "지면",
+        "핵열",
+        "받",
+        "지",
+        "돈",
+        "인데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "2라운드는 밥내기 하하",
+      "tokens": [
+        "2",
+        "라운드",
+        "는",
+        "밥내",
+        "기하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "흐흐 진짜 너무 아까울듯",
+      "tokens": [
+        "흐흐",
+        "진짜",
+        "너무",
+        "아까울",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너네 커플이 더 잘해?",
+      "tokens": [
+        "너",
+        "네",
+        "커플",
+        "이",
+        "더",
+        "잘",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "홀인원 보험 들었니?",
+      "tokens": [
+        "홀인원",
+        "보험",
+        "들",
+        "었",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리 오빠가 좀 잘해...",
+      "tokens": [
+        "우리",
+        "오빠",
+        "가",
+        "좀",
+        "잘",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "더 잘하면 해 키키",
+      "tokens": [
+        "더",
+        "잘",
+        "하",
+        "면",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "혹시나 모르니 들어나 하하",
+      "tokens": [
+        "혹시나",
+        "모르",
+        "니",
+        "들",
+        "어나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "보험도 있다던데 꼭 들어보려고 담에 실력되면",
+      "tokens": [
+        "보험",
+        "도",
+        "있",
+        "다던데",
+        "꼭",
+        "들",
+        "어",
+        "보",
+        "려고",
+        "담",
+        "에",
+        "실력",
+        "되",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

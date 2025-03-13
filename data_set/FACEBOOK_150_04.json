@@ -1,0 +1,574 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "단기 알바는 시급 얼마야?",
+      "tokens": [
+        "단기",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "시급",
+        "얼마",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "지금 최저시급으로 받지 않아?",
+      "tokens": [
+        "지금",
+        "최저",
+        "시급",
+        "으로",
+        "받",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "알바들 지금 시급 8720원 아니야?",
+      "tokens": [
+        "알",
+        "ETM",
+        "바",
+        "들",
+        "지금",
+        "시급",
+        "8720",
+        "원",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "단기는 더 많이 주지 않아?",
+      "tokens": [
+        "단기",
+        "는",
+        "더",
+        "많이",
+        "주",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아닐걸?",
+      "tokens": [
+        "아닐걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 단기인데 별로 안 주던데 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "단기",
+        "인데",
+        "EC",
+        "별로",
+        "안",
+        "주",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 알바 알아봤는데 홈플러스 일당 85000원 이던데",
+      "tokens": [
+        "나알바알아봤는데홈플러스일당",
+        "85000",
+        "원",
+        "이",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 정말?",
+      "tokens": [
+        "아",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "홈플러스 돈 잘 주네 키키",
+      "tokens": [
+        "홈플러스",
+        "돈",
+        "잘",
+        "주네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "괜찮네 키키",
+      "tokens": [
+        "괜찮",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "일당 85000이면 몇 시간 일 하는 거야?",
+      "tokens": [
+        "일당",
+        "85000",
+        "이",
+        "면",
+        "몇",
+        "시간",
+        "일",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "11시 부터 8시 까지 하는 거 같던데 많이 주는 건가?",
+      "tokens": [
+        "11",
+        "시",
+        "부터",
+        "8",
+        "시",
+        "까지",
+        "하",
+        "는",
+        "거",
+        "같",
+        "던데",
+        "많이",
+        "주",
+        "는",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "와 많이 주네 키키",
+      "tokens": [
+        "와",
+        "많이",
+        "주네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "쉬는 시간 있어?",
+      "tokens": [
+        "쉬",
+        "는",
+        "시간",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "괜찮네",
+      "tokens": [
+        "괜찮",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "점심시간 제외해도 나쁘지 않아!",
+      "tokens": [
+        "점심",
+        "시간",
+        "제외",
+        "해도",
+        "EC",
+        "나쁘",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "점심 60분 쉬는 시간 30분 해서 총 90분 쉬는 거 같더라고 키키",
+      "tokens": [
+        "점심",
+        "60",
+        "분",
+        "쉬",
+        "는",
+        "시간",
+        "30",
+        "분",
+        "해서",
+        "EC",
+        "총",
+        "90",
+        "분",
+        "쉬",
+        "는",
+        "거",
+        "같",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러게 키키",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "무슨 알바인데 그래?",
+      "tokens": [
+        "무슨",
+        "알",
+        "ETM",
+        "바",
+        "인데",
+        "EC",
+        "그래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "뭐야...",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "완전 꿀 알바 같은데 형? 키키",
+      "tokens": [
+        "완전꿀알바같은데형",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "와인 코너 본다는 거 같은데 키키 주말에 할까 생각 중이야 키키",
+      "tokens": [
+        "와인",
+        "코너",
+        "본다는",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "주말",
+        "에",
+        "할까",
+        "EC",
+        "생각",
+        "중",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "주류 진열인가보네 키키",
+      "tokens": [
+        "주류",
+        "진열",
+        "인가",
+        "EC",
+        "보",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "너무 좋다",
+      "tokens": [
+        "너무",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "좋다",
+      "tokens": [
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "나도 저기 알바 끼워줘~",
+      "tokens": [
+        "나",
+        "도",
+        "저기",
+        "알",
+        "ETM",
+        "바",
+        "끼워",
+        "EC",
+        "줘",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "탐나는 걸!",
+      "tokens": [
+        "탐나",
+        "는",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "그래서 지금 하는 알바 끝나면 내 통장 따뜻함을 위해 일해보려고 키키",
+      "tokens": [
+        "그래서",
+        "지금",
+        "하",
+        "는",
+        "알",
+        "ETM",
+        "바",
+        "끝나",
+        "면",
+        "내",
+        "JKG",
+        "통장",
+        "따뜻",
+        "함",
+        "ETN",
+        "을",
+        "위해",
+        "EC",
+        "일",
+        "해",
+        "EC",
+        "보",
+        "려고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

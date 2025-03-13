@@ -1,0 +1,409 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "* 언제 이사 와...",
+      "tokens": [
+        "*",
+        "언제",
+        "이사",
+        "와",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 내년에 내려가...",
+      "tokens": [
+        "나",
+        "내년",
+        "에",
+        "내려가",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그러게 얼른 와 진주로 하하",
+      "tokens": [
+        "그러",
+        "게",
+        "얼른",
+        "와",
+        "진주",
+        "로",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "진주 아파트 얼른 알아봐",
+      "tokens": [
+        "진주",
+        "아파트",
+        "얼른",
+        "알아봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "꺙 근데 진주는 아니야",
+      "tokens": [
+        "꺙",
+        "근데",
+        "진주",
+        "는",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내가 애기 봐줄께",
+      "tokens": [
+        "내",
+        "가",
+        "애기",
+        "봐",
+        "EC",
+        "줄께",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "놀러 가 둘이",
+      "tokens": [
+        "놀러",
+        "가",
+        "둘",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "와우 와우 내년으로 확정 남?",
+      "tokens": [
+        "와우",
+        "와우",
+        "내년",
+        "으로",
+        "확정",
+        "남"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "대구쯤?",
+      "tokens": [
+        "대구",
+        "쯤"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "대구라도 어디야",
+      "tokens": [
+        "대구",
+        "라도",
+        "EC",
+        "어디",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 그럼 어디로 하하",
+      "tokens": [
+        "오",
+        "그럼",
+        "어디",
+        "로",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "대구 가깝네",
+      "tokens": [
+        "대구",
+        "가깝",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거 뭐... 혹시 대구? ㅠㅠ",
+      "tokens": [
+        "그거",
+        "뭐",
+        ".",
+        "혹시",
+        "대구",
+        "?",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "대구나 익산이나 그쯤일 거 같아!",
+      "tokens": [
+        "대구",
+        "나",
+        "익산",
+        "이나",
+        "그쯤",
+        "일",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "점점 밑으로 오다가 진주로 오는 거냥",
+      "tokens": [
+        "점점",
+        "밑",
+        "으로",
+        "오",
+        "다가",
+        "진주",
+        "로",
+        "오",
+        "는",
+        "거",
+        "냥"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "대구는 좀 가깝긴 하네...",
+      "tokens": [
+        "대구",
+        "는",
+        "좀",
+        "가깝",
+        "긴",
+        "JX",
+        "하",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "익산이 어디고?",
+      "tokens": [
+        "익산",
+        "이",
+        "어디",
+        "고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "익산은 전라도야 전북",
+      "tokens": [
+        "익산",
+        "은",
+        "전라도",
+        "야",
+        "전북"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "익산은 꽤 먼데 하하",
+      "tokens": [
+        "익산",
+        "은",
+        "꽤",
+        "먼데",
+        "ETM",
+        "NNB",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "또 집 알아봐야겠네?",
+      "tokens": [
+        "또",
+        "집",
+        "알",
+        "아",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "또 이사야 키키",
+      "tokens": [
+        "또",
+        "이사야",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "완전 이사 다니기 힘들겠다",
+      "tokens": [
+        "완전",
+        "이",
+        "사",
+        "EC",
+        "다니",
+        "기",
+        "힘들",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

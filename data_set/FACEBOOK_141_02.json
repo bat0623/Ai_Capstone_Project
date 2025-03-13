@@ -1,0 +1,453 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "지금 집 월세야 전세야?",
+      "tokens": [
+        "지금",
+        "집",
+        "월세",
+        "야",
+        "EF",
+        "전세",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 집은 월세야 ㅜㅜ",
+      "tokens": [
+        "우리",
+        "집",
+        "은",
+        "월세",
+        "야",
+        "EF",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "전세로 가고 싶어",
+      "tokens": [
+        "전세",
+        "로",
+        "가",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 전세에서 사는 중이야 키키",
+      "tokens": [
+        "나",
+        "는",
+        "전세",
+        "에서",
+        "사",
+        "는",
+        "중",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요즘 월세 엄청 비싸더라 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "월세",
+        "엄청",
+        "비싸",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞아 월세도 엄청 가격 올랐어 ㅜㅜ",
+      "tokens": [
+        "맞",
+        "아",
+        "월세",
+        "도",
+        "엄청",
+        "가격",
+        "올랐",
+        "EP",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "월세도 전세도 다 비싼 거 같아",
+      "tokens": [
+        "월세",
+        "도",
+        "전세",
+        "도",
+        "다",
+        "비싼",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "월세는 얼마나 해?",
+      "tokens": [
+        "월세",
+        "는",
+        "얼마나",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "서울에서는 진짜 월세로 못 살 것 같아 ㅠㅠ",
+      "tokens": [
+        "서울",
+        "에서",
+        "는",
+        "진짜",
+        "월세",
+        "로",
+        "못살",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "월세는 요즘 보증금 500부터 시작하더라",
+      "tokens": [
+        "월세",
+        "는",
+        "요즘",
+        "보증금",
+        "500",
+        "부터",
+        "시작",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "와 진짜 엄청 올랐네",
+      "tokens": [
+        "와",
+        "진짜",
+        "엄청",
+        "올랐",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "월세도 못 살겠다 ㅠㅠ",
+      "tokens": [
+        "월세",
+        "도",
+        "못",
+        "살",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아 ㅠㅠ 부모님이랑 한 집에 살 때가 제일 좋았어 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅠㅠ",
+        "부모",
+        "님",
+        "이랑",
+        "한",
+        "집",
+        "에",
+        "살",
+        "ETM",
+        "때",
+        "가",
+        "제일",
+        "좋",
+        "았",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그치 그래서 나는 집 사고 싶어 키키",
+      "tokens": [
+        "그치",
+        "그래서",
+        "나",
+        "는",
+        "집사",
+        "고",
+        "EC",
+        "싶",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 차라리 이렇게 집으로 걱정할 바엔 사고 싶다 …",
+      "tokens": [
+        "나",
+        "도",
+        "차라리",
+        "이렇게",
+        "집",
+        "으로",
+        "걱정",
+        "할",
+        "ETM",
+        "바",
+        "엔",
+        "JX",
+        "사",
+        "고",
+        "싶",
+        "다",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 ㅠㅠ 서울은 집 살 생각도 못해 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅠㅠ",
+        "서울",
+        "은",
+        "집",
+        "살",
+        "ETM",
+        "생각",
+        "도",
+        "못",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나두, 진짜 격하게 집 사고 싶은데 그것마저 못 사는 현실",
+      "tokens": [
+        "나",
+        "두",
+        ",",
+        "진짜",
+        "격하",
+        "게",
+        "집사",
+        "고",
+        "EC",
+        "싶",
+        "은데",
+        "그것",
+        "마저",
+        "못",
+        "사",
+        "는",
+        "현실"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 지방으로 가도 요즘 집값은 비싸 …",
+      "tokens": [
+        "맞아지방으로가도요즘집값은비싸",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "뭔가 갑자기 엄청 우울해진다 키키",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "갑자기",
+        "엄청",
+        "우울",
+        "해진",
+        "EC",
+        "VX",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아 세종도 집값 3~4억이래",
+      "tokens": [
+        "맞",
+        "아",
+        "세종",
+        "도",
+        "집값",
+        "3",
+        "~",
+        "4",
+        "억",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 완전 비싸",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "완전",
+        "비싸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "하 내 집은 사려면 한참 남았구나…",
+      "tokens": [
+        "하내집은사려면한참남았구나",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "얌... 오빠 집 강아지  암 걸렸대 ㅠㅠ",
+      "tokens": [
+        "얌",
+        ".",
+        ".",
+        "오빠집강아지암걸렸대ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐... 무슨 암?",
+      "tokens": [
+        "헐",
+        ".",
+        "무슨",
+        "암"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "안돼 ㅜㅜ",
+      "tokens": [
+        "안",
+        "돼",
+        "EF",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이제 완치까진 아니라도 아푸진 않어",
+      "tokens": [
+        "이제",
+        "완치",
+        "까진",
+        "JX",
+        "아니",
+        "라도",
+        "아푸",
+        "진",
+        "JX",
+        "않",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "유방암 걸려서 찌찌 5개 없다 했나?",
+      "tokens": [
+        "유방암",
+        "걸려서",
+        "EC",
+        "찌찌",
+        "5",
+        "개",
+        "없",
+        "다",
+        "했",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 후니 엄마도 암이었어...",
+      "tokens": [
+        "근데",
+        "후니",
+        "엄마",
+        "도",
+        "암",
+        "이",
+        "었",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "힝... 찌찌 없다고 놀리면 안대...",
+      "tokens": [
+        "힝",
+        ".",
+        "찌찌",
+        "없",
+        "다고",
+        "놀리",
+        "면",
+        "안",
+        "대",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "너네 집 미니도 암이었잖아 유방암",
+      "tokens": [
+        "너",
+        "네",
+        "집",
+        "미니",
+        "도",
+        "암",
+        "이",
+        "었잖",
+        "VX",
+        "아",
+        "유방암"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "되게 희귀 암이라고 그랬어...",
+      "tokens": [
+        "되게",
+        "희",
+        "귀암",
+        "이",
+        "라고",
+        "그랬",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "중성화 시켜줬었어?",
+      "tokens": [
+        "중성",
+        "화",
+        "시켜",
+        "EC",
+        "줬었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그거 흔하게 걸리나 봐...",
+      "tokens": [
+        "그거",
+        "흔하",
+        "게",
+        "걸리",
+        "나",
+        "봐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래서 거기 교수님이 기증할 수 있냐고 그랬음...",
+      "tokens": [
+        "그래서",
+        "거기",
+        "교수",
+        "님",
+        "이",
+        "기증",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "냐고",
+        "그랬",
+        "EP",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "중성화 안 시켜주면 그런 질환이 잘 걸린대...",
+      "tokens": [
+        "중성화",
+        "안",
+        "시켜",
+        "EC",
+        "주",
+        "면",
+        "그런",
+        "질환",
+        "이",
+        "잘",
+        "걸린대",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "벅수 중성화 시켜 줬는디...!",
+      "tokens": [
+        "벅수",
+        "중성",
+        "화",
+        "시켜",
+        "EC",
+        "줬",
+        "EP",
+        "는디",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 난 도저히 안되겠더라...",
+      "tokens": [
+        "근데",
+        "난",
+        "JX",
+        "도저히",
+        "안",
+        "되",
+        "겠",
+        "더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "헐... 기증하면... 거기서 또 막 실험하고 그럴 거 아냐",
+      "tokens": [
+        "헐",
+        ".",
+        "기증",
+        "하",
+        "면",
+        ".",
+        ".",
+        "거기",
+        "서",
+        "또",
+        "막",
+        "실험",
+        "하",
+        "고",
+        "그럴",
+        "ETM",
+        "거",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "강아지 시체 기증하라고 했어?",
+      "tokens": [
+        "강아지",
+        "시체",
+        "기증",
+        "하",
+        "라고",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 미니는 중성화 했는데도 뭐가 많이 생겼었어",
+      "tokens": [
+        "근데",
+        "미니",
+        "는",
+        "중성",
+        "화",
+        "했",
+        "EP",
+        "는데",
+        "도",
+        "뭐",
+        "가",
+        "많이",
+        "생겼었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 같아도 안 보냈겠다...",
+      "tokens": [
+        "나",
+        "같",
+        "아도",
+        "안",
+        "보냈",
+        "EP",
+        "겠",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맘 아파",
+      "tokens": [
+        "맘",
+        "아파",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

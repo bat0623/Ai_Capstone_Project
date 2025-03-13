@@ -1,0 +1,371 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘의 이슈는 무엇인가여...?",
+      "tokens": [
+        "오늘",
+        "의",
+        "이슈",
+        "는",
+        "무엇",
+        "인",
+        "ETM",
+        "가여",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오늘 사회 이슈가 뭐 있더라",
+      "tokens": [
+        "오늘",
+        "사회",
+        "이슈",
+        "가",
+        "뭐",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "용인인가 수지인가 어디야 거기 문제 많다던데",
+      "tokens": [
+        "용인",
+        "인가",
+        "EC",
+        "수지",
+        "인가",
+        "EC",
+        "어디",
+        "야",
+        "EF",
+        "거기",
+        "문제",
+        "많",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "거기 무슨 문제임...?",
+      "tokens": [
+        "거기",
+        "무슨",
+        "문제",
+        "임",
+        "ETN",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "용인 왜 문제야?",
+      "tokens": [
+        "용인",
+        "왜",
+        "문제",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "거기 땅에서 마늘 밭에서 돈 나왔다던데",
+      "tokens": [
+        "거기",
+        "땅",
+        "에서",
+        "마늘",
+        "밭",
+        "에서",
+        "돈",
+        "나왔",
+        "EP",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "용인인가 수지에...  엥?",
+      "tokens": [
+        "용인",
+        "인가",
+        "EC",
+        "수지",
+        "에",
+        ".",
+        "엥"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "허걱 돈? 밭에서?",
+      "tokens": [
+        "허걱",
+        "돈",
+        "?",
+        "밭",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 그래서 경찰 출동했잖아",
+      "tokens": [
+        "응",
+        "그래서",
+        "경찰",
+        "출동",
+        "했",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마늘 밭에서 얼마가 나왔어?",
+      "tokens": [
+        "마늘",
+        "밭",
+        "에서",
+        "얼마",
+        "가",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이제 위드 코로나가 온 거야?",
+      "tokens": [
+        "이제",
+        "위드",
+        "코",
+        "로",
+        "나가",
+        "EC",
+        "온",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "응 그랬음",
+      "tokens": [
+        "응",
+        "그랬음",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "10년 전에 100억",
+      "tokens": [
+        "10",
+        "년",
+        "전",
+        "에",
+        "100",
+        "억"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "얼마가 나왔는디 키키 누가 묻은 거야",
+      "tokens": [
+        "얼마",
+        "가",
+        "나왔",
+        "EP",
+        "는디",
+        "키",
+        "키",
+        "ETN",
+        "누가",
+        "JKS",
+        "묻",
+        "은",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "허걱 100억... 후덜덜",
+      "tokens": [
+        "허걱",
+        "100",
+        "억",
+        ".",
+        "후",
+        "덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "불법 토토 한 사람들이 세금 탈루 목적",
+      "tokens": [
+        "불법",
+        "토",
+        "EC",
+        "토한",
+        "ETM",
+        "사람",
+        "들",
+        "이",
+        "세금",
+        "탈루",
+        "목적"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "10년 전 이슈 말하는 거야?...",
+      "tokens": [
+        "10",
+        "년",
+        "전",
+        "이",
+        "슈",
+        "말",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "주인이 있을까?",
+      "tokens": [
+        "주인",
+        "이",
+        "있",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 조직폭력배들이 묻었다고 하더라",
+      "tokens": [
+        "응",
+        "조직폭력배",
+        "들",
+        "이",
+        "묻",
+        "었",
+        "다고",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

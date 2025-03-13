@@ -1,0 +1,335 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "윽... 벌써 커피 다 먹었어",
+      "tokens": [
+        "윽",
+        ".",
+        "벌써",
+        "커피",
+        "다",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "콜드브루로 마셔 카페인 양이 좀 덜해",
+      "tokens": [
+        "콜드",
+        "브루",
+        "로",
+        "마셔",
+        "EC",
+        "카페인",
+        "양",
+        "이",
+        "좀",
+        "덜해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "스벅?",
+      "tokens": [
+        "스",
+        "벅"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아침에 맨날 사러가?",
+      "tokens": [
+        "아침",
+        "에",
+        "맨날",
+        "사러가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "커피 사러 나가기 짱 귀찮은데",
+      "tokens": [
+        "커피",
+        "사",
+        "러",
+        "나가",
+        "기",
+        "짱",
+        "귀찮",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "커피 집에서 먹어",
+      "tokens": [
+        "커피",
+        "집",
+        "에서",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "딜리버리 시키면 되자나",
+      "tokens": [
+        "딜리버리",
+        "시키",
+        "면",
+        "되",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "콜드 브루가 카페인 더 많다던데?",
+      "tokens": [
+        "콜드",
+        "브루",
+        "가",
+        "카페인",
+        "더",
+        "많",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "딜리버리 배달비 비싸다",
+      "tokens": [
+        "딜리버리",
+        "배",
+        "달비",
+        "비싸",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "콜드브루가 진쨔 마싯슴",
+      "tokens": [
+        "콜드",
+        "브루",
+        "가진",
+        "ETM",
+        "쨔마",
+        "싯슴"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "딜리버리 배달료 아까워",
+      "tokens": [
+        "딜리버리",
+        "배",
+        "달료",
+        "아까워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 나 잘못 알고 있었네",
+      "tokens": [
+        "헐",
+        "나",
+        "잘못",
+        "알",
+        "고",
+        "있",
+        "었",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 니가 가야지;",
+      "tokens": [
+        "그럼",
+        "니",
+        "가",
+        "가야지",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "여기 정촌이라서 배달료 비쌈!",
+      "tokens": [
+        "여기",
+        "정촌",
+        "이",
+        "라서",
+        "배",
+        "달료",
+        "비",
+        "쌈"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 정촌은 인정하는 부분",
+      "tokens": [
+        "키키",
+        "정촌",
+        "은",
+        "인정",
+        "하",
+        "는",
+        "부분"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "배달비 마니 나옴?",
+      "tokens": [
+        "배달",
+        "비마니",
+        "나옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "롤링핀 배달료 만원이야...",
+      "tokens": [
+        "롤링",
+        "핀",
+        "ETM",
+        "배",
+        "달료",
+        "만",
+        "원",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "집에서 타서 먹어 그냥",
+      "tokens": [
+        "집",
+        "에서",
+        "타",
+        "서",
+        "먹",
+        "어",
+        "그냥"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "헐... 대박 사건이네",
+      "tokens": [
+        "헐",
+        ".",
+        "대박",
+        "사건",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

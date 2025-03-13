@@ -1,0 +1,451 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부모님 생신 챙기지?",
+      "tokens": [
+        "부모",
+        "님",
+        "생신",
+        "챙기",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저는 잘 안챙기는데...",
+      "tokens": [
+        "저",
+        "는",
+        "잘",
+        "안",
+        "챙기",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "엇 당연하지 키키",
+      "tokens": [
+        "엇",
+        "당연",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "부모님 생신에 선물 어떤 게 좋을까?",
+      "tokens": [
+        "부모",
+        "님",
+        "생신",
+        "에",
+        "선물",
+        "어떤",
+        "게",
+        "JKS",
+        "좋",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이제 잘 챙겨야겠져? ...",
+      "tokens": [
+        "이제",
+        "잘",
+        "챙겨야",
+        "EC",
+        "VX",
+        "겠",
+        "져",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오잉 키키",
+      "tokens": [
+        "오잉",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엄빠 생일 챙겨야죠 키키",
+      "tokens": [
+        "엄",
+        "빠",
+        "생일",
+        "챙겨야",
+        "EC",
+        "VX",
+        "죠",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "매년 고민이다 정말",
+      "tokens": [
+        "매년",
+        "고민",
+        "이",
+        "다",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아직 너무 받고만 사는 불효자...",
+      "tokens": [
+        "아직",
+        "너무",
+        "받",
+        "고",
+        "만",
+        "사",
+        "는",
+        "불효자",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 현금이야 무조건 키키",
+      "tokens": [
+        "나",
+        "는",
+        "현금",
+        "이야",
+        "무조건",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엄빠 생일 챙겨야쥬 ... !",
+      "tokens": [
+        "엄빠생일챙겨야쥬",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "매년 고민인데...",
+      "tokens": [
+        "매년",
+        "고민",
+        "인데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "돈이 짱이래여 키키",
+      "tokens": [
+        "돈",
+        "이",
+        "짱",
+        "이",
+        "래여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엄빠도 그게 젤 좋으신듯 키키",
+      "tokens": [
+        "엄",
+        "빠",
+        "도",
+        "그게",
+        "JKS",
+        "젤",
+        "좋",
+        "으신",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "매번 현금 하는데 넘 성의 없어보일까봐 키키",
+      "tokens": [
+        "매번",
+        "현금",
+        "하",
+        "는",
+        "데넘",
+        "성",
+        "의",
+        "없",
+        "어",
+        "보일까봐",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아여 ㅠ",
+      "tokens": [
+        "맞아여ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "돈이 최고 !",
+      "tokens": [
+        "돈",
+        "이",
+        "최고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "사고 싶은 거 사고 키키",
+      "tokens": [
+        "사",
+        "고",
+        "싶",
+        "은",
+        "거",
+        "사고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "엄마가 근데 뭘 사줘도 기억 못하심 키키",
+      "tokens": [
+        "엄마",
+        "가",
+        "근데",
+        "뭘",
+        "JKO",
+        "사",
+        "EC",
+        "줘도",
+        "EC",
+        "기억",
+        "못",
+        "하",
+        "심",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "돈이 최고긴 해",
+      "tokens": [
+        "돈",
+        "이",
+        "최고",
+        "긴",
+        "ETN",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "돈이 짱이야 ... !",
+      "tokens": [
+        "돈",
+        "이",
+        "짱",
+        "이",
+        "야",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 제일 좋아해여 키키",
+      "tokens": [
+        "아",
+        "제일",
+        "좋아해",
+        "EC",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "누나 걱정마여 키키",
+      "tokens": [
+        "누나걱정마여키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그래서 현금이 젤 나아 키키",
+      "tokens": [
+        "그래서",
+        "현금",
+        "이",
+        "젤",
+        "나",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

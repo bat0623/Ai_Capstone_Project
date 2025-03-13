@@ -1,0 +1,385 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "체코 관광지에서 케이블카 추락 한 거 봤지?",
+      "tokens": [
+        "체코",
+        "관광지",
+        "에서",
+        "케이블카",
+        "추락",
+        "한",
+        "ETM",
+        "거",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니 그게 뭐야 몰라 키키",
+      "tokens": [
+        "아니",
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF",
+        "몰라",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "30미터 아래로 추락 했대 ㅠㅠ 케이블카",
+      "tokens": [
+        "30",
+        "미터아래로추락했대ㅠㅠ케이블카"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "추락 했다고? 케이블카?",
+      "tokens": [
+        "추락",
+        "했",
+        "EP",
+        "다고",
+        "케이블카"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "사람들은?",
+      "tokens": [
+        "사람",
+        "들",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "딱 한 명만 죽었대... 가이드",
+      "tokens": [
+        "딱",
+        "한",
+        "명",
+        "만",
+        "죽",
+        "었",
+        "대",
+        ".",
+        "가이드"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 진짜 하필 가이드가...",
+      "tokens": [
+        "아",
+        "진짜",
+        "하필",
+        "가이드",
+        "가",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "와 무섭다...",
+      "tokens": [
+        "와",
+        "무섭",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "해외 나가서 함부러 저런 거 못 타",
+      "tokens": [
+        "해외",
+        "나가",
+        "서",
+        "함",
+        "EC",
+        "부러",
+        "EF",
+        "저런",
+        "거",
+        "못",
+        "타",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진짜 안타깝다 어쩌다 그런 일이 ...",
+      "tokens": [
+        "진짜",
+        "안타깝",
+        "다",
+        "어쩌다",
+        "그런",
+        "일",
+        "이",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 전에 산악 열차 타고 쫄았거든 ㅠㅠ",
+      "tokens": [
+        "나전",
+        "에",
+        "산악",
+        "열",
+        "차",
+        "타",
+        "고",
+        "쫄",
+        "았",
+        "거든",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그니까 그래서 난 한국에서도 케이블카 안 타 키키",
+      "tokens": [
+        "그니까",
+        "그래서",
+        "난",
+        "JX",
+        "한국",
+        "에서",
+        "도",
+        "케이블카",
+        "안타",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "해발 4000미터 정도 올라 가는데 어느 순간 아찔하더라",
+      "tokens": [
+        "해발",
+        "4000",
+        "미터",
+        "정도",
+        "올라가",
+        "는데",
+        "어느",
+        "순간",
+        "아찔",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 나도 무서워서 저런 거 못 타 키키",
+      "tokens": [
+        "진짜",
+        "나",
+        "도",
+        "무서워서",
+        "EC",
+        "저런",
+        "거",
+        "못",
+        "타",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러게, 가이드 안타깝다",
+      "tokens": [
+        "그러게",
+        ",",
+        "가이드",
+        "안타깝",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "저 케이블카만 21만 명이 이용했대",
+      "tokens": [
+        "저",
+        "케이블카",
+        "만",
+        "21",
+        "만",
+        "명",
+        "이",
+        "이용",
+        "했",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "와 그거면 난 진짜 못한다 키키 덜덜 떨어",
+      "tokens": [
+        "와",
+        "그거",
+        "VCP",
+        "면",
+        "난",
+        "JX",
+        "진짜",
+        "못",
+        "한",
+        "ETM",
+        "다키키",
+        "덜덜",
+        "떨",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그러게 키키 진짜 재수 없게 걸렸네... 후",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "재수없",
+        "게",
+        "걸렸",
+        "EP",
+        "네",
+        ".",
+        "후"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "대박이다 이용한 사람도 많다",
+      "tokens": [
+        "대박",
+        "이",
+        "다",
+        "이용",
+        "한",
+        "ETM",
+        "사람",
+        "도",
+        "많",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

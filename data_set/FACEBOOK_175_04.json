@@ -1,0 +1,419 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 알바 구하기 너무 힘들어 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "알",
+        "ETM",
+        "바",
+        "구하",
+        "기",
+        "너무",
+        "힘들",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "사장 입장에서도 알바 쓰기가 애매해",
+      "tokens": [
+        "사장",
+        "입장",
+        "에서",
+        "도",
+        "알",
+        "ETM",
+        "바",
+        "쓰",
+        "기",
+        "가",
+        "애매",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 오늘 당구장 알바 면접을 봤어",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "당구장",
+        "알바",
+        "면접",
+        "을",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어제 고깃집 알바 면접 봤어",
+      "tokens": [
+        "어제",
+        "고깃집",
+        "알바",
+        "면접",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 우리 부모님 가게에서 일을 해",
+      "tokens": [
+        "나",
+        "는",
+        "우리",
+        "부모",
+        "님",
+        "가게",
+        "에서",
+        "일",
+        "을",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "당구장이 장사가 좀 이제 잘되면 연락 준대",
+      "tokens": [
+        "당구장",
+        "이",
+        "장사",
+        "가",
+        "좀",
+        "이제",
+        "잘",
+        "되",
+        "면",
+        "연락",
+        "준대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "제발 붙었으면 좋겠어 난 ㅜㅜ",
+      "tokens": [
+        "제발",
+        "붙",
+        "었",
+        "으면",
+        "좋",
+        "겠",
+        "어",
+        "난",
+        "JX",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아르바이트도 취업만큼 경쟁이 치열해",
+      "tokens": [
+        "아르바이트",
+        "도",
+        "취업",
+        "만큼",
+        "경쟁",
+        "이",
+        "치열",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "당구장 알바는 손님들한테 잘 대하는 게 중요해",
+      "tokens": [
+        "당구장",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "손님",
+        "들",
+        "한테",
+        "잘",
+        "대하",
+        "는",
+        "게",
+        "JKS",
+        "중요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "편의점도 요즘 자리가 없더라구",
+      "tokens": [
+        "편의점",
+        "도",
+        "요즘",
+        "자리",
+        "가",
+        "없",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "내년에는 시급이 올라서 알바 쓰기가 더 어려워졌어",
+      "tokens": [
+        "내년",
+        "에",
+        "는",
+        "시급",
+        "이",
+        "올라서",
+        "EC",
+        "알",
+        "ETM",
+        "바",
+        "쓰",
+        "기",
+        "가",
+        "더",
+        "어려워졌",
+        "EC",
+        "VX",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "편의점 알바는 야간에 정말 힘들 거 같아",
+      "tokens": [
+        "편의점",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "야간",
+        "에",
+        "정말",
+        "힘들",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "사장님이 착해야 알바 할 때 좋은 것 같아",
+      "tokens": [
+        "사장",
+        "님",
+        "이",
+        "착해야",
+        "EC",
+        "알",
+        "ETM",
+        "바",
+        "할",
+        "ETM",
+        "때",
+        "좋",
+        "은",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "편의점이 제일 깨끗해",
+      "tokens": [
+        "편의점",
+        "이",
+        "제일",
+        "깨끗",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 그리고 주휴수당 때문에 2명 써...",
+      "tokens": [
+        "아",
+        "그리고",
+        "주휴",
+        "수당",
+        "때문",
+        "에",
+        "2",
+        "명",
+        "써",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "편의점 알바는 야간 너무 힘들지 ㅠㅠ",
+      "tokens": [
+        "편의점",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "야간",
+        "너무",
+        "힘들",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "편의점 야간은 취객 때문에 위험해",
+      "tokens": [
+        "편의점",
+        "야간",
+        "은",
+        "취객",
+        "때문",
+        "에",
+        "위험",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 에버랜드에서 알바 해봤는데 재밌었어",
+      "tokens": [
+        "난",
+        "JX",
+        "에버랜드",
+        "에서",
+        "알",
+        "ETM",
+        "바",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "는데",
+        "재밌",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

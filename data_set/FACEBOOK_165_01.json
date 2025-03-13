@@ -1,0 +1,331 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 밥 맛있는 거 먹던데...",
+      "tokens": [
+        "*",
+        "*",
+        "밥맛",
+        "있",
+        "는",
+        "거",
+        "먹",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오 머먹었음? 하하",
+      "tokens": [
+        "오",
+        "머",
+        "먹",
+        "었",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "세상 맛있더라... 한상 가득",
+      "tokens": [
+        "세상",
+        "맛있",
+        "더라",
+        ".",
+        "한상",
+        "가득"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "여자 친구가 거의 식당급이더라구...",
+      "tokens": [
+        "여자",
+        "친구",
+        "가",
+        "거의",
+        "식당",
+        "급",
+        "이",
+        "더라구",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 마파두부 먹었다 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "마파두부",
+        "먹",
+        "었",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "미역국 제육볶음 나물 반찬 먹었슴다",
+      "tokens": [
+        "미역국",
+        "제육볶음",
+        "나물",
+        "반찬",
+        "먹",
+        "었",
+        "슴다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "지기더라... 완전 영양소 밸런스 맞춰서",
+      "tokens": [
+        "지기",
+        "더라",
+        ".",
+        "완전",
+        "영양소",
+        "밸런스",
+        "맞춰서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 좋겠다 하하 부럽네 하하",
+      "tokens": [
+        "오",
+        "좋",
+        "겠",
+        "다",
+        "하하",
+        "부럽",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "다 직접 만들어주니까 사랑 가득 하하",
+      "tokens": [
+        "다",
+        "직접",
+        "만들",
+        "어",
+        "주",
+        "니까",
+        "사랑",
+        "가득",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "거의 식당 수준 키키",
+      "tokens": [
+        "거의",
+        "식당",
+        "수준",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "영양사시니 여친? 하하",
+      "tokens": [
+        "영양사",
+        "시",
+        "니",
+        "여친",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "여친이 요리 하는 걸 좋아해욧",
+      "tokens": [
+        "여친",
+        "이",
+        "요리",
+        "하",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "해",
+        "EP",
+        "욧"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "어찌 그리 요리를 잘한데",
+      "tokens": [
+        "어찌",
+        "그리",
+        "요리",
+        "를",
+        "잘",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 장모님표 마파두부 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "장모님",
+        "표마",
+        "파두",
+        "부하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그냥 눈대중으로 다 하더라니깐",
+      "tokens": [
+        "그냥",
+        "눈대중",
+        "으로",
+        "다",
+        "하",
+        "더라니",
+        "깐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아주 정갈 하고",
+      "tokens": [
+        "아주",
+        "정갈",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "여기도 거진 식당임 하하",
+      "tokens": [
+        "여기",
+        "도",
+        "거진",
+        "식당",
+        "임하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "깔끔하게 아주 좋습니다",
+      "tokens": [
+        "깔끔",
+        "하",
+        "게",
+        "아주",
+        "좋",
+        "습니다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

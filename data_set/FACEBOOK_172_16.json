@@ -1,0 +1,641 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너희 둘 다 손재주 좋아서 좋겠다ㅜ",
+      "tokens": [
+        "너희",
+        "둘",
+        "다",
+        "손재주",
+        "좋",
+        "아서",
+        "좋",
+        "겠",
+        "다ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "너 손재주 별로 없는딩 ㅠㅠ",
+      "tokens": [
+        "너",
+        "손재주",
+        "별",
+        "로",
+        "없",
+        "는",
+        "딩",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 금손이고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "금",
+        "손",
+        "이",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 없는데 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "없",
+        "는데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "섬세한 걸 못해...",
+      "tokens": [
+        "섬세",
+        "한",
+        "ETM",
+        "걸",
+        "JKO",
+        "못",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "** 화장 잘 하자나!",
+      "tokens": [
+        "*",
+        "*",
+        "화장",
+        "잘",
+        "하",
+        "자",
+        "나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**는 머리 잘 만지고!",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "머리",
+        "잘",
+        "만지",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 다 못하겠어...",
+      "tokens": [
+        "난다",
+        "EC",
+        "못하",
+        "겠",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 화장 잘 못행!",
+      "tokens": [
+        "나",
+        "화장",
+        "잘못",
+        "행"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "관심이 많을 뿐!",
+      "tokens": [
+        "관심",
+        "이",
+        "많",
+        "을",
+        "뿐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "사실!",
+      "tokens": [
+        "사실"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "재밌자낭",
+      "tokens": [
+        "재밌",
+        "자",
+        "낭"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 **이도 화장 잘하던데 왜?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "이도화",
+        "장잘",
+        "하",
+        "던데",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 사실 귀찮은 걸 안 좋아하는 것 같아...",
+      "tokens": [
+        "난",
+        "JX",
+        "사실",
+        "귀찮",
+        "은",
+        "걸",
+        "JKO",
+        "안",
+        "좋아하",
+        "는",
+        "것",
+        "같",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "하 입술 필러 듬뿍 맞고 싶다",
+      "tokens": [
+        "하",
+        "입술",
+        "필러",
+        "듬뿍",
+        "맞",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "야무지게",
+      "tokens": [
+        "야무지",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나두...",
+      "tokens": [
+        "나",
+        "두",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 입이 그냥 옆으로 길어졌으면 좋겠엉",
+      "tokens": [
+        "난입",
+        "이",
+        "그냥",
+        "옆",
+        "으로",
+        "길",
+        "어",
+        "졌으면",
+        "EP",
+        "EC",
+        "좋",
+        "겠",
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "필러 안돼 하하",
+      "tokens": [
+        "필러",
+        "안",
+        "돼",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞지마",
+      "tokens": [
+        "맞",
+        "지",
+        "마",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "옆으로 길어지는 건... 징그러운데?",
+      "tokens": [
+        "옆",
+        "으로",
+        "길",
+        "어",
+        "지",
+        "는",
+        "건",
+        "JX",
+        ".",
+        "징그러운",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나 입 짱 큰데",
+      "tokens": [
+        "나입",
+        "짱",
+        "큰데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "오 부러웡",
+      "tokens": [
+        "오",
+        "부러",
+        "VX",
+        "EF",
+        "웡"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "난 입이 너무 작고 짧아...",
+      "tokens": [
+        "난입",
+        "이",
+        "너무",
+        "작",
+        "고",
+        "짧",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "나도 크고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "크",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "**이 칸쵸 많이 못 먹던데?",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "칸쵸",
+        "많이",
+        "못",
+        "먹",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "키키 우리 똑같았잖아!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "우리",
+        "똑같",
+        "았",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "나 입 커!힝",
+      "tokens": [
+        "나입",
+        "커",
+        "EF",
+        "힝"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "나 좀 나눠줘!",
+      "tokens": [
+        "나",
+        "좀",
+        "나눠",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "나도 크고 깊어",
+      "tokens": [
+        "나",
+        "도",
+        "크",
+        "고",
+        "깊",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "키키 입도 나눔이 가능해?",
+      "tokens": [
+        "키",
+        "키",
+        "입",
+        "도",
+        "나눔",
+        "ETN",
+        "이",
+        "가능",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 32,
+      "text": "안대",
+      "tokens": [
+        "안대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 33,
+      "text": "줄 수 없어",
+      "tokens": [
+        "줄",
+        "ETM",
+        "수",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 34,
+      "text": "한입 크게 먹기 가능이라",
+      "tokens": [
+        "한입",
+        "크",
+        "게",
+        "먹",
+        "기",
+        "가능",
+        "이",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 35,
+      "text": "아 나는 언제 입이 커져?!",
+      "tokens": [
+        "아",
+        "나",
+        "는",
+        "언제",
+        "입",
+        "이",
+        "커져",
+        "EC",
+        "VX",
+        "EC",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 36,
+      "text": "키키 입이 커지려면 찢어야지!",
+      "tokens": [
+        "키",
+        "키",
+        "입",
+        "이",
+        "커지",
+        "려면",
+        "찢",
+        "어야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

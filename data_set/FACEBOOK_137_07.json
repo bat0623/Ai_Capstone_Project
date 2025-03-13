@@ -1,0 +1,360 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부모님한테 물려 받은 거 있어?",
+      "tokens": [
+        "부모",
+        "님",
+        "한테",
+        "물려받",
+        "은",
+        "거",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 아직 없네 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "아직",
+        "없",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "물려 받은 거 곱슬머리?",
+      "tokens": [
+        "물려받",
+        "은",
+        "거",
+        "곱슬머리"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 엄마의 머리를 받은 듯",
+      "tokens": [
+        "난",
+        "JX",
+        "엄마",
+        "의",
+        "머리",
+        "를",
+        "받",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 있구나 싼타페 02년식 하하",
+      "tokens": [
+        "아",
+        "있",
+        "구나",
+        "싼타페",
+        "02",
+        "년",
+        "식",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아주 이놈의 머리카락 때메 스트레스 ㅋ",
+      "tokens": [
+        "아주",
+        "이놈",
+        "의",
+        "머리카락",
+        "때",
+        "메스트레스",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 싼타페 02년식 뭐냐고 키키",
+      "tokens": [
+        "키키",
+        "싼타페",
+        "02",
+        "년",
+        "식",
+        "뭐",
+        "냐고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 다시 뺏어감 하하",
+      "tokens": [
+        "근데",
+        "다시",
+        "뺏",
+        "어",
+        "감하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "농사 용으로 쓴다고",
+      "tokens": [
+        "농사",
+        "용",
+        "으로",
+        "쓴다고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "생 머리인 사람 부럽다 ㅠㅠ",
+      "tokens": [
+        "생머리",
+        "인",
+        "ETM",
+        "사람",
+        "부럽",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엥 누가 곱슬머리셔?",
+      "tokens": [
+        "엥",
+        "누가",
+        "JKS",
+        "곱슬머리",
+        "셔",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "갔다가 안 오네 나의 애마",
+      "tokens": [
+        "갔",
+        "EP",
+        "다가",
+        "안",
+        "오",
+        "네",
+        "나",
+        "의",
+        "애마"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아버지가 반곱슬이시긴 한데",
+      "tokens": [
+        "아버지",
+        "가",
+        "반",
+        "곱슬",
+        "이",
+        "시",
+        "긴",
+        "JX",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "부모님도 곱슬머리셔? 신기",
+      "tokens": [
+        "부모",
+        "님",
+        "도",
+        "곱슬머리",
+        "셔",
+        "EP",
+        "EF",
+        "신기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 너무 참 머리라 고미뉴 ㅠㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "너무",
+        "참",
+        "머리",
+        "라고",
+        "EC",
+        "미뉴",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우리는 엄청 심함. ㅠㅠ",
+      "tokens": [
+        "우리",
+        "는",
+        "엄청",
+        "심함",
+        "ETN",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 그니까 참 머리들은 또 스트레스임",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "참",
+        "머리",
+        "들",
+        "은",
+        "또",
+        "스트레스",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 곱슬이 부럽던데",
+      "tokens": [
+        "난",
+        "JX",
+        "곱슬",
+        "이",
+        "부럽",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "행님 저는 아프리카 곱슬입니더 ㅠㅠ",
+      "tokens": [
+        "행",
+        "님",
+        "저",
+        "는",
+        "아프리카",
+        "곱슬",
+        "입",
+        "니더",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

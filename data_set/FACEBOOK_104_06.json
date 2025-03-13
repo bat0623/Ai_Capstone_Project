@@ -1,0 +1,504 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 어렸을 때 속셈학원이라고 알아?",
+      "tokens": [
+        "너",
+        "는",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "속셈",
+        "학원",
+        "이",
+        "라고",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "여기 다녀본 적 있어?",
+      "tokens": [
+        "여기",
+        "다녀본",
+        "EC",
+        "VX",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니 그런 학원은 안 다녔어!",
+      "tokens": [
+        "아니",
+        "그런",
+        "학원",
+        "은",
+        "안",
+        "다녔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그러면 어떤 학원 다녀봤어?",
+      "tokens": [
+        "그러면",
+        "어떤",
+        "학원",
+        "다녀",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그냥 집 근처 학원이랑 태권도 정도?",
+      "tokens": [
+        "그냥",
+        "집",
+        "근처",
+        "학원",
+        "이랑",
+        "태권",
+        "도",
+        "정도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 태권도?",
+      "tokens": [
+        "오태",
+        "권",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "태권도 학원 다녔을 때 재미는 있었어?",
+      "tokens": [
+        "태권",
+        "도",
+        "학원",
+        "다녔",
+        "EP",
+        "을",
+        "때",
+        "재미",
+        "는",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "어 나는 운동이 아니라 친구들이랑 놀러 간 거였거든!",
+      "tokens": [
+        "어",
+        "나",
+        "는",
+        "운동",
+        "이",
+        "아니",
+        "라",
+        "친구",
+        "들",
+        "이랑",
+        "놀",
+        "러",
+        "간",
+        "ETM",
+        "거",
+        "였",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "내 친구들도 태권도에서 애들이랑 많이 놀았다고 하더라!",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "들",
+        "도",
+        "태권도",
+        "에서",
+        "애",
+        "들",
+        "이랑",
+        "많이",
+        "놀",
+        "았",
+        "다고",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래서 태권도에서 띠는 별로 안 높고 살만 빠져서 왔었어",
+      "tokens": [
+        "그래서",
+        "태권도",
+        "에서",
+        "띠",
+        "는",
+        "별로",
+        "안",
+        "높",
+        "고",
+        "살",
+        "만",
+        "빠져서",
+        "EC",
+        "왔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 헐 그러면 되게 좋은 거 아니야?",
+      "tokens": [
+        "키",
+        "키",
+        "헐",
+        "JKO",
+        "그러",
+        "면",
+        "되게",
+        "좋",
+        "은",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래봤자 어릴 때 여가지고 ㅠㅠ 지금 생각해보면 띠가 높았으면 좋았을텐데",
+      "tokens": [
+        "그래",
+        "EC",
+        "봤",
+        "EP",
+        "자",
+        "어릴",
+        "ETM",
+        "때",
+        "여",
+        "EC",
+        "가지",
+        "고",
+        "ㅠㅠ",
+        "지금",
+        "생각",
+        "해",
+        "EC",
+        "보",
+        "면",
+        "띠",
+        "가",
+        "높",
+        "았",
+        "으면",
+        "좋",
+        "았",
+        "을",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 그때 무슨 띠였는데?",
+      "tokens": [
+        "키",
+        "키",
+        "그때",
+        "무슨",
+        "띠",
+        "였",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "검은색?",
+      "tokens": [
+        "검은색"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "어 아마 파란띠 였던거 같은데?",
+      "tokens": [
+        "어",
+        "아마",
+        "파란",
+        "ETM",
+        "띠",
+        "였",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "완전 초반!",
+      "tokens": [
+        "완전",
+        "초반"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "파란띠?",
+      "tokens": [
+        "파란",
+        "ETM",
+        "띠"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "처음에 들어갔을 때는 노란띠였나?",
+      "tokens": [
+        "처음",
+        "에",
+        "들어갔",
+        "EP",
+        "을",
+        "때",
+        "는",
+        "노란",
+        "ETM",
+        "띠",
+        "였",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "노란색 아니면 흰색일 거야 둘 중 하나!",
+      "tokens": [
+        "노란색",
+        "아니",
+        "면",
+        "흰색",
+        "일",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "둘",
+        "중",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 그렇구나",
+      "tokens": [
+        "아",
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "제일 높은 띠가 검은색이지?",
+      "tokens": [
+        "제일",
+        "높",
+        "은",
+        "띠",
+        "가",
+        "검은색",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "검은색이 높아!",
+      "tokens": [
+        "검은색",
+        "이",
+        "높",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

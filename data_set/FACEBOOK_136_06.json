@@ -1,0 +1,394 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "진로를 농업으로 잡는 것도 괜찮은 듯",
+      "tokens": [
+        "진로",
+        "를",
+        "농업",
+        "으로",
+        "잡",
+        "는",
+        "것",
+        "도",
+        "괜찮",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 요새 기피하니까 하하",
+      "tokens": [
+        "그니까",
+        "요새",
+        "기피",
+        "하",
+        "니까",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "** 누나가 맨날 산청으로",
+      "tokens": [
+        "*",
+        "*",
+        "누나",
+        "가",
+        "맨날",
+        "산청",
+        "으로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "요즘은 스마트 팜이 대세래",
+      "tokens": [
+        "요즘",
+        "은",
+        "스마트",
+        "팜",
+        "이",
+        "대세",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "틈새 시장으로 많이 하는 듯 하하",
+      "tokens": [
+        "틈새시장",
+        "으로",
+        "많이",
+        "하",
+        "는",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이사 오라고 키키",
+      "tokens": [
+        "이사오",
+        "라고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "땅 사라고 해요",
+      "tokens": [
+        "땅",
+        "사",
+        "라고",
+        "해요",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진로를 일찍이 정해야 해",
+      "tokens": [
+        "진로",
+        "를",
+        "일찍이",
+        "정해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "스마트 팜 돈이 많이 들어서 근데 하하",
+      "tokens": [
+        "스마트",
+        "팜",
+        "돈",
+        "이",
+        "많이",
+        "들",
+        "어서",
+        "근데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 괜찮은 것 같아서",
+      "tokens": [
+        "근데",
+        "괜찮",
+        "은",
+        "것",
+        "같",
+        "아서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "농대 가는 애들 많던데?",
+      "tokens": [
+        "농대",
+        "가",
+        "는",
+        "애",
+        "들",
+        "많",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "꽤나 사업 자금이 많아야 돼",
+      "tokens": [
+        "꽤",
+        "나",
+        "사업",
+        "자금",
+        "이",
+        "많",
+        "아야",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "농사도 하하",
+      "tokens": [
+        "농사",
+        "도",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "고민을 하고 있답니다 키키",
+      "tokens": [
+        "고민",
+        "을",
+        "하",
+        "고",
+        "있",
+        "답니다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "농고도 있지 않음?",
+      "tokens": [
+        "농고",
+        "도",
+        "있",
+        "지",
+        "않",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "저흠에 출자금이 높아",
+      "tokens": [
+        "저",
+        "흠",
+        "에",
+        "출자금",
+        "이",
+        "높",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "사업 자금을 키키 나라에서 엄청",
+      "tokens": [
+        "사업",
+        "자금",
+        "을",
+        "키",
+        "키",
+        "나라",
+        "에서",
+        "엄청"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "자금이 쪼까 필요한 듯",
+      "tokens": [
+        "자금",
+        "이",
+        "쪼까",
+        "필요",
+        "한",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "대출 내서 했다가 망하면 큰일이고",
+      "tokens": [
+        "대출",
+        "내서",
+        "했",
+        "EP",
+        "다가",
+        "망하",
+        "면",
+        "큰일",
+        "이",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "빌려준다고 하더라구요~",
+      "tokens": [
+        "빌려",
+        "EC",
+        "준다고",
+        "EC",
+        "하",
+        "더라구요",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

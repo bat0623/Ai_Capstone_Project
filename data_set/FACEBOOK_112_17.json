@@ -1,0 +1,397 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 충치가 많이 생기는 편이야?",
+      "tokens": [
+        "언니",
+        "는",
+        "충치",
+        "가",
+        "많이",
+        "생기",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 이번에 충치 진짜 많아서 다 치료함",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "충치",
+        "진짜",
+        "많",
+        "아서",
+        "다",
+        "치료",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "몇 개 나왔어?",
+      "tokens": [
+        "몇",
+        "개",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 여덟개 키키 미쳤지 진짜",
+      "tokens": [
+        "나",
+        "여덟",
+        "개",
+        "키",
+        "키",
+        "ETN",
+        "미쳤",
+        "EP",
+        "지",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "와 대박 그거 가격 장난 아니겠다!",
+      "tokens": [
+        "와",
+        "대박",
+        "그거",
+        "가",
+        "격장",
+        "난",
+        "JX",
+        "아니",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 병원 연결된데라 진짜 원가로 다해줌 키키",
+      "tokens": [
+        "근데",
+        "병원",
+        "연결",
+        "된",
+        "ETM",
+        "데",
+        "라",
+        "EC",
+        "진짜",
+        "원가",
+        "로",
+        "다",
+        "해줌",
+        "EC",
+        "VX",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오오 키키 어떤 식으로 소개 받고 갔어!?",
+      "tokens": [
+        "오",
+        "오",
+        "키",
+        "키",
+        "ETN",
+        "어떤",
+        "식",
+        "으로",
+        "소개",
+        "받",
+        "고",
+        "갔",
+        "EP",
+        "어",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "우리 병원 태국 실장이 거기 실장이야",
+      "tokens": [
+        "우리",
+        "병원",
+        "태국",
+        "실장",
+        "이",
+        "거기",
+        "실장",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "태국 실장?",
+      "tokens": [
+        "태국",
+        "실장"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "태국에서 오신 분이야?",
+      "tokens": [
+        "태국",
+        "에서",
+        "오",
+        "신",
+        "ETM",
+        "분",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "웅 태국 인들 연결해주는 실장 있어",
+      "tokens": [
+        "웅",
+        "태국",
+        "인",
+        "들",
+        "연결",
+        "해",
+        "EC",
+        "주",
+        "는",
+        "실장",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 대박 키키 근데 충치 하나에 10만 원은 잡아야 하잖아!",
+      "tokens": [
+        "헐대박키키근데충치하나에",
+        "10",
+        "만",
+        "원",
+        "은",
+        "잡",
+        "아야",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아냐 나는 오만원도 안나왔어",
+      "tokens": [
+        "아냐",
+        "나",
+        "는",
+        "오만",
+        "원",
+        "도",
+        "안",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "헐 대박 거의 원가에 한 거 아니야!?",
+      "tokens": [
+        "헐",
+        "대박",
+        "거의",
+        "원가",
+        "에",
+        "한",
+        "ETM",
+        "거",
+        "아니",
+        "야",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 싸게 잘해줬지 이득",
+      "tokens": [
+        "진짜",
+        "싸",
+        "게",
+        "잘",
+        "해",
+        "EC",
+        "줬",
+        "EP",
+        "지",
+        "이득"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 진짜 부럽다 ㅜㅜ",
+      "tokens": [
+        "아진짜부럽다ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 작년에 100만 원 나왔어!",
+      "tokens": [
+        "나",
+        "는",
+        "작년",
+        "에",
+        "100",
+        "만",
+        "원",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "와 충치로?",
+      "tokens": [
+        "와",
+        "충치",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "고생했겠네 진짜",
+      "tokens": [
+        "고생",
+        "했",
+        "EP",
+        "겠",
+        "네",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오우 오늘 할로윈 데이당",
+      "tokens": [
+        "오우",
+        "오늘",
+        "할로",
+        "윈데",
+        "VCP",
+        "EC",
+        "이당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오 할로윈 하하 해피",
+      "tokens": [
+        "오",
+        "할로윈",
+        "하하",
+        "해피"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 어제 대구갔어 키키",
+      "tokens": [
+        "맞아",
+        "어제",
+        "대",
+        "구",
+        "갔",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "미국에는 지금 난리드라",
+      "tokens": [
+        "미국",
+        "에",
+        "는",
+        "지금",
+        "난",
+        "JX",
+        "리드",
+        "라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "대구 가니까 좋더나? 하하",
+      "tokens": [
+        "대구",
+        "가",
+        "니까",
+        "좋",
+        "더나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너무 재밌었어 분장하더라구",
+      "tokens": [
+        "너무",
+        "재밌",
+        "었",
+        "어",
+        "분장",
+        "하",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "할로윈 데이 정확한 뜻 아시는 분",
+      "tokens": [
+        "할로",
+        "윈데",
+        "VCP",
+        "EC",
+        "이정확",
+        "한뜻",
+        "아",
+        "시",
+        "는",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "미국은 난리 났지 하하",
+      "tokens": [
+        "미국",
+        "은",
+        "난리",
+        "났",
+        "EP",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 대구 난리였어 어제",
+      "tokens": [
+        "응",
+        "대구",
+        "난리",
+        "였",
+        "EP",
+        "어",
+        "어제"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "대구 가서 뭐했는데?",
+      "tokens": [
+        "대구",
+        "가",
+        "서",
+        "EC",
+        "뭐",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 한번도 안해봄 하하",
+      "tokens": [
+        "나",
+        "한",
+        "번",
+        "도",
+        "안",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "다 코스프레 중이더라구",
+      "tokens": [
+        "다",
+        "코스프레",
+        "중",
+        "이",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기 할로윈 파티함? 동성로?",
+      "tokens": [
+        "거기",
+        "할로윈",
+        "파티",
+        "함",
+        "ETN",
+        "동성",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "해보고싶다 나도 분장 하하",
+      "tokens": [
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "다",
+        "나",
+        "도",
+        "분장",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 해보고 싶었어 키키",
+      "tokens": [
+        "나",
+        "도",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "거길 갔다고? 신기",
+      "tokens": [
+        "거길",
+        "JKO",
+        "갔",
+        "EP",
+        "다고",
+        "신기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "동성로 재밌지 완젼",
+      "tokens": [
+        "동성",
+        "로",
+        "재밌",
+        "지",
+        "완",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 동성로 어제 핫했어",
+      "tokens": [
+        "응",
+        "동성",
+        "로",
+        "어제",
+        "핫",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

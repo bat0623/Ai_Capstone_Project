@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "g20 정상 회담 한 거 봤어?",
+      "tokens": [
+        "g",
+        "20",
+        "정상",
+        "회담",
+        "한",
+        "ETM",
+        "거",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 탄소정상회의 ㅠㅠ 실패함",
+      "tokens": [
+        "그니까",
+        "탄소",
+        "정상",
+        "회의",
+        "ㅠㅠ",
+        "실패",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니 ㅜㅜ",
+      "tokens": [
+        "아니ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 아직 뉴스를 못 봄",
+      "tokens": [
+        "나",
+        "아직",
+        "뉴스",
+        "를",
+        "못",
+        "봄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "중국 때문에 뭐 실패 했다던데...?",
+      "tokens": [
+        "중국",
+        "때문",
+        "에",
+        "뭐",
+        "실패",
+        "했",
+        "EP",
+        "다던데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "중국이 딴지 걸었다던데",
+      "tokens": [
+        "중국",
+        "이",
+        "딴지",
+        "걸",
+        "었",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 진짜 ㅜㅜ중국 왜",
+      "tokens": [
+        "아진짜ㅜㅜ중국왜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "환경 보호 회의였는데",
+      "tokens": [
+        "환경",
+        "보호",
+        "회의",
+        "였",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "중국은 정말 대단함 하하",
+      "tokens": [
+        "중국",
+        "은",
+        "정말",
+        "대단",
+        "함",
+        "ETN",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아진짜 넘빡친다 중국은 ㅜㅜㅜㅜ",
+      "tokens": [
+        "아",
+        "진짜",
+        "넘",
+        "빡",
+        "친다",
+        "EC",
+        "중국",
+        "은",
+        "ㅜㅜ",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "중국이 완전 반대 했나봐",
+      "tokens": [
+        "중국",
+        "이",
+        "완전",
+        "반대",
+        "했",
+        "EP",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "자기들 공장 못 돌리니까 그런 듯 하하",
+      "tokens": [
+        "자기",
+        "들",
+        "공장",
+        "못",
+        "돌리",
+        "니까",
+        "그런",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 그래 진짜 키키 지네 때문에",
+      "tokens": [
+        "왜",
+        "그래",
+        "진짜",
+        "키",
+        "키",
+        "지네",
+        "때문",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래서 합의에 실패했대",
+      "tokens": [
+        "그래서",
+        "합의",
+        "에",
+        "실패",
+        "했",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "석탄 안 쓰기 운동 하자 했는데 거절함",
+      "tokens": [
+        "석탄",
+        "안",
+        "쓰",
+        "기",
+        "운동",
+        "하",
+        "자",
+        "했",
+        "EP",
+        "는데",
+        "거절",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아아 ㅜㅜ그래서 공기도 좋아졌는데 ㅜㅜ",
+      "tokens": [
+        "아아",
+        "ㅜㅜ",
+        "그래서",
+        "공기",
+        "도",
+        "좋",
+        "아",
+        "졌",
+        "EP",
+        "는데",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "중국이 지구의 문제다... 내 생각엔",
+      "tokens": [
+        "중국",
+        "이",
+        "지구",
+        "의",
+        "문제",
+        "다",
+        "EF",
+        ".",
+        "내",
+        "JKG",
+        "생각",
+        "엔",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "중국은 진짜 민폐야",
+      "tokens": [
+        "중국",
+        "은",
+        "진짜",
+        "민폐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 헐랭 ㅜㅜ",
+      "tokens": [
+        "아헐랭ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "내 생각도 중국이 많이 문제임",
+      "tokens": [
+        "내",
+        "JKG",
+        "생각",
+        "도",
+        "중국",
+        "이",
+        "많이",
+        "문제",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "병아리 감별사 자격증 아는 사람",
+      "tokens": [
+        "병아리",
+        "감별사",
+        "자격증",
+        "아",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 코딩교육이 필수라고 봐",
+      "tokens": [
+        "난",
+        "JX",
+        "코딩",
+        "교육",
+        "이",
+        "필수",
+        "라고",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "코딩교육 필수지 얘들 사고력 발달에도 좋고",
+      "tokens": [
+        "코딩",
+        "교육",
+        "필수",
+        "지",
+        "EF",
+        "얘",
+        "들",
+        "사고력",
+        "발달",
+        "에",
+        "도",
+        "좋",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "병아리 감별사가 대단 하던데",
+      "tokens": [
+        "병아리",
+        "감별사",
+        "가",
+        "대단",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거 네덜란드에서 시작한 거임 병아리 감별사",
+      "tokens": [
+        "그거",
+        "네덜란드",
+        "에서",
+        "시작",
+        "한",
+        "ETM",
+        "거",
+        "임",
+        "ETN",
+        "병아리",
+        "감별사"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "병아리 감별사 이름 귀엽다",
+      "tokens": [
+        "병아리",
+        "감별사",
+        "이름",
+        "귀엽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엄청 고소식 직업이래",
+      "tokens": [
+        "엄청",
+        "고",
+        "소식",
+        "직업",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "형님이 역시 뭘 잘 아시는듯! 최고",
+      "tokens": [
+        "형",
+        "님",
+        "이",
+        "역시",
+        "뭘",
+        "JKO",
+        "잘",
+        "아",
+        "시",
+        "는",
+        "듯",
+        "최고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "우량종 병아리만 골라내는 거여?",
+      "tokens": [
+        "우량종",
+        "병아리",
+        "만",
+        "골라내",
+        "는",
+        "거",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "한국 사람이 젤 잘한다던데",
+      "tokens": [
+        "한국",
+        "사람",
+        "이",
+        "젤",
+        "잘",
+        "한다던데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 이제는 그거 기계가 다 함",
+      "tokens": [
+        "근데",
+        "이제",
+        "는",
+        "그거",
+        "기계",
+        "가",
+        "다함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "힝 그럼 사람이 할게 점점 없어지자너",
+      "tokens": [
+        "힝",
+        "그럼",
+        "사람",
+        "이",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "점점",
+        "없",
+        "어",
+        "지",
+        "자",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아뇨!  암컷인지 구분하는 거!",
+      "tokens": [
+        "아뇨",
+        "암컷",
+        "인지",
+        "EC",
+        "구분",
+        "하",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 70년대 이야기고 지금은 없어짐 키키",
+      "tokens": [
+        "그거",
+        "70",
+        "년",
+        "대",
+        "이야기",
+        "고",
+        "EC",
+        "지금",
+        "은",
+        "없",
+        "어",
+        "짐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 키키 암컷 수컷만 하면 되는구나",
+      "tokens": [
+        "아키",
+        "키",
+        "암컷",
+        "수컷",
+        "만",
+        "하",
+        "면",
+        "되",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그걸 이제 기계가 한데? 아 그래? 키키",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "이제",
+        "기계",
+        "가",
+        "한데",
+        "EF",
+        "아",
+        "그래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "글고 지금은 계란일 때부터 이미 골라냄",
+      "tokens": [
+        "글고",
+        "지금",
+        "은",
+        "계란",
+        "일",
+        "ETM",
+        "때",
+        "부터",
+        "이미",
+        "골라",
+        "EC",
+        "냄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오 계란일 때 무슨 차이가 있다고 골라낼까",
+      "tokens": [
+        "오계",
+        "란",
+        "일",
+        "때",
+        "무슨",
+        "차이",
+        "가",
+        "있",
+        "다고",
+        "골라",
+        "EC",
+        "낼까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

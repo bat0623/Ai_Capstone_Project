@@ -1,0 +1,405 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "각자 취직하면 꼭 말하자...",
+      "tokens": [
+        "각자",
+        "취직",
+        "하",
+        "면",
+        "꼭",
+        "말",
+        "하",
+        "자",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 꼭 말하자! 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "꼭",
+        "말",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "취직",
+      "tokens": [
+        "취직"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "꼭 말하자 우리",
+      "tokens": [
+        "꼭",
+        "말",
+        "하",
+        "자",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "숨기기 없기야 그런 거",
+      "tokens": [
+        "숨기",
+        "기",
+        "없",
+        "기",
+        "야",
+        "그런",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "얼른 해야지 ㅠㅠ",
+      "tokens": [
+        "얼른",
+        "해야지",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "공부하기 싫다",
+      "tokens": [
+        "공부",
+        "하",
+        "기",
+        "싫",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "다 같이 취업하자 키키",
+      "tokens": [
+        "다",
+        "같이",
+        "취업",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "밥 사 주기 싫다고 잠수 타고 막...",
+      "tokens": [
+        "밥사주기싫다고잠수타고막",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "에이 그럴 리가 있나!",
+      "tokens": [
+        "에이",
+        "그럴",
+        "ETM",
+        "리",
+        "가",
+        "있",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "갑자기 숨거나 하면 안 돼 키키",
+      "tokens": [
+        "갑자기",
+        "숨",
+        "거나",
+        "하",
+        "면",
+        "안",
+        "돼",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "꼭 좋은 곳에  다 취업하장!",
+      "tokens": [
+        "꼭",
+        "좋",
+        "은",
+        "곳",
+        "에다",
+        "취업",
+        "하장"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "다들 좋게 취업하자!",
+      "tokens": [
+        "다",
+        "들",
+        "좋",
+        "게",
+        "취업",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "취업 좋은 데로 꼭 했으면 좋겠댜",
+      "tokens": [
+        "취업",
+        "좋",
+        "은",
+        "데",
+        "로",
+        "꼭",
+        "했",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "댜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어렵네",
+      "tokens": [
+        "어렵",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "갑자기 전화 안 받구... 몰래 일하고",
+      "tokens": [
+        "갑자기",
+        "전화",
+        "안",
+        "받",
+        "구",
+        ".",
+        ".",
+        "몰래",
+        "일",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 에이 설마 그렇겠어 ㅡ",
+      "tokens": [
+        "키",
+        "키",
+        "에",
+        "이",
+        "설마",
+        "그렇",
+        "겠",
+        "어ㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 너무 나쁜데 그건 키키",
+      "tokens": [
+        "키",
+        "키",
+        "너무",
+        "나쁜데",
+        "EC",
+        "그건",
+        "JX",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나도 꼭 말해 줄겡 하하",
+      "tokens": [
+        "나",
+        "도",
+        "꼭",
+        "말",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "겡",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 나도 다들 말하자",
+      "tokens": [
+        "나",
+        "도",
+        "나",
+        "도",
+        "다",
+        "들",
+        "말",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "꼭 취업해서 꼭 말하자 키키",
+      "tokens": [
+        "꼭",
+        "취업",
+        "해서",
+        "EC",
+        "꼭",
+        "말",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

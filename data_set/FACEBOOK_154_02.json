@@ -1,0 +1,471 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내가 봤을 때는 거기가 우리 동네 최고 맛집임",
+      "tokens": [
+        "내",
+        "가",
+        "봤",
+        "EP",
+        "을",
+        "때",
+        "는",
+        "거기",
+        "가",
+        "우리",
+        "동네",
+        "최고",
+        "맛집",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그 정도라니 사장님이 알아야 함",
+      "tokens": [
+        "그",
+        "정도",
+        "라니",
+        "EC",
+        "사장",
+        "님",
+        "이",
+        "알",
+        "아야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 그 정도라고? 키키",
+      "tokens": [
+        "아",
+        "그",
+        "정도",
+        "라고",
+        "EC",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "에이 키키",
+      "tokens": [
+        "에이키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 처세권에만 살 꺼야",
+      "tokens": [
+        "난",
+        "JX",
+        "처세",
+        "권",
+        "에",
+        "만",
+        "살",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 이 정도까지 홍보대사라니",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "이",
+        "정도",
+        "까지",
+        "홍보",
+        "대사",
+        "라니",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이거 완전 극찬이잖아 키키",
+      "tokens": [
+        "이거",
+        "완전",
+        "극찬",
+        "이",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 완전 극찬 키키",
+      "tokens": [
+        "키키완전극찬키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 까다로운 거 알지?",
+      "tokens": [
+        "나",
+        "까다로운",
+        "ETM",
+        "거",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "처세권에 산다는 게 키키",
+      "tokens": [
+        "처세",
+        "권",
+        "에",
+        "산다는",
+        "ETM",
+        "게",
+        "JKS",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "서비스라도 주셔야 됨 이정도면 키키",
+      "tokens": [
+        "서비스",
+        "라도",
+        "EC",
+        "주",
+        "셔야",
+        "EC",
+        "됨",
+        "ETN",
+        "이",
+        "정도",
+        "면",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리 집에 처갓집이 와서 다행이야다며.",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "처갓집",
+        "이",
+        "와서",
+        "EC",
+        "다행",
+        "이",
+        "야",
+        "VX",
+        "다며"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "호탄점 근처에 집만 산다고 키키",
+      "tokens": [
+        "호탄",
+        "점",
+        "근처",
+        "에",
+        "집",
+        "만",
+        "산다고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "내가 다이어트 중이지만 꼭 먹어보겠슈 키키",
+      "tokens": [
+        "내",
+        "가",
+        "다이어트",
+        "중",
+        "이",
+        "지만",
+        "꼭",
+        "먹",
+        "어",
+        "보",
+        "겠",
+        "슈",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "야 저번에 돗자리도 주심 키키",
+      "tokens": [
+        "야",
+        "저번",
+        "에",
+        "돗자리",
+        "도",
+        "주심",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 처갓집 배달 정촌까지 해서 다행",
+      "tokens": [
+        "진짜",
+        "처갓집",
+        "배달",
+        "정촌",
+        "까지",
+        "해서",
+        "EC",
+        "다행"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오 진짜?",
+      "tokens": [
+        "오",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "너만 준 거? 키키",
+      "tokens": [
+        "너",
+        "만",
+        "준",
+        "ETM",
+        "거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그럴 걸...?",
+      "tokens": [
+        "그럴걸",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "몰라...? 키키",
+      "tokens": [
+        "몰라",
+        "EF",
+        ".",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "우리 집에 배달 와서 넘 좋아",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "배달",
+        "와서",
+        "EC",
+        "넘",
+        "좋아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "다른 서비스도 받아야 될 듯...",
+      "tokens": [
+        "다른",
+        "서비스",
+        "도",
+        "받",
+        "아야",
+        "될",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "앜 키키 나도 돗자리 달라해야징",
+      "tokens": [
+        "앜키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "돗자리",
+        "달라",
+        "EC",
+        "해야",
+        "EC",
+        "징"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "비 오고 나면 엄청 추운 거 알지?",
+      "tokens": [
+        "비오",
+        "고",
+        "나",
+        "면",
+        "엄청",
+        "추운거",
+        "ETM",
+        "NNB",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "추워질 꺼야 하하",
+      "tokens": [
+        "추워질",
+        "EC",
+        "VX",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아요",
+      "tokens": [
+        "맞",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "완전 덜덜덜 춥습니당",
+      "tokens": [
+        "완전",
+        "덜",
+        "덜",
+        "덜",
+        "춥",
+        "습니당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이제 완전 겨울일 껄...",
+      "tokens": [
+        "이제완전겨울일껄",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "방한 준비를 단디 하자 하하",
+      "tokens": [
+        "방한",
+        "준비",
+        "를",
+        "단디",
+        "하",
+        "자",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "롱패딩 꺼낼려구용",
+      "tokens": [
+        "롱패딩꺼낼려구용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "비 말고 눈 왔으면...",
+      "tokens": [
+        "비",
+        "EC",
+        "말",
+        "고",
+        "눈",
+        "왔",
+        "EP",
+        "으면",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이제 겨울이지",
+      "tokens": [
+        "이제",
+        "겨울",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "개추울 듯 하하",
+      "tokens": [
+        "개",
+        "추울",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "눈 오면 눈사람 만들고 하하",
+      "tokens": [
+        "눈",
+        "오",
+        "면",
+        "눈",
+        "사람",
+        "만들",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "삼천포에 눈 온 적 있어?",
+      "tokens": [
+        "삼천포",
+        "에",
+        "눈",
+        "온",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "롱패딩 우린 벌써 입고 다님 하하",
+      "tokens": [
+        "롱",
+        "패딩",
+        "우린",
+        "JX",
+        "벌써",
+        "입",
+        "고",
+        "다님",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "삼천포에 거의 없어용",
+      "tokens": [
+        "삼천포",
+        "에",
+        "거의",
+        "없",
+        "어용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진주는 눈 겁나 안 와...",
+      "tokens": [
+        "진주",
+        "는",
+        "눈",
+        "겁나",
+        "EC",
+        "안",
+        "와",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "삼천포 눈 더 안 올 듯 하하",
+      "tokens": [
+        "삼",
+        "천",
+        "포",
+        "눈",
+        "더",
+        "안",
+        "올",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "눈 온 적이 거의 없어요 하하",
+      "tokens": [
+        "눈",
+        "온",
+        "ETM",
+        "적",
+        "이",
+        "거의",
+        "없",
+        "어요",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 어렸을 때 오고 안 온 듯...",
+      "tokens": [
+        "나",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "오",
+        "고",
+        "안",
+        "온",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "여기보다 더 안 올 듯 하하",
+      "tokens": [
+        "여기",
+        "보다",
+        "더",
+        "안",
+        "올",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "눈 싸움 하고 싶네요 ㅜㅜ",
+      "tokens": [
+        "눈싸움",
+        "하",
+        "고",
+        "싶",
+        "네요",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

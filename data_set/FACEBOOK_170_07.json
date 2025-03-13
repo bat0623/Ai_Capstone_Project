@@ -1,0 +1,393 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "긱사 데이 이런 거도 안하겠담...?",
+      "tokens": [
+        "긱",
+        "사데",
+        "이",
+        "이런",
+        "거",
+        "도",
+        "안",
+        "하",
+        "겠",
+        "담",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 그거 존잼인데 하하",
+      "tokens": [
+        "그니까",
+        "그거",
+        "존",
+        "ETM",
+        "잼",
+        "인데",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "기숙사 데이가 뭐에용?",
+      "tokens": [
+        "기숙사",
+        "데이",
+        "가",
+        "뭐",
+        "EP",
+        "에용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그때 가족들 올 수 있잖아 키키",
+      "tokens": [
+        "그때",
+        "가족",
+        "들",
+        "올",
+        "ETM",
+        "수",
+        "있",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "긱사데이 완젼 존잼탱 하하",
+      "tokens": [
+        "긱",
+        "사데",
+        "이완",
+        "젼",
+        "존",
+        "잼",
+        "탱",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 그래요?",
+      "tokens": [
+        "아",
+        "그래요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그런 거 못 들어봤어용",
+      "tokens": [
+        "그런",
+        "거",
+        "못",
+        "들",
+        "어",
+        "봤",
+        "EP",
+        "어용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "라떼는 그런 거 했는데 키키  기숙사 개방 하는 날 키키",
+      "tokens": [
+        "라떼",
+        "는",
+        "그런",
+        "거",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "기숙사",
+        "개방",
+        "하",
+        "는",
+        "날",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "가족들도 오고 막 하하",
+      "tokens": [
+        "가족",
+        "들",
+        "도",
+        "오",
+        "고",
+        "막하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "기숙사 개방 ㅁㅎㅋㅎ 신기해용",
+      "tokens": [
+        "기숙사",
+        "개방",
+        "ㅁ",
+        "ㅎ",
+        "ㅋㅎ",
+        "신기",
+        "해용",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "기숙사에서  축제 하고  친구들 오고 그런 거...",
+      "tokens": [
+        "기숙사",
+        "에서",
+        "축제",
+        "하",
+        "고",
+        "친구",
+        "들",
+        "오",
+        "고",
+        "그런",
+        "거",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 친구들도 초대할 수 있고 하하",
+      "tokens": [
+        "맞",
+        "아",
+        "친구",
+        "들",
+        "도",
+        "초대",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "축제도 해요? 신기하다",
+      "tokens": [
+        "축제",
+        "도",
+        "해요",
+        "EF",
+        "신기",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그런 거 안 해봤어...? 세상에나",
+      "tokens": [
+        "그런",
+        "거",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        ".",
+        ".",
+        "세상",
+        "에",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "긱사 축제 같은 거야 하하",
+      "tokens": [
+        "긱",
+        "사축",
+        "제",
+        "같",
+        "은",
+        "거",
+        "야",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "넵, 아마 코로나라 그럴지도,",
+      "tokens": [
+        "넵",
+        ",",
+        "아마코",
+        "로",
+        "나라",
+        "그럴지도",
+        "EC",
+        "JX",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응 축제 하면 가수도 오고 막...!",
+      "tokens": [
+        "응",
+        "축제",
+        "하",
+        "면",
+        "가수",
+        "도",
+        "오",
+        "고",
+        "막",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그때는 긱사 안 살아도 들어가고 하하",
+      "tokens": [
+        "그때",
+        "는",
+        "긱사",
+        "안",
+        "살",
+        "아도",
+        "들어가",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아하 하하 우와, 넘 재밌을 것 같아용",
+      "tokens": [
+        "아하하하",
+        "우와",
+        ",",
+        "넘",
+        "재밌",
+        "을",
+        "것",
+        "같",
+        "아용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

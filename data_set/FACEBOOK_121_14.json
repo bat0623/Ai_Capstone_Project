@@ -1,0 +1,361 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "대전 음주 차량 돌진한 거 봄?",
+      "tokens": [
+        "대전",
+        "음주",
+        "차량",
+        "돌진",
+        "한",
+        "ETM",
+        "거",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 진짜 그게 뭐야 몰라",
+      "tokens": [
+        "아",
+        "진짜",
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF",
+        "몰라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "보라매 공원으로 돌진 했대 키키",
+      "tokens": [
+        "보라매",
+        "공원",
+        "으로",
+        "돌진",
+        "했",
+        "EP",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "대전에 음주 차량을 돌진했다고?",
+      "tokens": [
+        "대전",
+        "에",
+        "음주",
+        "차량",
+        "을",
+        "돌진",
+        "했",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 음주운전 차량이 돌진했음",
+      "tokens": [
+        "응",
+        "음주운전",
+        "차량",
+        "이",
+        "돌진",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 진짜 보라매 공원으로 돌진을 했대?",
+      "tokens": [
+        "아",
+        "진짜",
+        "보라매",
+        "공원",
+        "으로",
+        "돌진",
+        "을",
+        "했",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 와 몇 살이 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "와",
+        "몇",
+        "살",
+        "이",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "30대 남자 ㅠ",
+      "tokens": [
+        "30",
+        "대남자ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "공원 시설물이 크게 부서졌대",
+      "tokens": [
+        "공원",
+        "시설물",
+        "이",
+        "크",
+        "게",
+        "부서졌",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "와 진짜 그래서 그 남자 어떻게 ?",
+      "tokens": [
+        "와",
+        "진짜",
+        "그래서",
+        "그",
+        "남자",
+        "어떻게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아마 잡힌 것 같던데 ㅠㅠ",
+      "tokens": [
+        "아마",
+        "잡힌",
+        "ETM",
+        "것",
+        "같",
+        "던데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "부서진 파편 때문에 다른 사람 다침",
+      "tokens": [
+        "부서진",
+        "ETM",
+        "파편",
+        "때문",
+        "에",
+        "다른",
+        "사람",
+        "다",
+        "침"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 진짜 다른 사람 다쳤데 큰일이네",
+      "tokens": [
+        "아",
+        "진짜",
+        "다른",
+        "사람",
+        "다쳤",
+        "EP",
+        "데",
+        "큰일",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "후, 음주 운전 처벌 강화를 해야지",
+      "tokens": [
+        "후",
+        ",",
+        "음주운전",
+        "처벌",
+        "강화",
+        "를",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 진짜 강화해도 사람들은 할 거 같아",
+      "tokens": [
+        "아",
+        "진짜",
+        "강화",
+        "해도",
+        "EC",
+        "사람",
+        "들",
+        "은",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그러게, 보라매 공원 무슨 잘못이야 ㅠㅠ",
+      "tokens": [
+        "그러게",
+        ",",
+        "보라매공원무슨잘못이야ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 진짜 무슨 잘못이래 딱하지",
+      "tokens": [
+        "그니까",
+        "진짜",
+        "무슨",
+        "잘못",
+        "이래",
+        "EF",
+        "딱",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아휴 키키 콩밥 먹고 정신 좀 차려라~",
+      "tokens": [
+        "아휴키키콩밥먹고정신좀차려라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 진짜 정신 차리게 콩밥 주자",
+      "tokens": [
+        "아",
+        "진짜",
+        "정신",
+        "차리",
+        "게",
+        "콩밥",
+        "주자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

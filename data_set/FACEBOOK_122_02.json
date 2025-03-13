@@ -1,0 +1,336 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠 지금 자취하고 살아?",
+      "tokens": [
+        "오빠",
+        "지금",
+        "자취",
+        "하",
+        "고",
+        "살",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 나 자취하고 있지 키키",
+      "tokens": [
+        "웅",
+        "나",
+        "자취",
+        "하",
+        "고",
+        "있",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오 한 달에 방세 얼마 나가?",
+      "tokens": [
+        "오",
+        "한",
+        "달",
+        "에",
+        "방세",
+        "얼마",
+        "나가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 30만 원 정도 나와",
+      "tokens": [
+        "나",
+        "30",
+        "만",
+        "원",
+        "정도",
+        "나와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어디서 자취 하는 건데? 키키",
+      "tokens": [
+        "어디",
+        "서",
+        "자취",
+        "하",
+        "는",
+        "건데",
+        "VCP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 회사 근처에서 자취해",
+      "tokens": [
+        "나",
+        "회사",
+        "근처",
+        "에서",
+        "자취",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "와 생각보다 저렴하네 키키 몇 평?",
+      "tokens": [
+        "와",
+        "생각",
+        "보다",
+        "저렴",
+        "하",
+        "네",
+        "키",
+        "키",
+        "ETN",
+        "몇",
+        "평"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 여자친구랑 같이 살고 있어 18평",
+      "tokens": [
+        "나",
+        "여자",
+        "친구",
+        "랑",
+        "같이",
+        "살",
+        "고",
+        "있",
+        "어",
+        "18",
+        "평"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 정말? 18평이 그게 가능 하구나,",
+      "tokens": [
+        "아",
+        "정말",
+        "?",
+        "18",
+        "평",
+        "이",
+        "그게",
+        "JKS",
+        "가능",
+        "하",
+        "구나",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "웅 친구네 건물이라서 싸게 살고 있어",
+      "tokens": [
+        "웅",
+        "친구",
+        "네",
+        "건물",
+        "이",
+        "라서",
+        "싸",
+        "게",
+        "살",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아하 키키 보증금 얼마나 줬어?",
+      "tokens": [
+        "아",
+        "하키",
+        "키",
+        "보증금",
+        "얼마나",
+        "줬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 3천만 원 주고 살지 하하",
+      "tokens": [
+        "나",
+        "3",
+        "천만",
+        "원",
+        "주",
+        "고",
+        "살",
+        "ETM",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 어쩐지 키키 월세가 싸다 했네",
+      "tokens": [
+        "아",
+        "어쩐지",
+        "키",
+        "키",
+        "월세",
+        "가",
+        "싸",
+        "다",
+        "했",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "웅 진짜 내 친구네라서 좋긴 해",
+      "tokens": [
+        "웅",
+        "진짜",
+        "내",
+        "JKG",
+        "친구",
+        "네",
+        "라서",
+        "좋",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러게 그런 건 편해서 좋겠다 키키",
+      "tokens": [
+        "그러게",
+        "그런",
+        "건",
+        "JX",
+        "편해서",
+        "EC",
+        "좋",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 지금 여자친구랑 같이 살고 있거든",
+      "tokens": [
+        "나",
+        "지금",
+        "여자",
+        "친구",
+        "랑",
+        "같이",
+        "살",
+        "고",
+        "있",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

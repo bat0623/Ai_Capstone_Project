@@ -1,0 +1,443 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대에서 고사 안 지냄?",
+      "tokens": [
+        "군대",
+        "에서",
+        "고사",
+        "안",
+        "지냄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "군대에서 고사를 왜 지내?",
+      "tokens": [
+        "군대",
+        "에서",
+        "고사",
+        "를",
+        "왜",
+        "지내",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "군대에서도 한 번도 안 지내봄 ...",
+      "tokens": [
+        "군대",
+        "에서",
+        "도",
+        "한",
+        "번",
+        "도",
+        "안",
+        "지내",
+        "EC",
+        "봄",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "대신 명절에 제사는 지내잖아",
+      "tokens": [
+        "대신",
+        "명절",
+        "에",
+        "제사",
+        "는",
+        "지내",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "부대 평안 기안 이런 거 할 듯",
+      "tokens": [
+        "부대",
+        "평안",
+        "기안",
+        "이런",
+        "거",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 산업체라 모르겠다 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "산업체",
+        "라",
+        "EC",
+        "모르",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 그런 거 누가 하누 ...",
+      "tokens": [
+        "키키",
+        "그런",
+        "거",
+        "누가",
+        "JKS",
+        "하",
+        "누",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 군대에서 명절에 차례를 모심?",
+      "tokens": [
+        "아",
+        "군대",
+        "에서",
+        "명절",
+        "에",
+        "차례",
+        "를",
+        "모심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "명절에도 군대에 있음?",
+      "tokens": [
+        "명절",
+        "에",
+        "도",
+        "군대",
+        "에",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "웅...설이랑 추석 때 차례는 다 같이 지낸다...",
+      "tokens": [
+        "웅",
+        ".",
+        "설",
+        "이랑",
+        "추석",
+        "때",
+        "차례",
+        "는",
+        "다",
+        "같이",
+        "지낸다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "대박 신기하네",
+      "tokens": [
+        "대박",
+        "신기",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그건 몰랐음 키키",
+      "tokens": [
+        "그건",
+        "JX",
+        "몰랐",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "명절에는 휴가 안 보내줌?",
+      "tokens": [
+        "명절",
+        "에",
+        "는",
+        "휴가",
+        "안",
+        "보내",
+        "줌",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 명절에 그럼 어디 있어 ...",
+      "tokens": [
+        "키",
+        "키",
+        "명절",
+        "에",
+        "그럼",
+        "어디",
+        "있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "명절에는 나라 누가 지키누",
+      "tokens": [
+        "명절",
+        "에",
+        "는",
+        "나라",
+        "누가",
+        "JKS",
+        "지키",
+        "누"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "군대에서 교회도 가고 절에도 가고 하던디",
+      "tokens": [
+        "군대",
+        "에서",
+        "교회",
+        "도",
+        "가",
+        "고",
+        "절",
+        "에",
+        "도",
+        "가",
+        "고",
+        "하",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "헐헐 몰랐어 키키",
+      "tokens": [
+        "헐헐",
+        "몰랐",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 키키",
+      "tokens": [
+        "아키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "교회가 좋아 ...",
+      "tokens": [
+        "교회",
+        "가",
+        "좋",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맛있는 거 주거든 ...",
+      "tokens": [
+        "맛있",
+        "는",
+        "거",
+        "주",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 니는 의경인데 이런 거 어떻게 다 아냐 하하",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "니",
+        "는",
+        "의경",
+        "인데",
+        "EC",
+        "이런",
+        "거",
+        "어떻게",
+        "다",
+        "아냐",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "초코파이 아직도 주나? 키키",
+      "tokens": [
+        "초코파이",
+        "아직",
+        "도",
+        "주",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "훈련소에서 설 보냈잖아 ...",
+      "tokens": [
+        "훈련소",
+        "에서",
+        "설",
+        "JX",
+        "보냈",
+        "EP",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

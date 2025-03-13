@@ -1,0 +1,429 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 다음에도 알바 꼭 같이 해",
+      "tokens": [
+        "우리",
+        "다음",
+        "에",
+        "도",
+        "알",
+        "ETM",
+        "바",
+        "꼭",
+        "같이",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 이런 알바면 당연 키키",
+      "tokens": [
+        "아",
+        "이런",
+        "알",
+        "ETM",
+        "바",
+        "면",
+        "EC",
+        "당연",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "좋아",
+      "tokens": [
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맨날하자",
+      "tokens": [
+        "맨날",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 알바몬이여",
+      "tokens": [
+        "나",
+        "는",
+        "알",
+        "ETM",
+        "바",
+        "몬",
+        "ETM",
+        "이여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아라찌?",
+      "tokens": [
+        "아라",
+        "찌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "여러분의 노고에 항상 감사를...",
+      "tokens": [
+        "여러분",
+        "의",
+        "노고",
+        "에",
+        "항상",
+        "감사",
+        "를",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "하 노고라뇨 키키 별 말씀을",
+      "tokens": [
+        "하노",
+        "고라",
+        "뇨키",
+        "키",
+        "별",
+        "말씀",
+        "을"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내가 더 감사하지... 아리가또",
+      "tokens": [
+        "내",
+        "가",
+        "더",
+        "감사",
+        "하",
+        "지",
+        ".",
+        "아리",
+        "가",
+        "또"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 열일하는 알바몬!",
+      "tokens": [
+        "나",
+        "도",
+        "열일",
+        "하",
+        "는",
+        "알바",
+        "몬"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "저도 감사함을 느껴요 키키",
+      "tokens": [
+        "저",
+        "도",
+        "감사",
+        "함",
+        "ETN",
+        "을",
+        "느껴",
+        "EC",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 아침부터 열일이다...",
+      "tokens": [
+        "키",
+        "키",
+        "아침",
+        "부터",
+        "열",
+        "일",
+        "이",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 잠 덜 깸",
+      "tokens": [
+        "나",
+        "잠",
+        "덜",
+        "깸"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오늘 알바비 몇 시에 줄까? 하하",
+      "tokens": [
+        "오늘",
+        "알",
+        "ETM",
+        "바",
+        "비",
+        "몇",
+        "시",
+        "에",
+        "줄까",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "음... 그러게요 키키",
+      "tokens": [
+        "음",
+        ".",
+        "그러",
+        "게",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "흠 12시 전으로 해서 들오는 거 같드니",
+      "tokens": [
+        "흠",
+        "12",
+        "시",
+        "전",
+        "으로",
+        "해서",
+        "EC",
+        "들오",
+        "는",
+        "거",
+        "같",
+        "드니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "알바비 받아서 뭐 할거니 하하",
+      "tokens": [
+        "알바",
+        "비",
+        "받",
+        "아서",
+        "뭐",
+        "할",
+        "ETM",
+        "거",
+        "니",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "두근두근 알바비 들어올 때가 제일 좋아요",
+      "tokens": [
+        "두근두근",
+        "알",
+        "ETM",
+        "바",
+        "비",
+        "EC",
+        "들어올",
+        "ETM",
+        "때",
+        "가",
+        "제일",
+        "좋",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "알바비 받으면 나는 저금할거여",
+      "tokens": [
+        "알바",
+        "비",
+        "받",
+        "으면",
+        "나",
+        "는",
+        "저금",
+        "할거",
+        "ETM",
+        "NNB",
+        "VCP",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "난 치킨 사 먹어야지 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "치킨",
+        "사먹",
+        "어야",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "저는 아마 식비로 키키",
+      "tokens": [
+        "저",
+        "는",
+        "아마",
+        "식비",
+        "로",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "왜냐면... 요즘 경조사비가 많이 나가써",
+      "tokens": [
+        "왜냐면",
+        ".",
+        "요즘",
+        "경조사",
+        "비",
+        "가",
+        "많이",
+        "나",
+        "가",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

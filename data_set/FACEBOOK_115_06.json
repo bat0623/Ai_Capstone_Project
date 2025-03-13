@@ -1,0 +1,482 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 고딩 때 학원 다녀봤어?",
+      "tokens": [
+        "언니",
+        "는",
+        "고딩",
+        "때",
+        "학원",
+        "다녀",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 중딩 때가 끝",
+      "tokens": [
+        "난중",
+        "딩",
+        "때",
+        "가",
+        "끝"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "학원 안 다님 키키",
+      "tokens": [
+        "학원",
+        "안",
+        "다님",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "중딩 때 어디 갔었어?",
+      "tokens": [
+        "중",
+        "딩",
+        "때",
+        "어디",
+        "갔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 영어 학원도 다녔고 과외도 했고",
+      "tokens": [
+        "나",
+        "영어",
+        "학원",
+        "도",
+        "다녔",
+        "EP",
+        "고",
+        "과외",
+        "도",
+        "했",
+        "EP",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 와 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "와",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "영어 과외를 한 거야?",
+      "tokens": [
+        "영어",
+        "과외",
+        "를",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "웅 그랬던 거 같아",
+      "tokens": [
+        "웅",
+        "그랬",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 때려침",
+      "tokens": [
+        "근데",
+        "때려",
+        "EC",
+        "침"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "왜 키키 영어 쌤이 마음에 안 들었어?",
+      "tokens": [
+        "왜",
+        "키",
+        "키",
+        "영어",
+        "쌤",
+        "이",
+        "마음",
+        "에",
+        "안",
+        "들",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "친구들 가길래 다닌 거지 같이 안 가고 키키",
+      "tokens": [
+        "친구",
+        "들",
+        "가",
+        "길래",
+        "다닌",
+        "ETM",
+        "거",
+        "지",
+        "EF",
+        "같이",
+        "안",
+        "가",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나는 고딩 때까지",
+      "tokens": [
+        "나",
+        "는",
+        "고딩",
+        "때",
+        "까지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "수학 과외 받아봤어?",
+      "tokens": [
+        "수학",
+        "과외",
+        "받",
+        "아",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 수학 잘하겠네?",
+      "tokens": [
+        "와",
+        "수학",
+        "잘",
+        "하",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아니!",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "지금은 사칙연산 밖에 못 해!",
+      "tokens": [
+        "지금",
+        "은",
+        "사칙",
+        "연산",
+        "밖에",
+        "못",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "사칙 연산이 뭔지 난 기억 안나",
+      "tokens": [
+        "사칙",
+        "연산",
+        "이",
+        "뭔지",
+        "VCP",
+        "EC",
+        "난",
+        "ETM",
+        "기억",
+        "안",
+        "나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "우리 더하기 빼기 곱하기 나누기 이거잖아!",
+      "tokens": [
+        "우리",
+        "더",
+        "하",
+        "기",
+        "빼",
+        "기",
+        "곱하",
+        "기",
+        "나누",
+        "기",
+        "이거",
+        "잖아",
+        "EC",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나 바보야?",
+      "tokens": [
+        "나",
+        "바보",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 아니야~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그 뭐냐 혹시 언니 인수분해라고 알아?",
+      "tokens": [
+        "그",
+        "뭐",
+        "냐",
+        "EF",
+        "혹시",
+        "언니",
+        "인",
+        "ETM",
+        "수분",
+        "해",
+        "EF",
+        "라고",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 인수 분해는 알아",
+      "tokens": [
+        "키",
+        "키",
+        "인",
+        "ETM",
+        "수분",
+        "해",
+        "EC",
+        "는",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "어려워",
+      "tokens": [
+        "어려워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

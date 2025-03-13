@@ -1,0 +1,433 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "당근 마켓에서  외국인 만남 키키",
+      "tokens": [
+        "당근",
+        "마켓",
+        "에서",
+        "외국인",
+        "만남",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "신기해",
+      "tokens": [
+        "신기",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "외국인이랑 거래?",
+      "tokens": [
+        "외국인",
+        "이랑",
+        "거래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "상거래 행위에서 계약은 필수임",
+      "tokens": [
+        "상거래",
+        "행위",
+        "에서",
+        "계약",
+        "은",
+        "필수",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 외국인이랑 거래 했어 키키 웅웅",
+      "tokens": [
+        "나",
+        "외국인",
+        "이랑",
+        "거래",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "웅웅"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 외국인은 한번도 못 봤느데 키키",
+      "tokens": [
+        "나",
+        "는",
+        "외국인",
+        "은",
+        "한",
+        "번",
+        "도",
+        "못",
+        "봤",
+        "EP",
+        "느데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 시골이라서 당근 하는 사람이 없음 ㅋ",
+      "tokens": [
+        "난",
+        "JX",
+        "시골",
+        "이",
+        "라서",
+        "당근",
+        "하",
+        "는",
+        "사람",
+        "이",
+        "없",
+        "음ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "영어로 말 걸길래 신기했음",
+      "tokens": [
+        "영어",
+        "로",
+        "말",
+        "걸",
+        "길래",
+        "신기",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "우리나라 말 잘했어?",
+      "tokens": [
+        "우리",
+        "나라",
+        "말",
+        "잘",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "뭐 사갔어? 키키",
+      "tokens": [
+        "뭐",
+        "사",
+        "갔",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이웃이 없다 ㅋ",
+      "tokens": [
+        "이웃",
+        "이",
+        "없",
+        "다",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "외국인 신기하네",
+      "tokens": [
+        "외국인",
+        "신기",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 외국인이 나왔어",
+      "tokens": [
+        "진짜",
+        "외국인",
+        "이",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "영어로? 우왕 키키",
+      "tokens": [
+        "영어",
+        "로",
+        "?",
+        "우왕",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "뭐 샀는지 궁금",
+      "tokens": [
+        "뭐",
+        "샀",
+        "EP",
+        "는지",
+        "궁금"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "당근도 영어 버젼이 있는 건가",
+      "tokens": [
+        "당근",
+        "도",
+        "영어",
+        "버",
+        "젼",
+        "이",
+        "있",
+        "는",
+        "건가",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 말빈이라는 친구였어...",
+      "tokens": [
+        "키키",
+        "말빈",
+        "이",
+        "라는",
+        "친구",
+        "였",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오토바이 타고 오심",
+      "tokens": [
+        "오토바이",
+        "타",
+        "고",
+        "오심"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "말빈~ 욜 오토바이 갠지당",
+      "tokens": [
+        "말빈",
+        "~",
+        "욜오토바이갠지당"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "요새는 진짜 글로벌화네 ㅋ",
+      "tokens": [
+        "요새",
+        "는",
+        "진짜",
+        "글로벌",
+        "화",
+        "네ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 블루투스 이어폰 사가심 키키",
+      "tokens": [
+        "키키",
+        "블루투스",
+        "이어폰",
+        "사",
+        "가심",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "앜 키키 귀여워라",
+      "tokens": [
+        "앜키키귀여워라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "이어폰이 필요했구나",
+      "tokens": [
+        "이어폰",
+        "이",
+        "필요",
+        "했",
+        "EP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "오토바이 팔러 온 건가 신기방기",
+      "tokens": [
+        "오토바이",
+        "팔",
+        "러",
+        "온",
+        "ETM",
+        "건가",
+        "VCP",
+        "EC",
+        "신기",
+        "방기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

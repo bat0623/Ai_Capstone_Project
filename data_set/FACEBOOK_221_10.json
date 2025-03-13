@@ -1,0 +1,418 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "야구 졸 열심히  보는 군...",
+      "tokens": [
+        "야",
+        "구졸",
+        "열심히",
+        "보",
+        "는군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "현재 키움 2-0으로 리드 중",
+      "tokens": [
+        "현재",
+        "키움",
+        "ETN",
+        "2",
+        "-",
+        "0",
+        "으로",
+        "리드",
+        "중"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 멀티가 가능하시네",
+      "tokens": [
+        "키",
+        "키",
+        "멀티",
+        "가",
+        "가능",
+        "하",
+        "시",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "야구 중계 좀 해줘...",
+      "tokens": [
+        "야구",
+        "중계",
+        "좀",
+        "해",
+        "EC",
+        "줘",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "두산 무사 23루 근데 하하",
+      "tokens": [
+        "두산",
+        "무사",
+        "23",
+        "루",
+        "근데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "신기방기",
+      "tokens": [
+        "신기",
+        "방기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "남자는 멀티 안되던데",
+      "tokens": [
+        "남자",
+        "는",
+        "멀티",
+        "안",
+        "되",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키움이 이기고 있어?",
+      "tokens": [
+        "키움",
+        "ETN",
+        "이",
+        "이기",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "역전할 수 있는 찬스임니다 ㅎ",
+      "tokens": [
+        "역전",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "는",
+        "찬스",
+        "임",
+        "ETN",
+        "니",
+        "다",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "두 가지가 가능하네 키키",
+      "tokens": [
+        "두",
+        "가지",
+        "가",
+        "가능",
+        "하",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그럼 내일 또 함?",
+      "tokens": [
+        "그럼",
+        "내일",
+        "또",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "빠졌어요",
+      "tokens": [
+        "빠졌",
+        "EP",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "두산 하하 싹슬이 하하",
+      "tokens": [
+        "두",
+        "산하",
+        "하",
+        "싹",
+        "슬",
+        "ETM",
+        "이하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 티비도 끄고 집중하는데 키키 갑자기 느려지심",
+      "tokens": [
+        "난",
+        "JX",
+        "티비",
+        "도",
+        "끄",
+        "고",
+        "집중",
+        "하",
+        "는",
+        "데",
+        "키",
+        "키",
+        "갑자기",
+        "느려",
+        "EC",
+        "지심"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "두산이랑 또 하는 거지?",
+      "tokens": [
+        "두산",
+        "이랑",
+        "또",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "머야 머야",
+      "tokens": [
+        "머",
+        "야머",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "2-2 동점 됐어요",
+      "tokens": [
+        "2",
+        "-",
+        "2",
+        "동점",
+        "됐",
+        "EP",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "이 와중에",
+      "tokens": [
+        "이",
+        "와중",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 무슨 말인지 일도 모름 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "무슨",
+        "말",
+        "인지",
+        "EC",
+        "일",
+        "도",
+        "모름",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그럼 몇 대 몇이야",
+      "tokens": [
+        "그럼",
+        "몇",
+        "대",
+        "몇",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "대박 동점",
+      "tokens": [
+        "대박",
+        "동점"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아주 재밌게 합니다",
+      "tokens": [
+        "아주",
+        "재밌",
+        "게",
+        "합니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "헐 동점 키키 재밌다 하하",
+      "tokens": [
+        "헐",
+        "동점",
+        "키",
+        "키",
+        "ETN",
+        "재밌",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

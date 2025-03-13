@@ -1,0 +1,360 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아휴 회사에서 또 회식 하겠네",
+      "tokens": [
+        "아휴",
+        "회사",
+        "에서",
+        "또",
+        "회식",
+        "하",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "회사에서 회식 살 할 듯 하하",
+      "tokens": [
+        "회사",
+        "에서",
+        "회식",
+        "살",
+        "할",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 왜 너 회식 좋아하자녀",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "너",
+        "회식",
+        "좋",
+        "아",
+        "하",
+        "자녀"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이제 슬 회식 바람 불겠어",
+      "tokens": [
+        "이제",
+        "슬",
+        "ETM",
+        "회식",
+        "바람",
+        "불",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이제 위드 코로나 시대니까 하하",
+      "tokens": [
+        "이제",
+        "위드",
+        "코로나",
+        "시대",
+        "니까",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이제 살만하겟넼 키키 회식 많이 해서",
+      "tokens": [
+        "이제",
+        "살만",
+        "하",
+        "겟",
+        "넼키",
+        "키",
+        "회식",
+        "많이",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 회식 좋아하는데~",
+      "tokens": [
+        "난",
+        "JX",
+        "회식",
+        "좋",
+        "아",
+        "하",
+        "는데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "회식 안 좋아하는데 우리?",
+      "tokens": [
+        "회식",
+        "안",
+        "좋아하",
+        "는데",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 난 회식 개극혐",
+      "tokens": [
+        "키키난회식개극혐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "남편이 회식 하는 건 별로지!",
+      "tokens": [
+        "남편",
+        "이",
+        "회식",
+        "하",
+        "는",
+        "건",
+        "JX",
+        "별로",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "술 먹는 거 안 좋아해 하하",
+      "tokens": [
+        "술",
+        "먹",
+        "는",
+        "거",
+        "안",
+        "좋",
+        "아",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 아니 둘이 먹으면 좋겠네",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "둘",
+        "이",
+        "먹",
+        "으면",
+        "좋",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "남편이 회식 하는 건 개 극혐!",
+      "tokens": [
+        "남편",
+        "이",
+        "회식",
+        "하",
+        "는",
+        "건개",
+        "극혐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "** 술 잘 먹음?",
+      "tokens": [
+        "*",
+        "*",
+        "술",
+        "잘",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 아니",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 소주 반 병? 키키",
+      "tokens": [
+        "나",
+        "는",
+        "소주",
+        "반병",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나의 회식은 굿굿!",
+      "tokens": [
+        "나",
+        "의",
+        "회식",
+        "은",
+        "굿",
+        "굿"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우린 술 완젼 싫어해 하하",
+      "tokens": [
+        "우린",
+        "JX",
+        "술",
+        "완",
+        "JX",
+        "젼",
+        "싫",
+        "어",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그런 사라들이 술 한짝 먹더라고",
+      "tokens": [
+        "그런",
+        "사라",
+        "들",
+        "이",
+        "술",
+        "한",
+        "ETM",
+        "짝",
+        "먹",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

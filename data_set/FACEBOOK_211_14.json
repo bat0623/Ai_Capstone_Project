@@ -1,0 +1,402 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "사회이슈 좀 들으신 분?",
+      "tokens": [
+        "사회",
+        "이",
+        "슈",
+        "좀",
+        "들으신",
+        "EP",
+        "ETM",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요소수 얘기 하더라 울 오빠!",
+      "tokens": [
+        "요",
+        "소수",
+        "얘기",
+        "하",
+        "더라",
+        "울",
+        "ETM",
+        "오빠"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 아직 뉴스 앱 켜 보지도 못해씀",
+      "tokens": [
+        "나",
+        "아직",
+        "뉴스",
+        "앱",
+        "켜",
+        "EC",
+        "보",
+        "지",
+        "도",
+        "못",
+        "해",
+        "EC",
+        "씀",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 요소수 완전 대란이라더제?",
+      "tokens": [
+        "아요",
+        "소수",
+        "완전",
+        "대란",
+        "이",
+        "라",
+        "더",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "제주도가 특히 난리인가 봐",
+      "tokens": [
+        "제주도",
+        "가",
+        "특히",
+        "난리",
+        "인가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "요소수 되팔이들 10배 되팔이 하니까... 어쩔 수 없지",
+      "tokens": [
+        "요",
+        "소수",
+        "되",
+        "팔",
+        "이",
+        "들",
+        "10",
+        "배",
+        "되",
+        "팔",
+        "이",
+        "하",
+        "니까",
+        ".",
+        ".",
+        "어쩔",
+        "ETM",
+        "수",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "너네 차에는 안 들어가는 거임?",
+      "tokens": [
+        "너",
+        "네",
+        "차",
+        "에",
+        "는",
+        "안",
+        "들어가",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "다행히 우리 차에는 필요 없는데 포크레인 필수라대",
+      "tokens": [
+        "다행히",
+        "우리",
+        "차",
+        "에",
+        "는",
+        "필요",
+        "없",
+        "는",
+        "데포",
+        "크레인",
+        "필수",
+        "라",
+        "EC",
+        "대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "디젤 들어가는 데는 필수야",
+      "tokens": [
+        "디젤",
+        "들어가",
+        "는",
+        "데",
+        "는",
+        "필수",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 정부 탓 엄청 하던데... ㅠㅠ",
+      "tokens": [
+        "근데",
+        "정부",
+        "탓",
+        "엄청",
+        "하",
+        "던데",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "울 아버님 포크레인 하시는데 큰일이라 하대...",
+      "tokens": [
+        "울아버님포크레인하시는데큰일이라하대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 소방서도 비상이래",
+      "tokens": [
+        "그래서",
+        "소방서",
+        "도",
+        "비상",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "100% 수입에 의존하는 걸",
+      "tokens": [
+        "100",
+        "%",
+        "수입",
+        "에",
+        "의존",
+        "하",
+        "는",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "헐 소방서 큰일이네 ㅠ",
+      "tokens": [
+        "헐소",
+        "방서",
+        "큰일",
+        "이",
+        "네ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "차마다 다른데 요소수 부족하면 시동 안 걸리는 차도 있다던데?",
+      "tokens": [
+        "차",
+        "마다",
+        "다른데",
+        "EC",
+        "요소",
+        "수부족",
+        "하",
+        "면",
+        "시동",
+        "안",
+        "걸리",
+        "는",
+        "차",
+        "도",
+        "있",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "재고 확보도 안 해뒀다구... 그러더랑",
+      "tokens": [
+        "재고",
+        "확보",
+        "도",
+        "안",
+        "해뒀",
+        "EC",
+        "VX",
+        "EP",
+        "다구",
+        ".",
+        "그러",
+        "더",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "시동이 아예 안 걸린다고 ㅠㅠ",
+      "tokens": [
+        "시동",
+        "이",
+        "아예",
+        "안",
+        "걸린다고",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "경고등 들어오면 그냥 타도 상관은 없대",
+      "tokens": [
+        "경고",
+        "등",
+        "들어오",
+        "면",
+        "그냥",
+        "타도",
+        "상관",
+        "은",
+        "없",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

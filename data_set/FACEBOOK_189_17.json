@@ -1,0 +1,361 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "두피 건강도 엄청 중요하대",
+      "tokens": [
+        "두피",
+        "건강",
+        "도",
+        "엄청",
+        "중요",
+        "하대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 이번에 발목을 다쳤어 ㅠㅠ",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "발목",
+        "을",
+        "다쳤",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘 무릎이 너무쑤셔",
+      "tokens": [
+        "요즘",
+        "무릎",
+        "이",
+        "너무",
+        "쑤셔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "발목은 항상 조심해야해",
+      "tokens": [
+        "발목",
+        "은",
+        "항상",
+        "조심",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "탁구하다가 너무 무리했나봐",
+      "tokens": [
+        "탁구",
+        "하",
+        "다가",
+        "너무",
+        "무리",
+        "했",
+        "EP",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "발목 재활운동에 달리기가 좋더라",
+      "tokens": [
+        "발목",
+        "재활",
+        "운동",
+        "에",
+        "달리",
+        "기",
+        "가",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 얼마전에 발가락 다칠뻔했어",
+      "tokens": [
+        "나",
+        "도",
+        "얼마",
+        "전",
+        "에",
+        "발가락",
+        "다칠",
+        "ETM",
+        "뻔",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그러면 뼈가 가루가 되지 않아?",
+      "tokens": [
+        "그러면",
+        "뼈",
+        "가",
+        "가루",
+        "가",
+        "되",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "무릎 때문에 줄넘기도 못하고 있잖아",
+      "tokens": [
+        "무릎",
+        "때문",
+        "에",
+        "줄넘기",
+        "도",
+        "못하",
+        "고",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "재활운동은 엄청 아프고 힘들어",
+      "tokens": [
+        "재활",
+        "운동",
+        "은",
+        "엄청",
+        "아프",
+        "고",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "재활운동은 너무 끔찍해",
+      "tokens": [
+        "재활",
+        "운동",
+        "은",
+        "너무",
+        "끔찍",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "발가락 다치면 목발하고 다녀야 해?",
+      "tokens": [
+        "발가락",
+        "다치",
+        "면",
+        "목발",
+        "하",
+        "고",
+        "다녀야",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 항상 조심해야해",
+      "tokens": [
+        "그래서",
+        "항상",
+        "조심",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우리 다들 건강 챙기자",
+      "tokens": [
+        "우리",
+        "다",
+        "들",
+        "건강",
+        "챙기",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "재활운동안하면 영영 못쓸수도 있어",
+      "tokens": [
+        "재활",
+        "운동",
+        "안",
+        "하",
+        "면",
+        "영영",
+        "못",
+        "쓸",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 발가락은 중요해서 목발필수지...ㅠㅠ",
+      "tokens": [
+        "응",
+        "발가락",
+        "은",
+        "중요",
+        "해서",
+        "EC",
+        "목발",
+        "필수",
+        "지",
+        "EF",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "발가락만 다쳐서 다행이야",
+      "tokens": [
+        "발가락",
+        "만",
+        "다쳐서",
+        "EC",
+        "다행",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 어제 손목이 삐긋해서 아파",
+      "tokens": [
+        "나",
+        "는",
+        "어제",
+        "손목",
+        "이",
+        "삐",
+        "긋",
+        "해서",
+        "EC",
+        "아파",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

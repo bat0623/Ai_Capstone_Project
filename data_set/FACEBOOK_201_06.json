@@ -1,0 +1,530 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "학교 다닐 때 고사 지내지 않았음?",
+      "tokens": [
+        "학교",
+        "다닐",
+        "ETM",
+        "때",
+        "고사",
+        "지내",
+        "지",
+        "않",
+        "았",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "학교 다닐 때?",
+      "tokens": [
+        "학교",
+        "다닐",
+        "ETM",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "언제?",
+      "tokens": [
+        "언제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "학교 다닐 때?",
+      "tokens": [
+        "학교",
+        "다닐",
+        "ETM",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "중간고사?",
+      "tokens": [
+        "중간고사"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "기말고사?",
+      "tokens": [
+        "기말고사"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 학교 다닐 때 매년 고사 지냄!",
+      "tokens": [
+        "나",
+        "학교",
+        "다닐",
+        "ETM",
+        "때",
+        "매년",
+        "고사",
+        "지냄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "우리는 쥐를 진짜 많이 죽이거든",
+      "tokens": [
+        "우리",
+        "는",
+        "쥐",
+        "를",
+        "진짜",
+        "많이",
+        "죽이",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 고사 지내는 거 본 적이 없는데",
+      "tokens": [
+        "나",
+        "는",
+        "고사",
+        "지내",
+        "는",
+        "거",
+        "본",
+        "ETM",
+        "적",
+        "이",
+        "없",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "쥐를 왜?",
+      "tokens": [
+        "쥐",
+        "를",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "쥐가 많이 나와서 죽이는겨?",
+      "tokens": [
+        "쥐",
+        "가",
+        "많이",
+        "나와서",
+        "EC",
+        "죽이",
+        "는겨"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "대학교 말야 키키",
+      "tokens": [
+        "대학교",
+        "말",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "쥐 고사 지냄...",
+      "tokens": [
+        "쥐",
+        "고",
+        "사",
+        "지",
+        "냄",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "헐 진짜?",
+      "tokens": [
+        "헐",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "쥐 때문에 고사를?",
+      "tokens": [
+        "쥐",
+        "때문",
+        "에",
+        "고사",
+        "를"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 키키 실험실 쥐 때문에 그런 거지",
+      "tokens": [
+        "아키",
+        "키",
+        "실험실",
+        "쥐",
+        "때문",
+        "에",
+        "그런",
+        "거지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "실험할 때 쥐 졸 많이 죽이거든...",
+      "tokens": [
+        "실험",
+        "할",
+        "ETM",
+        "때",
+        "쥐",
+        "졸",
+        "많이",
+        "죽이",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아아 그건 너가 생물과라 그런갑다",
+      "tokens": [
+        "아아",
+        "그건",
+        "JX",
+        "너",
+        "가",
+        "생물",
+        "과라",
+        "그런갑다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그런 데 은근 있음 키키",
+      "tokens": [
+        "그런데",
+        "은근",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "맞아...",
+      "tokens": [
+        "맞",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "쥐고사 지내고 그랬음...",
+      "tokens": [
+        "쥐",
+        "고",
+        "사",
+        "EC",
+        "지내",
+        "고",
+        "그랬",
+        "EP",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "생명을 다루는 과라서 그런가 보네",
+      "tokens": [
+        "생명",
+        "을",
+        "다루",
+        "는",
+        "과",
+        "라서",
+        "EC",
+        "그런가",
+        "EC",
+        "보",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 거기 뭐지...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "거기",
+        "뭐",
+        "지",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "수의대도 잘 지내잖아",
+      "tokens": [
+        "수의대",
+        "도",
+        "잘",
+        "지내",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "강아지도 죽이잖아 ㅠㅠ",
+      "tokens": [
+        "강아지",
+        "도",
+        "죽이",
+        "잖아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "비글",
+      "tokens": [
+        "비글"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "헐헐",
+      "tokens": [
+        "헐헐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "신기하긴 하다 ㄷㄷ",
+      "tokens": [
+        "신기",
+        "하",
+        "긴",
+        "JX",
+        "하",
+        "다",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "휴 비글이 사람 좋아해서 실험용으로 많이 쓰인다며 ㅜㅜ",
+      "tokens": [
+        "휴비",
+        "글",
+        "이",
+        "사람",
+        "좋",
+        "아",
+        "해서",
+        "EC",
+        "실험",
+        "용",
+        "으로",
+        "많이",
+        "쓰인다",
+        "EC",
+        "며",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

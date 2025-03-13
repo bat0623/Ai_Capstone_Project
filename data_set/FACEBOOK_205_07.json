@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 행님 집에 왔음?",
+      "tokens": [
+        "*",
+        "*",
+        "행",
+        "님",
+        "집",
+        "에",
+        "왔",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "행님은 언제 오심?",
+      "tokens": [
+        "행",
+        "님",
+        "은",
+        "언제",
+        "오심"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "행님 오늘 퇴근 늦을 거래",
+      "tokens": [
+        "행",
+        "님",
+        "오늘",
+        "퇴근",
+        "늦",
+        "을",
+        "거래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "행님 오늘 왜 늦는데?",
+      "tokens": [
+        "행",
+        "님",
+        "오늘",
+        "왜",
+        "늦",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "행님 항상 늦게 오심?",
+      "tokens": [
+        "행",
+        "님",
+        "항상",
+        "늦",
+        "게",
+        "오심"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "야근한다던데...",
+      "tokens": [
+        "야근",
+        "한다던데",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "회사 욕하고 난리 남",
+      "tokens": [
+        "회사",
+        "욕",
+        "하",
+        "고",
+        "난리",
+        "남"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리 남편도 오늘 늦는데 흑흑",
+      "tokens": [
+        "우리",
+        "남편",
+        "도",
+        "오늘",
+        "늦",
+        "는데",
+        "흑흑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래 야근하면 진짜 짱날 듯 ㅠ",
+      "tokens": [
+        "그래",
+        "야근",
+        "하",
+        "면",
+        "진짜",
+        "짱",
+        "날",
+        "ETM",
+        "듯ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "ㅜㅜ 남편이 아직 보고 싶은 걸 보니 신혼이구먼",
+      "tokens": [
+        "ㅜㅜ",
+        "남편",
+        "이",
+        "아직",
+        "보",
+        "고",
+        "싶",
+        "은",
+        "걸",
+        "JKO",
+        "보",
+        "니",
+        "신혼",
+        "이",
+        "구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "회사에서 야근하면 욕 나오지...",
+      "tokens": [
+        "회사",
+        "에서",
+        "야근",
+        "하",
+        "면",
+        "욕",
+        "나오",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "옛날 ** 회사 알제",
+      "tokens": [
+        "옛날",
+        "*",
+        "*",
+        "회사",
+        "알제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "** 새벽 1시에도 마침...",
+      "tokens": [
+        "*",
+        "*",
+        "새벽",
+        "1",
+        "시",
+        "에",
+        "도",
+        "마침",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "으 새벽 1시에 마쳤다고?",
+      "tokens": [
+        "으",
+        "새벽",
+        "1",
+        "시",
+        "에",
+        "마쳤",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "미쳤다 진짜",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "헉 새벽 1시 에바탱;",
+      "tokens": [
+        "헉",
+        "새벽",
+        "1",
+        "시",
+        "에",
+        "바",
+        "탱",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "새벽 한시 도랏냐고... ㄷㄷ",
+      "tokens": [
+        "새벽",
+        "한",
+        "시",
+        "도랏",
+        "냐고",
+        "EF",
+        ".",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "야근 수당은 제대로 나온대?",
+      "tokens": [
+        "야근",
+        "수당",
+        "은",
+        "제대로",
+        "나온대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "**는 야근 없나?",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "야근",
+        "없",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "수당 줘도 욕 나오는 거지 ㅠㅠ",
+      "tokens": [
+        "수당",
+        "줘도",
+        "EC",
+        "욕",
+        "나오",
+        "는",
+        "거",
+        "지",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나는 야근 없어서 다행이다",
+      "tokens": [
+        "나",
+        "는",
+        "야근",
+        "없",
+        "어서",
+        "다행",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

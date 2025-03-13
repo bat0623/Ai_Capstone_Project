@@ -1,0 +1,412 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 임신했으니까 이제 회사 다닐 때 조심해야겠다",
+      "tokens": [
+        "언니",
+        "임신",
+        "했",
+        "EP",
+        "으니까",
+        "이제",
+        "회사",
+        "다닐",
+        "ETM",
+        "때",
+        "조심",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "임신 초기에 조심해야 하니까",
+      "tokens": [
+        "임신",
+        "초기",
+        "에",
+        "조심",
+        "해야",
+        "EC",
+        "하",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "병원 근무하는 것도 바뀌겠네",
+      "tokens": [
+        "병원",
+        "근무",
+        "하",
+        "는",
+        "것",
+        "도",
+        "바뀌",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "언니 방사선사니까 위험하겠다",
+      "tokens": [
+        "언니",
+        "방사선사",
+        "니까",
+        "EC",
+        "위험",
+        "하",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데도 원래부터 초음파실 담당이라",
+      "tokens": [
+        "근데도",
+        "원래",
+        "부터",
+        "초음",
+        "파실",
+        "EP",
+        "ETM",
+        "담당",
+        "이",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "임신한 거 알리면 야근이나 이런 것도 빼주겠다",
+      "tokens": [
+        "임신",
+        "한",
+        "ETM",
+        "거",
+        "알리",
+        "면",
+        "야근",
+        "이나",
+        "이런",
+        "것",
+        "도",
+        "빼",
+        "EC",
+        "주",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그럼 이제 육아휴직도 해야겠네",
+      "tokens": [
+        "그럼",
+        "이제",
+        "육아",
+        "휴직",
+        "도",
+        "해야겠네",
+        "EC",
+        "VX",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "공무원들은 아이 가지면 1시간 정도 일찍 퇴근할 수 있는데",
+      "tokens": [
+        "공무원",
+        "들",
+        "은",
+        "아이",
+        "가지",
+        "면",
+        "1",
+        "시간",
+        "정도",
+        "일찍",
+        "퇴근",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "병원은 그런 거 없나?",
+      "tokens": [
+        "병원",
+        "은",
+        "그런",
+        "거",
+        "없",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그러면 진짜 좋을 텐데",
+      "tokens": [
+        "그러면",
+        "진짜",
+        "좋",
+        "을",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "육아 휴직 했다가 돌아와서 적응 잘할 수 있겠지",
+      "tokens": [
+        "육아",
+        "휴직",
+        "했",
+        "EP",
+        "다가",
+        "돌아와서",
+        "EC",
+        "적응",
+        "잘",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "잘할 거야",
+      "tokens": [
+        "잘",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "일 잘하니까",
+      "tokens": [
+        "일",
+        "잘",
+        "하",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "육아 휴직으로 돌아와서 이상한 곳으로 발령하는 데도 있잖아",
+      "tokens": [
+        "육아",
+        "휴직",
+        "으로",
+        "돌아와서",
+        "EC",
+        "이상",
+        "한",
+        "ETM",
+        "곳",
+        "으로",
+        "발령",
+        "하",
+        "는데도",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그건 진짜 나쁜 회사인 거야",
+      "tokens": [
+        "그건",
+        "JX",
+        "진짜",
+        "나쁜",
+        "ETM",
+        "회사",
+        "인",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "일 잘하는 사람을 잘하는 일에 배정해줘야지",
+      "tokens": [
+        "일",
+        "잘",
+        "하",
+        "는",
+        "사람",
+        "을",
+        "잘",
+        "하",
+        "는",
+        "일",
+        "에",
+        "배정",
+        "해",
+        "EC",
+        "줘야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그러니까 뉴스에서 그런 거 많이 나오잖아",
+      "tokens": [
+        "그러니까",
+        "뉴스",
+        "에서",
+        "그런",
+        "거",
+        "많이",
+        "나오",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "왜 그러는지 모르겠어 정말",
+      "tokens": [
+        "왜",
+        "그러",
+        "는지",
+        "모르",
+        "겠",
+        "어",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "언니는 무탈하길 기도하자",
+      "tokens": [
+        "언니",
+        "는",
+        "무",
+        "탈",
+        "하",
+        "길",
+        "JKO",
+        "기",
+        "도",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 배달 앱 많이 사용하는 편이야?",
+      "tokens": [
+        "다",
+        "들배",
+        "달",
+        "앱",
+        "많이",
+        "사용",
+        "하",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 난 매일 사용하지 키키",
+      "tokens": [
+        "응",
+        "난",
+        "JX",
+        "매일",
+        "사용",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 거의 매일 사용해 키키",
+      "tokens": [
+        "나",
+        "도",
+        "거의",
+        "매일",
+        "사용",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 키키",
+      "tokens": [
+        "나",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "거의 배달 앱이 날 먹여 살리고 있어 키키",
+      "tokens": [
+        "거의",
+        "배달",
+        "앱",
+        "이",
+        "날",
+        "먹여살리",
+        "고",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "배민이나 요기요 많이 써 키키",
+      "tokens": [
+        "배민",
+        "이나",
+        "요기",
+        "요",
+        "많이",
+        "써",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 거의 배민만 써 하하",
+      "tokens": [
+        "나",
+        "는",
+        "거의",
+        "배민",
+        "만",
+        "써",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "여기는 전통시장 배달 앱도 있더라고 키키",
+      "tokens": [
+        "여기",
+        "는",
+        "전통",
+        "시장",
+        "배달",
+        "앱",
+        "도",
+        "있",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "쿠폰도 많이 주고 하니까 쓰지",
+      "tokens": [
+        "쿠폰",
+        "도",
+        "많이",
+        "주",
+        "고",
+        "하",
+        "니까",
+        "쓰",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헐 전통시장 배달 앱도 있어?",
+      "tokens": [
+        "헐",
+        "전통",
+        "시장",
+        "배달",
+        "앱",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "응 키키",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내 친구가 알려줘서 써 봤어 키키",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "가",
+        "알려",
+        "EC",
+        "줘서",
+        "EC",
+        "써",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "여기는 따로 그런 건 없어 하하",
+      "tokens": [
+        "여기",
+        "는",
+        "따로",
+        "그런",
+        "건",
+        "JX",
+        "없",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "전통시장 배달 앱으로 결제하면 혜택이 커?",
+      "tokens": [
+        "전통",
+        "시장",
+        "배달",
+        "앱",
+        "으로",
+        "결제",
+        "하",
+        "면",
+        "혜택",
+        "이",
+        "커",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니 ㅠㅠ",
+      "tokens": [
+        "아니ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "일단 시장까지 안 가도 되니까 편하더라고",
+      "tokens": [
+        "일단",
+        "시장",
+        "까지",
+        "안",
+        "가",
+        "도",
+        "되",
+        "니까",
+        "편하",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "관련 앱이니까 관련성이 크구나",
+      "tokens": [
+        "관련",
+        "앱",
+        "이",
+        "니까",
+        "관련",
+        "성",
+        "이",
+        "크",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "무조건 그 지역의 앱을 써야 해",
+      "tokens": [
+        "무조건",
+        "그",
+        "지역",
+        "의",
+        "앱",
+        "을",
+        "써야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "마트보다 신선한 야채들도 살 수 있고 좋더라 키키",
+      "tokens": [
+        "마트",
+        "보다",
+        "신선",
+        "한",
+        "ETM",
+        "야채",
+        "들",
+        "도",
+        "살",
+        "ETM",
+        "수",
+        "있",
+        "고",
+        "좋",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "응 그래야 할인이 많이 되더라고",
+      "tokens": [
+        "응",
+        "그래야",
+        "할인",
+        "이",
+        "많이",
+        "되",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "부산은 동백전이라고 캐쉬백 카드 써",
+      "tokens": [
+        "부산",
+        "은",
+        "동백",
+        "전이",
+        "라고",
+        "EC",
+        "캐",
+        "ETM",
+        "쉬",
+        "백",
+        "카드",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

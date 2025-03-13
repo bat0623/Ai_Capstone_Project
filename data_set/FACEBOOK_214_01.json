@@ -1,0 +1,387 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 저녁 식사 언제 할 건딩",
+      "tokens": [
+        "다",
+        "들",
+        "저녁",
+        "식사",
+        "언제",
+        "할",
+        "ETM",
+        "건",
+        "JX",
+        "딩"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 조금 있다가 먹을 듯 키키",
+      "tokens": [
+        "나",
+        "는",
+        "조금",
+        "있",
+        "다가",
+        "먹",
+        "을",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 일곱 시나 할까 싶은데...",
+      "tokens": [
+        "나",
+        "일곱",
+        "시",
+        "나",
+        "할까",
+        "EC",
+        "싶",
+        "은데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "뭐 시켜 먹징...",
+      "tokens": [
+        "뭐",
+        "시켜",
+        "EC",
+        "먹",
+        "징",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리 저녁 맞춰서 먹장",
+      "tokens": [
+        "우리",
+        "저녁",
+        "맞춰서",
+        "EC",
+        "먹장"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아직 뭐 먹을지도 못 정했어",
+      "tokens": [
+        "아직",
+        "뭐",
+        "먹",
+        "을지",
+        "도",
+        "못",
+        "정했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "조안... 뭐 시켜 먹을까 추천 좀 해바 바",
+      "tokens": [
+        "조안",
+        ".",
+        ".",
+        "뭐시켜먹을까추천좀해바바"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "배달 시킬 꺼야?",
+      "tokens": [
+        "배달",
+        "시킬",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭐 먹을 거야 다들? 키키",
+      "tokens": [
+        "뭐",
+        "먹",
+        "을",
+        "거",
+        "야",
+        "EF",
+        "다",
+        "들",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "웅... 배달이 땡긴다 오늘",
+      "tokens": [
+        "웅",
+        ".",
+        "배달",
+        "이",
+        "땡긴다",
+        "EC",
+        "오늘"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "** 아직 점심 안 먹은 거야?",
+      "tokens": [
+        "*",
+        "*",
+        "아직",
+        "점심",
+        "안",
+        "먹",
+        "은",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오늘은 빡쳐서 배달 먹을 거야 키키",
+      "tokens": [
+        "오늘",
+        "은",
+        "빡",
+        "쳐서",
+        "EC",
+        "배달",
+        "먹",
+        "을",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 배달 조아...",
+      "tokens": [
+        "키키",
+        "배달조",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "쌀국수 머글까...",
+      "tokens": [
+        "쌀국수",
+        "머글",
+        "까",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 오늘 배달 땡김...",
+      "tokens": [
+        "나도오늘배달땡김",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "점심 대충 먹었어 키키",
+      "tokens": [
+        "점심",
+        "대충",
+        "먹",
+        "었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "달 머시기 쌀국수 괜찮던데 상호가 기억이 안 난다우 ㅜ",
+      "tokens": [
+        "달",
+        "머시기",
+        "쌀국수",
+        "괜찮",
+        "던데",
+        "상호",
+        "가",
+        "기억",
+        "이",
+        "안",
+        "난다",
+        "EF",
+        "우ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "빡치면 엽떡 아님?",
+      "tokens": [
+        "빡치면엽떡아님"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "앗 급 떙기네 키키",
+      "tokens": [
+        "앗급떙기네키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "우 화끈하니 지기겠네...",
+      "tokens": [
+        "우화",
+        "끈",
+        "하",
+        "니",
+        "지",
+        "기",
+        "겠",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 결정해따",
+      "tokens": [
+        "나",
+        "도",
+        "결정",
+        "해",
+        "EC",
+        "따",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

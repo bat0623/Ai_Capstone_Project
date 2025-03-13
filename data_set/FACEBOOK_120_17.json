@@ -1,0 +1,550 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 지금은 손목 괜찮아?",
+      "tokens": [
+        "언니",
+        "지금",
+        "은",
+        "손목",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 지금도 손목 부셔지는 중 ㅠㅠ",
+      "tokens": [
+        "나",
+        "지금",
+        "도",
+        "손목",
+        "부셔지",
+        "는",
+        "중",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "ㅜㅜ 헐",
+      "tokens": [
+        "ㅜㅜ헐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "ㅜㅜ 손목에 아대는 찼어!?",
+      "tokens": [
+        "ㅜㅜ손목에아대는찼어",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "지금 아대마냥 파스 두르고 있어 키키",
+      "tokens": [
+        "지금",
+        "아",
+        "대",
+        "마냥",
+        "파스",
+        "두르",
+        "고",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 ㅜㅜ",
+      "tokens": [
+        "헐ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "파스 어디 꺼 샀어?",
+      "tokens": [
+        "파스",
+        "어디",
+        "꺼",
+        "EC",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아렉스?",
+      "tokens": [
+        "아",
+        "렉스"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그런 글씨를 본 거 같은데?~",
+      "tokens": [
+        "그런",
+        "글씨",
+        "를",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내가 아는 파스는 케토톱밖에 없는데 키키",
+      "tokens": [
+        "내",
+        "가",
+        "아",
+        "는",
+        "파스",
+        "는",
+        "케토",
+        "톱",
+        "밖에",
+        "없",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 나는 동전파스 좋아했어 키키",
+      "tokens": [
+        "아",
+        "나",
+        "는",
+        "동전",
+        "파스",
+        "좋",
+        "아",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 아 소롬",
+      "tokens": [
+        "키",
+        "키",
+        "아소",
+        "롬"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그거 대만에서 팔았던 건가?",
+      "tokens": [
+        "그거",
+        "대만",
+        "에서",
+        "팔",
+        "았",
+        "던",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그거 일본에서 팔았던 거야 키키",
+      "tokens": [
+        "그거",
+        "일본",
+        "에서",
+        "팔",
+        "았",
+        "던",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 맞아 키키",
+      "tokens": [
+        "아",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그거 아직도  가지고 있어?",
+      "tokens": [
+        "그거",
+        "아직",
+        "도",
+        "가지",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그건 이미 사라졌고 키키",
+      "tokens": [
+        "그건",
+        "JX",
+        "이미",
+        "사라졌",
+        "EP",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "대만은 호랑이 연고 아니야?",
+      "tokens": [
+        "대만",
+        "은",
+        "호랑이",
+        "연고",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "홀랭 키키",
+      "tokens": [
+        "홀",
+        "랭",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "아 맞다",
+      "tokens": [
+        "아",
+        "맞",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "호랑이 연고 키키",
+      "tokens": [
+        "호랑이",
+        "연고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "내 친구 그거에 대한 진짜 웃긴 썰 하나 있는데",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "그거",
+        "에",
+        "대한",
+        "ETM",
+        "진짜",
+        "웃",
+        "긴",
+        "JX",
+        "썰",
+        "ETM",
+        "하나",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "거기에 웃긴 썰이 나올 수 있는 거야?",
+      "tokens": [
+        "거기",
+        "에",
+        "웃",
+        "긴",
+        "JX",
+        "썰",
+        "ETM",
+        "이",
+        "나올",
+        "ETM",
+        "수",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "어 있으 키키",
+      "tokens": [
+        "어",
+        "있",
+        "으",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "째뜬 파스 붙이니까 괜찮아?",
+      "tokens": [
+        "째",
+        "뜬",
+        "ETM",
+        "파스",
+        "붙이",
+        "니까",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "그냥 시원한 거 같기도 하고 키키",
+      "tokens": [
+        "그냥",
+        "시원",
+        "한",
+        "ETM",
+        "거",
+        "같",
+        "기",
+        "도",
+        "하",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "괜찮겠지!",
+      "tokens": [
+        "괜찮",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내일 가족끼리 여행갈 꺼야",
+      "tokens": [
+        "내일",
+        "가족",
+        "끼리",
+        "여행",
+        "갈",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "좋겠다",
+      "tokens": [
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어디를 갈꺼니?",
+      "tokens": [
+        "어디",
+        "를",
+        "갈",
+        "ETM",
+        "꺼",
+        "VCP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "방금 아빠한테 전화가 왔어",
+      "tokens": [
+        "방금",
+        "아빠",
+        "한테",
+        "전화",
+        "가",
+        "왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "왜 이렇게 얼굴 보기 힘드녜",
+      "tokens": [
+        "왜",
+        "이렇게",
+        "얼굴",
+        "보",
+        "기",
+        "힘드",
+        "녜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "가족끼리 여행은 언제나 즐거워",
+      "tokens": [
+        "가족",
+        "끼리",
+        "여행",
+        "은",
+        "언제나",
+        "즐거워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 가족끼리 여행 가면 너무 행복해",
+      "tokens": [
+        "나",
+        "는",
+        "가족",
+        "끼리",
+        "여행",
+        "가",
+        "면",
+        "너무",
+        "행복",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "바빠 죽겠는데 나는 놀고 먹는다고 생각하나봐 ...",
+      "tokens": [
+        "바빠",
+        "EC",
+        "죽",
+        "겠",
+        "는데",
+        "나",
+        "는",
+        "놀",
+        "고",
+        "먹",
+        "는다고",
+        "생각",
+        "하",
+        "나",
+        "봐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너무 힘들다",
+      "tokens": [
+        "너무",
+        "힘들",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "부모님이랑 노는 게 너무 좋아 하하",
+      "tokens": [
+        "부모",
+        "님",
+        "이랑",
+        "노",
+        "는",
+        "게",
+        "JKS",
+        "너무",
+        "좋",
+        "아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "부모님과 보내는 시간은 언제나 즐거워",
+      "tokens": [
+        "부모",
+        "님",
+        "과",
+        "보내",
+        "는",
+        "시간",
+        "은",
+        "언제나",
+        "즐거워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너네는 부모님이랑 노는 게 재밌나 보구나",
+      "tokens": [
+        "너",
+        "네",
+        "는",
+        "부모",
+        "님",
+        "이랑",
+        "노",
+        "는",
+        "게",
+        "JKS",
+        "재밌",
+        "나",
+        "보",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 재미가 없어",
+      "tokens": [
+        "난",
+        "JX",
+        "재미",
+        "가",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어머니가 해준 음식은 너무 맛있지 다들? 키키",
+      "tokens": [
+        "어머니",
+        "가",
+        "해",
+        "EC",
+        "준",
+        "ETM",
+        "음식",
+        "은",
+        "너무",
+        "맛있",
+        "지다",
+        "VX",
+        "EC",
+        "들",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나는 이번에 울릉도에 가기로 했어",
+      "tokens": [
+        "나",
+        "는",
+        "이번",
+        "에",
+        "울릉도",
+        "에",
+        "가",
+        "기",
+        "로",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "너네에 비하면 나는 불효자인가 봐",
+      "tokens": [
+        "너",
+        "네",
+        "에",
+        "비하",
+        "면",
+        "나",
+        "는",
+        "불효자",
+        "인가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우리 모두 효도하자구 키키",
+      "tokens": [
+        "우리",
+        "모두",
+        "효도",
+        "하",
+        "자구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "당당하게 독도에 구경하러 갈 꺼야",
+      "tokens": [
+        "당당",
+        "하",
+        "게",
+        "독도",
+        "에",
+        "구경",
+        "하",
+        "러",
+        "갈",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 월급 받으면 그걸로 부모님 선물 살 거야",
+      "tokens": [
+        "난",
+        "JX",
+        "월급",
+        "받",
+        "으면",
+        "그걸로",
+        "JKB",
+        "부모",
+        "님",
+        "선물",
+        "살",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "형제끼리 싸우지도 말고 키키",
+      "tokens": [
+        "형제",
+        "끼리",
+        "싸우",
+        "지",
+        "도",
+        "말",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "다케시마는 우리 한국 땅이지",
+      "tokens": [
+        "다케시마",
+        "는",
+        "우리",
+        "한국",
+        "땅",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나도 조센징들은 독도를 소중하게 여겨야 한다고 생각해",
+      "tokens": [
+        "나",
+        "도",
+        "조센징",
+        "들",
+        "은",
+        "독도",
+        "를",
+        "소중",
+        "하",
+        "게",
+        "여겨야",
+        "EC",
+        "한다고",
+        "EC",
+        "생각",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

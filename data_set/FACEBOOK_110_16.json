@@ -1,0 +1,450 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 화장할 때 속눈썹 붙여?",
+      "tokens": [
+        "언니",
+        "는",
+        "화장",
+        "할",
+        "ETM",
+        "때",
+        "속눈썹",
+        "붙여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 속눈썹 연장해",
+      "tokens": [
+        "난",
+        "JX",
+        "속눈썹",
+        "연장",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "언니 친구들 중에 속눈썹 붙이는 친구 있어?",
+      "tokens": [
+        "언니",
+        "친구",
+        "들",
+        "중",
+        "에",
+        "속눈썹",
+        "붙이",
+        "는",
+        "친구",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 있어",
+      "tokens": [
+        "맞",
+        "아",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오늘도 붙이고 왔지롱",
+      "tokens": [
+        "오늘",
+        "도",
+        "붙이",
+        "고",
+        "왔",
+        "EP",
+        "지롱"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 속눈썹 붙이고랑 안 붙이고랑 차이가 나더라!",
+      "tokens": [
+        "근데",
+        "속눈썹",
+        "붙이",
+        "고",
+        "랑",
+        "안",
+        "붙이",
+        "고",
+        "랑",
+        "차이",
+        "가",
+        "나",
+        "더라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 달라 나도 없음 허전해 이제",
+      "tokens": [
+        "진짜",
+        "달라",
+        "EC",
+        "나",
+        "도",
+        "없",
+        "음",
+        "허전",
+        "해",
+        "EC",
+        "이제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "눈이 진짜 그윽해지는 거 같음!",
+      "tokens": [
+        "눈",
+        "이",
+        "진짜",
+        "그윽",
+        "해",
+        "EC",
+        "지",
+        "는",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 눈에 힘이 없어지지 연하게",
+      "tokens": [
+        "키",
+        "키",
+        "눈",
+        "에",
+        "힘",
+        "이",
+        "없",
+        "어",
+        "지",
+        "지",
+        "연하",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 맞아 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그리고 음영이 지고 말이야~",
+      "tokens": [
+        "그리고",
+        "음영",
+        "이",
+        "지",
+        "고",
+        "말",
+        "이",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 넌 안 해? 연장?",
+      "tokens": [
+        "맞",
+        "아",
+        "넌",
+        "JX",
+        "안",
+        "해",
+        "EF",
+        "연장"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 지금 고민이야 한 번도 안 해봐서 안 어울릴까 봐 ㅜ",
+      "tokens": [
+        "나",
+        "지금",
+        "고민",
+        "이",
+        "야",
+        "한",
+        "번",
+        "도",
+        "안",
+        "해",
+        "EC",
+        "봐서",
+        "EC",
+        "안",
+        "어울릴까",
+        "EC",
+        "봐",
+        "EF",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "해 바",
+      "tokens": [
+        "해",
+        "바"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 너 속눈썹 길지 않아?",
+      "tokens": [
+        "근데",
+        "너",
+        "속눈썹",
+        "길",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "음,  근데 이게 길다고 해야 하나 그냥 보통인 거 같아!",
+      "tokens": [
+        "음",
+        ",",
+        "근데",
+        "이게",
+        "JKS",
+        "길",
+        "다고",
+        "해야",
+        "EC",
+        "하나",
+        "그냥",
+        "보통",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그럼 연장해봐 괜찮을 껄?",
+      "tokens": [
+        "그럼",
+        "연장",
+        "해",
+        "EC",
+        "봐",
+        "EF",
+        "괜찮",
+        "을껄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그래! 일단 해 봐야겠어!",
+      "tokens": [
+        "그래",
+        "일단",
+        "해",
+        "EC",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "날짜 잡아야지!",
+      "tokens": [
+        "날짜",
+        "잡",
+        "아야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나중에 친구 소개해줌 좋아",
+      "tokens": [
+        "나중",
+        "에",
+        "친구",
+        "소개",
+        "해줌",
+        "EC",
+        "VX",
+        "ETN",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

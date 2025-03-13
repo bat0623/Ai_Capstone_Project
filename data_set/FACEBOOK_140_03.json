@@ -1,0 +1,429 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 지하철 언제 타 봤어?",
+      "tokens": [
+        "다",
+        "들",
+        "지하철",
+        "언제",
+        "타",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 서울가면 항상 타!",
+      "tokens": [
+        "나",
+        "는",
+        "서울",
+        "가",
+        "면",
+        "항상",
+        "타",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 거의 매 주 타 키키",
+      "tokens": [
+        "나",
+        "는",
+        "거의",
+        "매주",
+        "타",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "헐 너희 동네에 지하철 있어?",
+      "tokens": [
+        "헐",
+        "너희",
+        "동네",
+        "에",
+        "지하철",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그렇겠다 너네집 주변에 역 있잖아",
+      "tokens": [
+        "그렇",
+        "겠",
+        "다",
+        "너",
+        "네",
+        "집",
+        "주변",
+        "에",
+        "역",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "당연하지~",
+      "tokens": [
+        "당연",
+        "하",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리 집 주변엔 지하철역 있어",
+      "tokens": [
+        "우리",
+        "집",
+        "주변",
+        "엔",
+        "JX",
+        "지하철역",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그럼 지하철 잘 타겠다 ㅠㅠ",
+      "tokens": [
+        "그럼",
+        "지하철",
+        "잘",
+        "타",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "완전 역세권이네 완전 부러워",
+      "tokens": [
+        "완전",
+        "역세",
+        "권",
+        "이",
+        "네",
+        "완전",
+        "부러워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그렇긴한데 나는 지하철 잘 안 타긴해 ㅠㅠ",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "나",
+        "는",
+        "지하철",
+        "잘",
+        "안",
+        "타",
+        "긴",
+        "JX",
+        "해",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "왜? 너 자동차 있어?",
+      "tokens": [
+        "왜",
+        "너",
+        "자동차",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 지하철 탈 때 환승 하는 게 젤 어렵더라",
+      "tokens": [
+        "나",
+        "는",
+        "지하철",
+        "탈",
+        "때",
+        "환승",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "젤",
+        "어렵",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 수도권 환승은 너무 어렵긴 하더라 ㅠㅠ",
+      "tokens": [
+        "아",
+        "수도",
+        "권",
+        "환승",
+        "은",
+        "너무",
+        "어렵",
+        "긴",
+        "JX",
+        "하",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "지하철 환승 어떻게 해?",
+      "tokens": [
+        "지하철",
+        "환승",
+        "어떻게",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 무서워 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "무서워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 서울은 너무 복잡해",
+      "tokens": [
+        "맞",
+        "아",
+        "서울",
+        "은",
+        "너무",
+        "복잡",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래서 난 편한 버스타고 다니지~",
+      "tokens": [
+        "그래서",
+        "난",
+        "JX",
+        "편한",
+        "ETM",
+        "버스",
+        "타",
+        "고",
+        "다니",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "차라리 버스가 더 편해 ㅠㅠ",
+      "tokens": [
+        "차라리",
+        "버스",
+        "가",
+        "더",
+        "편해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래서 맨날 네이버 지도 키고 가는 게 일이야",
+      "tokens": [
+        "그래서",
+        "맨날",
+        "네이버",
+        "지도",
+        "키",
+        "고",
+        "가",
+        "는",
+        "게",
+        "JKS",
+        "일",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그치 나는 T맵 자주 써!",
+      "tokens": [
+        "그치",
+        "나",
+        "는",
+        "T",
+        "맵",
+        "자주",
+        "써",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 네이버 지도 렉 걸리더라고",
+      "tokens": [
+        "키키",
+        "네이버",
+        "지도",
+        "렉",
+        "걸리",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

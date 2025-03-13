@@ -1,0 +1,451 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 해외 직구로 쇼핑 해 봤어?",
+      "tokens": [
+        "다",
+        "들",
+        "해외",
+        "직구",
+        "로",
+        "쇼핑",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 나 어제도 함 키키",
+      "tokens": [
+        "응",
+        "나",
+        "어",
+        "제도",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "쟤 직구 진짜 잘해 키키",
+      "tokens": [
+        "쟤",
+        "직구",
+        "진짜",
+        "잘",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "헐 키키 해외직구 뭔가 어렵던데 ㅠㅠ",
+      "tokens": [
+        "헐",
+        "키",
+        "키",
+        "해외",
+        "직구",
+        "뭔가",
+        "VCP",
+        "EC",
+        "어렵",
+        "던데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 요즘 맨날 직구 하잖아...",
+      "tokens": [
+        "나",
+        "요즘",
+        "맨날",
+        "직구",
+        "하",
+        "잖아",
+        "VX",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거 요즘 직구 앱 있던데?",
+      "tokens": [
+        "그거",
+        "요즘",
+        "직구",
+        "앱",
+        "있",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "직구가 많이 저렴한 편인가?",
+      "tokens": [
+        "직구",
+        "가",
+        "많이",
+        "저렴",
+        "한",
+        "ETM",
+        "편",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 앱도 있어?",
+      "tokens": [
+        "헐",
+        "앱",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "앱으로 하면 쉬워",
+      "tokens": [
+        "앱",
+        "으로",
+        "하",
+        "면",
+        "쉬워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "로그인만 하면 다 해주더라",
+      "tokens": [
+        "로그인",
+        "만",
+        "하",
+        "면",
+        "다",
+        "해",
+        "EC",
+        "주",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "와 진짜 요즘 직구 쉬워졌네 키키",
+      "tokens": [
+        "와",
+        "진짜",
+        "요즘",
+        "직구",
+        "쉬워졌",
+        "EC",
+        "VX",
+        "EP",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "내가 앱 하나 추천해 줘?",
+      "tokens": [
+        "내",
+        "가",
+        "앱",
+        "하나",
+        "추천",
+        "해",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나도!",
+      "tokens": [
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 추천 받을래",
+      "tokens": [
+        "나",
+        "도",
+        "추천",
+        "받",
+        "을래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 키키 추천해 줘",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "추천",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 한번 구경해 보게 키키",
+      "tokens": [
+        "나",
+        "도",
+        "한",
+        "번",
+        "구경",
+        "해",
+        "EC",
+        "보",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 크로켓 앱 쓰는데 짱 좋아",
+      "tokens": [
+        "나",
+        "크로켓",
+        "앱",
+        "쓰",
+        "는데",
+        "짱",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오... 나 그거 당장 깐다",
+      "tokens": [
+        "오",
+        ".",
+        "나",
+        "그거",
+        "당장",
+        "깐다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오 키키 나도 깔아봐야겠다",
+      "tokens": [
+        "오키",
+        "키나",
+        "도",
+        "깔",
+        "아",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "상품 많아?",
+      "tokens": [
+        "상품",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "응 많아 하하",
+      "tokens": [
+        "응",
+        "많",
+        "아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "추천인은 나로 하는 거 알지?",
+      "tokens": [
+        "추천인",
+        "은",
+        "나",
+        "로",
+        "하",
+        "는",
+        "거",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "응... 너 이름 쓴다 내가",
+      "tokens": [
+        "응",
+        ".",
+        "너",
+        "이름",
+        "쓴다",
+        "EC",
+        "내",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

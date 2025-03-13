@@ -1,0 +1,427 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 내년에  결혼한대...",
+      "tokens": [
+        "*",
+        "*",
+        "내년",
+        "에",
+        "결혼",
+        "한대",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐헐 축하해 키키",
+      "tokens": [
+        "헐헐",
+        "축하",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 내년인데 키키",
+      "tokens": [
+        "나",
+        "도",
+        "내년",
+        "인데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "내 결혼식 올 거야?",
+      "tokens": [
+        "내",
+        "JKG",
+        "결혼식",
+        "올",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "** 결혼 선물 뭐 사주지",
+      "tokens": [
+        "*",
+        "*",
+        "결혼",
+        "선물",
+        "뭐",
+        "사",
+        "EC",
+        "주",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내년 몇 월인데? 키키",
+      "tokens": [
+        "내년",
+        "몇",
+        "월",
+        "인데",
+        "EC",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나 그거 사주라.",
+      "tokens": [
+        "나",
+        "그거",
+        "사",
+        "EC",
+        "주",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "스타일러!",
+      "tokens": [
+        "스타일러"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "**이랑 같은 날 하지 마...!",
+      "tokens": [
+        "*",
+        "*",
+        "이랑",
+        "같",
+        "은",
+        "날",
+        "하",
+        "지",
+        "마",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 4월이야 키키",
+      "tokens": [
+        "나",
+        "는",
+        "4",
+        "월",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "신기하군",
+      "tokens": [
+        "신기",
+        "하군",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 내년 5월에 할 거야",
+      "tokens": [
+        "나",
+        "내년",
+        "5",
+        "월",
+        "에",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "스타일러 나도 없는데",
+      "tokens": [
+        "스타일러",
+        "나",
+        "도",
+        "없",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오오 나 한고 나서 바로군",
+      "tokens": [
+        "오",
+        "오",
+        "나한",
+        "고나서",
+        "EC",
+        "VX",
+        "EC",
+        "바로",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나보다 선배 되겠네 하하",
+      "tokens": [
+        "나",
+        "보다",
+        "선배",
+        "되",
+        "겠",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "너 왜 나 스타일러 안 사줬어?",
+      "tokens": [
+        "너",
+        "왜",
+        "나스",
+        "타일러",
+        "EC",
+        "안",
+        "사",
+        "EC",
+        "줬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "스타일러 은근 필요 없던디",
+      "tokens": [
+        "스타일러",
+        "은근",
+        "필요",
+        "없",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그냥... 그땐 니가 맘에 안 들었오...",
+      "tokens": [
+        "그냥",
+        ".",
+        "그",
+        "땐",
+        "JX",
+        "니",
+        "가",
+        "맘",
+        "에",
+        "안",
+        "들",
+        "었",
+        "오",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "사이 안 좋았었자나",
+      "tokens": [
+        "사이",
+        "안",
+        "좋",
+        "았었",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "다른 날 해서 다행이군... 하하",
+      "tokens": [
+        "다른",
+        "날",
+        "해서",
+        "EC",
+        "다행",
+        "이",
+        "군",
+        ".",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그거 정장 매일 입는 거 아니면 굳이?",
+      "tokens": [
+        "그거",
+        "정장",
+        "매일",
+        "입",
+        "는",
+        "거",
+        "아니",
+        "면",
+        "굳이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나 맨날 정장 입어야 대서... 스타일러 있어야 대",
+      "tokens": [
+        "나",
+        "맨날",
+        "정장",
+        "입",
+        "어야",
+        "대",
+        "서",
+        ".",
+        ".",
+        "스타",
+        "일러",
+        "EC",
+        "있",
+        "어야",
+        "대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

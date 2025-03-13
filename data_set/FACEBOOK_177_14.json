@@ -1,0 +1,554 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "위드코로나 시작했더니 취한 사람들 많이 보여",
+      "tokens": [
+        "위드",
+        "코로나",
+        "시작",
+        "했",
+        "EP",
+        "더니",
+        "취한",
+        "ETM",
+        "사람",
+        "들",
+        "많이",
+        "보여",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 회식 하느라 신났나봐 ㅎ",
+      "tokens": [
+        "그니까",
+        "회식",
+        "하",
+        "느라",
+        "신났",
+        "EP",
+        "나",
+        "봐",
+        "EF",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 아 근데 걱정이다",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아",
+        "근데",
+        "걱정",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "무슨 만명 넘으면 다시 중단한다던데",
+      "tokens": [
+        "무슨",
+        "만",
+        "명",
+        "넘",
+        "으면",
+        "다시",
+        "중단",
+        "한다던데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "헐 그전에 즐겨야 해",
+      "tokens": [
+        "헐",
+        "그",
+        "전",
+        "에",
+        "즐겨야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 그래?  키키",
+      "tokens": [
+        "아",
+        "그래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뭔 그럴 거면 위드코로나 안 하는 게 낫지",
+      "tokens": [
+        "뭔",
+        "JX",
+        "그럴",
+        "ETM",
+        "거",
+        "면",
+        "EC",
+        "위드",
+        "코로나",
+        "안",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "낫",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니까 키키 백프로 만명 넘을 거 같은데 너네 백신은 다 맞았어?",
+      "tokens": [
+        "그니까",
+        "키",
+        "키",
+        "ETN",
+        "백",
+        "프로",
+        "만",
+        "명",
+        "넘",
+        "을",
+        "거",
+        "같",
+        "은데",
+        "너",
+        "네",
+        "백신",
+        "은",
+        "다",
+        "맞",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 웅웅 넌 맞았어?",
+      "tokens": [
+        "키",
+        "키",
+        "웅웅",
+        "넌",
+        "JX",
+        "맞",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 이제 2주 됐다!",
+      "tokens": [
+        "나",
+        "도",
+        "이제",
+        "2",
+        "주",
+        "됐",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "응응 나는 이제 8일 지났어 키키",
+      "tokens": [
+        "응",
+        "응",
+        "나",
+        "는",
+        "이제",
+        "8",
+        "일",
+        "지났",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오 너희는 백신 아팠어?",
+      "tokens": [
+        "오",
+        "너희",
+        "는",
+        "백신",
+        "아팠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아픈 사람들 많던데ㅜ",
+      "tokens": [
+        "아픈",
+        "ETM",
+        "사람",
+        "들",
+        "많",
+        "던",
+        "데ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나는 안 아팠어 ㅋ 그정돈~",
+      "tokens": [
+        "나는안아팠어ㅋ그정돈",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 이상하게 하나도 안 아팠어",
+      "tokens": [
+        "나",
+        "도",
+        "이상",
+        "하",
+        "게",
+        "하나",
+        "도",
+        "안",
+        "아팠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "약을 잘 챙겨 먹어서 그런가",
+      "tokens": [
+        "약",
+        "을",
+        "잘",
+        "챙겨",
+        "EC",
+        "먹",
+        "어서",
+        "그런가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오 나도 안 아팠오",
+      "tokens": [
+        "오",
+        "나",
+        "도",
+        "안",
+        "아팠",
+        "EP",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "먼 약 먹었어?",
+      "tokens": [
+        "먼",
+        "ETM",
+        "약",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 술 먹었어!",
+      "tokens": [
+        "난",
+        "JX",
+        "술",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "최고의 약 ㅎ",
+      "tokens": [
+        "최고",
+        "의약",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "약도 줘?",
+      "tokens": [
+        "약",
+        "도",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "난 안주던데...?",
+      "tokens": [
+        "난",
+        "JX",
+        "안",
+        "주",
+        "던데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나 맞은 병원에서 타이레놀하고 이것저것 섞어서 처방받을수있다해서 받았어 키키",
+      "tokens": [
+        "나",
+        "맞",
+        "은",
+        "병원",
+        "에서",
+        "타",
+        "이레",
+        "놀",
+        "하",
+        "고",
+        "이것저것",
+        "섞",
+        "어서",
+        "처방",
+        "받",
+        "을",
+        "수",
+        "있",
+        "다",
+        "해서",
+        "EC",
+        "받",
+        "았",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "오우... 백신 부작용이 많아서 그런 것도 챙겨주네",
+      "tokens": [
+        "오우",
+        ".",
+        "백",
+        "신부",
+        "작용",
+        "이",
+        "많",
+        "아서",
+        "그런",
+        "것",
+        "도",
+        "챙겨",
+        "EC",
+        "주",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 오 우리는 술로 견뎠나 봐 ㅎ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "우리",
+        "는",
+        "술",
+        "로",
+        "견뎠",
+        "EP",
+        "나",
+        "봐",
+        "EF",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "오... 진짜 강한데?",
+      "tokens": [
+        "오",
+        ".",
+        "진짜",
+        "강",
+        "한데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "대단한 걸?",
+      "tokens": [
+        "대단",
+        "한걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

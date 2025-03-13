@@ -1,0 +1,392 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "보험 들어 뒀지?",
+      "tokens": [
+        "보험",
+        "들",
+        "어",
+        "뒀",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 앞트임 해야 되는데... 건강 상할까봐 못하겠어 피부가 약해서",
+      "tokens": [
+        "난",
+        "JX",
+        "앞트임",
+        "해야",
+        "EC",
+        "되",
+        "는데",
+        ".",
+        ".",
+        "건강",
+        "상할까봐",
+        "EC",
+        "VX",
+        "EC",
+        "못하",
+        "겠",
+        "어",
+        "피부",
+        "가",
+        "약해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 나 실비랑 암보험",
+      "tokens": [
+        "웅나실비랑암보험"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "보험 얼마가 적당한가...",
+      "tokens": [
+        "보험",
+        "얼마",
+        "가",
+        "적당",
+        "한가",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 나 실비보험 들어놨지! 동부보험",
+      "tokens": [
+        "응나실비보험들어놨지",
+        "동부",
+        "보험"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "앞트임 뭐 때매 그거하면 시야가 넓어지나...",
+      "tokens": [
+        "앞트임뭐때매그거하면시야가넓어지나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "실비는 역시 다 있군...",
+      "tokens": [
+        "실비",
+        "는",
+        "역시",
+        "다",
+        "있",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 5만원 정도 한달마다 나가던데",
+      "tokens": [
+        "난",
+        "JX",
+        "5",
+        "만",
+        "원",
+        "정도",
+        "한",
+        "ETM",
+        "달",
+        "마다",
+        "나가",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 치료목적 아니면 절대 반대",
+      "tokens": [
+        "나",
+        "는",
+        "치료",
+        "목적",
+        "아니",
+        "면",
+        "절대",
+        "반대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "5만원?",
+      "tokens": [
+        "5",
+        "만",
+        "원"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아주 소소하군...",
+      "tokens": [
+        "아주",
+        "소소",
+        "하",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "건강검진해도 실비 다 되더라 키키",
+      "tokens": [
+        "건강",
+        "검진",
+        "해도",
+        "EC",
+        "실비",
+        "다",
+        "되",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 얼마전에 초음파 검사 했거든",
+      "tokens": [
+        "나",
+        "얼마",
+        "전",
+        "에",
+        "초음파",
+        "검사",
+        "했",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오 100퍼센트 다줘?",
+      "tokens": [
+        "오",
+        "100",
+        "퍼센트",
+        "다",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 50정도 낸다능... 넘 많지 않냐",
+      "tokens": [
+        "난",
+        "JX",
+        "50",
+        "정도",
+        "낸다",
+        "EC",
+        "능",
+        ".",
+        ".",
+        "넘",
+        "많",
+        "지",
+        "않",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "mri도 요새 실비보험 된다 ㅎ",
+      "tokens": [
+        "mri",
+        "도요새실비보험된다ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그건 진짜 많은편임",
+      "tokens": [
+        "그건",
+        "JX",
+        "진짜",
+        "많",
+        "은",
+        "편",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "연금 보험?",
+      "tokens": [
+        "연금",
+        "보험"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그거를 들어버림...",
+      "tokens": [
+        "그거",
+        "를",
+        "들",
+        "어",
+        "버림",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "ㅠㅠ 박쥐 나에게 컨설팅 의뢰해라",
+      "tokens": [
+        "ㅠㅠ",
+        "박쥐",
+        "나",
+        "에게",
+        "컨설팅",
+        "의뢰",
+        "해라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "가장 들어선 안 되는 게 연금보험인데...",
+      "tokens": [
+        "가장",
+        "들어선",
+        "ETM",
+        "안",
+        "되",
+        "는",
+        "게",
+        "JKS",
+        "연금",
+        "보험",
+        "인데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

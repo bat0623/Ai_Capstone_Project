@@ -1,0 +1,323 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "영화 보러 갈래?",
+      "tokens": [
+        "영화",
+        "보",
+        "러",
+        "갈래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "영화 우리 못간다아니가",
+      "tokens": [
+        "영화",
+        "우리",
+        "못",
+        "간다",
+        "EC",
+        "아니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "영화 코로나 때무네",
+      "tokens": [
+        "영화",
+        "코로나",
+        "때",
+        "무네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 셋이!  그거 보자!",
+      "tokens": [
+        "우리",
+        "셋",
+        "이",
+        "그거",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "백신 맞고 가야 한다미?",
+      "tokens": [
+        "백신",
+        "맞",
+        "고",
+        "가",
+        "야",
+        "한다",
+        "EC",
+        "미"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 맞다...우리 못갈텐데...",
+      "tokens": [
+        "아",
+        "맞",
+        "다",
+        ".",
+        "우리",
+        "못",
+        "갈",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니 디비디방 가서 보면 되지",
+      "tokens": [
+        "아니",
+        "디비",
+        "디방",
+        "가",
+        "서",
+        "보",
+        "면",
+        "되",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 좋다 가즈아 디브디방은 가능?",
+      "tokens": [
+        "오",
+        "좋",
+        "다가",
+        "즈",
+        "아",
+        "디브",
+        "디방",
+        "은",
+        "가능"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "백신 2차 키키 아 키키 디비디방",
+      "tokens": [
+        "백신",
+        "2",
+        "차키키아키키디비디방"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "디비디 방도 안된데? 너무 하노!",
+      "tokens": [
+        "디비",
+        "디방",
+        "도",
+        "안",
+        "된데",
+        "EF",
+        "너무",
+        "하",
+        "노"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아놔 우리 아무데도 못감",
+      "tokens": [
+        "아",
+        "놔",
+        "EC",
+        "우리",
+        "아무데",
+        "도",
+        "못",
+        "감",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아직도 있는 건가?....",
+      "tokens": [
+        "아직",
+        "도",
+        "있",
+        "는",
+        "건가",
+        "VCP",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니면 우리집에서 어떰?",
+      "tokens": [
+        "아니면",
+        "우리",
+        "집",
+        "에서",
+        "어떰"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그냥 넷플릭스나 봐야함",
+      "tokens": [
+        "그냥",
+        "넷플릭스",
+        "나",
+        "봐야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 뭐 실내면 다 안된데..",
+      "tokens": [
+        "진짜",
+        "뭐",
+        "실내",
+        "면",
+        "EC",
+        "다",
+        "안",
+        "된",
+        "ETM",
+        "데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "꼭 셋이 보고 싶어...",
+      "tokens": [
+        "꼭",
+        "셋",
+        "이",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "팝콘 사갈게 전자렌지 팝콘 응응",
+      "tokens": [
+        "팝콘",
+        "사",
+        "EC",
+        "갈",
+        "ETM",
+        "게",
+        "JKS",
+        "전자",
+        "렌지",
+        "팝콘",
+        "응응"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

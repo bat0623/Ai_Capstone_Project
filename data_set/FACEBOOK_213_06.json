@@ -1,0 +1,400 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이제 아기가 5살인가...?",
+      "tokens": [
+        "이제",
+        "아기",
+        "가",
+        "5",
+        "살",
+        "인가",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 헐 그렇게나 됐나고?",
+      "tokens": [
+        "아",
+        "헐",
+        "그렇게",
+        "나",
+        "됐",
+        "EC",
+        "나",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "내년에 아기 5세! 유치원 갈 나이야",
+      "tokens": [
+        "내년",
+        "에",
+        "아기",
+        "5",
+        "세",
+        "유치원",
+        "갈",
+        "ETM",
+        "나",
+        "이야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "와 좀 있음 초등학생인데...? 키키",
+      "tokens": [
+        "와",
+        "좀",
+        "있",
+        "음",
+        "초등학생",
+        "인데",
+        "EC",
+        ".",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "넘나 시간 빠르네 키키",
+      "tokens": [
+        "넘",
+        "나",
+        "시간",
+        "빠르",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래서 입학 설명회 다니는 거야 키키",
+      "tokens": [
+        "그래서",
+        "입",
+        "학설",
+        "명회",
+        "다니",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "초등학교 간다 하겠노 ㅠㅠ",
+      "tokens": [
+        "초등",
+        "학교",
+        "간다",
+        "EC",
+        "하",
+        "겠",
+        "노",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 곧 초딩이야 키키",
+      "tokens": [
+        "진짜",
+        "곧",
+        "초딩",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 곧 초딩이 될 듯",
+      "tokens": [
+        "응",
+        "곧",
+        "초딩",
+        "이",
+        "될",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "책상 사줘야 할 듯",
+      "tokens": [
+        "책상",
+        "사",
+        "EC",
+        "줘야",
+        "EC",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "무슨 일이야 키키",
+      "tokens": [
+        "무슨",
+        "일",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어머님 키키",
+      "tokens": [
+        "어머님",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "소름이지?",
+      "tokens": [
+        "소름",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "원래 남 집 아기는 빨리 큰대",
+      "tokens": [
+        "원래",
+        "남",
+        "집",
+        "아기",
+        "는",
+        "빨리",
+        "큰대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 학부모 님 되겠네 진짜",
+      "tokens": [
+        "키키",
+        "학부모",
+        "님",
+        "되",
+        "겠",
+        "네",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 돈 많이 들어가지?",
+      "tokens": [
+        "진짜",
+        "돈",
+        "많이",
+        "들어가",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 그렇더라 키키",
+      "tokens": [
+        "나",
+        "도",
+        "그렇",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "다른 집 아기 엄청 빨리 커...",
+      "tokens": [
+        "다른",
+        "집",
+        "아기",
+        "엄청",
+        "빨리",
+        "커",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "무슨 일이야 이게 초등학교라니",
+      "tokens": [
+        "무슨",
+        "일",
+        "이",
+        "야",
+        "이게",
+        "JKS",
+        "초등",
+        "학교",
+        "라니",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "애 키우기 무서워 ㅜㅜ",
+      "tokens": [
+        "애",
+        "키우",
+        "기",
+        "무서워",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아직은 돈 실감 안 나는데 곧 그러겠지 ㅠ",
+      "tokens": [
+        "아직",
+        "은",
+        "돈",
+        "실감",
+        "안",
+        "나",
+        "는데",
+        "곧",
+        "그러",
+        "겠",
+        "지ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

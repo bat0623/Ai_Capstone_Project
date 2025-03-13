@@ -1,0 +1,365 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "어제 호러 영화를 봤어 키키",
+      "tokens": [
+        "어제",
+        "호러",
+        "영화",
+        "를",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 꼭 원피스를 찾을꺼야",
+      "tokens": [
+        "나",
+        "는",
+        "꼭",
+        "원피스",
+        "를",
+        "찾",
+        "을",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "호러영화는 너무 시시해서 싫어",
+      "tokens": [
+        "호러",
+        "영화",
+        "는",
+        "너무",
+        "시시",
+        "해서",
+        "EC",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "너무 무섭더라구",
+      "tokens": [
+        "너무",
+        "무섭",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "제목은 셔터야",
+      "tokens": [
+        "제목",
+        "은",
+        "셔터",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "다들 동참해줄수 있지?",
+      "tokens": [
+        "다",
+        "들",
+        "동참",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "수",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "원피스는 결국 없는거야",
+      "tokens": [
+        "원피스",
+        "는",
+        "결국",
+        "없",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 호러영화 볼 때 눈을 감고 봐 ㅠㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "호러",
+        "영화",
+        "볼",
+        "ETM",
+        "때",
+        "눈",
+        "을",
+        "감",
+        "고",
+        "봐",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나랑같이 역사를 만들어가자",
+      "tokens": [
+        "나",
+        "랑",
+        "같이",
+        "역사",
+        "를",
+        "만들",
+        "어",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "셔터 봤는데 시시해서 팝콘 쏟았어",
+      "tokens": [
+        "셔터",
+        "봤",
+        "EP",
+        "는데",
+        "시시",
+        "해서",
+        "EC",
+        "팝콘",
+        "쏟",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "원피스는 너무 상상의 애니야",
+      "tokens": [
+        "원피스",
+        "는",
+        "너무",
+        "상상",
+        "의",
+        "애",
+        "니야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "현실세계는 너무 따분해",
+      "tokens": [
+        "현실",
+        "세계",
+        "는",
+        "너무",
+        "따분",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "원피스보다는 닌자가 되는거 어때",
+      "tokens": [
+        "원피스",
+        "보다",
+        "는",
+        "닌자",
+        "가",
+        "되",
+        "는",
+        "거",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나도 공포영화 시시해서 쌋어...",
+      "tokens": [
+        "나도공포영화시시해서쌋어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "눈을 감고 보면 뭐하러 영화를 봐?",
+      "tokens": [
+        "눈",
+        "을",
+        "감",
+        "고",
+        "보",
+        "면",
+        "뭐",
+        "하",
+        "러",
+        "영화",
+        "를",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "루피동료가 되면 죽지않을 수 있는거야?",
+      "tokens": [
+        "루피",
+        "동료",
+        "가",
+        "되",
+        "면",
+        "죽",
+        "지",
+        "않",
+        "을",
+        "수",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "두번 다시 안볼것 같아 공포영화는 키키",
+      "tokens": [
+        "두",
+        "번",
+        "다시",
+        "안",
+        "볼",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "공포",
+        "영화",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "공포영화가 제일 조아",
+      "tokens": [
+        "공포",
+        "영화",
+        "가",
+        "제일",
+        "조아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

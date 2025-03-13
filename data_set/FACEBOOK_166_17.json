@@ -1,0 +1,389 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 치매는 정말 안 걸려야 할텐데...",
+      "tokens": [
+        "아",
+        "치매",
+        "는",
+        "정말",
+        "안",
+        "걸려야",
+        "EC",
+        "할텐데",
+        "ETM",
+        "NNB",
+        "VCP",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "치매는 정말 최악이야 ㅠㅠ",
+      "tokens": [
+        "치매",
+        "는",
+        "정말",
+        "최악",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "치매는 진짜 무서움 키키",
+      "tokens": [
+        "치매",
+        "는",
+        "진짜",
+        "무서움",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 치매가 최악의 병인 거 같아",
+      "tokens": [
+        "난",
+        "JX",
+        "치매",
+        "가",
+        "최악",
+        "의",
+        "병",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너무 무서워 치매는 ㅠ",
+      "tokens": [
+        "너무",
+        "무서워",
+        "EC",
+        "치매",
+        "는",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거야말로 진짜 최악일듯",
+      "tokens": [
+        "그거",
+        "야말로",
+        "진짜",
+        "최악",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그냥 죽는게 나은듯",
+      "tokens": [
+        "그냥",
+        "죽",
+        "는",
+        "게",
+        "JKS",
+        "나",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "고치는 약이 빨리 나오길 ㅠ",
+      "tokens": [
+        "고치",
+        "는",
+        "약",
+        "이",
+        "빨리",
+        "나오",
+        "길",
+        "JKO",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 그냥 그럼 죽을래 키키",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "그럼",
+        "EC",
+        "죽",
+        "을래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "내가 생각할 때는 치매가 최고임...",
+      "tokens": [
+        "내",
+        "가",
+        "생각",
+        "할",
+        "ETM",
+        "때",
+        "는",
+        "치매",
+        "가",
+        "최고",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "우리 늙기전에도 안 나오겠지?",
+      "tokens": [
+        "우리",
+        "늙",
+        "기",
+        "전",
+        "에",
+        "도",
+        "안",
+        "나오",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 ㅜㅜ",
+      "tokens": [
+        "나",
+        "도",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래 치매는 자식들에게 미안하고",
+      "tokens": [
+        "그래",
+        "치매",
+        "는",
+        "자식",
+        "들",
+        "에게",
+        "미안",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "치매 안 걸리는 법 검색좀...",
+      "tokens": [
+        "치매",
+        "안",
+        "걸리",
+        "는",
+        "법",
+        "검색",
+        "좀",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나왔음 좋겠다 신약이 ㅠ",
+      "tokens": [
+        "나왔",
+        "EP",
+        "음",
+        "좋",
+        "겠",
+        "다",
+        "신약",
+        "이",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래 ㅜㅜ",
+      "tokens": [
+        "그래ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 치매 안 걸리게 조심하자",
+      "tokens": [
+        "그니까",
+        "치매",
+        "안",
+        "걸리",
+        "게",
+        "조심",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "치매 치료제는 왜 못 만드냐 ㅠㅠ",
+      "tokens": [
+        "치매",
+        "치료제",
+        "는",
+        "왜",
+        "못",
+        "만드",
+        "냐",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "고스톱을 많이 쳐야지",
+      "tokens": [
+        "고스톱",
+        "을",
+        "많이",
+        "쳐야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "머리를 자꾸 써야해 그래야 안 걸려",
+      "tokens": [
+        "머리",
+        "를",
+        "자꾸",
+        "써야",
+        "EC",
+        "해",
+        "EC",
+        "그래야",
+        "EC",
+        "안",
+        "걸려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

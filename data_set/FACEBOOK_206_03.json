@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "불법 주차 신고 해봤음?",
+      "tokens": [
+        "불법",
+        "주차",
+        "신고",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "불법 주차 신고 해봄",
+      "tokens": [
+        "불법",
+        "주차",
+        "신",
+        "고",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 자주 함... 하하...",
+      "tokens": [
+        "나",
+        "자주",
+        "함",
+        "ETN",
+        ".",
+        "하하",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "취미 생활임",
+      "tokens": [
+        "취미",
+        "생활",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 장애인 주차 구역 신고 해봤음",
+      "tokens": [
+        "난",
+        "JX",
+        "장애",
+        "인",
+        "ETM",
+        "주차",
+        "구역",
+        "신고",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그 요즘 어플로 하든데 키키",
+      "tokens": [
+        "그",
+        "요즘",
+        "어",
+        "플로",
+        "하",
+        "든데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "불법 주차하는 얘들 딱지를 먹어봐야 안 하지",
+      "tokens": [
+        "불법",
+        "주차",
+        "하",
+        "는",
+        "얘",
+        "들",
+        "딱지",
+        "를",
+        "먹",
+        "어",
+        "봐야",
+        "EC",
+        "안",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "장애인 주차 구역 에바 아니냐...",
+      "tokens": [
+        "장애",
+        "인",
+        "ETM",
+        "주차",
+        "구역",
+        "에",
+        "바",
+        "아니",
+        "냐",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "옛날에 더플 앞에 신고 많이 해봤다 키키",
+      "tokens": [
+        "옛날",
+        "에",
+        "더플",
+        "앞",
+        "에",
+        "신",
+        "고",
+        "많이",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "장애인 주차 구역도...",
+      "tokens": [
+        "장애",
+        "인",
+        "ETM",
+        "주차",
+        "구역",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니 지네가 주차를 거기 왜 해",
+      "tokens": [
+        "아니",
+        "지네",
+        "가",
+        "주차",
+        "를",
+        "거기",
+        "왜",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 그 어플 깔았어!",
+      "tokens": [
+        "나",
+        "도",
+        "그",
+        "어",
+        "플",
+        "깔",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 요즘 누가 장애인 구역에 주차하노",
+      "tokens": [
+        "진짜",
+        "요즘",
+        "누가",
+        "JKS",
+        "장애",
+        "인",
+        "ETM",
+        "구역",
+        "에",
+        "주차",
+        "하",
+        "노"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "국민 신문고 어플 나 애용한다",
+      "tokens": [
+        "국민신문고",
+        "어",
+        "플",
+        "ETM",
+        "나",
+        "애용",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 나도 그런 거 못 참아",
+      "tokens": [
+        "나",
+        "도",
+        "나",
+        "도",
+        "그런",
+        "거",
+        "못",
+        "참",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "신고 진짜 무조건 해야 함 키키",
+      "tokens": [
+        "신고",
+        "진짜",
+        "무조건",
+        "해야함",
+        "EC",
+        "VX",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "장애인 주차 구역 주차하는 거보다 주차 구역 막는 게 벌금 더 비싼 거 알아?",
+      "tokens": [
+        "장애",
+        "인",
+        "ETM",
+        "주차",
+        "구역",
+        "주차",
+        "하",
+        "는",
+        "거",
+        "보다",
+        "주차",
+        "구역",
+        "막",
+        "는",
+        "게",
+        "JKS",
+        "벌금",
+        "더",
+        "비싼",
+        "ETM",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "주차 구역 막는 게 모야?",
+      "tokens": [
+        "주차",
+        "구역",
+        "막",
+        "는",
+        "게",
+        "JKS",
+        "모",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "막는 건 또 뭐지 ㅋ?",
+      "tokens": [
+        "막는건또뭐지ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "주차 구역 칸 앞이라던지 옆이라던지 억지로 주차하는 거 키키",
+      "tokens": [
+        "주차",
+        "구역",
+        "칸",
+        "ETM",
+        "앞",
+        "이라던지",
+        "옆",
+        "이",
+        "라던지",
+        "억지로",
+        "주차",
+        "하",
+        "는",
+        "거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

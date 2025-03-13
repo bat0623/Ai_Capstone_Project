@@ -1,0 +1,429 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "위생 관리 잘해라 키키",
+      "tokens": [
+        "위생",
+        "관리",
+        "잘",
+        "해라",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 운동을 맨날  해 그냥",
+      "tokens": [
+        "나",
+        "는",
+        "운동",
+        "을",
+        "맨날",
+        "해",
+        "EC",
+        "그냥"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 요새 비만 오면 손목이 아프네 키키",
+      "tokens": [
+        "아요",
+        "새비",
+        "만",
+        "오",
+        "면",
+        "손목",
+        "이",
+        "아프",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "코로나 때문에 위생 관리 잘 해야 해 키키",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "위생",
+        "관리",
+        "잘",
+        "해야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "위생도 중요하지 요즘은 키키",
+      "tokens": [
+        "위생",
+        "도",
+        "중요",
+        "하",
+        "지",
+        "요즘",
+        "은",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "위생관리 중요하지",
+      "tokens": [
+        "위생",
+        "관리",
+        "중요",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요즘 코시국이라 키키",
+      "tokens": [
+        "요즘",
+        "코",
+        "EC",
+        "시국",
+        "이",
+        "라키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나이 먹어서 그런가 키키",
+      "tokens": [
+        "나이",
+        "먹",
+        "어서",
+        "그런가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "코로나가 진짜 문제야 요즘 키키",
+      "tokens": [
+        "코로나",
+        "가",
+        "진짜",
+        "문제",
+        "야",
+        "EF",
+        "요즘",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "발목도 시큰시큰해 키키",
+      "tokens": [
+        "발목",
+        "도",
+        "시큰시큰",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "코로나 진짜 짜증 난다 키키",
+      "tokens": [
+        "코로나",
+        "진짜",
+        "짜증",
+        "난",
+        "JX",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그런 것도 있어",
+      "tokens": [
+        "그런",
+        "것",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나이 먹어서 키키",
+      "tokens": [
+        "나이",
+        "먹",
+        "어서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "너네도 나이 앞에 장사 없다 키키",
+      "tokens": [
+        "너",
+        "네",
+        "도",
+        "나이",
+        "앞",
+        "에",
+        "장사",
+        "없",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우리 나이 먹어서 그런가 봐 키키 에고",
+      "tokens": [
+        "우리",
+        "나이",
+        "먹",
+        "어서",
+        "그런가",
+        "EC",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "에",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 온몸이 아파 요즘 키키",
+      "tokens": [
+        "나",
+        "도",
+        "온몸",
+        "이",
+        "아파",
+        "EC",
+        "요즘",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "조심해야 해 키키",
+      "tokens": [
+        "조심",
+        "해야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "잘 챙겨 먹고 키키",
+      "tokens": [
+        "잘",
+        "챙겨",
+        "EC",
+        "먹",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 건강 관리 잘하라고 키키",
+      "tokens": [
+        "키",
+        "키",
+        "건강",
+        "관리",
+        "잘",
+        "하",
+        "라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "모두 조심해야 해 진짜 키키",
+      "tokens": [
+        "모두",
+        "조심",
+        "해야",
+        "EC",
+        "해",
+        "EF",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "어디 아픈데 너는? 키키",
+      "tokens": [
+        "어디",
+        "아픈데",
+        "EC",
+        "너",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘도 피씨방 자주 가?",
+      "tokens": [
+        "요즘",
+        "도피",
+        "씨방",
+        "자주",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘은 제한이 많아서 그냥 집에서...",
+      "tokens": [
+        "요즘",
+        "은",
+        "제한",
+        "이",
+        "많",
+        "아서",
+        "그냥",
+        "집",
+        "에서",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 피씨방 자주 가 키키 친구들이랑",
+      "tokens": [
+        "난피",
+        "씨방",
+        "자주",
+        "가",
+        "키",
+        "키",
+        "친구",
+        "들",
+        "이랑"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "피씨방에 무슨 제한이 있어?",
+      "tokens": [
+        "피",
+        "씨방",
+        "에",
+        "무슨",
+        "제한",
+        "이",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그 코로나때문에 먹는 게 안 되더라고 저번에 가 보니까!",
+      "tokens": [
+        "그",
+        "코로나",
+        "때문",
+        "에",
+        "먹",
+        "는",
+        "게",
+        "JKS",
+        "안",
+        "되",
+        "더라고",
+        "저번",
+        "에",
+        "가",
+        "EC",
+        "보",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "코로나때문에 제한 있었어 ㅠㅠ",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "제한",
+        "있",
+        "었",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아하 키키 먹는 거 그렇지",
+      "tokens": [
+        "아",
+        "하키",
+        "키",
+        "ETN",
+        "먹",
+        "는",
+        "거",
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "피시방에서 롤 대회도 하더라",
+      "tokens": [
+        "피시방",
+        "에서",
+        "롤",
+        "대회",
+        "도",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "피시방 대회에서 우승하면 돈도 주고 피시방 이용권도 주더라 키키",
+      "tokens": [
+        "피시방",
+        "대회",
+        "에서",
+        "우승",
+        "하",
+        "면",
+        "돈",
+        "도",
+        "주",
+        "고",
+        "피시방",
+        "이용",
+        "권",
+        "도",
+        "주",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "롤 대회 나가본 적 없어 못해 키키",
+      "tokens": [
+        "롤",
+        "대회",
+        "나가",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "없",
+        "어",
+        "못해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 그래? 키키",
+      "tokens": [
+        "아",
+        "그래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "피시방에서 롤 대회 하고 그래",
+      "tokens": [
+        "피시방",
+        "에서",
+        "롤",
+        "대회",
+        "하",
+        "고",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "누나도 피시방 가면 한 번 참여 해봐",
+      "tokens": [
+        "누나",
+        "도",
+        "피시방",
+        "가",
+        "면",
+        "한",
+        "번",
+        "참여",
+        "해",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 여자들도 롤 많이 하잖아",
+      "tokens": [
+        "키",
+        "키",
+        "여자",
+        "들",
+        "도",
+        "롤",
+        "많이",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나는 오버워치로 참여 해볼까 봐 키키",
+      "tokens": [
+        "나",
+        "는",
+        "오버",
+        "워치",
+        "로",
+        "참여",
+        "해",
+        "EC",
+        "볼까",
+        "EC",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오버워치도 피시방 대회가 있나?",
+      "tokens": [
+        "오버",
+        "워치",
+        "도",
+        "피시방",
+        "대회",
+        "가",
+        "있",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "본 적이 없어서 하하",
+      "tokens": [
+        "본적",
+        "이",
+        "없",
+        "어서",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 오버워치는 안 해봤어",
+      "tokens": [
+        "키키",
+        "오버",
+        "워치",
+        "는",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나도 하는 것만 해서",
+      "tokens": [
+        "나",
+        "도",
+        "하",
+        "는",
+        "것",
+        "만",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "응응 키키 경쟁전 대회 있었어",
+      "tokens": [
+        "응",
+        "응",
+        "키",
+        "키",
+        "경쟁",
+        "전",
+        "대회",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그러면 참여 해 봐",
+      "tokens": [
+        "그러면",
+        "참여",
+        "해",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "은근 값진 경험일 거야",
+      "tokens": [
+        "은근",
+        "값진",
+        "ETM",
+        "경험",
+        "일",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "응 뭔가 해보면 빠져들고 계속 접속하게 되는 키키",
+      "tokens": [
+        "응",
+        "뭔가",
+        "VCP",
+        "EC",
+        "해",
+        "EC",
+        "보",
+        "면",
+        "빠져들",
+        "고",
+        "계속",
+        "접속",
+        "하",
+        "게",
+        "되",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

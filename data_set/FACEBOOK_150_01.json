@@ -1,0 +1,530 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "피자 브랜드 어디 꺼 좋아해",
+      "tokens": [
+        "피자",
+        "브랜드",
+        "어디",
+        "꺼",
+        "EC",
+        "좋아해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 우리 동네 피자집 먹어!",
+      "tokens": [
+        "나",
+        "는",
+        "우리",
+        "동네",
+        "피자",
+        "집",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 도미노 아니면 피자스쿨 키키",
+      "tokens": [
+        "나",
+        "는",
+        "도미노",
+        "아니",
+        "면",
+        "피자스쿨",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 피자스쿨 고구마 피자 좋아해",
+      "tokens": [
+        "나",
+        "는",
+        "피자스쿨",
+        "고구마",
+        "피자",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "피자스쿨?",
+      "tokens": [
+        "피자스쿨"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "거기 가격 싼 피자집 아니야?!",
+      "tokens": [
+        "거기",
+        "가격",
+        "싼",
+        "ETM",
+        "피자",
+        "집",
+        "아니",
+        "야",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 피자스쿨 까르보네피자?",
+      "tokens": [
+        "나",
+        "는",
+        "피자스쿨",
+        "까르보",
+        "네",
+        "피자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그거 맛있더라고 키키",
+      "tokens": [
+        "그거",
+        "맛있",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "가격 싼대 난 나름 괜춘해",
+      "tokens": [
+        "가격",
+        "싼",
+        "ETM",
+        "대난",
+        "나름",
+        "괜춘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "한 판에 만원도 안 하는 걸로 아는데 맞아?~",
+      "tokens": [
+        "한판",
+        "에",
+        "만",
+        "원",
+        "도",
+        "안",
+        "하",
+        "는",
+        "걸로",
+        "JKB",
+        "아",
+        "는",
+        "데",
+        "맞",
+        "아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "만원도 안 하는 거 많아",
+      "tokens": [
+        "만",
+        "원",
+        "도",
+        "안",
+        "하",
+        "는",
+        "거",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "피자 마루 거기도 좋아 키키",
+      "tokens": [
+        "피자",
+        "마루",
+        "거기",
+        "도",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "요즘은 가격이 올라서 잘 모르겠네~",
+      "tokens": [
+        "요즘",
+        "은",
+        "가격",
+        "이",
+        "올라서",
+        "EC",
+        "잘",
+        "모르",
+        "겠",
+        "네",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그치 ㅠㅠ",
+      "tokens": [
+        "그치ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "요즘 피자값 너무 사악해",
+      "tokens": [
+        "요즘",
+        "피자",
+        "값",
+        "너무",
+        "사악",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래서 저려미 가성비 갑 먹게 됨 키키",
+      "tokens": [
+        "그래서",
+        "저려",
+        "미가",
+        "성",
+        "비갑",
+        "먹",
+        "게",
+        "됨",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그러게 키키",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "도미노 같은 거 너무 비싸더라",
+      "tokens": [
+        "도미노",
+        "같",
+        "은",
+        "거",
+        "너무",
+        "비싸",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그래서 나도 그냥 피자는 싼 곳 시켜 먹지",
+      "tokens": [
+        "그래서",
+        "나",
+        "도",
+        "그냥",
+        "피자",
+        "는",
+        "싼",
+        "ETM",
+        "곳",
+        "시켜",
+        "EC",
+        "먹",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "도미노 무조건 할인쿠폰 받아서 시켜 먹어야 해 키키",
+      "tokens": [
+        "도미노",
+        "무조건",
+        "할인",
+        "쿠폰",
+        "받",
+        "아서",
+        "시켜",
+        "EC",
+        "먹",
+        "어야",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그러게 키키",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "나도 가끔 할인 받아서 먹어",
+      "tokens": [
+        "나",
+        "도",
+        "가끔",
+        "할인",
+        "받",
+        "아서",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "할인 할 때만 먹는 게 국룰이잖아~ 하하",
+      "tokens": [
+        "할인할때만먹는게국룰이잖아",
+        "~",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "포장 할인 이런 거 최고라고 키키",
+      "tokens": [
+        "포장",
+        "할인",
+        "이런",
+        "거",
+        "최고",
+        "라고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

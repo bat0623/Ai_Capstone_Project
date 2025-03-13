@@ -1,0 +1,366 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "수능 코 앞이넹 하하",
+      "tokens": [
+        "수능코앞이넹하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "수능 곧이야? 세상에",
+      "tokens": [
+        "수능",
+        "곧",
+        "이",
+        "야",
+        "세상",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "쿄쿄 수험생들 그동안 고생많았심다",
+      "tokens": [
+        "쿄",
+        "쿄",
+        "수험",
+        "생",
+        "들",
+        "그동안",
+        "고생",
+        "많",
+        "았",
+        "심",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오빠는 수능 안쳤지?",
+      "tokens": [
+        "오빠",
+        "는",
+        "수능",
+        "안",
+        "쳤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "시간 빠르다 키키 수능이라니 키키",
+      "tokens": [
+        "시간",
+        "빠르",
+        "다키키",
+        "수능",
+        "이",
+        "라니",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 수능친지 진심 16년 됐네... 운다...",
+      "tokens": [
+        "나",
+        "수능",
+        "친지",
+        "진심",
+        "16",
+        "년",
+        "됐",
+        "EP",
+        "네",
+        ".",
+        "운다",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "수능 이 어떤 건지 궁금하겠당",
+      "tokens": [
+        "수능",
+        "이",
+        "어떤",
+        "건지",
+        "VCP",
+        "EC",
+        "궁금",
+        "하",
+        "겠",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "이제 진짜 추워지겠다 수능이면",
+      "tokens": [
+        "이제",
+        "진짜",
+        "추워",
+        "EC",
+        "지",
+        "겠",
+        "다",
+        "수능",
+        "이",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그때 진짜 떨렸었는데....",
+      "tokens": [
+        "그때",
+        "진짜",
+        "떨렸",
+        "EP",
+        "었",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "16년 전에  수능 있었음?",
+      "tokens": [
+        "16",
+        "년",
+        "전",
+        "에",
+        "수능",
+        "있",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아 키키 나도 떨렸지",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "떨렸",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 언어 다 밀려 썼잖어...",
+      "tokens": [
+        "나",
+        "언어",
+        "다",
+        "밀려",
+        "EC",
+        "썼",
+        "EP",
+        "잖어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "** 수능 어디서 침?",
+      "tokens": [
+        "*",
+        "*",
+        "수능",
+        "어디",
+        "서",
+        "침"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "사실 첫수능은 안 떨렸어 가서 찍고옴",
+      "tokens": [
+        "사실",
+        "첫",
+        "수능",
+        "은",
+        "안",
+        "떨렸",
+        "EP",
+        "어",
+        "가",
+        "서",
+        "찍",
+        "고",
+        "옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "가채점 했을 때 언어 만점이었는데... 퉤...",
+      "tokens": [
+        "가채점",
+        "했",
+        "EP",
+        "을",
+        "때",
+        "언어",
+        "만점",
+        "이",
+        "었",
+        "는데",
+        ".",
+        ".",
+        "퉤",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "수능 칠 때 도시락 뭐 싸갔어 하하",
+      "tokens": [
+        "수능",
+        "칠",
+        "때",
+        "도시락",
+        "뭐",
+        "싸",
+        "EC",
+        "갔",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 기공에서 쳤던듯?",
+      "tokens": [
+        "나",
+        "는",
+        "기공",
+        "에서",
+        "쳤",
+        "EP",
+        "던",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 친구들 도시락 뺐어머금",
+      "tokens": [
+        "나",
+        "친구",
+        "들",
+        "도시락",
+        "뺐",
+        "EP",
+        "어",
+        "머금"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

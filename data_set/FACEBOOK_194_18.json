@@ -1,0 +1,363 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 다시 아이폰으로 올 꺼제?",
+      "tokens": [
+        "*",
+        "*",
+        "다시",
+        "아이폰",
+        "으로",
+        "올꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 당연하지",
+      "tokens": [
+        "나",
+        "당연",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "갈 거야",
+      "tokens": [
+        "갈",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "** 나 아이맥 살 거임",
+      "tokens": [
+        "*",
+        "*",
+        "나",
+        "아이맥",
+        "살",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "니 다음 폰은 아이폰일껄?",
+      "tokens": [
+        "니",
+        "다음",
+        "폰",
+        "은",
+        "아이폰",
+        "일",
+        "껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "갤럭시는 도저히 못 쓰겠어 !",
+      "tokens": [
+        "갤럭시",
+        "는",
+        "도저히",
+        "못",
+        "쓰",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나 드디어 앱등이가 된다",
+      "tokens": [
+        "나",
+        "드디어",
+        "앱",
+        "등",
+        "이",
+        "가",
+        "된다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아이맥 얼마 하던데?",
+      "tokens": [
+        "아이맥",
+        "얼마",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이거 접는 거에 홀려 잘못을 저지름 ...",
+      "tokens": [
+        "이거",
+        "접",
+        "는",
+        "거",
+        "에",
+        "홀려",
+        "EC",
+        "잘못",
+        "을",
+        "저지름",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아이맥 수백 하던데 돈 모아서 사야지",
+      "tokens": [
+        "아이맥",
+        "수백",
+        "하",
+        "던데",
+        "돈",
+        "모아서",
+        "EC",
+        "사",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그거 학생일 때는 좀 싼 거 있던데",
+      "tokens": [
+        "그거",
+        "학생",
+        "일",
+        "ETM",
+        "때",
+        "는",
+        "좀",
+        "싼",
+        "ETM",
+        "거",
+        "있",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "접는 거 말곤 장점이 없어",
+      "tokens": [
+        "접",
+        "는",
+        "거",
+        "말",
+        "곤",
+        "장점",
+        "이",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 프로그래밍 할 거라서",
+      "tokens": [
+        "나",
+        "프로그래밍",
+        "할",
+        "ETM",
+        "거",
+        "라서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "요새 컴터가 비싸대",
+      "tokens": [
+        "요새컴터가비싸대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "컴터 엄청 비쌈 ㅠ",
+      "tokens": [
+        "컴터엄청비쌈ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그거 대학생 쇼핑몰 있음",
+      "tokens": [
+        "그거",
+        "대학생",
+        "쇼핑몰",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응응",
+      "tokens": [
+        "응",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래픽 카드가 엄청 올랐대",
+      "tokens": [
+        "그래픽",
+        "카드",
+        "가",
+        "엄청",
+        "올랐",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래픽 카드 핵 비싸갖고",
+      "tokens": [
+        "그래픽",
+        "카드",
+        "핵",
+        "비싸",
+        "EC",
+        "갖",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나 프로그래밍 영상편집 해야해서 고성능 필수 ㅠ",
+      "tokens": [
+        "나",
+        "프로그래밍",
+        "영상",
+        "편집",
+        "해야",
+        "EC",
+        "해서",
+        "EC",
+        "VCP",
+        "고",
+        "성능",
+        "필수",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

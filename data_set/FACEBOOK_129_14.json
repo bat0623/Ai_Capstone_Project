@@ -1,0 +1,390 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "전국민 지원금 50준대",
+      "tokens": [
+        "전",
+        "국민",
+        "지원금",
+        "50",
+        "준대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "또 준다고? 대박스",
+      "tokens": [
+        "또",
+        "준다고",
+        "EF",
+        "대",
+        "박스"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 또 주나 헐헐 키키",
+      "tokens": [
+        "아또주나헐헐키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그 아저씨는 왜 자꾸 돈을 준다냐",
+      "tokens": [
+        "그",
+        "아저씨",
+        "는",
+        "왜",
+        "자꾸",
+        "돈",
+        "을",
+        "준다냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "미쳤군",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이 나라는 정말 하하",
+      "tokens": [
+        "이",
+        "나라",
+        "는",
+        "정말",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "대박 개좋은데 키키",
+      "tokens": [
+        "대박",
+        "개",
+        "좋",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "누가 주는데 이번에",
+      "tokens": [
+        "누가",
+        "JKS",
+        "주",
+        "는데",
+        "이번",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "세상에나... 그만 받고 싶다",
+      "tokens": [
+        "세상",
+        "에",
+        "나",
+        "EF",
+        ".",
+        "그만",
+        "받",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "완전 누가 보면 유전 터진 나라인 줄",
+      "tokens": [
+        "완전",
+        "누가",
+        "JKS",
+        "보",
+        "면",
+        "유전",
+        "터진",
+        "ETM",
+        "나라",
+        "인",
+        "ETM",
+        "줄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나중에 얼마나 세금 받을려고 준대",
+      "tokens": [
+        "나중",
+        "에",
+        "얼마나",
+        "세금",
+        "받",
+        "을려고",
+        "준대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그 경기도 지사님이 밀던데",
+      "tokens": [
+        "그",
+        "경기도지사",
+        "님",
+        "이",
+        "밀",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "울나라에 혹시 유전 터졌니 하하",
+      "tokens": [
+        "울",
+        "나라",
+        "에",
+        "혹시",
+        "유전",
+        "터졌",
+        "EP",
+        "니",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "설레게 근데 진짜 빨리 써짐 키키",
+      "tokens": [
+        "설레",
+        "게",
+        "근데",
+        "진짜",
+        "빨리",
+        "써",
+        "EC",
+        "짐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "50만 원씩 전국민 주자고",
+      "tokens": [
+        "50",
+        "만",
+        "원",
+        "씩",
+        "전국",
+        "민주",
+        "자",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "두바이도 이리 안 주겠구만 하하",
+      "tokens": [
+        "두",
+        "바이",
+        "도",
+        "이리",
+        "안",
+        "주",
+        "겠",
+        "구",
+        "만",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 헐 ㅜㅜ 그럼 확정은 아니군",
+      "tokens": [
+        "키",
+        "키",
+        "헐",
+        "ETM",
+        "ㅜㅜ",
+        "그럼",
+        "확정",
+        "은",
+        "아니",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "왜 자꾸 준다냐...",
+      "tokens": [
+        "왜",
+        "자꾸",
+        "준다냐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아주 대단 대한민국",
+      "tokens": [
+        "아주",
+        "대단",
+        "대한민국"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "돈 많은 사람들 세금 받아랏",
+      "tokens": [
+        "돈",
+        "많",
+        "은",
+        "사람",
+        "들",
+        "세금",
+        "받",
+        "아랏"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

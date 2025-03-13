@@ -1,0 +1,368 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "당근 마켓 해봤어?",
+      "tokens": [
+        "당근",
+        "마켓",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 나 매니아임",
+      "tokens": [
+        "웅나매니아임"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "당근 직거래 두 번 해봤어 하하",
+      "tokens": [
+        "당근",
+        "직거래",
+        "두",
+        "번해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 당근에서 로봇 청소기 샀어",
+      "tokens": [
+        "나",
+        "당근",
+        "에서",
+        "로봇",
+        "청소기",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "한번 하니까 집에 있는 거 다 팔고싶다",
+      "tokens": [
+        "한",
+        "번",
+        "하",
+        "니까",
+        "집",
+        "에",
+        "있",
+        "는",
+        "거",
+        "다",
+        "팔",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "물건은 좋아?",
+      "tokens": [
+        "물건",
+        "은",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 집에 팔 거 좀 있어?",
+      "tokens": [
+        "키",
+        "키",
+        "집",
+        "에",
+        "팔",
+        "ETM",
+        "거",
+        "좀",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "괜찮은 거 같던데 일단 실물 보고 사자너",
+      "tokens": [
+        "괜찮",
+        "은",
+        "거",
+        "같",
+        "던데",
+        "일단",
+        "실물",
+        "보고",
+        "사자",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "필요없는 거 다 팔아버리구 싶던데",
+      "tokens": [
+        "필요",
+        "없",
+        "는",
+        "거",
+        "다",
+        "팔",
+        "아",
+        "버리",
+        "구",
+        "싶",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "내가 대신 팔어 줄게",
+      "tokens": [
+        "내",
+        "가",
+        "대신",
+        "팔",
+        "어",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "무릎보호대 좀 팔까...",
+      "tokens": [
+        "무릎보호대좀팔까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "팔아 줄랭?",
+      "tokens": [
+        "팔",
+        "아",
+        "줄",
+        "ETM",
+        "랭"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "내꺼 좀 사갈래?",
+      "tokens": [
+        "내",
+        "꺼",
+        "좀",
+        "사",
+        "EC",
+        "갈래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 당근 넘 재밌잖아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "당근",
+        "넘",
+        "재밌",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 재밌긴 하더라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "재밌",
+        "긴",
+        "JX",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "당근 재미지지 하하 님 당근?",
+      "tokens": [
+        "당근",
+        "재미",
+        "지지",
+        "하하",
+        "님",
+        "당근"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "니 뭐 팔건데 키키 오늘 산 거 그거 내일 판다고 할듯 키키",
+      "tokens": [
+        "니",
+        "뭐",
+        "팔",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC",
+        "키",
+        "키",
+        "오늘",
+        "산거",
+        "그거",
+        "내일",
+        "판다고",
+        "EC",
+        "할",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "뭐 팔아보지 진짜... 패딩 팔까",
+      "tokens": [
+        "뭐",
+        "팔",
+        "아",
+        "보",
+        "지",
+        "진짜",
+        ".",
+        "패딩",
+        "팔",
+        "까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 아이폰팔려구 살래?",
+      "tokens": [
+        "나",
+        "아이폰",
+        "팔",
+        "려구",
+        "살래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

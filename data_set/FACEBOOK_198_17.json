@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "2리터 마시고 화장실 자주 가면 탈수래",
+      "tokens": [
+        "2",
+        "리터마시고화장실자주가면탈수래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 화장실은 생각보다 자주 안 가",
+      "tokens": [
+        "키",
+        "키",
+        "화장실",
+        "은",
+        "생각",
+        "보다",
+        "자주",
+        "안",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 그게 머야...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그게",
+        "JKS",
+        "머",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "만성 탈수면 화장실을 자주 간다고 합니다",
+      "tokens": [
+        "만성",
+        "탈",
+        "수면",
+        "화장실",
+        "을",
+        "자주",
+        "간다고",
+        "EC",
+        "합니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아하?",
+      "tokens": [
+        "아하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그건 몰랐네",
+      "tokens": [
+        "그건",
+        "JX",
+        "몰랐",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "당뇨도 화장실 자주 가잖아",
+      "tokens": [
+        "당뇨",
+        "도",
+        "화장실",
+        "자주",
+        "가",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "만성 탈수 확인법이래!",
+      "tokens": [
+        "만성",
+        "탈수",
+        "확인",
+        "법",
+        "이",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "화장실 자주 가는 편은 아니라 다행",
+      "tokens": [
+        "화장실",
+        "자주",
+        "가",
+        "는",
+        "편",
+        "은",
+        "아니",
+        "라",
+        "다행"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "물도 많이 키고 ...",
+      "tokens": [
+        "물",
+        "도",
+        "많이",
+        "키",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 물 먹는 대로 화장실 가는 편인데",
+      "tokens": [
+        "나물",
+        "먹",
+        "는",
+        "대로",
+        "화장실",
+        "가",
+        "는",
+        "편",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "당뇨도 탈수 올 껄?",
+      "tokens": [
+        "당뇨도탈수올껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "당뇨도 화장실 자주 가는구나",
+      "tokens": [
+        "당뇨",
+        "도",
+        "화장실",
+        "자주",
+        "가",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "웅 피가 찐득하니까 갈증나나봐",
+      "tokens": [
+        "웅피",
+        "가",
+        "찐득",
+        "하",
+        "니까",
+        "갈증",
+        "나",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그럼 오빠는 만성 탈수임",
+      "tokens": [
+        "그럼",
+        "오빠",
+        "는",
+        "만성",
+        "탈",
+        "수임"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "기본적인 지식들은 알아놔야겠네",
+      "tokens": [
+        "기본",
+        "적",
+        "인",
+        "ETM",
+        "지식",
+        "들",
+        "은",
+        "알",
+        "아",
+        "놔야",
+        "EC",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "왜 나한테 구래...",
+      "tokens": [
+        "왜",
+        "나",
+        "한테",
+        "구래",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 건강하거든",
+      "tokens": [
+        "나",
+        "건강",
+        "하",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "만성 탈수는 항상 피곤하대",
+      "tokens": [
+        "만성",
+        "탈수",
+        "는",
+        "항상",
+        "피곤",
+        "하대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "건강을 챙겨야 합니다",
+      "tokens": [
+        "건강",
+        "을",
+        "챙겨야",
+        "EC",
+        "합니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "헉 그럼 나 만성탈수 맞다...",
+      "tokens": [
+        "헉",
+        "그럼",
+        "나만",
+        "성",
+        "탈",
+        "ETM",
+        "수",
+        "맞",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "전세 사기 당했다고?",
+      "tokens": [
+        "전세",
+        "사기",
+        "당했",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "전세 사기 누구!?",
+      "tokens": [
+        "전세",
+        "사기",
+        "누구",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 아까 그거 뭐야?",
+      "tokens": [
+        "맞아",
+        "아까",
+        "그거",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그 ** 언니 남친이 당한 거임?",
+      "tokens": [
+        "그",
+        "*",
+        "*",
+        "언니",
+        "남친",
+        "이",
+        "당한",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아아 사기까진 아니고 ㅠㅠ",
+      "tokens": [
+        "아아",
+        "사기",
+        "까진",
+        "JX",
+        "아니",
+        "고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐헐 증말 끔찍해",
+      "tokens": [
+        "헐헐",
+        "증말",
+        "끔찍",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아까 너가 그랬잖아 전세금 안 준다고",
+      "tokens": [
+        "아까",
+        "너",
+        "가",
+        "그랬잖아",
+        "EP",
+        "EC",
+        "VX",
+        "EC",
+        "전세금",
+        "안",
+        "준다고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "돈을 몇 개월 동안 안 돌려줬어 ㅠ",
+      "tokens": [
+        "돈",
+        "을",
+        "몇",
+        "개월",
+        "동안",
+        "안",
+        "돌려줬",
+        "EP",
+        "어ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아아 사기까지는 아니래 키키",
+      "tokens": [
+        "아아",
+        "사기",
+        "까지",
+        "는",
+        "아니",
+        "래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이야... 진짜 나쁜 사람들이랑",
+      "tokens": [
+        "이",
+        "야",
+        "EF",
+        ".",
+        "진짜",
+        "나쁜",
+        "ETM",
+        "사람",
+        "들",
+        "이랑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 이제는 받았어 !",
+      "tokens": [
+        "근데",
+        "이제",
+        "는",
+        "받",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐헐 그것도 근데 무서워",
+      "tokens": [
+        "헐헐",
+        "그것",
+        "도",
+        "근데",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그 몇 개월 동안 집 어떻게 구해?",
+      "tokens": [
+        "그",
+        "몇",
+        "개월",
+        "동안",
+        "집",
+        "어떻게",
+        "구해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "일부러 안 주는 거래 ;",
+      "tokens": [
+        "일부러",
+        "안",
+        "주",
+        "는",
+        "거래",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "다행이다 그나마 ㄷㄷ",
+      "tokens": [
+        "다행",
+        "이",
+        "다",
+        "그나마",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "보통 엄청 큰 돈이잖아",
+      "tokens": [
+        "보통",
+        "엄청",
+        "큰",
+        "ETM",
+        "돈",
+        "이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나쁜 놈 아니냐 정말 ;",
+      "tokens": [
+        "나쁜",
+        "ETM",
+        "놈",
+        "아니",
+        "냐",
+        "정말",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "헐 일부러 왜 안 줘?",
+      "tokens": [
+        "헐",
+        "일부러",
+        "왜",
+        "안",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

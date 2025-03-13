@@ -1,0 +1,331 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "만화방 놀러 가야지 하하",
+      "tokens": [
+        "만화방",
+        "놀",
+        "러",
+        "가",
+        "야",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "만화방 내도 갈래 키키",
+      "tokens": [
+        "만화",
+        "방내",
+        "도",
+        "갈래",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "만화방 내는 안 좋아함",
+      "tokens": [
+        "만화방",
+        "내",
+        "는",
+        "안",
+        "좋아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "만화방 가서 짜장면 먹어야쥐 하하",
+      "tokens": [
+        "만화방",
+        "가",
+        "서",
+        "짜장면",
+        "먹",
+        "어야",
+        "쥐",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "내 엄청 좋아함 만화방",
+      "tokens": [
+        "내",
+        "JKG",
+        "엄청",
+        "좋",
+        "아함",
+        "ETN",
+        "만화방"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 ** 좋아한다 같이 가라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "좋",
+        "아",
+        "한다",
+        "EC",
+        "같이",
+        "가",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엄청 편하더라 요즘?",
+      "tokens": [
+        "엄청",
+        "편하",
+        "더라",
+        "요즘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**는 절대 안 좋아하더라 ;",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "절대",
+        "안",
+        "좋아하",
+        "더라",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 만화방 왜 좋아함? ...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "만",
+        "화방",
+        "왜",
+        "좋",
+        "아함",
+        "ETN",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "황소는 완전 좋아할 듯",
+      "tokens": [
+        "황소",
+        "는",
+        "완전",
+        "좋아할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요즘 다 판다 거기 안에 키키",
+      "tokens": [
+        "요즘",
+        "다",
+        "판다",
+        "EC",
+        "거기",
+        "안",
+        "에",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "가면 지루하고 할 거 없는데",
+      "tokens": [
+        "가",
+        "면",
+        "지루",
+        "하",
+        "고",
+        "할",
+        "ETM",
+        "거",
+        "없",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기 웹툰도 많더라?",
+      "tokens": [
+        "거기",
+        "웹툰",
+        "도",
+        "많",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "완전 맛있는 거랑 만화책 졸랭 많고",
+      "tokens": [
+        "완전",
+        "맛있",
+        "는",
+        "거",
+        "랑",
+        "만화책",
+        "졸",
+        "ETM",
+        "랭",
+        "많",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "웹툰도 요즘 있다고? 키키",
+      "tokens": [
+        "웹툰",
+        "도",
+        "요즘",
+        "있",
+        "다고",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 웹툰 봐야지 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "웹툰",
+        "봐야",
+        "EC",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내가 젤 좋아하는 곳 중 하나",
+      "tokens": [
+        "내",
+        "가",
+        "젤",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "곳",
+        "중",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

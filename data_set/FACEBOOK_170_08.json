@@ -1,0 +1,360 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "코로나 때문에  연애도 쉽지 않은 듯",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "연애",
+        "도",
+        "쉽",
+        "지",
+        "않",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 제약이 많아 하하",
+      "tokens": [
+        "그니까",
+        "제약",
+        "이",
+        "많",
+        "아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 잘 사귀는 애들은 다 잘사겨용",
+      "tokens": [
+        "근데",
+        "잘",
+        "사귀",
+        "는",
+        "애",
+        "들",
+        "은",
+        "다",
+        "잘",
+        "사",
+        "겨",
+        "용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "뭔가 소개 받고 그런게 좀 그래",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "소개",
+        "받",
+        "고",
+        "그런",
+        "게",
+        "JKS",
+        "좀",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "할 수 있는게 한정적이라 ㅠ",
+      "tokens": [
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "한",
+        "정적",
+        "이",
+        "라ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞앙요 마스크 쓰고 소개팅 키키",
+      "tokens": [
+        "맞",
+        "앙",
+        "요",
+        "마스크",
+        "쓰",
+        "고",
+        "소개팅",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "소개팅 하기가 좀 힘들지 않아?",
+      "tokens": [
+        "소개팅",
+        "하",
+        "기",
+        "가",
+        "좀",
+        "힘들",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "과팅 이런 거도 안해봤지?",
+      "tokens": [
+        "과",
+        "팅",
+        "이런",
+        "거",
+        "도",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "과팅 안 해봤어용 ㅜㅜ",
+      "tokens": [
+        "과",
+        "팅",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어용",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니까... 과팅 안할듯 방역수칙;",
+      "tokens": [
+        "그니까",
+        ".",
+        "과팅안할듯방역수칙",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "단체 과팅 10대10 이런 거 하하",
+      "tokens": [
+        "단체",
+        "과",
+        "팅",
+        "10",
+        "대",
+        "10",
+        "이런",
+        "거",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "과팅 재밌을 것 같네용",
+      "tokens": [
+        "과",
+        "팅",
+        "재밌",
+        "을",
+        "것",
+        "같",
+        "네",
+        "용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "4인 모이고 그랬는데 키키",
+      "tokens": [
+        "4",
+        "인모",
+        "이",
+        "고",
+        "그랬",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 방역수칙 위반이네 ㅎ",
+      "tokens": [
+        "아",
+        "방역",
+        "수칙",
+        "위반",
+        "이",
+        "네",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "하하 그러게용 방역수칙 위반 ㅁ 키키",
+      "tokens": [
+        "하하",
+        "그러",
+        "게",
+        "용방",
+        "역",
+        "수칙",
+        "위반",
+        "ㅁ",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "4명이서 과팅이냐 그게 키키",
+      "tokens": [
+        "4",
+        "명이서과팅이냐그게키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 아쉽겠다 **는",
+      "tokens": [
+        "진짜",
+        "아쉽",
+        "겠",
+        "다",
+        "*",
+        "*",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 맞아요 ㅜㅜ 얼른 풀리길",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아요",
+        "ㅜㅜ",
+        "얼른",
+        "풀리",
+        "길",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

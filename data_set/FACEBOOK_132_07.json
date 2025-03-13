@@ -1,0 +1,377 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 아빠 진짜 웃기네 키키",
+      "tokens": [
+        "*",
+        "*",
+        "아빠진짜웃기네키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 아빠 도전 잘함",
+      "tokens": [
+        "우리",
+        "아빠",
+        "도",
+        "전",
+        "JX",
+        "잘",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 누나 가족 다 웃김",
+      "tokens": [
+        "키",
+        "키",
+        "누나",
+        "가족",
+        "다웃",
+        "김"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아빠는 도전도 안 했음?",
+      "tokens": [
+        "아빠",
+        "는",
+        "도전",
+        "도",
+        "안",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "도전만 잘하는 게 단점 키키",
+      "tokens": [
+        "도전",
+        "만",
+        "잘",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "단점",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 도전이라도 하는 게 어디예요",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "도",
+        "전이",
+        "라도",
+        "EC",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "어디",
+        "예요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "** 가족 중에 **가 젤 웃김",
+      "tokens": [
+        "*",
+        "*",
+        "가족",
+        "중",
+        "에",
+        "*",
+        "*",
+        "가젤웃김"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "도전하고 일주일 만에 포기 키키",
+      "tokens": [
+        "도전",
+        "하",
+        "고",
+        "일",
+        "주일",
+        "만",
+        "에",
+        "포기",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 ** 누나는 항상 웃김",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "누나는항상웃김"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 아버지 잘했을 꺼 같은데",
+      "tokens": [
+        "키",
+        "키",
+        "아버지",
+        "잘",
+        "했",
+        "EP",
+        "을",
+        "꺼",
+        "VCP",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "알고 보면 아빠가 젤 웃겨 키키",
+      "tokens": [
+        "알",
+        "고",
+        "보",
+        "면",
+        "아빠",
+        "가",
+        "젤",
+        "웃겨",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "누나 가족이면 재밌을 듯",
+      "tokens": [
+        "누나",
+        "가족",
+        "이",
+        "면",
+        "재밌",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "뭔가 엄청 호감형이구",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "엄청",
+        "호감",
+        "형",
+        "이",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "울 아빠 요즘 주식만 한다 주식 공부 맨",
+      "tokens": [
+        "울",
+        "아빠",
+        "요즘",
+        "주식",
+        "만",
+        "한다",
+        "EC",
+        "주식",
+        "공부",
+        "맨"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 공부 참 조아하시넨요 ㅠㅠ 아버님",
+      "tokens": [
+        "키",
+        "키",
+        "공부",
+        "참",
+        "조아",
+        "하",
+        "시",
+        "넨",
+        "JX",
+        "요",
+        "ㅠㅠ",
+        "아버님"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아버지 하면 잘하실 듯 키키",
+      "tokens": [
+        "아버지",
+        "하",
+        "면",
+        "잘",
+        "하",
+        "실",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "울 아빠 젤 좋아하는 말 : 잘생기셨어요 키키",
+      "tokens": [
+        "울",
+        "아빠",
+        "젤",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "말",
+        ":",
+        "잘",
+        "생기",
+        "셨",
+        "EP",
+        "어요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 담에 만나면 해드려야지",
+      "tokens": [
+        "키",
+        "키",
+        "담",
+        "에",
+        "만나",
+        "면",
+        "해드려야",
+        "EC",
+        "VX",
+        "EC",
+        "VX",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

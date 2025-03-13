@@ -1,0 +1,365 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 벅수 건강해야 하는디",
+      "tokens": [
+        "우리",
+        "벅수",
+        "건강",
+        "해야",
+        "EC",
+        "하",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "벅수는 건강한듯 에법 하하",
+      "tokens": [
+        "벅수",
+        "는",
+        "건강",
+        "한",
+        "ETM",
+        "듯",
+        "에",
+        "법하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞다 강아지들도 아프다던데 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "다",
+        "강아지",
+        "들",
+        "도",
+        "아프",
+        "다던데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "강아지 보험을 들어야 하나싶구...",
+      "tokens": [
+        "강아지",
+        "보험",
+        "을",
+        "들어야",
+        "EC",
+        "하",
+        "나",
+        "싶",
+        "구",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "ㅁ잠도 잘자고 잘묵고 하하",
+      "tokens": [
+        "ㅁ",
+        "잠",
+        "도",
+        "잘",
+        "자고",
+        "잘",
+        "묵",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "강아지 보험 생각보다 많이 들더라?",
+      "tokens": [
+        "강아지",
+        "보험",
+        "생각",
+        "보다",
+        "많이",
+        "들",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "강아지 아프면 병원비가 노답이거든...",
+      "tokens": [
+        "강아지",
+        "아프",
+        "면",
+        "병원",
+        "비가노",
+        "답",
+        "이",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "벅수는 건강해 하하",
+      "tokens": [
+        "벅수",
+        "는",
+        "건강",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "좋은 주인이 키워줘서 괜찮을듯 벅수는",
+      "tokens": [
+        "좋",
+        "은",
+        "주인",
+        "이",
+        "키워",
+        "EC",
+        "줘서",
+        "EC",
+        "괜찮",
+        "을",
+        "듯",
+        "벅수",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "강아지 보험 많이 든다데?",
+      "tokens": [
+        "강아지",
+        "보험",
+        "많이",
+        "든",
+        "다데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "걱정마 10년 넘게 더 살듯",
+      "tokens": [
+        "걱정",
+        "마",
+        "10",
+        "년",
+        "넘",
+        "게",
+        "더",
+        "살",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "돈이 많이든께 들어야 하는갑데?",
+      "tokens": [
+        "돈",
+        "이",
+        "많이",
+        "든",
+        "ETM",
+        "께",
+        "들어야",
+        "EC",
+        "하",
+        "는",
+        "갑",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아직은 건강한디 곧... 완전 노인 나이",
+      "tokens": [
+        "아직",
+        "은",
+        "건강",
+        "한디",
+        "EC",
+        "곧",
+        ".",
+        "완전",
+        "노인",
+        "나이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우리가 벅수 기록을 세워주자 노령",
+      "tokens": [
+        "우리",
+        "가",
+        "벅수",
+        "기록",
+        "을",
+        "세워",
+        "EC",
+        "주",
+        "자",
+        "노령"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래도 벅수는 오래 살끼다",
+      "tokens": [
+        "그래도",
+        "벅수",
+        "는",
+        "오래",
+        "살",
+        "ETM",
+        "끼",
+        "VCP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "지금 7세니까 꽤나 중년이여...!",
+      "tokens": [
+        "지금",
+        "7",
+        "세",
+        "니까",
+        "EC",
+        "꽤",
+        "나중",
+        "년",
+        "이여",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "최고 기네스기록을 세우는 거야",
+      "tokens": [
+        "최고",
+        "기네스",
+        "기록",
+        "을",
+        "세우",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래 세워버리자 벅수야!",
+      "tokens": [
+        "그래",
+        "EC",
+        "세워",
+        "EC",
+        "버리",
+        "자",
+        "벅수",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

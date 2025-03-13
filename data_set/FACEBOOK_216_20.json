@@ -1,0 +1,332 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 이제 키티 안 좋아함",
+      "tokens": [
+        "나",
+        "이제",
+        "키",
+        "티",
+        "안",
+        "좋아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "왜 키티 귀엽자나",
+      "tokens": [
+        "왜키티귀엽자나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜? 사람 맘이 쉽게 변해?",
+      "tokens": [
+        "왜",
+        "사람",
+        "맘",
+        "이",
+        "쉽",
+        "게",
+        "변해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키티 꼴도 보기 싫어",
+      "tokens": [
+        "키티",
+        "꼴",
+        "도",
+        "보",
+        "기",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키티 굿즈 은근 비싸더라",
+      "tokens": [
+        "키티",
+        "굿",
+        "즈",
+        "은",
+        "근",
+        "JX",
+        "비싸",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너 핑크방으로 꾸몄잖아",
+      "tokens": [
+        "너",
+        "핑크",
+        "방",
+        "으로",
+        "꾸몄",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키티는 입이 없잖아...",
+      "tokens": [
+        "키티",
+        "는",
+        "입",
+        "이",
+        "없",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그래서 정 떨어진 거 아니여?",
+      "tokens": [
+        "그래서",
+        "정",
+        "떨어진",
+        "ETM",
+        "거",
+        "아니",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키티 입이 없어?",
+      "tokens": [
+        "키티",
+        "입",
+        "이",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "왜 그런 줄 알아?",
+      "tokens": [
+        "왜",
+        "그런",
+        "줄",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아하 입이 없어서 그랬구나...",
+      "tokens": [
+        "아하",
+        "입",
+        "이",
+        "없",
+        "어서",
+        "그랬",
+        "EP",
+        "구나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키티가 잘몬 했네",
+      "tokens": [
+        "키티",
+        "가",
+        "잘",
+        "몬",
+        "했",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 한순간에 돌아섰네",
+      "tokens": [
+        "진짜",
+        "한",
+        "순간",
+        "에",
+        "돌아섰",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "왕따 당하는 애들 이야기 들어 주는  인형이야",
+      "tokens": [
+        "왕따",
+        "당하",
+        "는",
+        "애",
+        "들",
+        "이야기",
+        "들",
+        "어",
+        "주",
+        "는",
+        "인형",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 그럼 착한 자식인디",
+      "tokens": [
+        "아",
+        "그럼",
+        "착한",
+        "ETM",
+        "자식",
+        "인디",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키티 귀여운뎅... 키키",
+      "tokens": [
+        "키티귀여운뎅",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나 이제 왕따 안 당해서 ㅠ 키티 끊음",
+      "tokens": [
+        "나",
+        "이제",
+        "왕따",
+        "안",
+        "당해서",
+        "EC",
+        "ㅠ키",
+        "티",
+        "끊",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아항.... 벗어났구나... 축하햄",
+      "tokens": [
+        "아항",
+        ".",
+        ".",
+        "벗어났",
+        "EP",
+        "구나",
+        ".",
+        "축하",
+        "햄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

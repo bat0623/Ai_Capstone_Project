@@ -1,0 +1,336 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "엄마가 강아지 사진 보냄...",
+      "tokens": [
+        "엄마",
+        "가",
+        "강아지",
+        "사진",
+        "보냄",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오 벅토니 잘있니",
+      "tokens": [
+        "오",
+        "벅",
+        "토니",
+        "잘",
+        "있",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "벅수 사진이니 공유 좀!",
+      "tokens": [
+        "벅수",
+        "사진",
+        "이",
+        "니",
+        "공유",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "새로 산 쇼파를 차지했대",
+      "tokens": [
+        "새로",
+        "산",
+        "ETM",
+        "쇼파",
+        "를",
+        "차지",
+        "했",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아주 소식이 궁금하네",
+      "tokens": [
+        "아주",
+        "소식",
+        "이",
+        "궁금",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "벅수 기절한 척하면 막 흔들어 주고 했는데",
+      "tokens": [
+        "벅수",
+        "기절",
+        "한",
+        "ETM",
+        "척하",
+        "면",
+        "막",
+        "흔들",
+        "어",
+        "주",
+        "고",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "응 벅수 사진 엄청 보냄 키키",
+      "tokens": [
+        "응",
+        "벅수",
+        "사진",
+        "엄청",
+        "보냄",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "쇼파 구경 가야 되는데 하하",
+      "tokens": [
+        "쇼파",
+        "구경",
+        "가",
+        "야",
+        "되",
+        "는데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "정말 착하고 귀여운 강아지 ㅠ",
+      "tokens": [
+        "정말",
+        "착하",
+        "고",
+        "귀여운",
+        "ETM",
+        "강아지",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "벅수 엄청 잘 있네 다행",
+      "tokens": [
+        "벅수",
+        "엄청",
+        "잘",
+        "있",
+        "네",
+        "다행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아주 살 맛 났겟네",
+      "tokens": [
+        "아주",
+        "살맛",
+        "났",
+        "EP",
+        "겟",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "벅수 보고 싶다 정말",
+      "tokens": [
+        "벅수",
+        "보",
+        "고",
+        "싶",
+        "다",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 엉 벅수는 진짜 착해 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "엉",
+        "벅수",
+        "는",
+        "진짜",
+        "착해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "괴롭히는 나도 없고 키키",
+      "tokens": [
+        "괴롭히",
+        "는",
+        "나",
+        "도",
+        "없",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 강아지 키우고는 싶음",
+      "tokens": [
+        "나",
+        "도",
+        "강아지",
+        "키우",
+        "고는",
+        "싶",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "벅수 왜케 착하지... 멍청이",
+      "tokens": [
+        "벅수",
+        "왜",
+        "케",
+        "EC",
+        "착하",
+        "지",
+        ".",
+        "멍청이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "괴롭히고 싶군 개벅수",
+      "tokens": [
+        "괴롭히",
+        "고",
+        "싶",
+        "군",
+        "개",
+        "벅수"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 자신이 없음 ㅠㅠ",
+      "tokens": [
+        "근데",
+        "자신",
+        "이",
+        "없",
+        "음",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

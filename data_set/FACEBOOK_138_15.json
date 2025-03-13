@@ -1,0 +1,343 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이야 용암이 끝이 없이 나오더라?",
+      "tokens": [
+        "이야",
+        "용암",
+        "이",
+        "끝",
+        "이",
+        "없이",
+        "나오",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "관광객이 많다던데 거기 하하",
+      "tokens": [
+        "관광객",
+        "이",
+        "많",
+        "다던데",
+        "거기",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 첨 듣네",
+      "tokens": [
+        "난",
+        "JX",
+        "첨",
+        "듣",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그 어느 나라였지?",
+      "tokens": [
+        "그",
+        "어느",
+        "나라",
+        "였",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아주 몰려 온다더라 관광객이",
+      "tokens": [
+        "아주",
+        "몰려",
+        "EC",
+        "온다더라",
+        "EF",
+        "관광객",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "용암 끝이 없으면 어뜩해?",
+      "tokens": [
+        "용암",
+        "끝",
+        "이",
+        "없",
+        "으면",
+        "어뜩",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "스페인이었나 거기가?",
+      "tokens": [
+        "스페인",
+        "이",
+        "었",
+        "나",
+        "거기",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "스페인 라팔마섬이라고 하하 거기",
+      "tokens": [
+        "스페인",
+        "라팔마",
+        "섬",
+        "이",
+        "라고",
+        "하하",
+        "거기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "무서운 거 아니야 너무?",
+      "tokens": [
+        "무서운",
+        "ETM",
+        "거",
+        "아니",
+        "야",
+        "너무"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이야 용암이 무슨 48일째였나",
+      "tokens": [
+        "이야",
+        "용암",
+        "이",
+        "무슨",
+        "48",
+        "일",
+        "째",
+        "였",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "40일째 용암 분출 중 하하",
+      "tokens": [
+        "40",
+        "일",
+        "째",
+        "용암",
+        "분출",
+        "중",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "늘 조심해야겠어 용암",
+      "tokens": [
+        "늘",
+        "조심",
+        "해야겠어",
+        "EC",
+        "VX",
+        "EP",
+        "EF",
+        "용암"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 지금 구경 가야 해",
+      "tokens": [
+        "그거",
+        "지금",
+        "구경",
+        "가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "섬 하나 만들어질 듯 이러다",
+      "tokens": [
+        "섬",
+        "하나",
+        "만들",
+        "어",
+        "질",
+        "ETM",
+        "듯",
+        "이러",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "용암 너무 위험해 키키",
+      "tokens": [
+        "용암",
+        "너무",
+        "위험",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "용암 구경 많이 간대",
+      "tokens": [
+        "용암",
+        "구경",
+        "많이",
+        "간대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "하와이처럼 그런 거 하하",
+      "tokens": [
+        "하와이",
+        "처럼",
+        "그런",
+        "거",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "지금 구경 재밌을 것 같긴 해",
+      "tokens": [
+        "지금",
+        "구경",
+        "재밌",
+        "을",
+        "것",
+        "같",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

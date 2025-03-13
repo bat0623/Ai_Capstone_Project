@@ -1,0 +1,395 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 성적이 너무 안 좋아",
+      "tokens": [
+        "요즘",
+        "성적",
+        "이",
+        "너무",
+        "안",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 선생님 되기 힘들겠지?",
+      "tokens": [
+        "요즘",
+        "에",
+        "선생",
+        "님",
+        "되",
+        "기",
+        "힘들",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "공부를 안 해서 안 좋은 거 아닐까?",
+      "tokens": [
+        "공부",
+        "를",
+        "안",
+        "해서",
+        "EC",
+        "안",
+        "좋",
+        "은",
+        "거",
+        "아닐까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "공부를 열심히 해야겠어",
+      "tokens": [
+        "공부",
+        "를",
+        "열심히",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "따듯한 마음으로 가르치고 싶어",
+      "tokens": [
+        "따듯",
+        "한",
+        "ETM",
+        "마음",
+        "으로",
+        "가르치",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "가스라이팅 해서 미안해",
+      "tokens": [
+        "가스",
+        "라이팅",
+        "해서",
+        "EC",
+        "미안",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "공부를 열심히 하렴",
+      "tokens": [
+        "공부",
+        "를",
+        "열심히",
+        "하",
+        "렴"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "책도 매일 읽으려구 이젠",
+      "tokens": [
+        "책",
+        "도",
+        "매일",
+        "읽",
+        "으려구",
+        "이젠",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 같은 선생은 따로 없을 것 같아",
+      "tokens": [
+        "나",
+        "같",
+        "은",
+        "선생",
+        "은",
+        "따로",
+        "없",
+        "을",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 요즘 힐링책을 읽고 있어",
+      "tokens": [
+        "난",
+        "JX",
+        "요즘",
+        "힐링",
+        "책",
+        "을",
+        "읽",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "담임쌤 너무 싫어 요즘에",
+      "tokens": [
+        "담임",
+        "쌤",
+        "너무",
+        "싫",
+        "어",
+        "요즘",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오죽하면 내 별명이 봉디쌤이야",
+      "tokens": [
+        "오죽",
+        "하",
+        "면",
+        "내",
+        "JKG",
+        "별명",
+        "이",
+        "봉",
+        "디",
+        "쌤",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "선생님들이 그래도 체벌은 안 해서 좋아",
+      "tokens": [
+        "선생",
+        "님",
+        "들",
+        "이",
+        "그래도",
+        "EC",
+        "체벌",
+        "은",
+        "안",
+        "해서",
+        "EC",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "좋은 선생님 만나고 싶어",
+      "tokens": [
+        "좋",
+        "은",
+        "선생",
+        "님",
+        "만나",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 오타쿠라고 다들 나를 놀려",
+      "tokens": [
+        "근데",
+        "오타쿠",
+        "라고",
+        "EC",
+        "다",
+        "들",
+        "나",
+        "를",
+        "놀려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "무슨 짓을 했길래 오타쿠라고 놀림 받니?",
+      "tokens": [
+        "무슨",
+        "짓",
+        "을",
+        "했",
+        "EP",
+        "길래",
+        "오타쿠",
+        "라고",
+        "EC",
+        "놀림",
+        "ETN",
+        "받",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "체벌이 너무 심해 아직도",
+      "tokens": [
+        "체벌",
+        "이",
+        "너무",
+        "심해",
+        "EC",
+        "아직",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내가 정말 좋은 선생님이 될 수 있을 것 같아",
+      "tokens": [
+        "내",
+        "가",
+        "정말",
+        "좋",
+        "은",
+        "선생",
+        "님",
+        "이",
+        "될",
+        "ETM",
+        "수",
+        "있",
+        "을",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나도 옛날부터 오덕이라고 많이 놀림 받았어",
+      "tokens": [
+        "나",
+        "도",
+        "옛날",
+        "부터",
+        "오덕",
+        "이",
+        "라고",
+        "많이",
+        "놀림",
+        "받",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

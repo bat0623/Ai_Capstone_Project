@@ -1,0 +1,371 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "중국에서 수입이 안된대!",
+      "tokens": [
+        "중국",
+        "에서",
+        "수입",
+        "이",
+        "안",
+        "된대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 왜 중국에선 또",
+      "tokens": [
+        "그니까",
+        "왜",
+        "중국",
+        "에선",
+        "JX",
+        "또"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "중국에서 뭔 일이랴;",
+      "tokens": [
+        "중국",
+        "에서",
+        "뭔",
+        "일",
+        "이",
+        "랴",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "중국에서만 그걸 만든다네?",
+      "tokens": [
+        "중국",
+        "에서",
+        "만",
+        "그걸",
+        "JKO",
+        "만든",
+        "다네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "중국은 왤케 민폐야 진짜 ㅠㅠ",
+      "tokens": [
+        "중국",
+        "은",
+        "왤케",
+        "민폐",
+        "야",
+        "EF",
+        "진짜",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "후... 진짜... 민폐국가",
+      "tokens": [
+        "후",
+        ".",
+        ".",
+        "진짜",
+        ".",
+        "민폐",
+        "국가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리나라에서는 왜 못 만든담?",
+      "tokens": [
+        "우리",
+        "나라",
+        "에서",
+        "는",
+        "왜",
+        "못",
+        "만든",
+        "ETM",
+        "담"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리나라에서 못 만드는가 그건?",
+      "tokens": [
+        "우리",
+        "나라",
+        "에서",
+        "못",
+        "만드",
+        "는가",
+        "그건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "음... 그건 모르겠네",
+      "tokens": [
+        "음",
+        ".",
+        "그건",
+        "JX",
+        "모르",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "요소수가 100% 수입이래",
+      "tokens": [
+        "요",
+        "소수",
+        "가",
+        "100",
+        "%",
+        "수입",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "만들 수 있는데 단가가 비싸려나?",
+      "tokens": [
+        "만들",
+        "ETM",
+        "수",
+        "있",
+        "는데",
+        "단가",
+        "가",
+        "비싸",
+        "려나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아아 원재료가 없나 한국에",
+      "tokens": [
+        "아아",
+        "원재료",
+        "가",
+        "없",
+        "나",
+        "한국",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 그런 거야?",
+      "tokens": [
+        "왜",
+        "그런",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "요소수가 뭐야?",
+      "tokens": [
+        "요",
+        "소수",
+        "가",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 몰람",
+      "tokens": [
+        "나",
+        "도",
+        "몰",
+        "람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아무도 안 할라고 하는 거쥫ㅎ",
+      "tokens": [
+        "아무",
+        "도",
+        "안",
+        "할라고",
+        "EC",
+        "하",
+        "는",
+        "거",
+        "쥫ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 요소수는 몰라;",
+      "tokens": [
+        "나",
+        "도",
+        "요",
+        "소수",
+        "는",
+        "몰라",
+        "EC",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "상당히 아무튼 10배로 치솟았다 함...",
+      "tokens": [
+        "상당히",
+        "아무튼",
+        "10",
+        "배",
+        "로",
+        "치솟",
+        "았",
+        "다",
+        "함",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "얼른 빨리 해결하길 바랄 뿐",
+      "tokens": [
+        "얼른",
+        "빨리",
+        "해결",
+        "하",
+        "길",
+        "JKO",
+        "바랄",
+        "ETM",
+        "뿐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "10배면 엄청난데;",
+      "tokens": [
+        "10",
+        "배면",
+        "엄청난",
+        "ETM",
+        "데",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

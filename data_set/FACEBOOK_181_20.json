@@ -1,0 +1,384 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "짱구 극장판 자주 봤어?",
+      "tokens": [
+        "짱구",
+        "극장판",
+        "자주",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 짱구 극장판 완전 광팬이야 키키",
+      "tokens": [
+        "나",
+        "짱구",
+        "극장판",
+        "완전",
+        "광",
+        "팬",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "짱구 극장판은 안 봤어 ㅠㅠ",
+      "tokens": [
+        "짱구",
+        "극장판",
+        "은",
+        "안",
+        "봤",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아하 키키 재밌는 거 엄청 많더라~",
+      "tokens": [
+        "아하키키재밌는거엄청많더라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 나는 옛날 짱구가 재밌더라고~",
+      "tokens": [
+        "맞",
+        "아",
+        "나",
+        "는",
+        "옛날",
+        "짱구",
+        "가",
+        "재밌",
+        "더라고",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나도 그냥 짱구는 진짜 재밌는데 극장판은 또 다른가?",
+      "tokens": [
+        "나",
+        "도",
+        "그냥",
+        "짱구",
+        "는",
+        "진짜",
+        "재밌",
+        "는데",
+        "극장판",
+        "은",
+        "또",
+        "다른가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요즘엔 그림체가 너무 바뀐 것 같아",
+      "tokens": [
+        "요즘",
+        "엔",
+        "JX",
+        "그림",
+        "체가",
+        "너무",
+        "바뀐",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그렇긴 해... 그래서 난 별로더라고 ㅠㅠ",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "해",
+        "EF",
+        ".",
+        "그래서난별로더라고ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "목소리도 그대로 나오는 거야? 변하지 않았어?",
+      "tokens": [
+        "목소리",
+        "도",
+        "그대로",
+        "나오",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "변하",
+        "지",
+        "않",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "극장판도 옛날 짱구 봐봐 완전 웃겨",
+      "tokens": [
+        "극장판",
+        "도",
+        "옛날",
+        "짱구",
+        "봐",
+        "EC",
+        "봐",
+        "EF",
+        "완전",
+        "웃겨",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "짱구 아빠 성우 바뀐 것 같아",
+      "tokens": [
+        "짱구",
+        "아빠",
+        "성우",
+        "바뀐",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "별세하셨다고 하던데 ㅠㅠ",
+      "tokens": [
+        "별세",
+        "하",
+        "셨",
+        "EP",
+        "다고",
+        "하",
+        "던데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 새로운 성우야",
+      "tokens": [
+        "그래서",
+        "새로운",
+        "ETM",
+        "성",
+        "우야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 그래서 그렇구나 본 거 같아 별세하셨다는 내용",
+      "tokens": [
+        "아",
+        "그래서",
+        "그렇",
+        "구나",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "별세",
+        "하",
+        "셨",
+        "EP",
+        "다는",
+        "내용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 어쩐지 다르더라고 ㅠㅠ 아쉽다",
+      "tokens": [
+        "아",
+        "어쩐지",
+        "다르",
+        "더라고",
+        "ㅠㅠ",
+        "아쉽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래도 짱구는 여전히 귀엽고 재밌더라!~",
+      "tokens": [
+        "그래도",
+        "짱구",
+        "는",
+        "여전히",
+        "귀엽",
+        "고",
+        "재밌",
+        "더라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "언제 봐도 재밌는 짱구 키키 귀여워",
+      "tokens": [
+        "언제",
+        "봐도",
+        "EC",
+        "재밌",
+        "는",
+        "짱구",
+        "키",
+        "키",
+        "ETN",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 키키  나도 가끔 생각나서 찾아봐~",
+      "tokens": [
+        "맞아키키나도가끔생각나서찾아봐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그런 김에 지금 유튜브 가서 보고 와야겠다",
+      "tokens": [
+        "그런",
+        "김",
+        "에",
+        "지금",
+        "유튜브",
+        "가",
+        "서",
+        "보",
+        "고",
+        "와야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

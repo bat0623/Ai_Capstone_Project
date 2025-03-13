@@ -1,0 +1,441 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "얌 ** 그거 봤냐고 미국에서 할아버지 시신 기증 했거든?",
+      "tokens": [
+        "얌",
+        "*",
+        "*",
+        "그거",
+        "봤",
+        "EP",
+        "냐고",
+        "미국",
+        "에서",
+        "할아버지",
+        "시신",
+        "기증",
+        "했",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어어 왜 근데?",
+      "tokens": [
+        "어",
+        "어",
+        "왜",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 너무 슬프더라... 내용이",
+      "tokens": [
+        "나",
+        "너무",
+        "슬프",
+        "더라",
+        ".",
+        "내용",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 어떤 호텔에서 인체 해부쇼를 했대...",
+      "tokens": [
+        "근데",
+        "어떤",
+        "호텔",
+        "에서",
+        "인체",
+        "해부",
+        "쇼",
+        "를",
+        "했",
+        "EP",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "뭐라고?",
+      "tokens": [
+        "뭐",
+        "라고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그게 가능한 것?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "가능",
+        "한",
+        "ETM",
+        "것"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "너무 비윤리적이드라",
+      "tokens": [
+        "너무",
+        "비",
+        "윤리",
+        "적",
+        "이",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "할아버지 시체로 가족들도 몰랐대",
+      "tokens": [
+        "할아버지",
+        "시체",
+        "로",
+        "가족",
+        "들",
+        "도",
+        "몰랐",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "지금 너무 충격 먹음 미친",
+      "tokens": [
+        "지금",
+        "너무",
+        "충격",
+        "먹",
+        "음",
+        "미친",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거 해서 돈 벌 생각했다는 거 자체도...",
+      "tokens": [
+        "그거",
+        "해서",
+        "EC",
+        "돈",
+        "벌",
+        "생각",
+        "했",
+        "EP",
+        "다는",
+        "거",
+        "자체",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "입장료가 60만 원이었음",
+      "tokens": [
+        "입장료",
+        "가",
+        "60",
+        "만",
+        "원",
+        "이",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 그게 뭐야 미친 거 같아",
+      "tokens": [
+        "헐",
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF",
+        "미친",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그니까 사람의 탈을 쓴 짐승이여",
+      "tokens": [
+        "그니까",
+        "사람",
+        "의",
+        "탈",
+        "을",
+        "쓴",
+        "ETM",
+        "짐승",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나와서 장갑 끼고 만져보고 그랬대",
+      "tokens": [
+        "나와서",
+        "EC",
+        "장갑",
+        "끼",
+        "고",
+        "만져",
+        "EC",
+        "보",
+        "고",
+        "그랬",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "쇼라고? 시체를 해체하는 게?",
+      "tokens": [
+        "쇼",
+        "라고",
+        "EC",
+        "?",
+        "시체",
+        "를",
+        "해",
+        "EC",
+        "체하",
+        "는",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아니 쇼를 할 게 있고 안 할 게 있지",
+      "tokens": [
+        "아니",
+        "쇼",
+        "를",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "있",
+        "고",
+        "안",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그것도 해부학 교수가 와서 했다 함",
+      "tokens": [
+        "그것",
+        "도",
+        "해부학",
+        "교수",
+        "가",
+        "와서",
+        "EC",
+        "했",
+        "EP",
+        "다",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "엉! 쇼를 했다고",
+      "tokens": [
+        "엉",
+        "쇼",
+        "를",
+        "했",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "헐 가족들 동의는 구하고 한 거?",
+      "tokens": [
+        "헐",
+        "가족",
+        "들",
+        "동의",
+        "는",
+        "구하",
+        "고",
+        "한",
+        "ETM",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "미쳤네",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "너무 충격적이지 않아?",
+      "tokens": [
+        "너무",
+        "충격",
+        "적",
+        "이",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "동의도 안 얻음",
+      "tokens": [
+        "동의",
+        "도",
+        "안",
+        "얻",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

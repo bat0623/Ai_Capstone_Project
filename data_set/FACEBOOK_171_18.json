@@ -1,0 +1,399 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "인쇼 자주 하심?",
+      "tokens": [
+        "인",
+        "쇼",
+        "자주",
+        "하",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "인쇼 난 항상하지 하하",
+      "tokens": [
+        "인",
+        "쇼",
+        "난",
+        "JX",
+        "항상",
+        "하지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "인쇼 난 엊그제 매생 사료!",
+      "tokens": [
+        "인",
+        "쇼난",
+        "엊그제",
+        "매생",
+        "사료"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 인쇼 중독이야",
+      "tokens": [
+        "난인",
+        "쇼",
+        "중독",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "세차용품 사야 되는데 나 하하",
+      "tokens": [
+        "세차",
+        "용품",
+        "사야",
+        "되",
+        "는",
+        "데",
+        "나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 중독 수준까지?",
+      "tokens": [
+        "키",
+        "키",
+        "중독",
+        "수준",
+        "까지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뭐 샀음",
+      "tokens": [
+        "뭐",
+        "샀",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 매생이 사료 나도 벅수 사료!",
+      "tokens": [
+        "오매",
+        "생",
+        "이",
+        "사료",
+        "나",
+        "도",
+        "벅수",
+        "사료"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 자동차에 관련된걸 많이해 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "자동차",
+        "에",
+        "관련",
+        "된",
+        "ETM",
+        "걸",
+        "JKO",
+        "많이",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "세차용품도 사다 사다 보면 장난 아닌 거 같더라",
+      "tokens": [
+        "세차",
+        "용품",
+        "도",
+        "사",
+        "다",
+        "사",
+        "다",
+        "보",
+        "면",
+        "장난",
+        "아닌",
+        "ETM",
+        "거",
+        "같",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "난 벅수 겨울옷 장만!",
+      "tokens": [
+        "난",
+        "JX",
+        "벅수",
+        "겨울",
+        "옷장",
+        "만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 철분 제거제를 구입할 생각이야 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "철분제",
+        "거제",
+        "를",
+        "구입",
+        "할",
+        "ETM",
+        "생각",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "금방 바꿔야 하지?",
+      "tokens": [
+        "금방",
+        "바꿔야",
+        "EC",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "들기도 많이 들고?",
+      "tokens": [
+        "들",
+        "기",
+        "도",
+        "많이",
+        "들",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "세차 용품 장난 아니더라... 뭐 별걸 다삼...",
+      "tokens": [
+        "세차",
+        "용품",
+        "장난",
+        "아니",
+        "더라",
+        ".",
+        "뭐",
+        "별",
+        "걸",
+        "JKO",
+        "다",
+        "삼",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "인쇼가 아주 저렴하고 좋아",
+      "tokens": [
+        "인",
+        "쇼",
+        "가",
+        "아주",
+        "저렴",
+        "하",
+        "고",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 근데 별게 다 필요해서 사는 거긴 하더라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "별",
+        "게",
+        "JKS",
+        "다",
+        "필요",
+        "해서",
+        "EC",
+        "사",
+        "는",
+        "거",
+        "긴",
+        "ETN",
+        "JX",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그렇게까지 세차 해야 하나...",
+      "tokens": [
+        "그렇게",
+        "까지",
+        "세차",
+        "해야",
+        "EC",
+        "하나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "비오고 나면 세차하러 가야딩",
+      "tokens": [
+        "비오",
+        "고",
+        "나",
+        "면",
+        "세차",
+        "하",
+        "러",
+        "가",
+        "야",
+        "딩"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "세차 재밌더라 키키  나중에 델꼬 가줘",
+      "tokens": [
+        "세차",
+        "EC",
+        "재밌",
+        "더라",
+        "키",
+        "키",
+        "나중",
+        "에",
+        "델",
+        "꼬",
+        "가",
+        "줘",
+        "VV",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

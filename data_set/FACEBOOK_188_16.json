@@ -1,0 +1,421 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 내일 파마 하러 갈 꺼야",
+      "tokens": [
+        "난",
+        "JX",
+        "내일",
+        "파마",
+        "하",
+        "러",
+        "갈",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "파마 좋지 무슨 파마 할 거야",
+      "tokens": [
+        "파마",
+        "좋",
+        "지",
+        "무슨",
+        "파마",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 요새 잘생겨지고 있어 머리 해서",
+      "tokens": [
+        "나",
+        "는",
+        "요새",
+        "잘",
+        "생겨",
+        "EC",
+        "지",
+        "고",
+        "있",
+        "어",
+        "머리",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "파마 안 한지 너무 오래됐어 키키",
+      "tokens": [
+        "파마",
+        "안",
+        "한지",
+        "EC",
+        "너무",
+        "오래",
+        "됐",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 염색 해볼까 생각 중이야",
+      "tokens": [
+        "나",
+        "는",
+        "염색",
+        "해",
+        "EC",
+        "볼까",
+        "EC",
+        "생각",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "파마 하면 머리 빠져 조심해야 돼",
+      "tokens": [
+        "파마",
+        "하",
+        "면",
+        "머리",
+        "빠져",
+        "EC",
+        "조심",
+        "해야",
+        "EC",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "애쉬 파마 할 거야 난 키키",
+      "tokens": [
+        "애쉬",
+        "파마",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "난키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "염색 추천 좀 해줘!",
+      "tokens": [
+        "염색",
+        "추천",
+        "좀",
+        "해",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "염색도 그렇게 되더라 다들 조심해",
+      "tokens": [
+        "염색",
+        "도",
+        "그렇게",
+        "되",
+        "더라",
+        "다",
+        "들",
+        "조심",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "염색은 난 노랑색 할 거야 키키",
+      "tokens": [
+        "염색",
+        "은",
+        "난",
+        "JX",
+        "노랑",
+        "색",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "애쉬 파마 좋지 키키",
+      "tokens": [
+        "애쉬파마좋지키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "잘 어울릴 거 같아",
+      "tokens": [
+        "잘",
+        "어울릴",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "염색은 검은색이 진리지 ! 추천함",
+      "tokens": [
+        "염색",
+        "은",
+        "검은색",
+        "이",
+        "진리",
+        "지",
+        "EF",
+        "추천",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "회색은 어때?",
+      "tokens": [
+        "회색",
+        "은",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "요즘 트렌드야 키키",
+      "tokens": [
+        "요즘",
+        "트렌드",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 회색 할 생각이야 오오",
+      "tokens": [
+        "나",
+        "는",
+        "회색",
+        "할",
+        "ETM",
+        "생각",
+        "이",
+        "야",
+        "오",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "애쉬 파마 하면 꼭 보여줘 나도 할게",
+      "tokens": [
+        "애쉬",
+        "파마",
+        "하",
+        "면",
+        "꼭",
+        "보여",
+        "EC",
+        "줘",
+        "EF",
+        "나",
+        "도",
+        "할",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "애쉬 파마 먼저 해볼게 응 키키",
+      "tokens": [
+        "애쉬",
+        "파마",
+        "먼저",
+        "해",
+        "EC",
+        "볼",
+        "ETM",
+        "게",
+        "JKS",
+        "응",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "검은색으로 염색은 돈 아까워",
+      "tokens": [
+        "검은색",
+        "으로",
+        "염색",
+        "은",
+        "돈",
+        "아까워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "애쉬보다 레드는 어때 나는 그거 해보고 싶어",
+      "tokens": [
+        "애",
+        "쉬",
+        "보다",
+        "레드",
+        "는",
+        "어때",
+        "EC",
+        "나",
+        "는",
+        "그거",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

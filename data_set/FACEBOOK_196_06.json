@@ -1,0 +1,429 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아니 나 시험 공부도 해야 하는데",
+      "tokens": [
+        "아니",
+        "나",
+        "시험",
+        "공부",
+        "도",
+        "해야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "시험 공부 ㅠㅠ",
+      "tokens": [
+        "시험공부ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "시험 언제랬지?",
+      "tokens": [
+        "시험",
+        "언제",
+        "랬",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "ㅜㅜ 요새 알바가 메인이구나",
+      "tokens": [
+        "ㅜㅜ",
+        "요새",
+        "알",
+        "ETM",
+        "바",
+        "가",
+        "메인",
+        "이",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "돈의 맛을 포기할 수 없군...",
+      "tokens": [
+        "돈",
+        "의",
+        "맛",
+        "을",
+        "포기",
+        "할",
+        "ETM",
+        "수",
+        "없",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "공부하랴 타자치랴",
+      "tokens": [
+        "공부",
+        "하",
+        "랴",
+        "타",
+        "자",
+        "치",
+        "랴"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어쩌냐 ㅠㅠ",
+      "tokens": [
+        "어쩌냐ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 그래보인다 ...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "EC",
+        "보인다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "시험 얼마나 남았어",
+      "tokens": [
+        "시험",
+        "얼마나",
+        "남",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "시험 3월이얌",
+      "tokens": [
+        "시험",
+        "3",
+        "월",
+        "이얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "다 돼간다구...",
+      "tokens": [
+        "다",
+        "돼",
+        "EC",
+        "간다구",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아놔",
+      "tokens": [
+        "아",
+        "놔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 코앞이다 ㅠㅠ",
+      "tokens": [
+        "진짜코앞이다ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우 ... 진짜 얼마 안 남았네 ...",
+      "tokens": [
+        "우",
+        ".",
+        "진짜",
+        "얼마",
+        "안",
+        "남",
+        "았",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "곧 카운트다운",
+      "tokens": [
+        "곧",
+        "카운트다운"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "시험장에 응원 와줘...",
+      "tokens": [
+        "시험장",
+        "에",
+        "응원",
+        "와",
+        "줘",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "속기사 시험 어렵지 ㅠㅠ",
+      "tokens": [
+        "속기사",
+        "시험",
+        "어렵",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "알았어 ...",
+      "tokens": [
+        "알",
+        "았",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나팔 들고 가서 뿌뿌빠빠 불어주께",
+      "tokens": [
+        "나팔",
+        "들",
+        "고",
+        "가",
+        "서",
+        "뿌뿌",
+        "빠빠",
+        "불",
+        "어",
+        "주",
+        "께"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "북 들고 커피 들고",
+      "tokens": [
+        "북",
+        "들",
+        "고",
+        "커피",
+        "들",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "타자 얼마나 빠를까 다들 ... ㄷㄷ",
+      "tokens": [
+        "타자",
+        "얼마나",
+        "빠를까",
+        "EC",
+        "다",
+        "들",
+        ".",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "속기사 시험은 뭐치는겨?",
+      "tokens": [
+        "속기사",
+        "시험",
+        "은",
+        "뭐",
+        "치",
+        "는겨"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "속기사 시험 어렵대?",
+      "tokens": [
+        "속기사",
+        "시험",
+        "어렵",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "소리 때문에 더 긴장 될 듯",
+      "tokens": [
+        "소리",
+        "때문",
+        "에",
+        "더",
+        "긴장",
+        "될",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "타자 빠른 거 보는 건가?",
+      "tokens": [
+        "타자",
+        "빠른",
+        "ETM",
+        "거",
+        "보",
+        "는",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

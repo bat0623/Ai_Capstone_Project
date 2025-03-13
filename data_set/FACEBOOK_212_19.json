@@ -1,0 +1,360 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "유튜브 자주 봐?",
+      "tokens": [
+        "유튜브",
+        "자주",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 완전 자주 봄 키키",
+      "tokens": [
+        "나",
+        "는",
+        "완전",
+        "자주",
+        "봄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 매일 보지",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "보",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 주로 실용적인 거",
+      "tokens": [
+        "근데",
+        "주로",
+        "실용",
+        "적",
+        "인",
+        "ETM",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 유튜브에서 거의 룩북 많이  봄",
+      "tokens": [
+        "난",
+        "JX",
+        "유튜브",
+        "에서",
+        "거의",
+        "룩",
+        "북",
+        "많이",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나느 그거 돈 내고 본다고 키키",
+      "tokens": [
+        "나",
+        "느",
+        "그거",
+        "돈",
+        "내",
+        "고",
+        "본다고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뭐 배우기가 쉽더라고 진짜",
+      "tokens": [
+        "뭐",
+        "배우",
+        "기",
+        "가",
+        "쉽",
+        "더라고",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어떤 거 주로 시청하니?",
+      "tokens": [
+        "어떤",
+        "거",
+        "주로",
+        "시청",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "프리미어 회원이야 키키",
+      "tokens": [
+        "프리미어",
+        "회원",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 프리미엄 회원 ㅎ",
+      "tokens": [
+        "나",
+        "도",
+        "프리미엄",
+        "회원",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "프리미엄 끊었다고? 대단 키키",
+      "tokens": [
+        "프리미엄",
+        "끊",
+        "었",
+        "다고",
+        "대단",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "잡다하게 다 보는 듯?",
+      "tokens": [
+        "잡다",
+        "하",
+        "게",
+        "다",
+        "보",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "야 그거 필수 아니냐",
+      "tokens": [
+        "야",
+        "그거",
+        "필수",
+        "아니",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니 지금 왓챠 자동 결제돼서 생각하면 짱난다",
+      "tokens": [
+        "아니",
+        "지금",
+        "왓",
+        "EP",
+        "챠",
+        "자동",
+        "결제",
+        "돼서",
+        "EC",
+        "생각",
+        "하",
+        "면",
+        "짱",
+        "난다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "브리로그 많이 보고 노래도 많이 들음 키키",
+      "tokens": [
+        "브리",
+        "로",
+        "그",
+        "많이",
+        "보",
+        "고",
+        "노래",
+        "도",
+        "많이",
+        "들",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 그걸로 공부하기 때문에 필수임",
+      "tokens": [
+        "난",
+        "JX",
+        "그걸로",
+        "JKB",
+        "공부",
+        "하",
+        "기",
+        "때문",
+        "에",
+        "필수",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "자동 결제 끊는 거 까먹음 하...",
+      "tokens": [
+        "자동결제끊는거까먹음하",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 그걸로 공부도해?",
+      "tokens": [
+        "아",
+        "그걸로",
+        "JKB",
+        "공부",
+        "도",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "자동 결제는 미리미리 끊어야 됨",
+      "tokens": [
+        "자동",
+        "결제",
+        "는",
+        "미리미리",
+        "끊",
+        "어야",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

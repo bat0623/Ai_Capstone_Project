@@ -1,0 +1,444 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "* 눈썹 문신 하러 간다더니...",
+      "tokens": [
+        "*",
+        "눈썹",
+        "문신",
+        "하",
+        "러",
+        "간다더니",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어제 하고 왔찌요",
+      "tokens": [
+        "어제",
+        "하",
+        "고",
+        "왔",
+        "EP",
+        "찌요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "눈썹 문신 해써?",
+      "tokens": [
+        "눈썹",
+        "문신",
+        "해",
+        "EC",
+        "써",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "안 아파?",
+      "tokens": [
+        "안",
+        "아파",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "후기 좀",
+      "tokens": [
+        "후기",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래서 어찌 되심 키키",
+      "tokens": [
+        "그래서",
+        "어찌",
+        "되",
+        "심",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요즘은 남자도 많이 하지 않나요?",
+      "tokens": [
+        "요즘",
+        "은",
+        "남자",
+        "도",
+        "많이",
+        "하",
+        "지",
+        "않",
+        "나요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "자연스럽게 잘해주나?",
+      "tokens": [
+        "자연",
+        "스럽",
+        "게",
+        "잘",
+        "해",
+        "EC",
+        "주",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "지금 완전 짱구 상태가?",
+      "tokens": [
+        "지금",
+        "완전",
+        "짱구",
+        "상태",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "저는 좀 그런 고통 잘 참아요 키키",
+      "tokens": [
+        "저",
+        "는",
+        "좀",
+        "그런",
+        "고통",
+        "잘",
+        "참아",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 짱구 눈썹 될까봐...",
+      "tokens": [
+        "나",
+        "짱구",
+        "눈썹",
+        "될까",
+        "EC",
+        "봐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "부끄럽자나... 짱구 되면",
+      "tokens": [
+        "부끄럽",
+        "자",
+        "나",
+        "EF",
+        ".",
+        "짱구",
+        "되",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "고통을 즐기는 스타일?",
+      "tokens": [
+        "고통",
+        "을",
+        "즐기",
+        "는",
+        "스타일"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "조금 짱구?",
+      "tokens": [
+        "조금",
+        "짱구"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "요즘은 해도 짱구만큼 안되드라 하하",
+      "tokens": [
+        "요즘",
+        "은",
+        "해도",
+        "EC",
+        "짱구",
+        "만큼",
+        "안",
+        "되",
+        "드라",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 아픈 거도 짱 싫어하거든...",
+      "tokens": [
+        "나",
+        "아픈",
+        "ETM",
+        "거",
+        "도",
+        "짱",
+        "싫",
+        "어",
+        "하",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "누가 꼬집거 이런 거 극혐함",
+      "tokens": [
+        "누가",
+        "JKS",
+        "꼬집",
+        "거",
+        "이런",
+        "거",
+        "극혐",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 고통 못 참는데...",
+      "tokens": [
+        "난",
+        "JX",
+        "고통",
+        "못",
+        "참",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어우 즐기지는 않지만 꾹 참았어 키키 ㅠㅠ",
+      "tokens": [
+        "어우",
+        "즐",
+        "기지",
+        "는",
+        "않",
+        "지만",
+        "꾹",
+        "참",
+        "았",
+        "어",
+        "키",
+        "키",
+        "ETN",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "친구들 보니까... 뭐 진짜 짱구 같드라고",
+      "tokens": [
+        "친구",
+        "들",
+        "보",
+        "니까",
+        ".",
+        ".",
+        "뭐",
+        "진짜",
+        "짱구",
+        "같",
+        "드라고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아픈 게 젤 싫어",
+      "tokens": [
+        "아픈",
+        "ETM",
+        "게",
+        "JKS",
+        "젤",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나 보고 잘 참는데 엄청...",
+      "tokens": [
+        "나",
+        "보고",
+        "잘",
+        "참",
+        "는데",
+        "엄청",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "마쟈",
+      "tokens": [
+        "마",
+        "쟈"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "나 화 잘 안 내는데 아프면 개썽냄",
+      "tokens": [
+        "나화",
+        "잘",
+        "안",
+        "내",
+        "는",
+        "데",
+        "아프",
+        "면",
+        "개썽",
+        "냄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

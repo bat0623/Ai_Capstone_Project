@@ -1,0 +1,413 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 속눈썹 펌 할 생각 없어?",
+      "tokens": [
+        "언니",
+        "는",
+        "속눈썹",
+        "펌",
+        "할",
+        "ETM",
+        "생각",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 속눈썹 연장만 해",
+      "tokens": [
+        "나",
+        "는",
+        "속눈썹",
+        "연장",
+        "만",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 펌이랑 연장이랑 무슨 차이야?",
+      "tokens": [
+        "근데",
+        "펌",
+        "이랑",
+        "연장",
+        "이랑",
+        "무슨",
+        "차이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "펌은 파마고 연장은 연장이지 키키",
+      "tokens": [
+        "펌",
+        "은",
+        "파마",
+        "고",
+        "EC",
+        "연장",
+        "은",
+        "연장",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 연장은 진짜 화장 진하게 하는 사람들이 하는 거지?",
+      "tokens": [
+        "근데",
+        "연장",
+        "은",
+        "진짜",
+        "화",
+        "장진",
+        "하",
+        "게",
+        "하",
+        "는",
+        "사람",
+        "들",
+        "이",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그건 아냐",
+      "tokens": [
+        "그건",
+        "JX",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 조금만 해서 별로 티 안나 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "조금",
+        "만",
+        "해서",
+        "EC",
+        "별로",
+        "티안",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 속눈썹이 긴데 펌만 해도 될까?",
+      "tokens": [
+        "나",
+        "는",
+        "속눈썹",
+        "이",
+        "긴데",
+        "VCP",
+        "EC",
+        "펌",
+        "만",
+        "해도",
+        "EC",
+        "될까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그럼 펌 해야지",
+      "tokens": [
+        "그럼",
+        "펌",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "펌 하면 이쁘겠다",
+      "tokens": [
+        "펌",
+        "하",
+        "면",
+        "이쁘",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "펌 가격이 평균적으로 얼마나 할까?",
+      "tokens": [
+        "펌",
+        "가격",
+        "이",
+        "평균",
+        "적",
+        "으로",
+        "얼마나",
+        "할까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 친구가 해서 가격 잘 모르겠어 ㅜㅜ",
+      "tokens": [
+        "난",
+        "JX",
+        "친구",
+        "가",
+        "해서",
+        "EC",
+        "가격",
+        "잘",
+        "모르",
+        "겠",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "와 언니 미용계쪽으로 아는 사람이 널리고 널렸구나!?",
+      "tokens": [
+        "와언니미용계쪽으로아는사람이널리고널렸구나",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래서 꽁짜로 많이 하지",
+      "tokens": [
+        "그래서",
+        "꽁짜",
+        "로",
+        "많이",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "부럽다 ㅜㅜ",
+      "tokens": [
+        "부럽다ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 한 3만 원 보고 있는데!",
+      "tokens": [
+        "나",
+        "는",
+        "한",
+        "3",
+        "만",
+        "원",
+        "보",
+        "고",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 삼만원에서 사만원이면 할껄",
+      "tokens": [
+        "맞",
+        "아",
+        "삼",
+        "만",
+        "원",
+        "에서",
+        "사만",
+        "원",
+        "이",
+        "면",
+        "할껄",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "흠, 우리집 바로 앞에 하는데 여기로 가면 되겠지?",
+      "tokens": [
+        "흠",
+        ",",
+        "우리",
+        "집",
+        "바로",
+        "앞",
+        "에",
+        "하",
+        "는데",
+        "여기",
+        "로",
+        "가",
+        "면",
+        "되",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "웅 한번 예약 문의 해봐봐",
+      "tokens": [
+        "웅",
+        "한",
+        "번",
+        "예약",
+        "문의",
+        "해",
+        "EC",
+        "봐",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

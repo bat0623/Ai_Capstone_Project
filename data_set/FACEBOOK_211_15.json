@@ -1,0 +1,379 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다른 나라 소식 좀 들으신 분?",
+      "tokens": [
+        "다른",
+        "나라",
+        "소식",
+        "좀",
+        "들으신",
+        "EP",
+        "ETM",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아기 백신 허용으로 말 많던데...",
+      "tokens": [
+        "아기",
+        "백신",
+        "허용",
+        "으로",
+        "말",
+        "많",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 국내 뉴스도 아직 못 바뚬...",
+      "tokens": [
+        "키키국내뉴스도아직못바뚬",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아... 아기 백신 허용 봤어",
+      "tokens": [
+        "아",
+        ".",
+        "아기",
+        "백신",
+        "허용",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "미국은 허용이래...",
+      "tokens": [
+        "미국",
+        "은",
+        "허용",
+        "이",
+        "래",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 울 아기 안 맞힐 듯 ㅠㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "울",
+        "아기",
+        "안",
+        "맞힐",
+        "ETM",
+        "듯",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아직 안정성 확인도 제대로 안 된 걸...",
+      "tokens": [
+        "아직",
+        "안정",
+        "성",
+        "확인",
+        "도",
+        "제대로",
+        "안",
+        "된",
+        "ETM",
+        "걸",
+        "JKO",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "미국은 5-11세 권고하더만",
+      "tokens": [
+        "미국",
+        "은",
+        "5",
+        "-",
+        "11",
+        "세",
+        "권고",
+        "하",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그러니까 화이자... 무서워",
+      "tokens": [
+        "그러니까",
+        "화이자",
+        ".",
+        ".",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 우리 아기한테는 절대 안 맞힐 듯...",
+      "tokens": [
+        "나",
+        "는",
+        "우리",
+        "아기",
+        "한테",
+        "는",
+        "절대",
+        "안",
+        "맞힐",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "우리나라도 맞히라고 하더나?",
+      "tokens": [
+        "우리",
+        "나라",
+        "도",
+        "맞히",
+        "라고",
+        "하",
+        "더나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "미국은 강요하더라 거의",
+      "tokens": [
+        "미국",
+        "은",
+        "강요",
+        "하",
+        "더라",
+        "거의"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 애기들 코로나 옮음 어쩐대...",
+      "tokens": [
+        "근데애기들코로나옮음어쩐대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "얌... 아기 좀 있어 봐봐",
+      "tokens": [
+        "얌",
+        ".",
+        ".",
+        "아기",
+        "좀",
+        "있",
+        "어",
+        "봐",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리나라는 청소년!",
+      "tokens": [
+        "우리",
+        "나라",
+        "는",
+        "청소년"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "청소년은 접종 가능해",
+      "tokens": [
+        "청소년",
+        "은",
+        "접종",
+        "가능",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "치료할 방법은 있는 거여?",
+      "tokens": [
+        "치료",
+        "할",
+        "ETM",
+        "방법",
+        "은",
+        "있",
+        "는",
+        "거",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아직 아기는 아니구?",
+      "tokens": [
+        "아직",
+        "아기",
+        "는",
+        "아니",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "치료약이 나왔다고 하긴 하던데...",
+      "tokens": [
+        "치료",
+        "약",
+        "이",
+        "나왔",
+        "EP",
+        "다고",
+        "하",
+        "긴",
+        "JX",
+        "하",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "애기는 아무래도... 부담스럽겠지 않나 좀",
+      "tokens": [
+        "애기",
+        "는",
+        "아무래도",
+        ".",
+        "부담",
+        "스럽",
+        "겠",
+        "지",
+        "않",
+        "나",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

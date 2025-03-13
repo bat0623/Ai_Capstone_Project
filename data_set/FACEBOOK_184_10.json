@@ -1,0 +1,464 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "배드민턴 치고 싶따 재밌겠디?",
+      "tokens": [
+        "배드민턴",
+        "치",
+        "고",
+        "싶",
+        "따",
+        "재밌",
+        "겠",
+        "디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 배드민턴 좋아 행 같이 할랲",
+      "tokens": [
+        "나",
+        "배드민턴",
+        "좋",
+        "ETM",
+        "아행",
+        "같이",
+        "할랲"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "배드민턴 간만에 함 칠까?",
+      "tokens": [
+        "배드민턴",
+        "간만",
+        "에",
+        "함",
+        "ETN",
+        "칠까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "웅웅 다같이 치자 2대 2로! 고고!",
+      "tokens": [
+        "웅웅",
+        "다",
+        "같이",
+        "치",
+        "자",
+        "2",
+        "대",
+        "2",
+        "로",
+        "!",
+        "고",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "구래 구래!",
+      "tokens": [
+        "구래",
+        "구래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "얘드라 나 진ㅁ자 잘해",
+      "tokens": [
+        "얘",
+        "드라",
+        "EF",
+        "나진",
+        "EC",
+        "VX",
+        "ETM",
+        "ㅁ",
+        "자",
+        "잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 오! 좋아 이대이",
+      "tokens": [
+        "키",
+        "키",
+        "오",
+        "좋",
+        "아",
+        "이",
+        "대이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**아 캐리 해줭!",
+      "tokens": [
+        "*",
+        "*",
+        "아캐리해줭"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아닠 키키 쟤는 뭐 맨날 다 잘한대!",
+      "tokens": [
+        "아",
+        "닠키",
+        "키",
+        "쟤",
+        "는",
+        "뭐",
+        "맨날",
+        "다",
+        "잘",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "무슨 운동 왕이야...?",
+      "tokens": [
+        "무슨",
+        "운동",
+        "왕",
+        "이",
+        "야",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엌 키키 알고 보니 나 운동왕 아냐?",
+      "tokens": [
+        "엌키",
+        "키",
+        "알",
+        "고",
+        "보",
+        "니",
+        "나운",
+        "동왕",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "하하 **이도 왕인데 둘이 짱이네",
+      "tokens": [
+        "하하",
+        "*",
+        "*",
+        "이도왕인데둘이짱이네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리 다같이 스포츠 왕 되자...ㅎ",
+      "tokens": [
+        "우리",
+        "다",
+        "같이",
+        "스포츠",
+        "왕",
+        "되",
+        "자",
+        ".",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 운동 잘하고 파 ㅜ",
+      "tokens": [
+        "나운동잘하고파ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도...",
+      "tokens": [
+        "나",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "사실 뻥이야 난 내가 하고 싶은 것만",
+      "tokens": [
+        "사실",
+        "뻥",
+        "이",
+        "야",
+        "난",
+        "JX",
+        "내",
+        "가",
+        "하",
+        "고",
+        "싶",
+        "은",
+        "것",
+        "만"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "하하 같이 하면 다 줄겁지 뭐~",
+      "tokens": [
+        "하하같이하면다줄겁지뭐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 운동은 내기 해야 재밌는뎅",
+      "tokens": [
+        "맞",
+        "아",
+        "운동",
+        "은",
+        "내기",
+        "해야",
+        "EC",
+        "재밌",
+        "는",
+        "뎅"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그건 맞아~",
+      "tokens": [
+        "그건",
+        "JX",
+        "맞",
+        "아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "친구들이랑 노는 거 넘 재미떠",
+      "tokens": [
+        "친구",
+        "들",
+        "이랑",
+        "노",
+        "는",
+        "거",
+        "넘",
+        "재미",
+        "떠",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 내기도 함 할까",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "내",
+        "기",
+        "도",
+        "함",
+        "할까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "당연!",
+      "tokens": [
+        "당연"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "**가 테니스 배우는 곳 알려준대! 우리 출동하잣",
+      "tokens": [
+        "*",
+        "*",
+        "가",
+        "테니스",
+        "배우",
+        "는",
+        "곳",
+        "알려",
+        "EC",
+        "준대",
+        "EF",
+        "우리",
+        "출동",
+        "하",
+        "잣"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "얘드라 출동해! 내가 알려 주께",
+      "tokens": [
+        "얘",
+        "드라",
+        "출동",
+        "해",
+        "EF",
+        "내",
+        "가",
+        "알려",
+        "EC",
+        "주",
+        "께"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "오 테니스 배워?",
+      "tokens": [
+        "오",
+        "테니스",
+        "배워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

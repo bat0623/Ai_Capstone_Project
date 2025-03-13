@@ -1,0 +1,431 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번에 나는 장갑 하나 장만하려고!",
+      "tokens": [
+        "이번",
+        "에",
+        "나",
+        "는",
+        "장갑",
+        "하나",
+        "장",
+        "만",
+        "하",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 많이 추우니까?",
+      "tokens": [
+        "아",
+        "많이",
+        "추우",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 장갑은 불편하지 않아?",
+      "tokens": [
+        "근데",
+        "장갑",
+        "은",
+        "불편",
+        "하",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그래서 스마트 장갑을 구매할 거지롱!",
+      "tokens": [
+        "그래서",
+        "스마트",
+        "장갑",
+        "을",
+        "구매",
+        "할거",
+        "ETM",
+        "NNB",
+        "VCP",
+        "지롱"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거 좋은데?",
+      "tokens": [
+        "그거",
+        "좋",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나도 하나 살까?",
+      "tokens": [
+        "나",
+        "도",
+        "하나",
+        "살까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요즘 너무 춥던데 ㅠ",
+      "tokens": [
+        "요즘너무춥던데ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어 후기 괜찮은 곳 있어서 사려는데 공구 할래?",
+      "tokens": [
+        "어",
+        "후기",
+        "괜찮",
+        "은",
+        "곳",
+        "있",
+        "어서",
+        "사",
+        "려는",
+        "데",
+        "공구",
+        "할래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐 그럴래?",
+      "tokens": [
+        "헐",
+        "JKO",
+        "그럴래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어디꺼 보고 있는데?",
+      "tokens": [
+        "어디",
+        "꺼",
+        "EC",
+        "보",
+        "고",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나?",
+      "tokens": [
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나이키 꺼 보고 있는데 괜찮아?",
+      "tokens": [
+        "나이키",
+        "꺼",
+        "EC",
+        "보",
+        "고",
+        "있",
+        "는",
+        "데",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 그럼 나이키 너무 좋지 깔끔하잖아!",
+      "tokens": [
+        "그럼",
+        "그럼",
+        "나이키",
+        "너무",
+        "좋",
+        "지",
+        "깔끔",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어 더 추워지기 전에 빨리 사야 해!",
+      "tokens": [
+        "어",
+        "더",
+        "추워",
+        "EC",
+        "지",
+        "기",
+        "전",
+        "에",
+        "빨리",
+        "사",
+        "야",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러니까 우리 얼른 나이키 가자 ㅠ",
+      "tokens": [
+        "그러니까",
+        "우리",
+        "얼른",
+        "나이",
+        "키가",
+        "ETN",
+        "JKS",
+        "자ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 그래 좋아 산 김에 목도리도 같이 살래!?",
+      "tokens": [
+        "키키그래좋아산김에목도리도같이살래",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "좋아",
+      "tokens": [
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "춥지 않게 완전 무장을 해버리자!",
+      "tokens": [
+        "춥",
+        "지",
+        "않",
+        "게",
+        "완전",
+        "무장",
+        "을",
+        "해",
+        "EC",
+        "버리",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 근데 목도리는 직접 매 봐야 잘 어울리는지 알 수 있는데!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "목도리",
+        "는",
+        "직접",
+        "매",
+        "EC",
+        "봐야",
+        "EC",
+        "잘",
+        "어울리",
+        "는지",
+        "알",
+        "ETM",
+        "수",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그러니까 말이야!",
+      "tokens": [
+        "그러니까",
+        "말",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "매장 가서 구경하고 오자!",
+      "tokens": [
+        "매장",
+        "가",
+        "서",
+        "구경",
+        "하",
+        "고",
+        "오",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 그래 안 어울리면 눈사람 친구한테 주지 뭐!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "안",
+        "어울리",
+        "면",
+        "눈",
+        "사람",
+        "친구",
+        "한테",
+        "주",
+        "지",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "눈사람 올 겨울 따듯하겠다 하하",
+      "tokens": [
+        "눈",
+        "사람",
+        "올겨울",
+        "따듯",
+        "하",
+        "겠",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

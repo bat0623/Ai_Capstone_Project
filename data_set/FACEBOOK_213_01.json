@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 아침은 먹은 거임?",
+      "tokens": [
+        "*",
+        "*",
+        "아침",
+        "은",
+        "먹",
+        "은",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아침은 바나나 먹는다 키키",
+      "tokens": [
+        "아침",
+        "은",
+        "바나나",
+        "먹",
+        "는",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아침 먹고 출근하니",
+      "tokens": [
+        "아침",
+        "먹",
+        "고",
+        "출근",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너 지금 너무 공복 아니냐;",
+      "tokens": [
+        "너",
+        "지금",
+        "너무",
+        "공복",
+        "아니",
+        "냐",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오늘 커피를 못 마심;",
+      "tokens": [
+        "오늘",
+        "커피",
+        "를",
+        "못",
+        "마심",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 바나나 좋지",
+      "tokens": [
+        "오바",
+        "나",
+        "나",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "바나나 먹고 여태... ㅠㅠ",
+      "tokens": [
+        "바나나",
+        "먹",
+        "고",
+        "여태",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아냐",
+      "tokens": [
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "점심 주서 먹는 중...",
+      "tokens": [
+        "점심",
+        "주",
+        "서",
+        "먹",
+        "는",
+        "중",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "**도 커피 좋아하는구나",
+      "tokens": [
+        "*",
+        "*",
+        "도",
+        "커피",
+        "좋",
+        "아",
+        "하",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "커피 나 완전 좋아행",
+      "tokens": [
+        "커피",
+        "나",
+        "완전",
+        "좋",
+        "ETM",
+        "아행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "사과가 왜케 달아 ㄷㄷ",
+      "tokens": [
+        "사과",
+        "가",
+        "왜",
+        "케",
+        "EC",
+        "달",
+        "아",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "사과 요즘 맛나더라",
+      "tokens": [
+        "사과",
+        "요즘",
+        "맛나",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 지금 커피 2잔째...",
+      "tokens": [
+        "난",
+        "JX",
+        "지금",
+        "커피",
+        "2",
+        "잔",
+        "째",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "사과 먹고 있당 키키",
+      "tokens": [
+        "사과",
+        "먹",
+        "고",
+        "있",
+        "당",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맛있어 키키",
+      "tokens": [
+        "맛있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 커피 1잔째",
+      "tokens": [
+        "나",
+        "는",
+        "커피",
+        "1",
+        "잔",
+        "째"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "사과 요즘 맛있음?",
+      "tokens": [
+        "사과",
+        "요즘",
+        "맛있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "엇 나도 커피 땡겨 ㅜㅜ",
+      "tokens": [
+        "엇",
+        "나",
+        "도",
+        "커피",
+        "땡겨",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "2잔 먹으면 헤롱 헤롱 하더라",
+      "tokens": [
+        "2",
+        "잔먹으면헤롱헤롱하더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

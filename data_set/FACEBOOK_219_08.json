@@ -1,0 +1,400 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "연애 할 때 약속 시간 늦는 사람 극혐임?",
+      "tokens": [
+        "연애",
+        "할",
+        "ETM",
+        "때",
+        "약속",
+        "시간",
+        "늦",
+        "는",
+        "사람",
+        "극혐",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아주 극혐 아님?/",
+      "tokens": [
+        "아주",
+        "극혐",
+        "아님",
+        "ETN",
+        "?",
+        ""
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "엉 마즘... 키키",
+      "tokens": [
+        "엉",
+        "마",
+        "즘",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "사정 있는 거 뺴고? 키키",
+      "tokens": [
+        "사정",
+        "있",
+        "는",
+        "거",
+        "뺴고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "보통 자기가 잘 지키면 극혐일 듯",
+      "tokens": [
+        "보통",
+        "자기",
+        "가",
+        "잘",
+        "지키",
+        "면",
+        "극혐",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뭐 나중에는 이해하겠지만 하하",
+      "tokens": [
+        "뭐",
+        "나중",
+        "에",
+        "는",
+        "이해",
+        "하",
+        "겠",
+        "지만",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "내 남자친구랑 나랑 완전 반대 성향임",
+      "tokens": [
+        "내",
+        "JKG",
+        "남자",
+        "친구",
+        "랑",
+        "나",
+        "랑",
+        "완전",
+        "반대",
+        "성",
+        "향임"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "사정 없이 그냥 늦는 사람!",
+      "tokens": [
+        "사정",
+        "없이",
+        "그냥",
+        "늦",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 여자들은 항상 늦잖아 하하",
+      "tokens": [
+        "근데",
+        "여자",
+        "들",
+        "은",
+        "항상",
+        "늦",
+        "잖아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 항상 미리 나가있음 키키",
+      "tokens": [
+        "나",
+        "는",
+        "항상",
+        "미리",
+        "나가",
+        "EC",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엥 남자친구는 아주 성실하지 못해?",
+      "tokens": [
+        "엥",
+        "남자",
+        "친구",
+        "는",
+        "아주",
+        "성실",
+        "하",
+        "지",
+        "못해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "준비하는데 시간 오래 걸리니 하하",
+      "tokens": [
+        "준비",
+        "하",
+        "는",
+        "데",
+        "시간",
+        "오래",
+        "걸리",
+        "니",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 나는 한 한 시간 정도? 키키",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "한",
+        "한",
+        "시간",
+        "정도",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 남친은 좀 늦음?",
+      "tokens": [
+        "근데",
+        "남친",
+        "은",
+        "좀",
+        "늦",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "미리 나가있는 여자는 니가 첨이야 하하",
+      "tokens": [
+        "미리",
+        "나가",
+        "EC",
+        "있",
+        "는",
+        "여자",
+        "는",
+        "니",
+        "가",
+        "첨",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "늦지는 않는데 딱 맞춰서 옴",
+      "tokens": [
+        "늦",
+        "지",
+        "는",
+        "않",
+        "는데",
+        "딱",
+        "맞춰서",
+        "EC",
+        "옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "한 시간 좀 심한 거 아니냐 키키",
+      "tokens": [
+        "한",
+        "시간",
+        "좀",
+        "심한",
+        "ETM",
+        "거",
+        "아니",
+        "냐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "한 시간을 빨리 나온다고?",
+      "tokens": [
+        "한",
+        "시간",
+        "을",
+        "빨리",
+        "나온다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 아니 왜 한 시간 너무 늦음?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "왜",
+        "한",
+        "시간",
+        "너무",
+        "늦",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

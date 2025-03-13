@@ -1,0 +1,390 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 초딩 때 친구들이랑 어떤 게임 했어?",
+      "tokens": [
+        "언니",
+        "는",
+        "초딩",
+        "때",
+        "친구",
+        "들",
+        "이랑",
+        "어떤",
+        "게임",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 나는 크아 했었던 거 같은데 키키",
+      "tokens": [
+        "아",
+        "나",
+        "는",
+        "크",
+        "아",
+        "했었",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "역시 키키 나도 피시방 가서 크아 함!",
+      "tokens": [
+        "역시",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도피",
+        "시방",
+        "가",
+        "서",
+        "크",
+        "아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아 메이플이랑 양대 산맥이었지",
+      "tokens": [
+        "맞",
+        "아",
+        "메이플",
+        "이랑",
+        "양대",
+        "산맥",
+        "이",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 맞아 아 메이플, 나 150까지 키웠었는데!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아아",
+        "메이플",
+        ",",
+        "나",
+        "150",
+        "까지",
+        "키웠었",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 그때 한창 했을 때 200까지 키웠어!",
+      "tokens": [
+        "나",
+        "그때",
+        "한창",
+        "했",
+        "EP",
+        "을",
+        "때",
+        "200",
+        "까지",
+        "키웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "와 그러면 밥만 먹고 그거만 한 거 아니야?",
+      "tokens": [
+        "와",
+        "그러면",
+        "밥",
+        "만",
+        "먹",
+        "고",
+        "그거",
+        "만",
+        "한",
+        "ETM",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "응 ㅠ 부모님한테 엄청 혼났지 ㅠㅠ",
+      "tokens": [
+        "응ㅠ",
+        "부모",
+        "님",
+        "한테",
+        "엄청",
+        "혼났",
+        "EP",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 그러다가 컴퓨터 완전 뺏긴다고 적당히 했으야지~",
+      "tokens": [
+        "키키그러다가컴퓨터완전뺏긴다고적당히했으야지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아 키키 그래서 몰래 피씨방 갔었어 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN",
+        "그래서",
+        "몰래",
+        "피",
+        "씨방",
+        "갔었",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 대박 다들 그렇게 사는구나~",
+      "tokens": [
+        "키",
+        "키대",
+        "박다",
+        "들",
+        "그렇게",
+        "사",
+        "는구나",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 테런에 빠져서 혼났었지!",
+      "tokens": [
+        "나",
+        "는",
+        "테",
+        "런",
+        "에",
+        "빠져서",
+        "EC",
+        "혼났",
+        "EP",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 내 동생도 그거 했는데!",
+      "tokens": [
+        "헐",
+        "내",
+        "JKG",
+        "동생",
+        "도",
+        "그거",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 겁나 잘했음~",
+      "tokens": [
+        "나",
+        "겁나",
+        "EC",
+        "잘",
+        "했",
+        "EP",
+        "음",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "내 동생도 막 날라다니더라 키키",
+      "tokens": [
+        "내",
+        "JKG",
+        "동생",
+        "도막",
+        "날라다니",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키  맞아 라떼부터 연금이라는 아이템이 생겼지!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아라",
+        "떼",
+        "부터",
+        "연금",
+        "이",
+        "라는",
+        "아이템",
+        "이",
+        "생겼",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어 맞아, 한창 캐시하고 했는데 키키",
+      "tokens": [
+        "어",
+        "맞아",
+        ",",
+        "한창",
+        "캐시",
+        "하",
+        "고",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

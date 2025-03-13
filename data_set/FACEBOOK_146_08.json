@@ -1,0 +1,380 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "연애하다 헤어지고 다시 만난 적 있어?",
+      "tokens": [
+        "연애",
+        "하",
+        "다",
+        "헤어지",
+        "고",
+        "다시",
+        "만난",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 연애하다 헤어지면 끝",
+      "tokens": [
+        "나",
+        "는",
+        "연애",
+        "하",
+        "다",
+        "헤어지",
+        "면",
+        "끝"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아 나도 연애하다 헤어지면 끝이야",
+      "tokens": [
+        "맞",
+        "아",
+        "나",
+        "도",
+        "연애",
+        "하",
+        "다",
+        "헤어지",
+        "면",
+        "끝",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 7년 사귄 여친이랑 다시 만났었어 키키 키키",
+      "tokens": [
+        "나",
+        "는",
+        "7",
+        "년사귄여친이랑다시만났었어키키키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "다시 만나면 또 헤어질 거 같아",
+      "tokens": [
+        "다시",
+        "만나",
+        "면",
+        "또",
+        "헤어질",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "헐 뭐라고? 다시 만나?",
+      "tokens": [
+        "헐",
+        "뭐",
+        "라고",
+        "EF",
+        "다시",
+        "만나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "얼마 못 가서 다시 헤어지더라 ㅠㅠ",
+      "tokens": [
+        "얼마",
+        "못",
+        "가",
+        "서",
+        "다시",
+        "헤어지",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "야 너 안 만날 거 처럼 하더니",
+      "tokens": [
+        "야",
+        "너",
+        "안",
+        "만날",
+        "ETM",
+        "거",
+        "처럼",
+        "하",
+        "더니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아 너 실망이 크다",
+      "tokens": [
+        "맞",
+        "아",
+        "너",
+        "실망",
+        "이",
+        "크",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "얼마전에 여친이랑 헤어졌어 도저히 못 만나겠더라고 ㅠㅠ",
+      "tokens": [
+        "얼마",
+        "전",
+        "에",
+        "여친",
+        "이랑",
+        "헤어졌",
+        "EP",
+        "어",
+        "도저히",
+        "못",
+        "만나",
+        "겠",
+        "더라고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "어쩌다가 다시 만난거야 너",
+      "tokens": [
+        "어쩌다가",
+        "다시",
+        "만난",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래 썰 좀 풀어봐",
+      "tokens": [
+        "그래",
+        "EC",
+        "썰",
+        "ETM",
+        "좀",
+        "풀",
+        "어",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "여친이 힘들다고 연락와서 울더라고 ㅠㅠ",
+      "tokens": [
+        "여친",
+        "이",
+        "힘들",
+        "다고",
+        "연락",
+        "와",
+        "서울",
+        "더라고",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래도 잘 헤어졌네 너 하하",
+      "tokens": [
+        "그래도",
+        "잘",
+        "헤어졌",
+        "EP",
+        "네",
+        "너",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 안 맞으면 다시 헤어져야지",
+      "tokens": [
+        "맞",
+        "아",
+        "안",
+        "맞",
+        "으면",
+        "다시",
+        "헤어",
+        "져야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 ㅠㅠ 이제 진짜 미련 하나도 없어 ㅋㅋ",
+      "tokens": [
+        "응",
+        "ㅠㅠ",
+        "이제",
+        "진짜",
+        "미련",
+        "하나",
+        "도",
+        "없",
+        "어",
+        "ㅋㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래 너무 걱정 하지마 ㅎㅎ",
+      "tokens": [
+        "그래",
+        "너무",
+        "걱정하지마",
+        "ㅎ",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아 다 잘 해결됬네!",
+      "tokens": [
+        "맞",
+        "아다",
+        "잘",
+        "해결",
+        "됬",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

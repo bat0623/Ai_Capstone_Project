@@ -1,0 +1,384 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "마스크 너무 쟁였나...",
+      "tokens": [
+        "마스크",
+        "너무",
+        "쟁",
+        "였",
+        "EP",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "마스크 대체 몇 개 있어요",
+      "tokens": [
+        "마스크",
+        "대체",
+        "몇",
+        "개",
+        "있",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜 아직도 많아? 키키",
+      "tokens": [
+        "왜",
+        "아직",
+        "도",
+        "많",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아직 우리 집에 마스크 박스로 있어...",
+      "tokens": [
+        "아직",
+        "우리",
+        "집",
+        "에",
+        "마스크",
+        "박스",
+        "로",
+        "있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 아니 아직까지도 ...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "아직",
+        "까지",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "얼마나 샀길래",
+      "tokens": [
+        "얼마나",
+        "샀",
+        "EP",
+        "길래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 이제 또 사야함 키키",
+      "tokens": [
+        "나",
+        "는",
+        "이제",
+        "또",
+        "사야",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "저거 유통기한 있지 않냐 ...",
+      "tokens": [
+        "저거",
+        "유통",
+        "기한",
+        "있",
+        "지",
+        "않",
+        "냐",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "마스크 박스 키키",
+      "tokens": [
+        "마스크",
+        "박",
+        "스키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 사야 하는데",
+      "tokens": [
+        "나",
+        "도",
+        "사야",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "은근 매일 쓰니까 없어;",
+      "tokens": [
+        "은근",
+        "매일",
+        "쓰",
+        "니까",
+        "없",
+        "어",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "마스크 대란일 때 너무 샀어...",
+      "tokens": [
+        "마스크",
+        "대란",
+        "일",
+        "ETM",
+        "때",
+        "너무",
+        "샀",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "유통기한은 없을 거예요",
+      "tokens": [
+        "유통",
+        "기한",
+        "은",
+        "없",
+        "을",
+        "거",
+        "예요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "유통기한 길껄?",
+      "tokens": [
+        "유통기한길껄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오빠가 막 자꾸 사재낌...",
+      "tokens": [
+        "오빠가막자꾸사재낌",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "누나는 얼마나 많길래 키키",
+      "tokens": [
+        "누나",
+        "는",
+        "얼마나",
+        "많",
+        "길래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아직도",
+      "tokens": [
+        "아직",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "삭아서 없어지는 아니잖아 키키",
+      "tokens": [
+        "삭",
+        "아서",
+        "없",
+        "어",
+        "지",
+        "는",
+        "아니",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "한 3년은 쓸 듯...",
+      "tokens": [
+        "한",
+        "3",
+        "년",
+        "은",
+        "쓸",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아 그 와중에 행님은 키키 또 사시는",
+      "tokens": [
+        "아",
+        "그",
+        "와중",
+        "에",
+        "행",
+        "님",
+        "은",
+        "키",
+        "키",
+        "또",
+        "사",
+        "시",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "헐 그 정도라고? 키키",
+      "tokens": [
+        "헐",
+        "그",
+        "정도",
+        "라고",
+        "EC",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

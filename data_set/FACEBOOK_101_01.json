@@ -1,0 +1,435 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 명랑 핫도그 먹어 봤어?",
+      "tokens": [
+        "언니",
+        "명랑",
+        "핫도그",
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 먹은 지 한참 됐어",
+      "tokens": [
+        "웅",
+        "먹",
+        "은지",
+        "한참",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 오늘 먹었는데 진짜 존맛 ㅜ",
+      "tokens": [
+        "나",
+        "오늘",
+        "먹",
+        "었",
+        "는데",
+        "진짜",
+        "존",
+        "JX",
+        "맛ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 오랜만에 먹고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "오랜만",
+        "에",
+        "먹",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어디서?",
+      "tokens": [
+        "어디",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 포장해 와서 집에서 먹었음!",
+      "tokens": [
+        "나",
+        "포장",
+        "해",
+        "EC",
+        "와서",
+        "EC",
+        "집",
+        "에서",
+        "먹",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "누구랑 먹었어",
+      "tokens": [
+        "누구",
+        "랑",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "일 안 했어?",
+      "tokens": [
+        "일안",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 퇴근하고 포장해 왔지!",
+      "tokens": [
+        "나",
+        "퇴근",
+        "하",
+        "고",
+        "포장",
+        "해",
+        "EC",
+        "왔",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 요새 없어진 거 같던데 나도 찾아봐야지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "요새",
+        "없",
+        "어",
+        "진",
+        "ETM",
+        "거",
+        "같",
+        "던데",
+        "나",
+        "도",
+        "찾",
+        "아",
+        "봐야",
+        "EC",
+        "VV",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "언니 지금 논산에 있나?",
+      "tokens": [
+        "언니",
+        "지금",
+        "논산",
+        "에",
+        "있",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 대전 온 지 한참이야 ㅡㅡ!",
+      "tokens": [
+        "나",
+        "대전",
+        "온지",
+        "VCP",
+        "EC",
+        "한참",
+        "이",
+        "야",
+        "ㅡㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "대전에는 명량핫도그 집 많지 않아?",
+      "tokens": [
+        "대전",
+        "에",
+        "는",
+        "명량",
+        "핫도그",
+        "집",
+        "많",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 요새 좀 없어지는 추세 아니었음 ?",
+      "tokens": [
+        "근데",
+        "요새",
+        "좀",
+        "없",
+        "어",
+        "지",
+        "는",
+        "추세",
+        "아니",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "여기 지금 떡볶이 출시했잖아 난리야!",
+      "tokens": [
+        "여기",
+        "지금",
+        "떡볶이",
+        "출시",
+        "했잖아",
+        "EP",
+        "EC",
+        "VX",
+        "EF",
+        "난리",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "떡볶이도 한다고 ?",
+      "tokens": [
+        "떡볶이",
+        "도",
+        "한다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "떡볶이도 먹음?",
+      "tokens": [
+        "떡볶이",
+        "도",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "떡볶이는 역시 엽떡이지~",
+      "tokens": [
+        "떡볶이는역시엽떡이지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 나도 먹어봐야지",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "먹",
+        "어",
+        "봐야",
+        "EC",
+        "VV",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "나 씻고 온다",
+      "tokens": [
+        "나",
+        "씻",
+        "고",
+        "온다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

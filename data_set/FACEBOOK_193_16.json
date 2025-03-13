@@ -1,0 +1,421 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 네일 하면 잘할 꺼 같지 않음?",
+      "tokens": [
+        "*",
+        "*",
+        "네일",
+        "하",
+        "면",
+        "잘",
+        "할꺼",
+        "EF",
+        "같",
+        "지",
+        "않",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "** 그림 엄청 못 그림 키키",
+      "tokens": [
+        "*",
+        "*",
+        "그림엄청못그림키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "** 직접 하면 잘할까?",
+      "tokens": [
+        "*",
+        "*",
+        "직접",
+        "하",
+        "면",
+        "잘",
+        "할까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왜 이렇게 네일샵이 잘 어울리지",
+      "tokens": [
+        "왜",
+        "이렇게",
+        "네일",
+        "샵",
+        "이",
+        "잘",
+        "어울리",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그걸 몰랐구나",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "몰랐",
+        "EP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "미술 빵점임 키키",
+      "tokens": [
+        "미술",
+        "빵점",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "손재주가 있는 편이 아닌데 키키",
+      "tokens": [
+        "손재주",
+        "가",
+        "있",
+        "는",
+        "편",
+        "이",
+        "아닌데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 그림 못그린다고?",
+      "tokens": [
+        "아",
+        "그림",
+        "못",
+        "그린다고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐",
+      "tokens": [
+        "헐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응응",
+      "tokens": [
+        "응",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그림 못 그림 악 키키",
+      "tokens": [
+        "그림못그림악키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "꾸미는 걸 좋아하고 키키",
+      "tokens": [
+        "꾸미",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "하",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "하는걸",
+      "tokens": [
+        "하",
+        "는",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 그림 잘 그리게 생김 키키",
+      "tokens": [
+        "키",
+        "키",
+        "그림",
+        "잘",
+        "그리",
+        "게",
+        "생김",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "미술 수행평가 맨날 최저 키키",
+      "tokens": [
+        "미술",
+        "수행",
+        "평가",
+        "맨날",
+        "최저",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "직접은 절대 못할걸 키키",
+      "tokens": [
+        "직접",
+        "은",
+        "절대",
+        "못",
+        "할",
+        "ETM",
+        "걸",
+        "JKO",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "네일샵 가면 꼭 ** 같은 언니들이 있잖아",
+      "tokens": [
+        "네일샵가면꼭",
+        "*",
+        "*",
+        "같",
+        "은",
+        "언니",
+        "들",
+        "이",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "** 그리고 색깔 조합을 못함 ㅠ ...",
+      "tokens": [
+        "*",
+        "*",
+        "그리고색깔조합을못함ㅠ",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아니 키키",
+      "tokens": [
+        "아니",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "미술이 그러기 쉽지 않은데",
+      "tokens": [
+        "미술",
+        "이",
+        "그러",
+        "기",
+        "쉽",
+        "지",
+        "않",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "뭔가 **은 네일아트 상이야",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "*",
+        "*",
+        "은",
+        "네",
+        "일",
+        "아트",
+        "상",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "근데 뭔가 이미지 네일 잘 어울림 키키",
+      "tokens": [
+        "근데",
+        "뭔가",
+        "VCP",
+        "EC",
+        "이미지",
+        "네일",
+        "잘",
+        "어울림",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "네일은 절대 안되긋네",
+      "tokens": [
+        "네일",
+        "은",
+        "절대",
+        "안",
+        "되",
+        "긋",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

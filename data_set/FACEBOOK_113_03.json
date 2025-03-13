@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 저번에 음주운전 하다가 걸린 사람 봄!",
+      "tokens": [
+        "나",
+        "저번",
+        "에",
+        "음주운전",
+        "하",
+        "다가",
+        "걸린",
+        "ETM",
+        "사람",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "음주?",
+      "tokens": [
+        "음주"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "길에서? ㅜㅜ",
+      "tokens": [
+        "길",
+        "에서",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벌금 쌜건데",
+      "tokens": [
+        "벌금쌜건데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어! 경찰이 잡는 거 봤어!",
+      "tokens": [
+        "어",
+        "경찰",
+        "이",
+        "잡",
+        "는",
+        "거",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "와 도주했어? 그럼?",
+      "tokens": [
+        "와도",
+        "EC",
+        "주",
+        "했",
+        "EP",
+        "어",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "왜 그런데",
+      "tokens": [
+        "왜",
+        "그런데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니 도주는 아니고 걸어보라고 했는데 휘청이더라!",
+      "tokens": [
+        "아니",
+        "도주",
+        "는",
+        "아니",
+        "고",
+        "걸",
+        "어",
+        "보",
+        "라고",
+        "했",
+        "EP",
+        "는데",
+        "휘청이",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐... 면허 취소 각이네",
+      "tokens": [
+        "헐",
+        ".",
+        "면허",
+        "취소",
+        "각이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그러니까",
+      "tokens": [
+        "그러니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그거 벌금이 얼마였더라?",
+      "tokens": [
+        "그거",
+        "벌금",
+        "이",
+        "얼마",
+        "였",
+        "EP",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "벌금 요새 어마어마하데 삼백?",
+      "tokens": [
+        "벌금",
+        "요새",
+        "어마어마",
+        "하",
+        "데",
+        "삼",
+        "백"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 ㅜㅜ 아니 근데 음주운전은 도로위의 살인마가 맞는 거 같아!",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅜㅜ",
+        "아니",
+        "근데",
+        "음주운전",
+        "은",
+        "도로",
+        "위",
+        "의",
+        "살인마",
+        "가",
+        "맞",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아... 진짜 하면 안돼",
+      "tokens": [
+        "맞",
+        "아",
+        ".",
+        "진짜",
+        "하",
+        "면",
+        "안",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 나는 음주를 안 했는데 음주 검사할 때 왜 쫄릴까? 키키",
+      "tokens": [
+        "근데나는음주를안했는데음주검사할때왜쫄릴까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 왜 그래?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "그래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "항상 정신이 취해 있으세요?",
+      "tokens": [
+        "항상",
+        "정신",
+        "이",
+        "취해",
+        "EC",
+        "있",
+        "으세요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 아니야 나 술 한 모금도 못하는데 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "야",
+        "나",
+        "술",
+        "한",
+        "ETM",
+        "모금",
+        "도",
+        "못하",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 그냥 설레는 거 아냐 그럼?",
+      "tokens": [
+        "키",
+        "키",
+        "그냥",
+        "설레",
+        "는",
+        "거",
+        "아냐",
+        "EF",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "어엇 그러면 나 변태인 거 같은데?",
+      "tokens": [
+        "어",
+        "엇",
+        "그러면",
+        "나",
+        "변태",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 그게 맞으면 약간 그렇지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그게",
+        "JKS",
+        "맞",
+        "으면",
+        "약간",
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

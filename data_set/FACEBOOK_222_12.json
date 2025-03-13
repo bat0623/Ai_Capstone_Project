@@ -1,0 +1,351 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**는 신혼여행 어디 가고 싶니",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "신혼",
+        "여행",
+        "어디",
+        "가",
+        "고",
+        "싶",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어디 가고 싶어?",
+      "tokens": [
+        "어디",
+        "가",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "저는 생각한 곳이 특별히 없는데",
+      "tokens": [
+        "저",
+        "는",
+        "생각",
+        "한",
+        "ETM",
+        "곳",
+        "이",
+        "특별히",
+        "없",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "미국 아주 추천 아주 아주",
+      "tokens": [
+        "미국",
+        "아주",
+        "추천",
+        "아주",
+        "아주"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "휴향이니 엑티비티니? 하하",
+      "tokens": [
+        "휴향이니엑티비티니",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "코로나때문에... 언제 갈 수 있나여?",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        ".",
+        "언제",
+        "갈",
+        "ETM",
+        "수",
+        "있",
+        "나",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "다들 몰디브 많이 가던디",
+      "tokens": [
+        "다",
+        "들",
+        "몰디브",
+        "많이",
+        "가",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "휴양을 즐길 수도 있어 하하",
+      "tokens": [
+        "휴양",
+        "을",
+        "즐길",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "미국 진짜 좋을 것 같은데 키키",
+      "tokens": [
+        "미국",
+        "진짜",
+        "좋",
+        "을",
+        "것",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그런 곳보다 미국 아주 추천",
+      "tokens": [
+        "그런",
+        "곳",
+        "보다",
+        "미국",
+        "아주",
+        "추천"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "몰디브는 휴양이지 완젼 하하",
+      "tokens": [
+        "몰디브",
+        "는",
+        "휴양",
+        "이지완",
+        "젼",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "저는 무조건 휴양!",
+      "tokens": [
+        "저",
+        "는",
+        "무조건",
+        "휴양"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "몰디브는 수영 밖에 할 거 없대",
+      "tokens": [
+        "몰디브",
+        "는",
+        "수영",
+        "밖에",
+        "할",
+        "ETM",
+        "거",
+        "없",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "관광을 할려면 유럽이나 하하",
+      "tokens": [
+        "관광",
+        "을",
+        "할려면",
+        "EC",
+        "유럽",
+        "이나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "푹 쉬는 걸 좋아하는 듯 해여... 집돌이",
+      "tokens": [
+        "푹",
+        "쉬",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "듯",
+        "해",
+        "여",
+        "EF",
+        ".",
+        "집",
+        "돌",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아... 그럼 몰디브 각이네 키키",
+      "tokens": [
+        "아",
+        ".",
+        "그럼몰디브각이네키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래도 재밌을 듯 몰디브 하하",
+      "tokens": [
+        "그래도",
+        "재밌",
+        "을",
+        "듯",
+        "몰디브",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 몰디브도 좋을 거 같아요",
+      "tokens": [
+        "키키",
+        "몰디브",
+        "도",
+        "좋",
+        "을",
+        "거",
+        "같",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "수학여행 기억나심?",
+      "tokens": [
+        "수학여행",
+        "기억나",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "한라산 갔던 거 같은데 키키",
+      "tokens": [
+        "한라산",
+        "갔",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니...",
+      "tokens": [
+        "아니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "수학여행이 10년 더 된 일인데...",
+      "tokens": [
+        "수학여행",
+        "이",
+        "10",
+        "년",
+        "더",
+        "된",
+        "ETM",
+        "일",
+        "인데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "수학여행 제주도 갔는데 기억 하나도 안 남",
+      "tokens": [
+        "수학여행",
+        "제주",
+        "도",
+        "갔",
+        "EP",
+        "는데",
+        "기억",
+        "하나",
+        "도",
+        "안",
+        "남",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "한라산 오른 거만 기억난다 키키",
+      "tokens": [
+        "한라산",
+        "오른",
+        "ETM",
+        "거",
+        "만",
+        "기억",
+        "난",
+        "JX",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 그때 뭐 어디 갔는지 기억 1도 없음",
+      "tokens": [
+        "나",
+        "도",
+        "그때",
+        "뭐",
+        "어디",
+        "갔",
+        "EP",
+        "는지",
+        "기억",
+        "1",
+        "도",
+        "없",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "수학여행에서 등산을 했어?",
+      "tokens": [
+        "수학여행",
+        "에서",
+        "등산",
+        "을",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그 외에는 일절 기억 안 남",
+      "tokens": [
+        "그",
+        "외",
+        "에",
+        "는",
+        "일절",
+        "기억",
+        "안",
+        "남",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "한라산에서 뛰어 내려간 거 말고는 키키",
+      "tokens": [
+        "한라산",
+        "에서",
+        "뛰",
+        "어",
+        "내려간",
+        "ETM",
+        "거",
+        "말",
+        "고",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "전교생 몇 백 명 아님?",
+      "tokens": [
+        "전교생",
+        "몇",
+        "백",
+        "명",
+        "아님",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 한라산 갔음 키키",
+      "tokens": [
+        "키",
+        "키",
+        "한",
+        "ETM",
+        "라산",
+        "갔",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "날씨 좋았던 듯?",
+      "tokens": [
+        "날씨",
+        "좋",
+        "았",
+        "던",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞음",
+      "tokens": [
+        "맞음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "다 같이 등산 감 키키",
+      "tokens": [
+        "다",
+        "같이",
+        "등산",
+        "감",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "소름 심지어 남고임",
+      "tokens": [
+        "소름",
+        "심지어",
+        "남고",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "다 같이 등산했어?",
+      "tokens": [
+        "다",
+        "같이",
+        "등산",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 올라가는 길에는 눈 쌓여 있음",
+      "tokens": [
+        "근데",
+        "올라가",
+        "는",
+        "길",
+        "에",
+        "는",
+        "눈",
+        "쌓여",
+        "EC",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "시커면 빡빡이들이 다 같이 한라산 감",
+      "tokens": [
+        "시커",
+        "면",
+        "EC",
+        "빡빡이",
+        "들",
+        "이",
+        "다",
+        "같이",
+        "한라",
+        "산감"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그때는 제주도가 국룰이었군... 하하",
+      "tokens": [
+        "그때",
+        "는",
+        "제주도",
+        "가국",
+        "룰",
+        "이",
+        "었",
+        "군",
+        ".",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 리얼 빡빡이들 키키",
+      "tokens": [
+        "키",
+        "키리얼",
+        "빡빡이",
+        "들",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "코로나만 아니면 요즘은 해외 많이 가던데",
+      "tokens": [
+        "코로나",
+        "만",
+        "아니",
+        "면",
+        "요즘",
+        "은",
+        "해외",
+        "많이",
+        "가",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

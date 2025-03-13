@@ -1,0 +1,331 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 여행 가자!",
+      "tokens": [
+        "우리",
+        "여행",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어디로 가볼까 여행!",
+      "tokens": [
+        "어디",
+        "로",
+        "가",
+        "볼까",
+        "VX",
+        "EC",
+        "여행"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어디로 가나요 키키",
+      "tokens": [
+        "어디",
+        "로",
+        "가",
+        "나",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왼손잡이 여행 가자!",
+      "tokens": [
+        "왼손잡이",
+        "여행",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어디든 떠나 보자 ~",
+      "tokens": [
+        "어디",
+        "든",
+        "EC",
+        "떠나",
+        "EC",
+        "보",
+        "자",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "가자 어디든 나는 좋아 키키",
+      "tokens": [
+        "가",
+        "자",
+        "어디",
+        "든",
+        "EC",
+        "나",
+        "는",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**가 모아봐 친구들",
+      "tokens": [
+        "*",
+        "*",
+        "가",
+        "모아",
+        "EC",
+        "봐",
+        "EF",
+        "친구",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 우리 왼손잡이 추억 ㅠ",
+      "tokens": [
+        "헐",
+        "우리",
+        "왼손잡이",
+        "추억",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "왼손잡이 머선 일이구 키키",
+      "tokens": [
+        "왼손잡이",
+        "머",
+        "EC",
+        "선일",
+        "이",
+        "구키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "왼손잡이 여행을 떠나는 거야",
+      "tokens": [
+        "왼손잡이",
+        "여행",
+        "을",
+        "떠나",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "내가 다 모아 보까 키키",
+      "tokens": [
+        "내",
+        "가",
+        "다",
+        "모아",
+        "EC",
+        "보",
+        "까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 진짜 추억이다 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "추억",
+        "이",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "봉사 활동을 하면서",
+      "tokens": [
+        "봉사",
+        "활동",
+        "을",
+        "하",
+        "면서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우리 부 진짜 잼썻는데",
+      "tokens": [
+        "우리",
+        "부진",
+        "짜",
+        "EC",
+        "잼썻",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 진짜 재밌겠는데 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "재밌",
+        "겠",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우리 여행 가는 거여!",
+      "tokens": [
+        "우리",
+        "여행",
+        "가",
+        "는",
+        "거",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "웃긴 애들 모인 동아리임",
+      "tokens": [
+        "웃긴",
+        "ETM",
+        "애",
+        "들",
+        "모인",
+        "ETM",
+        "동아리",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "봉사 활동도 진짜 하자 키키",
+      "tokens": [
+        "봉사",
+        "활동",
+        "도",
+        "진짜",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

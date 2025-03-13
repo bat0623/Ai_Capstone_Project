@@ -1,0 +1,418 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘은 낮에도 좀 쌀쌀하더라 ㅠㅠ",
+      "tokens": [
+        "오늘",
+        "은",
+        "낮",
+        "에",
+        "도",
+        "좀",
+        "쌀쌀",
+        "하",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오늘 바람 많이 불던데?",
+      "tokens": [
+        "오늘",
+        "바람",
+        "많이",
+        "불",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 진짜 너무 추워... 덜덜덜",
+      "tokens": [
+        "맞",
+        "아",
+        "진짜",
+        "너무",
+        "추워",
+        "EF",
+        ".",
+        "덜덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "응 ㅠㅠ 해도 안 떠서 춥더라고 낮에도 ㅠㅠ",
+      "tokens": [
+        "응",
+        "ㅠㅠ",
+        "해도",
+        "EC",
+        "안",
+        "떠서",
+        "EC",
+        "춥",
+        "더라고",
+        "낮",
+        "에",
+        "도",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "흐으 진짜 기모 옷 입어도 추워",
+      "tokens": [
+        "흐으",
+        "진짜",
+        "기모",
+        "옷",
+        "입",
+        "어도",
+        "추워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 너무 추워",
+      "tokens": [
+        "진짜",
+        "너무",
+        "추워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "안에 껴 입어야 해",
+      "tokens": [
+        "안",
+        "에",
+        "껴입",
+        "어야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 겨울이 엄청 빠르게 오는 것 같아",
+      "tokens": [
+        "진짜",
+        "겨울",
+        "이",
+        "엄청",
+        "빠르",
+        "게",
+        "오",
+        "는",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 패딩 꺼내야 할 것 같아 ㅜ",
+      "tokens": [
+        "진짜",
+        "패딩",
+        "꺼내",
+        "야",
+        "할",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "겨울이 너무 빨리 와 이상하게",
+      "tokens": [
+        "겨울",
+        "이",
+        "너무",
+        "빨리",
+        "와",
+        "EC",
+        "이상",
+        "하",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "응 키키 진짜 저녁엔 패딩 입어야 할 날씨야 ㅠㅠ",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "저녁",
+        "엔",
+        "JX",
+        "패딩",
+        "입",
+        "어야",
+        "할",
+        "ETM",
+        "날씨",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아직 11월밖에 안 됐는데 벌써 춥다니",
+      "tokens": [
+        "아직",
+        "11",
+        "월",
+        "밖에",
+        "안",
+        "됐",
+        "EP",
+        "는데",
+        "벌써",
+        "춥",
+        "다니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요새 날씨가 이상해",
+      "tokens": [
+        "요새",
+        "날씨",
+        "가",
+        "이상",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "여름 겨울뿐이야",
+      "tokens": [
+        "여름",
+        "겨울",
+        "뿐",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "응 ㅠㅠ 진짜 우리나라 사계절이 사라지고 있어 ㅠㅠ",
+      "tokens": [
+        "응",
+        "ㅠㅠ",
+        "진짜",
+        "우리",
+        "나라",
+        "사계절",
+        "이",
+        "사라지",
+        "고",
+        "있",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 내가 제일 싫어하는 날씨들 ㅜㅜ",
+      "tokens": [
+        "맞",
+        "아",
+        "내",
+        "가",
+        "제일",
+        "싫",
+        "어",
+        "하",
+        "는",
+        "날씨",
+        "들",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 봄 가을이 사라지고 있어서 아쉽다",
+      "tokens": [
+        "그니까",
+        "봄",
+        "가을",
+        "이",
+        "사라지",
+        "고",
+        "있",
+        "어서",
+        "아쉽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "진짜 극혐인 날씨들만 남았어 키키",
+      "tokens": [
+        "진짜",
+        "극혐",
+        "인",
+        "ETM",
+        "날씨",
+        "들",
+        "만",
+        "남",
+        "았",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "ㅜㅜ 내가 제일 좋아하는 계절이 사라지다니 ㅜㅜ",
+      "tokens": [
+        "ㅜㅜ",
+        "내",
+        "가",
+        "제일",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "계절",
+        "이",
+        "사라지",
+        "다니",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "진짜 우리 다 같이 눈 올 때 눈싸움이나 하자",
+      "tokens": [
+        "진짜",
+        "우리",
+        "다",
+        "같이",
+        "눈",
+        "올",
+        "때",
+        "눈싸움",
+        "이나",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

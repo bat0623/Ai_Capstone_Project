@@ -1,0 +1,341 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "참 책읽기 좋은 계절이야 하하",
+      "tokens": [
+        "참",
+        "책",
+        "읽",
+        "기",
+        "좋",
+        "은",
+        "계절",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 책읽기 좋아 정말 ㅎ",
+      "tokens": [
+        "맞",
+        "아",
+        "책",
+        "읽",
+        "기",
+        "좋",
+        "아",
+        "정말",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아요 가을, 겨울은 좋은 계절",
+      "tokens": [
+        "맞",
+        "아요",
+        "가을",
+        ",",
+        "겨울",
+        "은",
+        "좋",
+        "은",
+        "계절"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "카페 테라스에서  독서 하고 싶네 하하",
+      "tokens": [
+        "카페테라스",
+        "에서",
+        "독서",
+        "하",
+        "고",
+        "싶",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요새 책읽을 시간도 없네",
+      "tokens": [
+        "요새",
+        "책",
+        "읽",
+        "을",
+        "시간",
+        "도",
+        "없",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "카페 독서 안한지도 오래 ㅜ",
+      "tokens": [
+        "카페",
+        "독서",
+        "안",
+        "한지",
+        "EC",
+        "도",
+        "오래",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "최근에  읽은 책 있는 사람",
+      "tokens": [
+        "최근",
+        "에",
+        "읽",
+        "은",
+        "책",
+        "있",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니까 이런날 좋다",
+      "tokens": [
+        "그니까",
+        "이런",
+        "날",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "저요 책 읽었어용",
+      "tokens": [
+        "저",
+        "요",
+        "책",
+        "읽",
+        "었",
+        "어용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 젤 최근이 아몬드 인듯",
+      "tokens": [
+        "난",
+        "JX",
+        "젤",
+        "최근",
+        "이",
+        "아몬드",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "난 사실 없어 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "사실",
+        "없",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "달러구트의 꿈의 백화점",
+      "tokens": [
+        "달러",
+        "구트",
+        "의",
+        "꿈",
+        "의",
+        "백화점"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 그거 알지 다 읽었어?",
+      "tokens": [
+        "아",
+        "그거",
+        "알",
+        "지다",
+        "VX",
+        "EC",
+        "읽",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오 그거 재밌나?",
+      "tokens": [
+        "오",
+        "그거",
+        "재밌",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아몬드는 심오한 내용이더라구오",
+      "tokens": [
+        "아몬드",
+        "는",
+        "심오",
+        "한",
+        "ETM",
+        "내용",
+        "이",
+        "더라구",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 읽다가 좀 지루하던데...",
+      "tokens": [
+        "난",
+        "JX",
+        "읽",
+        "다가",
+        "좀",
+        "지루",
+        "하",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아몬드도 읽엇나? 오오",
+      "tokens": [
+        "아몬드",
+        "도",
+        "읽",
+        "엇",
+        "나",
+        "오",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "넵 저는 약간 힐링 되서 좋았어용",
+      "tokens": [
+        "넵",
+        "저",
+        "는",
+        "약간",
+        "힐링",
+        "되",
+        "서",
+        "좋",
+        "았",
+        "어용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

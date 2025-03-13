@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "어머니의 사랑 잊지 말자구",
+      "tokens": [
+        "어머니",
+        "의",
+        "사랑",
+        "잊",
+        "지",
+        "말",
+        "자구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "부모님이 너무 보고 싶어 ㅠㅠ",
+      "tokens": [
+        "부모",
+        "님",
+        "이",
+        "너무",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 가족을 사랑해",
+      "tokens": [
+        "나",
+        "는",
+        "가족",
+        "을",
+        "사랑",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "너희는",
+      "tokens": [
+        "너희",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우린 아버지에게도 효도하자",
+      "tokens": [
+        "우린",
+        "JX",
+        "아버지",
+        "에게",
+        "도",
+        "효도",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "부모님 미국에서 일 하신다구 ㅠㅠ",
+      "tokens": [
+        "부모",
+        "님",
+        "미국",
+        "에서",
+        "일",
+        "하",
+        "신다구",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "못 뵌 지 오래됐어",
+      "tokens": [
+        "못",
+        "뵌",
+        "ETM",
+        "지",
+        "오래",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "너희는 가족을 사랑해?",
+      "tokens": [
+        "너희",
+        "는",
+        "가족",
+        "을",
+        "사랑",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "형제끼리 싸우지 말고 항상",
+      "tokens": [
+        "형제",
+        "끼리",
+        "싸우",
+        "지",
+        "말",
+        "고",
+        "항상"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아버지도 정말 좋아",
+      "tokens": [
+        "아버지",
+        "도",
+        "정말",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 우리 아버지가 최고야",
+      "tokens": [
+        "나",
+        "는",
+        "우리",
+        "아버지",
+        "가",
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 평양에서 일해서 부모님 보고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "평양",
+        "에서",
+        "일",
+        "해서",
+        "EC",
+        "부모",
+        "님",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "응 가족 엄청 사랑하지 키키",
+      "tokens": [
+        "응",
+        "가족",
+        "엄청",
+        "사랑",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "누나랑 자주 싸워 요즘,",
+      "tokens": [
+        "누나",
+        "랑",
+        "자주",
+        "싸워",
+        "EC",
+        "요즘",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나는 아버지가 누나랑 자주 싸워",
+      "tokens": [
+        "나",
+        "는",
+        "아버지",
+        "가",
+        "누나",
+        "랑",
+        "자주",
+        "싸워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "부모님은 엄청 존경해 난 하하",
+      "tokens": [
+        "부모",
+        "님",
+        "은",
+        "엄청",
+        "존경",
+        "해",
+        "EC",
+        "난",
+        "JX",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "외국에서 일하는구나",
+      "tokens": [
+        "외국",
+        "에서",
+        "일",
+        "하",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "부럽다 야!",
+      "tokens": [
+        "부럽",
+        "다야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "부모님을 엄청 존경하지 나도",
+      "tokens": [
+        "부모",
+        "님",
+        "을",
+        "엄청",
+        "존경",
+        "하",
+        "지",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "외국에서 일하는 부모님 멋져",
+      "tokens": [
+        "외국",
+        "에서",
+        "일",
+        "하",
+        "는",
+        "부모",
+        "님",
+        "멋져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "부모님의 사랑 난 평생 갚을 거야",
+      "tokens": [
+        "부모",
+        "님",
+        "의",
+        "사랑",
+        "난",
+        "JX",
+        "평생",
+        "갚",
+        "을",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "평양에서 일하는 것도 괜찮은 것 같아",
+      "tokens": [
+        "평양",
+        "에서",
+        "일",
+        "하",
+        "는",
+        "것",
+        "도",
+        "괜찮",
+        "은",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

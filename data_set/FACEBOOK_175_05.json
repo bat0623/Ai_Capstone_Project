@@ -1,0 +1,426 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 군 생활 엄청 편하대 키키",
+      "tokens": [
+        "요즘",
+        "군",
+        "생활",
+        "엄청",
+        "편하",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "많이 좋아져서 지금은 군대도 아냐",
+      "tokens": [
+        "많이",
+        "좋",
+        "아",
+        "져서",
+        "EC",
+        "지금",
+        "은",
+        "군대",
+        "도",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 디피보니까 군대 무섭더라 너무 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "디피",
+        "보",
+        "니까",
+        "군대",
+        "무섭",
+        "더라",
+        "너무",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "휴대폰도 사용 가능하다고 들었어 키키",
+      "tokens": [
+        "휴대폰",
+        "도",
+        "사용",
+        "가능",
+        "하",
+        "다고",
+        "들",
+        "었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그럼 너희도 군대 다시 갈래?",
+      "tokens": [
+        "그럼",
+        "너희",
+        "도",
+        "군대",
+        "다시",
+        "갈래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "요즘 군대 보면 거의 공익 같아",
+      "tokens": [
+        "요즘",
+        "군대",
+        "보",
+        "면",
+        "거의",
+        "공익",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "다시 들어가고 싶더라구 군대 키키",
+      "tokens": [
+        "다시",
+        "들어가",
+        "고",
+        "싶",
+        "더라구",
+        "군대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 여자도 군대 갔으면 좋겠어",
+      "tokens": [
+        "나",
+        "는",
+        "여자",
+        "도",
+        "군대",
+        "갔",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 난 공익 때 정말 재밌게 놀았어",
+      "tokens": [
+        "근데",
+        "난",
+        "JX",
+        "공익",
+        "때",
+        "정말",
+        "재밌",
+        "게",
+        "놀",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "요즘 군대는 거의 캠프지",
+      "tokens": [
+        "요즘",
+        "군대",
+        "는",
+        "거의",
+        "캠프",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "너희랑 다시 재입대하고 싶다",
+      "tokens": [
+        "너희",
+        "랑",
+        "다시",
+        "재",
+        "입대",
+        "하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "훈련소에서 정말 눈도 치우고 난리였는데",
+      "tokens": [
+        "훈련소",
+        "에서",
+        "정말",
+        "눈",
+        "도",
+        "치우",
+        "고",
+        "난리",
+        "였",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "사실 나도 공익이야 키키",
+      "tokens": [
+        "사실",
+        "나",
+        "도",
+        "공익",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "속여서 미안해",
+      "tokens": [
+        "속여서",
+        "EC",
+        "미안",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "너희 다 공익이잖아",
+      "tokens": [
+        "너희",
+        "다",
+        "공익",
+        "이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 해병대임",
+      "tokens": [
+        "나",
+        "는",
+        "해병대",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "공익이 부끄러운 건 아냐",
+      "tokens": [
+        "공익",
+        "이",
+        "부끄러운",
+        "ETM",
+        "건",
+        "JX",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "자긍심을 가져",
+      "tokens": [
+        "자긍심",
+        "을",
+        "가져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "훈련소에서 멧돼지도 잡은 기억이 있어",
+      "tokens": [
+        "훈련소",
+        "에서",
+        "멧돼지",
+        "도",
+        "잡",
+        "은",
+        "기억",
+        "이",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "공익이 부끄럽진 않지만 사회적 인식이 좀 그렇긴 해",
+      "tokens": [
+        "공익",
+        "이",
+        "부끄럽",
+        "진",
+        "JX",
+        "않",
+        "지만",
+        "사회",
+        "적",
+        "인식",
+        "이",
+        "좀",
+        "그렇",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "난 멧돼지한테 다리 걸어서 세 마리 잡았어",
+      "tokens": [
+        "난",
+        "JX",
+        "멧돼지",
+        "한테",
+        "다리걸",
+        "어서",
+        "세",
+        "마리",
+        "잡",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

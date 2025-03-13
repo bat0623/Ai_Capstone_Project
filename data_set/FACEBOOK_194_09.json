@@ -1,0 +1,353 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "물고기도 키우고 싶단 말이지 ... ?",
+      "tokens": [
+        "물고기",
+        "도",
+        "키우",
+        "고",
+        "싶",
+        "단",
+        "말",
+        "이",
+        "지",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "물고기 너무 귀엽겠다",
+      "tokens": [
+        "물고기",
+        "너무",
+        "귀엽",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 우리 몽이랑 평생 살래.",
+      "tokens": [
+        "난",
+        "JX",
+        "우리",
+        "몽이",
+        "랑",
+        "평생",
+        "살래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "강쥐 만세",
+      "tokens": [
+        "강",
+        "쥐",
+        "만세"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 엄청 귀찮을 꺼 같음",
+      "tokens": [
+        "근데",
+        "엄청",
+        "귀찮",
+        "을",
+        "꺼",
+        "VCP",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어릴 때 다들 금붕어 키워봄?",
+      "tokens": [
+        "어릴",
+        "ETM",
+        "때",
+        "다",
+        "들",
+        "금붕어",
+        "키워",
+        "EC",
+        "봄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "물고기는 잡아먹어야지 회로",
+      "tokens": [
+        "물고기",
+        "는",
+        "잡아먹",
+        "어야",
+        "지회",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "얌 마당에 연못 없나?",
+      "tokens": [
+        "얌",
+        "마당",
+        "에",
+        "연못",
+        "없",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "금붕어 키우다 죽었음 ㅠ",
+      "tokens": [
+        "금붕어",
+        "키우",
+        "다",
+        "죽",
+        "었",
+        "음ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "금붕어는 나도 키워 봄",
+      "tokens": [
+        "금붕어",
+        "는",
+        "나",
+        "도",
+        "키워",
+        "EC",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "마당에 물고기 키워 ... !",
+      "tokens": [
+        "마당",
+        "에",
+        "물고기",
+        "키워",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "마당에 연못은 없어 키키",
+      "tokens": [
+        "마당",
+        "에",
+        "연못",
+        "은",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "열대어도 키워봄 종류별로",
+      "tokens": [
+        "열대어",
+        "도",
+        "키워",
+        "EC",
+        "봄",
+        "종류",
+        "별",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나도 금붕어 키워봄",
+      "tokens": [
+        "나",
+        "도",
+        "금붕어",
+        "키워",
+        "EC",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "연못을 파기가 힘들어 ... 키키",
+      "tokens": [
+        "연못",
+        "을",
+        "파",
+        "기",
+        "가",
+        "힘들",
+        "어",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마당에 키우면 얼어죽는다",
+      "tokens": [
+        "마당",
+        "에",
+        "키우",
+        "면",
+        "얼",
+        "어",
+        "죽",
+        "는다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "열대어 키우기 어려울 듯?",
+      "tokens": [
+        "열대어",
+        "키우",
+        "기",
+        "어려울",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "연못 관리하기 어렵지 않냥?",
+      "tokens": [
+        "연못",
+        "관리",
+        "하",
+        "기",
+        "어렵",
+        "지",
+        "않",
+        "냥"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 내년에 연못 만든다",
+      "tokens": [
+        "나",
+        "내년",
+        "에",
+        "연못",
+        "만",
+        "든다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

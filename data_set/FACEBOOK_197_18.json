@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "영양제에 너무 눈이 가고...",
+      "tokens": [
+        "영양제",
+        "에",
+        "너무",
+        "눈",
+        "이",
+        "가",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "근데 이거저거 먹다 보면 돈도...",
+      "tokens": [
+        "근데",
+        "이거",
+        "저거",
+        "먹",
+        "다",
+        "보",
+        "면",
+        "돈",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "올해 들어서 영양제 소비율이 올라갔대",
+      "tokens": [
+        "올해",
+        "들",
+        "어서",
+        "영양제",
+        "소비",
+        "율",
+        "이",
+        "올라갔",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "보통 어디서 사먹어?",
+      "tokens": [
+        "보통",
+        "어디",
+        "서",
+        "사먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "생각보다 많이 들더라구요",
+      "tokens": [
+        "생각",
+        "보다",
+        "많이",
+        "들",
+        "더라구요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아파서 병원 가는 거보다 미리 챙기는 게 낫지",
+      "tokens": [
+        "아파서",
+        "EC",
+        "병원",
+        "가",
+        "는",
+        "거",
+        "보다",
+        "미리",
+        "챙기",
+        "는",
+        "게",
+        "JKS",
+        "낫",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 진짜 코로나 때문이야?",
+      "tokens": [
+        "아",
+        "진짜",
+        "코로나",
+        "때문",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "저는 인터넷에서 사죠 보통 키키",
+      "tokens": [
+        "저",
+        "는",
+        "인터넷",
+        "에서",
+        "사",
+        "죠",
+        "보통",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아프면 다 손해여 ...",
+      "tokens": [
+        "아프",
+        "면",
+        "다",
+        "손해",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 주로 직구해서 먹음",
+      "tokens": [
+        "나",
+        "는",
+        "주로",
+        "직구",
+        "해서",
+        "EC",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "코로나 때문에 가구 소비가 늘었다던데",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "가",
+        "구",
+        "소비",
+        "가",
+        "늘",
+        "었",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "저도 직구해서 거의 먹어서 키키",
+      "tokens": [
+        "저",
+        "도",
+        "직구",
+        "해서",
+        "EC",
+        "거의",
+        "먹",
+        "어서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "직구 안 하면 너무 비싸 ...",
+      "tokens": [
+        "직구",
+        "안",
+        "하",
+        "면",
+        "너무",
+        "비싸",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "코로나 때문에 인테리어 소품이 잘 팔렸대",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "인테리어",
+        "소품",
+        "이",
+        "잘",
+        "팔렸",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아요",
+      "tokens": [
+        "맞",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "은근 부담이 커요",
+      "tokens": [
+        "은근",
+        "부담",
+        "이",
+        "커요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 집에만 박혀있으니까 그런가 보다",
+      "tokens": [
+        "키",
+        "키",
+        "집",
+        "에",
+        "만",
+        "박혀",
+        "EC",
+        "있",
+        "으니까",
+        "그런가보다",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "직구 최고야",
+      "tokens": [
+        "직구",
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "넘 빨리와...!",
+      "tokens": [
+        "넘",
+        "빨리",
+        "와",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "캠핑 용품도 많이 사던데",
+      "tokens": [
+        "캠핑",
+        "용품",
+        "도",
+        "많이",
+        "사",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞지 ...",
+      "tokens": [
+        "맞",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "요새 1주일 잘 안 넘어가니까",
+      "tokens": [
+        "요새",
+        "1",
+        "주일",
+        "잘",
+        "안",
+        "넘어가",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

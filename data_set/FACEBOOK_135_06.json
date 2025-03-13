@@ -1,0 +1,463 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "권다 시험 언제임",
+      "tokens": [
+        "권",
+        "다시",
+        "험언",
+        "제",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 다담 주 토욜!",
+      "tokens": [
+        "나다담주토욜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어떤 공부하고 있는 거야?",
+      "tokens": [
+        "어떤",
+        "공부",
+        "하",
+        "고",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "시험 얼마 안 남았다고 안 했음? 대박",
+      "tokens": [
+        "시험",
+        "얼마",
+        "안",
+        "남",
+        "았",
+        "다고",
+        "안",
+        "했",
+        "EP",
+        "음",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "토목 공기업 키키",
+      "tokens": [
+        "토목",
+        "공기업",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이 주 남음 ㅠㅠ",
+      "tokens": [
+        "이주남음ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "와 진짜 얼마 안 남았다...",
+      "tokens": [
+        "와",
+        "진짜",
+        "얼마",
+        "안",
+        "남",
+        "았",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "떨리겠다",
+      "tokens": [
+        "떨리",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "일주일 남았네?",
+      "tokens": [
+        "일",
+        "주일",
+        "남",
+        "았",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "뭔 시험이야",
+      "tokens": [
+        "뭔",
+        "시험",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "농어촌 공사! 키키",
+      "tokens": [
+        "농어촌",
+        "공사",
+        "!",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "토목 전공 봐",
+      "tokens": [
+        "토목",
+        "전공",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "와 진짜...",
+      "tokens": [
+        "와",
+        "진짜",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "공기업 시험인 거야? ㅠㅠ",
+      "tokens": [
+        "공기업",
+        "시험",
+        "인",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "너무 어렵겠는데~",
+      "tokens": [
+        "너무",
+        "어렵",
+        "겠",
+        "는데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와... 엘에이치 같은 곳이야?",
+      "tokens": [
+        "와",
+        ".",
+        ".",
+        "엘에이",
+        "치",
+        "같",
+        "은",
+        "곳",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "농어촌계의 엘에이치라면 되려나",
+      "tokens": [
+        "농어촌",
+        "계",
+        "의",
+        "엘",
+        "에",
+        "이치",
+        "라면",
+        "EC",
+        "되",
+        "려나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "잘됐으면 좋겠다...",
+      "tokens": [
+        "잘",
+        "됐",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "대박",
+      "tokens": [
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아 농어촌 공사!  신기하군",
+      "tokens": [
+        "아",
+        "농어촌",
+        "공사",
+        "!",
+        "신기",
+        "하군",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 사실 잘 모름 키키",
+      "tokens": [
+        "근데",
+        "사실",
+        "잘",
+        "모름",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "일단 넣고 봤어",
+      "tokens": [
+        "일단",
+        "넣",
+        "고",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "제일 먼저 취업하겠는걸",
+      "tokens": [
+        "제일",
+        "먼저",
+        "취업",
+        "하",
+        "겠",
+        "는걸"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "꼭 붙었으면 좋겠당",
+      "tokens": [
+        "꼭",
+        "붙",
+        "었",
+        "으면",
+        "좋",
+        "겠",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "다들 응원해 줘 하하",
+      "tokens": [
+        "다",
+        "들",
+        "응원",
+        "해",
+        "EC",
+        "줘",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "열심히 할께",
+      "tokens": [
+        "열심히",
+        "할께",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "진짜 꼭 시험 잘 봐 키키",
+      "tokens": [
+        "진짜",
+        "꼭",
+        "시험",
+        "잘",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

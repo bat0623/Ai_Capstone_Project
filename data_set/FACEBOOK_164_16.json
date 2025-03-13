@@ -1,0 +1,320 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다이어트 하는 사람",
+      "tokens": [
+        "다이어트",
+        "하",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 다이어트 하는중 하하",
+      "tokens": [
+        "나",
+        "다이어트",
+        "하",
+        "는",
+        "중하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "다이어트는 365 아니여?",
+      "tokens": [
+        "다이어트",
+        "는",
+        "365",
+        "아니",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그래도 우리 약은 먹지 말자",
+      "tokens": [
+        "그래도",
+        "우리",
+        "약",
+        "은",
+        "먹",
+        "지",
+        "말",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "항상 다이어트 하지 하하",
+      "tokens": [
+        "항상",
+        "다이어트",
+        "하",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래 약은 무서워.키키",
+      "tokens": [
+        "그래",
+        "약",
+        "은",
+        "무서워",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 다이어트 하는 중 하하",
+      "tokens": [
+        "나",
+        "도",
+        "다이어트",
+        "하",
+        "는",
+        "중하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 그래야지 약은 안돼",
+      "tokens": [
+        "맞",
+        "아",
+        "그래야",
+        "EC",
+        "지약",
+        "은",
+        "안",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭔 다이어트 하는데 키키",
+      "tokens": [
+        "뭔",
+        "다이어트",
+        "하",
+        "는",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "약은 진짜 아냐 ㅠㅠ",
+      "tokens": [
+        "약은진짜아냐ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "한약 이런 거도 안 좋지?",
+      "tokens": [
+        "한약",
+        "이런",
+        "거",
+        "도",
+        "안",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 한약도 안 좋은드",
+      "tokens": [
+        "맞",
+        "아",
+        "한약",
+        "도",
+        "안",
+        "좋",
+        "은",
+        "드"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 한약 엄청 안좋데!",
+      "tokens": [
+        "아",
+        "한약",
+        "엄청",
+        "안",
+        "좋",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "운동으로 살빼야지 진짜",
+      "tokens": [
+        "운동",
+        "으로",
+        "살빼",
+        "야지",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 운동 힘들어 ㅜㅜ",
+      "tokens": [
+        "근데",
+        "운동",
+        "힘들",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그냥 건강하게 빼야해...",
+      "tokens": [
+        "그냥",
+        "건강",
+        "하",
+        "게",
+        "빼",
+        "야",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우린 걷기 운동 열심히함 하하",
+      "tokens": [
+        "우린",
+        "JX",
+        "걷",
+        "기",
+        "운동",
+        "열심히",
+        "함하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오 나도 걷는 거 조아함!",
+      "tokens": [
+        "오",
+        "나",
+        "도",
+        "걷",
+        "는",
+        "거",
+        "조아",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

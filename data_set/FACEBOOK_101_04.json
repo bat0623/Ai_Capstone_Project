@@ -1,0 +1,469 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 지금 회사에서 어떤 일 하고 있어?",
+      "tokens": [
+        "언니",
+        "지금",
+        "회사",
+        "에서",
+        "어떤",
+        "일",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 코디하자나",
+      "tokens": [
+        "나",
+        "코디",
+        "하",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "스트레스 장난 아님",
+      "tokens": [
+        "스트레스",
+        "장난아",
+        "님"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "와 진짜?",
+      "tokens": [
+        "와",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그것도 서비스업이지!?",
+      "tokens": [
+        "그것",
+        "도",
+        "서비스업",
+        "이",
+        "지",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "서비스업이지 ㅜㅜ",
+      "tokens": [
+        "서비스업이지ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "짜증나 진짜 오늘도...",
+      "tokens": [
+        "짜증",
+        "나",
+        "진짜",
+        "오늘",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "왜 오늘 무슨 일 있었어",
+      "tokens": [
+        "왜",
+        "오늘",
+        "무슨",
+        "일",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진상 있었어?",
+      "tokens": [
+        "진상",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진상은 항상 있지",
+      "tokens": [
+        "진상",
+        "은",
+        "항상",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "너넨 괜찮아?",
+      "tokens": [
+        "너",
+        "넨",
+        "JX",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 ㅜㅜ 나는 일이 진상이다 증말!",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅜㅜ",
+        "나",
+        "는",
+        "일",
+        "이",
+        "진상",
+        "이",
+        "다",
+        "증말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 그래도 사무직이 편하지 않아?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래도",
+        "사무직",
+        "이",
+        "편하",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어 근데 위에서는 내가 몸이 3개인 줄 아나 봐,",
+      "tokens": [
+        "어",
+        "근데",
+        "위",
+        "에서",
+        "는",
+        "내",
+        "가",
+        "몸",
+        "이",
+        "3",
+        "개",
+        "인",
+        "ETM",
+        "줄",
+        "아",
+        "나",
+        "봐",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 그건 여기도 마찬가지야",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그건",
+        "JX",
+        "여기",
+        "도",
+        "마찬가지",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "돈 벌자...",
+      "tokens": [
+        "돈",
+        "벌",
+        "자",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 오키 좋아",
+      "tokens": [
+        "키키",
+        "오키",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "언니 주말에는 쉬어?",
+      "tokens": [
+        "언니",
+        "주말",
+        "에",
+        "는",
+        "쉬",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "우리 일요일만 쉬자나",
+      "tokens": [
+        "우리",
+        "일요일",
+        "만",
+        "쉬",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 주 오일제",
+      "tokens": [
+        "근데",
+        "주",
+        "오일제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "헐, 그러면 이번주는 언제 쉬어!?",
+      "tokens": [
+        "헐",
+        ",",
+        "그러면",
+        "이번",
+        "주",
+        "는",
+        "언제",
+        "쉬",
+        "어",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "이번주 목요일 일요일 키키",
+      "tokens": [
+        "이번",
+        "주",
+        "목요일",
+        "일요일",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "너넨?",
+      "tokens": [
+        "너",
+        "넨",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "나는 주말에만 쉬어~",
+      "tokens": [
+        "나",
+        "는",
+        "주말",
+        "에",
+        "만",
+        "쉬",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "일요일에 같이 만날래?",
+      "tokens": [
+        "일요일",
+        "에",
+        "같이",
+        "만날래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "일요일 좋다",
+      "tokens": [
+        "일요일",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "그때 같이 보자",
+      "tokens": [
+        "그때",
+        "같이",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

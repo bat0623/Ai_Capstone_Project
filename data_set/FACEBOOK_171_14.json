@@ -1,0 +1,373 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오매 세상에나 오늘 중국인 칼부림 봤어?",
+      "tokens": [
+        "오매",
+        "세상",
+        "에",
+        "나",
+        "오늘",
+        "중국인",
+        "칼부림",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 대박이야 완젼",
+      "tokens": [
+        "그니까",
+        "대박",
+        "이",
+        "야",
+        "완",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "별 일이 다있다…",
+      "tokens": [
+        "별일",
+        "이",
+        "다",
+        "있",
+        "다",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "많이 안 다쳤대?",
+      "tokens": [
+        "많이",
+        "안",
+        "다쳤",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "쌍칼로 부려다네 ㄷㄷ 대박이심",
+      "tokens": [
+        "쌍칼",
+        "로",
+        "부려",
+        "EC",
+        "다",
+        "네",
+        "ㄷ",
+        "ㄷ",
+        "대박",
+        "이",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "결국 실탄으로 제압했다네",
+      "tokens": [
+        "결국",
+        "실탄",
+        "으로",
+        "제압",
+        "했",
+        "EP",
+        "다네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "… 그런 사람은 실탄제압 인정",
+      "tokens": [
+        "…",
+        "그런",
+        "사람",
+        "은",
+        "실탄",
+        "제압",
+        "인정"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "경찰이 테이저건 2번이나 쐈데",
+      "tokens": [
+        "경찰",
+        "이",
+        "테이저",
+        "건",
+        "JX",
+        "2",
+        "번",
+        "이나",
+        "쐈",
+        "EP",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "테이저건 안돼가지고 실탄사격 덜덜",
+      "tokens": [
+        "테이저",
+        "건안",
+        "돼",
+        "EC",
+        "가지",
+        "고",
+        "실탄",
+        "사격",
+        "덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "테이져건도 너무 인권존중이다…",
+      "tokens": [
+        "테이져건도너무인권존중이다",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 두 번 다 멀쩡... 덜덜덜덜",
+      "tokens": [
+        "근데",
+        "두",
+        "번",
+        "다",
+        "멀쩡",
+        ".",
+        ".",
+        "덜덜덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 짱깨 민폐야 남의 나라에서...",
+      "tokens": [
+        "진짜",
+        "짱깨",
+        "민폐",
+        "야남",
+        "의",
+        "나라",
+        "에서",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리나라에서 그런 거라고? 미쳤네…",
+      "tokens": [
+        "우리",
+        "나라",
+        "에서",
+        "그런",
+        "거",
+        "라고",
+        "EF",
+        "미쳤",
+        "EP",
+        "네",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "옷이 두꺼우면 안 통한다네?",
+      "tokens": [
+        "옷",
+        "이",
+        "두꺼우",
+        "면",
+        "안통",
+        "한다네",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "남의 나라 와서 무슨 일이야 이게",
+      "tokens": [
+        "남",
+        "의",
+        "나라",
+        "와서",
+        "EC",
+        "무슨",
+        "일",
+        "이",
+        "야",
+        "이게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜... 미쳤다… 쫓아내야함",
+      "tokens": [
+        "진짜",
+        ".",
+        "미쳤",
+        "EP",
+        "다",
+        "…",
+        "쫓아내",
+        "야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "엉! 우리나라 인천이라고 들음!",
+      "tokens": [
+        "엉",
+        "우리",
+        "나라",
+        "인천",
+        "이",
+        "라고",
+        "들",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그니까 조심하자 다들",
+      "tokens": [
+        "그니까",
+        "조심",
+        "하",
+        "자",
+        "다",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "조심하자 다들 ㅠㅠ",
+      "tokens": [
+        "조심하자다들ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "전기충격기 사자",
+      "tokens": [
+        "전기",
+        "충격",
+        "기사",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

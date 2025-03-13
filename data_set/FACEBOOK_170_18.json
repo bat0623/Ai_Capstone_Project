@@ -1,0 +1,349 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "한약 비싼 거 알아?",
+      "tokens": [
+        "한약",
+        "비싼",
+        "ETM",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "한약 완전 비싸지 ㅎ",
+      "tokens": [
+        "한약완전비싸지ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "한약 엄청 비싸죠, ㅜㅜ",
+      "tokens": [
+        "한약",
+        "엄청",
+        "비싸",
+        "죠",
+        ",",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "한달에 50은 줘야해",
+      "tokens": [
+        "한",
+        "달",
+        "에",
+        "50",
+        "은",
+        "줘야해",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "왜이리 비싼 거야 도대체 ㅎ",
+      "tokens": [
+        "왜",
+        "이리",
+        "비싼",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "도대체",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "ㅜㅜ 좋은 걸 많이 넣었나봐여ㅛ",
+      "tokens": [
+        "ㅜㅜ",
+        "좋",
+        "은",
+        "걸",
+        "JKO",
+        "많이",
+        "넣",
+        "었",
+        "나",
+        "봐",
+        "EF",
+        "여ㅛ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "한약은 왜 보험 안해줘 ㅠ",
+      "tokens": [
+        "한약",
+        "은",
+        "왜",
+        "보험",
+        "안",
+        "해",
+        "EC",
+        "줘",
+        "EF",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "자연에서 나는건데 하하",
+      "tokens": [
+        "자연",
+        "에서",
+        "나",
+        "는",
+        "건데",
+        "VCP",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 그러게요 여드름약도 보험이 ㅜㅜ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러",
+        "게",
+        "요여",
+        "드름",
+        "약도",
+        "보험",
+        "이",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "생리통 이런건 보험된데...!",
+      "tokens": [
+        "생리통",
+        "이런",
+        "건",
+        "JX",
+        "보험",
+        "된데",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "보험 해줘야지 한약도,",
+      "tokens": [
+        "보험",
+        "해",
+        "EC",
+        "줘야지",
+        "EF",
+        "한약",
+        "도",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헉 생리통이 보험이 돼요?",
+      "tokens": [
+        "헉",
+        "생리통",
+        "이",
+        "보험",
+        "이",
+        "돼요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "자연에서 난다고 다 싸냐 키키",
+      "tokens": [
+        "자연",
+        "에서",
+        "난다고",
+        "EC",
+        "다",
+        "싸",
+        "냐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "한약 실비 되나?",
+      "tokens": [
+        "한약",
+        "실비",
+        "되",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 한약 실비 넘 웃겨욬ㅋ",
+      "tokens": [
+        "키",
+        "키",
+        "한약",
+        "실비",
+        "넘",
+        "웃겨",
+        "EF",
+        "욬ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "웅 이제 해준다고 기사봄...!",
+      "tokens": [
+        "웅",
+        "이제",
+        "해",
+        "EC",
+        "준다고",
+        "EC",
+        "기사",
+        "봄",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "산에 가면 천진데 왜 비싼걸까",
+      "tokens": [
+        "산",
+        "에",
+        "가",
+        "면",
+        "천진",
+        "데",
+        "왜",
+        "비싼",
+        "ETM",
+        "걸까",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "와우 생리통 보험은 필요하네용",
+      "tokens": [
+        "와우",
+        "생리통",
+        "보험",
+        "은",
+        "필요",
+        "하네",
+        "용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

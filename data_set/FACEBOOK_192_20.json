@@ -1,0 +1,462 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너희 공포영화 잘 보는 편이야?",
+      "tokens": [
+        "너희",
+        "공포",
+        "영화",
+        "잘",
+        "보",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니...",
+      "tokens": [
+        "아니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 전혀 못 봐",
+      "tokens": [
+        "나",
+        "전혀",
+        "못",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 귀신의 집도 못 들어가",
+      "tokens": [
+        "나",
+        "귀신",
+        "의",
+        "집",
+        "도",
+        "못",
+        "들어가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "진짜 공포영화 잘 보는 사람들 신기하더라 키키",
+      "tokens": [
+        "진짜",
+        "공포",
+        "영화",
+        "잘",
+        "보",
+        "는",
+        "사람",
+        "들",
+        "신기",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너는 공포영화 즐겨 보는 편이야?",
+      "tokens": [
+        "너",
+        "는",
+        "공포",
+        "영화",
+        "즐겨",
+        "EC",
+        "보",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "너 공포영화 잘 봐?",
+      "tokens": [
+        "너",
+        "공포",
+        "영화",
+        "잘",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 공포영화 전혀 못 봐 키키",
+      "tokens": [
+        "나",
+        "도",
+        "공포",
+        "영화",
+        "전혀",
+        "못",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "쫄보라 키키",
+      "tokens": [
+        "쫄",
+        "ETM",
+        "보라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "와...",
+      "tokens": [
+        "와",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "우리 다 잘 못 보네 키키",
+      "tokens": [
+        "우리",
+        "다",
+        "잘못",
+        "보네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리는 같이 가면 안되겠다 키키",
+      "tokens": [
+        "우리",
+        "는",
+        "같이",
+        "가",
+        "면",
+        "안",
+        "되",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "절대 공포영화는 안 보겠다 키키",
+      "tokens": [
+        "절대",
+        "공포",
+        "영화",
+        "는",
+        "안",
+        "보",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "누구 하나 팝콘 들고 튈 듯 키키",
+      "tokens": [
+        "누구",
+        "하나",
+        "팝콘",
+        "들",
+        "고",
+        "튈",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응",
+      "tokens": [
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그거 바로 나잖아",
+      "tokens": [
+        "그거",
+        "바로",
+        "나",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 팝콘은 놔두고 가야지 키키",
+      "tokens": [
+        "키",
+        "키",
+        "팝콘",
+        "은",
+        "놔두",
+        "고",
+        "가",
+        "야지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "왜 들고가 키키",
+      "tokens": [
+        "왜",
+        "들",
+        "고",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그럼 팝콘 너한테 안 줘",
+      "tokens": [
+        "그럼",
+        "팝콘",
+        "너",
+        "한테",
+        "안",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "왜...",
+      "tokens": [
+        "왜",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "일인 일 팝콘 하자...",
+      "tokens": [
+        "일",
+        "인",
+        "ETM",
+        "일",
+        "팝콘",
+        "하",
+        "자",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 다음에 우리 영화 보면 공포영화는 보지 말자 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "다음",
+        "에",
+        "우리",
+        "영화",
+        "보",
+        "면",
+        "공포",
+        "영화",
+        "는",
+        "보",
+        "지",
+        "말",
+        "자",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그럼 우리는 코메디로 통일하자",
+      "tokens": [
+        "그럼",
+        "우리",
+        "는",
+        "코메디",
+        "로",
+        "통일",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

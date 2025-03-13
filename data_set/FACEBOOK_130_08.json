@@ -1,0 +1,419 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 난 그 친구가 참 괜찮던뎅...",
+      "tokens": [
+        "*",
+        "*",
+        "난",
+        "JX",
+        "그",
+        "친구",
+        "가",
+        "참",
+        "괜찮",
+        "던",
+        "뎅",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "누구? 괜찮은데 하하",
+      "tokens": [
+        "누구",
+        "괜찮",
+        "은데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그 친구요 ?",
+      "tokens": [
+        "그",
+        "친구",
+        "요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "누구요 ? 어떤",
+      "tokens": [
+        "누구",
+        "요",
+        "어떤"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너가 저런 남자 만나서 결혼 했으면 좋겠어",
+      "tokens": [
+        "너",
+        "가",
+        "저런",
+        "남자",
+        "만나",
+        "서",
+        "결혼",
+        "했",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "누구 말하는 거야 나?",
+      "tokens": [
+        "누구",
+        "말",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "저런 남자...?",
+      "tokens": [
+        "저런",
+        "남자",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어떤 친구이죠 ?",
+      "tokens": [
+        "어떤",
+        "친구",
+        "이",
+        "죠"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 아주 괜찮은 청년이더라구 키키",
+      "tokens": [
+        "키",
+        "키",
+        "아주",
+        "괜찮",
+        "은",
+        "청년",
+        "이",
+        "더라구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 좋은 남자긴 하지 하하",
+      "tokens": [
+        "나",
+        "좋",
+        "은",
+        "남자",
+        "긴",
+        "ETM",
+        "하지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "흐억 넘 궁금해요",
+      "tokens": [
+        "흐억넘궁금해요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니 그 저번에 같이 했던 친구 말야 키키",
+      "tokens": [
+        "아니",
+        "그",
+        "저번",
+        "에",
+        "같이",
+        "했",
+        "EP",
+        "던",
+        "친구",
+        "말",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 그 친구? 하하",
+      "tokens": [
+        "아",
+        "그",
+        "친구",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "알오티씨 친구 하하",
+      "tokens": [
+        "알오티씨친구하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아핰 키키 그렇구나 키키",
+      "tokens": [
+        "아핰",
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아니!",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오빠가 거기서 왜 나와 키키",
+      "tokens": [
+        "오빠",
+        "가",
+        "거기",
+        "서",
+        "왜",
+        "나",
+        "와",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "알오티씨 친구 어때 **야",
+      "tokens": [
+        "알오티씨친구어때",
+        "*",
+        "*",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그 친구 저번에 엄청 칭찬 들어서 몸 둘 바를 모르겠다고 키키",
+      "tokens": [
+        "그",
+        "친구",
+        "저번",
+        "에",
+        "엄청",
+        "칭찬",
+        "들",
+        "어서",
+        "몸둘",
+        "ETM",
+        "바",
+        "를",
+        "모르",
+        "겠",
+        "다고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아주 바른 청년인 거 같은 느낌 이었어...!",
+      "tokens": [
+        "아주",
+        "바른",
+        "ETM",
+        "청년",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "은",
+        "느낌",
+        "이",
+        "었",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아주 엄친아더군?",
+      "tokens": [
+        "아주",
+        "엄친아",
+        "더군",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "바른 청년 맞아용 키키",
+      "tokens": [
+        "바른",
+        "ETM",
+        "청년",
+        "맞",
+        "아용",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

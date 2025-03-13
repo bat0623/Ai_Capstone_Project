@@ -1,0 +1,390 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다른 나라에 무슨 일 있대...?",
+      "tokens": [
+        "다른",
+        "나라",
+        "에",
+        "무슨",
+        "일",
+        "있",
+        "대",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "다른 나라 나도 잘 모르는데 ㅠㅠ",
+      "tokens": [
+        "다른",
+        "나라",
+        "나",
+        "도",
+        "잘",
+        "모르",
+        "는데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜 무슨 일?",
+      "tokens": [
+        "왜",
+        "무슨",
+        "일"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 금시초문 키키",
+      "tokens": [
+        "나",
+        "는",
+        "금시초문",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오늘 무슨 오징어 게임 코인 나왔는데",
+      "tokens": [
+        "오늘",
+        "무슨",
+        "오징어",
+        "게임",
+        "코인",
+        "나왔",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "코인도 있어? 설마 ㄷㄷ",
+      "tokens": [
+        "코인",
+        "도",
+        "있",
+        "어",
+        "설마",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엥? 엄청 비싸겠다 ㄷㄷ",
+      "tokens": [
+        "엥",
+        "엄청",
+        "비싸",
+        "겠",
+        "다",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "한때 2500% 올랐다가 내렸대",
+      "tokens": [
+        "한때",
+        "2500",
+        "%",
+        "올랐",
+        "EP",
+        "다가",
+        "내렸",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "비트코인 상장한 거야 ?",
+      "tokens": [
+        "비트코인",
+        "상장",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헐헐 나도 사고 싶어 키키",
+      "tokens": [
+        "헐헐",
+        "나",
+        "도",
+        "사",
+        "고",
+        "싶",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "무슨 일이냐고 2500% 가...",
+      "tokens": [
+        "무슨",
+        "일",
+        "이",
+        "냐고",
+        "2500",
+        "%",
+        "가",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "소름 돋네 ㄷㄷ",
+      "tokens": [
+        "소름돋네ㄷㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 살까",
+      "tokens": [
+        "나",
+        "도",
+        "살까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 너무 도박이다",
+      "tokens": [
+        "근데",
+        "너무",
+        "도박",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 100원이면 얼마냐...?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "100",
+        "원",
+        "이",
+        "면",
+        "얼마",
+        "냐",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "2500프로 대박이다",
+      "tokens": [
+        "2500",
+        "프로",
+        "대박",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "저 때 물린 사람들 어쨰 ㅠㅠ",
+      "tokens": [
+        "저",
+        "때",
+        "물린",
+        "ETM",
+        "사람",
+        "들",
+        "어쨰",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "인생 한방으로 망할 듯",
+      "tokens": [
+        "인생",
+        "한",
+        "ETM",
+        "방",
+        "으로",
+        "망할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오징어 게임 코인이 뭐냐고 키키",
+      "tokens": [
+        "오징어",
+        "게임",
+        "코인",
+        "이",
+        "뭐",
+        "냐고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "정말 불쌍하다 고점에 물린 사람들",
+      "tokens": [
+        "정말",
+        "불쌍",
+        "하",
+        "다고",
+        "점",
+        "에",
+        "물린",
+        "ETM",
+        "사람",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 그런 거는 하면 안 된다구 ㅜㅜ",
+      "tokens": [
+        "진짜",
+        "그런",
+        "거",
+        "는",
+        "하",
+        "면",
+        "안",
+        "된다구",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

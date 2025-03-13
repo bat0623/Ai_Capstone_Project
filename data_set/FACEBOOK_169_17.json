@@ -1,0 +1,327 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "간염 주사 맞았냐",
+      "tokens": [
+        "간염",
+        "주사",
+        "맞",
+        "았",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어릴 때 맞는 거 아닌가?",
+      "tokens": [
+        "어릴",
+        "ETM",
+        "때맞",
+        "는",
+        "거",
+        "아닌가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아직 간염주사는 안 맞았어",
+      "tokens": [
+        "아직",
+        "간염",
+        "주사",
+        "는",
+        "안",
+        "맞",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "다들 간염 예방 해야해",
+      "tokens": [
+        "다",
+        "들",
+        "간염",
+        "예방",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 무슨 항체가 없다던데 근데 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "무슨",
+        "항체",
+        "가",
+        "없",
+        "다던데",
+        "근데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "독감 주사 맞으려구",
+      "tokens": [
+        "독감",
+        "주사",
+        "맞",
+        "으려구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "간염 걸리면 노답이심",
+      "tokens": [
+        "간염",
+        "걸리",
+        "면",
+        "노",
+        "답",
+        "이",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 병원서 뭐가 없다했어 하하",
+      "tokens": [
+        "나병원",
+        "서",
+        "뭐",
+        "가",
+        "없",
+        "다",
+        "했",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이젠 스스로 예방해야해",
+      "tokens": [
+        "이젠",
+        "JX",
+        "스스로",
+        "예방",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "평생 약 먹어야해",
+      "tokens": [
+        "평생",
+        "약",
+        "먹",
+        "어야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "주사 맞아도 안생긴데 하하",
+      "tokens": [
+        "주사",
+        "맞",
+        "아도",
+        "안",
+        "생긴",
+        "ETM",
+        "데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "간염 주사 맞아야겠어",
+      "tokens": [
+        "간염",
+        "주사",
+        "맞",
+        "아야",
+        "겠어",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 그 얘기들음!",
+      "tokens": [
+        "나",
+        "도",
+        "그",
+        "얘기",
+        "들",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그냥 이리 살면 된다던데 하하",
+      "tokens": [
+        "그냥",
+        "이리",
+        "살",
+        "면",
+        "된다던데",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "꼭 다들 맞자",
+      "tokens": [
+        "꼭",
+        "다",
+        "들",
+        "맞",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "간염 주사 꼭 맞아서 항체 생성 해야해!",
+      "tokens": [
+        "간염",
+        "주사",
+        "꼭",
+        "맞",
+        "아서",
+        "항체",
+        "생성",
+        "해야",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "간염 넘 무섭지 ㅠㅠ",
+      "tokens": [
+        "간염넘무섭지ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "간염 주사 중요한가보네",
+      "tokens": [
+        "간염",
+        "주사",
+        "중요",
+        "한가",
+        "EC",
+        "보",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

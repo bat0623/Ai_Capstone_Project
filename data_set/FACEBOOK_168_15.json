@@ -1,0 +1,358 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "러시아는 우주를 다닌다니까...",
+      "tokens": [
+        "러시아",
+        "는",
+        "우주",
+        "를",
+        "다닌",
+        "ETM",
+        "다니",
+        "까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 영화도 우주에서 찍고",
+      "tokens": [
+        "맞",
+        "아",
+        "영화",
+        "도",
+        "우주",
+        "에서",
+        "찍",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "황소 꿈 우주비행이던데...",
+      "tokens": [
+        "황소",
+        "꿈",
+        "우주",
+        "비행",
+        "이",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리도 이번에  성공 했었어야 했는디 ㅠㅠ",
+      "tokens": [
+        "우리",
+        "도",
+        "이번",
+        "에",
+        "성공",
+        "했었어야",
+        "EP",
+        "EC",
+        "했",
+        "EP",
+        "는디",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우린 누리호도 실패했는데",
+      "tokens": [
+        "우린",
+        "JX",
+        "누리",
+        "호도",
+        "실패",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맨날 우주선 있나 하늘봄",
+      "tokens": [
+        "맨날",
+        "우주선",
+        "있",
+        "나",
+        "하늘",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "황소 꿈은 외계인 만나는 건데?",
+      "tokens": [
+        "황소",
+        "꿈",
+        "은",
+        "외계인",
+        "만나",
+        "는",
+        "건데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "거긴 완젼 우주강국 미틴",
+      "tokens": [
+        "거긴",
+        "JX",
+        "완",
+        "젼",
+        "우주",
+        "강국",
+        "미",
+        "틴"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "정말 특이한 여성이야…",
+      "tokens": [
+        "정말",
+        "특이",
+        "한",
+        "ETM",
+        "여성",
+        "이",
+        "야",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 우리도 성공 했으면 좋겠다",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "우리",
+        "도",
+        "성공",
+        "했",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "외계인 만나는 거라고? 하하",
+      "tokens": [
+        "외계인",
+        "만나",
+        "는",
+        "거",
+        "라고",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래 외계인 볼라고 우주 갈라함 키키",
+      "tokens": [
+        "그래",
+        "외계인",
+        "볼라고",
+        "EC",
+        "우주",
+        "갈라",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "내년에 다시 시도 한뎅",
+      "tokens": [
+        "내년",
+        "에",
+        "다시",
+        "시도",
+        "한",
+        "ETM",
+        "뎅"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "한번 꿈 이룰 수 있을까?",
+      "tokens": [
+        "한",
+        "번",
+        "꿈",
+        "이룰",
+        "ETM",
+        "수",
+        "있",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "계속 어 저거 유에포아님 샀는다 키키",
+      "tokens": [
+        "계속",
+        "어",
+        "저",
+        "거유",
+        "에",
+        "포아",
+        "님",
+        "샀",
+        "EP",
+        "는",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "외계인 만나면 뭐한데...?",
+      "tokens": [
+        "외계인",
+        "만나",
+        "면",
+        "뭐",
+        "한데",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내년에는 꼭 성공하길",
+      "tokens": [
+        "내년",
+        "에",
+        "는",
+        "꼭",
+        "성공",
+        "하",
+        "길",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "몰라 이티 할껀가봐 ㅋ",
+      "tokens": [
+        "몰라",
+        "EC",
+        "이티",
+        "할",
+        "ETM",
+        "껀가",
+        "VCP",
+        "EF",
+        "봐ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

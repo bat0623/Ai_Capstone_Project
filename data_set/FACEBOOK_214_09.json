@@ -1,0 +1,435 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 집은 고양이 4개 1 있음...",
+      "tokens": [
+        "*",
+        "*",
+        "집",
+        "은",
+        "고양이",
+        "4",
+        "개",
+        "1",
+        "있",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "앜 키키 맞아 키키",
+      "tokens": [
+        "앜키키맞아키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 지금 1늘었음",
+      "tokens": [
+        "근데",
+        "지금",
+        "1",
+        "늘",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "헐... 네 마리나?",
+      "tokens": [
+        "헐",
+        ".",
+        "네",
+        "마리",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "청소하기 안 힘드러?",
+      "tokens": [
+        "청소",
+        "하",
+        "기",
+        "안",
+        "힘드",
+        "러"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "원래는 고양이 7. 개 3 정도?",
+      "tokens": [
+        "원래",
+        "는",
+        "고양이",
+        "7",
+        "개",
+        "3",
+        "정도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "왜냐면 고양이 돌봐주고 있음 키키",
+      "tokens": [
+        "왜냐면",
+        "고양이",
+        "돌봐",
+        "EC",
+        "주",
+        "고",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐... 총10마리에서 반이나 준 거였네",
+      "tokens": [
+        "헐",
+        ".",
+        "총",
+        "10",
+        "마리",
+        "에서",
+        "반",
+        "이",
+        "나",
+        "준",
+        "ETM",
+        "거",
+        "였",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "**이 주택 살아...!",
+      "tokens": [
+        "*",
+        "*",
+        "이주택",
+        "살",
+        "아",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "밖에서 길고양이라 괜찮아 ㅜㅜ 키키",
+      "tokens": [
+        "밖",
+        "에서",
+        "길고양이",
+        "라",
+        "EC",
+        "괜찮",
+        "아",
+        "ㅜㅜ",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 밖에서... 집안에서는 힘들 거 같았오",
+      "tokens": [
+        "아",
+        "밖",
+        "에서",
+        ".",
+        "집안",
+        "에서",
+        "는",
+        "힘들",
+        "ETM",
+        "거",
+        "같",
+        "았",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "**이는 고양이 알러지가 있어...",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "는",
+        "고양이",
+        "알",
+        "러지",
+        "가",
+        "있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "길고양이 돌봐주고 집에 한 마리 더 있고 키키",
+      "tokens": [
+        "길고양이",
+        "돌봐",
+        "EC",
+        "주",
+        "고",
+        "집",
+        "에",
+        "한",
+        "마리",
+        "더",
+        "있",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "고양이 알러지 있는데 고양이 어찌 만져 ㅜㅜ",
+      "tokens": [
+        "고양이",
+        "알",
+        "러지",
+        "있",
+        "는데",
+        "고양이",
+        "어찌",
+        "만져",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "부모님이 동물 사랑하셔서 다 거둬줘 ㅠㅠ",
+      "tokens": [
+        "부모",
+        "님",
+        "이",
+        "동물",
+        "사랑",
+        "하",
+        "셔서",
+        "EC",
+        "다",
+        "거둬",
+        "EC",
+        "줘",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 나는 하필 알러지가... ㅜㅠ",
+      "tokens": [
+        "응",
+        "나",
+        "는",
+        "하필",
+        "알",
+        "러",
+        "지",
+        "가",
+        ".",
+        "ㅜㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "약 먹고 만져",
+      "tokens": [
+        "약",
+        "먹",
+        "고",
+        "만져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 알러지 때문에 고양이 만지지도 못하는데",
+      "tokens": [
+        "나",
+        "알",
+        "러지",
+        "때문",
+        "에",
+        "고양이",
+        "만",
+        "지지",
+        "도",
+        "못하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "**집 동물 이제 그만...!",
+      "tokens": [
+        "*",
+        "*",
+        "집",
+        "동물",
+        "이제",
+        "그만",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "약이 필수야 그래서 ㅜㅜ",
+      "tokens": [
+        "약",
+        "이",
+        "필수",
+        "야",
+        "EF",
+        "그래서",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 진짜 의지가 대단하다. 나는 안 만지고 마는데",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "의지",
+        "가",
+        "대단",
+        "하",
+        "다",
+        "나",
+        "는",
+        "안",
+        "만지",
+        "고",
+        "마",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

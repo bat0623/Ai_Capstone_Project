@@ -1,0 +1,363 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대에  잡초병도 있다네...?",
+      "tokens": [
+        "군대",
+        "에",
+        "잡초",
+        "병",
+        "도",
+        "있",
+        "다네",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "잡초병은 뭐한는거임?",
+      "tokens": [
+        "잡초",
+        "병",
+        "은",
+        "뭐",
+        "한",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "풀 뽑는 아들이제 ㅋ",
+      "tokens": [
+        "풀뽑는아들이제ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "잡초 뽑는 주특기야?",
+      "tokens": [
+        "잡초",
+        "뽑",
+        "는",
+        "주특기",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 예초병 말하는 건가?",
+      "tokens": [
+        "아예",
+        "초병",
+        "말",
+        "하",
+        "는",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "잡초 뽑는 거 은근 힘듬 키키",
+      "tokens": [
+        "잡초",
+        "뽑",
+        "는",
+        "거",
+        "은",
+        "근",
+        "힘",
+        "듬",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 잡초병 아니고 예초병!",
+      "tokens": [
+        "아",
+        "잡초",
+        "병",
+        "아니",
+        "고",
+        "예",
+        "초병"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "예초기 들고 풀까근 아들?",
+      "tokens": [
+        "예초기",
+        "들",
+        "고",
+        "풀",
+        "까",
+        "근",
+        "아들"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그 예초기도 돌리고 키키",
+      "tokens": [
+        "그",
+        "예초기",
+        "도",
+        "돌리",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마자 마자 예초병임 키키",
+      "tokens": [
+        "마자마",
+        "자예",
+        "초병",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "예초병 있음?",
+      "tokens": [
+        "예",
+        "초병",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그 아들 휴가 자주감 키키",
+      "tokens": [
+        "그",
+        "아들",
+        "휴가",
+        "자주",
+        "감",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "예초기 알바도 있음 산청에 응응",
+      "tokens": [
+        "예초기",
+        "알",
+        "ETM",
+        "바",
+        "도",
+        "있",
+        "음",
+        "산청",
+        "에",
+        "응응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "예초기 돌리는 애들임?",
+      "tokens": [
+        "예초기",
+        "돌리",
+        "는",
+        "애",
+        "들",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "꽤나 여름에 모집함",
+      "tokens": [
+        "꽤",
+        "나",
+        "여름",
+        "에",
+        "모집",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응응 풀 깎는 거임 예초기 들고",
+      "tokens": [
+        "응",
+        "응",
+        "풀",
+        "깎",
+        "는",
+        "거",
+        "임",
+        "ETN",
+        "예초기",
+        "들",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "산청에 그런 알바가 있다고?",
+      "tokens": [
+        "산청",
+        "에",
+        "그런",
+        "알바",
+        "가",
+        "있",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "각 대대별로 한 명씩 감 키키",
+      "tokens": [
+        "각",
+        "대대",
+        "별",
+        "로",
+        "한",
+        "명",
+        "씩",
+        "감",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어어 애들 함씩 하더라 키키",
+      "tokens": [
+        "어",
+        "어",
+        "애",
+        "들",
+        "함",
+        "씩",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

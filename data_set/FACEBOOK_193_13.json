@@ -1,0 +1,387 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 날씨 진짜 좋다 하하",
+      "tokens": [
+        "오늘",
+        "날씨",
+        "진짜",
+        "좋",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "날씨 오늘 좋아?",
+      "tokens": [
+        "날씨",
+        "오늘",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "밖에 진짜 따뜻하던데",
+      "tokens": [
+        "밖",
+        "에",
+        "진짜",
+        "따뜻",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "엇 근데 ** 족구 못할 듯?",
+      "tokens": [
+        "엇",
+        "근데",
+        "*",
+        "*",
+        "족구",
+        "못",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 왜 이렇게 춥냐 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "왜",
+        "이렇게",
+        "춥",
+        "냐",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 미세먼지가 많음...",
+      "tokens": [
+        "근데",
+        "미세먼지",
+        "가",
+        "많",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "일요일에 비 오잖아 키키",
+      "tokens": [
+        "일요일",
+        "에",
+        "비오",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "** 근데 족구 차는 날은 비 안 온다",
+      "tokens": [
+        "*",
+        "*",
+        "근데족구차는날은비안온다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아...일요일에 비 많이 오나",
+      "tokens": [
+        "아",
+        ".",
+        "일요일",
+        "에",
+        "비",
+        "많이",
+        "오",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "100% 온다고 했는데?",
+      "tokens": [
+        "100",
+        "%",
+        "온다고",
+        "EC",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "온다 해도 잘 안 오더라고 ?",
+      "tokens": [
+        "온다",
+        "EC",
+        "해도",
+        "EC",
+        "잘",
+        "안",
+        "오",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내 이때까지 못찬 적이 없는데",
+      "tokens": [
+        "내",
+        "JKG",
+        "이때",
+        "까지",
+        "못",
+        "찬",
+        "ETM",
+        "적",
+        "이",
+        "없",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그렇네 키키 ?",
+      "tokens": [
+        "그렇",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "**는 왜 그런데?",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "왜",
+        "그런데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아놔",
+      "tokens": [
+        "아",
+        "놔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이번 주는 못 차는 건가요 키키",
+      "tokens": [
+        "이번",
+        "주",
+        "는",
+        "못",
+        "차",
+        "는",
+        "건가요",
+        "VCP",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아마 족구시간엔 안 올걸?",
+      "tokens": [
+        "아마",
+        "족구",
+        "시간",
+        "엔",
+        "JX",
+        "안",
+        "올걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "날씨 요정 ** 인감...?",
+      "tokens": [
+        "날씨",
+        "요정",
+        "*",
+        "*",
+        "인감",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "몰라 ** 족구 찰 때만 딱 안 옴 비 오다가도 키키",
+      "tokens": [
+        "몰라",
+        "EC",
+        "*",
+        "*",
+        "족구찰때만딱안옴비오다가도키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "날씨요정임 키키",
+      "tokens": [
+        "날씨",
+        "요정",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "절대 비 안 옴",
+      "tokens": [
+        "절",
+        "대비",
+        "안",
+        "옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

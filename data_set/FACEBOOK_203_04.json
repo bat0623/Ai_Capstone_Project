@@ -1,0 +1,447 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 오빠는 별 희안한 알바 해봤다?",
+      "tokens": [
+        "우리",
+        "오빠",
+        "는",
+        "별",
+        "희안",
+        "한",
+        "ETM",
+        "알",
+        "ETM",
+        "바",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어떤 알바 해보셨어요?",
+      "tokens": [
+        "어떤",
+        "알",
+        "ETM",
+        "바",
+        "해",
+        "EC",
+        "보",
+        "셨",
+        "EP",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "뭔데",
+      "tokens": [
+        "뭔데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 과자공장 일해봄 키키",
+      "tokens": [
+        "나",
+        "는",
+        "과자",
+        "공장",
+        "일",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "낚시대회 알바 해봄 키키",
+      "tokens": [
+        "낚시",
+        "대회",
+        "알",
+        "바",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 행님은 뭔가 많이 해보셨을 듯",
+      "tokens": [
+        "키",
+        "키",
+        "행",
+        "님",
+        "은",
+        "뭔가",
+        "VCP",
+        "EC",
+        "많이",
+        "해",
+        "EC",
+        "보",
+        "셨",
+        "EP",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엥?",
+      "tokens": [
+        "엥"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그런 알바가 있다고? 키키",
+      "tokens": [
+        "그런",
+        "알바",
+        "가",
+        "있",
+        "다고",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 ** 과자 공장 알바 해봤어 키키",
+      "tokens": [
+        "아",
+        "*",
+        "*",
+        "과자공장알바해봤어키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응?",
+      "tokens": [
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "낚시대회에 키키 무슨 알바가",
+      "tokens": [
+        "낚시",
+        "대회",
+        "에",
+        "키",
+        "키",
+        "ETN",
+        "무슨",
+        "알",
+        "ETM",
+        "바",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그게 뭐하는건데? 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "뭐",
+        "하",
+        "는",
+        "건데",
+        "VCP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "존웃",
+      "tokens": [
+        "존",
+        "웃",
+        "EP"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "과자 주워 먹어도 된다 그랬나?",
+      "tokens": [
+        "과자",
+        "주워먹",
+        "어도",
+        "된다",
+        "EC",
+        "그랬",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그런 건 어떻게 알고 가시져 키키",
+      "tokens": [
+        "그런",
+        "건",
+        "JX",
+        "어떻",
+        "게",
+        "알",
+        "고",
+        "가",
+        "시",
+        "져",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어 과자공장에서 하루 일함 키키",
+      "tokens": [
+        "어",
+        "과자",
+        "공장",
+        "에서",
+        "하루",
+        "일",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "하루 일하고 때려 치움",
+      "tokens": [
+        "하루",
+        "일",
+        "하",
+        "고",
+        "때려치",
+        "움"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "**누나...",
+      "tokens": [
+        "*",
+        "*",
+        "누나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "과자 공장...",
+      "tokens": [
+        "과자",
+        "공장",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어 과자 엄청 먹어서 나중에는 물림;",
+      "tokens": [
+        "어",
+        "과자",
+        "엄청",
+        "먹",
+        "어서",
+        "나중",
+        "에",
+        "는",
+        "물림",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "기계가 된 기분이제...?",
+      "tokens": [
+        "기계",
+        "가",
+        "된",
+        "ETM",
+        "기분",
+        "이제",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "저 과자공장 일한 사람 처음 본",
+      "tokens": [
+        "저",
+        "과자",
+        "공장",
+        "일",
+        "한",
+        "사람",
+        "처음",
+        "본",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "냄새만 맡아도 토 나와 ㅜㅜ",
+      "tokens": [
+        "냄새",
+        "만",
+        "맡",
+        "아도",
+        "토나",
+        "와",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

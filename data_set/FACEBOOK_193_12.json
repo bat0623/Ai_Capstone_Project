@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이천에서 자고 오는 거임?",
+      "tokens": [
+        "이",
+        "천",
+        "에서",
+        "자",
+        "고",
+        "오",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "갔다가 내려와야해 ㅠ",
+      "tokens": [
+        "갔",
+        "EP",
+        "다가",
+        "내려와야",
+        "EC",
+        "해ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이천에서 안 자고 와야함",
+      "tokens": [
+        "이",
+        "천",
+        "에서",
+        "안",
+        "자",
+        "고",
+        "와야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "엑 당일 치기 가능 ... ?",
+      "tokens": [
+        "엑",
+        "당일치기",
+        "가능",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "일요일에 가장 중요한 ...",
+      "tokens": [
+        "일요일",
+        "에",
+        "가장",
+        "중요",
+        "한",
+        "ETM",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그래성 운전 개빡시겠다 ...",
+      "tokens": [
+        "그래",
+        "성운",
+        "전개",
+        "빡시",
+        "겠",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "몇 시에 출발 할 건데?",
+      "tokens": [
+        "몇",
+        "시",
+        "에",
+        "출발",
+        "할",
+        "ETM",
+        "건데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "**의 족구 데이거든 ...",
+      "tokens": [
+        "*",
+        "*",
+        "의",
+        "족구",
+        "데이",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 일요일 족구 해야 해서",
+      "tokens": [
+        "키",
+        "키",
+        "일요일",
+        "족구",
+        "해야",
+        "EC",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "일요일에 무슨...",
+      "tokens": [
+        "일요일",
+        "에",
+        "무슨",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아... 족구 데이... 하하",
+      "tokens": [
+        "아",
+        ".",
+        "족구",
+        "데이",
+        ".",
+        ".",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "가서 잠시 보고 오는 거지 ㅠ",
+      "tokens": [
+        "가",
+        "서",
+        "잠시",
+        "보",
+        "고",
+        "오",
+        "는",
+        "거",
+        "지ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "절대 자고 올 수 없다",
+      "tokens": [
+        "절대자",
+        "고",
+        "EC",
+        "올",
+        "ETM",
+        "수",
+        "없",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "열정맨이네",
+      "tokens": [
+        "열정",
+        "맨",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "정말 대단하당...",
+      "tokens": [
+        "정말",
+        "대단",
+        "하",
+        "당",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 대단한 족구 사랑 ㅋ",
+      "tokens": [
+        "진짜",
+        "대단",
+        "한",
+        "ETM",
+        "족구",
+        "사랑",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내가 운전을 하고 말지...",
+      "tokens": [
+        "내",
+        "가",
+        "운전",
+        "을",
+        "하",
+        "고",
+        "말",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "왕복 6시간 운전 가능...?",
+      "tokens": [
+        "왕복",
+        "6",
+        "시간",
+        "운전",
+        "가능",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "** 껌일 걸 키키",
+      "tokens": [
+        "*",
+        "*",
+        "껌",
+        "일",
+        "ETM",
+        "걸",
+        "JKO",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "**는 옆에서 자고 키키",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "옆",
+        "에서",
+        "자",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "내 혼자 하면 됨",
+      "tokens": [
+        "내",
+        "JKG",
+        "혼자",
+        "하",
+        "면",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

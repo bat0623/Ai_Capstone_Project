@@ -1,0 +1,383 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "허스키들은 겨울 진짜 좋아하는 거 알아?",
+      "tokens": [
+        "허스키",
+        "들",
+        "은",
+        "겨울",
+        "진짜",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그렇다고 하데?",
+      "tokens": [
+        "그렇",
+        "다고",
+        "하",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "걔네들은 추운 지방 개니까",
+      "tokens": [
+        "걔",
+        "네",
+        "들",
+        "은",
+        "추운지",
+        "EC",
+        "방개",
+        "니까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요 동네에  허스키 있는 데 요즘 완전 기분 좋음 키키",
+      "tokens": [
+        "요",
+        "동네",
+        "에",
+        "허스키",
+        "있",
+        "는데",
+        "요즘",
+        "완전",
+        "기분",
+        "좋",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "허스키 썰매 끌던 강아지니까 응응",
+      "tokens": [
+        "허스키",
+        "썰매",
+        "끌",
+        "던",
+        "강아지",
+        "니까",
+        "EC",
+        "응응"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "더우면 냉장고에 일부러 넣어준대",
+      "tokens": [
+        "더우",
+        "면",
+        "냉장고",
+        "에",
+        "일부러",
+        "넣",
+        "어",
+        "준대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "여름에는 완전 인절미거든?",
+      "tokens": [
+        "여름",
+        "에",
+        "는",
+        "완전",
+        "인절미",
+        "거든",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너무 귀엽네 허스키 키키",
+      "tokens": [
+        "너무",
+        "귀엽",
+        "네",
+        "허",
+        "스키키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 생글생글 사뿐사뿐 산책 다니겠구먼",
+      "tokens": [
+        "키",
+        "키",
+        "생글생글",
+        "사뿐사뿐",
+        "산책",
+        "다니",
+        "겠",
+        "구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "쌀랑 해지면 꼬리가 다름",
+      "tokens": [
+        "쌀랑",
+        "해",
+        "EC",
+        "지",
+        "면",
+        "꼬리",
+        "가",
+        "다름",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니 그거 암 폼스키?",
+      "tokens": [
+        "아니",
+        "그거",
+        "암",
+        "폼",
+        "스키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "허스키 털 빠지는 거 어찌 감당하누",
+      "tokens": [
+        "허스키",
+        "털",
+        "빠지",
+        "는",
+        "거",
+        "어찌",
+        "감당",
+        "하",
+        "누"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 폼스키 알지...",
+      "tokens": [
+        "키",
+        "키",
+        "폼",
+        "스키",
+        "알",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "개 존귀...",
+      "tokens": [
+        "개",
+        "존귀",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "걔도 추운 날씨 좋아하려나 키키",
+      "tokens": [
+        "걔",
+        "도",
+        "추운",
+        "ETM",
+        "날씨",
+        "좋",
+        "아",
+        "하",
+        "려나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "꼬리 붕~붕~ 폼스키는 머얌?",
+      "tokens": [
+        "꼬리",
+        "붕",
+        "~",
+        "붕",
+        "~",
+        "폼스키는머얌"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "허스키 털 빠짐 감당 한 될 듯 ㅠㅠ",
+      "tokens": [
+        "허스키",
+        "털",
+        "빠짐",
+        "ETN",
+        "감당",
+        "한",
+        "ETM",
+        "될",
+        "ETM",
+        "듯",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "폼스키 진짜 귀엽드라~",
+      "tokens": [
+        "폼",
+        "스키",
+        "진짜",
+        "귀엽",
+        "드라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "큰 개들이 대체적으로 털 엄청 빠질 듯",
+      "tokens": [
+        "큰개",
+        "들",
+        "이",
+        "대체",
+        "적",
+        "으로",
+        "털",
+        "엄청",
+        "빠질",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

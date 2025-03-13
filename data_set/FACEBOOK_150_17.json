@@ -1,0 +1,557 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "비염도 유전인가?",
+      "tokens": [
+        "비염",
+        "도",
+        "유전",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 엄마 비염 있는데 나도 그래",
+      "tokens": [
+        "우리",
+        "엄마",
+        "비염",
+        "있",
+        "는데",
+        "나",
+        "도",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 집도 약간 그래...",
+      "tokens": [
+        "우리",
+        "집",
+        "도",
+        "약간",
+        "그래",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "비염도 그럼 유전인가 봐",
+      "tokens": [
+        "비염",
+        "도",
+        "그럼",
+        "유전",
+        "인가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "지금 비염 심해?",
+      "tokens": [
+        "지금",
+        "비",
+        "염심",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 엄청 심하진 않고 재채기 자주 해",
+      "tokens": [
+        "난",
+        "JX",
+        "엄청",
+        "심하",
+        "진",
+        "JX",
+        "않",
+        "고",
+        "재채기",
+        "자주",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "재채기 자주 하면 코가 예민한 거야 ㅠㅠ",
+      "tokens": [
+        "재채기",
+        "자주",
+        "하",
+        "면",
+        "코",
+        "가",
+        "예민",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 재채기 나오는 것도 비염인 거야?",
+      "tokens": [
+        "아",
+        "재채기",
+        "나오",
+        "는",
+        "것",
+        "도",
+        "비염",
+        "인",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 재채기 할 때 기분 좋던데,",
+      "tokens": [
+        "나",
+        "는",
+        "재채기",
+        "할",
+        "ETM",
+        "때",
+        "기분",
+        "좋",
+        "던데",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 재채기 하면 눈물 나와서 싫던데?!",
+      "tokens": [
+        "난",
+        "JX",
+        "재채기",
+        "하",
+        "면",
+        "눈물",
+        "나와서",
+        "EC",
+        "싫",
+        "던데",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엥 재채기를 하는데 기분이 좋다고? 키키",
+      "tokens": [
+        "엥",
+        "재채기",
+        "를",
+        "하",
+        "는데",
+        "기분",
+        "이",
+        "좋",
+        "다고",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "시원하잖아 키키",
+      "tokens": [
+        "시원",
+        "하",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래서 재채기 기다리는 중",
+      "tokens": [
+        "그래서",
+        "재채기",
+        "기다리",
+        "는",
+        "중"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "재채기 나는 10번 넘게 하더라고 키키",
+      "tokens": [
+        "재채기",
+        "나",
+        "는",
+        "10",
+        "번",
+        "넘",
+        "게",
+        "하",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 간질 간질 하다가 나오면 시원하긴 하지 키키",
+      "tokens": [
+        "아",
+        "간질간질",
+        "하",
+        "다가",
+        "나오",
+        "면",
+        "시원",
+        "하",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 그건 너무 힘들겠다 키키",
+      "tokens": [
+        "아",
+        "그건",
+        "JX",
+        "너무",
+        "힘들",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나는 그냥 가끔 푸에칭해",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "가끔",
+        "푸",
+        "에",
+        "칭해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나는 에취~ 완전 시원하게 재채기 하는데!",
+      "tokens": [
+        "나",
+        "는",
+        "에취",
+        "~",
+        "완전",
+        "시원",
+        "하",
+        "게",
+        "재채기",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "푸에칭이 뭐야",
+      "tokens": [
+        "푸",
+        "에칭",
+        "이",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "귀엽다 키키",
+      "tokens": [
+        "귀엽",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "재채기는 시원하게 하는 게 최고지",
+      "tokens": [
+        "재채기",
+        "는",
+        "시원",
+        "하",
+        "게",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "최고",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 맞아~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "나는 아직 약 먹을 정도 아니라서 다행",
+      "tokens": [
+        "나",
+        "는",
+        "아직",
+        "약",
+        "먹",
+        "을",
+        "정도",
+        "아니",
+        "라서",
+        "다행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "다행이다",
+      "tokens": [
+        "다행",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "내 친구는 이미 약 먹는다더라~",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "는",
+        "이미",
+        "약",
+        "먹",
+        "는다더라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "약 먹을 정도는 아니라서 다행이네 키키",
+      "tokens": [
+        "약",
+        "먹",
+        "을",
+        "정도",
+        "는",
+        "아니",
+        "라서",
+        "다행",
+        "이",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

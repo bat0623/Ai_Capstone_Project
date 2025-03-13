@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "바나나보트나 땅콩보트 타는 거 좋아해?",
+      "tokens": [
+        "바나나보트",
+        "나",
+        "땅콩",
+        "보트",
+        "타",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 바나나보트 한 번 타봤어",
+      "tokens": [
+        "나",
+        "는",
+        "바나나보트",
+        "한",
+        "번",
+        "타",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 아직 경험 없어",
+      "tokens": [
+        "나",
+        "는",
+        "아직",
+        "경험",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "바나나보트 너무 무섭지 않아? ㅠㅠ",
+      "tokens": [
+        "바나나보트",
+        "너무",
+        "무섭",
+        "지",
+        "않",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 바나나보트 속도가 무서워ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "바나나보트",
+        "속도",
+        "가",
+        "무서워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "보니까 엄청 빠르던데 속도",
+      "tokens": [
+        "보",
+        "니까",
+        "엄청",
+        "빠르",
+        "던데",
+        "속도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그러니까 키키",
+      "tokens": [
+        "그러니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 바나나 보트가 제일 무섭더라 ㅠㅠ",
+      "tokens": [
+        "나",
+        "바나나보트",
+        "가",
+        "제일",
+        "무섭",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아 타면 더 빨라 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "타",
+        "면",
+        "더",
+        "빨라",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 한번 타 보고 싶네",
+      "tokens": [
+        "나",
+        "도",
+        "한",
+        "번",
+        "타",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "한번 타 봤는데 그 이후로 바나나보트 안타 ㅠㅠ",
+      "tokens": [
+        "한",
+        "번",
+        "타",
+        "EC",
+        "봤",
+        "EP",
+        "는데",
+        "그",
+        "이후",
+        "로",
+        "바나나보트",
+        "안타",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오 너 타는 거 좋아해?",
+      "tokens": [
+        "오너",
+        "타",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "은근 속도감 즐기고 있네 너",
+      "tokens": [
+        "은근",
+        "속도감",
+        "즐기",
+        "고",
+        "있",
+        "네",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 키키 좋아하는데 힘을 너무 주나봐 팔이 너무 아프더라고 키키",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "ETN",
+        "좋",
+        "아",
+        "하",
+        "는데",
+        "힘",
+        "을",
+        "너무",
+        "주",
+        "나",
+        "봐",
+        "EF",
+        "팔",
+        "이",
+        "너무",
+        "아프",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 키키 은근 스릴 즐기잖아",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN",
+        "은",
+        "근",
+        "스릴",
+        "즐기",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래 키키 그건 뭐 좋은 태도지 키키",
+      "tokens": [
+        "그래",
+        "키",
+        "키",
+        "ETN",
+        "그건",
+        "JX",
+        "뭐",
+        "좋",
+        "은",
+        "태도",
+        "지키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 카트도 좋아해 키키",
+      "tokens": [
+        "나",
+        "는",
+        "카트",
+        "도",
+        "좋",
+        "아",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그런 스릴 너무 좋아 키키",
+      "tokens": [
+        "그런",
+        "스릴",
+        "너무",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 운동을 즐기는 건 좋은거야",
+      "tokens": [
+        "맞",
+        "아",
+        "운동",
+        "을",
+        "즐기",
+        "는",
+        "건",
+        "JX",
+        "좋",
+        "은",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 그래 마음껏 즐겨 놔라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "마음껏",
+        "즐겨",
+        "EC",
+        "놔라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

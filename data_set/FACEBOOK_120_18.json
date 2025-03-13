@@ -1,0 +1,454 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 오늘 카드값 얼마 내야 하는지 문자가 왔어,",
+      "tokens": [
+        "나",
+        "오늘",
+        "카드",
+        "값",
+        "얼마",
+        "내야",
+        "하",
+        "는지",
+        "문자",
+        "가",
+        "왔",
+        "EP",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 그날이 제일 긴장되는 날이긴 하지...",
+      "tokens": [
+        "아",
+        "그날",
+        "이",
+        "제일",
+        "긴장",
+        "되",
+        "는",
+        "날",
+        "이",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어 맞아,",
+      "tokens": [
+        "어",
+        "맞아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "얼마 나왔는지 알아,?",
+      "tokens": [
+        "얼마나",
+        "왔",
+        "EP",
+        "는지",
+        "알",
+        "아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "음 한 100만 원은 나오지 않았을까?",
+      "tokens": [
+        "음한",
+        "ETM",
+        "100",
+        "만",
+        "원",
+        "은",
+        "나오",
+        "지",
+        "않",
+        "았",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "거의 맞췄어,",
+      "tokens": [
+        "거의",
+        "맞췄",
+        "EP",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "111만 원 하하하",
+      "tokens": [
+        "111",
+        "만",
+        "원",
+        "하하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "뭐야",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "숫자도 맞춘 거 같은데?",
+      "tokens": [
+        "숫자",
+        "도",
+        "맞춘",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 나도 소름 돋았어",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "소름",
+        "돋",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "금액 보고 키키",
+      "tokens": [
+        "금액",
+        "보고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 웃긴데 슬픈 금액 아니야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "웃긴데",
+        "EC",
+        "슬픈",
+        "ETM",
+        "금액",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "응 맞아,",
+      "tokens": [
+        "응",
+        "맞아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "갚아야지,",
+      "tokens": [
+        "갚",
+        "아야지",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "국민카드님한테,",
+      "tokens": [
+        "국민카드",
+        "님",
+        "한테",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그럼 우리는 카드값 갚으려고 일하는 거야 키키",
+      "tokens": [
+        "그럼",
+        "우리",
+        "는",
+        "카드",
+        "값",
+        "갚",
+        "으려고",
+        "일",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "다음 달에도 아마 100만 원 정도 나올 거 같아!",
+      "tokens": [
+        "다음",
+        "달",
+        "에",
+        "도",
+        "아마",
+        "100",
+        "만",
+        "원",
+        "정도",
+        "나올",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "헐 왜캐 많이 나오고 있는 거야?",
+      "tokens": [
+        "헐",
+        "왜",
+        "캐",
+        "EC",
+        "많이",
+        "나오",
+        "고",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "내가 긁은 게 좀 많거든 ㅜㅜ",
+      "tokens": [
+        "내",
+        "가",
+        "긁",
+        "은",
+        "게",
+        "JKS",
+        "좀",
+        "많",
+        "거든",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "좀 절약하면서 살자 ㅠㅠ",
+      "tokens": [
+        "좀",
+        "절약",
+        "하",
+        "면서",
+        "살",
+        "자",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "하지만 그게 잘 안 되는 거 알지,?",
+      "tokens": [
+        "하지만",
+        "그게",
+        "JKS",
+        "잘",
+        "안",
+        "되",
+        "는",
+        "거",
+        "알",
+        "지",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "물욕은 참을 수가 없어 키키",
+      "tokens": [
+        "물욕",
+        "은",
+        "참",
+        "을",
+        "수",
+        "가",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

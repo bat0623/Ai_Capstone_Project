@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 무조건 대기업 취업할 꺼야",
+      "tokens": [
+        "난",
+        "JX",
+        "무조건",
+        "대",
+        "기업",
+        "취업",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 상사가 나 요즘 술 맨날 먹여",
+      "tokens": [
+        "우리",
+        "상사",
+        "가",
+        "나",
+        "요즘",
+        "술",
+        "맨날",
+        "먹여",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아르바이트 하다가 진급했어",
+      "tokens": [
+        "아르바이트",
+        "하",
+        "다가",
+        "진급",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "중소기업은 엄청 싫어",
+      "tokens": [
+        "중소기업",
+        "은",
+        "엄청",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "대기업 어디로 취직 했어?",
+      "tokens": [
+        "대",
+        "기업",
+        "어디",
+        "로",
+        "취직",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "술 먹다가 상사 한대 때림",
+      "tokens": [
+        "술",
+        "먹",
+        "다가",
+        "상사",
+        "한",
+        "ETM",
+        "대",
+        "때",
+        "림"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "알바는 너무 힘들더라구 요즘",
+      "tokens": [
+        "알바",
+        "는",
+        "너무",
+        "힘들",
+        "더라구",
+        "요즘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 아직이구나",
+      "tokens": [
+        "아",
+        "아직",
+        "이",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "얼른 취직해!",
+      "tokens": [
+        "얼른",
+        "취직",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "삼성에 취직했는데 엄청 좋아",
+      "tokens": [
+        "삼성",
+        "에",
+        "취직",
+        "했",
+        "EP",
+        "는데",
+        "엄청",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그래서 그만 두려고 알바도 ㅠㅠ",
+      "tokens": [
+        "그래서",
+        "그만두",
+        "려고",
+        "알",
+        "ETM",
+        "바",
+        "도",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "알바는 인권이 지켜지기 힘들어",
+      "tokens": [
+        "알바",
+        "는",
+        "인권",
+        "이",
+        "지켜",
+        "EC",
+        "지",
+        "기",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어서 취직해",
+      "tokens": [
+        "어서",
+        "취직",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "삼성으로!",
+      "tokens": [
+        "삼성",
+        "으로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이직 준비 다들 해? 키키",
+      "tokens": [
+        "이직",
+        "준비",
+        "다",
+        "들",
+        "해",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난 얼마 전에 정규직 전환됐어",
+      "tokens": [
+        "난",
+        "JX",
+        "얼마",
+        "전",
+        "에",
+        "정규직",
+        "전환",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 절대 안 해",
+      "tokens": [
+        "난",
+        "JX",
+        "절대",
+        "안",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "삼성에 있을 거임",
+      "tokens": [
+        "삼성",
+        "에",
+        "있",
+        "을",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "우리 다같이 삼성으로 가자~`",
+      "tokens": [
+        "우리",
+        "다",
+        "같이",
+        "삼성",
+        "으로",
+        "가",
+        "자",
+        "~",
+        "`"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "이직 무조건 할 거야 키키",
+      "tokens": [
+        "이",
+        "직무",
+        "조건",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "삼성 좋지",
+      "tokens": [
+        "삼성",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "정규직 전환 축하해!~",
+      "tokens": [
+        "정규직",
+        "전환",
+        "축하",
+        "해",
+        "EF",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

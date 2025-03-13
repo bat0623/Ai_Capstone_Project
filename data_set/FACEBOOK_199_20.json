@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "영화관에서 계속 확진자 나오네...",
+      "tokens": [
+        "영화관",
+        "에서",
+        "계속",
+        "확진",
+        "자",
+        "나오",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어어 진짜 무섭드라",
+      "tokens": [
+        "어",
+        "어",
+        "진짜",
+        "무섭",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "문자옴",
+      "tokens": [
+        "문자",
+        "옴"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "영화도 보러 못 가는 건가 ...",
+      "tokens": [
+        "영화",
+        "도",
+        "보",
+        "러",
+        "못",
+        "가",
+        "는",
+        "건가",
+        "VCP",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거 백신 확인하고 들어가잖아",
+      "tokens": [
+        "그거",
+        "백신",
+        "확인",
+        "하",
+        "고",
+        "들어가",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 이제 풀려서 팝콘 먹던데",
+      "tokens": [
+        "아니",
+        "이제",
+        "풀려서",
+        "EC",
+        "팝콘",
+        "먹",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 어차피 뭐 안 먹어서 상관은 없는데",
+      "tokens": [
+        "난",
+        "JX",
+        "어차피",
+        "뭐",
+        "안",
+        "먹",
+        "어서",
+        "상관",
+        "은",
+        "없",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "백신 안 맞은 애들은 못 가는데...",
+      "tokens": [
+        "백신",
+        "안",
+        "맞",
+        "은",
+        "애",
+        "들",
+        "은",
+        "못",
+        "가",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "웅 이제 백신패스 무조건 ㅜㅜ",
+      "tokens": [
+        "웅",
+        "이제",
+        "백",
+        "신패",
+        "스무",
+        "조건",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 2차 맞고 2주 지나서",
+      "tokens": [
+        "난",
+        "JX",
+        "2",
+        "차",
+        "맞",
+        "고",
+        "2",
+        "주",
+        "지나",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그럼 다 돌파 감염이라는 말임?",
+      "tokens": [
+        "그럼",
+        "다",
+        "돌파",
+        "감염",
+        "이",
+        "라는",
+        "말",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내 아는 사람 갔다왔는데 바로 다음날 문자",
+      "tokens": [
+        "내아",
+        "는",
+        "사람",
+        "갔다왔",
+        "EP",
+        "는데",
+        "바로",
+        "다음",
+        "날",
+        "문자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "소름이다 문자 받으면",
+      "tokens": [
+        "소름",
+        "이",
+        "다",
+        "문자",
+        "받",
+        "으면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "확진자 졸라 늘었음",
+      "tokens": [
+        "확진자졸라늘었음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "어어 요새 돌파감염이든데 다들",
+      "tokens": [
+        "어",
+        "어",
+        "요새",
+        "돌파",
+        "감염",
+        "이",
+        "든데",
+        "다",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "돌파감염 ...",
+      "tokens": [
+        "돌파",
+        "감염",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "결국 백신도 의미 없나",
+      "tokens": [
+        "결국",
+        "백신",
+        "도",
+        "의미",
+        "없",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "백신이 소용이 있는 거니...",
+      "tokens": [
+        "백신",
+        "이",
+        "소용",
+        "이",
+        "있",
+        "는",
+        "거",
+        "니",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "웅 엄청 늘었다 지금 ㅜㅜ",
+      "tokens": [
+        "웅",
+        "엄청",
+        "늘",
+        "었",
+        "다",
+        "지금",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "무섭",
+      "tokens": [
+        "무섭"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

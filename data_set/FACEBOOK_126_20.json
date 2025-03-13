@@ -1,0 +1,423 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "만화 기억나는 거 있음?",
+      "tokens": [
+        "만화",
+        "기억나",
+        "는",
+        "거",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "만화? 키키",
+      "tokens": [
+        "만화",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "많이 나지~",
+      "tokens": [
+        "많이",
+        "나",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이번에 귀멸의 칼날 극장판 또 나오던데 키키",
+      "tokens": [
+        "이번",
+        "에",
+        "귀",
+        "멸",
+        "의",
+        "칼날",
+        "극장판",
+        "또",
+        "나오",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "기대 중",
+      "tokens": [
+        "기대",
+        "중"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 포켓몬이 참 재밌었",
+      "tokens": [
+        "난",
+        "JX",
+        "포켓몬",
+        "이",
+        "참",
+        "재밌",
+        "었"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 난 귀칼 극장판은 하나도 안 봤네",
+      "tokens": [
+        "키",
+        "키",
+        "난귀",
+        "칼",
+        "극장판",
+        "은",
+        "하나",
+        "도",
+        "안",
+        "봤",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "포켓몬은 못 참지 키키",
+      "tokens": [
+        "포켓몬",
+        "은",
+        "못",
+        "참",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "귀칼 또 나온다고?",
+      "tokens": [
+        "귀",
+        "칼",
+        "또",
+        "나온다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "포켓몬?",
+      "tokens": [
+        "포켓몬"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "재밌었지 키키",
+      "tokens": [
+        "재밌",
+        "었",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너무 재밌음",
+      "tokens": [
+        "너무",
+        "재밌",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "응 또 나옴...",
+      "tokens": [
+        "응",
+        "또",
+        "나옴",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "형님이랑 손 잡고 가야 할 듯 누나 키키",
+      "tokens": [
+        "형",
+        "님",
+        "이랑",
+        "손잡",
+        "고",
+        "가",
+        "야",
+        "할",
+        "ETM",
+        "듯",
+        "누나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "뮤랑 뮤츠 아는 사람",
+      "tokens": [
+        "뮤",
+        "랑",
+        "뮤츠",
+        "아",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 요즘 포켓몬들은 캐릭터가 아니라 거의 동물 그자체던데",
+      "tokens": [
+        "근데",
+        "요즘",
+        "포켓몬",
+        "들",
+        "은",
+        "캐릭터",
+        "가",
+        "아니",
+        "라",
+        "거의",
+        "동물",
+        "그",
+        "자체",
+        "던데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "뮤랑 뮤츠 스토리 모를 수가 없지",
+      "tokens": [
+        "뮤",
+        "랑",
+        "뮤츠",
+        "스토리",
+        "모를",
+        "ETM",
+        "수",
+        "가",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "스티커 뮤랑 뮤츠 나오면 기분 째지는데",
+      "tokens": [
+        "스티커",
+        "뮤",
+        "랑",
+        "뮤츠",
+        "나오",
+        "면",
+        "기분",
+        "째지",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "뮤랑 뮤츠 당연히 알지 키키",
+      "tokens": [
+        "뮤",
+        "랑",
+        "뮤츠",
+        "당연히",
+        "알",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 포켓몬 네이밍 좀 어떻게 해 줘 진짜",
+      "tokens": [
+        "근데",
+        "포켓몬",
+        "네이밍",
+        "좀",
+        "어떻",
+        "게",
+        "해줘",
+        "EC",
+        "VX",
+        "EC",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "뮤가 졸 레어템임",
+      "tokens": [
+        "뮤가졸레어템임"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "환상의 포켓몬이다이가 키키",
+      "tokens": [
+        "환상",
+        "의",
+        "포켓몬",
+        "이",
+        "다",
+        "이",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "뮤랑 뮤츠",
+      "tokens": [
+        "뮤",
+        "랑",
+        "뮤츠"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

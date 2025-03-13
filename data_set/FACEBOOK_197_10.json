@@ -1,0 +1,453 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "점핑 완전 별로지?",
+      "tokens": [
+        "점핑",
+        "완전",
+        "별",
+        "로",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "점핑 말고 다른 건 없나",
+      "tokens": [
+        "점핑",
+        "말",
+        "고",
+        "다른",
+        "건",
+        "JX",
+        "없",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 ... 장사속이 너무 심하다 ...",
+      "tokens": [
+        "웅",
+        ".",
+        "장사",
+        "속",
+        "이",
+        "너무",
+        "심하",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "쉐이크 아니면 갈 만도 한데",
+      "tokens": [
+        "쉐이크",
+        "아니",
+        "면",
+        "갈만",
+        "도",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "단백질 쉐이크 끼워 팔기!",
+      "tokens": [
+        "단백질",
+        "쉐이크",
+        "끼워팔기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뿌뿌!",
+      "tokens": [
+        "뿌뿌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "생각 해본 거 없음 ?",
+      "tokens": [
+        "생각",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "거",
+        "없",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "다른 운동",
+      "tokens": [
+        "다른",
+        "운동"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 불매운동 해야 돼",
+      "tokens": [
+        "키",
+        "키",
+        "불매",
+        "운동",
+        "해야",
+        "EC",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "쉐이크를 왜 ㅜㅜ",
+      "tokens": [
+        "쉐이크를왜ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "점핑이 젤 재밌어 보였어...",
+      "tokens": [
+        "점핑",
+        "이",
+        "젤",
+        "재밌",
+        "어",
+        "보였",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 난 걷는 거 좋아해서",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "난",
+        "JX",
+        "걷",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "음 ... 줄넘기 이런 거 요새는 안 하나",
+      "tokens": [
+        "음",
+        ".",
+        "줄넘기",
+        "이런",
+        "거",
+        "요새",
+        "는",
+        "안",
+        "하",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "필라테스는 개 아프다데...",
+      "tokens": [
+        "필라테스",
+        "는",
+        "개",
+        "아프",
+        "다데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "살도 안빠진데",
+      "tokens": [
+        "살",
+        "도",
+        "안",
+        "빠진",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그냥 노래 들으면서 엄청 걷는데",
+      "tokens": [
+        "그냥",
+        "노래",
+        "들으면서",
+        "EC",
+        "엄청",
+        "걷",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 유연성 떨어지면 힘들겠더라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "유연",
+        "성",
+        "떨어지",
+        "면",
+        "힘들",
+        "겠",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "줄넘기 나 잘못해",
+      "tokens": [
+        "줄넘기",
+        "나",
+        "잘못",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아무 생각 없이 키키",
+      "tokens": [
+        "아무",
+        "생각",
+        "없이",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그게 제일 속 편하다",
+      "tokens": [
+        "그게",
+        "JKS",
+        "제일",
+        "속편",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그럼 어쩔 수 없다",
+      "tokens": [
+        "그럼",
+        "어쩔",
+        "ETM",
+        "수",
+        "없",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "이어폰 꽂고 걸어",
+      "tokens": [
+        "이어폰",
+        "꽂",
+        "고",
+        "걸",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "박치인 듯 아무래도...",
+      "tokens": [
+        "박",
+        "치",
+        "인",
+        "ETM",
+        "듯",
+        "아무래도",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 줄넘기를 못하다니 ...",
+      "tokens": [
+        "키",
+        "키",
+        "줄넘기",
+        "를",
+        "못",
+        "하",
+        "다니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "어휴 ...",
+      "tokens": [
+        "어휴",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "줄넘기는 리듬이여",
+      "tokens": [
+        "줄넘기",
+        "는",
+        "리듬",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

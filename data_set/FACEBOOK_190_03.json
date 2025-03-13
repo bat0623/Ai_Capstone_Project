@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 전기차를 사고 싶어 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "전기차",
+        "를",
+        "사",
+        "고",
+        "싶",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 차를 사서 나대신 누가 운전해줫으면 좋겠어",
+      "tokens": [
+        "나",
+        "는",
+        "차",
+        "를",
+        "사",
+        "서",
+        "나대",
+        "신",
+        "ETM",
+        "누가",
+        "JKS",
+        "운전",
+        "해",
+        "EC",
+        "줫으",
+        "면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "테슬라 사고 싶다는 거야? 키키",
+      "tokens": [
+        "테슬라",
+        "사",
+        "고",
+        "싶",
+        "다는",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "기름차는 너무 식상해 이젠",
+      "tokens": [
+        "기름차",
+        "는",
+        "너무",
+        "식상",
+        "해",
+        "EC",
+        "이젠",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "차를 사기전에 취업을 해야하는 것 같아",
+      "tokens": [
+        "차",
+        "를",
+        "사기전",
+        "에",
+        "취업",
+        "을",
+        "해야",
+        "EC",
+        "하",
+        "는",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 운전이 너무 싫어",
+      "tokens": [
+        "난",
+        "JX",
+        "운전",
+        "이",
+        "너무",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "자율주행차가 빨리 5단계 완성됐으면 좋겠어",
+      "tokens": [
+        "자율",
+        "주행",
+        "차",
+        "가",
+        "빨리",
+        "5",
+        "단계",
+        "완성",
+        "됐",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "미래에는 전기차가 유행할꺼야 키키",
+      "tokens": [
+        "미래",
+        "에",
+        "는",
+        "전기차",
+        "가",
+        "유행",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "갈수록 교통난이 너무 심해",
+      "tokens": [
+        "갈수록",
+        "교통난",
+        "이",
+        "너무",
+        "심해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아 전기차가 이제 대세지",
+      "tokens": [
+        "맞",
+        "아",
+        "전기차",
+        "가",
+        "이제",
+        "대세지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "대중교통 이용 너무 싫어",
+      "tokens": [
+        "대중교통",
+        "이용",
+        "너무",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "대중교통이 싫지만 환경을 위해서 해야해",
+      "tokens": [
+        "대중교통",
+        "이",
+        "싫",
+        "지만",
+        "환경",
+        "을",
+        "위해서",
+        "EC",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "대중교통 사람들 끼리 딱붙는거 너무 싫어 ㅡㅡ",
+      "tokens": [
+        "대중교통",
+        "사람",
+        "들",
+        "끼리",
+        "딱",
+        "붙",
+        "는",
+        "거",
+        "너무",
+        "싫",
+        "어",
+        "ㅡㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "더이상 버스타고 싶지 않아",
+      "tokens": [
+        "더",
+        "이상",
+        "버스",
+        "타",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "가끔 차를 이용하는건 괜찮아",
+      "tokens": [
+        "가끔",
+        "차",
+        "를",
+        "이용",
+        "하",
+        "는",
+        "건",
+        "JX",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "놀러갈때는 socar로 렌트하는게 좋아",
+      "tokens": [
+        "놀",
+        "러",
+        "갈",
+        "ETM",
+        "때",
+        "는",
+        "socar",
+        "로",
+        "렌트",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "버스 기사도 너무 난폭운전해서 싫어",
+      "tokens": [
+        "버스",
+        "기사",
+        "도",
+        "너무",
+        "난폭",
+        "운전",
+        "해서",
+        "EC",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "가까운 거리는 걸어다니거나 자전거를 타는 게 좋아",
+      "tokens": [
+        "가까운",
+        "ETM",
+        "거리",
+        "는",
+        "걸어다니",
+        "거나",
+        "자전거",
+        "를",
+        "타",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "버스기사님 욕하시는 거 무서워 ㄷㄷ",
+      "tokens": [
+        "버스",
+        "기사",
+        "님",
+        "욕하",
+        "시",
+        "는",
+        "거",
+        "무서워",
+        "EC",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

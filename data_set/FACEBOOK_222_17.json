@@ -1,0 +1,365 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "치아 보험 들어야 하나",
+      "tokens": [
+        "치아",
+        "보험",
+        "들어야",
+        "EC",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "치아 보험 애매하당",
+      "tokens": [
+        "치아",
+        "보험",
+        "애매",
+        "하당"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "치아 보험은 뭔가 ㅠㅠ",
+      "tokens": [
+        "치아",
+        "보험",
+        "은",
+        "뭔가",
+        "VCP",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오빠는 벌써 하나 했잖아... 임플란트",
+      "tokens": [
+        "오빠",
+        "는",
+        "벌써",
+        "하",
+        "나",
+        "했잖아",
+        "EP",
+        "EC",
+        "VX",
+        "EF",
+        ".",
+        ".",
+        "임",
+        "플란트"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그냥 그 돈으로 치료하는 것도 하하",
+      "tokens": [
+        "그냥",
+        "그",
+        "돈",
+        "으로",
+        "치료",
+        "하",
+        "는",
+        "것",
+        "도",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "들어야 할 것 같은데 ㅠㅠ",
+      "tokens": [
+        "들어야",
+        "EC",
+        "할",
+        "ETM",
+        "것",
+        "같",
+        "은데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "임플란트 넘 비싸드라",
+      "tokens": [
+        "임",
+        "플란트",
+        "넘",
+        "비싸",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "보험 넣는 돈으로 치료하는 건?",
+      "tokens": [
+        "보험",
+        "넣",
+        "는",
+        "돈",
+        "으로",
+        "치료",
+        "하",
+        "는",
+        "건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "임플란트 벌써 하셨구나 행님은",
+      "tokens": [
+        "임",
+        "플란트",
+        "벌써",
+        "하",
+        "셨",
+        "구나행",
+        "님",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그때 얼마 주고 했지?",
+      "tokens": [
+        "그때",
+        "얼마",
+        "주",
+        "고",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "잘 가지도 않는데 하하",
+      "tokens": [
+        "잘",
+        "가지",
+        "도",
+        "않",
+        "는데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 너무 비싸져?ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "너무",
+        "비싸",
+        "져",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "여러 개 하면 돈 많이 깨질 듯",
+      "tokens": [
+        "여러",
+        "개",
+        "하",
+        "면",
+        "돈",
+        "많이",
+        "깨",
+        "질",
+        "VX",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 100만원 들었음",
+      "tokens": [
+        "난",
+        "JX",
+        "100",
+        "만",
+        "원",
+        "들",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "치아보험 비싼가여?",
+      "tokens": [
+        "치아",
+        "보험",
+        "비싼",
+        "ETM",
+        "가여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "금액이?",
+      "tokens": [
+        "금액",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "몰랑",
+      "tokens": [
+        "몰랑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "얼만지 아는 사람",
+      "tokens": [
+        "얼만지",
+        "VCP",
+        "EC",
+        "아",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "한 몇만원 내는 거 같던디 하하",
+      "tokens": [
+        "한",
+        "몇",
+        "만",
+        "원",
+        "내",
+        "는",
+        "거",
+        "같",
+        "던",
+        "디하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "ㅠㅠ 저도 알아봤었는데 예전에",
+      "tokens": [
+        "ㅠㅠ",
+        "저",
+        "도",
+        "알아봤었",
+        "EP",
+        "는데",
+        "예전",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

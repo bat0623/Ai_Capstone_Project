@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 학생 때로 돌아가고 싶다",
+      "tokens": [
+        "아",
+        "학생",
+        "때로",
+        "돌아가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘은 과외가 짱이야 키키",
+      "tokens": [
+        "요즘",
+        "은",
+        "과외",
+        "가",
+        "짱",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘 사교육이 너무 문제더라 키키",
+      "tokens": [
+        "요즘",
+        "사교육",
+        "이",
+        "너무",
+        "문제",
+        "더라",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "사교육이 문제여 진짜 요새는",
+      "tokens": [
+        "사교육",
+        "이",
+        "문제",
+        "여",
+        "EF",
+        "진짜",
+        "요새",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "왜 공부가 하고 싶니 키키",
+      "tokens": [
+        "왜",
+        "공부",
+        "가",
+        "하",
+        "고",
+        "싶",
+        "니",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너무 비싸서 문제야 키키",
+      "tokens": [
+        "너무",
+        "비싸",
+        "서",
+        "문제",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "대학 가기가 힘들어 진짜 아오",
+      "tokens": [
+        "대학",
+        "가",
+        "기",
+        "가",
+        "힘들",
+        "어",
+        "진짜",
+        "아오"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "마자 요즘은 다 하자나 과외 키키",
+      "tokens": [
+        "마자",
+        "요즘",
+        "은",
+        "다",
+        "하자",
+        "나",
+        "과외",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "중국은 규제한다던데 키키 우리나라는 ㅋ",
+      "tokens": [
+        "중국",
+        "은",
+        "규제",
+        "한다던데",
+        "EC",
+        "키",
+        "키",
+        "ETN",
+        "우리",
+        "나라",
+        "는",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "사교육비가 너무 비싸 정말",
+      "tokens": [
+        "사교육비",
+        "가",
+        "너무",
+        "비싸",
+        "EF",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "마자 돈이 너무 마니 들어 요즘 키키",
+      "tokens": [
+        "마자",
+        "돈",
+        "이",
+        "너무",
+        "마니",
+        "들",
+        "어",
+        "요즘",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어떻게 되려나 걱정이다 참 키키",
+      "tokens": [
+        "어떻게",
+        "되",
+        "려나",
+        "걱정",
+        "이",
+        "다",
+        "참",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "개천에서 용 나기 힘들다 에혀",
+      "tokens": [
+        "개천",
+        "에",
+        "서용",
+        "나",
+        "기",
+        "힘들",
+        "다",
+        "에",
+        "혀"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니깐 너무 싫다 돈 돈 키키",
+      "tokens": [
+        "그니깐",
+        "너무",
+        "싫",
+        "다",
+        "돈돈",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러니까 말여 공교육이 먼저인데 키키",
+      "tokens": [
+        "그러니까",
+        "말",
+        "여공",
+        "교육",
+        "이",
+        "먼저",
+        "인데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "문제여 문제 진짜로 키키",
+      "tokens": [
+        "문제",
+        "여문",
+        "제",
+        "진짜",
+        "로키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니깐 용이 쉽지 않어 키키",
+      "tokens": [
+        "그니깐",
+        "용",
+        "이",
+        "쉽",
+        "지",
+        "않",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "언제 해결되려나 키키 진자 키키",
+      "tokens": [
+        "언제",
+        "해결",
+        "되",
+        "려나",
+        "키",
+        "키진",
+        "자키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

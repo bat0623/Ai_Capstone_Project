@@ -1,0 +1,393 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "중국처럼 봉쇄 가야 하는 거 아니냐",
+      "tokens": [
+        "중국",
+        "처럼",
+        "봉쇄",
+        "가",
+        "야",
+        "하",
+        "는",
+        "거",
+        "아니",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그러니까 위드 코로나 왜 하는 거?",
+      "tokens": [
+        "그러니까",
+        "위드",
+        "코로나",
+        "왜",
+        "하",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 처음에 다같이 한 달 봉쇄가 나았을 듯",
+      "tokens": [
+        "진짜",
+        "처음",
+        "에다",
+        "같이",
+        "한",
+        "ETM",
+        "달",
+        "봉쇄",
+        "가",
+        "나았",
+        "EP",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "위드 코로나 무서워 ㅠㅠ",
+      "tokens": [
+        "위드",
+        "코로나",
+        "무서워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이렇게 확진자 늘어날 거 알면서 하는 거지?",
+      "tokens": [
+        "이렇게",
+        "확진",
+        "자",
+        "늘어날",
+        "ETM",
+        "거",
+        "알",
+        "면서",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그럼 더 이상 퍼지지도 않았을 거 아니야",
+      "tokens": [
+        "그럼",
+        "더",
+        "이상",
+        "퍼지",
+        "지",
+        "도",
+        "않",
+        "았",
+        "을",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "술집에 사람들 터져 나감;",
+      "tokens": [
+        "술집",
+        "에",
+        "사람",
+        "들",
+        "터져",
+        "EC",
+        "나감",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "왜 하는 건지 핵궁금쓰",
+      "tokens": [
+        "왜",
+        "하",
+        "는",
+        "건지",
+        "VCP",
+        "EC",
+        "핵",
+        "궁금",
+        "쓰"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이렇게 몇 년씩 가지도 않았을 거고",
+      "tokens": [
+        "이렇게",
+        "몇",
+        "년",
+        "씩",
+        "가지",
+        "도",
+        "않",
+        "았",
+        "을",
+        "거",
+        "고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "한동안 우리는 외식 하지 말자",
+      "tokens": [
+        "한",
+        "동안",
+        "우리",
+        "는",
+        "외식",
+        "하",
+        "지",
+        "말",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "진짜 이제 24시간이지?",
+      "tokens": [
+        "진짜",
+        "이제",
+        "24",
+        "시간",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 집에서 안 나가고 싶다 진짜",
+      "tokens": [
+        "나",
+        "집",
+        "에서",
+        "안",
+        "나가",
+        "고",
+        "싶",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너네 혹시 격리되면 알바 할 거임?",
+      "tokens": [
+        "너",
+        "네",
+        "혹시",
+        "격리",
+        "되",
+        "면",
+        "알",
+        "ETM",
+        "바",
+        "할",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "**도 친구 만나서 늦게 집 갔다 함",
+      "tokens": [
+        "*",
+        "*",
+        "도",
+        "친구",
+        "만나",
+        "서",
+        "늦",
+        "게",
+        "집",
+        "갔",
+        "EP",
+        "다",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "당연하지...",
+      "tokens": [
+        "당연",
+        "하",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래야 먹고살지...",
+      "tokens": [
+        "그래야",
+        "EC",
+        "먹",
+        "고",
+        "살",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "병원에 노트북 가져가야행...",
+      "tokens": [
+        "병원",
+        "에",
+        "노트북",
+        "가져가",
+        "EC",
+        "야행",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "이제 다 가능한 시대가 왔음;",
+      "tokens": [
+        "이제",
+        "다",
+        "가능",
+        "한",
+        "ETM",
+        "시대",
+        "가",
+        "왔음",
+        "EP",
+        "EC",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "재택 근무 그럴려고 하는 거 아니야?",
+      "tokens": [
+        "재택근무",
+        "그럴려고",
+        "EC",
+        "하",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

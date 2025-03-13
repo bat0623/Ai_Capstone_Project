@@ -1,0 +1,515 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내 동생 임신했는데 엄마가 많이 우시더라ㅠㅠ",
+      "tokens": [
+        "내",
+        "JKG",
+        "동생",
+        "임신",
+        "했",
+        "EP",
+        "는데",
+        "엄마",
+        "가",
+        "많이",
+        "우",
+        "시",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐... 진짜 동생 임신한 거야?",
+      "tokens": [
+        "헐",
+        ".",
+        "진짜",
+        "동생",
+        "임신",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "와 대박",
+      "tokens": [
+        "와",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "축하해 진짜ㅠㅠ",
+      "tokens": [
+        "축하해진짜ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 키키",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이번에 집에 와서 얘기 하더라고 키키",
+      "tokens": [
+        "이번",
+        "에",
+        "집",
+        "에",
+        "와서",
+        "EC",
+        "얘기",
+        "하",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어떤 걸 사줘야 하나!",
+      "tokens": [
+        "어떤",
+        "걸",
+        "JKO",
+        "사",
+        "EC",
+        "줘야",
+        "EC",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아직 실감 하나도 안 나겠다 키키",
+      "tokens": [
+        "아직",
+        "실감",
+        "하나",
+        "도",
+        "안",
+        "나",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 키키",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아직 3개월 조금 넘어서 삼촌 되는 게 실감이 안 나 키키",
+      "tokens": [
+        "아직",
+        "3",
+        "개월",
+        "조금",
+        "넘",
+        "어서",
+        "삼촌",
+        "되",
+        "는",
+        "게",
+        "JKS",
+        "실감",
+        "이안나",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "동생 임신한 지는 좀 됐네!",
+      "tokens": [
+        "동생",
+        "임신",
+        "한지",
+        "EC",
+        "는",
+        "좀",
+        "됐",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "와... 진짜 다 같이 신기하겠어 키키",
+      "tokens": [
+        "와",
+        ".",
+        "진짜",
+        "다",
+        "같이",
+        "신기",
+        "하",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "엄마도 엄청 기쁘신가봐 키키",
+      "tokens": [
+        "엄마",
+        "도",
+        "엄청",
+        "기쁘",
+        "신가봐",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 좋아하시더라고 키키",
+      "tokens": [
+        "진짜",
+        "좋",
+        "아",
+        "하",
+        "시더",
+        "라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "너 조카 나온다는 게 믿기냐?",
+      "tokens": [
+        "너",
+        "조카",
+        "나온다는",
+        "ETM",
+        "게",
+        "JKS",
+        "믿기",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 내 상황이어도 안 믿길 듯",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "내",
+        "JKG",
+        "상황",
+        "이",
+        "어도",
+        "안",
+        "믿길",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 아직 안 믿겨 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "아직",
+        "안",
+        "믿겨",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "너무 신기해",
+      "tokens": [
+        "너무",
+        "신기",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "너희 부모님 진짜 행복하시겠다 키키",
+      "tokens": [
+        "너희",
+        "부모",
+        "님",
+        "진짜",
+        "행복",
+        "하",
+        "시",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 동생한테 축하한다고 좀 전해 줘",
+      "tokens": [
+        "진짜",
+        "동생",
+        "한테",
+        "축하",
+        "한다고",
+        "EC",
+        "좀",
+        "전해줘",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "응 키키",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "내가 내 동생한테 전해 줄게 키키",
+      "tokens": [
+        "내",
+        "가",
+        "내",
+        "JKG",
+        "동생",
+        "한테",
+        "전해",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "동생 애기 낳을 때 꼭 같이 가고",
+      "tokens": [
+        "동생",
+        "애기",
+        "낳",
+        "을",
+        "때",
+        "꼭",
+        "같이",
+        "가",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "그래도 동생 많이 무서울 거야",
+      "tokens": [
+        "그래도",
+        "동생",
+        "많이",
+        "무서울",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

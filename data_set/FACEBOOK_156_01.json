@@ -1,0 +1,354 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 저녁은 초밥이당...!",
+      "tokens": [
+        "오늘",
+        "저녁",
+        "은",
+        "초밥",
+        "이",
+        "당",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우엑 나는 초밥 못먹음!",
+      "tokens": [
+        "우",
+        "엑",
+        "나",
+        "는",
+        "초밥",
+        "못",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "와 초밥 맛있겠따 ㅠㅠ",
+      "tokens": [
+        "와초",
+        "밥맛",
+        "있",
+        "겠",
+        "따",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "엄마가 초밥 사온데 야호 하하",
+      "tokens": [
+        "엄마",
+        "가",
+        "초밥",
+        "사",
+        "온데",
+        "VCP",
+        "EC",
+        "야호",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 왜 밥이랑 회랑 안 어울리지 ㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "왜",
+        "밥",
+        "이랑",
+        "회랑",
+        "안",
+        "어울리",
+        "지",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "** 행님 초밥 싫어하던데~",
+      "tokens": [
+        "*",
+        "*",
+        "행님초밥싫어하던데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "왜 회 덮밥도 별로임?",
+      "tokens": [
+        "왜",
+        "회덮밥",
+        "도",
+        "별로",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "황소가 신기해 함!",
+      "tokens": [
+        "황소",
+        "가",
+        "신기",
+        "해",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "저는 고추냉이는 싫고 연어도 싫고 참치도 싫은데",
+      "tokens": [
+        "저",
+        "는",
+        "고추냉이",
+        "는",
+        "싫",
+        "고",
+        "연어",
+        "도",
+        "싫",
+        "고",
+        "참치",
+        "도",
+        "싫",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 초밥 넘 맛있는데...",
+      "tokens": [
+        "난",
+        "JX",
+        "초밥",
+        "넘",
+        "맛있",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "회 덮밥도 별로 안 좋아함 ㅠ 회+밥 조합...ㄷㄷ",
+      "tokens": [
+        "회덮밥도별로안좋아함ㅠ회",
+        "",
+        "",
+        "밥",
+        "조합",
+        ".",
+        ".",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "가끔씩 먹고 싶던데 키키",
+      "tokens": [
+        "가끔",
+        "씩",
+        "먹",
+        "고",
+        "싶",
+        "던",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "황소는 초밥 좋아할껄?",
+      "tokens": [
+        "황소",
+        "는",
+        "초밥",
+        "좋",
+        "아",
+        "할껄",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엄청 좋아함 황소는",
+      "tokens": [
+        "엄청",
+        "좋",
+        "아함",
+        "ETN",
+        "황소",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "황소 누나는 초밥 좋아하던데 키키",
+      "tokens": [
+        "황소",
+        "누나",
+        "는",
+        "초밥",
+        "좋",
+        "아",
+        "하",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오... **는 초밥 싫어하는 구나...",
+      "tokens": [
+        "오",
+        ".",
+        "*",
+        "*",
+        "는",
+        "초밥",
+        "싫",
+        "어",
+        "하",
+        "는구나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래서 초밥 물 때는 안간다 ㅠ",
+      "tokens": [
+        "그래서",
+        "초밥",
+        "물때",
+        "는",
+        "안",
+        "간다",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "진짜 행님은 초밥 싫어하나봐여",
+      "tokens": [
+        "진짜",
+        "행",
+        "님",
+        "은",
+        "초밥",
+        "싫",
+        "어",
+        "하나",
+        "봐",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 어제 국산차를 샀어 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "어제",
+        "국산",
+        "차",
+        "를",
+        "샀",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 비행기 값 많이 싸졌더라",
+      "tokens": [
+        "요즘",
+        "비행기",
+        "값",
+        "많이",
+        "싸",
+        "EC",
+        "졌",
+        "EP",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "버스에서 고기 먹는 것 어때",
+      "tokens": [
+        "버스",
+        "에서",
+        "고기",
+        "먹",
+        "는",
+        "것",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아반뗴 샀어 어제 난 키키",
+      "tokens": [
+        "아",
+        "반뗴",
+        "샀",
+        "EP",
+        "어",
+        "어제",
+        "난키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "국산차 뭐 ?",
+      "tokens": [
+        "국산",
+        "차",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우와 아빤뗴?",
+      "tokens": [
+        "우와아빤뗴"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니면 벤츠에서 먹을래? 어때",
+      "tokens": [
+        "아니면",
+        "벤츠",
+        "에서",
+        "먹",
+        "을래",
+        "어",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "비행기 진짜 비싸졌지 키키",
+      "tokens": [
+        "비행기",
+        "진짜",
+        "비싸",
+        "졌",
+        "VX",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "비행기 너무 타보고 싶어",
+      "tokens": [
+        "비행기",
+        "너무",
+        "타",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아빤떼 좋지 어떤데가 좋아",
+      "tokens": [
+        "아빤",
+        "JX",
+        "떼",
+        "EC",
+        "좋",
+        "지",
+        "어떤",
+        "데",
+        "가",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "외제차는 아직은 무리야",
+      "tokens": [
+        "외제",
+        "차",
+        "는",
+        "아직",
+        "은",
+        "무리",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "페라리 타고 싶다 ㅠㅠ 페라리 있는 사람",
+      "tokens": [
+        "페라리",
+        "타",
+        "고",
+        "싶",
+        "다",
+        "ㅠㅠ",
+        "페라리",
+        "있",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "비행기 내가 태워줄까?",
+      "tokens": [
+        "비행기",
+        "내",
+        "가",
+        "태워",
+        "EC",
+        "줄까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "비행기 나도 타보고 싶긴 해",
+      "tokens": [
+        "비행기",
+        "나",
+        "도타",
+        "보",
+        "고",
+        "싶",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "외제차 너무 타보고 싶어",
+      "tokens": [
+        "외제",
+        "차",
+        "너무",
+        "타",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "포르쉐로 내가 태워줄게 다들",
+      "tokens": [
+        "포르쉐",
+        "로",
+        "내",
+        "가",
+        "태워줄",
+        "EC",
+        "VX",
+        "ETM",
+        "게",
+        "JKS",
+        "다",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "외제차 한번 타보고 싶어",
+      "tokens": [
+        "외제",
+        "차",
+        "한",
+        "번",
+        "타",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "비행기 꼭 태워줘 나 너무 타보고 싶어",
+      "tokens": [
+        "비행기",
+        "꼭",
+        "태워",
+        "EC",
+        "줘",
+        "EF",
+        "나",
+        "너무",
+        "타",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "외제차 한번 타러 와 다들",
+      "tokens": [
+        "외제",
+        "차",
+        "한",
+        "번",
+        "타",
+        "러",
+        "와다",
+        "EC",
+        "VX",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

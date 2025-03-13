@@ -1,0 +1,572 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네 집 인테리어 견적 얼마야?",
+      "tokens": [
+        "너",
+        "네",
+        "집",
+        "인테리어",
+        "견적",
+        "얼마",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 집 말하는 거야 누나?~",
+      "tokens": [
+        "우리",
+        "집",
+        "말",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "누나",
+        "?",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나야 키키",
+      "tokens": [
+        "나",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리 집 견적 3000만원 나왔어 ㅠㅠ",
+      "tokens": [
+        "우리",
+        "집",
+        "견적",
+        "3000",
+        "만",
+        "원",
+        "나왔",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 너도 했다고 들었는데 키키",
+      "tokens": [
+        "아",
+        "너",
+        "도",
+        "했",
+        "EP",
+        "다고",
+        "들",
+        "었",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 저 형 인테리어비가 더 드네",
+      "tokens": [
+        "근데",
+        "저",
+        "형",
+        "인테리어",
+        "비",
+        "가",
+        "더",
+        "드",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "전부 다 싹 고쳤거든 ㅠㅠ 그래서 비싸",
+      "tokens": [
+        "전부",
+        "다",
+        "싹",
+        "고쳤",
+        "EP",
+        "거든",
+        "ㅠㅠ",
+        "그래서",
+        "비싸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그러네",
+      "tokens": [
+        "그",
+        "러네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "몇 평인데 견적이 3천이래",
+      "tokens": [
+        "몇",
+        "평",
+        "인데",
+        "EC",
+        "견적",
+        "이",
+        "3",
+        "천",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "집 완전 부자인가 봐",
+      "tokens": [
+        "집",
+        "완전",
+        "부자",
+        "인가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "견적이 3000이라니...",
+      "tokens": [
+        "견적",
+        "이",
+        "3000",
+        "이라니",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니야...",
+      "tokens": [
+        "아니야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오래돼서 다 바꾸느냐고 많이 들어갔어 ㅠㅠ",
+      "tokens": [
+        "오래",
+        "돼서",
+        "EC",
+        "다",
+        "바꾸",
+        "느냐고",
+        "많이",
+        "들어갔",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그러게, 그래서 계약 했어?",
+      "tokens": [
+        "그러게",
+        ",",
+        "그래서",
+        "계약",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "후덜덜 하다",
+      "tokens": [
+        "후",
+        "덜덜",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜 비싸긴 하다 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "비싸",
+        "긴",
+        "JX",
+        "하",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "저 정도면 큰 맘 먹어야겠네",
+      "tokens": [
+        "저",
+        "정도",
+        "면",
+        "EC",
+        "큰",
+        "ETM",
+        "맘",
+        "먹",
+        "어야",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "엄마가 큰맘 먹고 지르시더라고 키키",
+      "tokens": [
+        "엄마",
+        "가",
+        "큰",
+        "ETM",
+        "맘",
+        "먹",
+        "고",
+        "지르",
+        "시더",
+        "라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "와우~ 어머니 통이 크시네 키키",
+      "tokens": [
+        "와우",
+        "~",
+        "어머니통이크시네키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "나중에 이사 갈 때 좋지 뭐",
+      "tokens": [
+        "나중",
+        "에",
+        "이",
+        "사갈",
+        "때",
+        "좋",
+        "지",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "이사 갈 때 그 가격도 쳐 주잖아!",
+      "tokens": [
+        "이",
+        "사갈",
+        "때",
+        "그",
+        "가격",
+        "도",
+        "쳐",
+        "EC",
+        "주",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "여기서 평생 산다고 리모델링 했어...",
+      "tokens": [
+        "여기",
+        "서",
+        "평생",
+        "산다",
+        "EC",
+        "고리",
+        "모델링",
+        "했",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "와우 종신이구만, 얼른 독립 해",
+      "tokens": [
+        "와우",
+        "종신",
+        "이",
+        "구만",
+        ",",
+        "얼른",
+        "독립",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "독립이 답이야 형...",
+      "tokens": [
+        "독립",
+        "이",
+        "답",
+        "이",
+        "야",
+        "형",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "얼른 나와~",
+      "tokens": [
+        "얼른",
+        "나와",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 32,
+      "text": "응 내가 알아서 나가 살아야지 ㅠㅠ",
+      "tokens": [
+        "응",
+        "내",
+        "가",
+        "알",
+        "아서",
+        "나",
+        "가",
+        "살",
+        "아야지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

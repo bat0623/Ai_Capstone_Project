@@ -1,0 +1,339 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "날씨가 너무 좋네요~",
+      "tokens": [
+        "날씨",
+        "가",
+        "너무",
+        "좋",
+        "네요",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "진짜 요즘 낮에 날씨 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "요즘",
+        "낮",
+        "에",
+        "날씨",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아요",
+      "tokens": [
+        "맞",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어디로 떠나야 됨",
+      "tokens": [
+        "어디",
+        "로",
+        "떠나",
+        "야",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이런 날 도자기 굽기 딱인데",
+      "tokens": [
+        "이런",
+        "날",
+        "도",
+        "자기",
+        "굽",
+        "기",
+        "딱",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어제 밤에 진짜 좀 추웠어요 ㅠㅠ",
+      "tokens": [
+        "어제",
+        "밤",
+        "에",
+        "진짜",
+        "좀",
+        "추웠",
+        "EP",
+        "어요",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "가을이 근데 이제 끝나가",
+      "tokens": [
+        "가을",
+        "이",
+        "근데",
+        "이제",
+        "끝",
+        "나가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오늘 날씨에는 뭐가 어울릴까?",
+      "tokens": [
+        "오늘",
+        "날씨",
+        "에",
+        "는",
+        "뭐",
+        "가",
+        "어울릴까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "도자기 굽기 좋은 날씨 키키",
+      "tokens": [
+        "도자기",
+        "굽",
+        "기",
+        "좋",
+        "은",
+        "날씨",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "단풍 이미 다 들었더라",
+      "tokens": [
+        "단풍",
+        "이미",
+        "다",
+        "들",
+        "었",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "가을 이제 끝이지...",
+      "tokens": [
+        "가을",
+        "이제",
+        "끝",
+        "이",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "잘 마를 것 같은 날씨 키키",
+      "tokens": [
+        "잘",
+        "마를",
+        "ETM",
+        "것",
+        "같",
+        "은",
+        "날씨",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이미 낙엽지던데 봤어?",
+      "tokens": [
+        "이미",
+        "낙엽",
+        "지",
+        "던데",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "날씨가 딱 산책인디",
+      "tokens": [
+        "날씨",
+        "가",
+        "딱",
+        "산책",
+        "인디",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "밤에 어제 특히 추워서...",
+      "tokens": [
+        "밤",
+        "에",
+        "어제",
+        "특히",
+        "추워서",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "산에도 한번 못 가네",
+      "tokens": [
+        "산",
+        "에",
+        "도",
+        "한번",
+        "못",
+        "가",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "벌써 낙엽이 떨어져?",
+      "tokens": [
+        "벌써",
+        "낙엽",
+        "이",
+        "떨어져",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "잎이 다 떨어졌던데...",
+      "tokens": [
+        "잎",
+        "이",
+        "다",
+        "떨어졌",
+        "EP",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "서럽다 서러워 ㅜㅜ",
+      "tokens": [
+        "서럽다서러워ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

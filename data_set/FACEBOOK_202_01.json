@@ -1,0 +1,370 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그래서 오늘 저녁 뭐 먹음?",
+      "tokens": [
+        "그래서",
+        "오늘",
+        "저녁",
+        "뭐",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 쌀국수 먹음 키키",
+      "tokens": [
+        "난쌀국수먹음키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 그냥 목살 구워서 밥이랑 먹었어",
+      "tokens": [
+        "나",
+        "그냥",
+        "목살",
+        "구워서",
+        "EC",
+        "밥",
+        "이랑",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 오늘 저녁 닭찜 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "저녁",
+        "닭찜",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맛있더라",
+      "tokens": [
+        "맛있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오랜만에 배달 키키",
+      "tokens": [
+        "오랜만",
+        "에",
+        "배달",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 쌀국수...",
+      "tokens": [
+        "오",
+        "쌀국수",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 미스사이공 매운 소스 좋아하는데",
+      "tokens": [
+        "나",
+        "미스",
+        "사이공",
+        "매운",
+        "ETM",
+        "소스",
+        "좋",
+        "아",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "쌀국수 시켜 먹음?",
+      "tokens": [
+        "쌀국수",
+        "시켜",
+        "EC",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "배달은 역시 편해 ㅜㅜ",
+      "tokens": [
+        "배달",
+        "은",
+        "역시",
+        "편해",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "빨간 거 있잖아...",
+      "tokens": [
+        "빨간",
+        "ETM",
+        "거",
+        "있",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그거 진짜 왕맛",
+      "tokens": [
+        "그거",
+        "진짜",
+        "왕",
+        "맛"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "좀 양심적으로 시켰군...",
+      "tokens": [
+        "좀",
+        "양심",
+        "적",
+        "으로",
+        "시켰",
+        "EP",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어 쌀국수 시켜 먹음 키키",
+      "tokens": [
+        "어",
+        "쌀국수",
+        "시켜",
+        "EC",
+        "먹",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 쌀국수 육수 해장에 직빵인디",
+      "tokens": [
+        "키",
+        "키",
+        "쌀국수",
+        "육수",
+        "해장",
+        "에",
+        "직",
+        "빵",
+        "인디",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "쌀국수는 살 안 찔 듯...",
+      "tokens": [
+        "쌀국수",
+        "는",
+        "살",
+        "안",
+        "찔",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 무슨 짜조 튀김도 시킴;",
+      "tokens": [
+        "근데무슨짜조튀김도시킴",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그거도 칼로리 꽤 될 건데",
+      "tokens": [
+        "그거",
+        "도",
+        "칼로리",
+        "꽤",
+        "될",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "미스 사이공 진짜 베트남 사람이한뎅",
+      "tokens": [
+        "미스",
+        "사이공",
+        "진짜",
+        "베트남",
+        "사람",
+        "이",
+        "한",
+        "ETM",
+        "뎅"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "양심적으로 고백함...",
+      "tokens": [
+        "양심",
+        "적",
+        "으로",
+        "고백",
+        "함",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "라이스페이퍼도 칼로리 높잖아",
+      "tokens": [
+        "라이스페이퍼",
+        "도",
+        "칼로리",
+        "높",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

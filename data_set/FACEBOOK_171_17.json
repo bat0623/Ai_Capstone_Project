@@ -1,0 +1,382 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부모님 건강도 꼭 챙겨야한다...",
+      "tokens": [
+        "부모",
+        "님",
+        "건강",
+        "도",
+        "꼭",
+        "챙겨야",
+        "EC",
+        "한다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 항상 챙겨야지 하하",
+      "tokens": [
+        "맞아",
+        "항상",
+        "챙겨야",
+        "EC",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아… 부모님 오늘도 전화드렸어 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "…",
+        "부모님오늘도전화드렸어ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리가 너무 바쁘지만 항상 염두해야해",
+      "tokens": [
+        "우리",
+        "가",
+        "너무",
+        "바쁘",
+        "지만",
+        "항상",
+        "염두",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "무슨일 있는지 연락하고",
+      "tokens": [
+        "무슨",
+        "일",
+        "있",
+        "는지",
+        "연락",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 아프셨을 때 무서웠음 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "아프",
+        "셨",
+        "EP",
+        "을",
+        "때",
+        "무서웠",
+        "EP",
+        "음",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "자주자주 전화하구",
+      "tokens": [
+        "자주자주",
+        "전화",
+        "하",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우 리엄마는 이제 다리가 좀 나으셨데",
+      "tokens": [
+        "우리",
+        "엄마",
+        "는",
+        "이제",
+        "다리",
+        "가",
+        "좀",
+        "나",
+        "으셨",
+        "EP",
+        "EC",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "요즘은 안 아프셔서 다행이야 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "은",
+        "안",
+        "아프",
+        "셔서",
+        "EC",
+        "다행",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진짜 아프시면 무섭다니까?",
+      "tokens": [
+        "진짜",
+        "아프",
+        "시",
+        "면",
+        "무섭",
+        "다니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "다리 아프셨는데 많이 나았어 하하",
+      "tokens": [
+        "다리",
+        "아프",
+        "셨",
+        "EP",
+        "는데",
+        "많이",
+        "나았",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "무슨 일이었어? ㅠㅠ",
+      "tokens": [
+        "무슨",
+        "일",
+        "이",
+        "었",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "다리 다치심?",
+      "tokens": [
+        "다리다",
+        "치심"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 엄마 수술할 때 기절하는 줄",
+      "tokens": [
+        "나",
+        "엄마",
+        "수술",
+        "할",
+        "ETM",
+        "때기",
+        "절",
+        "하",
+        "는",
+        "줄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "항상 체크하심 하하",
+      "tokens": [
+        "항상",
+        "체크",
+        "하",
+        "심하",
+        "ETM",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "하… 다들 진짜 자기 건강도 있지만 부모님 건강 잘 체크하자",
+      "tokens": [
+        "하",
+        "…",
+        "다",
+        "들",
+        "진짜",
+        "자기",
+        "건강",
+        "도",
+        "있",
+        "지만",
+        "부모",
+        "님",
+        "건강",
+        "잘",
+        "체크",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "다리가 많이 아프셨어!",
+      "tokens": [
+        "다리",
+        "가",
+        "많이",
+        "아프",
+        "셨",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "연골? 맞지?",
+      "tokens": [
+        "연골",
+        "맞",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "치질 수술 할 때 말하는 거야?",
+      "tokens": [
+        "치질",
+        "수술",
+        "할",
+        "ETM",
+        "때",
+        "말",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "치질 수술 장난 아니라던데 ㅠㅠ",
+      "tokens": [
+        "치질",
+        "수술",
+        "장난",
+        "아니",
+        "라던데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

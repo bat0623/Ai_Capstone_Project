@@ -1,0 +1,419 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이야.. 뼈말라족이라고 아나..??",
+      "tokens": [
+        "이",
+        "야",
+        "EF",
+        ".",
+        "뼈",
+        "말라",
+        "EC",
+        "족",
+        "이",
+        "라고",
+        "아",
+        "나",
+        ".",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그거 대박 ㅠ",
+      "tokens": [
+        "그거대박ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그건 뭐야 키키",
+      "tokens": [
+        "그건",
+        "JX",
+        "뭐",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요즘 애들 사이에서 유행이래 뼈말라족이",
+      "tokens": [
+        "요즘",
+        "애",
+        "들",
+        "사이",
+        "에서",
+        "유행",
+        "이래",
+        "뼈",
+        "말라",
+        "EC",
+        "족",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "자기 키에 120을 빼야해",
+      "tokens": [
+        "자기",
+        "키",
+        "에",
+        "120",
+        "을",
+        "빼",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그게 먼데",
+      "tokens": [
+        "그게",
+        "JKS",
+        "먼데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아아 뼈 보이게 마른족이가 키키",
+      "tokens": [
+        "아아",
+        "뼈",
+        "보이",
+        "게",
+        "마른",
+        "ETM",
+        "족",
+        "이",
+        "가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그게 자기 키에서 120뺀 무게",
+      "tokens": [
+        "그게",
+        "JKS",
+        "자기",
+        "키",
+        "에서",
+        "120",
+        "뺀",
+        "ETM",
+        "무게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그게 선호 몸무게 하하",
+      "tokens": [
+        "그게",
+        "JKS",
+        "선호",
+        "몸무게",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 헐 키키 그럼 뭐,",
+      "tokens": [
+        "아",
+        "헐",
+        "키",
+        "키",
+        "ETN",
+        "그럼",
+        "뭐",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그게 젤 이쁘데 덜덜덜덜",
+      "tokens": [
+        "그게",
+        "JKS",
+        "젤",
+        "이쁘",
+        "데",
+        "덜덜덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그니까 **는 40키로가 돼야 돼 하하",
+      "tokens": [
+        "그니까",
+        "*",
+        "*",
+        "는",
+        "40",
+        "키로",
+        "ETN",
+        "JKB",
+        "가",
+        "돼야",
+        "EC",
+        "돼",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "머 소멸이가 키키",
+      "tokens": [
+        "머소",
+        "멸이",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 40키로 돼야 함.",
+      "tokens": [
+        "난",
+        "JX",
+        "40",
+        "키",
+        "로",
+        "돼야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "가능 한 일이니?",
+      "tokens": [
+        "가능",
+        "한",
+        "ETM",
+        "일",
+        "이",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "헐 무슨 일인데",
+      "tokens": [
+        "헐",
+        "무슨",
+        "일",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그게 키키 가능하나 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "키",
+        "키",
+        "가능",
+        "하나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "엉 그게 뼈말라족이래... 세상에나",
+      "tokens": [
+        "엉",
+        "그게",
+        "JKS",
+        "뼈",
+        "말라",
+        "EC",
+        "족",
+        "이",
+        "래",
+        ".",
+        "세상",
+        "에",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "**는 키 뭐임?",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "키",
+        "뭐",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그게 안되지 ㅜㅜ",
+      "tokens": [
+        "그게",
+        "JKS",
+        "안",
+        "되",
+        "지",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "되는 거야",
+      "tokens": [
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

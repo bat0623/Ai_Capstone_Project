@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대에도 교도소 있는 거 알아?",
+      "tokens": [
+        "군대",
+        "에",
+        "도",
+        "교도소",
+        "있",
+        "는",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "있는 거 알지 키키 당연!",
+      "tokens": [
+        "있",
+        "는",
+        "거",
+        "알",
+        "지",
+        "키",
+        "키",
+        "ETN",
+        "당연"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "군교도소 있지...",
+      "tokens": [
+        "군교",
+        "도소",
+        "있",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "군대 교도소 가보신 분",
+      "tokens": [
+        "군대",
+        "교도소",
+        "가",
+        "보",
+        "신",
+        "ETM",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "내는 다행히도 안 가봄",
+      "tokens": [
+        "내",
+        "는",
+        "다행히",
+        "도안가",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그 윤일병? 이런 사건 친 얘들 아직도 군교도소 있자나",
+      "tokens": [
+        "그",
+        "윤일병",
+        "?",
+        "이런사건친얘들아직도군교도소있자나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "거기 하극상 하면 가는 거지?",
+      "tokens": [
+        "거기",
+        "하극상",
+        "하",
+        "면",
+        "가",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "군교도소에서 아직 못 나오나?",
+      "tokens": [
+        "군교",
+        "도소",
+        "에서",
+        "아직",
+        "못",
+        "나오",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "하극상 하면 가는 데랑은 좀 다름",
+      "tokens": [
+        "하극상",
+        "하",
+        "면",
+        "가",
+        "는",
+        "데",
+        "랑",
+        "은",
+        "좀",
+        "다름",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "걔네 아직도 교도소에  있어?",
+      "tokens": [
+        "걔",
+        "네",
+        "아직",
+        "도",
+        "교도소",
+        "에",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근대 큰 잘못하면 갈걸",
+      "tokens": [
+        "근대",
+        "큰",
+        "ETM",
+        "잘못",
+        "하",
+        "면",
+        "갈",
+        "ETM",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기는 진짜 심각한 사고 친 얘들 가는 데고...",
+      "tokens": [
+        "거기",
+        "는",
+        "진짜",
+        "심각",
+        "한",
+        "ETM",
+        "사고",
+        "친",
+        "EC",
+        "JX",
+        "얘",
+        "들",
+        "가",
+        "는",
+        "데",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "하극상 하는 데는 교도소 아님?",
+      "tokens": [
+        "하극상",
+        "하",
+        "는",
+        "데",
+        "는",
+        "교도소",
+        "아님",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "하극상 정도로는 안 갈 듯 키키",
+      "tokens": [
+        "하극상",
+        "정도",
+        "로",
+        "는",
+        "안",
+        "갈",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "막 초소에 폭탄 던지고 사람 죽이고 이런 사고 친 얘들...",
+      "tokens": [
+        "막초소에폭탄던지고사람죽이고이런사고친얘들",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "초소에 폭탄 던지는 애가 있나...",
+      "tokens": [
+        "초소",
+        "에",
+        "폭탄",
+        "던지",
+        "는",
+        "애",
+        "가",
+        "있",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "총기 난사 이런 애들 있었다 아니가",
+      "tokens": [
+        "총기",
+        "난사",
+        "이런",
+        "애",
+        "들",
+        "있",
+        "었",
+        "다",
+        "아",
+        "니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "막 횡령하고 이런 거 있자나...",
+      "tokens": [
+        "막",
+        "횡령",
+        "하",
+        "고",
+        "이런",
+        "거",
+        "있",
+        "자",
+        "나",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "누가 봐도 범죄다! 이런 거...",
+      "tokens": [
+        "누가",
+        "JKS",
+        "봐도",
+        "EC",
+        "범죄",
+        "다",
+        "EF",
+        "이런",
+        "거",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

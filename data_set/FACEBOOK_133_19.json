@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**은 경쟁 프로그램이 싫대",
+      "tokens": [
+        "*",
+        "*",
+        "은",
+        "경쟁",
+        "프로그램",
+        "이",
+        "싫",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 왜 꿀잼인데 !",
+      "tokens": [
+        "헐",
+        "왜",
+        "꿀",
+        "ETM",
+        "잼",
+        "인데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어 보고 있으면 스트레스 받아...",
+      "tokens": [
+        "어",
+        "보",
+        "고",
+        "있",
+        "으면",
+        "스트레스",
+        "받",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 경쟁 프로그램이 재밌던데 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "경쟁",
+        "프로그램",
+        "이",
+        "재밌",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "왜 스트레스를 받아 키키",
+      "tokens": [
+        "왜",
+        "스트레스",
+        "를",
+        "받",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "사회에서 경쟁하는 것도 지치는데...",
+      "tokens": [
+        "사회",
+        "에서",
+        "경쟁",
+        "하",
+        "는",
+        "것",
+        "도",
+        "지치",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**는 뭐든 경쟁해 키키",
+      "tokens": [
+        "*",
+        "*",
+        "는뭐든경쟁해키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "내가 경쟁하는 것도 아닌데!",
+      "tokens": [
+        "내",
+        "가",
+        "경쟁",
+        "하",
+        "는",
+        "것",
+        "도",
+        "아닌데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "거기서까지 경쟁이야 ㅜㅜ",
+      "tokens": [
+        "거기",
+        "서",
+        "까지",
+        "경쟁",
+        "이",
+        "야",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 경연 프로그램 좋아해",
+      "tokens": [
+        "난",
+        "JX",
+        "경연",
+        "프로그램",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 경쟁을 즐기는 편",
+      "tokens": [
+        "나",
+        "는",
+        "경쟁",
+        "을",
+        "즐기",
+        "는",
+        "편"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "누가 하는 것도 스트레스",
+      "tokens": [
+        "누가",
+        "JKS",
+        "하",
+        "는",
+        "것",
+        "도",
+        "스트레스"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요새 국민 가수 재밌음",
+      "tokens": [
+        "요새",
+        "국민",
+        "가수",
+        "재밌",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "지는 걸 아주 싫어하지 키키",
+      "tokens": [
+        "지",
+        "는",
+        "걸",
+        "JKO",
+        "아주",
+        "싫",
+        "어",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "심장 쫄려서 못 보겠어 키키",
+      "tokens": [
+        "심장",
+        "쫄려",
+        "EC",
+        "서",
+        "EC",
+        "못",
+        "보",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "평화를 사랑하는 **...",
+      "tokens": [
+        "평화",
+        "를",
+        "사랑",
+        "하",
+        "는",
+        "*",
+        "*",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "승부욕이 너무 강해서 탈이양...",
+      "tokens": [
+        "승부",
+        "욕",
+        "이",
+        "너무",
+        "강해서",
+        "EC",
+        "탈",
+        "이양",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내가 지는 걸 싫어해서 그런가 키키",
+      "tokens": [
+        "내",
+        "가지",
+        "는",
+        "걸",
+        "JKO",
+        "싫",
+        "어",
+        "해서",
+        "EC",
+        "그런가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

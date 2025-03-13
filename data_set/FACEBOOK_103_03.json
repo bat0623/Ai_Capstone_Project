@@ -1,0 +1,444 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 배 타본 적 있어?",
+      "tokens": [
+        "너",
+        "는",
+        "배",
+        "타",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "통통배나 다른 배 싹 다!",
+      "tokens": [
+        "통통배",
+        "나",
+        "다른",
+        "배",
+        "싹",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "타봤지 유람선도 타고 작은 보트도 타봤어",
+      "tokens": [
+        "타",
+        "EC",
+        "봤",
+        "EP",
+        "지",
+        "유람선",
+        "도",
+        "타",
+        "고",
+        "작",
+        "은",
+        "보트",
+        "도",
+        "타",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "보트는 어떻게 타게 된 거야?",
+      "tokens": [
+        "보트",
+        "는",
+        "어떻게",
+        "타",
+        "게",
+        "된",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "섬에서 섬으로 이동할 때 타봤어",
+      "tokens": [
+        "섬",
+        "에서",
+        "섬",
+        "으로",
+        "이동",
+        "할",
+        "ETM",
+        "때",
+        "타",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "너 혹시 통통배 타본 적 있어?",
+      "tokens": [
+        "너",
+        "혹시",
+        "통통배",
+        "타",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "통통배?",
+      "tokens": [
+        "통통배"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "처음 들어보는데 그게 뭐야?",
+      "tokens": [
+        "처음",
+        "들",
+        "어",
+        "보",
+        "는데",
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "너 제주도 놀러갔을 때 이거 한 번도 못 봤어?",
+      "tokens": [
+        "너",
+        "제주",
+        "도",
+        "놀러갔",
+        "EP",
+        "을",
+        "때",
+        "이거",
+        "한",
+        "번",
+        "도",
+        "못",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "제주도에서 배를 타본 적이 없어서",
+      "tokens": [
+        "제주도",
+        "에서",
+        "배",
+        "를",
+        "타",
+        "본",
+        "VX",
+        "ETM",
+        "적",
+        "이",
+        "없",
+        "어서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너 제주도 갔을 때 우도 안 가 봤어?",
+      "tokens": [
+        "너",
+        "제주",
+        "도",
+        "갔",
+        "EP",
+        "을",
+        "때",
+        "우도",
+        "안",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 우도 갈 때 큰 배 타지 않아?",
+      "tokens": [
+        "아우",
+        "도",
+        "갈",
+        "ETM",
+        "때",
+        "큰",
+        "ETM",
+        "배",
+        "타",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 근데 우도 도착하면 통통배 탈 수 있거든? 몰랐어?",
+      "tokens": [
+        "맞아근데우도도착하면통통배탈수있거든",
+        "몰랐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "처음 들어봐 다음에 갈 때 꼭 타봐야겠다",
+      "tokens": [
+        "처음",
+        "들",
+        "어",
+        "봐",
+        "EF",
+        "다음",
+        "에",
+        "갈",
+        "ETM",
+        "때",
+        "꼭",
+        "타",
+        "봐야",
+        "VX",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 나 그거 타고 무서워서 울었잖아 스피드 장난 아니야!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "그거",
+        "타",
+        "고",
+        "무서워서",
+        "EC",
+        "울",
+        "었잖",
+        "VX",
+        "아",
+        "스피드",
+        "장난",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "정말?",
+      "tokens": [
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "많이 흔들리고 그러나?",
+      "tokens": [
+        "많이",
+        "흔들리",
+        "고",
+        "그러",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 어 진짜 말 그대로 통통배야 배가 띄어져!",
+      "tokens": [
+        "키",
+        "키",
+        "어",
+        "진짜",
+        "말",
+        "그대로",
+        "통통배",
+        "야",
+        "EF",
+        "배",
+        "가",
+        "띄",
+        "어",
+        "져",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 재밌겠다 다음에 꼭 타볼게",
+      "tokens": [
+        "진짜",
+        "재밌",
+        "겠",
+        "다",
+        "다음",
+        "에",
+        "꼭",
+        "타",
+        "볼게",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

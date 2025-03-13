@@ -1,0 +1,385 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**네 집은 고양이1 강아지 1이래",
+      "tokens": [
+        "*",
+        "*",
+        "네",
+        "집",
+        "은",
+        "고양이",
+        "1",
+        "강아지",
+        "1",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오 고양이와 강아지?",
+      "tokens": [
+        "오",
+        "고양이",
+        "와",
+        "강아지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 마자 키키",
+      "tokens": [
+        "웅",
+        "마자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "거긴 강아지 한 마리지?",
+      "tokens": [
+        "거긴",
+        "JX",
+        "강아지",
+        "한",
+        "마리",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "**이 새끼 강아지 분양 받는다고... 그러더라",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "새끼",
+        "강아지",
+        "분양",
+        "받",
+        "는다고",
+        ".",
+        "그러",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "같이 있어도 안싸움?",
+      "tokens": [
+        "같이",
+        "있",
+        "어도",
+        "안",
+        "싸움",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "웅 어렸을 때부터 키워서 안싸움! 키키",
+      "tokens": [
+        "웅",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "부터",
+        "키워서",
+        "EC",
+        "안",
+        "싸움",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**집도 고양이랑 강아지랑 잘 지내던디?",
+      "tokens": [
+        "*",
+        "*",
+        "집",
+        "도",
+        "고양이",
+        "랑",
+        "강아지",
+        "랑",
+        "잘",
+        "지내",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "와 대박쓰 하하",
+      "tokens": [
+        "와대박쓰하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "강아지종이 뭐야?",
+      "tokens": [
+        "강아지",
+        "종이",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "울강아지는 포멬 키키!",
+      "tokens": [
+        "울",
+        "강아지",
+        "는",
+        "포멬",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "둘이 엄청 친해...!",
+      "tokens": [
+        "둘",
+        "이",
+        "엄청",
+        "친해",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리 벅토니는 아메리카코카스파니엘이야 하하",
+      "tokens": [
+        "우리",
+        "벅",
+        "토니",
+        "는",
+        "아메리",
+        "카코",
+        "카스파",
+        "니엘",
+        "이",
+        "야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 둘이 같이 붙어서 자...키키",
+      "tokens": [
+        "맞",
+        "아",
+        "둘",
+        "이",
+        "같이",
+        "붙",
+        "어서",
+        "자",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "** 강아지는 쪼꼬미더라...",
+      "tokens": [
+        "*",
+        "*",
+        "강아지",
+        "는",
+        "쪼",
+        "꼬미",
+        "더라",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이름 치기 정말 힘들군 저 아이",
+      "tokens": [
+        "이름",
+        "치",
+        "기",
+        "정말",
+        "힘들",
+        "군",
+        "저",
+        "아이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "코카스파니엘 기얍다고 =ㅜㅜ",
+      "tokens": [
+        "코카스파니엘기얍다고",
+        "=",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리 강아지는 왕 거대...",
+      "tokens": [
+        "우리",
+        "강아지",
+        "는",
+        "왕",
+        "거대",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오타가 몇 번 났는지 몰라 저거 치면서",
+      "tokens": [
+        "오타",
+        "가",
+        "몇",
+        "번",
+        "났",
+        "EP",
+        "는지",
+        "몰라",
+        "EF",
+        "저거",
+        "치",
+        "면서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 나는 큰 강아지 키우고 시픔",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "큰",
+        "ETM",
+        "강아지",
+        "키우",
+        "고",
+        "시픔"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

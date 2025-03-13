@@ -1,0 +1,384 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 요즘 애기들 코로나 걸려서 소아과 터진대",
+      "tokens": [
+        "아",
+        "요즘",
+        "애기",
+        "들",
+        "코로나",
+        "걸려서",
+        "EC",
+        "소아과",
+        "터",
+        "진대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "애기들도 많이 걸리는 구나",
+      "tokens": [
+        "애기",
+        "들",
+        "도",
+        "많이",
+        "걸리",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "애기들 코로나 걸리면...헐...백신도 못 맞고",
+      "tokens": [
+        "애기",
+        "들",
+        "코로나",
+        "걸리",
+        "면",
+        ".",
+        ".",
+        "헐",
+        ".",
+        "백신",
+        "도",
+        "못",
+        "맞",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "파라 바이러스였나?",
+      "tokens": [
+        "파라",
+        "바이러스",
+        "였",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "들어봄?",
+      "tokens": [
+        "들",
+        "어",
+        "봄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "파라바이러스는 또 뭐고 키키",
+      "tokens": [
+        "파라",
+        "바이러스",
+        "는",
+        "또",
+        "뭐",
+        "고키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "하늘에서 정의가 빗발친다!",
+      "tokens": [
+        "하늘",
+        "에서",
+        "정의",
+        "가",
+        "빗발친다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그거 열이 40도까지 막 나고",
+      "tokens": [
+        "그거",
+        "열",
+        "이",
+        "40",
+        "도",
+        "까지",
+        "막",
+        "나고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "허미; 진짜 위험한데",
+      "tokens": [
+        "허미",
+        ";",
+        "진짜",
+        "위험",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "열 40도 넘어가면 성인도 힘든데...",
+      "tokens": [
+        "열",
+        "40",
+        "도",
+        "넘어가",
+        "면",
+        "성인",
+        "도",
+        "힘든데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아기 코로나 이름이랭 ㅠㅠ",
+      "tokens": [
+        "아기",
+        "코로나",
+        "이름",
+        "이",
+        "랭",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아아 아기 코로나구나 ㅠ",
+      "tokens": [
+        "아아",
+        "아기",
+        "코",
+        "로",
+        "나",
+        "구",
+        "나ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "애기들은 얼마나 아플꼬 ㅜㅜ",
+      "tokens": [
+        "애기",
+        "들",
+        "은",
+        "얼마나",
+        "아플",
+        "ETM",
+        "꼬",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "왜 그런 게 계속 생기지",
+      "tokens": [
+        "왜",
+        "그런",
+        "게",
+        "JKS",
+        "계속",
+        "생기",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "보통 6세 미만이 걸린다고 함!",
+      "tokens": [
+        "보통",
+        "6",
+        "세",
+        "미만",
+        "이",
+        "걸린다고",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "애기들 조심해야겠네 ㅠ",
+      "tokens": [
+        "애기",
+        "들",
+        "조심",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "네ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 6세 이상이라서 괜찮겠군... 후후...",
+      "tokens": [
+        "나",
+        "는",
+        "6",
+        "세",
+        "이상",
+        "이",
+        "라서",
+        "괜찮",
+        "겠",
+        "군",
+        ".",
+        "후후",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "소아과 대기 100번 그냥이래 ㄷㄷ",
+      "tokens": [
+        "소아과",
+        "대기",
+        "100",
+        "번",
+        "그냥",
+        "이래",
+        "EC",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "제주는 은근 코로나 많이 발생하네",
+      "tokens": [
+        "제주",
+        "는",
+        "은근",
+        "코로나",
+        "많이",
+        "발생",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "소아과 의사들 노났네",
+      "tokens": [
+        "소아과",
+        "의사",
+        "들",
+        "노",
+        "났",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

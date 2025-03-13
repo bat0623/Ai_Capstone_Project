@@ -1,0 +1,366 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "일본어 배워 본사람",
+      "tokens": [
+        "일본어",
+        "배워",
+        "EC",
+        "본",
+        "ETM",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나나 키키 고등학생 대학생 때",
+      "tokens": [
+        "나",
+        "나",
+        "키",
+        "키",
+        "고등",
+        "학생",
+        "대학생",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "하지메마시떼 와따시와 강고꾸노...",
+      "tokens": [
+        "하지메마시떼와따시와강고꾸노",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 거기서 딱 관둠 가타카나였나...",
+      "tokens": [
+        "나는거기서딱관둠가타카나였나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 하나도 모름...",
+      "tokens": [
+        "근데",
+        "하나",
+        "도",
+        "모름",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "히라가나도 다 까먹음",
+      "tokens": [
+        "히라가나",
+        "도",
+        "다",
+        "까먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "할머니 때매 딱 여기까지 알고있음",
+      "tokens": [
+        "할머니",
+        "때",
+        "매",
+        "EF",
+        "딱",
+        "여기",
+        "까지",
+        "알",
+        "고",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "한자 나올 때",
+      "tokens": [
+        "한자",
+        "나올",
+        "ETM",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "가타가나는 진짜… 오바임",
+      "tokens": [
+        "가타",
+        "가",
+        "나",
+        "는",
+        "진짜",
+        "…",
+        "오바",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어릴 때 할머니한테 맨날 일본어 해달랬었는데",
+      "tokens": [
+        "어릴",
+        "ETM",
+        "때",
+        "할머니",
+        "한테",
+        "맨날",
+        "일본어",
+        "해",
+        "EC",
+        "달랬었",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "거기가 완전 고비임",
+      "tokens": [
+        "거기",
+        "가",
+        "완전",
+        "고비",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래도 대충 알아 듣는 건 많으니까",
+      "tokens": [
+        "그래도",
+        "대충",
+        "알아듣",
+        "는",
+        "건",
+        "JX",
+        "많",
+        "으니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 내년에는 꼭 배워 볼라구...일본어 아니라도 외국어 아무꺼나 하나라도",
+      "tokens": [
+        "나",
+        "내년",
+        "에",
+        "는",
+        "꼭",
+        "배워",
+        "EC",
+        "볼라구",
+        "EF",
+        ".",
+        "일본어아니라도외국어아무꺼나하나라도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엇 우리 할머니도 일본어 잘했는디...",
+      "tokens": [
+        "엇",
+        "우리",
+        "할머니",
+        "도",
+        "일본어",
+        "잘",
+        "했",
+        "EP",
+        "는디",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "기본적인건 알지 않나 보통?",
+      "tokens": [
+        "기본",
+        "적",
+        "인",
+        "ETM",
+        "건",
+        "JX",
+        "알",
+        "지",
+        "않",
+        "나",
+        "보통"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 우리 할매 20년대생이신데...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "우리",
+        "할매",
+        "20",
+        "년",
+        "대생",
+        "이",
+        "신데",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "일제 시대 때 배웠뎅... 슬퍼",
+      "tokens": [
+        "일제",
+        "시대",
+        "때",
+        "배웠",
+        "EP",
+        "뎅",
+        ".",
+        "슬퍼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "ㅠㅠ 슬프다 ㅠㅠ 어쩔 수 없었을듯",
+      "tokens": [
+        "ㅠㅠ",
+        "슬프",
+        "다",
+        "ㅠㅠ",
+        "어쩔",
+        "ETM",
+        "수",
+        "없",
+        "었",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그니까 키키 일제시대도 겪으심",
+      "tokens": [
+        "그니까",
+        "키",
+        "키",
+        "일제",
+        "시대",
+        "도",
+        "겪",
+        "으",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

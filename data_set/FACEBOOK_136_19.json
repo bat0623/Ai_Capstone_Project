@@ -1,0 +1,388 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리는 리얼리티 연애 프로그램 좋아해 키키",
+      "tokens": [
+        "우리",
+        "는",
+        "리얼리티",
+        "연애",
+        "프로그램",
+        "좋",
+        "아",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 맞아 돌싱글즈도 잼나 하하",
+      "tokens": [
+        "응",
+        "맞",
+        "아",
+        "돌",
+        "싱글즈",
+        "도",
+        "잼",
+        "ETN",
+        "나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 그런 거 부부끼리 잘 안 보지 않나여",
+      "tokens": [
+        "키키",
+        "그런",
+        "거",
+        "부부",
+        "끼리",
+        "잘",
+        "안",
+        "보",
+        "지",
+        "않",
+        "나",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "환승 연애랑 그 뭐냐 체인지 데이즈... 광팬",
+      "tokens": [
+        "환승연애랑그뭐냐체인지데이즈",
+        ".",
+        "광",
+        "팬"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "에로부부도 좋아해 하하",
+      "tokens": [
+        "에로",
+        "부부",
+        "도",
+        "좋",
+        "아",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 색다른 커플이네여 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "색다른",
+        "ETM",
+        "커플",
+        "이",
+        "네여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "신기해",
+      "tokens": [
+        "신기",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "애로부부도 엄청 즐겨 봤어",
+      "tokens": [
+        "애",
+        "로",
+        "부부",
+        "도",
+        "엄청",
+        "즐겨",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "앗 애로부부였지 참 하하",
+      "tokens": [
+        "앗",
+        "애",
+        "로",
+        "부부",
+        "였",
+        "EP",
+        "지",
+        "참하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "애로부부 보면 욕만 겁나 나옴...",
+      "tokens": [
+        "애로부부보면욕만겁나나옴",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "에로 부부 아니고 애로!",
+      "tokens": [
+        "에로",
+        "부부",
+        "아니",
+        "고",
+        "애",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 맨날 헷갈리네 하하",
+      "tokens": [
+        "나",
+        "맨날",
+        "헷갈리",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "애로 부부죠 키키",
+      "tokens": [
+        "애",
+        "로",
+        "부부",
+        "죠",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "저도 헷갈려요",
+      "tokens": [
+        "저",
+        "도",
+        "헷갈려요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 그거 넘 재밌는데 키키",
+      "tokens": [
+        "아",
+        "그거",
+        "넘",
+        "재밌",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그니까 그거 완젼 노답임",
+      "tokens": [
+        "그니까",
+        "그거",
+        "완",
+        "JX",
+        "젼",
+        "노",
+        "답",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 그거 보면 푹 빠져요",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그거",
+        "보",
+        "면",
+        "푹",
+        "빠져요",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 한 번 보면 못 나감",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "한",
+        "번",
+        "보",
+        "면",
+        "못",
+        "나감",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "실화라는 게 더 소름 하하",
+      "tokens": [
+        "실화",
+        "라는",
+        "ETM",
+        "게",
+        "JKS",
+        "더",
+        "소름",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아요 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "계쏙 챙겨 보게 돼여",
+      "tokens": [
+        "계쏙챙겨보게돼여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

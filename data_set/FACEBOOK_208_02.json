@@ -1,0 +1,446 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "주택의 단점은 벌레인 듯",
+      "tokens": [
+        "주택",
+        "의",
+        "단점",
+        "은",
+        "벌레",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 집 안 살 거임.",
+      "tokens": [
+        "나",
+        "집",
+        "안",
+        "살",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그냥 버스 한대 사서 숙박할 거임",
+      "tokens": [
+        "그냥",
+        "버스",
+        "한",
+        "ETM",
+        "대사",
+        "서",
+        "숙박",
+        "할",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벌레 난방 관리 뭐 많지",
+      "tokens": [
+        "벌레",
+        "난방",
+        "관리",
+        "뭐",
+        "많",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "벌레가 진짜 겁나 많대",
+      "tokens": [
+        "벌레",
+        "가",
+        "진짜",
+        "겁나",
+        "EC",
+        "많",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "벌레도 요새는 에어 커튼 잘나와서 잘 없음",
+      "tokens": [
+        "벌레",
+        "도",
+        "요새",
+        "는",
+        "에어",
+        "커튼",
+        "잘",
+        "나와서",
+        "EC",
+        "잘",
+        "없",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "버스 한대 사서 숙박 가능해?",
+      "tokens": [
+        "버스",
+        "한",
+        "ETM",
+        "대사",
+        "서",
+        "숙박",
+        "가능",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "불법 개조 아닌감",
+      "tokens": [
+        "불법",
+        "개조",
+        "아닌감",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "버스 관리하기 힘들지 않음?",
+      "tokens": [
+        "버스",
+        "관리",
+        "하",
+        "기",
+        "힘들",
+        "지",
+        "않",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "에어 커튼이 뭐냐면 그 입구에 바람 불게 해서 벌레 못 들어오게 하는 거",
+      "tokens": [
+        "에",
+        "어",
+        "커튼",
+        "이",
+        "뭐",
+        "냐면",
+        "EC",
+        "그",
+        "입구",
+        "에",
+        "바람",
+        "불게",
+        "해서",
+        "EC",
+        "벌레",
+        "못",
+        "들어오",
+        "게",
+        "하",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 버스 관리할 거 왕많지",
+      "tokens": [
+        "키",
+        "키",
+        "버스",
+        "관리",
+        "할",
+        "ETM",
+        "거왕",
+        "많",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 에어 커튼 달면 괜춘?",
+      "tokens": [
+        "아",
+        "에",
+        "어",
+        "커튼",
+        "달",
+        "면",
+        "괜춘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "전원주택 필수템으로 부상 중임",
+      "tokens": [
+        "전원주택",
+        "필수",
+        "템",
+        "으로",
+        "부상",
+        "중임"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "기본적으로 차 관리하는 거에 집 관리까지니까",
+      "tokens": [
+        "기본",
+        "적",
+        "으로",
+        "차",
+        "관리",
+        "하",
+        "는",
+        "거",
+        "에",
+        "집",
+        "관리",
+        "까지",
+        "니까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "방충망으로는 침입 안 함?",
+      "tokens": [
+        "방충망",
+        "으로",
+        "는",
+        "침입",
+        "안",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응응 절대 벌레 못 들어옴",
+      "tokens": [
+        "응",
+        "응",
+        "절대",
+        "벌레",
+        "못",
+        "들어옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "입구마다 설치",
+      "tokens": [
+        "입구",
+        "마다",
+        "설치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "요즘 모기는 방충망도 뚫음",
+      "tokens": [
+        "요즘",
+        "모기",
+        "는",
+        "방충망",
+        "도",
+        "뚫",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "에어 커튼 좋네",
+      "tokens": [
+        "에",
+        "어",
+        "커튼",
+        "좋",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "알아봐야지 하하",
+      "tokens": [
+        "알",
+        "아",
+        "봐야",
+        "EC",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "방충망도 촘촘해서 침투 안됨",
+      "tokens": [
+        "방충망",
+        "도",
+        "촘촘",
+        "해서",
+        "EC",
+        "침투",
+        "안",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "이제 기술이 좋아져서",
+      "tokens": [
+        "이제",
+        "기술",
+        "이",
+        "좋",
+        "아",
+        "져서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "진짜 싫다 모기 박멸해라",
+      "tokens": [
+        "진짜",
+        "싫",
+        "다",
+        "모기",
+        "박멸",
+        "해라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

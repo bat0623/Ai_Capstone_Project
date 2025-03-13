@@ -1,0 +1,427 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "건강에 안 좋대 근데",
+      "tokens": [
+        "건강",
+        "에",
+        "안",
+        "좋",
+        "대",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 건강을 위해 헬리코박터 벅는 중",
+      "tokens": [
+        "난",
+        "JX",
+        "건강",
+        "을",
+        "위해",
+        "EC",
+        "헬",
+        "리코",
+        "박",
+        "터벅",
+        "는",
+        "중"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "피부에 좋을 수가 있겠니... 자극이 그렇게나 가는데",
+      "tokens": [
+        "피부",
+        "에",
+        "좋",
+        "을",
+        "수",
+        "가",
+        "있",
+        "겠",
+        "니",
+        ".",
+        "자극",
+        "이",
+        "그렇",
+        "게",
+        "나가",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "털이 나는 이유가 있다며",
+      "tokens": [
+        "털",
+        "이",
+        "나",
+        "는",
+        "이유",
+        "가",
+        "있",
+        "다며"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "윌 하루에 한번씩 유산균 먹는당",
+      "tokens": [
+        "윌",
+        "하루",
+        "에",
+        "한",
+        "번",
+        "씩",
+        "유산균",
+        "먹",
+        "는",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헬리코박터 먹어줘야 대 진짜로",
+      "tokens": [
+        "헬",
+        "리코",
+        "박",
+        "터",
+        "먹",
+        "어",
+        "줘야",
+        "EC",
+        "대",
+        "진짜",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "자연에 그냥은 없다며",
+      "tokens": [
+        "자연",
+        "에",
+        "그냥",
+        "은",
+        "없",
+        "다며"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "털이 단백질로 이루어져 있음",
+      "tokens": [
+        "털",
+        "이",
+        "단백질",
+        "로",
+        "이루어져",
+        "EC",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞음",
+      "tokens": [
+        "맞음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "인체는 거의 단백질로 구성됨",
+      "tokens": [
+        "인체",
+        "는",
+        "거의",
+        "단백질",
+        "로",
+        "구성",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "자라라는 머리는 잘 안 자람",
+      "tokens": [
+        "자라",
+        "라는",
+        "머리",
+        "는",
+        "잘",
+        "안",
+        "자람",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "응 유전자 구조가 그렇게 형성됨",
+      "tokens": [
+        "응",
+        "유전자",
+        "구조",
+        "가",
+        "그렇게",
+        "형성",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "단백질이 열에 약하잖오...",
+      "tokens": [
+        "단백질",
+        "이",
+        "열",
+        "에",
+        "약하",
+        "잖",
+        "오",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그러니까 체온 너무 높으면 안 좋아",
+      "tokens": [
+        "그러니까",
+        "체온",
+        "너무",
+        "높",
+        "으면",
+        "안",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "머리 좀 많이 자랐으면...",
+      "tokens": [
+        "머리",
+        "좀",
+        "많이",
+        "자랐으면",
+        "EP",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "손톱도 단백질임 그래서 식이 균형이 중요해",
+      "tokens": [
+        "손톱",
+        "도",
+        "단백질",
+        "임",
+        "ETN",
+        "그래서",
+        "식",
+        "이",
+        "균형",
+        "이",
+        "중요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "효소가 단백질로 거의 구성되어 있거든...",
+      "tokens": [
+        "효소",
+        "가",
+        "단백질",
+        "로",
+        "거의",
+        "구성",
+        "되",
+        "어",
+        "있",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "너네 넘 박식해...",
+      "tokens": [
+        "너",
+        "네",
+        "넘",
+        "박식",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "말하기 싫오",
+      "tokens": [
+        "말",
+        "하",
+        "기",
+        "싫",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "머리 자라는 것도 단백질 섭취를 잘해야 해",
+      "tokens": [
+        "머리",
+        "자",
+        "라는",
+        "ETM",
+        "것",
+        "도",
+        "단백질",
+        "섭취",
+        "를",
+        "잘",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "열로 변성 되면 효소가 제작용을 못하게 되잖아",
+      "tokens": [
+        "열",
+        "로",
+        "변성",
+        "되",
+        "면",
+        "효소",
+        "가",
+        "제",
+        "작용",
+        "을",
+        "못",
+        "하",
+        "게",
+        "되",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "환승 연애 본 사람...",
+      "tokens": [
+        "환승",
+        "연애",
+        "본",
+        "ETM",
+        "사람",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "환승 연애 완전 잼나 하하",
+      "tokens": [
+        "환승",
+        "연애",
+        "완전",
+        "잼",
+        "ETN",
+        "나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "환승 연애는 키키",
+      "tokens": [
+        "환승",
+        "연애",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "안 합니당",
+      "tokens": [
+        "안합니당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "환승 연애 진짜 재밌는데 키키",
+      "tokens": [
+        "환승",
+        "연애",
+        "진짜",
+        "재밌",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "빨리 시즌 2 했음 좋겠다",
+      "tokens": [
+        "빨리",
+        "시즌",
+        "2",
+        "했",
+        "EP",
+        "음",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그거 진짜 다시 만나여? 키키",
+      "tokens": [
+        "그거",
+        "진짜",
+        "다시",
+        "만나",
+        "여",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "환승 연애 하면 안 되지",
+      "tokens": [
+        "환승",
+        "연애",
+        "하",
+        "면",
+        "안",
+        "되",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 다시 만남 하하",
+      "tokens": [
+        "응",
+        "다시",
+        "만남",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "방송 끝나면 어떻게 되는 거지? 키키",
+      "tokens": [
+        "방송",
+        "끝",
+        "나",
+        "면",
+        "어떻게",
+        "되",
+        "는",
+        "거",
+        "지",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 다시 만나는가 보던대 키키",
+      "tokens": [
+        "키",
+        "키",
+        "다시",
+        "만나",
+        "는가",
+        "보",
+        "던",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 머 조작이란 말도?",
+      "tokens": [
+        "근데",
+        "머",
+        "조작",
+        "이",
+        "란",
+        "말",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 아 다시 만나여?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "다시",
+        "만나",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "결국 그렇구나 키키",
+      "tokens": [
+        "결국",
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "방송 끝나고 다시 만나고 있더랑",
+      "tokens": [
+        "방송",
+        "끝",
+        "나",
+        "고",
+        "다시",
+        "만나",
+        "고",
+        "있",
+        "더",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "다 믿을 수가 없어 하하",
+      "tokens": [
+        "다",
+        "믿",
+        "을",
+        "수",
+        "가",
+        "없",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그런 프로그램 많은데 다 조작 같아여 ㅠㅠ",
+      "tokens": [
+        "그런",
+        "프로그램",
+        "많",
+        "은",
+        "데",
+        "다",
+        "조작",
+        "같",
+        "아",
+        "여",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "환승 연애 2도 한대!",
+      "tokens": [
+        "환승",
+        "연애",
+        "2",
+        "도",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래도 그냥 재밌게 봤어",
+      "tokens": [
+        "그래도",
+        "그냥",
+        "재밌",
+        "게",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오~ 근데 시청률 높아서",
+      "tokens": [
+        "오",
+        "~",
+        "근데",
+        "시청",
+        "률",
+        "높",
+        "아서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

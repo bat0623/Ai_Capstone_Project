@@ -1,0 +1,368 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "먹고 싶은 음식 말해 보장",
+      "tokens": [
+        "먹",
+        "고",
+        "싶",
+        "은",
+        "음식",
+        "말",
+        "해",
+        "EC",
+        "보장"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 불고기 먹고파",
+      "tokens": [
+        "난",
+        "JX",
+        "불고기",
+        "먹",
+        "고파"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "저 저녁 곰탕 먹을 거예요!",
+      "tokens": [
+        "저",
+        "저녁",
+        "곰탕",
+        "먹",
+        "을",
+        "거",
+        "예요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 지금 상당히 뼈 해장국...",
+      "tokens": [
+        "난",
+        "JX",
+        "지금",
+        "상당히",
+        "뼈",
+        "해장국",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "불고기는 언제나 사랑 ㅠ",
+      "tokens": [
+        "불고기",
+        "는",
+        "언제나",
+        "사랑",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "방금 시켰답니다 호홍",
+      "tokens": [
+        "방금",
+        "시켰",
+        "EP",
+        "답니다",
+        "호",
+        "홍"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뼈 해장국이 진짜 맛있",
+      "tokens": [
+        "뼈",
+        "해장국",
+        "이",
+        "진짜",
+        "맛있"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 그런 국물 음식 싫어",
+      "tokens": [
+        "난",
+        "JX",
+        "그런",
+        "국물",
+        "음식",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뼈해장국 ㅠㅠ 홈쿡 감자탕",
+      "tokens": [
+        "뼈",
+        "해장국",
+        "ㅠㅠ",
+        "홈",
+        "쿡",
+        "감자탕"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오 곰탕을 시켰어?",
+      "tokens": [
+        "오",
+        "곰탕",
+        "을",
+        "시켰",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "어디서",
+      "tokens": [
+        "어디",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 국물은 싫어하는 편",
+      "tokens": [
+        "난",
+        "JX",
+        "국물",
+        "은",
+        "싫",
+        "어",
+        "하",
+        "는",
+        "편"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 맛있던데 놀랐어요!",
+      "tokens": [
+        "진짜",
+        "맛있",
+        "던",
+        "데",
+        "놀랐",
+        "EP",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "곰탕이 배달이 되는 거야?",
+      "tokens": [
+        "곰탕",
+        "이",
+        "배달",
+        "이",
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "곰탕은 어디가 맛잇쥐",
+      "tokens": [
+        "곰탕",
+        "은",
+        "어디",
+        "가",
+        "맛",
+        "잇",
+        "쥐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "서울곰탕인가?",
+      "tokens": [
+        "서울",
+        "곰탕",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "네 네 배달돼요!",
+      "tokens": [
+        "네",
+        "네",
+        "배달",
+        "돼요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "홈쿡 감자탕 맛있어?",
+      "tokens": [
+        "홈",
+        "쿡",
+        "감자탕",
+        "맛있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오... 그거 먹을래",
+      "tokens": [
+        "오",
+        ".",
+        "그거",
+        "먹",
+        "을래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오 맛있겠다 하하",
+      "tokens": [
+        "오",
+        "맛있",
+        "겠",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "국물 핵 진하다고 해서~ 시켰어요",
+      "tokens": [
+        "국물",
+        "핵",
+        "진하",
+        "다고",
+        "해서",
+        "EC",
+        "~",
+        "시켰",
+        "EP",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

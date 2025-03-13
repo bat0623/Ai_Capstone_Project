@@ -1,0 +1,341 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "결혼할 때 떨리더나",
+      "tokens": [
+        "결혼",
+        "할",
+        "ETM",
+        "때",
+        "떨리",
+        "더나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 조금 떨리던데 하하",
+      "tokens": [
+        "응",
+        "조금",
+        "떨리",
+        "던데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아주 떨렸어 나는 ㅠㅠ",
+      "tokens": [
+        "아주",
+        "떨렸",
+        "EP",
+        "어",
+        "나",
+        "는",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "결혼식 날 기억 나냐 둘 다",
+      "tokens": [
+        "결혼식",
+        "날",
+        "기억나",
+        "냐",
+        "둘",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "첨에 입장할 때 떨림 하하",
+      "tokens": [
+        "첨",
+        "에",
+        "입장",
+        "할",
+        "ETM",
+        "때",
+        "떨림",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내 기억도 잘 안 난다",
+      "tokens": [
+        "내",
+        "JKG",
+        "기억",
+        "도",
+        "잘",
+        "안",
+        "난다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 하나도 안 떨리던데...",
+      "tokens": [
+        "난",
+        "JX",
+        "하나",
+        "도",
+        "안",
+        "떨리",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그리고 신부 들어올 때 눈물 ㅠㅠ",
+      "tokens": [
+        "그리고",
+        "신부",
+        "들어올",
+        "ETM",
+        "때",
+        "눈물",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내 술 먹고 시작했다",
+      "tokens": [
+        "내",
+        "JKG",
+        "술",
+        "먹",
+        "고",
+        "시작",
+        "했",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그냥 재밌더랑 엄청 키키",
+      "tokens": [
+        "그냥",
+        "재밌",
+        "더",
+        "랑",
+        "엄청",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "난 청심환 안 먹었어 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "청심환",
+        "안",
+        "먹",
+        "었",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너무 긴장해서 떨렸음 키키",
+      "tokens": [
+        "너무",
+        "긴장",
+        "해서",
+        "EC",
+        "떨렸",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그 신부 혹시 나니? 갬동",
+      "tokens": [
+        "그",
+        "신부",
+        "혹시",
+        "나",
+        "니",
+        "EF",
+        "갬",
+        "ETN",
+        "동"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "넌 먹었었지 **",
+      "tokens": [
+        "넌",
+        "JX",
+        "먹",
+        "었었",
+        "지",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "소주 2명 먹고 했음",
+      "tokens": [
+        "소주",
+        "2",
+        "명",
+        "먹",
+        "고",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 ** 진짜 웃기네",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "진짜",
+        "웃기",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "지짜임 실화로? 키키",
+      "tokens": [
+        "지",
+        "짜임",
+        "실화",
+        "로",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "기억이 하나도 안나 …",
+      "tokens": [
+        "기억",
+        "이",
+        "하나",
+        "도",
+        "안",
+        "나",
+        "EC",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

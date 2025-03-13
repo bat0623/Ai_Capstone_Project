@@ -1,0 +1,358 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아파트에서 할로윈 파티 했음...",
+      "tokens": [
+        "아파트",
+        "에서",
+        "할로윈",
+        "파티",
+        "했",
+        "EP",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 여기 하더라 하하",
+      "tokens": [
+        "그니까",
+        "여기",
+        "하",
+        "더라",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 아 진짜 애기들 파티 했나",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜",
+        "애기",
+        "들",
+        "파티",
+        "했",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "초딩들 왕 난리 났음...",
+      "tokens": [
+        "초딩들왕난리났음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "별걸 다함 정말 하하",
+      "tokens": [
+        "별",
+        "걸",
+        "JKO",
+        "다함",
+        "ETN",
+        "정말",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나도 했음 학원에서 키키",
+      "tokens": [
+        "나",
+        "도",
+        "했",
+        "EP",
+        "음",
+        "학원",
+        "에서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아파트 진짜 시끄러움",
+      "tokens": [
+        "아파트",
+        "진짜",
+        "시끄러움",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "초딩들 사탕 졸랭 흘려 놓음",
+      "tokens": [
+        "초딩",
+        "들",
+        "사탕",
+        "졸",
+        "ETM",
+        "랭",
+        "흘려",
+        "EC",
+        "놓",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "요즘 할로윈 대박 크게한다",
+      "tokens": [
+        "요즘",
+        "할로윈",
+        "대박",
+        "크",
+        "게",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 그런 것 좀 하지 마...",
+      "tokens": [
+        "키키",
+        "그런",
+        "것",
+        "좀",
+        "하",
+        "지",
+        "마",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엘베에 사탕 겁나 떨어져있어 하하",
+      "tokens": [
+        "엘베",
+        "에",
+        "사탕",
+        "겁나",
+        "EC",
+        "떨어져",
+        "EC",
+        "있",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래 키키 엄청하던데 닌 안햇나",
+      "tokens": [
+        "그래",
+        "키",
+        "키",
+        "엄청",
+        "하",
+        "던데",
+        "닌",
+        "안",
+        "햇",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 아파트가 넘 시끄러워 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "아파트",
+        "가",
+        "넘",
+        "시끄러워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까 남에 나라 잔치에 하하",
+      "tokens": [
+        "그니까",
+        "남",
+        "에",
+        "나라",
+        "잔치",
+        "에",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 키키 아파트가 다 하구나",
+      "tokens": [
+        "아키",
+        "키",
+        "아파트",
+        "가",
+        "다",
+        "하",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "당근 우리는 30세 넘었는디 키키",
+      "tokens": [
+        "당근",
+        "우리",
+        "는",
+        "30",
+        "세넘었는디키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "한복도 안 입는 것들이 하하",
+      "tokens": [
+        "한복",
+        "도",
+        "안",
+        "입",
+        "는",
+        "것",
+        "들",
+        "이",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "학원에서 보통 하던데 다하더라 ㅜㅜ",
+      "tokens": [
+        "학원",
+        "에서",
+        "보통",
+        "하",
+        "던",
+        "데",
+        "다",
+        "하",
+        "더라",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "이태원 난리 났자나",
+      "tokens": [
+        "이태원",
+        "난리",
+        "났",
+        "EP",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

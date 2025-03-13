@@ -1,0 +1,409 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "신혼여행 어디 갈 거임?",
+      "tokens": [
+        "신혼",
+        "여행",
+        "어디",
+        "갈",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "신혼여행은 어디든 좋지 하하",
+      "tokens": [
+        "신혼",
+        "여행",
+        "은",
+        "어디",
+        "든",
+        "EC",
+        "좋",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아직은 생각이 없는데...",
+      "tokens": [
+        "아직",
+        "은",
+        "생각",
+        "이",
+        "없",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리는 미국 엘에이 갔다가 멕시코 칸쿤 다녀 왔어 굿굿굿",
+      "tokens": [
+        "우리",
+        "는",
+        "미국",
+        "엘에이",
+        "갔",
+        "EP",
+        "다가",
+        "멕시코",
+        "칸쿤",
+        "다녀왔",
+        "EP",
+        "어",
+        "굿",
+        "굿",
+        "굿"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "코로나 전이라 아주 좋았어 하하",
+      "tokens": [
+        "코로나",
+        "전이",
+        "라",
+        "EC",
+        "아주",
+        "좋",
+        "았",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아직 좀 이르지 않을까요... ^^",
+      "tokens": [
+        "아직",
+        "좀",
+        "이르",
+        "지",
+        "않",
+        "을까요",
+        ".",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "지금부터 생각해 둬야지 키키",
+      "tokens": [
+        "지금",
+        "부터",
+        "생각",
+        "해",
+        "EC",
+        "둬야",
+        "EC",
+        "VX",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 이르긴 하다 진짜",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "이르",
+        "긴",
+        "JX",
+        "하",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "저 올해 20살인데유...",
+      "tokens": [
+        "저",
+        "올해",
+        "20",
+        "살",
+        "인데유",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요새는 몰디브랑 하와이 많이 가던데",
+      "tokens": [
+        "요새",
+        "는",
+        "몰디브",
+        "랑",
+        "하와이",
+        "많이",
+        "가",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그니까 저 언니 정말 주책이야",
+      "tokens": [
+        "그니까",
+        "저",
+        "언니",
+        "정말",
+        "주책",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "몰디브 가서 모히또 한잔해야죠",
+      "tokens": [
+        "몰디브",
+        "가",
+        "서모",
+        "히",
+        "또",
+        "한잔",
+        "해야죠",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 아 그래?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "그래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 부럽네 키키",
+      "tokens": [
+        "진짜",
+        "부럽",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그렇지 하하 주책 언니",
+      "tokens": [
+        "그렇",
+        "지",
+        "하하",
+        "주책",
+        "언니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "제가 빠른 년생이라 그냥 본 나이를 셉니다 하하",
+      "tokens": [
+        "제",
+        "가",
+        "빠른",
+        "ETM",
+        "년",
+        "생",
+        "이",
+        "라",
+        "그냥",
+        "본",
+        "ETM",
+        "나이",
+        "를",
+        "셉",
+        "니",
+        "EC",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그럼 내일로나 계획해 보자 키키",
+      "tokens": [
+        "그럼",
+        "내일",
+        "로",
+        "나",
+        "계획",
+        "해",
+        "EC",
+        "보",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "내일로 꼭 가",
+      "tokens": [
+        "내일",
+        "로",
+        "꼭",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "완젼 재밌어",
+      "tokens": [
+        "완",
+        "젼",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "내일로가 뭐예요?",
+      "tokens": [
+        "내",
+        "JKG",
+        "일로",
+        "가",
+        "뭐",
+        "예요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

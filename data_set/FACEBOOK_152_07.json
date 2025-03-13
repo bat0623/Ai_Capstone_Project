@@ -1,0 +1,382 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "가족 소개 해줘",
+      "tokens": [
+        "가족",
+        "소개",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저는 아버지 어머니 형 있습니다",
+      "tokens": [
+        "저",
+        "는",
+        "아버지",
+        "어머니",
+        "형",
+        "있",
+        "습니다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 옴마 동생 셋이서 알콩달콩",
+      "tokens": [
+        "나",
+        "옴마",
+        "동생",
+        "셋",
+        "이",
+        "서",
+        "알콩달콩"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 할머니 아버지 어머니 오빠 남편 강아지",
+      "tokens": [
+        "난",
+        "JX",
+        "할머니",
+        "아버지",
+        "어머니",
+        "오빠",
+        "남편",
+        "강아지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "형은 거창에서 일하고 잇고",
+      "tokens": [
+        "형",
+        "은",
+        "거창",
+        "에서",
+        "일",
+        "하",
+        "고",
+        "잇",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "벅수 이제 몇 살이지?",
+      "tokens": [
+        "벅수",
+        "이제",
+        "몇",
+        "살",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "** 너 동생 없잖아",
+      "tokens": [
+        "*",
+        "*",
+        "너",
+        "동생",
+        "없",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아버지 어머니는 진주 산청 왔다 갔다 하시고요",
+      "tokens": [
+        "아버지",
+        "어머니",
+        "는",
+        "진주",
+        "산청",
+        "왔다갔다",
+        "하",
+        "시",
+        "고요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "쉬고 계십니다",
+      "tokens": [
+        "쉬",
+        "고",
+        "계십니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 그럼 오리지널 제주 도민이 아니구먼",
+      "tokens": [
+        "아",
+        "그럼",
+        "오리지널",
+        "제주",
+        "도민",
+        "이",
+        "아니",
+        "구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "벅수 이제 무려 7세",
+      "tokens": [
+        "벅수",
+        "이제",
+        "무려",
+        "7",
+        "세"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "네 오리지날은 아닙니다 키키",
+      "tokens": [
+        "네",
+        "오리지날",
+        "은",
+        "아닙니다",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 강아지 보험같은 거 들어놔써?",
+      "tokens": [
+        "헐",
+        "강아지",
+        "보험",
+        "같",
+        "은",
+        "거",
+        "들",
+        "어",
+        "놔",
+        "EC",
+        "써",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "산청에서 왜 왔다갔다 하심?",
+      "tokens": [
+        "산청",
+        "에서",
+        "왜",
+        "왔다갔다",
+        "하",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "귀촌 하심?",
+      "tokens": [
+        "귀촌",
+        "하",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "귀촌해서 거기 작게 농사지으심",
+      "tokens": [
+        "귀촌",
+        "해서",
+        "EC",
+        "거기",
+        "작",
+        "게",
+        "농사",
+        "지으",
+        "EP",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "일 때문에 왔다 갔다 하시는 거 아녀?",
+      "tokens": [
+        "일",
+        "때문",
+        "에",
+        "왔",
+        "EP",
+        "다",
+        "갔",
+        "EP",
+        "다",
+        "하",
+        "시",
+        "는",
+        "거",
+        "아녀",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "강아지 보험 들어야 해?",
+      "tokens": [
+        "강아지",
+        "보험",
+        "들어야",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "일은 안 하십니당 키키",
+      "tokens": [
+        "일",
+        "은",
+        "안",
+        "하",
+        "십",
+        "니",
+        "당",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "이제 노견이니까...병원비 마니 들어",
+      "tokens": [
+        "이제",
+        "노견",
+        "이",
+        "니까",
+        ".",
+        ".",
+        "병원",
+        "비마니",
+        "들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

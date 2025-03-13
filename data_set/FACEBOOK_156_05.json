@@ -1,0 +1,366 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**는 군대 안가도 됨?",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "군대",
+        "안가",
+        "도",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "**이는 그거 아이가",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "는",
+        "그거",
+        "아이",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 군대 안가도 되지!",
+      "tokens": [
+        "나",
+        "는",
+        "군대",
+        "안가",
+        "도",
+        "되",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "군대 가라하면 어쩔거야...",
+      "tokens": [
+        "군대",
+        "가라",
+        "하",
+        "면",
+        "어쩔",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "군대 대신 뭐꼬 갑자기 까먹음 키키",
+      "tokens": [
+        "군대",
+        "대신",
+        "뭐",
+        "꼬",
+        "EC",
+        "갑자기",
+        "까먹",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "산업체 짱이야...응?",
+      "tokens": [
+        "산업체",
+        "짱",
+        "이",
+        "야",
+        ".",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "산업체 짱이야?  왱?",
+      "tokens": [
+        "산업체",
+        "짱",
+        "이",
+        "야",
+        "왱"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "군대 다시 가라하면 나라에 따져야함 키키",
+      "tokens": [
+        "군대",
+        "다시",
+        "가라",
+        "하",
+        "면",
+        "나라",
+        "에",
+        "따져야",
+        "EC",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그런 생각 조차 하지 않을래... 돈 버니까",
+      "tokens": [
+        "그런",
+        "생각",
+        "조차",
+        "하",
+        "지",
+        "않",
+        "을래",
+        ".",
+        "돈",
+        "버",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "**는 군대 다시 가라하면 갈거임?",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "군대",
+        "다시",
+        "가라",
+        "하",
+        "면",
+        "갈",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그거 출퇴 하는 거 아님?",
+      "tokens": [
+        "그",
+        "거출",
+        "퇴",
+        "하",
+        "는",
+        "거",
+        "아님",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 아니 2년동안 갇혀있지 않은 거가...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "2",
+        "년",
+        "동안",
+        "갇혀",
+        "EC",
+        "있",
+        "지",
+        "않",
+        "은",
+        "거",
+        "가",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요즘 군인 할만 하던데...",
+      "tokens": [
+        "요즘",
+        "군인",
+        "할",
+        "ETM",
+        "만",
+        "하",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "절대 안가지 왜감 키키",
+      "tokens": [
+        "절대",
+        "안",
+        "가",
+        "지",
+        "왜감",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "제일 좋은가 키키 생각해보면",
+      "tokens": [
+        "제일",
+        "좋",
+        "은가",
+        "키",
+        "키",
+        "생각",
+        "해",
+        "EC",
+        "보",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마음 고생도 없고 편할듯...",
+      "tokens": [
+        "마음고생",
+        "도",
+        "없",
+        "고",
+        "편할",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래도 군대는 군대다",
+      "tokens": [
+        "그래도",
+        "군대",
+        "는",
+        "군대",
+        "다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래도 ㅠㅠ 갇혀 있으면 짱나서",
+      "tokens": [
+        "그래도",
+        "ㅠㅠ",
+        "갇혀",
+        "EC",
+        "있",
+        "으면",
+        "짱나",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

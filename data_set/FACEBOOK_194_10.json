@@ -1,0 +1,444 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "취미 있는 사람 ~",
+      "tokens": [
+        "취미",
+        "있",
+        "는",
+        "사람",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 취미가 엄청 많아 !",
+      "tokens": [
+        "나",
+        "는",
+        "취미",
+        "가",
+        "엄청",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "너희들 분재라고 아냐",
+      "tokens": [
+        "너희",
+        "들",
+        "분재",
+        "라고",
+        "JKC",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나무를 멋있게 만드는 거",
+      "tokens": [
+        "나무",
+        "를",
+        "멋있",
+        "게",
+        "만드",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그게 각광 받는 레저산업임",
+      "tokens": [
+        "그게",
+        "JKS",
+        "각광",
+        "받",
+        "는",
+        "레저",
+        "산업",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내 취미는 나름 독서임",
+      "tokens": [
+        "내",
+        "JKG",
+        "취미",
+        "는",
+        "나름",
+        "독서",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 취미 많아",
+      "tokens": [
+        "나",
+        "도",
+        "취미",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 운동은 자신이 없어 ~",
+      "tokens": [
+        "근데",
+        "운동",
+        "은",
+        "자신",
+        "이",
+        "없",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "분재가 돈이 되거든",
+      "tokens": [
+        "분재",
+        "가",
+        "돈",
+        "이",
+        "되",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "우리 아빠 분재 전문가잖아...",
+      "tokens": [
+        "우리",
+        "아빠",
+        "분재",
+        "전문가",
+        "잖아",
+        "EC",
+        "VX",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "분재가 돈이 되구나 !",
+      "tokens": [
+        "분재",
+        "가",
+        "돈",
+        "이",
+        "되",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "응응",
+      "tokens": [
+        "응",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그게 다 돈임",
+      "tokens": [
+        "그게",
+        "JKS",
+        "다",
+        "돈",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우리집에 분재 한 5000개 있는 듯",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "분재",
+        "한",
+        "ETM",
+        "5000",
+        "개",
+        "있",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "** 아버지 사천에서 안 오시고 그랬다 키키",
+      "tokens": [
+        "*",
+        "*",
+        "아버지",
+        "사",
+        "천",
+        "에서",
+        "안",
+        "오",
+        "시",
+        "고",
+        "그랬",
+        "EP",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "** 가서 좀 배워라",
+      "tokens": [
+        "*",
+        "*",
+        "가",
+        "서",
+        "좀",
+        "배워라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그게 왜 돈이야",
+      "tokens": [
+        "그게",
+        "JKS",
+        "왜",
+        "돈",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "다 돈 주고 산 거임",
+      "tokens": [
+        "다",
+        "돈",
+        "주",
+        "고",
+        "산",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나무 키운다고 가출하심 키키",
+      "tokens": [
+        "나무",
+        "키운다고",
+        "EC",
+        "가출",
+        "하",
+        "심",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "이제 그게 트렌드가 된다",
+      "tokens": [
+        "이제",
+        "그게",
+        "JKS",
+        "트렌드",
+        "가",
+        "된다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "내가 그걸 왜 배워 키키",
+      "tokens": [
+        "내",
+        "가",
+        "그걸",
+        "JKO",
+        "왜",
+        "배워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나도 분재 배워야겠네",
+      "tokens": [
+        "나",
+        "도",
+        "분재",
+        "배워야",
+        "EC",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "왜냐면 반려식물이 키워드로 부상 중임",
+      "tokens": [
+        "왜냐면",
+        "반려",
+        "식물",
+        "이",
+        "키워드",
+        "로",
+        "부상",
+        "중임"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

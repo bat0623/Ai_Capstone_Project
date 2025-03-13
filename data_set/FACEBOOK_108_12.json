@@ -1,0 +1,465 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 호캉스 즐겨본 적 있어?",
+      "tokens": [
+        "너",
+        "는",
+        "호",
+        "캉",
+        "스",
+        "즐겨",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어 딱히 호캉스라고 생각하고 간 적은 없는 거 같아!",
+      "tokens": [
+        "어",
+        "딱히",
+        "호",
+        "캉",
+        "스",
+        "라고",
+        "생각",
+        "하",
+        "고",
+        "간적",
+        "은",
+        "없",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그러면 호텔숙박은 해본 적은 있고?",
+      "tokens": [
+        "그러면",
+        "호텔",
+        "숙박",
+        "은",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "은",
+        "있",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "응응 여행 갔을 때 이용해 봤어!",
+      "tokens": [
+        "응",
+        "응",
+        "여행",
+        "갔",
+        "EP",
+        "을",
+        "때",
+        "이용",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어디 지역 호텔 이용해 봤어?",
+      "tokens": [
+        "어디",
+        "지역",
+        "호텔",
+        "이용",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어 해외랑 인천에 파라다이스 호텔 해봤어!",
+      "tokens": [
+        "어",
+        "해외",
+        "랑",
+        "인천",
+        "에",
+        "파라다이스",
+        "호텔",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어 인천 그 호텔 되게 유명한 곳 아니야?",
+      "tokens": [
+        "어",
+        "인천",
+        "그",
+        "호텔",
+        "되게",
+        "유명",
+        "한",
+        "ETM",
+        "곳",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "어 맞아 거기 전시장도 있고 촬영도 많이 왔었어!",
+      "tokens": [
+        "어",
+        "맞아",
+        "거기",
+        "전시장",
+        "도",
+        "있",
+        "고",
+        "촬영",
+        "도",
+        "많이",
+        "왔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "거기 룸서비스는 이용해 봤어!?",
+      "tokens": [
+        "거기",
+        "룸서비스",
+        "는",
+        "이용",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "비싸서 생각도 안 했어 ㅠㅠ",
+      "tokens": [
+        "비싸",
+        "서",
+        "생각",
+        "도",
+        "안",
+        "했",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 호캉스는 그런 거 하는 거잖아!",
+      "tokens": [
+        "키",
+        "키호",
+        "캉",
+        "스",
+        "는",
+        "그런",
+        "거",
+        "하",
+        "는",
+        "거",
+        "잖아",
+        "EC",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 해보고 싶어!",
+      "tokens": [
+        "나",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 제대로 해보고 싶어 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "제대로",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 거기에 있는 수영장 갔었거든 !",
+      "tokens": [
+        "나",
+        "는",
+        "거기",
+        "에",
+        "있",
+        "는",
+        "수영장",
+        "갔었",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "코로나 터지기 전에 간 거야?",
+      "tokens": [
+        "코로나",
+        "터지",
+        "기",
+        "전",
+        "에",
+        "간",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어어 맞아",
+      "tokens": [
+        "어",
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "코로나 터지기 전에 가서 수영장에서 놀았었어!",
+      "tokens": [
+        "코로나",
+        "터지",
+        "기",
+        "전",
+        "에",
+        "가",
+        "서",
+        "수영장",
+        "에서",
+        "놀",
+        "았었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "와 대박 어땠어?",
+      "tokens": [
+        "와대",
+        "박",
+        "어",
+        "땠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "재미있었어?",
+      "tokens": [
+        "재미있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "진짜 완전 좋더라 ㅠㅠ 찜질방도 있었어",
+      "tokens": [
+        "진짜",
+        "완전",
+        "좋",
+        "더라",
+        "ㅠㅠ",
+        "찜질방",
+        "도",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니네 집이랑 지하철 타는 곳이랑 가까워?",
+      "tokens": [
+        "언니네",
+        "집",
+        "이랑",
+        "지하철",
+        "타",
+        "는",
+        "곳",
+        "이랑",
+        "가까워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응! 바로 앞에 지하철 역 이야!",
+      "tokens": [
+        "응",
+        "바로",
+        "앞",
+        "에",
+        "지하철역",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그렇구나 언니 역세권에서 살고 있구나?",
+      "tokens": [
+        "그렇",
+        "구나",
+        "언니",
+        "역세",
+        "권",
+        "에서",
+        "살",
+        "고",
+        "있",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "응 키키 역세권이 제일 쩔지~",
+      "tokens": [
+        "응키키역세권이제일쩔지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "언니네 역 앞에도 포장마차 있어?",
+      "tokens": [
+        "언니네",
+        "역",
+        "앞",
+        "에",
+        "도",
+        "포장마차",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "포장마차? 요즘엔 그런 거 없지 않나?",
+      "tokens": [
+        "포장마차",
+        "?",
+        "요즘",
+        "엔",
+        "JX",
+        "그런",
+        "거",
+        "없",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리 집 역 앞에는 계란빵 팔아~",
+      "tokens": [
+        "우리",
+        "집역",
+        "앞",
+        "에",
+        "는",
+        "계란빵",
+        "팔",
+        "아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "여기는 도로에 그런 거 설치 못하게 하더라 ㅠㅠ",
+      "tokens": [
+        "여기",
+        "는",
+        "도로",
+        "에",
+        "그런",
+        "거설",
+        "치",
+        "EC",
+        "못하",
+        "게",
+        "하",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 진짜? 우리는 그냥 역 출구 바로 앞에  있어!",
+      "tokens": [
+        "아",
+        "진짜",
+        "우리",
+        "는",
+        "그냥",
+        "역출",
+        "구바",
+        "로",
+        "앞",
+        "에",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "와,, 나 계란빵 진짜 좋아하는데ㅠㅠ",
+      "tokens": [
+        "와",
+        ",",
+        ",",
+        "나계란빵진짜좋아하는데ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맨날 퇴근하고 집 갈 때 거기 계란빵 냄새가 어우 장난 아니야~",
+      "tokens": [
+        "맨날퇴근하고집갈때거기계란빵냄새가어우장난아니야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "다음에 부산으로 택배 좀 보내줘~",
+      "tokens": [
+        "다음",
+        "에",
+        "부산",
+        "으로",
+        "택배",
+        "좀",
+        "보내",
+        "줘",
+        "VV",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 택배 보냈다가 계란빵에 파란 곰팡이 피어도 몰라~",
+      "tokens": [
+        "키키택배보냈다가계란빵에파란곰팡이피어도몰라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 그냥 내가 너희 집으로 놀러 갈께",
+      "tokens": [
+        "키",
+        "키",
+        "그냥",
+        "내",
+        "가",
+        "너희",
+        "집",
+        "으로",
+        "놀",
+        "러",
+        "갈께",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오 좋지~",
+      "tokens": [
+        "오",
+        "좋",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내가 여기 계란빵 다 사줄게~",
+      "tokens": [
+        "내",
+        "가",
+        "여기",
+        "계란빵",
+        "다",
+        "사",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "알겠어~ 땅콩빵도 같이 사줘~",
+      "tokens": [
+        "알",
+        "겠",
+        "어",
+        "~",
+        "땅콩",
+        "빵",
+        "도",
+        "같이",
+        "사",
+        "줘",
+        "VV",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

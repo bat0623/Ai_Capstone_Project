@@ -1,0 +1,411 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠랑 여행 가면 진짜 편함",
+      "tokens": [
+        "오빠",
+        "랑",
+        "여행",
+        "가",
+        "면",
+        "진짜",
+        "편함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오빠랑 가면 왜 편해?",
+      "tokens": [
+        "오빠",
+        "랑",
+        "가",
+        "면",
+        "왜",
+        "편해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "감성숙소가 대세라던데 왜 그럴까",
+      "tokens": [
+        "감성",
+        "숙소",
+        "가",
+        "대세",
+        "라던데",
+        "EC",
+        "왜",
+        "그럴까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오빠들이 좋아하나",
+      "tokens": [
+        "오빠",
+        "들",
+        "이",
+        "좋",
+        "아",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "거의 가이드 수준임",
+      "tokens": [
+        "거의",
+        "가이드",
+        "수준",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나랑 비슷한 부류 키키",
+      "tokens": [
+        "나",
+        "랑",
+        "비슷",
+        "한",
+        "ETM",
+        "부류",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오빠들 부럽다 ㅠ",
+      "tokens": [
+        "오빠들부럽다ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 오빠 없음 형만 있음",
+      "tokens": [
+        "나",
+        "는",
+        "오빠",
+        "없",
+        "음",
+        "형",
+        "만",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "감성 숙소가 대세래?",
+      "tokens": [
+        "감성",
+        "숙소",
+        "가",
+        "대세",
+        "래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오빠랑 내랑 진짜 성향 비슷 ~",
+      "tokens": [
+        "오빠랑내랑진짜성향비슷",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "응 요새 감성숙소 아니면 장사 안됨",
+      "tokens": [
+        "응",
+        "요새",
+        "감성",
+        "숙소",
+        "아니",
+        "면",
+        "장사",
+        "안",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "마즘",
+      "tokens": [
+        "마",
+        "즘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "**랑 진짜 비슷해 키키",
+      "tokens": [
+        "*",
+        "*",
+        "랑진짜비슷해키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래 여자들 감성 숙소 좋아함",
+      "tokens": [
+        "그래",
+        "여자",
+        "들",
+        "감성",
+        "숙소",
+        "좋",
+        "아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오징어등 켜놓고 주백색 감성",
+      "tokens": [
+        "오징어",
+        "등",
+        "켜",
+        "EC",
+        "놓",
+        "고",
+        "주",
+        "백",
+        "색감",
+        "성"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 그냥 대형 호텔이 편하더랑",
+      "tokens": [
+        "난",
+        "JX",
+        "그냥",
+        "대형",
+        "호텔",
+        "이",
+        "편하",
+        "더",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 막 찾아봄 갬성숙소 키키",
+      "tokens": [
+        "나",
+        "도",
+        "막",
+        "찾",
+        "아",
+        "봄",
+        "EC",
+        "갬",
+        "ETN",
+        "성숙",
+        "소키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "감성 ㅋ",
+      "tokens": [
+        "감성ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오글거린다 갬성 ㅋ",
+      "tokens": [
+        "오글거린다갬성ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 나도 알려 주라 감성 숙소",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "알려",
+        "EC",
+        "주",
+        "라",
+        "감성",
+        "숙소"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그리고 뷰가 좋아야 함 키키",
+      "tokens": [
+        "그리고",
+        "뷰",
+        "가",
+        "좋",
+        "아야",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "뷰 맛집",
+      "tokens": [
+        "뷰",
+        "맛집"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "근데 요새는 숙소들도 호텔급으로 만들어 놓음",
+      "tokens": [
+        "근데",
+        "요새",
+        "는",
+        "숙소",
+        "들",
+        "도",
+        "호텔",
+        "급",
+        "으로",
+        "만들",
+        "어",
+        "놓",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

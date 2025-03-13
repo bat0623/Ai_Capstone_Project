@@ -1,0 +1,347 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "알바비 들어오니까 기분 좋지?",
+      "tokens": [
+        "알바",
+        "비",
+        "들어오",
+        "니까",
+        "기분",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 알바비 들어오니까 일할 맛 난다",
+      "tokens": [
+        "웅",
+        "알",
+        "ETM",
+        "바",
+        "비",
+        "EC",
+        "들어오",
+        "니까",
+        "일",
+        "할",
+        "ETM",
+        "맛",
+        "난다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "짜릿해... 그 느낌",
+      "tokens": [
+        "짜릿",
+        "해",
+        "EF",
+        ".",
+        "그",
+        "느낌"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "*이도 알바비 받으려면 계좌 입력 해야해",
+      "tokens": [
+        "*",
+        "이도알바비받으려면계좌입력해야해"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "휴 그거 때문에 일하는 거 버티는 거지",
+      "tokens": [
+        "휴",
+        "그거",
+        "때문",
+        "에",
+        "일",
+        "하",
+        "는",
+        "거",
+        "버티",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 좋다",
+      "tokens": [
+        "진짜",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "문자오면 재빠르게 입력 하도록!",
+      "tokens": [
+        "문자",
+        "오",
+        "면",
+        "재빠르",
+        "게",
+        "입력",
+        "하",
+        "도록"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "요즘은 파이프라인 어찌 확장할지만 생각한다",
+      "tokens": [
+        "요즘",
+        "은",
+        "파이프라인",
+        "어찌",
+        "확장",
+        "할지",
+        "EC",
+        "만",
+        "생각",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "5초컷 가능합니다!",
+      "tokens": [
+        "5",
+        "초",
+        "컷",
+        "가능",
+        "합니다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "다음에  또 알바 같이 하장 하하",
+      "tokens": [
+        "다음",
+        "에",
+        "또",
+        "알",
+        "ETM",
+        "바",
+        "같이",
+        "하장",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 알바자리 좋은 거 있음 소개 좀 시켜줘",
+      "tokens": [
+        "키키",
+        "알바",
+        "자리",
+        "좋",
+        "은",
+        "거",
+        "있",
+        "음",
+        "소개",
+        "좀",
+        "시켜",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "알바는 같이해야 재밌지 하하",
+      "tokens": [
+        "알바",
+        "는",
+        "같이",
+        "해야",
+        "EC",
+        "재밌",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "열심히 일하자 영차영차",
+      "tokens": [
+        "열심히",
+        "일",
+        "하",
+        "자",
+        "영차영차"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "영차 영차 나는 일개미",
+      "tokens": [
+        "영차영차",
+        "나",
+        "는",
+        "일개미"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "으쌰으쌰",
+      "tokens": [
+        "으쌰",
+        "으쌰"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "엉 나도 소개 시켜줘 하하",
+      "tokens": [
+        "엉",
+        "나",
+        "도",
+        "소개",
+        "시켜",
+        "EC",
+        "줘",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "알게써 우리 다같이 잘살아보자",
+      "tokens": [
+        "알",
+        "게",
+        "써",
+        "EC",
+        "우리",
+        "다",
+        "같이",
+        "잘",
+        "살",
+        "아",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그럼 너두 나 소개시켜줘야대",
+      "tokens": [
+        "그럼",
+        "너",
+        "두",
+        "나",
+        "소개",
+        "시켜",
+        "EC",
+        "줘야",
+        "EC",
+        "대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

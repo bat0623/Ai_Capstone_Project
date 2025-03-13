@@ -1,0 +1,397 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "빵상은 네일 자주 받아?",
+      "tokens": [
+        "빵",
+        "상",
+        "은",
+        "네일",
+        "자주",
+        "받",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 네일 안 해 봤어 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "네",
+        "JKG",
+        "일안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "응 나 한 달에 한 번 가 키키",
+      "tokens": [
+        "응",
+        "나",
+        "한",
+        "달",
+        "에",
+        "한",
+        "번",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 네일 받고 싶다아아아",
+      "tokens": [
+        "나",
+        "도",
+        "네일",
+        "받",
+        "고",
+        "싶",
+        "다아",
+        "아",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "불가능일 듯",
+      "tokens": [
+        "불",
+        "가능",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "남자들도 많이 한다던데 하하",
+      "tokens": [
+        "남자",
+        "들",
+        "도",
+        "많이",
+        "한다던데",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**는 손이 예뻐서 이쁠 듯",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "손",
+        "이",
+        "예뻐서",
+        "EC",
+        "이쁠",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "한 달에 한 번씩 가?",
+      "tokens": [
+        "한",
+        "달",
+        "에",
+        "한",
+        "번",
+        "씩",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "졸 자주 가네",
+      "tokens": [
+        "졸자",
+        "주가",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "너 예전에는 많이 했었는데 하하",
+      "tokens": [
+        "너",
+        "예전",
+        "에",
+        "는",
+        "많이",
+        "했었",
+        "EP",
+        "는데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "남자들도 관리 많이 하더라궁",
+      "tokens": [
+        "남자",
+        "들",
+        "도",
+        "관리",
+        "많이",
+        "하",
+        "더라",
+        "궁"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그거 키보드 칠 때 안 불편해?",
+      "tokens": [
+        "그거",
+        "키보드",
+        "칠",
+        "때",
+        "안",
+        "불편",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "** 너도 같이 한번 가 하하",
+      "tokens": [
+        "*",
+        "*",
+        "너",
+        "도",
+        "같이",
+        "한",
+        "번",
+        "가",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 괜츈",
+      "tokens": [
+        "나괜츈"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 지금은 짧아서 다행이야",
+      "tokens": [
+        "근데",
+        "지금",
+        "은",
+        "짧",
+        "아서",
+        "다행",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 가고 싶어 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "가",
+        "고",
+        "싶",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "**는 다 뜯었다던데 하하",
+      "tokens": [
+        "*",
+        "*",
+        "는다뜯었다던데하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "** 내가 하는 곳으로 와와",
+      "tokens": [
+        "*",
+        "*",
+        "내",
+        "가",
+        "하",
+        "는",
+        "곳",
+        "으로",
+        "와와",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키보드 칠 때 불편할 꺼 같애",
+      "tokens": [
+        "키보드",
+        "칠",
+        "때",
+        "불편",
+        "할꺼",
+        "EF",
+        "같",
+        "애"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "너 한번 같이 가 하하",
+      "tokens": [
+        "너",
+        "한",
+        "번",
+        "같이",
+        "가하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "완전 짧게 해서 네일아트 해야 할 듯",
+      "tokens": [
+        "완전",
+        "짧",
+        "게",
+        "해서",
+        "EC",
+        "네",
+        "일",
+        "아트",
+        "해야",
+        "EC",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

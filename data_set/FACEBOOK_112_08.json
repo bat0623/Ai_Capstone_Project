@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 남친이랑 기념일 때 주로 뭐 해?",
+      "tokens": [
+        "언니",
+        "는",
+        "남친",
+        "이랑",
+        "기념",
+        "일",
+        "ETM",
+        "때",
+        "주로",
+        "뭐",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 기념일 까지 만나본 적이 별로 없어 키키",
+      "tokens": [
+        "나",
+        "는",
+        "기념일",
+        "까지",
+        "만나",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "이",
+        "별로",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "헐 ㅜㅜ 남자가 마음에 안 들었어?",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅜㅜ",
+        "남자",
+        "가",
+        "마음",
+        "에",
+        "안",
+        "들",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "몰라 인연이 없었나 봄",
+      "tokens": [
+        "몰라",
+        "EC",
+        "인연",
+        "이",
+        "없",
+        "었",
+        "나",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "지금 남친 소개 받았어?",
+      "tokens": [
+        "지금",
+        "남친",
+        "소개",
+        "받",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 나 지금 공백기",
+      "tokens": [
+        "아니",
+        "나",
+        "지금",
+        "공백기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "언제 남친이랑 헤어졌어? 흙흙흙",
+      "tokens": [
+        "언제",
+        "남친",
+        "이랑",
+        "헤어졌",
+        "EP",
+        "어",
+        "흙",
+        "흙",
+        "흙"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 음 얼마나 됐지 두 달 돼가는 듯",
+      "tokens": [
+        "나",
+        "음",
+        "얼마나",
+        "됐",
+        "EP",
+        "지",
+        "두",
+        "달",
+        "돼",
+        "EC",
+        "가",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐, 지금 당장 소개 받으라고 하면 받을 거야?",
+      "tokens": [
+        "헐",
+        ",",
+        "지금",
+        "당장",
+        "소개",
+        "받",
+        "으라고",
+        "하",
+        "면",
+        "받",
+        "을",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 받지 근데 누군지 봐야지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "받",
+        "지",
+        "근데",
+        "누군지",
+        "VCP",
+        "EC",
+        "봐야",
+        "EC",
+        "VV",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 인정 근데 짝은 다 있는 거 같아!",
+      "tokens": [
+        "키",
+        "키",
+        "인정",
+        "근데",
+        "짝",
+        "은",
+        "다",
+        "있",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "이제 제대로 된 사람 만나야 되잖아",
+      "tokens": [
+        "이제",
+        "제대로",
+        "된",
+        "ETM",
+        "사람",
+        "만나",
+        "야",
+        "되",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아!",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "내가 아는 언니도 5년 사귀던 남친이랑 헤어지고 지금 100일 된 남친이랑 결혼해!",
+      "tokens": [
+        "내",
+        "가",
+        "아",
+        "는",
+        "언니",
+        "도",
+        "5",
+        "년",
+        "사귀",
+        "던",
+        "남친",
+        "이랑",
+        "헤어지",
+        "고",
+        "지금",
+        "100",
+        "일",
+        "된",
+        "ETM",
+        "남친",
+        "이랑",
+        "결혼",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 다 오래만나고 헤어지더라 그리고 결혼하고",
+      "tokens": [
+        "맞",
+        "아다",
+        "오래",
+        "만나",
+        "고",
+        "헤어지",
+        "더라",
+        "그리고",
+        "결혼",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "사람들은 다 따로 인연이 있나 봐!",
+      "tokens": [
+        "사람",
+        "들",
+        "은",
+        "다",
+        "따로",
+        "인연",
+        "이",
+        "있",
+        "나",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "인연 만나면 머리에서 띵 울린데",
+      "tokens": [
+        "인연",
+        "만나",
+        "면",
+        "머리",
+        "에서",
+        "띵",
+        "울린",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

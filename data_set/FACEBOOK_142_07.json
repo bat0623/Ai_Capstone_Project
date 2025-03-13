@@ -1,0 +1,466 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 친척 조카 있어?",
+      "tokens": [
+        "다",
+        "들",
+        "친척",
+        "조카",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니 친척 조카는 없어 다들 나이가 어려서",
+      "tokens": [
+        "아니",
+        "친척",
+        "조카",
+        "는",
+        "없",
+        "어다",
+        "들",
+        "나이",
+        "가",
+        "어려서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "응응 있는데 한 번도 못 본 거 같아 키키",
+      "tokens": [
+        "응응",
+        "있",
+        "는데",
+        "한",
+        "번",
+        "도",
+        "못",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 이번에 조카 생기게 생겼어 키키",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "조카",
+        "생기",
+        "게",
+        "생겼",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "친척이랑 많이 안 친해?",
+      "tokens": [
+        "친척",
+        "이랑",
+        "많이",
+        "안",
+        "친해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오오 조카 예쁘겠다",
+      "tokens": [
+        "오",
+        "오",
+        "조카",
+        "예쁘",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 친척분이 애기 가지셨어?",
+      "tokens": [
+        "오",
+        "친척",
+        "분",
+        "이",
+        "애기",
+        "가",
+        "지셨",
+        "EP",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "축하해~",
+      "tokens": [
+        "축하",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 이제 조카 바보가 되는 거야 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "이제",
+        "조카",
+        "바보",
+        "가",
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니깐 ㅜㅜ 진짜 귀여울 것 같아 ㅜㅜ",
+      "tokens": [
+        "그니깐",
+        "ㅜㅜ",
+        "진짜",
+        "귀여울",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 진짜 애기는 진짜 귀여운 거 같아 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "애기",
+        "는",
+        "진짜",
+        "귀여운",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 ㅠㅠ 실제로 그렇게 작은 아기 본 적 없거든",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅠㅠ",
+        "실제로",
+        "그렇게",
+        "작",
+        "은",
+        "아기",
+        "본",
+        "ETM",
+        "적",
+        "없",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 너무 설레여 ㅠㅠ",
+      "tokens": [
+        "그래서",
+        "너무",
+        "설레",
+        "여",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 조카든 친구 애기든 애기들은 다 귀여워",
+      "tokens": [
+        "맞",
+        "아",
+        "조카",
+        "든",
+        "EC",
+        "친구",
+        "애기",
+        "든",
+        "EC",
+        "애기",
+        "들",
+        "은",
+        "다",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞어 진짜 애기들은 진짜 다 귀여운 거 같아 키키",
+      "tokens": [
+        "맞",
+        "어",
+        "진짜",
+        "애기",
+        "들",
+        "은",
+        "진짜",
+        "다",
+        "귀여운",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이제 드디어 나도 조카가 생긴다",
+      "tokens": [
+        "이제",
+        "드디어",
+        "나",
+        "도",
+        "조카",
+        "가",
+        "생긴다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "너무 신나 키키",
+      "tokens": [
+        "너무",
+        "신나",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "조카는 몇 개월 정도 됐어?",
+      "tokens": [
+        "조카",
+        "는",
+        "몇",
+        "개월",
+        "정도",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 친척 누나 조카는 이제 돌 지났나? 그럴걸?",
+      "tokens": [
+        "난친척누나조카는이제돌지났나",
+        "그럴걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "이제 임신한 지 3달 좀 넘었대 키키",
+      "tokens": [
+        "이제",
+        "임신",
+        "한지",
+        "EC",
+        "3",
+        "달좀넘었대키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "돌 지나면 진짜 귀여울 듯",
+      "tokens": [
+        "돌",
+        "지나",
+        "면",
+        "진짜",
+        "귀여울",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아아 그럼 아직 멀었구나",
+      "tokens": [
+        "아아",
+        "그럼",
+        "아직",
+        "멀",
+        "었",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "근데 지역이 너무 멀어서 잘 못 봐 키키",
+      "tokens": [
+        "근데",
+        "지역",
+        "이",
+        "너무",
+        "멀",
+        "어서",
+        "잘못",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

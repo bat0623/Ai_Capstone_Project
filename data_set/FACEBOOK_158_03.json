@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "*이 차 나왔다고 들뜬 거 보임?",
+      "tokens": [
+        "*",
+        "이",
+        "차",
+        "나왔",
+        "EP",
+        "다고",
+        "들뜬",
+        "ETM",
+        "거",
+        "VCP",
+        "보임",
+        "VV",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "홍스퍼 이름 진짜 잘 지음",
+      "tokens": [
+        "홍",
+        "스퍼",
+        "이름",
+        "진짜",
+        "잘",
+        "지음",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "응 기분 완전 좋더라",
+      "tokens": [
+        "응",
+        "기분",
+        "완전",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아침부터 자랑하고 난리... 완전 초딩 같음",
+      "tokens": [
+        "아침",
+        "부터",
+        "자랑",
+        "하",
+        "고",
+        "난리",
+        ".",
+        ".",
+        "완전",
+        "초딩",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "캐스퍼 평이 좋던데",
+      "tokens": [
+        "캐스퍼",
+        "평",
+        "이",
+        "좋",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 아침에 일어나서부터 기분 좋더라",
+      "tokens": [
+        "키",
+        "키",
+        "아침",
+        "에",
+        "일어나",
+        "서",
+        "부터",
+        "기분",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "설레서 일은 어찌 한데 키키",
+      "tokens": [
+        "설레",
+        "서",
+        "일",
+        "은",
+        "어찌",
+        "한데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "*이 첫차니까 그러려니 해라",
+      "tokens": [
+        "*",
+        "이",
+        "첫차",
+        "니까",
+        "EC",
+        "그러",
+        "려니",
+        "해라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그니까 키키 첫차는 항상 좋지",
+      "tokens": [
+        "그니까",
+        "키",
+        "키",
+        "첫차",
+        "는",
+        "항상",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엉 캐스퍼 넘 귀여워",
+      "tokens": [
+        "엉캐스퍼넘귀여워"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "색도 카키가 제일 이쁨",
+      "tokens": [
+        "색도",
+        "카키",
+        "가",
+        "제일",
+        "이쁨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞지 나도 어서 실물보고싶다",
+      "tokens": [
+        "맞",
+        "지",
+        "나도",
+        "어서",
+        "실물",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "*이는 소형차가 잘 어울림",
+      "tokens": [
+        "*",
+        "이",
+        "는",
+        "소형차",
+        "가",
+        "잘",
+        "어울림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "대출 안끼고 현금으로만 산건가",
+      "tokens": [
+        "대출",
+        "안",
+        "끼",
+        "고",
+        "현금",
+        "으로",
+        "만",
+        "산",
+        "ETM",
+        "건가",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "선수금 현금 박고 12개월 할부래",
+      "tokens": [
+        "선수금",
+        "현금",
+        "박",
+        "고",
+        "12",
+        "개월",
+        "할부",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 옛날에 홍티즈도 있었잖아",
+      "tokens": [
+        "키",
+        "키",
+        "옛날",
+        "에",
+        "홍",
+        "티즈",
+        "도",
+        "있",
+        "었잖",
+        "VX",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응응 먼가 잘꾸밈 *이는",
+      "tokens": [
+        "응",
+        "응",
+        "먼가",
+        "VCP",
+        "EF",
+        "잘",
+        "꾸밈",
+        "ETN",
+        "*",
+        "이",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 홍티즈 생각난다 스틱 홍티즈",
+      "tokens": [
+        "키키",
+        "홍",
+        "티즈",
+        "생각",
+        "난다",
+        "EC",
+        "스틱",
+        "홍",
+        "티즈"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "모두의 마블 재밌나 키키",
+      "tokens": [
+        "모두",
+        "의",
+        "마블",
+        "재밌",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그래 모두 다음에 가치 하는 걸로 하자 키키",
+      "tokens": [
+        "그래",
+        "모두",
+        "다음",
+        "에",
+        "가치",
+        "하",
+        "는",
+        "걸로",
+        "JKB",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "모두의 마블 중독성 ㅇㅈㅇㅈ",
+      "tokens": [
+        "모두",
+        "의",
+        "마블",
+        "중독",
+        "성",
+        "ㅇㅈ",
+        "ㅇㅈ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "땅 사고 하니까 재밌던데 키키",
+      "tokens": [
+        "땅",
+        "사고",
+        "하",
+        "니까",
+        "재밌",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너무 재밌어 너무 진짜 나두 맨날 해 키키",
+      "tokens": [
+        "너무",
+        "재밌",
+        "어",
+        "너무",
+        "진짜",
+        "나",
+        "두",
+        "맨날",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 그거 한번 하면 못나와 키키",
+      "tokens": [
+        "나",
+        "는",
+        "그거",
+        "한번",
+        "하",
+        "면",
+        "못",
+        "나와",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "현실에서 못 하는 거 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "tokens": [
+        "현실",
+        "에서",
+        "못",
+        "하",
+        "는",
+        "거",
+        "ㅋㅋ",
+        "ㅋㅋ",
+        "ㅋㅋ",
+        "ㅋㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니깐 진짜 내 땅인 것 같아 키키",
+      "tokens": [
+        "그니깐",
+        "진짜",
+        "내",
+        "JKG",
+        "땅",
+        "인",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "모바일로도 되잖아 키키",
+      "tokens": [
+        "모바일",
+        "로",
+        "도",
+        "되",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진자 재밌어 키키",
+      "tokens": [
+        "진자",
+        "재밌",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그러니까 거기 현질 함 나는 요새 키키",
+      "tokens": [
+        "그러니까",
+        "거기",
+        "현질",
+        "함",
+        "ETN",
+        "나",
+        "는",
+        "요새",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "마자 현실에서 못하니깐 겜으로 키키",
+      "tokens": [
+        "마자",
+        "현실",
+        "에서",
+        "못",
+        "하",
+        "니깐",
+        "겜",
+        "으로",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "인생 축소판이지 키키",
+      "tokens": [
+        "인생",
+        "축소판",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "재밌더라 키키",
+      "tokens": [
+        "재밌",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "핸드폰도 바꿨어 그거 하려고 키키",
+      "tokens": [
+        "핸드폰",
+        "도",
+        "바꿨",
+        "EP",
+        "어",
+        "그거",
+        "하",
+        "려고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "현질도 할려고 이제 나도 키키",
+      "tokens": [
+        "현질",
+        "도",
+        "할려고",
+        "EC",
+        "이제",
+        "나",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그리고 가끔 대박 나면 잭팟 처져 ㅋ",
+      "tokens": [
+        "그리고",
+        "가끔",
+        "대박",
+        "나",
+        "면",
+        "잭",
+        "팟",
+        "처져",
+        "EC",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "다음에 같이 ㄱㄱ 키키 하자 같이 키키",
+      "tokens": [
+        "다음",
+        "에",
+        "같이",
+        "ㄱ",
+        "ㄱ",
+        "키",
+        "키",
+        "하",
+        "자",
+        "같이",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그니깐 핸드폰이 맨날 꺼져 겜해서 키키",
+      "tokens": [
+        "그니깐",
+        "핸드폰",
+        "이",
+        "맨날",
+        "꺼져",
+        "EC",
+        "VX",
+        "EC",
+        "겜",
+        "해서",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그거 현질 하면 할 맛 나겠다 키키",
+      "tokens": [
+        "그거",
+        "현질",
+        "하",
+        "면",
+        "할",
+        "ETM",
+        "맛나",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

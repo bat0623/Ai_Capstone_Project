@@ -1,0 +1,412 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 집에 햄스터 키워도 되니 ... ?",
+      "tokens": [
+        "*",
+        "*",
+        "집",
+        "에",
+        "햄스터",
+        "키워도",
+        "EC",
+        "되",
+        "니",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "햄스터 키우는 거 어때여?",
+      "tokens": [
+        "햄스터",
+        "키우",
+        "는",
+        "거",
+        "어때",
+        "EF",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "우리 집에서? 글쎄",
+      "tokens": [
+        "우리",
+        "집",
+        "에서",
+        "글쎄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 집에서는 안된다고 해서 ...",
+      "tokens": [
+        "우리",
+        "집",
+        "에서",
+        "는",
+        "안",
+        "된다고",
+        "EC",
+        "해서",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어떤 아저씨가",
+      "tokens": [
+        "어떤",
+        "아저씨",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "예전에 진짜 많이 키웠는데 ~",
+      "tokens": [
+        "예전",
+        "에",
+        "진짜",
+        "많이",
+        "키웠",
+        "EP",
+        "는데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 강아지만 키우고 싶은디 ...",
+      "tokens": [
+        "나",
+        "는",
+        "강아지",
+        "만",
+        "키우",
+        "고",
+        "싶",
+        "은디",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 너네 집에서 키워도 되니?",
+      "tokens": [
+        "나",
+        "너",
+        "네",
+        "집",
+        "에서",
+        "키워도",
+        "EC",
+        "되",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 아 그거 뭐야",
+      "tokens": [
+        "키키",
+        "아",
+        "그거",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "햄찌는 뭔가 무서워 키키",
+      "tokens": [
+        "햄",
+        "찌",
+        "는",
+        "뭔가",
+        "VCP",
+        "EC",
+        "무서워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "야행성인 게",
+      "tokens": [
+        "야행성",
+        "인",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "햄스터 넘 귀엽잖아",
+      "tokens": [
+        "햄스터넘귀엽잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "직접 케어하면 가능한가여",
+      "tokens": [
+        "직접",
+        "케어",
+        "하",
+        "면",
+        "가능",
+        "한",
+        "ETM",
+        "가여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "안된다고 키키",
+      "tokens": [
+        "안",
+        "된다고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리집은 안된다고 키키",
+      "tokens": [
+        "우리",
+        "집",
+        "은",
+        "안",
+        "된다고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이름은 햄벅이로 이미 정했어",
+      "tokens": [
+        "이름",
+        "은",
+        "햄",
+        "벅",
+        "이",
+        "로",
+        "이미",
+        "정했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "햄스터 요즘 너무 귀여운데",
+      "tokens": [
+        "햄스터",
+        "요즘",
+        "너무",
+        "귀여운데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아니 근데 맛있을 거 같은 ... 이름이네 ...",
+      "tokens": [
+        "아니",
+        "근데",
+        "맛있",
+        "을",
+        "거",
+        "같",
+        "은",
+        ".",
+        ".",
+        "이름",
+        "이",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "왜 너네 집좀 ... 빌려줘 ...",
+      "tokens": [
+        "왜",
+        "너",
+        "네",
+        "집",
+        "좀",
+        ".",
+        "빌려",
+        "EC",
+        "줘",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "햄벅이 ... 귀엽다 키키",
+      "tokens": [
+        "햄",
+        "벅",
+        "이",
+        ".",
+        ".",
+        "귀엽",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "이름 장인",
+      "tokens": [
+        "이름",
+        "장인"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 얼른 키워라고 키키",
+      "tokens": [
+        "키",
+        "키",
+        "얼른",
+        "키워",
+        "EF",
+        "라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_203_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

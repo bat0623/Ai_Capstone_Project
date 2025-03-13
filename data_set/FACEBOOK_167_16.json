@@ -1,0 +1,332 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 아직 흰머리는 없당",
+      "tokens": [
+        "나",
+        "아직",
+        "흰머리",
+        "는",
+        "없",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나도 아직 없어 하하",
+      "tokens": [
+        "나",
+        "도",
+        "아직",
+        "없",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "흰머리 저도 없는데 키키",
+      "tokens": [
+        "흰머리",
+        "저",
+        "도",
+        "없",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "흰머리 난 적 없어",
+      "tokens": [
+        "흰머리",
+        "난",
+        "ETM",
+        "적",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 아직 젊어 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "아직",
+        "젊",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "황소랑 ** 행님은",
+      "tokens": [
+        "황소",
+        "랑",
+        "*",
+        "*",
+        "행",
+        "님",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나중에 염색 할꺼야?",
+      "tokens": [
+        "나중",
+        "에",
+        "염색",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 있어 새치가 나 요새",
+      "tokens": [
+        "난",
+        "JX",
+        "있",
+        "어",
+        "새치",
+        "가",
+        "나",
+        "요새"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "흰머리 많아서 키키 저희보고",
+      "tokens": [
+        "흰머리",
+        "많",
+        "아서",
+        "키",
+        "키",
+        "ETN",
+        "저희",
+        "보고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 흰머리도 간지 인듯",
+      "tokens": [
+        "난",
+        "JX",
+        "흰머리",
+        "도",
+        "간지",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 빨강으로 염색하고파",
+      "tokens": [
+        "나",
+        "빨강",
+        "으로",
+        "염색",
+        "하",
+        "고파"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "신기해 하더라구요 키키 완전",
+      "tokens": [
+        "신기",
+        "해",
+        "EC",
+        "하",
+        "더라구요",
+        "키키",
+        "완전"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "황소가 흰머리가 있어?",
+      "tokens": [
+        "황소",
+        "가",
+        "흰머리",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이정재 처럼 ㅂ빨강이",
+      "tokens": [
+        "이정재",
+        "처럼",
+        "ㅂ",
+        "빨강이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "흰머리는 염색 안 하는 게 간지",
+      "tokens": [
+        "흰머리",
+        "는",
+        "염색",
+        "안",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "간지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "**도 흰머리가 있어?",
+      "tokens": [
+        "*",
+        "*",
+        "도",
+        "흰",
+        "ETM",
+        "머리",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나 해도 되냐?",
+      "tokens": [
+        "나",
+        "해도",
+        "EC",
+        "되",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어제도 2개 뽑아드렸습니다 키키",
+      "tokens": [
+        "어",
+        "제도",
+        "2",
+        "개",
+        "뽑",
+        "아",
+        "드렸",
+        "EP",
+        "습니다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

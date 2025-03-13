@@ -1,0 +1,352 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "?  나 오빠 있는 데...?",
+      "tokens": [
+        "?",
+        "나",
+        "오빠",
+        "있",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오빠는 결혼 언제 한대?",
+      "tokens": [
+        "오빠",
+        "는",
+        "결혼",
+        "언제",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아는데 장난친고노데",
+      "tokens": [
+        "아",
+        "는",
+        "데",
+        "장난친",
+        "ETM",
+        "고노",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오빠가 결혼식 때 축의금 많이 내줘서",
+      "tokens": [
+        "오빠",
+        "가",
+        "결혼식",
+        "때",
+        "축의금",
+        "많이",
+        "내줘서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오 오빠 멋있다야",
+      "tokens": [
+        "오",
+        "오빠",
+        "멋있",
+        "다야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그걸루 머 했어?",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "루머",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "얼마나 사이 좋다구 하하",
+      "tokens": [
+        "얼마나",
+        "사이",
+        "좋",
+        "다구",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**는 저거 행님 결혼할 때 축의금 5천 만 원 한대",
+      "tokens": [
+        "*",
+        "*",
+        "는저거행님결혼할때축의금",
+        "5",
+        "천만",
+        "원",
+        "한대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "둘이 엄청 친한가 부다",
+      "tokens": [
+        "둘",
+        "이",
+        "엄청",
+        "친한",
+        "ETM",
+        "가부",
+        "다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "부러워",
+      "tokens": [
+        "부러워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그걸로 테레비 산 듯",
+      "tokens": [
+        "그걸로",
+        "JKB",
+        "테레비",
+        "산",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진자 대단하지 않냐? 한두 푼도 아니고",
+      "tokens": [
+        "진자",
+        "대단",
+        "하",
+        "지",
+        "않",
+        "냐",
+        "한두",
+        "푼",
+        "도",
+        "아니",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "5천 만 원은 좀...",
+      "tokens": [
+        "5",
+        "천만",
+        "원",
+        "은",
+        "좀",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "**가 원래 배포가 크잖아",
+      "tokens": [
+        "*",
+        "*",
+        "가",
+        "원래",
+        "배포",
+        "가",
+        "크",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그니까... 행님 눈물 흘리던데",
+      "tokens": [
+        "그니까",
+        ".",
+        "행",
+        "님",
+        "눈물",
+        "흘리",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그 정도 줄 수 있지!",
+      "tokens": [
+        "그",
+        "정도",
+        "줄",
+        "ETM",
+        "수",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "5천 정도는 그냥 할 듯 **라면",
+      "tokens": [
+        "5",
+        "천",
+        "정도",
+        "는",
+        "그냥",
+        "할",
+        "ETM",
+        "듯",
+        "*",
+        "*",
+        "라면",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "걍 차 한 대로 퉁 치는 거도 괜찮겠다",
+      "tokens": [
+        "걍차",
+        "한",
+        "ETM",
+        "대로",
+        "퉁",
+        "치",
+        "는",
+        "거",
+        "도",
+        "괜찮",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "형인데 더 해주고 싶지",
+      "tokens": [
+        "형",
+        "인데",
+        "EC",
+        "더",
+        "해",
+        "EC",
+        "주",
+        "고",
+        "싶",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

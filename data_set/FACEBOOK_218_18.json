@@ -1,0 +1,381 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "쉐이크도 간에 무리 온다던디...",
+      "tokens": [
+        "쉐이크도간에무리온다던디",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 조금만 먹어",
+      "tokens": [
+        "그니까",
+        "조금",
+        "만",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "헐 진짜?",
+      "tokens": [
+        "헐",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 흑임자 쉐이크라서 머리 날 거 같아",
+      "tokens": [
+        "근데",
+        "흑임자",
+        "쉐이크",
+        "라서",
+        "EC",
+        "머리",
+        "날",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "간 상하면 개 피곤한 거 알제",
+      "tokens": [
+        "간상",
+        "하",
+        "면",
+        "개",
+        "피곤",
+        "한",
+        "ETM",
+        "거",
+        "알제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "쉐이크 비싸지 근데?",
+      "tokens": [
+        "쉐이크",
+        "비싸",
+        "지",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "응 비싸긴 하더라",
+      "tokens": [
+        "응",
+        "비싸",
+        "긴",
+        "JX",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 우유에 넣어 먹거든",
+      "tokens": [
+        "난",
+        "JX",
+        "우유",
+        "에",
+        "넣",
+        "어",
+        "먹",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "쉐이크 많이 마시면 간에 무리 온댕!",
+      "tokens": [
+        "쉐이크",
+        "많이",
+        "마시",
+        "면",
+        "간",
+        "에",
+        "무",
+        "리온",
+        "댕"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오 흑임자 쉐이크 맛있겠다",
+      "tokens": [
+        "오",
+        "흑임자",
+        "쉐이크",
+        "맛있",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이제 배가 안 불러 휴휴",
+      "tokens": [
+        "이제",
+        "배",
+        "가",
+        "안",
+        "불러",
+        "EC",
+        "휴휴"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "배가 부를 일이 있남...",
+      "tokens": [
+        "배",
+        "가",
+        "부를",
+        "ETM",
+        "일",
+        "이",
+        "있",
+        "남",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요새 너무 뭐든 비싸 ㅠ 물가가",
+      "tokens": [
+        "요새",
+        "너무",
+        "뭐",
+        "든",
+        "EC",
+        "비싸",
+        "EF",
+        "ㅠ",
+        "물가",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "완전 맛있어 진짜 그건",
+      "tokens": [
+        "완전",
+        "맛있",
+        "어",
+        "진짜",
+        "그건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그 물이 뭐가 배 부르겠어 ㅠㅠ",
+      "tokens": [
+        "그물",
+        "이",
+        "뭐",
+        "가",
+        "배부르",
+        "겠",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "물가를 좀 낮춰주길",
+      "tokens": [
+        "물가",
+        "를",
+        "좀",
+        "낮춰",
+        "EC",
+        "주",
+        "길",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "가격이 너무 비싸서 좀 짜증 나",
+      "tokens": [
+        "가격",
+        "이",
+        "너무",
+        "비싸",
+        "서",
+        "좀",
+        "짜증",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맛은 엄청 있음? 키키",
+      "tokens": [
+        "맛",
+        "은",
+        "엄청",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래도 맛있음 장땡이지",
+      "tokens": [
+        "그래도",
+        "맛있",
+        "음",
+        "장땡",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맛은 진짜 맛있어 고소하고!",
+      "tokens": [
+        "맛",
+        "은",
+        "진짜",
+        "맛있",
+        "어",
+        "고소",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "비싼 값 하는 듯",
+      "tokens": [
+        "비싼",
+        "ETM",
+        "값",
+        "하",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

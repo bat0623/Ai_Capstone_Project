@@ -1,0 +1,408 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "옛날에 아이러브 커피 재밌었는데...",
+      "tokens": [
+        "옛날",
+        "에",
+        "아이러브커피",
+        "재밌",
+        "었",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "인생은 실전 게임이다",
+      "tokens": [
+        "인생",
+        "은",
+        "실전",
+        "게임",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 니 뭐 게임 많이 한 듯",
+      "tokens": [
+        "키",
+        "키",
+        "니",
+        "뭐",
+        "게임",
+        "많이",
+        "한",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "요즘엔 그런 열정이 없다",
+      "tokens": [
+        "요즘",
+        "엔",
+        "JX",
+        "그런",
+        "열정",
+        "이",
+        "없",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요샌 유료가 많아서 게임 못하겠음",
+      "tokens": [
+        "요샌",
+        "JX",
+        "유료",
+        "가",
+        "많",
+        "아서",
+        "게임",
+        "못",
+        "하",
+        "겠",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그 뭐야 농작물 그거도 니가 했던 거 같은데",
+      "tokens": [
+        "그",
+        "뭐",
+        "야",
+        "농작물",
+        "그거",
+        "도",
+        "니",
+        "가",
+        "했",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나 오만 게임 다 해봤지 키키",
+      "tokens": [
+        "나오",
+        "만",
+        "게임",
+        "다",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니 게임 하는데 10만 원을 달래",
+      "tokens": [
+        "아니",
+        "게임",
+        "하",
+        "는",
+        "데",
+        "10",
+        "만",
+        "원",
+        "을",
+        "달래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭐 커피 그거 파는 거도 니가 했고 키키",
+      "tokens": [
+        "뭐",
+        "커피",
+        "그거",
+        "파",
+        "는",
+        "거",
+        "도",
+        "니",
+        "가",
+        "했",
+        "EP",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "농작물 내가 했어 키키",
+      "tokens": [
+        "농작물",
+        "내",
+        "가",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "다 장삿속임 욕 나와",
+      "tokens": [
+        "다",
+        "장삿속",
+        "임욕",
+        "나와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "니 뭐 마날 때마다 뭐 하나씩 하드라 키키",
+      "tokens": [
+        "니",
+        "뭐",
+        "마날",
+        "때",
+        "마다",
+        "뭐",
+        "하나",
+        "씩",
+        "하",
+        "드라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그 커피 내가 했어 키키",
+      "tokens": [
+        "그",
+        "커피",
+        "내",
+        "가",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "농작물 그거 나도 해볼래",
+      "tokens": [
+        "농작물",
+        "그거",
+        "나",
+        "도",
+        "해",
+        "EC",
+        "볼래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "바쁘게 게임을 했음 키키",
+      "tokens": [
+        "바쁘",
+        "게",
+        "게임",
+        "을",
+        "했",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 요새는 낚시 게임 한다",
+      "tokens": [
+        "키",
+        "키",
+        "요새",
+        "는",
+        "낚",
+        "시",
+        "게",
+        "임한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "넌 뭘 키우는 걸 좋아하네",
+      "tokens": [
+        "넌",
+        "JX",
+        "뭘",
+        "JKO",
+        "키우",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "하네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "우리 자주 안 보는데 볼 때마다 게임 함",
+      "tokens": [
+        "우리",
+        "자주",
+        "안",
+        "보",
+        "는",
+        "데",
+        "볼",
+        "ETM",
+        "때",
+        "마다",
+        "게임",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

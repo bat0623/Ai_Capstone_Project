@@ -1,0 +1,368 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네 집은 배달 많이 오니...?",
+      "tokens": [
+        "너",
+        "네",
+        "집",
+        "은",
+        "배달",
+        "많이",
+        "오",
+        "니",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 집도 많이 오잖아 하하",
+      "tokens": [
+        "우리",
+        "집",
+        "도",
+        "많이",
+        "오",
+        "잖아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "저희는 주변에 많아요~",
+      "tokens": [
+        "저희",
+        "는",
+        "주변",
+        "에",
+        "많",
+        "아요",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 집은 맥도가 안 온다...",
+      "tokens": [
+        "우리",
+        "집",
+        "은",
+        "맥도",
+        "가",
+        "안",
+        "온다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요새 꽤나 많이 와 하하",
+      "tokens": [
+        "요새",
+        "꽤",
+        "나",
+        "많이",
+        "와하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "정촌도 이제 많지 않나여?...",
+      "tokens": [
+        "정촌",
+        "도",
+        "이제",
+        "많",
+        "지",
+        "않",
+        "나",
+        "여",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맥도 안 오면 끝이야",
+      "tokens": [
+        "맥",
+        "도",
+        "안",
+        "오",
+        "면",
+        "끝",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맥도는 안 오는 거 아쉽 하하",
+      "tokens": [
+        "맥도",
+        "는",
+        "안",
+        "오",
+        "는",
+        "거",
+        "아쉽",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 맥도 ㅠㅠ",
+      "tokens": [
+        "아맥도ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거... 저희도 안 오는 듯",
+      "tokens": [
+        "그거",
+        ".",
+        "저희",
+        "도",
+        "안",
+        "오",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "정촌은 아직 멀었어",
+      "tokens": [
+        "정촌",
+        "은",
+        "아직",
+        "멀",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맥세권에 살고 싶어",
+      "tokens": [
+        "맥",
+        "세",
+        "권",
+        "에",
+        "살",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 저희도 안 오죠?...",
+      "tokens": [
+        "왜",
+        "저희",
+        "도",
+        "안",
+        "오",
+        "죠",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "배달 많이 오는 집이 최고",
+      "tokens": [
+        "배달",
+        "많이",
+        "오",
+        "는",
+        "집",
+        "이",
+        "최고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "사천이나 개양에서 해줄 만도 한디",
+      "tokens": [
+        "사천",
+        "이나",
+        "개양",
+        "에서",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "만도",
+        "한디",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "요즘 양상추 없어서 안 먹었는데~",
+      "tokens": [
+        "요즘",
+        "양상추",
+        "없",
+        "어서",
+        "안",
+        "먹",
+        "었",
+        "는데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "너네 집도 맥도 안 오니?",
+      "tokens": [
+        "너",
+        "네",
+        "집",
+        "도",
+        "맥",
+        "도",
+        "안",
+        "오",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맥도 홈피에 올려야겠어",
+      "tokens": [
+        "맥",
+        "도",
+        "홈피",
+        "에",
+        "올려야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "예전에 부산 살 때는 새벽 5시에도 많았는데",
+      "tokens": [
+        "예전",
+        "에",
+        "부산",
+        "살",
+        "때",
+        "는",
+        "새벽",
+        "5",
+        "시",
+        "에",
+        "도",
+        "많",
+        "았",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

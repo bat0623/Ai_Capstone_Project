@@ -1,0 +1,371 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 피부과 갈 시즌인가 봐 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "피부",
+        "과갈",
+        "시즌",
+        "인가",
+        "EC",
+        "봐",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 진짜 얼굴이 너무 건조해",
+      "tokens": [
+        "아",
+        "진짜",
+        "얼굴",
+        "이",
+        "너무",
+        "건조",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그치? 나 요즘 얼굴 다 뒤집혔어!",
+      "tokens": [
+        "그치",
+        "나",
+        "요즘",
+        "얼굴",
+        "다",
+        "뒤집혔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 피부과 가야 될 거 같아 ... 푸석푸석해",
+      "tokens": [
+        "나",
+        "도",
+        "피부과",
+        "가",
+        "야",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        ".",
+        "푸석푸석",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "피부과 가서 주사 맞고 금융 치료 좀 해야겠다 키키",
+      "tokens": [
+        "피부과",
+        "가",
+        "서",
+        "주사",
+        "맞",
+        "고",
+        "금융",
+        "치료",
+        "좀",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "왜 뒤집혔어 여드름? 뭐지 뾰루지?",
+      "tokens": [
+        "왜",
+        "뒤집혔",
+        "EP",
+        "어",
+        "여드름",
+        "뭐",
+        "지",
+        "EC",
+        "뾰루지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아마 마스크 써서 이런 거 같아...",
+      "tokens": [
+        "아마",
+        "마스크",
+        "써서",
+        "EC",
+        "이런",
+        "거",
+        "같",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 얼굴이 푸석푸석해서 안 되겠어",
+      "tokens": [
+        "나",
+        "는",
+        "얼굴",
+        "이",
+        "푸석푸석",
+        "해서",
+        "EC",
+        "안",
+        "되",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "푸석푸석하면 로션이나 스킨 발라!",
+      "tokens": [
+        "푸석푸석",
+        "하",
+        "면",
+        "로션",
+        "이나",
+        "스킨",
+        "발라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "수분 충전 좀 해줘야겠어 콜라겐이랑",
+      "tokens": [
+        "수분",
+        "충전",
+        "좀",
+        "해",
+        "EC",
+        "줘야겠어",
+        "EC",
+        "VX",
+        "EP",
+        "EF",
+        "콜라겐",
+        "이랑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니면 마스크팩 덕지덕지 바르는 게 어때 키키",
+      "tokens": [
+        "아니면",
+        "마스크",
+        "팩",
+        "덕지덕지",
+        "바르",
+        "는",
+        "게",
+        "JKS",
+        "어때",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "피부 마사지 받고 와야지 키키",
+      "tokens": [
+        "피부",
+        "마사지",
+        "받",
+        "고",
+        "와야지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "오 그거 괜찮다~",
+      "tokens": [
+        "오",
+        "그거",
+        "괜찮",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마사지 받으면 괜찮아지겠다",
+      "tokens": [
+        "마사지",
+        "받",
+        "으면",
+        "괜찮",
+        "아",
+        "지",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "돈 들이는 거야 피부는 무조건 돈이 있어야 해 키키",
+      "tokens": [
+        "돈",
+        "들이",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "피부",
+        "는",
+        "무조건",
+        "돈",
+        "이",
+        "있",
+        "어야",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "피부는 돈으로 키운다는 게 사실인가 봐~",
+      "tokens": [
+        "피부",
+        "는",
+        "돈",
+        "으로",
+        "키운다는",
+        "ETM",
+        "게",
+        "JKS",
+        "사실",
+        "인가",
+        "EC",
+        "봐",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 뭐든지 할라면 돈이 필요해...",
+      "tokens": [
+        "진짜",
+        "뭐",
+        "든지",
+        "할라면",
+        "EC",
+        "돈",
+        "이",
+        "필요",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

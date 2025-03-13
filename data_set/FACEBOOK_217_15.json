@@ -1,0 +1,423 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "미국은 비만 때문에  난리구 ㅠㅠ",
+      "tokens": [
+        "미국",
+        "은",
+        "비만",
+        "때문",
+        "에",
+        "난리",
+        "구",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "ㅠㅠ 휴, 걔네는 운동하는데 왜 그래",
+      "tokens": [
+        "ㅠㅠ휴",
+        ",",
+        "걔",
+        "네",
+        "는",
+        "운동",
+        "하",
+        "는데",
+        "왜",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "거기는 식습관이 문제가 많다 솔직히 키키",
+      "tokens": [
+        "거기",
+        "는",
+        "식습관",
+        "이",
+        "문제",
+        "가",
+        "많",
+        "다",
+        "솔직히",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 미국 가니까 넘 쪼꼬미였음...",
+      "tokens": [
+        "나미국가니까넘쪼꼬미였음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "밥 문제겠지 확실히? 키키",
+      "tokens": [
+        "밥",
+        "문제",
+        "겠",
+        "EP",
+        "지",
+        "확실히",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 누나 신행 미국 갔었지?",
+      "tokens": [
+        "아",
+        "누나",
+        "신행",
+        "미국",
+        "갔었",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "더 먹어도 되겠더라니까",
+      "tokens": [
+        "더",
+        "먹",
+        "어도",
+        "되",
+        "겠",
+        "더라니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오호… 신행 미국이었음?",
+      "tokens": [
+        "오호",
+        "…",
+        "신행",
+        "미국",
+        "이",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "안된다... 그래도",
+      "tokens": [
+        "안",
+        "된다",
+        "EF",
+        ".",
+        "그래도",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "건강 생각해야 한다",
+      "tokens": [
+        "건강",
+        "생각",
+        "해야",
+        "EC",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "미국 신행이었지 키키",
+      "tokens": [
+        "미국",
+        "신행",
+        "이",
+        "었",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 진짜 거긴 짜고 기름지고 양 많고",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "거긴",
+        "JX",
+        "짜",
+        "고",
+        "기름지",
+        "고",
+        "양",
+        "많",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그니까 비만은 적이다...",
+      "tokens": [
+        "그니까",
+        "비만",
+        "은적",
+        "이",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "평생 싸워야 한다",
+      "tokens": [
+        "평생",
+        "싸워야",
+        "EC",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "알지",
+      "tokens": [
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "한국 와서 바로 각성 했음 키키",
+      "tokens": [
+        "한국",
+        "와서",
+        "EC",
+        "바로",
+        "각성",
+        "했",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 한국 와서 다시 한국모드 키키",
+      "tokens": [
+        "키키",
+        "한국",
+        "와서",
+        "EC",
+        "다시",
+        "한국",
+        "모드",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "매일 이기고 지고 반복이다",
+      "tokens": [
+        "매일",
+        "이기",
+        "고",
+        "지",
+        "고",
+        "반복",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "엉 콜라를 햄버거집에서 1리터씩 주심...",
+      "tokens": [
+        "엉",
+        "콜라",
+        "를",
+        "햄버거",
+        "집",
+        "에서",
+        "1",
+        "리터",
+        "씩",
+        "주심",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "각각 1리터",
+      "tokens": [
+        "각각",
+        "1",
+        "리터"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 미쳤다 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "미쳤",
+        "EP",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "너무 싫다 진짜",
+      "tokens": [
+        "너무",
+        "싫",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아니... 콜라 극혐이다",
+      "tokens": [
+        "아니",
+        ".",
+        "콜라극혐이다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

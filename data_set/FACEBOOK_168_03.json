@@ -1,0 +1,363 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "황소 우리 아파트에서 주차 하다가 박았데",
+      "tokens": [
+        "황소",
+        "우리",
+        "아파트",
+        "에서",
+        "주차",
+        "하",
+        "다가",
+        "박",
+        "았",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어디서 박은 거야?",
+      "tokens": [
+        "어디",
+        "서",
+        "박",
+        "은",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래 황소 뺵미러 박았다데 키키",
+      "tokens": [
+        "그래",
+        "황소",
+        "뺵",
+        "미러",
+        "박",
+        "았",
+        "다데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그거 들었냐?",
+      "tokens": [
+        "그거",
+        "들",
+        "었",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "백미러 박았대",
+      "tokens": [
+        "백미러",
+        "박",
+        "았",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 맞다 그떄 들었다 ㅎㅎ",
+      "tokens": [
+        "헐",
+        "JKO",
+        "맞",
+        "다",
+        "그떄",
+        "들",
+        "었",
+        "다",
+        "ㅎㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "바보 아이가 진짜 운전 못함 ㅋ",
+      "tokens": [
+        "바보",
+        "아이",
+        "가",
+        "진짜",
+        "운전",
+        "못",
+        "함",
+        "ETN",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "주차 하다가 나 얼마전에 들음",
+      "tokens": [
+        "주차",
+        "하",
+        "다가",
+        "나",
+        "얼마",
+        "전",
+        "에",
+        "들",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 아주 쿨하던데 하하",
+      "tokens": [
+        "근데",
+        "아주",
+        "쿨",
+        "하",
+        "던데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "심심하면 박더라 황소 ㅋ",
+      "tokens": [
+        "심심",
+        "하",
+        "면",
+        "박",
+        "더라",
+        "황소",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그때 초보였나?",
+      "tokens": [
+        "그때",
+        "초보",
+        "였",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "상여자 였음 완젼 키키",
+      "tokens": [
+        "상여",
+        "자",
+        "였",
+        "EP",
+        "음",
+        "완",
+        "JX",
+        "젼",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "지금도 초보라는 사실",
+      "tokens": [
+        "지금",
+        "도",
+        "초보",
+        "라는",
+        "ETM",
+        "사실"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아주 쿨하게 갔다고?",
+      "tokens": [
+        "아주",
+        "쿨",
+        "하",
+        "게",
+        "갔",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "박음 박는 기고 이런 느낌 하하",
+      "tokens": [
+        "박",
+        "음",
+        "박",
+        "는",
+        "기",
+        "VCP",
+        "고",
+        "이런",
+        "느낌",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 자기는 잘한데 ㅋㅋㅋ",
+      "tokens": [
+        "근데",
+        "자기",
+        "는",
+        "잘",
+        "한",
+        "ETM",
+        "데ㅋ",
+        "ㅋㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "박을 때 오빠 봤음? 키키",
+      "tokens": [
+        "박",
+        "을",
+        "때",
+        "오빠",
+        "봤",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "잘하더라 근데 간지나게",
+      "tokens": [
+        "잘",
+        "하",
+        "더라",
+        "근데",
+        "간지",
+        "EC",
+        "나",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "간지 난다고요 행님 키키",
+      "tokens": [
+        "간지",
+        "EC",
+        "난다고",
+        "EC",
+        "요행",
+        "님",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

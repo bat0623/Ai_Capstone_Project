@@ -1,0 +1,349 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "좋아하는 캐릭터 있어?",
+      "tokens": [
+        "좋",
+        "아",
+        "하",
+        "는",
+        "캐릭터",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐리우드에서 요즘 한국 배우 섭외한대",
+      "tokens": [
+        "헐리우드",
+        "에서",
+        "요즘",
+        "한국",
+        "배우",
+        "섭외",
+        "한대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 나 미키 마우스",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "미키",
+        "마우스"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 마블 캐릭터가 좋아",
+      "tokens": [
+        "난",
+        "JX",
+        "마블",
+        "캐릭터",
+        "가",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 마블 로봇 좋음",
+      "tokens": [
+        "난",
+        "JX",
+        "마블",
+        "로봇",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 미니 마우스 좋은데 키키",
+      "tokens": [
+        "아니",
+        "미니",
+        "마우스",
+        "좋",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "미키 마우스도 좋아!",
+      "tokens": [
+        "미키",
+        "마우스",
+        "도",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "스티치도 좋아!",
+      "tokens": [
+        "스티치",
+        "도",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "미키 마우스 아니냐 키키",
+      "tokens": [
+        "미키",
+        "마우스",
+        "아니",
+        "냐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마블 뭐야",
+      "tokens": [
+        "마블",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그 마블 ㅜㅜ 이름 까먹음",
+      "tokens": [
+        "그",
+        "마블",
+        "ㅜㅜ",
+        "이름",
+        "까먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "모아나가 진짜 귀엽당...",
+      "tokens": [
+        "모아",
+        "EC",
+        "나",
+        "가",
+        "진짜",
+        "귀엽",
+        "당",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "스티치 귀엽지 하하",
+      "tokens": [
+        "스티치",
+        "귀엽",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마블 좋고",
+      "tokens": [
+        "마블",
+        "좋",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "모아나 기엽다 ㅜㅜ",
+      "tokens": [
+        "모아나기엽다ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "닥스 키키 닥스가 젤 쎈 거 같음",
+      "tokens": [
+        "닥스",
+        "키키",
+        "닥스",
+        "가",
+        "젤",
+        "쎈",
+        "ETM",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "모아나 걘 ㅏ사랑이지",
+      "tokens": [
+        "모아나",
+        "걘ㅏ",
+        "사랑",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "마블 캡틴을 젤 좋아해 나는 키키",
+      "tokens": [
+        "마블",
+        "캡틴",
+        "을",
+        "젤",
+        "좋아해",
+        "EC",
+        "나",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 쎈캐가 좋아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "쎈",
+        "ETM",
+        "캐",
+        "가",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오리 모양이 귀여워",
+      "tokens": [
+        "오리",
+        "모양",
+        "이",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

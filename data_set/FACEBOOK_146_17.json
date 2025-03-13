@@ -1,0 +1,402 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "어깨 근육이 너무 뭉쳤나봐 ㅠㅠ",
+      "tokens": [
+        "어깨",
+        "근육",
+        "이",
+        "너무",
+        "뭉쳤",
+        "EP",
+        "나",
+        "봐",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "운동 너무 열심히 했나봐",
+      "tokens": [
+        "운동",
+        "너무",
+        "열심히",
+        "했",
+        "EP",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "너 요즘 무슨 운동해",
+      "tokens": [
+        "너",
+        "요즘",
+        "무슨",
+        "운동",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "헬스 해서 그런가 어깨랑 손목이 너무 아프네",
+      "tokens": [
+        "헬스",
+        "해서",
+        "EC",
+        "그런가",
+        "EC",
+        "어깨",
+        "랑",
+        "손목",
+        "이",
+        "너무",
+        "아프",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "헬스? 너 피티도 받아?",
+      "tokens": [
+        "헬스",
+        "너",
+        "피티",
+        "도",
+        "받",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "피티 너무 비싸던데 요즘",
+      "tokens": [
+        "피티",
+        "너무",
+        "비싸",
+        "던데",
+        "요즘"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "안 하던 운동을 해서 그런가 키키",
+      "tokens": [
+        "안",
+        "하",
+        "던",
+        "운동",
+        "을",
+        "해서",
+        "EC",
+        "그런가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니 친구랑 몇 일 전부터 같이 다녀 키키",
+      "tokens": [
+        "아니",
+        "친구",
+        "랑",
+        "몇",
+        "일전",
+        "부터",
+        "같이",
+        "다녀",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "피티 받으면 그래도 좋아져",
+      "tokens": [
+        "피티",
+        "받",
+        "으면",
+        "그래도",
+        "EC",
+        "좋",
+        "아",
+        "져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "다인 피티 받아보지 그래?",
+      "tokens": [
+        "다인",
+        "피티",
+        "받",
+        "아",
+        "보",
+        "지그래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 피티 받으면서 운동을 해야 하는 거였어 ㅠㅠ",
+      "tokens": [
+        "아",
+        "피티",
+        "받",
+        "으면서",
+        "운동",
+        "을",
+        "해야",
+        "EC",
+        "하",
+        "는",
+        "거",
+        "였",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 친구랑 같이 받을 수 있어",
+      "tokens": [
+        "맞",
+        "아",
+        "친구",
+        "랑",
+        "같이",
+        "받",
+        "을",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 가격도 더 저렴해",
+      "tokens": [
+        "그럼",
+        "가격",
+        "도",
+        "더",
+        "저렴",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "내일 친구랑 운동 하면서 상의해 봐야겠다 키키",
+      "tokens": [
+        "내일",
+        "친구",
+        "랑",
+        "운동",
+        "하",
+        "면서",
+        "상의",
+        "해봐야",
+        "EC",
+        "VX",
+        "EC",
+        "VX",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "가격 저렴한게 제일 큰 메리트지",
+      "tokens": [
+        "가격",
+        "저렴",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "제일",
+        "큰",
+        "ETM",
+        "메리트",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 제대로 운동도 배우고",
+      "tokens": [
+        "맞",
+        "아",
+        "제대로",
+        "운동",
+        "도",
+        "배우",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 그렇다고 하더라고 키키 우린 그냥 막무가내로 운동했는데 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "그렇",
+        "다고",
+        "하",
+        "더라고",
+        "키",
+        "키",
+        "ETN",
+        "우린",
+        "JX",
+        "그냥",
+        "막무가내",
+        "로",
+        "운동",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "한번 친구랑 상의 해봐",
+      "tokens": [
+        "한",
+        "번",
+        "친구",
+        "랑",
+        "상의",
+        "해",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 좋은 기회를 잡아!",
+      "tokens": [
+        "맞",
+        "아",
+        "좋",
+        "은",
+        "기회",
+        "를",
+        "잡",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_146_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요새는 골프를 진짜 많이 침",
+      "tokens": [
+        "요새",
+        "는",
+        "골프",
+        "를",
+        "진짜",
+        "많이",
+        "침"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "골프 많이 하더라고",
+      "tokens": [
+        "골프",
+        "많이",
+        "하",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 골프 연습장 핫함",
+      "tokens": [
+        "진짜",
+        "골프",
+        "연습장",
+        "핫",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그거 넘 돈 많이 들던디",
+      "tokens": [
+        "그거",
+        "넘",
+        "돈",
+        "많이",
+        "들",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 골프 배우고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "골프",
+        "배우",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "초반 진입 비용이 비싸대",
+      "tokens": [
+        "초반",
+        "진입비용",
+        "이",
+        "비싸",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "전신에 다 골프 침",
+      "tokens": [
+        "전신",
+        "에다",
+        "골프",
+        "침"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 골프 갈켜 줘 **",
+      "tokens": [
+        "나",
+        "골프",
+        "갈켜",
+        "EC",
+        "줘",
+        "EC",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "유연성이 떨어져서 나는 골프 못칠 듯",
+      "tokens": [
+        "유연",
+        "성",
+        "이",
+        "떨어져서",
+        "EC",
+        "나",
+        "는",
+        "골프",
+        "못",
+        "칠",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진입 비용 얼마나 든대요?",
+      "tokens": [
+        "진입비용",
+        "얼마나",
+        "든",
+        "대요"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 저 앞에 스크린 끊어줘",
+      "tokens": [
+        "나",
+        "저",
+        "앞",
+        "에",
+        "스크린",
+        "끊",
+        "어",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "클럽 빌려도 되긴 하는데 사람이 시작하면 다 사고 싶자너",
+      "tokens": [
+        "클럽",
+        "빌려",
+        "EC",
+        "도",
+        "되",
+        "긴",
+        "JX",
+        "하",
+        "는데",
+        "사람",
+        "이",
+        "시작",
+        "하",
+        "면",
+        "다",
+        "사",
+        "고",
+        "싶",
+        "자",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "치고 싶냥...? 구랭...",
+      "tokens": [
+        "치",
+        "고",
+        "싶",
+        "냥",
+        ".",
+        ".",
+        "구",
+        "랭",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 채 하나에 5천짜리도 있데?",
+      "tokens": [
+        "근데",
+        "채",
+        "하나",
+        "에",
+        "5",
+        "천",
+        "짜리",
+        "도",
+        "있",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "헐 미쳤따 금으로 만들었나",
+      "tokens": [
+        "헐",
+        "JKO",
+        "미쳤",
+        "EP",
+        "따",
+        "금",
+        "으로",
+        "만들",
+        "었",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "자기 장비 있어야 될 듯...",
+      "tokens": [
+        "자기",
+        "장비",
+        "있",
+        "어야",
+        "될",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "풀셋 5천 짜리 있더라 혼마 머시기",
+      "tokens": [
+        "풀",
+        "셋",
+        "5",
+        "천짜리있더라혼마머시기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "다들 처음 시작할 때는 빌려서 치라고 하긴 하던데",
+      "tokens": [
+        "다",
+        "들",
+        "처음",
+        "시작",
+        "할",
+        "ETM",
+        "때",
+        "는",
+        "빌려서",
+        "EC",
+        "치",
+        "라고",
+        "하",
+        "긴",
+        "JX",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_139_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

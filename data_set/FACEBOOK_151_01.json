@@ -1,0 +1,523 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네 카페 자주 가?",
+      "tokens": [
+        "너",
+        "네",
+        "카페",
+        "자주",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 나는 여친 만나면 무조건 가! 키키",
+      "tokens": [
+        "응",
+        "나",
+        "는",
+        "여친",
+        "만나",
+        "면",
+        "무조",
+        "건가",
+        "VCP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 진짜 밖에 나가면 무조건 가는 거 같아 키키",
+      "tokens": [
+        "나",
+        "도",
+        "진짜",
+        "밖",
+        "에",
+        "나가",
+        "면",
+        "무조건",
+        "가",
+        "는",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 카페 가면 무슨 메뉴 먹어?",
+      "tokens": [
+        "오카페",
+        "가",
+        "면",
+        "무슨",
+        "메뉴",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "커피하고 디저트 하나 정도?",
+      "tokens": [
+        "커피",
+        "하",
+        "고",
+        "디저트",
+        "하나",
+        "정도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "필수 하하",
+      "tokens": [
+        "필수",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 무조건 아아 필수로 먹어",
+      "tokens": [
+        "키",
+        "키",
+        "무조건",
+        "아아",
+        "필수",
+        "로",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 키키 요새 프렌치 토스트 맛있어 보이더라",
+      "tokens": [
+        "오키",
+        "키",
+        "요새",
+        "프렌치토스트",
+        "맛있",
+        "어",
+        "보이",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "토스트? 키키",
+      "tokens": [
+        "토스트",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "문토스트 혹시 알아?",
+      "tokens": [
+        "문",
+        "토스트",
+        "혹시",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "여기 존맛!",
+      "tokens": [
+        "여기",
+        "존",
+        "ETM",
+        "맛"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "안 먹어봤어 키키",
+      "tokens": [
+        "안",
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 디저트 잘 안 시키거든",
+      "tokens": [
+        "난",
+        "JX",
+        "디저트",
+        "잘",
+        "안",
+        "시키",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 부산에서 유명한 토스트집 아니야?",
+      "tokens": [
+        "그거",
+        "부산",
+        "에서",
+        "유명",
+        "한",
+        "ETM",
+        "토스트",
+        "집",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "부산만 그런가?",
+      "tokens": [
+        "부산",
+        "만",
+        "그런가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "저번에 울산 갔는데도 줄 서있더라!",
+      "tokens": [
+        "저번",
+        "에",
+        "울산",
+        "갔",
+        "EP",
+        "는데도",
+        "줄",
+        "서",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그렇게 맛있어? 키키",
+      "tokens": [
+        "그렇게",
+        "맛있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "이삭토스트만 알아 키키",
+      "tokens": [
+        "이삭",
+        "토스트",
+        "만",
+        "알",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "수도권에는 없었어 그거 키키",
+      "tokens": [
+        "수도",
+        "권",
+        "에",
+        "는",
+        "없",
+        "었",
+        "어",
+        "그거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그런가 내가 부산 살아서 그렇게 알고 있나 봐!",
+      "tokens": [
+        "그런",
+        "가내",
+        "가",
+        "부산",
+        "살",
+        "아서",
+        "그렇게",
+        "알",
+        "고",
+        "있",
+        "나",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 오늘 커피 안 먹어서 먹고 싶다",
+      "tokens": [
+        "키",
+        "키",
+        "오늘",
+        "커피",
+        "안",
+        "먹",
+        "어서",
+        "먹",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그러게 키키",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "다음에 부산 가면 한번 먹어볼게",
+      "tokens": [
+        "다음",
+        "에",
+        "부산",
+        "가",
+        "면",
+        "한",
+        "번",
+        "먹",
+        "어",
+        "볼",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "좋아",
+      "tokens": [
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "누나 부산 오면 내가 사 줄게 하하",
+      "tokens": [
+        "누나",
+        "부산",
+        "오",
+        "면",
+        "내",
+        "가",
+        "사",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "부산 너무 멀다 키키",
+      "tokens": [
+        "부산",
+        "너무",
+        "멀",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "가고 싶다",
+      "tokens": [
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

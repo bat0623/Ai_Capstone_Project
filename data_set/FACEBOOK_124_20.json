@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 유튜브에서 짱구 봤는데 꿀잼이야 키키",
+      "tokens": [
+        "오늘",
+        "유튜브",
+        "에서",
+        "짱구",
+        "봤",
+        "EP",
+        "는데",
+        "꿀",
+        "ETM",
+        "잼",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 진짜 짱구 귀엽다 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "짱구",
+        "귀엽",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "짱구 유튜브에서 요즘 많이 올라오더라고!",
+      "tokens": [
+        "짱구",
+        "유튜브",
+        "에서",
+        "요즘",
+        "많이",
+        "올라오",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "유치하게 무슨 짱구야 너 짱구 닮았잖아 키키",
+      "tokens": [
+        "유치",
+        "하",
+        "게",
+        "무슨",
+        "짱구",
+        "야",
+        "EF",
+        "너",
+        "짱구",
+        "닮",
+        "았",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "뭐래 짱구보다 훨 내가 귀엽거든~",
+      "tokens": [
+        "뭐래짱구보다훨내가귀엽거든",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "짱구 울라울라 춤 춰줘",
+      "tokens": [
+        "짱구",
+        "울라",
+        "울라",
+        "춤",
+        "춰",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그거 유튜브에 있으니 마음껏 봐...ㅎ",
+      "tokens": [
+        "그거",
+        "유튜브",
+        "에",
+        "있",
+        "으니",
+        "마음껏",
+        "봐",
+        "EF",
+        ".",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니야 비슷해 너랑 짱구랑 키키 그치",
+      "tokens": [
+        "아니야",
+        "비슷",
+        "해",
+        "EC",
+        "너",
+        "랑",
+        "짱구",
+        "랑",
+        "키",
+        "키",
+        "ETN",
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아니거든 키키 짱구 극장판이나 얼른 봐바",
+      "tokens": [
+        "아니",
+        "거든",
+        "ETM",
+        "키",
+        "키",
+        "짱구",
+        "극장판",
+        "이나",
+        "얼른",
+        "봐",
+        "바"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 아 그래 여자친구랑 같이 봐야겠다",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아",
+        "그래",
+        "여자",
+        "친구",
+        "랑",
+        "같이",
+        "봐야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "유튜브 내가 링크 보내 줄게!",
+      "tokens": [
+        "유튜브",
+        "내",
+        "가",
+        "링크",
+        "보내",
+        "EC",
+        "줄게",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "알겠어 언능 보내줘 봐 나 보게",
+      "tokens": [
+        "알",
+        "겠",
+        "어",
+        "언능",
+        "보내",
+        "줘",
+        "VV",
+        "EC",
+        "봐",
+        "EF",
+        "나",
+        "보",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아마 짱구는 여자친구도 좋아할 거야~ 키키",
+      "tokens": [
+        "아마",
+        "짱구",
+        "는",
+        "여자",
+        "친구",
+        "도",
+        "좋",
+        "아",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "~",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 진짜 귀엽잖아 짱구 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "귀엽",
+        "잖아",
+        "짱구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "애니 원탑은 짱구지~",
+      "tokens": [
+        "애니원",
+        "탑",
+        "은",
+        "짱",
+        "구지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "지금 바로 보낼게!",
+      "tokens": [
+        "지금",
+        "바로",
+        "보낼게",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 짱구 좋아해 짱구 아빠랑 키키",
+      "tokens": [
+        "나",
+        "도",
+        "짱구",
+        "좋",
+        "아",
+        "해",
+        "EC",
+        "짱구",
+        "아빠",
+        "랑",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

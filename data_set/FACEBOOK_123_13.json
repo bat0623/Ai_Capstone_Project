@@ -1,0 +1,389 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 날씨 좀 더웠어 키키",
+      "tokens": [
+        "오늘",
+        "날씨",
+        "좀",
+        "더웠",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 맞아 더웠어 일하는데",
+      "tokens": [
+        "웅",
+        "맞",
+        "아",
+        "더웠",
+        "EP",
+        "어",
+        "일",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "저번 주는 조금 추운 것 같던데 키키",
+      "tokens": [
+        "저번",
+        "주",
+        "는",
+        "조금",
+        "추운",
+        "ETM",
+        "것",
+        "같",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "진짜 일하는데 가디건 입고 있었는데 더웠어",
+      "tokens": [
+        "진짜",
+        "일",
+        "하",
+        "는",
+        "데",
+        "가디건",
+        "입",
+        "고",
+        "있",
+        "었",
+        "는데",
+        "더웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "땀이 절로 나더라 키키",
+      "tokens": [
+        "땀",
+        "이",
+        "절로",
+        "나",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "날씨가 이상해",
+      "tokens": [
+        "날씨",
+        "가",
+        "이상",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 내가 너무 열정적으로 일해서 그런가 키키",
+      "tokens": [
+        "아내",
+        "가",
+        "너무",
+        "열정",
+        "적",
+        "으로",
+        "일",
+        "해서",
+        "EC",
+        "그런가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "가을 같기도 여름 같기도",
+      "tokens": [
+        "가을",
+        "같",
+        "기",
+        "도",
+        "여름",
+        "같",
+        "기",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 날씨가 오락가락이야 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "날씨",
+        "가",
+        "오락가락",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "가늠이 안 가 키키",
+      "tokens": [
+        "가늠",
+        "이",
+        "안",
+        "가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그래서 걸칠 거 챙겨가 항상",
+      "tokens": [
+        "그래서",
+        "걸칠",
+        "ETM",
+        "거",
+        "챙겨",
+        "EC",
+        "가",
+        "항상"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 겨울은 언제 오지",
+      "tokens": [
+        "진짜",
+        "겨울",
+        "은",
+        "언제",
+        "오",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "내일이면 겨울 아니야?키키",
+      "tokens": [
+        "내일",
+        "이",
+        "면",
+        "겨울",
+        "아니",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그러게 키키 그래도 저녁에 기온 훅 떨어지더라",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "ETN",
+        "그래도",
+        "저녁",
+        "에",
+        "기온",
+        "훅",
+        "떨어지",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 날씨가 변덕이 심해 무슨",
+      "tokens": [
+        "진짜",
+        "날씨",
+        "가",
+        "변덕",
+        "이",
+        "심해",
+        "EC",
+        "무슨"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "패딩 입은 사람도 간간히 보고",
+      "tokens": [
+        "패딩",
+        "입",
+        "은",
+        "사람",
+        "도",
+        "간간히",
+        "보",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "눈 왔으면 좋겠다 눈싸움하게",
+      "tokens": [
+        "눈",
+        "왔",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "다",
+        "눈싸움",
+        "하",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 너무 좋지 키키 오리 눈삽 챙겨",
+      "tokens": [
+        "아",
+        "너무",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "오리",
+        "눈삽",
+        "챙겨",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "패딩은 오버다 진짜 너무해 그건",
+      "tokens": [
+        "패딩",
+        "은",
+        "오버",
+        "다",
+        "EF",
+        "진짜",
+        "너무",
+        "해",
+        "EC",
+        "그건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

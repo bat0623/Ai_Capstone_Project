@@ -1,0 +1,398 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "피카츄 배구가 족구 같은 거잖아",
+      "tokens": [
+        "피카츄",
+        "배구",
+        "가",
+        "족구",
+        "같",
+        "은",
+        "거",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "족구는 발로 하는 거지 키키",
+      "tokens": [
+        "족구",
+        "는",
+        "발로",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그거랑 그거랑 같나...",
+      "tokens": [
+        "그거",
+        "랑",
+        "그거",
+        "랑",
+        "같",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "피카츄 배구 나 잘했는데",
+      "tokens": [
+        "피카츄",
+        "배구",
+        "나잘",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "발을 잘 째야 한다",
+      "tokens": [
+        "발",
+        "을",
+        "잘",
+        "째",
+        "야",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "족구는 갖다 대는 대로 공이 안 가자너",
+      "tokens": [
+        "족구",
+        "는",
+        "갖",
+        "다",
+        "대",
+        "는",
+        "대로",
+        "공",
+        "이",
+        "안",
+        "가",
+        "자",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그게 그거 아니냐?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "그거",
+        "아니",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "피카츄 배구 안 해본 사람 있나 키키",
+      "tokens": [
+        "피카츄",
+        "배구",
+        "안",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "사람",
+        "있",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 나 컴퓨터실에서 맨날 몰래 했는데",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "컴퓨터",
+        "실",
+        "에서",
+        "맨날",
+        "몰래",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "피카츄 배구 안 해본 사람 있냐 키키",
+      "tokens": [
+        "피카츄",
+        "배구",
+        "안",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "사람",
+        "있",
+        "냐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아무도 없을 뜻",
+      "tokens": [
+        "아무",
+        "도",
+        "없",
+        "을",
+        "뜻"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "혹시 줌비니 아는 분",
+      "tokens": [
+        "혹시",
+        "줌비니",
+        "아",
+        "는",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거로 내기도 하고 키키",
+      "tokens": [
+        "그거",
+        "로",
+        "내",
+        "기",
+        "도",
+        "하",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "컴터실에서 짱구 게임하고",
+      "tokens": [
+        "컴",
+        "터",
+        "실",
+        "에서",
+        "짱구",
+        "게임",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어릴 때 컴실에서 했는데",
+      "tokens": [
+        "어릴",
+        "ETM",
+        "때",
+        "컴",
+        "실",
+        "에서",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "요즘 얘들도 그런 거 할려나?",
+      "tokens": [
+        "요즘",
+        "얘",
+        "들",
+        "도",
+        "그런",
+        "거",
+        "할려",
+        "EC",
+        "나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "피카츄 배구는 항상 깔려 있었음",
+      "tokens": [
+        "피카츄",
+        "배구",
+        "는",
+        "항상",
+        "깔려",
+        "EC",
+        "있",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "줌비니 랜드였나? 뭐 그거",
+      "tokens": [
+        "줌비니",
+        "랜드",
+        "였",
+        "EP",
+        "나",
+        "뭐",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "디스켓에 넣어서 컴퓨터마다 다 깔아 놨었는데",
+      "tokens": [
+        "디스켓",
+        "에",
+        "넣",
+        "어서",
+        "컴퓨터",
+        "마다",
+        "다",
+        "깔",
+        "아",
+        "놨었",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

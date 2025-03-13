@@ -1,0 +1,418 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 카카오 선물도 배달되는 거 알아?",
+      "tokens": [
+        "언니",
+        "카카오",
+        "선물",
+        "도",
+        "배달",
+        "되",
+        "는",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "무슨 배달? 음식? 뭔 배달?",
+      "tokens": [
+        "무슨",
+        "배달",
+        "?",
+        "음식",
+        "뭔",
+        "배달"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어 맞아!",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "내가 아는 언니 배달 선물 받았대!",
+      "tokens": [
+        "내",
+        "가",
+        "아",
+        "는",
+        "언니",
+        "배달",
+        "선물",
+        "받",
+        "았",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그건 뭐지? 배민 같은 건가?",
+      "tokens": [
+        "그건",
+        "JX",
+        "뭐",
+        "지",
+        "EF",
+        "배민",
+        "같",
+        "은",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 그거는 아니고 티라미스도 택배로 붙혀 주더라!",
+      "tokens": [
+        "아니",
+        "그거",
+        "는",
+        "아니",
+        "고",
+        "티라",
+        "미스",
+        "도",
+        "택배",
+        "로",
+        "붙혀",
+        "EC",
+        "주",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 맞아 냉동 케잌도 돼 키키",
+      "tokens": [
+        "아",
+        "맞",
+        "아",
+        "냉동",
+        "케잌",
+        "도",
+        "돼",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아! 나 그거 보고 너무 신기했어!",
+      "tokens": [
+        "맞",
+        "아",
+        "나",
+        "그거",
+        "보고",
+        "너무",
+        "신기",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 그게?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 생일 선물로 냉동 케잌 받았었어 키키",
+      "tokens": [
+        "나",
+        "도",
+        "생일",
+        "선물",
+        "로",
+        "냉동",
+        "케잌",
+        "받",
+        "았었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 진짜? 신선도는 어땠어?",
+      "tokens": [
+        "아",
+        "진짜",
+        "신선도",
+        "는",
+        "어땠어",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 난 케잌을 별로 안 좋아해서 안 먹었지",
+      "tokens": [
+        "근데",
+        "난",
+        "JX",
+        "케잌",
+        "을",
+        "별로",
+        "안",
+        "좋",
+        "아",
+        "해서",
+        "EC",
+        "안",
+        "먹",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "혹 키키 언니 케이크 자체를 다 안 좋아해?",
+      "tokens": [
+        "혹",
+        "키",
+        "키",
+        "언니",
+        "케이크",
+        "자체",
+        "를",
+        "다",
+        "안",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "잘 안 먹어 아이스크림 케잌 좋아해",
+      "tokens": [
+        "잘",
+        "안",
+        "먹",
+        "어",
+        "아이스크림",
+        "케잌",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아이스크림 케이크보다 그냥 아이스크림이 더 맛있지 않아?",
+      "tokens": [
+        "아이스크림",
+        "케이크",
+        "보다",
+        "그냥",
+        "아이스크림",
+        "이",
+        "더",
+        "맛있",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 그게 그건데 빵 케잌은 잘 안 먹으니까ㅜㅜ",
+      "tokens": [
+        "근데",
+        "그게",
+        "JKS",
+        "그건데",
+        "VCP",
+        "EC",
+        "빵",
+        "케잌",
+        "은",
+        "잘",
+        "안",
+        "먹",
+        "으니까",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "근데 나는 혼자 자취 시작하고 샌드위치 엄청 먹음!",
+      "tokens": [
+        "근데",
+        "나",
+        "는",
+        "혼자",
+        "자취",
+        "시작",
+        "하",
+        "고",
+        "샌드위치",
+        "엄청",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "샌드위치는 나도 좋아해 엄청!",
+      "tokens": [
+        "샌드위치",
+        "는",
+        "나",
+        "도",
+        "좋",
+        "아",
+        "해",
+        "EC",
+        "엄청"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

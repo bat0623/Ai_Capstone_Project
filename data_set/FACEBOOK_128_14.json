@@ -1,0 +1,443 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네 오징어 게임 코인 아냐...",
+      "tokens": [
+        "너",
+        "네",
+        "오징어",
+        "게임",
+        "코인",
+        "아냐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 알아",
+      "tokens": [
+        "응",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "완젼 대박 ㅎ",
+      "tokens": [
+        "완젼대박ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "엉 맞아",
+      "tokens": [
+        "엉",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 쫌 전 기사로 봤어",
+      "tokens": [
+        "나",
+        "쫌",
+        "전기사",
+        "로",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거 개발자가 돈 들고 날랐대",
+      "tokens": [
+        "그거",
+        "개발자",
+        "가",
+        "돈",
+        "들",
+        "고",
+        "날랐",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "몇 천 프로 올라간 거 맞지?",
+      "tokens": [
+        "몇",
+        "천",
+        "프로",
+        "올라간",
+        "ETM",
+        "거",
+        "맞",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 그니까 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 정확히 몰라",
+      "tokens": [
+        "근데",
+        "정확히",
+        "몰라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "지금 0원이래...",
+      "tokens": [
+        "지금",
+        "0",
+        "원",
+        "이",
+        "래",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "대박...",
+      "tokens": [
+        "대박",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 대박스",
+      "tokens": [
+        "헐",
+        "JKO",
+        "대",
+        "박스"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 넣으사람들은??",
+      "tokens": [
+        "그럼",
+        "넣",
+        "으",
+        "사람",
+        "들",
+        "은",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그냥 돈 들고 튄 거지?",
+      "tokens": [
+        "그냥",
+        "돈",
+        "들",
+        "고",
+        "튄",
+        "ETM",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "엉 2500배 올랐을껄?",
+      "tokens": [
+        "엉",
+        "2500",
+        "배",
+        "올랐",
+        "EP",
+        "을껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "미쳤다 키키",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "어짜노",
+      "tokens": [
+        "어짜",
+        "노"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "와 대박이네 키키",
+      "tokens": [
+        "와대",
+        "박이",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어케...",
+      "tokens": [
+        "어",
+        "케",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "돈 다 날린 거...!",
+      "tokens": [
+        "돈다",
+        "EC",
+        "날린",
+        "ETM",
+        "거",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그럼 돈 다 꼴았겠다",
+      "tokens": [
+        "그럼",
+        "돈다",
+        "EC",
+        "꼴",
+        "았",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "불땅하다",
+      "tokens": [
+        "불",
+        "땅",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "거기에 돈 날린 사람",
+      "tokens": [
+        "거기",
+        "에",
+        "돈",
+        "날린",
+        "ETM",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그런 이상한 걸 사냐... ㅠㅠ",
+      "tokens": [
+        "그런",
+        "이상",
+        "한",
+        "ETM",
+        "걸",
+        "JKO",
+        "사",
+        "냐",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그전에 판 사람들이 승자네",
+      "tokens": [
+        "그",
+        "전",
+        "에",
+        "판",
+        "ETM",
+        "사람",
+        "들",
+        "이",
+        "승자",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "키키 근데 낚이는 사람이 있네",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "낚이",
+        "는",
+        "사람",
+        "이",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

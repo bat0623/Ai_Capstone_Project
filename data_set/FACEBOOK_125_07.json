@@ -1,0 +1,397 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "가족 외식은 뭘 하는 게 좋을까?~",
+      "tokens": [
+        "가족",
+        "외식",
+        "은",
+        "뭘",
+        "JKO",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "을까",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "당근 장어지 장어 먹으러 가",
+      "tokens": [
+        "당근",
+        "장어",
+        "지장",
+        "어",
+        "먹",
+        "으러",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "부모님이랑 장어...?",
+      "tokens": [
+        "부모",
+        "님",
+        "이랑",
+        "장어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "내가 이상한 생각 하는 건가",
+      "tokens": [
+        "내",
+        "가",
+        "이상",
+        "한",
+        "ETM",
+        "생각",
+        "하",
+        "는",
+        "건가",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "엄마 아빠 장어 좋아하시지 않아?",
+      "tokens": [
+        "엄마",
+        "아빠",
+        "장어",
+        "좋",
+        "아",
+        "하",
+        "시",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우리 부모님은 아구찜 좋아하셔!",
+      "tokens": [
+        "우리",
+        "부모",
+        "님",
+        "은",
+        "아구찜",
+        "좋",
+        "아",
+        "하",
+        "셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 너 안 되겠다 키키",
+      "tokens": [
+        "진짜",
+        "너",
+        "안",
+        "되",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "혼나야겠어",
+      "tokens": [
+        "혼",
+        "나야",
+        "EC",
+        "겠어",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "부모님은 아구찜 좋아하는데 내가 안 좋아해서 고민이야 ㅠㅠ",
+      "tokens": [
+        "부모",
+        "님",
+        "은",
+        "아구찜",
+        "좋",
+        "아",
+        "하",
+        "는데",
+        "내",
+        "가",
+        "안",
+        "좋",
+        "아",
+        "해서",
+        "EC",
+        "고민",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "장어 꼬리 먹고 너 남자친구랑 음...",
+      "tokens": [
+        "장어꼬리먹고너남자친구랑음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "에이 농담하지 마~",
+      "tokens": [
+        "에이",
+        "농담",
+        "하",
+        "지",
+        "마",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 지금 메뉴 고민이라고!",
+      "tokens": [
+        "나",
+        "지금",
+        "메뉴",
+        "고민",
+        "이",
+        "라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 진짜 아구찜 나도 좋아하는데... ㅠㅠ 아구찜 완전 킬러",
+      "tokens": [
+        "아",
+        "진짜",
+        "아구찜",
+        "나",
+        "도",
+        "좋",
+        "아",
+        "하",
+        "는데",
+        ".",
+        ".",
+        "ㅠㅠ아구찜완전킬러"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래? 아구찜 말고 고기는 어떨까!",
+      "tokens": [
+        "그래",
+        "아구찜",
+        "말",
+        "고",
+        "고기",
+        "는",
+        "어떨까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아구찜 말고 안동찜닭 이런 거 아님 삼계탕 이런 거",
+      "tokens": [
+        "아구찜",
+        "말",
+        "고",
+        "안동",
+        "찜",
+        "닭",
+        "이런",
+        "거",
+        "아님",
+        "ETN",
+        "삼계탕",
+        "이런",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오 찜닭 좋다 가족 외식으로 적당한 걸?~",
+      "tokens": [
+        "오찜닭좋다가족외식으로적당한걸",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 왜케 훈제 찜 이런 게 좋지 ㅋㅋ 늙었나",
+      "tokens": [
+        "나",
+        "는",
+        "왜",
+        "케",
+        "EC",
+        "훈제",
+        "찜",
+        "이런",
+        "게",
+        "JKS",
+        "좋",
+        "지",
+        "ㅋㅋ",
+        "늙",
+        "었",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그러게... 그럼 찜닭 먹자고 부모님한테 말해야겠다",
+      "tokens": [
+        "그러게",
+        ".",
+        "그럼",
+        "찜",
+        "닭",
+        "먹",
+        "자고",
+        "부모",
+        "님",
+        "한테",
+        "말",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아님 한식파야 나는 밥 먹는 걸 좋아해",
+      "tokens": [
+        "아님",
+        "한식",
+        "파",
+        "야",
+        "나",
+        "는",
+        "밥",
+        "먹",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

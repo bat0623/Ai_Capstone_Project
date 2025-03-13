@@ -1,0 +1,392 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "발야구 많이 했는데",
+      "tokens": [
+        "발야구",
+        "많이",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "발야구 재밌었지 하하",
+      "tokens": [
+        "발야구",
+        "재밌",
+        "었",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "발야구 키키",
+      "tokens": [
+        "발야구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "대학교 때 엄청",
+      "tokens": [
+        "대학교",
+        "때",
+        "엄청"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "라떼는 밖에서 많이 놀았어",
+      "tokens": [
+        "라떼",
+        "는",
+        "밖",
+        "에서",
+        "많이",
+        "놀",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너 발야구 잘했니?",
+      "tokens": [
+        "너",
+        "발야구",
+        "잘",
+        "했",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "했었는데 체육대회 종목이어서 키키",
+      "tokens": [
+        "했었",
+        "EP",
+        "는데",
+        "체육",
+        "대회",
+        "종목",
+        "이",
+        "어서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나가서 비석치기 하고",
+      "tokens": [
+        "나가",
+        "서",
+        "비석",
+        "치기",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "지금도 노네",
+      "tokens": [
+        "지금",
+        "도노",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "밖에서",
+      "tokens": [
+        "밖",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "여자들은 진짜 많이 하지 않나여?",
+      "tokens": [
+        "여자",
+        "들",
+        "은",
+        "진짜",
+        "많이",
+        "하",
+        "지",
+        "않",
+        "나",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "팽이 돌리기 하고 그런 고전게임 하하",
+      "tokens": [
+        "팽",
+        "이",
+        "돌리",
+        "기",
+        "하",
+        "고",
+        "그런",
+        "고전",
+        "게임",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "애들 시끄러워 죽겠네",
+      "tokens": [
+        "애",
+        "들",
+        "시끄러워",
+        "EC",
+        "죽",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "학교에서 많이 했던 거 같은데",
+      "tokens": [
+        "학교",
+        "에서",
+        "많이",
+        "했",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "여자애들은 무조건 발야구",
+      "tokens": [
+        "여자",
+        "애",
+        "들",
+        "은",
+        "무조건",
+        "발야구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "놀이터에서 겁나 시끄럽게 노는구먼",
+      "tokens": [
+        "놀이터",
+        "에서",
+        "겁나",
+        "EC",
+        "시끄럽",
+        "게",
+        "노",
+        "는구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 밖에서 노는 소리 올라오나 봐여",
+      "tokens": [
+        "키",
+        "키",
+        "밖",
+        "에서",
+        "노",
+        "는",
+        "소리",
+        "올라오",
+        "나",
+        "봐",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "피구 이런 거 많이 했음",
+      "tokens": [
+        "피",
+        "구",
+        "이런",
+        "거",
+        "많이",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "정촌 애들은 역시 활동적이야",
+      "tokens": [
+        "정촌",
+        "애",
+        "들",
+        "은",
+        "역시",
+        "활동",
+        "적",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "애들 놀면... 진짜 시끄럽져...",
+      "tokens": [
+        "애",
+        "들",
+        "놀",
+        "면",
+        ".",
+        ".",
+        "진짜",
+        "시끄럽",
+        "져",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 차 렌트 해본 적 있어?",
+      "tokens": [
+        "언니",
+        "는",
+        "차",
+        "렌트",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "렌트 가끔 하지 애들이랑 놀러갈 때 키키",
+      "tokens": [
+        "렌트",
+        "가끔",
+        "하",
+        "지",
+        "애",
+        "들",
+        "이랑",
+        "놀",
+        "러",
+        "갈",
+        "ETM",
+        "때",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "언니 렌트 하고 과태료 물어본 적 있어?",
+      "tokens": [
+        "언니",
+        "렌트",
+        "하",
+        "고",
+        "과태료",
+        "물어본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니 그런 적은 없어",
+      "tokens": [
+        "아니",
+        "그런",
+        "적",
+        "은",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너 있지 키키",
+      "tokens": [
+        "너",
+        "있",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 이번에 물어 봤다,",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "물",
+        "어",
+        "봤",
+        "EP",
+        "다",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "흙흙 슬프다,",
+      "tokens": [
+        "흙",
+        "흙",
+        "슬프",
+        "다",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "와 과태료가 젤 아깝잖아 돈 ㅜㅜ",
+      "tokens": [
+        "와",
+        "과태료",
+        "가",
+        "젤",
+        "아깝잖",
+        "아",
+        "돈",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "친구랑 수다 떨면서 가다가 카메라 있는 거 못 봤어",
+      "tokens": [
+        "친구",
+        "랑",
+        "수다떨",
+        "면서",
+        "가",
+        "다가",
+        "카메라",
+        "있",
+        "는",
+        "거",
+        "못",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "과속했고만 얼마 물었어",
+      "tokens": [
+        "과속",
+        "했",
+        "EP",
+        "고",
+        "만",
+        "얼마",
+        "물",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "어 맞아, 근데 다행히도 과속 많이 안 했어!",
+      "tokens": [
+        "어",
+        "맞아",
+        ",",
+        "근데",
+        "다행히",
+        "도",
+        "과속",
+        "많이",
+        "안",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "다행이네 요새 과속으로 엄청 낸대 키키",
+      "tokens": [
+        "다행",
+        "이",
+        "네요",
+        "새",
+        "과속",
+        "으로",
+        "엄청",
+        "낸",
+        "ETM",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 초과 2키로로 내서 더 빡치는 거 알아? 키키",
+      "tokens": [
+        "근데",
+        "초과",
+        "2",
+        "키로로",
+        "내",
+        "서",
+        "더",
+        "빡",
+        "치",
+        "는",
+        "거",
+        "알",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "헐 돈 아까워 치킨 값",
+      "tokens": [
+        "헐",
+        "돈",
+        "아까워",
+        "EC",
+        "치킨",
+        "ETM",
+        "값"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "물론 70 구간에 82로 달린 건 내 잘못이야!",
+      "tokens": [
+        "물론",
+        "70",
+        "구간",
+        "에",
+        "82",
+        "로",
+        "달린",
+        "ETM",
+        "건",
+        "JX",
+        "내",
+        "JKG",
+        "잘못",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 요새 근데 과속 너무 많아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "요새",
+        "근데",
+        "과속",
+        "너무",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아, 완전 지뢰밭 아니야!?",
+      "tokens": [
+        "맞",
+        "아",
+        ",",
+        "완전",
+        "지뢰밭",
+        "아니",
+        "야",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "세금 뜯을려고 그러는 거지 뭐",
+      "tokens": [
+        "세금",
+        "뜯",
+        "을려고",
+        "그러",
+        "는",
+        "거",
+        "지",
+        "EF",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

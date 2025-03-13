@@ -1,0 +1,350 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내가 지금 가운데 손가락에 습진이 생겼거든?",
+      "tokens": [
+        "내",
+        "가",
+        "지금",
+        "가운데",
+        "손가락",
+        "에",
+        "습진",
+        "이",
+        "생겼",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 손가락에 웬 습진?",
+      "tokens": [
+        "헐",
+        "손가락",
+        "에",
+        "웬",
+        "습진"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어, 맨날 설거지 할 때 장갑 안 껴서 그런 가 봐 ㅜ",
+      "tokens": [
+        "어",
+        ",",
+        "맨날설거지할때장갑안껴서그런가봐ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니 고무장갑을 왜 안 끼는 거야?",
+      "tokens": [
+        "아니",
+        "고무장갑",
+        "을",
+        "왜",
+        "안",
+        "끼",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 손이 작아서 고무장갑이 너무 커 ㅜㅜ",
+      "tokens": [
+        "나",
+        "는",
+        "손",
+        "이",
+        "작",
+        "아서",
+        "고무장갑",
+        "이",
+        "너무",
+        "커",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 ㅠㅠ 고무장갑 스몰 사이즈 없나?",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "고무장갑",
+        "스몰",
+        "사이즈",
+        "없",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "스몰 사이즈도 나한테는 크더라고 ㅜ",
+      "tokens": [
+        "스몰",
+        "사이즈",
+        "도",
+        "나",
+        "한테",
+        "는",
+        "크",
+        "더라고",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그럼 작은 비닐 장갑도 없어?",
+      "tokens": [
+        "그럼",
+        "작",
+        "은",
+        "비닐장갑",
+        "도",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아앗 키키 그거는 불편하지 않을까?",
+      "tokens": [
+        "아앗",
+        "키",
+        "키",
+        "ETN",
+        "그거",
+        "는",
+        "불편",
+        "하",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "째뜬 그래서 습진이 생겼어!",
+      "tokens": [
+        "째",
+        "뜬",
+        "ETM",
+        "그래서",
+        "습진",
+        "이",
+        "생겼",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "약국에서 습진 약 샀어?",
+      "tokens": [
+        "약국",
+        "에서",
+        "습진",
+        "ETM",
+        "약",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어어 사서 발랐는데 아무래도 만성으로 도진 거 같아!",
+      "tokens": [
+        "어",
+        "어",
+        "사",
+        "서",
+        "발랐",
+        "EP",
+        "는데",
+        "아무래도",
+        "만성",
+        "으로",
+        "도진",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "만성이면 아예 안 낫는 거 아니야?",
+      "tokens": [
+        "만성",
+        "이",
+        "면",
+        "아예",
+        "안",
+        "낫",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "약을 바르면 그때는 괜찮은데 며칠 안 바르면 다시 습진이 올라와 ㅜ",
+      "tokens": [
+        "약",
+        "을",
+        "바르",
+        "면",
+        "그때",
+        "는",
+        "괜찮",
+        "은데",
+        "며칠",
+        "안",
+        "바르",
+        "면",
+        "다시",
+        "습진",
+        "이",
+        "올라와",
+        "EC",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "헐... 그거 진짜 심각해질 거 같아 ㅠㅠ",
+      "tokens": [
+        "헐",
+        ".",
+        "그거",
+        "진짜",
+        "심각",
+        "해질",
+        "EC",
+        "VX",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 ㅜㅜ 나 그래서 너무 우울해,",
+      "tokens": [
+        "맞아ㅜㅜ나그래서너무우울해",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "항상 설거지 할 때 조심해!",
+      "tokens": [
+        "항상",
+        "설거지",
+        "할",
+        "ETM",
+        "때",
+        "조심",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

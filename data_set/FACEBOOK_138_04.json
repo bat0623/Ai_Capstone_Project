@@ -1,0 +1,375 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언제 일해가꾸 언제 차 사겠노 ㅠ",
+      "tokens": [
+        "언제",
+        "일",
+        "해",
+        "EC",
+        "가꾸",
+        "언",
+        "제차",
+        "사",
+        "겠",
+        "노ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "금방 살듯 아마",
+      "tokens": [
+        "금방",
+        "살",
+        "듯",
+        "아마"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아,",
+      "tokens": [
+        "맞",
+        "아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "너무 급여가 짜 ,",
+      "tokens": [
+        "너무",
+        "급여",
+        "가",
+        "짜",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 빨리 돈 많이 벌고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "빨리",
+        "돈",
+        "많이",
+        "벌",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너가 지금 열심히 하니까 하하",
+      "tokens": [
+        "너",
+        "가",
+        "지금",
+        "열심히",
+        "하",
+        "니까",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "대기업을 가야 하나 봐 , 픂 ㅠㅠ",
+      "tokens": [
+        "대",
+        "기업",
+        "을",
+        "가",
+        "야",
+        "하",
+        "나",
+        "봐",
+        "EF",
+        ",",
+        "픂ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞다",
+      "tokens": [
+        "맞",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "급여가 너무 짜다",
+      "tokens": [
+        "급여",
+        "가",
+        "너무",
+        "짜",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "너 차 이쓰면서 또 살 거야?",
+      "tokens": [
+        "너",
+        "차이",
+        "쓰",
+        "면서",
+        "또",
+        "살",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "돈 벌어서 차도 사야지",
+      "tokens": [
+        "돈",
+        "벌",
+        "어서",
+        "차",
+        "도",
+        "사",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "회사에서는 노답이다",
+      "tokens": [
+        "회사",
+        "에서",
+        "는",
+        "노",
+        "답",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "답이 없어",
+      "tokens": [
+        "답",
+        "이",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "너 02년식 클래식카 잊었니",
+      "tokens": [
+        "너",
+        "02",
+        "년식클래식카잊었니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "대기업 가서 돈 많이 벌고 싶어",
+      "tokens": [
+        "대",
+        "기업가",
+        "서",
+        "돈",
+        "많이",
+        "벌",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 더 좋은 차 사야지",
+      "tokens": [
+        "나",
+        "더",
+        "좋",
+        "은",
+        "차사",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "잊지마 우리의 **를 하하",
+      "tokens": [
+        "잊",
+        "지",
+        "마",
+        "EF",
+        "우리",
+        "의",
+        "*",
+        "*",
+        "를",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 차 사고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "차",
+        "사고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 왜 새 차 못 타게 행...?",
+      "tokens": [
+        "난",
+        "JX",
+        "왜",
+        "새",
+        "차",
+        "못",
+        "타",
+        "게",
+        "행",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "널 기다리고 있어",
+      "tokens": [
+        "널",
+        "JKO",
+        "기다리",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "얼른 새 차 사자 우리",
+      "tokens": [
+        "얼른",
+        "새",
+        "차사자",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

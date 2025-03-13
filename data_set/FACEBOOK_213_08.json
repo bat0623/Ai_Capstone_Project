@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "연애할 때가 좋았어",
+      "tokens": [
+        "연애",
+        "할",
+        "ETM",
+        "때",
+        "가",
+        "좋",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "글쎄 나는 군대 갈래...",
+      "tokens": [
+        "글쎄",
+        "나",
+        "는",
+        "군대",
+        "갈래",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 뭣 모르고 연애하고 싶어...",
+      "tokens": [
+        "진짜",
+        "뭣",
+        "모르",
+        "고",
+        "연애",
+        "하",
+        "고",
+        "싶",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그때는 데이트도 많이 하구...",
+      "tokens": [
+        "그때",
+        "는",
+        "데이트",
+        "도",
+        "많이",
+        "하",
+        "구",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "데이트도 많이 안 하구...",
+      "tokens": [
+        "데이트",
+        "도",
+        "많이",
+        "안",
+        "하",
+        "구",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헬렐레 팔렐레 넘 행복했어...",
+      "tokens": [
+        "헬렐레팔렐레넘행복했어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 연애나 더 할껄",
+      "tokens": [
+        "나",
+        "도",
+        "연애",
+        "나",
+        "더",
+        "할껄",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "화장실 문제나 해결해야 됨...",
+      "tokens": [
+        "화장실",
+        "문제",
+        "나",
+        "해결",
+        "해야",
+        "EC",
+        "됨",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그러니까... 설레 설레 나도 연애...",
+      "tokens": [
+        "그러니까",
+        ".",
+        "설레설레",
+        "나",
+        "도",
+        "연애",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "결혼은 넘 현실이다 키키",
+      "tokens": [
+        "결혼",
+        "은",
+        "넘",
+        "현실",
+        "이",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "넘나 지금 비관적임 키키",
+      "tokens": [
+        "넘",
+        "나",
+        "지금",
+        "비관",
+        "적",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "결혼하려니 화장실 터지고",
+      "tokens": [
+        "결혼",
+        "하",
+        "려니",
+        "화장실",
+        "터지",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래 니 갑자기 결혼하려니까 화장실도 해결해야 하고",
+      "tokens": [
+        "그래",
+        "니",
+        "갑자기",
+        "결혼",
+        "하",
+        "려니까",
+        "화장실",
+        "도",
+        "해결",
+        "해야",
+        "EC",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 이게 뭐냐고",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "이게",
+        "JKS",
+        "뭐",
+        "냐고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 넘 현실이다 키키",
+      "tokens": [
+        "진짜",
+        "넘",
+        "현실",
+        "이",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "남자 친구집 화장실 터지든가 말든가 헤어지면 그만이지",
+      "tokens": [
+        "남자",
+        "친구",
+        "집",
+        "화장실",
+        "터지",
+        "든가",
+        "말",
+        "든가",
+        "헤어지",
+        "면",
+        "그만",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "하늘이 결혼을 막는 거 아닐까...",
+      "tokens": [
+        "하늘",
+        "이",
+        "결혼",
+        "을",
+        "막",
+        "는",
+        "거",
+        "아닐까",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "결혼하려니 참...",
+      "tokens": [
+        "결혼",
+        "하",
+        "려니",
+        "참",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

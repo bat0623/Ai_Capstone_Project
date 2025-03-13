@@ -1,0 +1,387 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오 벌써 수능이다 대박...",
+      "tokens": [
+        "오",
+        "벌써",
+        "수능",
+        "이",
+        "다",
+        "대박",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "벌써 수능이라니",
+      "tokens": [
+        "벌써",
+        "수능",
+        "이",
+        "라니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그니까 고3들 진짜 떨리겠다",
+      "tokens": [
+        "그니까",
+        "고",
+        "3",
+        "들",
+        "진짜",
+        "떨리",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "올해 다 어디 갔니...",
+      "tokens": [
+        "올해",
+        "다",
+        "EF",
+        "어디",
+        "갔",
+        "EP",
+        "니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "코로나 때문에 공부는 제대로 했으려나",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "공부",
+        "는",
+        "제대로",
+        "했",
+        "EP",
+        "으려나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 수능 칠 때 생각나는 구먼...",
+      "tokens": [
+        "나",
+        "수능",
+        "칠",
+        "때",
+        "생각",
+        "나",
+        "는구먼",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "수능 치면 1년 다 간 건데",
+      "tokens": [
+        "수능",
+        "치",
+        "면",
+        "1",
+        "년",
+        "다",
+        "간",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "1년이 진짜 순삭",
+      "tokens": [
+        "1",
+        "년",
+        "이",
+        "진짜",
+        "순삭"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 때는 수능 한파라면서 진짜 추었는데",
+      "tokens": [
+        "나",
+        "때",
+        "는",
+        "수능",
+        "한",
+        "ETM",
+        "파라",
+        "면서",
+        "진짜",
+        "추",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "수능 칠 때도 마스크 끼겠지?",
+      "tokens": [
+        "수능",
+        "칠",
+        "때",
+        "도",
+        "마스크",
+        "끼",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "저 때는 겁나 추워서 힘들었어요",
+      "tokens": [
+        "저",
+        "때",
+        "는",
+        "겁나",
+        "EC",
+        "추워서",
+        "EC",
+        "힘들",
+        "었",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘은 그 정도까진 아닐 듯...",
+      "tokens": [
+        "요즘",
+        "은",
+        "그",
+        "정도",
+        "까진",
+        "JX",
+        "아닐",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "시험장 마스크 필수 아니얌?",
+      "tokens": [
+        "시험장",
+        "마스크",
+        "필수",
+        "아니",
+        "얌"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나도 수능 칠 때 개 추웠는데",
+      "tokens": [
+        "나",
+        "도",
+        "수능",
+        "칠",
+        "때",
+        "개",
+        "추웠",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "마스크 필수 아니겠나?",
+      "tokens": [
+        "마스크",
+        "필수",
+        "아니",
+        "겠",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 진짜 앞에서 차 나눠주고",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "앞",
+        "에서",
+        "차",
+        "나눠",
+        "EC",
+        "주",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난 경해 나왔는데 경해에서 쳤어...!",
+      "tokens": [
+        "난경",
+        "해",
+        "EC",
+        "나왔",
+        "EP",
+        "는데",
+        "경해",
+        "에서",
+        "쳤",
+        "EP",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "또 난리 난다 키키",
+      "tokens": [
+        "또",
+        "난리난",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 기공에서",
+      "tokens": [
+        "난",
+        "JX",
+        "기공",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나도 진고 나왔는데 진고에서 쳤음",
+      "tokens": [
+        "나",
+        "도",
+        "진고",
+        "나왔",
+        "EP",
+        "는데",
+        "진고",
+        "에서",
+        "쳤",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

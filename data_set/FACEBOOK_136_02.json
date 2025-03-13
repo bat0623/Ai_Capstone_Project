@@ -1,0 +1,337 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부동산 중개 수수료 좀 내려야 함",
+      "tokens": [
+        "부동산",
+        "중개",
+        "수수료",
+        "좀",
+        "내려야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 좀 내려야지",
+      "tokens": [
+        "그니까",
+        "좀",
+        "내려야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 너무 비싸여 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "너무",
+        "비싸",
+        "여",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "부동산에서 너무 많이 가져감",
+      "tokens": [
+        "부동산",
+        "에서",
+        "너무",
+        "많이",
+        "가",
+        "EC",
+        "져감",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너무 비싸다 정말",
+      "tokens": [
+        "너무",
+        "비싸",
+        "다",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이번에 원룸 구하는데",
+      "tokens": [
+        "이번",
+        "에",
+        "원룸",
+        "구하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그니까 복비가 넘 비싸",
+      "tokens": [
+        "그니까",
+        "복비",
+        "가",
+        "넘",
+        "비싸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "공인중개사 따야 하나",
+      "tokens": [
+        "공인",
+        "중개사",
+        "따",
+        "야",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 많이 가져가더라구요...",
+      "tokens": [
+        "진짜",
+        "많이",
+        "가져가",
+        "더라구요",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래서 그렇게 공인중개사 따나 봄",
+      "tokens": [
+        "그래서",
+        "그렇게",
+        "공인",
+        "중개사",
+        "따",
+        "나",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "개인적으로 거래는 또 힘들고",
+      "tokens": [
+        "개인",
+        "적",
+        "으로",
+        "거래",
+        "는",
+        "또",
+        "힘들",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "공인중개사 따면 돈 많이 버낭",
+      "tokens": [
+        "공인",
+        "중개사",
+        "따",
+        "면",
+        "돈",
+        "많이",
+        "버",
+        "낭"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이제 많이 내린다던데?",
+      "tokens": [
+        "이제",
+        "많이",
+        "내린다",
+        "EF",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래도 다행이네 내려서",
+      "tokens": [
+        "그래도",
+        "다행",
+        "이",
+        "네",
+        "내려서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이번에 부동산 값도 내렸다던데",
+      "tokens": [
+        "이번",
+        "에",
+        "부동산",
+        "값",
+        "도",
+        "내렸",
+        "EP",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응응",
+      "tokens": [
+        "응",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "서울은 장난 아니래",
+      "tokens": [
+        "서울",
+        "은",
+        "장난",
+        "아니",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "서울 장난 아니다 진ㅉ마",
+      "tokens": [
+        "서울",
+        "장난",
+        "아니",
+        "다",
+        "진",
+        "ETM",
+        "ㅉ마"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜 내리나여 ㅠㅠ",
+      "tokens": [
+        "진짜내리나여ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "너무 비싸...",
+      "tokens": [
+        "너무",
+        "비싸",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

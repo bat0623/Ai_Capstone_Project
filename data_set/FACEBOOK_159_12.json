@@ -1,0 +1,341 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 여행 가자~ ~",
+      "tokens": [
+        "우리",
+        "여행",
+        "가",
+        "자",
+        "~",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어디 말만해 집합한다",
+      "tokens": [
+        "어디",
+        "말",
+        "만",
+        "해집합",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "일본 갈래?",
+      "tokens": [
+        "일본",
+        "갈래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맛난 거 짱 많아",
+      "tokens": [
+        "맛난",
+        "ETM",
+        "거",
+        "짱",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "황매산 좋던데 단풍 여행",
+      "tokens": [
+        "황매산",
+        "좋",
+        "던데",
+        "단풍",
+        "여행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "일본에 뭐가 맛있는디",
+      "tokens": [
+        "일본",
+        "에",
+        "뭐",
+        "가",
+        "맛있",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "일본 라멘!",
+      "tokens": [
+        "일본",
+        "라멘"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "일본여행은 별루...!",
+      "tokens": [
+        "일본",
+        "여행",
+        "은",
+        "별루",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "일단 가까운 황매산 단풍여행 가자",
+      "tokens": [
+        "일단",
+        "가까운",
+        "ETM",
+        "황매",
+        "산단풍",
+        "여행",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "스시두 짱맛잇구",
+      "tokens": [
+        "스시두짱맛잇구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "거기 지금 화산 터졌잖아",
+      "tokens": [
+        "거기",
+        "지금",
+        "화산",
+        "터졌",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "한바퀴하고 그 동네 맛집 감 되겠다",
+      "tokens": [
+        "한",
+        "바퀴",
+        "하",
+        "고",
+        "그",
+        "동네",
+        "맛집",
+        "감",
+        "되",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 따뜻하겠다",
+      "tokens": [
+        "그럼",
+        "따뜻",
+        "하",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "스시는 짱 맛있긴해",
+      "tokens": [
+        "스시는짱맛있긴해"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "스시는 맛 없을수 가 없지",
+      "tokens": [
+        "스",
+        "시",
+        "는",
+        "맛",
+        "없",
+        "을",
+        "수",
+        "가",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "스시는 못참지",
+      "tokens": [
+        "스",
+        "시",
+        "는",
+        "못",
+        "참",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아소산 터졌다구...!",
+      "tokens": [
+        "아",
+        "소산",
+        "터졌",
+        "EP",
+        "다구",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "엄청 무서울걸?",
+      "tokens": [
+        "엄청",
+        "무서울",
+        "ETM",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "내 친구 중에 초밥 장인 있는데",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "중",
+        "에",
+        "초",
+        "밥장",
+        "인",
+        "ETM",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아소산이 모야?",
+      "tokens": [
+        "아",
+        "소산",
+        "이",
+        "모",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

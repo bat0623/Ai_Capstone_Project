@@ -1,0 +1,397 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리는 학교에서도 폰 걷었었음;",
+      "tokens": [
+        "우리",
+        "는",
+        "학교",
+        "에서",
+        "도",
+        "폰",
+        "걷",
+        "었었",
+        "음",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저도 걷었어요 폰...",
+      "tokens": [
+        "저",
+        "도",
+        "걷",
+        "었",
+        "어요",
+        "폰",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아...",
+      "tokens": [
+        "맞",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "락앤락 통에 걷어감",
+      "tokens": [
+        "락앤락",
+        "통",
+        "에",
+        "걷",
+        "어",
+        "감",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "학교에서 폰 못쓰게 하고 막",
+      "tokens": [
+        "학교",
+        "에서",
+        "폰",
+        "못",
+        "쓰",
+        "게",
+        "하",
+        "고",
+        "막"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래서 폰 다른 거 내고 또 쓰고 했는데...",
+      "tokens": [
+        "그래서",
+        "폰",
+        "다른",
+        "ETM",
+        "거",
+        "내",
+        "고",
+        "또",
+        "쓰",
+        "고",
+        "했",
+        "EP",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 그게 머람...",
+      "tokens": [
+        "진짜",
+        "그게",
+        "JKS",
+        "머",
+        "람",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리는 그런 시대에  살았지",
+      "tokens": [
+        "우리",
+        "는",
+        "그런",
+        "시대",
+        "에",
+        "살",
+        "았",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 안 쓰는 폰 냈었거든요",
+      "tokens": [
+        "키",
+        "키",
+        "안",
+        "쓰",
+        "는",
+        "폰",
+        "냈었",
+        "EP",
+        "거든요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이제는 안 걷어가는 거지?",
+      "tokens": [
+        "이제",
+        "는",
+        "안",
+        "걷어가",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "완전 아날로그 아니냐;",
+      "tokens": [
+        "완전",
+        "아날로그",
+        "아니",
+        "냐",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 세대 차이 확실히 나네여 ㅠㅠ요즘 애들이랑",
+      "tokens": [
+        "진짜",
+        "세대",
+        "차이",
+        "확실히",
+        "나",
+        "네",
+        "여",
+        "ㅠㅠ",
+        "요즘",
+        "애",
+        "들",
+        "이랑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나는 이제 어르신임",
+      "tokens": [
+        "나",
+        "는",
+        "이제",
+        "어르신",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "요새는 안 걷어갈걸?",
+      "tokens": [
+        "요새",
+        "는",
+        "안",
+        "걷",
+        "어",
+        "갈걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 요즘 애들은 안낼 듯...",
+      "tokens": [
+        "진짜",
+        "요즘",
+        "애",
+        "들",
+        "은",
+        "안",
+        "낼",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 좋은 세상 왔구나 키키",
+      "tokens": [
+        "진짜",
+        "좋",
+        "은",
+        "세상",
+        "왔",
+        "EP",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리는 참 옛날에 학교 다녔어...",
+      "tokens": [
+        "우리",
+        "는",
+        "참",
+        "옛날",
+        "에",
+        "학교",
+        "다녔",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "우리 진짜 오래됐어요 ㅠㅠ",
+      "tokens": [
+        "우리",
+        "진짜",
+        "오래",
+        "됐",
+        "EP",
+        "어요",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "요즘 애들은 두발 단속하나?",
+      "tokens": [
+        "요즘",
+        "애",
+        "들",
+        "은",
+        "두",
+        "발단",
+        "속하",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

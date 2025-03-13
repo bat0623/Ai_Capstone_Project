@@ -1,0 +1,396 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번 주 야구 한겜 어때?",
+      "tokens": [
+        "이번",
+        "주",
+        "야구",
+        "한",
+        "ETM",
+        "겜",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 이번에 무슨 운동 같이 해볼래",
+      "tokens": [
+        "우리",
+        "이번",
+        "에",
+        "무슨",
+        "운동",
+        "같이",
+        "해",
+        "EC",
+        "볼래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 야구가 엄청 좋더라",
+      "tokens": [
+        "나",
+        "는",
+        "야구",
+        "가",
+        "엄청",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 야구 포수가 제일 좋아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "야구",
+        "포수",
+        "가",
+        "제일",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "야구 좋지",
+      "tokens": [
+        "야구",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 사람이 모자라잖아",
+      "tokens": [
+        "근데",
+        "사람",
+        "이",
+        "모자라",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "다를 야구나 한번 하러 가자",
+      "tokens": [
+        "다를",
+        "ETM",
+        "야구",
+        "나",
+        "한",
+        "번",
+        "하",
+        "러",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "농구는 다리 아파서 싫어 키키",
+      "tokens": [
+        "농구",
+        "는",
+        "다리",
+        "아파서",
+        "EC",
+        "싫",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 투수 정말 잘해 키키",
+      "tokens": [
+        "나",
+        "는",
+        "투수",
+        "정말",
+        "잘",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "사람은 주위에서 모으면 돼 걱정 마",
+      "tokens": [
+        "사람",
+        "은",
+        "주위",
+        "에서",
+        "모으",
+        "면",
+        "돼",
+        "EC",
+        "걱정",
+        "마"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "차라리 골프를 치러 가자 키키",
+      "tokens": [
+        "차라리",
+        "골프",
+        "를",
+        "치러",
+        "EC",
+        "가",
+        "자키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 그냥 이스포츠가 제일 좋아 키키",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "이",
+        "스포츠",
+        "가",
+        "제일",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 투수 잘해 데드볼 잘 맞춤",
+      "tokens": [
+        "나",
+        "도",
+        "투수",
+        "잘",
+        "해",
+        "EC",
+        "데드볼",
+        "잘",
+        "맞춤",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "투수 엄청 힘들더라구 키키",
+      "tokens": [
+        "투수",
+        "엄청",
+        "힘들",
+        "더라구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "골프 좋지 캐디가 이뻐야 해 키키",
+      "tokens": [
+        "골프",
+        "좋",
+        "지",
+        "캐디",
+        "가",
+        "이뻐야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이스포츠 최강이지",
+      "tokens": [
+        "이",
+        "스포츠",
+        "최강",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "캐디 인정한다",
+      "tokens": [
+        "캐디",
+        "인정",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어깨 너무 아파 슬라이더 던질 때",
+      "tokens": [
+        "어깨",
+        "너무",
+        "아파",
+        "EC",
+        "슬라이더",
+        "던질",
+        "ETM",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "골프는 좋은 풍경 좋은 공기가 최고지",
+      "tokens": [
+        "골프",
+        "는",
+        "좋",
+        "은",
+        "풍경",
+        "좋",
+        "은",
+        "공기",
+        "가",
+        "최고",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "캐디가 이뻐야 기분이 더 좋더라고",
+      "tokens": [
+        "캐디",
+        "가",
+        "이뻐야",
+        "EC",
+        "기분",
+        "이",
+        "더",
+        "좋",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

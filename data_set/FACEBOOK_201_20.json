@@ -1,0 +1,441 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 굿하고 무당 영화 그런 게 진짜 무섭더라",
+      "tokens": [
+        "난",
+        "JX",
+        "굿",
+        "하",
+        "고",
+        "무당",
+        "영화",
+        "그런",
+        "게",
+        "JKS",
+        "진짜",
+        "무섭",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나도 그런 거 실제로 봤는데 무서워",
+      "tokens": [
+        "나",
+        "도",
+        "그런",
+        "거",
+        "실제로",
+        "봤",
+        "EP",
+        "는데",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "곡성?",
+      "tokens": [
+        "곡성"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 엄마는 황정민 보고 진짜 무당인 줄 알더라",
+      "tokens": [
+        "우리",
+        "엄마",
+        "는",
+        "황정민",
+        "보고",
+        "진짜",
+        "무당",
+        "인",
+        "ETM",
+        "줄",
+        "알",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "귀신보다 샤머니즘이 더 무서워 ㄷㄷ",
+      "tokens": [
+        "귀신",
+        "보다",
+        "샤머니즘",
+        "이",
+        "더",
+        "무서워",
+        "EC",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "무슨 굿하는 거 본 거 같음",
+      "tokens": [
+        "무슨",
+        "굿",
+        "하",
+        "는",
+        "거",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "예전에 저기 망경동에 버스 회차하는데 ...",
+      "tokens": [
+        "예전",
+        "에",
+        "저기",
+        "망경동",
+        "에",
+        "버스",
+        "회차",
+        "하",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "거기서 굿 많이 했잖아",
+      "tokens": [
+        "거기",
+        "서",
+        "굿",
+        "많이",
+        "했잖아",
+        "EP",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 어머니가 황정민 무당인 줄 아셨다고 키키",
+      "tokens": [
+        "키",
+        "키",
+        "어머니",
+        "가",
+        "황정민",
+        "무당",
+        "인",
+        "ETM",
+        "줄",
+        "아셨",
+        "EP",
+        "EP",
+        "다고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "무당 같은 사람이 이상하게 입고 진짜",
+      "tokens": [
+        "무당",
+        "같",
+        "은",
+        "사람",
+        "이",
+        "이상",
+        "하",
+        "게",
+        "입",
+        "고",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "학교 마치고 차 타고 거기로 가다가 몇 번 기절할 뻔함",
+      "tokens": [
+        "학교",
+        "마치",
+        "고",
+        "차",
+        "타",
+        "고",
+        "거기",
+        "로",
+        "가",
+        "다가",
+        "몇",
+        "번",
+        "기절",
+        "할",
+        "ETM",
+        "뻔",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 맞아",
+      "tokens": [
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기 굿 많이 함",
+      "tokens": [
+        "거기",
+        "굿",
+        "많이",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어휴 그런 곳은 지나가기도 무섭다",
+      "tokens": [
+        "어휴",
+        "그런",
+        "곳",
+        "은",
+        "지나가",
+        "기",
+        "도",
+        "무섭",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "황정민 굿 하는 장면 보면서 ...",
+      "tokens": [
+        "황정민",
+        "굿",
+        "하",
+        "는",
+        "장면",
+        "보",
+        "면서",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "옴마야 ...쟤는 진짜 무당같다 야 ... 그러던데",
+      "tokens": [
+        "옴마",
+        "야",
+        ".",
+        "쟤",
+        "는",
+        "진짜",
+        "무당",
+        "같",
+        "다야",
+        ".",
+        "그러",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "거기 왜 많이 하는 거임?",
+      "tokens": [
+        "거기",
+        "왜",
+        "많이",
+        "하",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "뭔가 귀신 있을 거 같아서 무서워",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "귀신",
+        "있",
+        "을",
+        "거",
+        "같",
+        "아서",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "거기 뭐 터가 굿하기 좋은 턴가 보지 뭐",
+      "tokens": [
+        "거기",
+        "뭐",
+        "터",
+        "가",
+        "굿",
+        "하",
+        "기",
+        "좋",
+        "은",
+        "턴",
+        "가",
+        "보",
+        "지",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "난 그런 영화가 젤 무섭더라",
+      "tokens": [
+        "난",
+        "JX",
+        "그런",
+        "영화",
+        "가",
+        "젤",
+        "무섭",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 그래서 안 봤어",
+      "tokens": [
+        "나",
+        "도",
+        "그래서",
+        "안",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

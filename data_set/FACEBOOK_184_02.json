@@ -1,0 +1,545 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너희는 집에 있으면 뭐할 때가 제일 좋아?",
+      "tokens": [
+        "너희",
+        "는",
+        "집",
+        "에",
+        "있",
+        "으면",
+        "뭐",
+        "할",
+        "ETM",
+        "때",
+        "가",
+        "제일",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "다봉이 안고 침대에 누워있을 때!",
+      "tokens": [
+        "다",
+        "봉",
+        "이",
+        "안",
+        "고",
+        "침대",
+        "에",
+        "누워",
+        "EC",
+        "있",
+        "을",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 나는 누워서 핸드폰 하는 거...",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "누워서",
+        "EC",
+        "핸드폰",
+        "하",
+        "는",
+        "거",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나두...",
+      "tokens": [
+        "나",
+        "두",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "뭐... 띵가띵가가 좋아...ㅎ",
+      "tokens": [
+        "뭐",
+        ".",
+        "띵",
+        "가",
+        "EC",
+        "띵",
+        "가",
+        "가",
+        "좋",
+        "아",
+        ".",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "하 집 가고 싶다",
+      "tokens": [
+        "하",
+        "집",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오늘 볼링 치기로 했는데... 역시 집이 최고 ㅠ",
+      "tokens": [
+        "오늘",
+        "볼링",
+        "치",
+        "기",
+        "로",
+        "했",
+        "EP",
+        "는데",
+        ".",
+        ".",
+        "역시집이최고ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 나 내일 회식하고 본가 가야 되나 진짜?",
+      "tokens": [
+        "아",
+        "나",
+        "내일",
+        "회식",
+        "하",
+        "고",
+        "본가",
+        "가",
+        "야",
+        "되",
+        "나",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내일 회식이야? 빡세넹",
+      "tokens": [
+        "내일",
+        "회식",
+        "이",
+        "야",
+        "빡세",
+        "EC",
+        "넹"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "주말에 푹 좀 쉬어",
+      "tokens": [
+        "주말",
+        "에",
+        "푹",
+        "좀",
+        "쉬",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엥? 오늘 볼링 쳐? ㅠㅠ",
+      "tokens": [
+        "엥",
+        "오늘",
+        "볼링",
+        "쳐",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "융, 집에 볼링장 만들고 싶다 ㅠ",
+      "tokens": [
+        "융",
+        ",",
+        "집",
+        "에",
+        "볼링장",
+        "만들",
+        "고",
+        "싶",
+        "다",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "만들어 줭 나 맨날 가게",
+      "tokens": [
+        "만들",
+        "어",
+        "줭나",
+        "맨날",
+        "가",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 볼링 많이 재밌어?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "볼",
+        "ETM",
+        "링",
+        "많이",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그냥 집 인테리어도 되고 아주 그냥 주거 생활에 짱이지...",
+      "tokens": [
+        "그냥",
+        "집",
+        "인테리어",
+        "도",
+        "되",
+        "고",
+        "아주",
+        "그냥",
+        "주거",
+        "생활",
+        "에",
+        "짱",
+        "이",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 집에볼링장만들면 집이 아닐 거 같애",
+      "tokens": [
+        "키",
+        "키",
+        "집",
+        "에",
+        "볼링장",
+        "만들",
+        "면",
+        "집",
+        "이",
+        "아닐",
+        "ETM",
+        "거",
+        "같",
+        "애"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 인테리어...? 되는 거 맞지...?",
+      "tokens": [
+        "키",
+        "키",
+        "인",
+        "ETM",
+        "테",
+        "VCP",
+        "리",
+        "어",
+        ".",
+        ".",
+        "되",
+        "는",
+        "거",
+        "맞",
+        "지",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 인테리어...망인가... 하하",
+      "tokens": [
+        "키",
+        "키",
+        "인",
+        "ETM",
+        "테",
+        "VCP",
+        "리",
+        "어",
+        ".",
+        "망",
+        "인가",
+        "EF",
+        ".",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "하 일단 집부터 사야 해!",
+      "tokens": [
+        "하",
+        "일단",
+        "집",
+        "부터",
+        "사",
+        "야",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "요새는 엘에이치주택 신청하는 것도 엄청나게 경쟁률 쎄더랑",
+      "tokens": [
+        "요새",
+        "는",
+        "엘",
+        "에",
+        "이치",
+        "주택",
+        "신청",
+        "하",
+        "는",
+        "것",
+        "도",
+        "엄청나",
+        "게",
+        "경쟁",
+        "률",
+        "쎄",
+        "더",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 으 ... 집 쉽지 않아 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "으",
+        ".",
+        "집쉽지않아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "와 근데 청약하는 거 아는 것도...힘들어...",
+      "tokens": [
+        "와",
+        "근데",
+        "청약",
+        "하",
+        "는",
+        "거",
+        "아",
+        "는",
+        "것",
+        "도",
+        ".",
+        ".",
+        "힘들",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "구니까 ㅠㅠ",
+      "tokens": [
+        "구니까ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "과정도 나는 복잡행 ㅠㅠ",
+      "tokens": [
+        "과정",
+        "도",
+        "나",
+        "는",
+        "복잡",
+        "행",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "나도 너무 어려워 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "너무",
+        "어려워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "아는 사람들이 대단해",
+      "tokens": [
+        "아",
+        "는",
+        "사람",
+        "들",
+        "이",
+        "대단",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

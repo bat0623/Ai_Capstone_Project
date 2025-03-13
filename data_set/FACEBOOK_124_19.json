@@ -1,0 +1,489 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 심심한데 볼 만한 예능 없나...",
+      "tokens": [
+        "아",
+        "심심",
+        "한",
+        "ETM",
+        "데",
+        "볼",
+        "ETM",
+        "만",
+        "한",
+        "ETM",
+        "예능",
+        "없",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 나 혼자 산다 봐 진짜 재밌어",
+      "tokens": [
+        "나",
+        "는",
+        "나",
+        "혼자",
+        "산다",
+        "EC",
+        "봐",
+        "EF",
+        "진짜",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 혼자 산다 그거 옛날에 헨리 나온 프로 아니야?",
+      "tokens": [
+        "나",
+        "혼자",
+        "산다",
+        "EC",
+        "그거",
+        "옛날",
+        "에",
+        "헨리",
+        "나온",
+        "ETM",
+        "프로",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아님 전참시 진짜 개꿀잼 키키",
+      "tokens": [
+        "아님",
+        "전",
+        "참시",
+        "진짜",
+        "개꿀",
+        "잼",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "전참시는 또 뭐야 다 처음 들어봐 키키",
+      "tokens": [
+        "전",
+        "참시",
+        "는",
+        "또",
+        "뭐",
+        "야",
+        "다",
+        "처음",
+        "들",
+        "어",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 이번에 아이키 나왔는데 진짜 멋있어",
+      "tokens": [
+        "진짜",
+        "이번",
+        "에",
+        "아이",
+        "키나",
+        "ETN",
+        "JX",
+        "왔",
+        "EP",
+        "는데",
+        "진짜",
+        "멋있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그게 뭐야?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 예능에 너무 뒤쳐졌나 ㅠㅠ",
+      "tokens": [
+        "나",
+        "예능",
+        "에",
+        "너무",
+        "뒤쳐졌",
+        "EP",
+        "나",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "전참시 몰라? 매니저들이랑 나오는 거 있잖아",
+      "tokens": [
+        "전",
+        "참시",
+        "몰라",
+        "EF",
+        "매니저",
+        "들",
+        "이랑",
+        "나오",
+        "는",
+        "거",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "티비 좀 봐라 진짜",
+      "tokens": [
+        "티비",
+        "좀",
+        "봐라",
+        "EF",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 그거 알아 키키",
+      "tokens": [
+        "아",
+        "그거",
+        "알",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "줄여서 말해서 몰랐던 거야",
+      "tokens": [
+        "줄여서",
+        "EC",
+        "말",
+        "해서",
+        "EC",
+        "몰랐",
+        "EP",
+        "던",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니 어디에 멈춰 있는 거야",
+      "tokens": [
+        "아니",
+        "어디",
+        "에",
+        "멈춰",
+        "EC",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "혹시 엑스맨? 키키",
+      "tokens": [
+        "혹시",
+        "엑스맨",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니 한 런닝맨 정도쯤에 멈춰있어...",
+      "tokens": [
+        "아니",
+        "한",
+        "런닝",
+        "맨",
+        "정도",
+        "쯤",
+        "에",
+        "멈춰",
+        "EC",
+        "있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어디에 멈춰있어 도대체",
+      "tokens": [
+        "어디",
+        "에",
+        "멈춰",
+        "EC",
+        "있",
+        "어",
+        "도대체"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "거침없이 하이킥은 알지?",
+      "tokens": [
+        "거침없이",
+        "하이",
+        "킥",
+        "은",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그 정도는 알지",
+      "tokens": [
+        "그",
+        "정도",
+        "는",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 그래도 그 정돈 아니야!",
+      "tokens": [
+        "나",
+        "그래도",
+        "그",
+        "정돈",
+        "JX",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "지붕 뚫고 하이킥은 ?",
+      "tokens": [
+        "지붕",
+        "뚫",
+        "고",
+        "하이",
+        "킥",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "무한도전은 알고 있는 거지?",
+      "tokens": [
+        "무한도전",
+        "은",
+        "알",
+        "고",
+        "있",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "알지 알지 다 알아 걱정 마~",
+      "tokens": [
+        "알지알지다알아걱정마",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "물어 본 내가 잘못이지 키키",
+      "tokens": [
+        "물어본",
+        "ETM",
+        "내",
+        "가",
+        "잘못",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "아 그 정도 알고 있음 그럼 인정 괜찮아 아직까진 키키",
+      "tokens": [
+        "아",
+        "그",
+        "정도",
+        "알",
+        "고",
+        "있",
+        "음",
+        "그럼",
+        "인정",
+        "괜찮",
+        "아",
+        "아직",
+        "까진",
+        "VCP",
+        "ETM",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_124_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

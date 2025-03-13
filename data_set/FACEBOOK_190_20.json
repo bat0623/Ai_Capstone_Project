@@ -1,0 +1,389 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 액션영화를 좋아해",
+      "tokens": [
+        "난",
+        "JX",
+        "액션",
+        "영화",
+        "를",
+        "좋아해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 SF를 좋아해",
+      "tokens": [
+        "나",
+        "는",
+        "SF",
+        "를",
+        "좋아해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 느와르 영화를 좋아해 키키",
+      "tokens": [
+        "나",
+        "는",
+        "느와르",
+        "영화",
+        "를",
+        "좋아해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그래서 다른 장르는 거의 안봐 키키",
+      "tokens": [
+        "그래서",
+        "다른",
+        "장르",
+        "는",
+        "거의",
+        "안",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "판타지나 우주얘기가 진짜 재밌어",
+      "tokens": [
+        "판타지",
+        "나",
+        "우주",
+        "얘기",
+        "가",
+        "진짜",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "범죄도시 진짜 재밌어",
+      "tokens": [
+        "범죄",
+        "도시",
+        "진짜",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "늬 혼자왔늬?",
+      "tokens": [
+        "늬",
+        "혼자",
+        "왔",
+        "EP",
+        "늬"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "호러 영화는 너무 무서워서 싫어",
+      "tokens": [
+        "호러",
+        "영화",
+        "는",
+        "너무",
+        "무서워서",
+        "EC",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "인터스텔라를 3번 봤는데 볼때마다 울었어",
+      "tokens": [
+        "인터",
+        "스텔라",
+        "를",
+        "3",
+        "번",
+        "봤",
+        "EP",
+        "는데",
+        "볼",
+        "ETM",
+        "때",
+        "마다",
+        "울",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 황정민 나오는 영화가 재밌더라",
+      "tokens": [
+        "난",
+        "JX",
+        "황정민",
+        "나오",
+        "는",
+        "영화",
+        "가",
+        "재밌",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "범죄도시 진짜 재밌게 봤어 키키",
+      "tokens": [
+        "범죄",
+        "도시",
+        "진짜",
+        "재밌",
+        "게",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "범죄도시는 진짜 마지막 장면만 기억나",
+      "tokens": [
+        "범죄",
+        "도시",
+        "는",
+        "진짜",
+        "마지막",
+        "장면",
+        "만",
+        "기억나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "같은 영화를 3번이나 본다고? 헉",
+      "tokens": [
+        "같",
+        "은",
+        "영화",
+        "를",
+        "3",
+        "번",
+        "이나",
+        "본다고",
+        "EF",
+        "헉"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 황정민은 진짜 멋진 배우야",
+      "tokens": [
+        "맞",
+        "아",
+        "황정민",
+        "은",
+        "진짜",
+        "멋진",
+        "ETM",
+        "배우",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "황정민은 내친구 아버지를 닮았어",
+      "tokens": [
+        "황정민",
+        "은",
+        "내",
+        "JKG",
+        "친구",
+        "아버지",
+        "를",
+        "닮",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "황정민은 참 우리 아빠 닮았어 키키",
+      "tokens": [
+        "황정민",
+        "은",
+        "참",
+        "우리",
+        "아빠",
+        "닮",
+        "았",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "같은영화 3번이나 본건 대단해",
+      "tokens": [
+        "같",
+        "은",
+        "영화",
+        "3",
+        "번",
+        "이나",
+        "본",
+        "ETM",
+        "건",
+        "JX",
+        "대단",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "삭제된 메시지입니다.",
+      "tokens": [
+        "삭제",
+        "된",
+        "ETM",
+        "메시지",
+        "입니다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "너무 내용이 어려워서 볼 때마다 해석이 달라",
+      "tokens": [
+        "너무",
+        "내용",
+        "이",
+        "어려워서",
+        "EC",
+        "볼",
+        "ETM",
+        "때",
+        "마다",
+        "해석",
+        "이",
+        "달라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

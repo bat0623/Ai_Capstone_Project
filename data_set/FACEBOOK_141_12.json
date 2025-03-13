@@ -1,0 +1,529 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너희 남해로 여행 가본 적 있어?",
+      "tokens": [
+        "너희",
+        "남해",
+        "로",
+        "여행",
+        "가본",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 나 고등학교 때 가봤는데 기억은 잘 안 나",
+      "tokens": [
+        "웅",
+        "나",
+        "고등",
+        "학교",
+        "때",
+        "가",
+        "봤",
+        "EP",
+        "는데",
+        "기억",
+        "은",
+        "잘",
+        "안",
+        "나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "남해면 여수 그쪽 방향인가?",
+      "tokens": [
+        "남",
+        "해면",
+        "여수",
+        "그쪽",
+        "방향",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "남해가 거제도 그쪽 아니야? 키키",
+      "tokens": [
+        "남해",
+        "가",
+        "거제",
+        "도",
+        "그쪽",
+        "아니",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그쪽 아닌가?",
+      "tokens": [
+        "그쪽",
+        "아닌가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "모르겠어 키키",
+      "tokens": [
+        "모르",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "남쪽이면 남해 아닌가",
+      "tokens": [
+        "남쪽",
+        "이",
+        "면",
+        "남",
+        "해",
+        "EC",
+        "아닌가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 거기가 거기 아니야? 키키",
+      "tokens": [
+        "아",
+        "거기",
+        "가",
+        "거기",
+        "아니",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 진짜 너무 웃기다 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "너무",
+        "웃",
+        "기",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "여수 맞는 거 같은데 가까운 거 아니야?",
+      "tokens": [
+        "여수",
+        "맞",
+        "는",
+        "거",
+        "같",
+        "은",
+        "데",
+        "가까운",
+        "ETM",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 그러니까 사람은 지리를 잘 배워야 해 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러니까",
+        "사람",
+        "은",
+        "지리",
+        "를",
+        "잘",
+        "배워야",
+        "EC",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 남쪽에 있으면 다 남해지 뭐~",
+      "tokens": [
+        "키키남쪽에있으면다남해지뭐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그치 키키 배우기엔 늦었고 네비게이션 치면 다 가주잖아~",
+      "tokens": [
+        "그치키키배우기엔늦었고네비게이션치면다가주잖아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 ㅠㅠ 괜히 남해 여행 얘기 꺼냈네 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅠㅠ",
+        "괜히",
+        "남",
+        "해",
+        "EC",
+        "여행",
+        "얘기",
+        "꺼냈",
+        "EP",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 네비에 남해 치고 가면 거기가 남해야~",
+      "tokens": [
+        "맞",
+        "아",
+        "네비",
+        "에",
+        "남",
+        "해",
+        "EC",
+        "치",
+        "고",
+        "가",
+        "면",
+        "거기",
+        "가",
+        "남",
+        "해야",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 키키 나중에 남해 쪽으로 여행 가게 되면 어딘지 확실히 알아올게 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "나중",
+        "에",
+        "남해",
+        "쪽",
+        "으로",
+        "여행",
+        "가게",
+        "되",
+        "면",
+        "어딘지",
+        "VCP",
+        "EC",
+        "확실히",
+        "알",
+        "아",
+        "올게",
+        "ETM",
+        "NNB",
+        "JKS",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 응 고마워 ㅠㅠ",
+      "tokens": [
+        "키키응고마워ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "너무 여행 가고 싶어서 물어 봤는데 ㅠㅠ",
+      "tokens": [
+        "너무",
+        "여행",
+        "가",
+        "고",
+        "싶",
+        "어서",
+        "물",
+        "어",
+        "봤",
+        "EP",
+        "는데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "남해 여행 가는 사람이 남해가 어딘지 꼭 말해주기!",
+      "tokens": [
+        "남",
+        "해",
+        "EC",
+        "여행가",
+        "는",
+        "사람",
+        "이",
+        "남해",
+        "가",
+        "어딘지",
+        "VCP",
+        "EC",
+        "꼭",
+        "말",
+        "해",
+        "EC",
+        "주",
+        "기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오케이 내가 먼저 가볼게 키키 ㅋㅋㅋㅋ",
+      "tokens": [
+        "오케이",
+        "내",
+        "가",
+        "먼저",
+        "가",
+        "볼",
+        "ETM",
+        "게",
+        "JKS",
+        "키",
+        "키",
+        "ETN",
+        "ㅋㅋ",
+        "ㅋㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 말 나온 김에 남해 여행 가보고 싶어졌어",
+      "tokens": [
+        "나",
+        "도",
+        "말",
+        "나온",
+        "ETM",
+        "김",
+        "에",
+        "남",
+        "해",
+        "EC",
+        "여행가",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "졌",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 진짜 창피해 죽겠네 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "창피",
+        "해",
+        "EC",
+        "죽",
+        "겠",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 왜 나두 모르는데 모를 수도 있지!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "나",
+        "두",
+        "모르",
+        "는",
+        "데",
+        "모를",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그래 우리 다 같이 몰랐으니 괜찮아 키키",
+      "tokens": [
+        "그래",
+        "우리",
+        "다",
+        "같이",
+        "몰랐으니",
+        "EP",
+        "EC",
+        "괜찮",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

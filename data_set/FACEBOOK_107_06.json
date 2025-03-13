@@ -1,0 +1,520 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 어렸을 때 바이올린이나 피아노 같은 악기 배웠어?",
+      "tokens": [
+        "언니",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "바이올린",
+        "이나",
+        "피아노",
+        "같",
+        "은",
+        "악기",
+        "배웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 피아노 배웠어",
+      "tokens": [
+        "나",
+        "는",
+        "피아노",
+        "배웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 어렸을 때는 왜 엄마들이 피아노 가르치게 할까?",
+      "tokens": [
+        "근데",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "는",
+        "왜",
+        "엄마",
+        "들",
+        "이",
+        "피아노",
+        "가르치",
+        "게",
+        "할까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "피아노에 대한 로망인가?",
+      "tokens": [
+        "피아노",
+        "에",
+        "대한",
+        "ETM",
+        "로망",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "크니까 피아노 배우고 싶지 않아?",
+      "tokens": [
+        "크",
+        "니까",
+        "피아노",
+        "배우",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 나는 어렸을 때부터 플롯 같은 거 배우고 싶었는데!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "부터",
+        "플롯",
+        "같",
+        "은",
+        "거",
+        "배우",
+        "고",
+        "싶",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 발레 같은 거 근데 피아노만 다녔어 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "발레",
+        "같",
+        "은",
+        "거",
+        "근데",
+        "피아노",
+        "만",
+        "다녔",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 오 근데 논산에는 발레학원이 없었잖아!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "근데",
+        "논산",
+        "에",
+        "는",
+        "발레",
+        "학원",
+        "이",
+        "없",
+        "었",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그땐 없었던 거 같아",
+      "tokens": [
+        "그",
+        "땐",
+        "JX",
+        "없",
+        "었",
+        "던",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 그래서 이가 없으면 잇몸으로 떼우라는 말이 있잖아",
+      "tokens": [
+        "난",
+        "JX",
+        "그래서",
+        "이",
+        "가",
+        "없",
+        "으면",
+        "잇몸",
+        "으로",
+        "떼우",
+        "라는",
+        "말",
+        "이",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "대신에 단소 배웠어! 키키",
+      "tokens": [
+        "대신",
+        "에",
+        "단소",
+        "배웠",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 그건 또 뭐야 키키 단소?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그건",
+        "JX",
+        "또",
+        "뭐",
+        "야키",
+        "키",
+        "단소"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어디서?",
+      "tokens": [
+        "어디",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "언니 단소 몰라?",
+      "tokens": [
+        "언니",
+        "단소",
+        "몰라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "초딩 때 전통 악기 안 배웠어?",
+      "tokens": [
+        "초딩",
+        "때",
+        "전통",
+        "악기",
+        "안",
+        "배웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아는데 단소 학원이 있다고? 대박 키키",
+      "tokens": [
+        "아",
+        "는데",
+        "단소",
+        "학원",
+        "이",
+        "있",
+        "다고",
+        "?",
+        "대박",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아니 아니",
+      "tokens": [
+        "아니",
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "학원 말고 그냥 학교에 선생님이 오셔서 가르쳐 주셨어!",
+      "tokens": [
+        "학원",
+        "말",
+        "고",
+        "그냥",
+        "학교",
+        "에",
+        "선생",
+        "님",
+        "이",
+        "오",
+        "셔서",
+        "EC",
+        "가르쳐",
+        "EC",
+        "주",
+        "셨",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아아 특기 적성?",
+      "tokens": [
+        "아아",
+        "특기",
+        "적성"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "난 서예 배웠다",
+      "tokens": [
+        "난",
+        "JX",
+        "서예",
+        "배웠",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "와 대박 키키 언니 지금 명필이겠네?",
+      "tokens": [
+        "와대",
+        "박",
+        "키키",
+        "언니",
+        "지금",
+        "명필",
+        "이",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "똥필이지 키키",
+      "tokens": [
+        "똥필이지키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "너무 졸리다",
+      "tokens": [
+        "너무",
+        "졸리",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

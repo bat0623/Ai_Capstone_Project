@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "넷플에 이누야샤가 사라졌다니! 이럴 수는 없어!",
+      "tokens": [
+        "넷",
+        "플",
+        "에",
+        "이누야샤",
+        "가",
+        "사라졌",
+        "EP",
+        "다니",
+        "이럴",
+        "ETM",
+        "수",
+        "는",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "진짜 너무해",
+      "tokens": [
+        "진짜",
+        "너무",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "있다며 찾았는뎅...",
+      "tokens": [
+        "있",
+        "다며",
+        "찾",
+        "았",
+        "는",
+        "뎅",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 어제 분명히 내가 1기~4기 이런 거 봤단 말이야!",
+      "tokens": [
+        "근데",
+        "어제",
+        "분명히",
+        "내",
+        "가",
+        "1",
+        "기",
+        "~",
+        "4",
+        "기",
+        "이런",
+        "거",
+        "봤",
+        "EP",
+        "단",
+        "말",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "거짓말! 나 진짜 바로 찾았다고",
+      "tokens": [
+        "거짓말",
+        "나",
+        "진짜",
+        "바로",
+        "찾",
+        "았",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 나는 어제 언니랑 얘기하면서 찾았다규!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "어제",
+        "언니",
+        "랑",
+        "얘기",
+        "하",
+        "면서",
+        "찾",
+        "았",
+        "다",
+        "규"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 다시 올려질라고 하는 거 같긴 하더라",
+      "tokens": [
+        "근데",
+        "다시",
+        "올려질",
+        "EC",
+        "라고",
+        "하",
+        "는",
+        "거",
+        "같",
+        "긴",
+        "JX",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그때까지 존버를 해 보자 나올 거야!",
+      "tokens": [
+        "그때",
+        "까지",
+        "존",
+        "버",
+        "를",
+        "해",
+        "EC",
+        "보",
+        "자",
+        "나올",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "알겠어 꼭 보고 말꺼야 설렜는데 키키",
+      "tokens": [
+        "알",
+        "겠",
+        "어",
+        "꼭",
+        "보",
+        "고",
+        "말",
+        "꺼야",
+        "EC",
+        "설렜",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 그거 보고 이제 이누야샤 2기편 보면 진짜 찐행복!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그거",
+        "보고",
+        "이제",
+        "이누야샤",
+        "2",
+        "기편",
+        "보",
+        "면",
+        "진짜",
+        "찐",
+        "ETM",
+        "행복"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아 우리 후기 공유하자 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "우리",
+        "후기",
+        "공유",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오 좋지 키키",
+      "tokens": [
+        "오",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "지금 이누야샤 애들 나오는 건 1기 방영 다 끝났대!",
+      "tokens": [
+        "지금",
+        "이누야샤",
+        "애",
+        "들",
+        "나오",
+        "는",
+        "건",
+        "JX",
+        "1",
+        "기",
+        "방영",
+        "다",
+        "끝",
+        "났",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 너 2기편 다봤어?",
+      "tokens": [
+        "근데",
+        "너",
+        "2",
+        "기편",
+        "다",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니 그거는 아직 애니로 안 나왔대!",
+      "tokens": [
+        "아니",
+        "그거",
+        "는",
+        "아직",
+        "애니",
+        "로",
+        "안",
+        "나왔",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "애니 아니면 지금 뭐야?",
+      "tokens": [
+        "애",
+        "니",
+        "EC",
+        "아니",
+        "면",
+        "지금",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 지금은 휴식기?",
+      "tokens": [
+        "아",
+        "지금",
+        "은",
+        "휴식기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "이제 2기 만드는 중이겠지?",
+      "tokens": [
+        "이제",
+        "2",
+        "기",
+        "만드",
+        "는",
+        "중",
+        "이",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "빨리 나왔음 좋겠다 기대돼",
+      "tokens": [
+        "빨리",
+        "나왔",
+        "EP",
+        "음",
+        "좋",
+        "겠",
+        "다",
+        "기대",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

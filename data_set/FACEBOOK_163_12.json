@@ -1,0 +1,356 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "강아지랑 여행은 힘들군...",
+      "tokens": [
+        "강아지",
+        "랑",
+        "여행",
+        "은",
+        "힘들",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 에법 힘들어 하하",
+      "tokens": [
+        "그니까",
+        "에",
+        "법",
+        "힘들",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "황매산 가보는거 어때? 당일로",
+      "tokens": [
+        "황매산",
+        "가",
+        "보",
+        "는",
+        "거",
+        "어때",
+        "EF",
+        "당일",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벅수 죽기전에 가보고 싶은데...",
+      "tokens": [
+        "벅수",
+        "죽",
+        "기",
+        "전",
+        "에",
+        "가",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "은데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "강아지랑 해외여행 갈 수 있나?",
+      "tokens": [
+        "강아지",
+        "랑",
+        "해외여행",
+        "갈",
+        "ETM",
+        "수",
+        "있",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 그런말 하지마 너무 슬푸다...",
+      "tokens": [
+        "아니",
+        "그런",
+        "말",
+        "하",
+        "지",
+        "마",
+        "EC",
+        "너무",
+        "슬푸",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "황매산 당일 넘 좋지",
+      "tokens": [
+        "황매산당일넘좋지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그럼 짐칸에 타고 가쥐?",
+      "tokens": [
+        "그럼",
+        "짐칸",
+        "에",
+        "타",
+        "고",
+        "가",
+        "쥐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아마 그렇다던데 그래서 제주도도 못가",
+      "tokens": [
+        "아마",
+        "그렇",
+        "다던데",
+        "그래서",
+        "제주도",
+        "도",
+        "못",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "벅수랑 해외여행 에바지...",
+      "tokens": [
+        "벅수",
+        "랑",
+        "해외여행",
+        "에",
+        "바지",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "강아지한테 안 좋을듯 너무 ㅠ",
+      "tokens": [
+        "강아지",
+        "한테",
+        "안",
+        "좋",
+        "을",
+        "듯",
+        "너무",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 제주도라도 가보고 싶은데",
+      "tokens": [
+        "난",
+        "JX",
+        "제주",
+        "도라도",
+        "가",
+        "보",
+        "고",
+        "싶",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "비행기 타면 기겁할듯",
+      "tokens": [
+        "비행기",
+        "타",
+        "면",
+        "기겁",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "안고 타면 안되지?",
+      "tokens": [
+        "안",
+        "고",
+        "타",
+        "면",
+        "안",
+        "되",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "벅수는 몇 키로라고 했지?",
+      "tokens": [
+        "벅수",
+        "는",
+        "몇",
+        "키",
+        "로",
+        "라고",
+        "EC",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "제주도도 힘들지 않을까...?",
+      "tokens": [
+        "제주도",
+        "도",
+        "힘들",
+        "지",
+        "않",
+        "을까",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "10키로야 벅수 하하",
+      "tokens": [
+        "10",
+        "키로",
+        "ETN",
+        "JKB",
+        "야",
+        "벅",
+        "수하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 칸쵸는 몸무게 때문에 짐칸에 가야해... 벅수도 가야겠네",
+      "tokens": [
+        "근데",
+        "칸쵸",
+        "는",
+        "몸무게",
+        "때문",
+        "에",
+        "짐칸",
+        "에",
+        "가",
+        "야",
+        "해",
+        "EF",
+        ".",
+        "벅수",
+        "도",
+        "가",
+        "야",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

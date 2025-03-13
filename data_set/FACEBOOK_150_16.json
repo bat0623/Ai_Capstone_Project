@@ -1,0 +1,543 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 제모 레이저 자주 받아?!",
+      "tokens": [
+        "너",
+        "는",
+        "제모",
+        "레이저",
+        "자주",
+        "받",
+        "아",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 이번 달에도 해야 하는데 살짝 고민이야",
+      "tokens": [
+        "나이",
+        "번달",
+        "에",
+        "도",
+        "해야",
+        "EC",
+        "하",
+        "는데",
+        "살짝",
+        "고민",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 턱수염 한번 해 본 적 있어 키키",
+      "tokens": [
+        "나",
+        "턱수염",
+        "한",
+        "번",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왜 고민이야?",
+      "tokens": [
+        "왜",
+        "고민",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너 모발 모발 하잖아",
+      "tokens": [
+        "너",
+        "모발",
+        "모발",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞는데 굳이 해도 돈이 아깝단 생각이 약간 들어서",
+      "tokens": [
+        "맞",
+        "는데",
+        "굳이",
+        "해도",
+        "EC",
+        "돈",
+        "이",
+        "아깝",
+        "단",
+        "생각",
+        "이",
+        "약간",
+        "들",
+        "어서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "남자가 털 좀 있음 뭐 어때 키키",
+      "tokens": [
+        "남자",
+        "가",
+        "털",
+        "좀",
+        "있",
+        "음",
+        "뭐",
+        "어",
+        "때",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 넌 효과 많이 봤잖아 키키",
+      "tokens": [
+        "근데",
+        "넌",
+        "JX",
+        "효과",
+        "많이",
+        "봤잖아",
+        "EP",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 슬슬 효과가 잘 안 보여 키키",
+      "tokens": [
+        "근데",
+        "슬슬",
+        "효과",
+        "가",
+        "잘",
+        "안",
+        "보여",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거 관리 잘 안 하면 다시 똑같다고 그러던데 키키",
+      "tokens": [
+        "그거",
+        "관리",
+        "잘",
+        "안",
+        "하",
+        "면",
+        "다시",
+        "똑같",
+        "다고",
+        "그러",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "에이 그게 효과가 유지 되고 있는 거야",
+      "tokens": [
+        "에이",
+        "그게",
+        "JKS",
+        "효과",
+        "가",
+        "유지",
+        "되",
+        "고",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "잘 모르겠어 키키",
+      "tokens": [
+        "잘",
+        "모르",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 그냥 꾸준히 하고 있는 거지 뭐~",
+      "tokens": [
+        "근데",
+        "그냥",
+        "꾸준히",
+        "하",
+        "고",
+        "있",
+        "는",
+        "거",
+        "지",
+        "EF",
+        "뭐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 턱수염 5번 받고 안 했는데 똑같은 거 같아서 안 해 키키",
+      "tokens": [
+        "나",
+        "도",
+        "턱수염",
+        "5",
+        "번",
+        "받",
+        "고",
+        "안",
+        "했",
+        "EP",
+        "는데",
+        "똑같",
+        "은",
+        "거",
+        "같",
+        "아서",
+        "안",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "턱 완전 맨들 맨들 하겠다 키키",
+      "tokens": [
+        "턱",
+        "완전",
+        "맨들맨들",
+        "하",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "지금은 맨들맨들한데 1주 면도 안 하면 까끌해!",
+      "tokens": [
+        "지금",
+        "은",
+        "맨들맨들",
+        "한",
+        "ETM",
+        "데",
+        "1",
+        "주면",
+        "도",
+        "안",
+        "하",
+        "면",
+        "까끌",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "할 땐 좀 괜찮았던 거 같은데 키키 진짜 따갑더라",
+      "tokens": [
+        "할",
+        "ETM",
+        "땐",
+        "JX",
+        "좀",
+        "괜찮",
+        "았",
+        "던",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "따갑",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그거 해도 면도는 필수겠다 ㅠ",
+      "tokens": [
+        "그거",
+        "해도",
+        "EC",
+        "면도",
+        "는",
+        "필수",
+        "겠",
+        "EP",
+        "다ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "면도 안 할 정도면 15번 해야한다더라 ㅠㅠ",
+      "tokens": [
+        "면",
+        "도",
+        "안",
+        "할",
+        "ETM",
+        "정도",
+        "면",
+        "EC",
+        "15",
+        "번해야한다더라ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "헐 15번?",
+      "tokens": [
+        "헐",
+        "ETM",
+        "15",
+        "번"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "너무 많이 가는 거 같은데 키키",
+      "tokens": [
+        "너무",
+        "많이",
+        "가",
+        "는",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여기는 삼천포랑 진짜 가깝다?",
+      "tokens": [
+        "여기",
+        "는",
+        "삼",
+        "천",
+        "포",
+        "랑",
+        "진짜",
+        "가깝",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "20분하면 내리 감 하하",
+      "tokens": [
+        "20",
+        "분",
+        "하",
+        "면",
+        "내리",
+        "감하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "웅 맞음",
+      "tokens": [
+        "웅",
+        "맞음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "바로던데 키키",
+      "tokens": [
+        "바로",
+        "던데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "*이 한테는 최적의 장소인 듯",
+      "tokens": [
+        "*",
+        "이",
+        "한테",
+        "는",
+        "최적",
+        "의",
+        "장소",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "통영도 30분 컷",
+      "tokens": [
+        "통영",
+        "도",
+        "30",
+        "분",
+        "컷"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞지",
+      "tokens": [
+        "맞",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "*이 맨날 갈 듯 키키",
+      "tokens": [
+        "*",
+        "이",
+        "맨날",
+        "갈",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니까 평거랑도 은근 가까움",
+      "tokens": [
+        "그니까",
+        "평거",
+        "랑",
+        "도",
+        "은근",
+        "가까움",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "마산도 30분 컷",
+      "tokens": [
+        "마산",
+        "도",
+        "30",
+        "분",
+        "컷"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그 꼴은 못 보겠는데 키키",
+      "tokens": [
+        "그",
+        "꼴",
+        "은",
+        "못",
+        "보",
+        "겠",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "통영도 가깝고 꽤나 좋음",
+      "tokens": [
+        "통영",
+        "도",
+        "가깝",
+        "고",
+        "꽤",
+        "나",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아주 낚시꾼들의 아팟",
+      "tokens": [
+        "아주",
+        "낚시",
+        "꾼",
+        "들",
+        "의",
+        "아",
+        "팟"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "은근 다 가깝네 키키 좋다",
+      "tokens": [
+        "은근",
+        "다",
+        "가깝",
+        "네",
+        "키",
+        "키",
+        "ETN",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그 꼴은 또 못 보지 키키",
+      "tokens": [
+        "키키",
+        "그",
+        "꼴",
+        "은",
+        "또",
+        "못",
+        "보",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러게 하하",
+      "tokens": [
+        "그러게",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "짜증 날 듯 더",
+      "tokens": [
+        "짜증",
+        "날",
+        "ETM",
+        "듯",
+        "더"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "통영 가까워야 함",
+      "tokens": [
+        "통영",
+        "가까워야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "애기 맡길라면 키키",
+      "tokens": [
+        "애기",
+        "맡길",
+        "ETM",
+        "라면",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "응 근데 초전이 진짜 먼데 갈 일이 거의 없잖슴?",
+      "tokens": [
+        "응",
+        "근데",
+        "초전",
+        "이",
+        "진짜",
+        "먼데",
+        "VCP",
+        "EC",
+        "갈일",
+        "이",
+        "거의",
+        "없잖",
+        "슴"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "초전 멀지 엄청 ㅠㅠ",
+      "tokens": [
+        "초전멀지엄청ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그래 키키",
+      "tokens": [
+        "그래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "초전은 멀드라 키키 저번에 갔는데",
+      "tokens": [
+        "초전",
+        "은",
+        "멀",
+        "드라",
+        "키키",
+        "저번",
+        "에",
+        "갔",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

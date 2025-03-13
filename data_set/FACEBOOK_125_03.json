@@ -1,0 +1,405 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여친이랑 여행 갈 때 렌트해서 가는 편이야?",
+      "tokens": [
+        "여친",
+        "이랑",
+        "여행",
+        "갈",
+        "ETM",
+        "때",
+        "렌트",
+        "해서",
+        "EC",
+        "가",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "자동차 바꾸고 싶다",
+      "tokens": [
+        "자동차",
+        "바꾸",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 렌트 안 해 키키",
+      "tokens": [
+        "나",
+        "는",
+        "렌트",
+        "안",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그래? 렌트 안 하면 역시 자차겠네!?",
+      "tokens": [
+        "그래",
+        "렌트안하면역시자차겠네",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "벤츠로 바꾸고 싶어...",
+      "tokens": [
+        "벤츠",
+        "로",
+        "바꾸",
+        "고",
+        "싶",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 차가 요즘에 아른아른 거린다",
+      "tokens": [
+        "진짜",
+        "차",
+        "가",
+        "요즘",
+        "에",
+        "아른아른",
+        "거린다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "벤츠가 또 성공의 상징 아니겠어 키키",
+      "tokens": [
+        "벤츠",
+        "가",
+        "또",
+        "성공",
+        "의",
+        "상징",
+        "아니",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그치 진짜 내 로망이야 벤츠",
+      "tokens": [
+        "그치",
+        "진짜",
+        "내",
+        "JKG",
+        "로망",
+        "이",
+        "야",
+        "벤츠"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "벤츠 s클래스 회장님들이 많이 타잖아",
+      "tokens": [
+        "벤츠",
+        "s",
+        "클래스",
+        "회장",
+        "님",
+        "들",
+        "이",
+        "많이",
+        "타",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "돈 있는 사람들은 그냥 사겠지만 나는 엄청 모아야 살 수 있어",
+      "tokens": [
+        "돈",
+        "있",
+        "는",
+        "사람",
+        "들",
+        "은",
+        "그냥",
+        "사",
+        "겠",
+        "지만",
+        "나",
+        "는",
+        "엄청",
+        "모아야",
+        "EC",
+        "살",
+        "ETM",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그렇긴 하지",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘 그래도 자동차 대출 잘 나온다더라!",
+      "tokens": [
+        "요즘",
+        "그래도",
+        "EC",
+        "자동차",
+        "대출",
+        "잘나",
+        "EC",
+        "온다더라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "집도 없는데 차만 좋은 거 타고 다니잖아 요즘 애들",
+      "tokens": [
+        "집",
+        "도",
+        "없",
+        "는데",
+        "차",
+        "만",
+        "좋",
+        "은",
+        "거",
+        "타",
+        "고",
+        "다니",
+        "잖아",
+        "요즘",
+        "애",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 다 카푸어라고 사람들이 부르잖아 키키",
+      "tokens": [
+        "그거",
+        "다",
+        "카푸어",
+        "라고",
+        "EC",
+        "사람",
+        "들",
+        "이",
+        "부르",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "집은 원룸인데 차만 좋은 거 키키",
+      "tokens": [
+        "집",
+        "은",
+        "원룸",
+        "인데",
+        "EC",
+        "차",
+        "만",
+        "좋",
+        "은",
+        "거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "하긴 원룸 주차장에 차들 어마무시 하더라",
+      "tokens": [
+        "하긴",
+        "원룸",
+        "주차장",
+        "에",
+        "차",
+        "들",
+        "어마",
+        "무시",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "카푸어 키키 나도 그럼 카푸어 ...",
+      "tokens": [
+        "카푸어",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "그럼",
+        "카푸어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "에이 그 정돈 아니야 내가 볼 때~",
+      "tokens": [
+        "에이",
+        "그",
+        "정돈",
+        "JX",
+        "아니",
+        "야",
+        "내",
+        "가",
+        "볼",
+        "ETM",
+        "때",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜 너는 언제쯤 차 사려고!",
+      "tokens": [
+        "진짜",
+        "너",
+        "는",
+        "언제",
+        "쯤",
+        "차",
+        "사",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_125_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

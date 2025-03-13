@@ -1,0 +1,341 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "각자 있는 곳 날씨 중계 좀 하하",
+      "tokens": [
+        "각자",
+        "있",
+        "는",
+        "곳",
+        "날씨",
+        "중계",
+        "좀",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "여긴 그저 그래 하하",
+      "tokens": [
+        "여긴",
+        "JX",
+        "그저",
+        "그래",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "여기는 오늘 춥습니다...",
+      "tokens": [
+        "여기",
+        "는",
+        "오늘",
+        "춥",
+        "습니다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "여기 현재 날씨 구름!",
+      "tokens": [
+        "여기",
+        "현재",
+        "날씨",
+        "구름"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "제주는 아직 따실듯?",
+      "tokens": [
+        "제주",
+        "는",
+        "아직",
+        "따",
+        "실",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너무 추워요 으슬으슬 합니다",
+      "tokens": [
+        "너무",
+        "추워",
+        "EC",
+        "요",
+        "으슬으슬",
+        "합니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "기온은 12도입니당",
+      "tokens": [
+        "기온",
+        "은",
+        "12",
+        "도",
+        "입",
+        "니당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "제주 벌써 추워졌어? 하하",
+      "tokens": [
+        "제주",
+        "벌써",
+        "추워졌",
+        "EC",
+        "VX",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래서 오늘 양털 옷을 걸치고 나왔죠",
+      "tokens": [
+        "그래서",
+        "오늘",
+        "양",
+        "털옷",
+        "을",
+        "걸치",
+        "고",
+        "나왔",
+        "EP",
+        "죠"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "정촌 넘 추워!",
+      "tokens": [
+        "정촌",
+        "넘",
+        "추워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이제 밀감 나오겠네 제주도에 슬슬 하하",
+      "tokens": [
+        "이제",
+        "밀감",
+        "나오",
+        "겠",
+        "네",
+        "제주도",
+        "에",
+        "슬",
+        "ETM",
+        "슬하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "귤 따는 일 하러 가고 싶네요 키키",
+      "tokens": [
+        "귤",
+        "따",
+        "는",
+        "일",
+        "하",
+        "러",
+        "가",
+        "고",
+        "싶",
+        "네요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "제주는 항상 뜨시지 않냐",
+      "tokens": [
+        "제주",
+        "는",
+        "항상",
+        "뜨",
+        "시",
+        "지",
+        "않",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "제주는 밀감도 싸겠당 ㅠㅠ 부럽",
+      "tokens": [
+        "제주",
+        "는",
+        "밀감",
+        "도",
+        "싸",
+        "겠",
+        "당",
+        "ㅠㅠ",
+        "부럽"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "항상이라뇨... 키키 여기도 춥습니다",
+      "tokens": [
+        "항상",
+        "이",
+        "라뇨",
+        "EF",
+        ".",
+        "키",
+        "키",
+        "ETN",
+        "여기",
+        "도",
+        "춥",
+        "습니다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "바람이 많이  불듯",
+      "tokens": [
+        "바람",
+        "이",
+        "많이",
+        "불",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "밀감 따기 힘들다던데 ㅎ",
+      "tokens": [
+        "밀감",
+        "따",
+        "기",
+        "힘들",
+        "다던",
+        "데",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "칼바람에 얼굴이 베일 거 같아요",
+      "tokens": [
+        "칼바람",
+        "에",
+        "얼굴",
+        "이",
+        "베일",
+        "ETM",
+        "거",
+        "같",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "기차 여행 가본사람",
+      "tokens": [
+        "기차",
+        "여행",
+        "가본",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 가봤어 하하 내일로 하하",
+      "tokens": [
+        "나",
+        "가",
+        "봤",
+        "EP",
+        "어",
+        "하하",
+        "내일",
+        "로",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 한번도 안해봄 ㅜㅜ 해보고싶었는데",
+      "tokens": [
+        "나",
+        "한",
+        "번",
+        "도",
+        "안",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN",
+        "ㅜㅜ",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "기차 타고 여행 가보고 싶당 하하",
+      "tokens": [
+        "기차",
+        "타",
+        "고",
+        "여행가",
+        "보",
+        "고",
+        "싶",
+        "당하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "대학생 때 내일로 안 해봤니?",
+      "tokens": [
+        "대학생",
+        "때",
+        "내일",
+        "로",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래 내일로 같은 거 이제 안댐 ㅜㅜ",
+      "tokens": [
+        "그래",
+        "내일",
+        "로",
+        "같",
+        "은",
+        "거",
+        "이제",
+        "안",
+        "댐",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "하지만 역시 차가 젤 편하겠지...",
+      "tokens": [
+        "하지만",
+        "역시",
+        "차",
+        "가",
+        "젤",
+        "편하",
+        "겠",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "10일동안 내일로 했음 하하",
+      "tokens": [
+        "10",
+        "일",
+        "동안",
+        "내일",
+        "로",
+        "했",
+        "EP",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나이 제한 있던데 키키",
+      "tokens": [
+        "나이",
+        "제한",
+        "있",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응 내일로 안해봤어...",
+      "tokens": [
+        "응",
+        "내일",
+        "로",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아주 좋은 추억이었지 하하",
+      "tokens": [
+        "아주",
+        "좋",
+        "은",
+        "추억",
+        "이",
+        "었",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 진짜 멋있다 키키 재밌음",
+      "tokens": [
+        "아",
+        "진짜",
+        "멋있",
+        "다",
+        "키",
+        "키",
+        "ETN",
+        "재밌",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나이 제한 있음 키키",
+      "tokens": [
+        "나이",
+        "제한",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "강원도 까지 기차타고 갔다옴",
+      "tokens": [
+        "강원도",
+        "까지",
+        "기차",
+        "타",
+        "고",
+        "갔",
+        "EP",
+        "다",
+        "옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 근데 차는 피곤하자나 운전자",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "차",
+        "는",
+        "피곤",
+        "하",
+        "자",
+        "나",
+        "운전자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우린 이제 글렀어...",
+      "tokens": [
+        "우린",
+        "JX",
+        "이제",
+        "글렀",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "술도 마이 묵고 하하",
+      "tokens": [
+        "술",
+        "도",
+        "마이",
+        "묵",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래 기차는 재밌지 달걀 먹고 키키",
+      "tokens": [
+        "그래",
+        "기차",
+        "는",
+        "재밌",
+        "지",
+        "달걀",
+        "먹",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

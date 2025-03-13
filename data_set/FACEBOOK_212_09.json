@@ -1,0 +1,333 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "반려 동물 키우면 로봇은 한대 있어야 해...",
+      "tokens": [
+        "반려",
+        "동물",
+        "키우",
+        "면",
+        "로봇",
+        "은",
+        "한대",
+        "EC",
+        "있",
+        "어야",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 아무래도 편할 듯?",
+      "tokens": [
+        "아",
+        "아무래도",
+        "편할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "로봇 청소기 샤오미 강추~",
+      "tokens": [
+        "로봇청소기샤오미강추",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "로봇 청소기에  벅수털 장난 아님",
+      "tokens": [
+        "로봇",
+        "청소기",
+        "에",
+        "벅",
+        "수털",
+        "장난아",
+        "님"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 한대 사야징 키키",
+      "tokens": [
+        "나",
+        "도",
+        "한",
+        "대",
+        "사",
+        "야징",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "털이 너무 많아서 큰일",
+      "tokens": [
+        "털",
+        "이",
+        "너무",
+        "많",
+        "아서",
+        "큰일"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "청소기 마다 개털이 진짜",
+      "tokens": [
+        "청소기",
+        "마다",
+        "개털",
+        "이",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 나는 우선 건조기 먼저...",
+      "tokens": [
+        "진짜",
+        "나",
+        "는",
+        "우선",
+        "건조기",
+        "먼저",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "로봇 청소기 어떰 성능",
+      "tokens": [
+        "로봇",
+        "청소기",
+        "어떰",
+        "성능"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "개벅수는 개벅수다 털 장난 아님",
+      "tokens": [
+        "개",
+        "벅수",
+        "는",
+        "개",
+        "벅수",
+        "다",
+        "털",
+        "ETM",
+        "장난아",
+        "님"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그래야 강아지를 키울 듯 키키",
+      "tokens": [
+        "그래야",
+        "강아지",
+        "를",
+        "키울",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 다이슨 샀는데 만족 중",
+      "tokens": [
+        "나",
+        "다이슨",
+        "샀",
+        "EP",
+        "는데",
+        "만족",
+        "중"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "머리카락 없어",
+      "tokens": [
+        "머리카락",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "로봇 청소기 완전 청소 잘해",
+      "tokens": [
+        "로봇",
+        "청소기",
+        "완전",
+        "청소",
+        "잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "개벅수 털이 그리 많이 빠져?",
+      "tokens": [
+        "개",
+        "벅수",
+        "털",
+        "이",
+        "그리",
+        "많이",
+        "빠져",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "메이커 어디 거야 청소기?",
+      "tokens": [
+        "메이커",
+        "어디",
+        "거",
+        "야",
+        "EF",
+        "청소기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응 벅수 완전 털 뿜뿜",
+      "tokens": [
+        "응벅수완전털뿜뿜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "전현 그렇게 안 보이던디",
+      "tokens": [
+        "전현",
+        "그렇게",
+        "안",
+        "보이",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "푸들이 그렇지 뭐",
+      "tokens": [
+        "푸",
+        "들",
+        "이",
+        "그렇",
+        "지",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

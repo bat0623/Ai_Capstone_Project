@@ -1,0 +1,396 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "수능 철이네 벌써 하하",
+      "tokens": [
+        "수능",
+        "철",
+        "이",
+        "네",
+        "벌써",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 수능 ㅠㅠ 코로나에 수능은 치네 ㅠㅠ",
+      "tokens": [
+        "헐",
+        "수능",
+        "ㅠㅠ",
+        "코로나",
+        "에",
+        "수능",
+        "은",
+        "치",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오늘 2시 40분에 국민의힘 대선 후보 결정난댄...두구 두구 두구",
+      "tokens": [
+        "오늘",
+        "2",
+        "시",
+        "40",
+        "분에국민의힘대선후보결정난댄",
+        ".",
+        "두",
+        "구",
+        "두",
+        "구",
+        "두",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "** 수능 치고 군대 갔음?",
+      "tokens": [
+        "*",
+        "*",
+        "수능",
+        "치고",
+        "군대",
+        "갔",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "수능 기억나나?",
+      "tokens": [
+        "수능",
+        "기억나",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 수능 찍었던 거 가틈",
+      "tokens": [
+        "나",
+        "수능",
+        "찍",
+        "었",
+        "던",
+        "거",
+        "가",
+        "틈"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 국민의힘 관심 있으심?",
+      "tokens": [
+        "키",
+        "키",
+        "국민",
+        "의",
+        "힘",
+        "관심",
+        "있",
+        "으",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 대선후보... 점점 중요해 투표",
+      "tokens": [
+        "오대선",
+        "후보",
+        ".",
+        ".",
+        "점점",
+        "중요",
+        "해",
+        "EC",
+        "투표"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "대학 갈 생각이 없었자나",
+      "tokens": [
+        "대학",
+        "갈",
+        "ETM",
+        "생각",
+        "이",
+        "없",
+        "었",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "수능 치러 가긴 했음?",
+      "tokens": [
+        "수능",
+        "치러",
+        "EC",
+        "가",
+        "긴",
+        "JX",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "군대 일찍 갔구나",
+      "tokens": [
+        "군대",
+        "일찍",
+        "갔",
+        "EP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "음... 민주당 대선 후보 발표 났으니까...",
+      "tokens": [
+        "음",
+        ".",
+        ".",
+        "민주당",
+        "대선",
+        "후보",
+        "발표",
+        "났",
+        "EP",
+        "으니까",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "걍 궁금하잖오 키키",
+      "tokens": [
+        "걍궁금하잖오키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "너 바로 군대 갔잖아",
+      "tokens": [
+        "너",
+        "바로",
+        "군대",
+        "갔",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "군대 엄청 일찍 갔구나",
+      "tokens": [
+        "군대",
+        "엄청",
+        "일찍",
+        "갔",
+        "EP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "12월에 바로 갔지.... 후... 추웠다...",
+      "tokens": [
+        "12",
+        "월",
+        "에",
+        "바로",
+        "갔",
+        "EP",
+        "지",
+        ".",
+        ".",
+        "후",
+        ".",
+        ".",
+        "추웠",
+        "EP",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 군대 19살에 갔대... 간지",
+      "tokens": [
+        "키",
+        "키",
+        "군대",
+        "19",
+        "살",
+        "에",
+        "갔",
+        "EP",
+        "대",
+        ".",
+        "간지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "엄청 추울 때 간네 ㅠㅠ",
+      "tokens": [
+        "엄청",
+        "추울",
+        "ETM",
+        "때",
+        "간",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 * 아들도 일찍 보내 바",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "아들",
+        "도",
+        "일찍",
+        "보내",
+        "바"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "은근 괜차나",
+      "tokens": [
+        "은근괜차나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

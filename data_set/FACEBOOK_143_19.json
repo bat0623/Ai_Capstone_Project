@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 이태원 클라쓰 드라마 봤어?",
+      "tokens": [
+        "다",
+        "들",
+        "이",
+        "태원",
+        "클라",
+        "쓰",
+        "드",
+        "VV",
+        "라마",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니 나 이태원 클라쓰 안 봤어",
+      "tokens": [
+        "아니",
+        "나",
+        "이태원",
+        "클라",
+        "쓰",
+        "안",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 진짜 나 봤지",
+      "tokens": [
+        "웅",
+        "진짜",
+        "나",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이태원 클라쓰 너무 재미있어",
+      "tokens": [
+        "이태원",
+        "클라",
+        "쓰",
+        "너무",
+        "재미있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이태원 클라쓰 지금 봤는데 진짜 재밌네 키키",
+      "tokens": [
+        "이태원",
+        "클라",
+        "쓰",
+        "지금",
+        "봤",
+        "EP",
+        "는데",
+        "진짜",
+        "재밌",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "박서준이랑 이다미 나오는 거 맞지",
+      "tokens": [
+        "박서준",
+        "이랑",
+        "이다미",
+        "나오",
+        "는",
+        "거",
+        "맞",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 박서준 완전 멋있잖아 키키",
+      "tokens": [
+        "진짜",
+        "박",
+        "서",
+        "준",
+        "ETM",
+        "완전",
+        "멋있",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 키키 이다미 진짜 천재야 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "키키",
+        "이다미",
+        "진짜",
+        "천재",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이다미가 천재로 나와?",
+      "tokens": [
+        "이다미",
+        "가",
+        "천재",
+        "로",
+        "나와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진짜 안 봐서 모르겠네 키키",
+      "tokens": [
+        "진짜",
+        "안",
+        "봐서",
+        "EC",
+        "모르",
+        "겠",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오징어 게임은 봤어 애들아?",
+      "tokens": [
+        "오징어",
+        "게임",
+        "은",
+        "봤",
+        "EP",
+        "어",
+        "애",
+        "들",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "응 키키 이다미가 장사의 신이야 완전 키키",
+      "tokens": [
+        "응",
+        "키키",
+        "이다미",
+        "가",
+        "장사",
+        "의",
+        "신",
+        "이",
+        "야",
+        "완전",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "고럼 오징어 게임은 진작 봤지 하하",
+      "tokens": [
+        "고럼",
+        "오징어",
+        "게임",
+        "은",
+        "진작",
+        "봤",
+        "EP",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 오징어 게임 나 지금 주행 중인데 너무 재미있어",
+      "tokens": [
+        "진짜",
+        "오징어",
+        "게임",
+        "나",
+        "지금",
+        "주행",
+        "중",
+        "인데",
+        "EC",
+        "너무",
+        "재미있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 오징어 게임은 안 봤어 아직 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "오징어",
+        "게임",
+        "은",
+        "안",
+        "봤",
+        "EP",
+        "어",
+        "아직",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오 이다미가 장사의 신으로 나오는구나 키키",
+      "tokens": [
+        "오",
+        "이다미",
+        "가",
+        "장사",
+        "의",
+        "신",
+        "으로",
+        "나오",
+        "는구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오징어 게임 추천 진짜 꼭 봐!",
+      "tokens": [
+        "오징어",
+        "게임",
+        "추천",
+        "진짜",
+        "꼭",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 키키 나는 이다미가 더 눈에 띄더라고 ㅠㅠ",
+      "tokens": [
+        "응",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "이다미",
+        "가",
+        "더",
+        "눈",
+        "에",
+        "띄",
+        "더라고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 오징어 게임 한 번 봐봐 진짜",
+      "tokens": [
+        "키",
+        "키",
+        "오징어",
+        "게임",
+        "한",
+        "번",
+        "봐",
+        "EC",
+        "봐",
+        "EF",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "진짜 달고나 게임 하러 가자 키키",
+      "tokens": [
+        "진짜",
+        "달",
+        "고",
+        "나",
+        "게",
+        "임하",
+        "러",
+        "가",
+        "자키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

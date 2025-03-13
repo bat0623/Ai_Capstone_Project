@@ -1,0 +1,343 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 무슨 운동 한다고?",
+      "tokens": [
+        "요즘",
+        "무슨",
+        "운동",
+        "한다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 나는 골프쳐",
+      "tokens": [
+        "요즘",
+        "나",
+        "는",
+        "골프",
+        "쳐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "러닝 살  빼는데는 러닝!",
+      "tokens": [
+        "러닝",
+        "살빼",
+        "는",
+        "데",
+        "는",
+        "러닝"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아까 산게 그럼 그거가?  그거",
+      "tokens": [
+        "아까",
+        "산",
+        "ETM",
+        "게",
+        "JKS",
+        "그럼",
+        "그거",
+        "가",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거는 완전 다른 거임",
+      "tokens": [
+        "그거",
+        "는",
+        "완전",
+        "다른",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "골프채 비싸자나... 어케 사누",
+      "tokens": [
+        "골프채",
+        "비싸",
+        "자",
+        "나",
+        "EF",
+        ".",
+        "어",
+        "케",
+        "사누"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그 뭐냐 브라질에서 왔더만?",
+      "tokens": [
+        "그",
+        "뭐",
+        "냐",
+        "EC",
+        "브라질",
+        "에서",
+        "왔",
+        "EP",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리한테는 할부가 있잖아",
+      "tokens": [
+        "우리",
+        "한테",
+        "는",
+        "할부",
+        "가",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "수입품인데 맨몸운동이야",
+      "tokens": [
+        "수입품",
+        "인데",
+        "EC",
+        "맨몸",
+        "운동",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 불가리아에서  왔네",
+      "tokens": [
+        "아",
+        "불가리아",
+        "에서",
+        "왔",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞음... 그래서 불가리안백이지",
+      "tokens": [
+        "맞음",
+        ".",
+        ".",
+        "그래서",
+        "불가리",
+        "안백",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "불가리안백이거든 이름이 ㅎ",
+      "tokens": [
+        "불가리",
+        "안백",
+        "이",
+        "거든",
+        "ETM",
+        "이름",
+        "이",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "뭐 하는 운동인데?",
+      "tokens": [
+        "뭐",
+        "하",
+        "는",
+        "운동",
+        "인데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "음 맨몸운동인데 관성을 이용하는 거임",
+      "tokens": [
+        "음",
+        "맨",
+        "몸",
+        "운동",
+        "인데",
+        "EC",
+        "관성",
+        "을",
+        "이용",
+        "하",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "유산소+근력운동",
+      "tokens": [
+        "유산소",
+        "",
+        "",
+        "근력",
+        "운동"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "불가리아에서 하는  운동이래?",
+      "tokens": [
+        "불가리아",
+        "에서",
+        "하",
+        "는",
+        "운동",
+        "이",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 그런가 그거까진 모르게따",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그런가",
+        "EC",
+        "그거",
+        "까진",
+        "JX",
+        "모르",
+        "게",
+        "따",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "레슬링 선수들이 하는 훈련이야 원래",
+      "tokens": [
+        "레슬링",
+        "선수",
+        "들",
+        "이",
+        "하",
+        "는",
+        "훈련",
+        "이",
+        "야",
+        "원래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

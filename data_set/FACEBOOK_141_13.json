@@ -1,0 +1,487 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "겨울 바다 가고 싶다 ㅠㅠ",
+      "tokens": [
+        "겨울",
+        "바다",
+        "가",
+        "고",
+        "싶",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "역시 바다는 겨울 바다지!",
+      "tokens": [
+        "역시",
+        "바다",
+        "는",
+        "겨울",
+        "바다",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 전에 가본 적 있는데 춥고 왜 겨울 바다가 좋은 거야…?",
+      "tokens": [
+        "나전",
+        "에",
+        "가본",
+        "적",
+        "있",
+        "는데",
+        "춥",
+        "고",
+        "왜",
+        "겨울",
+        "바다",
+        "가",
+        "좋",
+        "은",
+        "거",
+        "야",
+        "EF",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그냥 뭔가 센치해지는 기분이야 겨울 바다를 보면",
+      "tokens": [
+        "그냥",
+        "뭔가",
+        "VCP",
+        "EC",
+        "센치",
+        "해",
+        "EC",
+        "지",
+        "는",
+        "기분",
+        "이",
+        "야",
+        "겨울",
+        "바다",
+        "를",
+        "보",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그냥 겨울 바다는 보면 속이 뻥 뚫리는 느낌 들어",
+      "tokens": [
+        "그냥",
+        "겨울",
+        "바다",
+        "는",
+        "보",
+        "면",
+        "속",
+        "이",
+        "뻥",
+        "뚫리",
+        "는",
+        "느낌",
+        "들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 그래? 이게 여자 남자 차이인가",
+      "tokens": [
+        "아",
+        "그래",
+        "이게",
+        "JKS",
+        "여자",
+        "남자",
+        "차이",
+        "인가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 그냥 추워 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "그냥",
+        "추워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "춥기는 나도 추워 겨울이니까 키키",
+      "tokens": [
+        "춥",
+        "기",
+        "는",
+        "나",
+        "도",
+        "추워",
+        "EC",
+        "겨울",
+        "이",
+        "니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그럴 수 있지 키키",
+      "tokens": [
+        "그럴",
+        "ETM",
+        "수",
+        "있",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "겨울 바다는 춥긴 엄청 추워",
+      "tokens": [
+        "겨울",
+        "바다",
+        "는",
+        "춥",
+        "긴",
+        "JX",
+        "엄청",
+        "추워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 아 다들 춥구나",
+      "tokens": [
+        "키키아다들춥구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "안 추운 줄 알았지",
+      "tokens": [
+        "안",
+        "추운",
+        "ETM",
+        "줄",
+        "알",
+        "았",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그냥 겨울엔 겨울 바다만의 매력이 있어 키키",
+      "tokens": [
+        "그냥",
+        "겨울",
+        "엔",
+        "JX",
+        "겨울",
+        "바다",
+        "만",
+        "의",
+        "매력",
+        "이",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "추운 거 참고 보는 거야~",
+      "tokens": [
+        "추운거",
+        "ETM",
+        "NNB",
+        "참",
+        "고",
+        "보",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "바다 보는 게 더 좋으니깐!",
+      "tokens": [
+        "바다",
+        "보",
+        "는",
+        "게",
+        "JKS",
+        "더",
+        "좋",
+        "으니깐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 키키 그렇구나",
+      "tokens": [
+        "아키",
+        "키",
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 나중에 가서 한번 다시 봐야겠다",
+      "tokens": [
+        "나",
+        "도",
+        "나중",
+        "에",
+        "가",
+        "서",
+        "한",
+        "번",
+        "다시",
+        "봐야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "겨울 하니까 호빵도 먹고 싶다 키키",
+      "tokens": [
+        "겨울",
+        "하",
+        "니까",
+        "호빵",
+        "도",
+        "먹",
+        "고",
+        "싶",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "호빵 진짜 맛있겠다 호호~",
+      "tokens": [
+        "호빵",
+        "진짜",
+        "맛있",
+        "겠",
+        "다",
+        "호호",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오 나는 호떡 먹고 싶다 키키",
+      "tokens": [
+        "오",
+        "나",
+        "는",
+        "호떡",
+        "먹",
+        "고",
+        "싶",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "다 겨울에만 먹고 싶어져 키키",
+      "tokens": [
+        "다",
+        "겨울",
+        "에",
+        "만",
+        "먹",
+        "고",
+        "싶",
+        "어",
+        "져",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "맞아 딱 겨울 음식이야 호떡 호빵",
+      "tokens": [
+        "맞",
+        "아",
+        "딱",
+        "겨울",
+        "음식",
+        "이",
+        "야",
+        "호떡",
+        "호빵"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "맞아 따듯한 건 겨울에만 생각나 키키",
+      "tokens": [
+        "맞",
+        "아따",
+        "듯한",
+        "ETM",
+        "건",
+        "JX",
+        "겨울",
+        "에",
+        "만",
+        "생각나",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

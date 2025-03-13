@@ -1,0 +1,369 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아기는 해병대로 보내장...!",
+      "tokens": [
+        "아기",
+        "는",
+        "해병대",
+        "로",
+        "보내",
+        "EC",
+        "장",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오매 해병대... 소름",
+      "tokens": [
+        "오매",
+        "해병대",
+        ".",
+        ".",
+        "소름"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 귀신 잡는 해병대가 부러워",
+      "tokens": [
+        "난",
+        "JX",
+        "귀신",
+        "잡",
+        "는",
+        "해병대",
+        "가",
+        "부러워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "강한 남자로 키우는 거야!",
+      "tokens": [
+        "강한",
+        "ETM",
+        "남자",
+        "로",
+        "키우",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아기는 뭔가 공군 요런 거?",
+      "tokens": [
+        "아기",
+        "는",
+        "뭔가",
+        "VCP",
+        "EC",
+        "공군",
+        "요런",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 이상하게 약해지더라 ㅎ",
+      "tokens": [
+        "근데",
+        "이상",
+        "하",
+        "게",
+        "약해",
+        "EC",
+        "지",
+        "더라",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 소름이라니 키키",
+      "tokens": [
+        "키",
+        "키",
+        "소름",
+        "이",
+        "라니",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "특전사는 어떤데 ㅠㅠ",
+      "tokens": [
+        "특전",
+        "사",
+        "는",
+        "어떤",
+        "데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "강한 남자 될 수 있으까 ㅠ",
+      "tokens": [
+        "강한",
+        "ETM",
+        "남자",
+        "될",
+        "ETM",
+        "수",
+        "있",
+        "으까",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아기는 의경 보내야지",
+      "tokens": [
+        "아기",
+        "는",
+        "의경",
+        "보내",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "특전사들은 다 멋있잖아",
+      "tokens": [
+        "특전",
+        "사",
+        "들",
+        "은",
+        "다",
+        "멋있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "특전사 그런 거 더 힘든 거 아니여?",
+      "tokens": [
+        "특전",
+        "사",
+        "EC",
+        "그런",
+        "거",
+        "더",
+        "힘든",
+        "ETM",
+        "거",
+        "아니",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "강한 남자는 야생에서 키워야 해",
+      "tokens": [
+        "강한",
+        "ETM",
+        "남자",
+        "는",
+        "야생",
+        "에서",
+        "키워야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엉 아기 잘생겨서 인기 터질 듯...",
+      "tokens": [
+        "엉",
+        "아기",
+        "잘",
+        "생겨서",
+        "EC",
+        "인기",
+        "터질",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "의경 좋다 의경 한 표",
+      "tokens": [
+        "의경",
+        "좋",
+        "다",
+        "의경",
+        "한",
+        "ETM",
+        "표"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "특전사는 복근 말고는 약해져 정신은",
+      "tokens": [
+        "특전",
+        "사",
+        "는",
+        "복근",
+        "말",
+        "고",
+        "는",
+        "약해져",
+        "EC",
+        "VX",
+        "EC",
+        "EC",
+        "정신",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "잘생긴 강한 남자...",
+      "tokens": [
+        "잘생긴",
+        "ETM",
+        "강한",
+        "ETM",
+        "남자",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "정신 약해 특전사?",
+      "tokens": [
+        "정신",
+        "약해",
+        "특전",
+        "사",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 편한 게 최고다",
+      "tokens": [
+        "응",
+        "편한",
+        "ETM",
+        "게",
+        "JKS",
+        "최고",
+        "다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

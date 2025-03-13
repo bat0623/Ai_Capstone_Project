@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠 해외여행 어디 가봤어?",
+      "tokens": [
+        "오빠",
+        "해외여행",
+        "어디",
+        "가",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 일본 가봤어 여자친구랑",
+      "tokens": [
+        "나",
+        "일본",
+        "가",
+        "봤",
+        "EP",
+        "어",
+        "여자",
+        "친구",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 유럽 갔다 온 거 너무 좋았어",
+      "tokens": [
+        "나",
+        "는",
+        "유럽",
+        "갔다온",
+        "ETM",
+        "거",
+        "너무",
+        "좋",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "후쿠오카 한번 가봤어",
+      "tokens": [
+        "후쿠오카",
+        "한",
+        "번",
+        "가",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "와 유럽",
+      "tokens": [
+        "와",
+        "유럽"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "한 10개국 정도 배낭 여행 갔지롱",
+      "tokens": [
+        "한",
+        "10",
+        "개국",
+        "정도",
+        "배낭",
+        "여행",
+        "갔",
+        "EP",
+        "지롱"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 유럽 가보고 싶은데 코로나 때문에 못 갔어 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "유럽가",
+        "보",
+        "고",
+        "싶",
+        "은데",
+        "코로나",
+        "때문",
+        "에",
+        "못",
+        "갔",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 나도 또 갈려니깐 취소 당했어",
+      "tokens": [
+        "맞",
+        "아",
+        "나",
+        "도",
+        "또",
+        "갈려",
+        "EC",
+        "니깐",
+        "EC",
+        "취소",
+        "당했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "와 배낭 여행 개부럽다",
+      "tokens": [
+        "와",
+        "배낭",
+        "여행",
+        "개",
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어때 재밌어?",
+      "tokens": [
+        "어때",
+        "EC",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "재밌기도 하고 위험하기도 했어 키키 혼자 간 거라",
+      "tokens": [
+        "재밌",
+        "기",
+        "도",
+        "하",
+        "고",
+        "위험",
+        "하",
+        "기",
+        "도",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "혼자",
+        "간",
+        "ETM",
+        "거",
+        "라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 멋있다 나도 버켓 그거인데 배낭 여행 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "멋있",
+        "다",
+        "나",
+        "도",
+        "버켓",
+        "그거",
+        "인데",
+        "EC",
+        "배낭",
+        "여행",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나중에 꼭 더 늦기 전에 한번 도전해봐",
+      "tokens": [
+        "나중",
+        "에",
+        "꼭",
+        "더",
+        "늦",
+        "기",
+        "전",
+        "에",
+        "한",
+        "번",
+        "도",
+        "전해",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 내가 하고 싶은 걸 니가 했네 부럽다",
+      "tokens": [
+        "진짜",
+        "내",
+        "가",
+        "하",
+        "고",
+        "싶",
+        "은",
+        "걸",
+        "JKO",
+        "니",
+        "가",
+        "했",
+        "EP",
+        "네",
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "젊음의 패기로 가는 거지 키키",
+      "tokens": [
+        "젊음",
+        "의",
+        "패기",
+        "로",
+        "가",
+        "는",
+        "거",
+        "지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "지금은 무서워서 못 갈 것 같아",
+      "tokens": [
+        "지금",
+        "은",
+        "무서워서",
+        "EC",
+        "못",
+        "갈",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "더 늦기 전에 가고 싶은데 이놈의 망할 코로나",
+      "tokens": [
+        "더",
+        "늦",
+        "기",
+        "전",
+        "에",
+        "가",
+        "고",
+        "싶",
+        "은데",
+        "이놈",
+        "의",
+        "망할",
+        "ETM",
+        "코로나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그러게 키키 점점 풀리고 있으니깐 여친이랑 가봐",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "점점",
+        "풀리",
+        "고",
+        "있",
+        "으니깐",
+        "여친",
+        "이",
+        "랑가",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "코로나만 아니면 당장 갔다",
+      "tokens": [
+        "코로나",
+        "만",
+        "아니",
+        "면",
+        "당장",
+        "갔",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_122_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

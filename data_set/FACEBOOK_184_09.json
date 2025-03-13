@@ -1,0 +1,464 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 나도 커다란 동물 갖고 싶따아",
+      "tokens": [
+        "아",
+        "나",
+        "도",
+        "커다란",
+        "ETM",
+        "동물",
+        "갖",
+        "고",
+        "싶",
+        "따",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "너 ** 있지 않아?",
+      "tokens": [
+        "너",
+        "*",
+        "*",
+        "있",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 코끼리를 만들어 버리시네",
+      "tokens": [
+        "키",
+        "키",
+        "코끼리",
+        "를",
+        "만들",
+        "어",
+        "버리",
+        "시",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 코끼리 키키 호랑이잖아!",
+      "tokens": [
+        "키",
+        "키",
+        "코끼리",
+        "키",
+        "키",
+        "호랑이",
+        "잖아",
+        "EC",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "호랑잌 키키 웃ㄱ넼 키키",
+      "tokens": [
+        "호랑",
+        "잌키",
+        "키",
+        "웃",
+        "EP",
+        "ㄱ넼",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 **이랑여행왓는데넘귀여워ㅔ",
+      "tokens": [
+        "나",
+        "*",
+        "*",
+        "이랑여행왓는데넘귀여워ㅔ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 호랑이야?",
+      "tokens": [
+        "키",
+        "키",
+        "호랑이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어디로 여행 갔어?",
+      "tokens": [
+        "어디",
+        "로",
+        "여행",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "강아지 데리구 여행 가다가 차에서 똥 싸면 어케?",
+      "tokens": [
+        "강아지",
+        "데리",
+        "구",
+        "여행",
+        "가",
+        "다가",
+        "차",
+        "에서",
+        "똥",
+        "싸",
+        "면",
+        "어",
+        "케"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "속초!",
+      "tokens": [
+        "속초"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "다봉이는 패드랑 밖에 아니면 안 싸!",
+      "tokens": [
+        "다",
+        "봉이",
+        "는",
+        "패드",
+        "랑",
+        "밖에",
+        "아니",
+        "면",
+        "안",
+        "싸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오 훈련했나 보다",
+      "tokens": [
+        "오",
+        "훈련",
+        "했",
+        "EP",
+        "나",
+        "보다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "속초 재밌겠다",
+      "tokens": [
+        "속초",
+        "재밌",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "구니까 나도 강아지 데리고 속초 갈래! 다봉이 줘!",
+      "tokens": [
+        "구니까나도강아지데리고속초갈래",
+        "다",
+        "봉",
+        "이",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "날 데리고 가는 게 어때?",
+      "tokens": [
+        "날",
+        "JKO",
+        "데리",
+        "고",
+        "가",
+        "는",
+        "게",
+        "JKS",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 다봉이 유괴 아니야?",
+      "tokens": [
+        "키",
+        "키",
+        "다",
+        "봉",
+        "이",
+        "유괴",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "웅웅! 다봉이만 납치할래!",
+      "tokens": [
+        "웅웅",
+        "다",
+        "봉이",
+        "만",
+        "납치",
+        "할래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "신고 고고야~",
+      "tokens": [
+        "신고",
+        "고고",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "너희는 동물 안 키율 거야",
+      "tokens": [
+        "너희",
+        "는",
+        "동물",
+        "안",
+        "키",
+        "율",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 동물 키우고 싶은데 자신이 없어 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "동물",
+        "키우",
+        "고",
+        "싶",
+        "은데",
+        "자신",
+        "이",
+        "없",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도...절대 못 키워... **한테 줄 사랑도 부족해",
+      "tokens": [
+        "나",
+        "도",
+        ".",
+        ".",
+        "절대",
+        "못",
+        "키워",
+        "EF",
+        ".",
+        "*",
+        "*",
+        "한테",
+        "줄",
+        "ETM",
+        "사랑",
+        "도",
+        "부족",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 사랑꾼이네...",
+      "tokens": [
+        "키",
+        "키",
+        "사랑",
+        "꾼",
+        "이",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "판다 보러 에버랜드 가야지",
+      "tokens": [
+        "판다",
+        "EC",
+        "보",
+        "러",
+        "에버랜드",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키  **이 키우고 싶다 하하",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "이",
+        "키우",
+        "고",
+        "싶",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

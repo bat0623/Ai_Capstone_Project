@@ -1,0 +1,418 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "슬기로운 의사생활에 익순이가 직업 군인이잖아",
+      "tokens": [
+        "슬기",
+        "로운",
+        "ETM",
+        "의사",
+        "생활",
+        "에",
+        "익",
+        "순이",
+        "가",
+        "직업",
+        "군인",
+        "이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 너도 군인 하지 그랬어",
+      "tokens": [
+        "응",
+        "너",
+        "도",
+        "군인",
+        "하",
+        "지",
+        "그랬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그러면 군 마트도 갈 수 있었을 텐데",
+      "tokens": [
+        "그러면",
+        "군",
+        "마트",
+        "도",
+        "갈",
+        "ETM",
+        "수",
+        "있",
+        "었",
+        "을",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니 군 마트 가고 싶어서 딸 군대 보내다니",
+      "tokens": [
+        "아니",
+        "군",
+        "마트",
+        "가",
+        "고",
+        "싶",
+        "어서",
+        "딸",
+        "ETM",
+        "군대",
+        "보내",
+        "다니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "무슨~",
+      "tokens": [
+        "무슨",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "니가 잘할 거 같아서 그러지",
+      "tokens": [
+        "니",
+        "가",
+        "잘",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아서",
+        "그러",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "시키는 거 딱딱 잘하잖아",
+      "tokens": [
+        "시키",
+        "는",
+        "거",
+        "딱딱",
+        "잘",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "강철부대 보니까 멋있긴 하더라",
+      "tokens": [
+        "강철",
+        "부대",
+        "보",
+        "니까",
+        "멋있",
+        "긴",
+        "JX",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "학교 다닐 때 학군단 이런 거 없었어?",
+      "tokens": [
+        "학교",
+        "다닐",
+        "ETM",
+        "때",
+        "학군단",
+        "이런",
+        "거",
+        "없",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그러면 장교로 갈 수 있잖아",
+      "tokens": [
+        "그러면",
+        "장교",
+        "로",
+        "갈",
+        "ETM",
+        "수",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "명지대 다닐 때는 그런 거 있었어",
+      "tokens": [
+        "명",
+        "지대",
+        "다닐",
+        "ETM",
+        "때",
+        "는",
+        "그런",
+        "거",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그 당시에는 별 생각 없었지?",
+      "tokens": [
+        "그",
+        "당시",
+        "에",
+        "는",
+        "별",
+        "생각",
+        "없",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "길 가다가 학군단 학생들 보면 밖에서도 각 잡고 있더라",
+      "tokens": [
+        "길",
+        "가",
+        "다가",
+        "학군단",
+        "학생",
+        "들",
+        "보",
+        "면",
+        "밖",
+        "에서",
+        "도",
+        "각",
+        "잡",
+        "고",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 안 하면 누가 신고한대",
+      "tokens": [
+        "그거",
+        "안",
+        "하",
+        "면",
+        "누가",
+        "JKS",
+        "신고",
+        "한대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "엥? 밖인데도 신고를 해?",
+      "tokens": [
+        "엥",
+        "밖",
+        "인데",
+        "EC",
+        "도",
+        "신고",
+        "를",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아주 규율이 엄격하네",
+      "tokens": [
+        "아주",
+        "규율",
+        "이",
+        "엄격",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래서 밖에서도 잘해야 한다고 예전 학원 조교님이 그랬음",
+      "tokens": [
+        "그래서",
+        "밖",
+        "에서",
+        "도",
+        "잘",
+        "해야",
+        "EC",
+        "한다고",
+        "EC",
+        "예전",
+        "학원",
+        "조교",
+        "님",
+        "이",
+        "그랬음",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "학원 선생님이 학군단이셨나",
+      "tokens": [
+        "학원",
+        "선생",
+        "님",
+        "이",
+        "학군단",
+        "이",
+        "셨",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "좀 피곤하긴 하겠네",
+      "tokens": [
+        "좀",
+        "피곤",
+        "하",
+        "긴",
+        "JX",
+        "하",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "빨리 집 가고 싶었겠다",
+      "tokens": [
+        "빨리",
+        "집",
+        "가",
+        "고",
+        "싶",
+        "었",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

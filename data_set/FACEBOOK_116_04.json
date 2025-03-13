@@ -1,0 +1,462 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 언니 이번에 카페 알바 시작했거든?",
+      "tokens": [
+        "우리",
+        "언니",
+        "이번",
+        "에",
+        "카페",
+        "알바",
+        "시작",
+        "했",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "카페 알바 꿈의 알바다 ㅠㅠ",
+      "tokens": [
+        "카페",
+        "알바",
+        "꿈",
+        "의",
+        "알",
+        "바다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 우리 언니 첫 알바 하는 거란 말이야!",
+      "tokens": [
+        "근데",
+        "우리",
+        "언니",
+        "첫",
+        "알",
+        "ETM",
+        "바",
+        "하",
+        "는",
+        "거",
+        "란",
+        "ETM",
+        "말",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 그럼 좀 미숙하시겠네?",
+      "tokens": [
+        "아",
+        "그럼",
+        "좀",
+        "미숙",
+        "하",
+        "시",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "초반에 엄청 울었음 키키",
+      "tokens": [
+        "초반",
+        "에",
+        "엄청",
+        "울",
+        "었",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 아 사장님이 뭐라고 하셔서?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "사장",
+        "님",
+        "이",
+        "뭐",
+        "라고",
+        "EC",
+        "하",
+        "셔서",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "손님이 엄청 많아서 키키",
+      "tokens": [
+        "손",
+        "님",
+        "이",
+        "엄청",
+        "많",
+        "아서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 카페에 손님 많으면 미쳐 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "카페",
+        "에",
+        "손",
+        "님",
+        "많",
+        "으면",
+        "미쳐",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "언니네는 특히 어린 손님들이 많대!",
+      "tokens": [
+        "언니네",
+        "는",
+        "특히",
+        "어린",
+        "ETM",
+        "손님",
+        "들",
+        "이",
+        "많",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "개인 카페 아니고 프랜차이즈 카페야?",
+      "tokens": [
+        "개인",
+        "카페",
+        "아니",
+        "고",
+        "프랜차이즈",
+        "카페",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그 저려미 카페 있잖아 양도 많고 가격도 싸고!",
+      "tokens": [
+        "그",
+        "저려",
+        "미",
+        "카페",
+        "있",
+        "잖",
+        "아양",
+        "도",
+        "많",
+        "고",
+        "가격",
+        "도",
+        "싸",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "더 벤티?",
+      "tokens": [
+        "더",
+        "벤",
+        "ETM",
+        "티"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그건가?",
+      "tokens": [
+        "그건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어떤 카페지?",
+      "tokens": [
+        "어떤",
+        "카페",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "기억이 안 나는데 약간 그런 곳!",
+      "tokens": [
+        "기억",
+        "이",
+        "안",
+        "나",
+        "는데",
+        "약간",
+        "그런",
+        "곳"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "저렴한 카페는 사람이 엄청 많아",
+      "tokens": [
+        "저렴",
+        "한",
+        "ETM",
+        "카페",
+        "는",
+        "사람",
+        "이",
+        "엄청",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "한 사람이 들어오는데 기본 10잔 시켜서 간대 키키",
+      "tokens": [
+        "한",
+        "사람",
+        "이",
+        "들어오",
+        "는데",
+        "기본",
+        "10",
+        "잔",
+        "시켜서",
+        "EC",
+        "간대",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "아 그거 생각만 해도 최악이다",
+      "tokens": [
+        "아",
+        "그거",
+        "생각",
+        "만",
+        "해도",
+        "EC",
+        "최악",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

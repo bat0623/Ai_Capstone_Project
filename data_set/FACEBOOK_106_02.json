@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 지금 집에서 이사갈 생각 없어?",
+      "tokens": [
+        "언니",
+        "는",
+        "지금",
+        "집",
+        "에서",
+        "이",
+        "사갈",
+        "생각",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 이사 가고 싶은데 다 집값이 넘 비싸",
+      "tokens": [
+        "나",
+        "이사",
+        "가",
+        "고",
+        "싶",
+        "은",
+        "데",
+        "다",
+        "집값",
+        "이",
+        "넘",
+        "비싸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "언니 거기 전세로 살고 있어?",
+      "tokens": [
+        "언니",
+        "거기",
+        "전세",
+        "로",
+        "살",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "여기는 월세야 ㅠ 전세 없지 돈 키키",
+      "tokens": [
+        "여기",
+        "는",
+        "월세",
+        "야",
+        "EF",
+        "ㅠ",
+        "전세",
+        "없",
+        "지",
+        "돈",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 ㅜㅜ 거기는 보증금 얼마에 월세 얼마야?",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅜㅜ",
+        "거기",
+        "는",
+        "보증금",
+        "얼마",
+        "에",
+        "월세",
+        "얼마",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "여긴 1500에 29야 근데도 구축",
+      "tokens": [
+        "여긴",
+        "JX",
+        "1500",
+        "에",
+        "29",
+        "야",
+        "EF",
+        "근데도",
+        "구축"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 ㅜㅜ 1. 5룸에서 살고 있어?",
+      "tokens": [
+        "헐ㅜㅜ",
+        "1",
+        ".",
+        "5",
+        "룸",
+        "에서",
+        "살",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "여긴 미니 투룸이야",
+      "tokens": [
+        "여긴",
+        "JX",
+        "미니",
+        "투",
+        "룸",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "미니 투룸?",
+      "tokens": [
+        "미니",
+        "투",
+        "룸"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "처음 들어봐 그게 뭐야?",
+      "tokens": [
+        "처음",
+        "들",
+        "어",
+        "봐",
+        "EF",
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "방 두갠데 거실은 없어",
+      "tokens": [
+        "방",
+        "두",
+        "갠데",
+        "VCP",
+        "EC",
+        "거실",
+        "은",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 신기하다!",
+      "tokens": [
+        "아",
+        "신기",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러면 들어오자마자 바로 방이 있는 거야?",
+      "tokens": [
+        "그러면",
+        "들어오",
+        "자마자",
+        "바로",
+        "방",
+        "이",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "들어오자마자 부엌에 방 두개가 있지",
+      "tokens": [
+        "들어오",
+        "자마자",
+        "부엌",
+        "에",
+        "방",
+        "두",
+        "개",
+        "가",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오 진짜 신기하다 하나는 잠자는 곳이고 하나는 옷방이겠네?",
+      "tokens": [
+        "오",
+        "진짜",
+        "신기",
+        "하",
+        "다",
+        "하나",
+        "는",
+        "잠자",
+        "는",
+        "곳",
+        "이",
+        "고",
+        "하나",
+        "는",
+        "옷",
+        "방",
+        "이",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "하나는 옷방 하나는 침실 맞아 키키",
+      "tokens": [
+        "하나",
+        "는",
+        "옷",
+        "방",
+        "하나",
+        "는",
+        "침실",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 나는 그냥 내 방 하나가 부엌이고 옷장이고 침실이지 음하하하",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "그냥",
+        "내방",
+        "하나",
+        "가",
+        "부엌",
+        "이",
+        "고",
+        "옷장",
+        "이",
+        "고",
+        "침실",
+        "이",
+        "지",
+        "음",
+        "하하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "난 강아지랑 같이 살아야되서 짜증나ㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "강아지",
+        "랑",
+        "같이",
+        "살",
+        "아야",
+        "되",
+        "서",
+        "짜증",
+        "나ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

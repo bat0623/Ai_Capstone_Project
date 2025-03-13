@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "*** 집 완전 동물 농장...",
+      "tokens": [
+        "*",
+        "*",
+        "*",
+        "집",
+        "완전",
+        "동물",
+        "농장",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "동물 농장?",
+      "tokens": [
+        "동물농장"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아기랑 거기로 가야 하나...",
+      "tokens": [
+        "아기",
+        "랑",
+        "거기",
+        "로",
+        "가",
+        "야",
+        "하나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "거긴 많더라 뭐가",
+      "tokens": [
+        "거긴",
+        "JX",
+        "많",
+        "더라",
+        "뭐",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "지금 개1 고4 인데...",
+      "tokens": [
+        "지금",
+        "개",
+        "1",
+        "고",
+        "4",
+        "인데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오빠네 집도 개 3이래...",
+      "tokens": [
+        "오빠",
+        "네",
+        "집",
+        "도개",
+        "3",
+        "이",
+        "래",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "고양이 말고 또 뭐 키워?",
+      "tokens": [
+        "고양이",
+        "말",
+        "고",
+        "또",
+        "뭐",
+        "키워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "희한한 거 겁나 많아 하하",
+      "tokens": [
+        "희한",
+        "한",
+        "ETM",
+        "거",
+        "겁나",
+        "EC",
+        "많",
+        "아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "고4... 근데 고양이가 새끼 낳음",
+      "tokens": [
+        "고",
+        "4",
+        ".",
+        "근데",
+        "고양이",
+        "가",
+        "새끼",
+        "낳",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 강아지 어머나 오빠네도 강아지 어머나",
+      "tokens": [
+        "아",
+        "강아지",
+        "어머나",
+        "오빠",
+        "네",
+        "도",
+        "강아지",
+        "어머나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "거긴 공장에 개판이야 완젼 하하",
+      "tokens": [
+        "거긴",
+        "JX",
+        "공장",
+        "에",
+        "개판",
+        "이",
+        "야",
+        "완",
+        "젼",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 3마리 입양 갔어",
+      "tokens": [
+        "그래서",
+        "3",
+        "마리",
+        "입양",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "너무 잘 만났다 야...",
+      "tokens": [
+        "너무",
+        "잘",
+        "만났",
+        "EP",
+        "다야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "공장 2갠데 거기 다 개판 하하",
+      "tokens": [
+        "공장",
+        "2",
+        "갠데",
+        "VCP",
+        "EC",
+        "거기",
+        "다",
+        "개판",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난리야 거기 키키",
+      "tokens": [
+        "난리",
+        "야",
+        "EF",
+        "거기",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "동물 농장이야...",
+      "tokens": [
+        "동물농장",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "동물 사랑 가족들이구나 하하",
+      "tokens": [
+        "동물",
+        "사랑",
+        "가족",
+        "들",
+        "이",
+        "구나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아주 그냥 관리가 안 됨 근데",
+      "tokens": [
+        "아주",
+        "그냥",
+        "관리",
+        "가",
+        "안",
+        "됨",
+        "ETN",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "ㅠㅠ 넘 과해...",
+      "tokens": [
+        "ㅠㅠ넘과해",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "고4 무슨 일",
+      "tokens": [
+        "고",
+        "4",
+        "무슨",
+        "일"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "친구 부부 너무 부러워 가깝고 또...",
+      "tokens": [
+        "친구",
+        "부부",
+        "너무",
+        "부러워",
+        "EC",
+        "가깝",
+        "고",
+        "또",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "방치되고 있어 애들이",
+      "tokens": [
+        "방치",
+        "되",
+        "고",
+        "있",
+        "어",
+        "애",
+        "들",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 회사 급여일이 언제야?",
+      "tokens": [
+        "다",
+        "들",
+        "회사",
+        "급여",
+        "일",
+        "이",
+        "언제",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 19일이 회사 급여일이야!",
+      "tokens": [
+        "나",
+        "는",
+        "19",
+        "일",
+        "이",
+        "회사",
+        "급여",
+        "일",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 마지막 날 급여야",
+      "tokens": [
+        "나",
+        "는",
+        "마지막",
+        "날",
+        "급",
+        "여야",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "진짜 너무 조금 줘",
+      "tokens": [
+        "진짜",
+        "너무",
+        "조금",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 키키 급여는 언제나 적게 보이지 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "급여",
+        "는",
+        "언제나",
+        "적",
+        "게",
+        "보이",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 ㅜㅜ 급여일이 마지막 날이면 젤 기다려지겠다",
+      "tokens": [
+        "아",
+        "ㅜㅜ",
+        "급여",
+        "일",
+        "이",
+        "마지막",
+        "날",
+        "이",
+        "면",
+        "젤",
+        "기다려",
+        "EC",
+        "지",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 나도 급여일만 엄청 기다려져 키키",
+      "tokens": [
+        "진짜",
+        "나",
+        "도",
+        "급여",
+        "일",
+        "만",
+        "엄청",
+        "기다려져",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "월급은 진짜 순삭 아닌가요 ㅠㅠ",
+      "tokens": [
+        "월급",
+        "은",
+        "진짜",
+        "순삭",
+        "아닌가요",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 항상 월급날만 바라 보고 살지",
+      "tokens": [
+        "키",
+        "키",
+        "항상",
+        "월급날",
+        "만",
+        "바라보",
+        "고",
+        "살",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 진짜 항상 월급날만 기다리고 있어",
+      "tokens": [
+        "나",
+        "도",
+        "진짜",
+        "항상",
+        "월급날",
+        "만",
+        "기다리",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그나마 나는 카드값 안 나가서 너무 다행이야 ㅠㅠ",
+      "tokens": [
+        "그나마",
+        "나",
+        "는",
+        "카드",
+        "값",
+        "안",
+        "나가",
+        "서",
+        "너무",
+        "다행",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "언니 카드 안 써?",
+      "tokens": [
+        "언니",
+        "카드",
+        "안",
+        "써",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "완전 부럽 키키",
+      "tokens": [
+        "완전부럽키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나는 카드 안 쓰는데 체크 카드만 써",
+      "tokens": [
+        "나",
+        "는",
+        "카드",
+        "안",
+        "쓰",
+        "는데",
+        "체크카드",
+        "만",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "응 키키 나는 카드 안 써 ㅠㅠ",
+      "tokens": [
+        "응",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "카드",
+        "안",
+        "써",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "체크 카드만 써 ㅠㅠ",
+      "tokens": [
+        "체크카드만써ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "헐 나만 신용카드 쓰는 건가 키키",
+      "tokens": [
+        "헐",
+        "나",
+        "만",
+        "신용카드",
+        "쓰",
+        "는",
+        "건가",
+        "VCP",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 진짜 신용카드 쓰면 돈 너무 나갈 듯",
+      "tokens": [
+        "아",
+        "진짜",
+        "신용",
+        "카드",
+        "쓰",
+        "면",
+        "돈",
+        "너무나",
+        "갈",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나는 카드 너무 많이 쓰더라고 답 없이 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "카드",
+        "너무",
+        "많이",
+        "쓰",
+        "더라고",
+        "답",
+        "없이",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아 매달 카드값 내기도 벅차 ㅜㅜ",
+      "tokens": [
+        "맞아",
+        "매달",
+        "카드",
+        "값",
+        "내",
+        "기",
+        "도",
+        "벅차",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아 진짜 나는 부모님 용돈도 드려 ㅠㅠ",
+      "tokens": [
+        "아",
+        "진짜",
+        "나",
+        "는",
+        "부모",
+        "님",
+        "용돈",
+        "도",
+        "드려",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

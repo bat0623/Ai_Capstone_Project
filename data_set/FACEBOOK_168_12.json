@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "졸 멀리 여행가고 싶다",
+      "tokens": [
+        "졸",
+        "멀리",
+        "여행",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 멀리 아주 멀리",
+      "tokens": [
+        "응",
+        "멀리",
+        "아주",
+        "멀리"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어디로 가고싶노 박쥐 키키",
+      "tokens": [
+        "어디",
+        "로",
+        "가",
+        "고",
+        "싶",
+        "노",
+        "박쥐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "완전 비행기 14시간 이상 되는 곳",
+      "tokens": [
+        "완전",
+        "비행기",
+        "14",
+        "시간",
+        "이상",
+        "되",
+        "는",
+        "곳"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "저 유럽으로 가고싶네",
+      "tokens": [
+        "저",
+        "유럽",
+        "으로",
+        "가",
+        "고",
+        "싶",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐랭 너무 멀지 않나 키키",
+      "tokens": [
+        "헐랭",
+        "너무",
+        "멀",
+        "지",
+        "않",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 완전히 시차 폭발인듯 키키",
+      "tokens": [
+        "키",
+        "키",
+        "완전히",
+        "시차",
+        "폭발",
+        "인",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나도 비행기 오래타고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "비행기",
+        "오래",
+        "타",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내는 비행기 오래 못 타겠더라 ㅠㅠ",
+      "tokens": [
+        "내",
+        "는",
+        "비행기",
+        "오래",
+        "못",
+        "타",
+        "겠",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "음 뉴욕 정도 가 좋겠군",
+      "tokens": [
+        "음",
+        "뉴욕",
+        "정도",
+        "가",
+        "좋",
+        "겠",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "완젼 재밌었는데 비행기 오래타기 ㅠㅠ",
+      "tokens": [
+        "완",
+        "젼",
+        "재밌",
+        "었",
+        "는데",
+        "비행기",
+        "오래",
+        "타",
+        "기",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내 비행기 타면 잠을 못 자거든 키키",
+      "tokens": [
+        "내",
+        "JKG",
+        "비행기",
+        "타",
+        "면",
+        "잠",
+        "을",
+        "못자",
+        "거든",
+        "ETM",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "뉴욕 가보고 싶지 않냐?",
+      "tokens": [
+        "뉴욕",
+        "가",
+        "보",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 아주 꿀잠잠 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "아주",
+        "꿀",
+        "ETM",
+        "잠잠",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "비행 내내 밖을 보고 있음",
+      "tokens": [
+        "비행",
+        "내내",
+        "밖",
+        "을",
+        "보",
+        "고",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "미국의 중심... 간지...",
+      "tokens": [
+        "미국",
+        "의",
+        "중심",
+        ".",
+        ".",
+        "간지",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "자고나니 미국이었어 하하",
+      "tokens": [
+        "자",
+        "고",
+        "나",
+        "니",
+        "미국",
+        "이",
+        "었",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "뉴욕시티 함 가보자~ 고고",
+      "tokens": [
+        "뉴욕",
+        "시티",
+        "함",
+        "ETN",
+        "가",
+        "보",
+        "자",
+        "~",
+        "고",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

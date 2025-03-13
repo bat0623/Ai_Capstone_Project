@@ -1,0 +1,379 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "중국이  g20 엎었제?",
+      "tokens": [
+        "중국",
+        "이",
+        "g",
+        "20",
+        "엎",
+        "었",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 그렇다는거 같던데 하하",
+      "tokens": [
+        "응",
+        "그렇",
+        "다는",
+        "거",
+        "같",
+        "던데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그런가?",
+      "tokens": [
+        "그런가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 잘모르겠네?",
+      "tokens": [
+        "나",
+        "는",
+        "잘",
+        "모르",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리는 합의했다는 거 같던데",
+      "tokens": [
+        "우리",
+        "는",
+        "합의",
+        "했",
+        "EP",
+        "다는",
+        "거",
+        "같",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "중국이 거절 했다던데 하하",
+      "tokens": [
+        "중국",
+        "이",
+        "거절",
+        "했",
+        "EP",
+        "다던데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오호... 그런 일이 있었다니",
+      "tokens": [
+        "오호",
+        ".",
+        "그런",
+        "일",
+        "이",
+        "있",
+        "었",
+        "다니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "거기서 오징어 게임 얘기 나왔데 키키",
+      "tokens": [
+        "거기",
+        "서",
+        "오징어",
+        "게임",
+        "얘기",
+        "나왔",
+        "EP",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 우리는 완전 찬성 했는데 하하",
+      "tokens": [
+        "응",
+        "우리",
+        "는",
+        "완전",
+        "찬성",
+        "했",
+        "EP",
+        "는데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 오징어 게임 얘기는 왜나와",
+      "tokens": [
+        "키",
+        "키",
+        "오징어",
+        "게임",
+        "얘기",
+        "는",
+        "왜",
+        "나와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오징어 게임 무엇... 정말 지배 했어...",
+      "tokens": [
+        "오징어",
+        "게임",
+        "무엇",
+        ".",
+        "정말",
+        "지배",
+        "했",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 오징어 게임 그 정도니?",
+      "tokens": [
+        "헐",
+        "오징어",
+        "게임",
+        "그",
+        "정도",
+        "니",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 진짜 세계를 지배했어",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "세계",
+        "를",
+        "지배",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오징어가 세상을 지배 했어",
+      "tokens": [
+        "오징어",
+        "가",
+        "세상",
+        "을",
+        "지배",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "세계 정상이 모인 자리에서 그런 이야기가",
+      "tokens": [
+        "세계",
+        "정상",
+        "이",
+        "모인",
+        "ETM",
+        "자리",
+        "에서",
+        "그런",
+        "이야기",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "브금도 이제는 좀 질려 키키",
+      "tokens": [
+        "브금",
+        "도",
+        "이제",
+        "는",
+        "좀",
+        "질려",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 이제 무섭다 오징어",
+      "tokens": [
+        "키",
+        "키",
+        "이제",
+        "무섭",
+        "다",
+        "오징어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아주 존경스럽군 대한민국 하하",
+      "tokens": [
+        "아주",
+        "존경",
+        "스럽",
+        "군",
+        "대한민국",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 달고나 해먹고싶다…",
+      "tokens": [
+        "키키",
+        "달고나",
+        "해",
+        "EC",
+        "먹",
+        "고",
+        "싶",
+        "다",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "국자 뿌시겠지?",
+      "tokens": [
+        "국자",
+        "뿌시",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

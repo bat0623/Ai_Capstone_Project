@@ -1,0 +1,436 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 골프 배워보고 싶지 않아?",
+      "tokens": [
+        "언니",
+        "는",
+        "골프",
+        "배워",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "골프 하고 싶은데 너무 어려워 ㅠ",
+      "tokens": [
+        "골프",
+        "하",
+        "고",
+        "싶",
+        "은데",
+        "너무",
+        "어려워",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 인정 키키",
+      "tokens": [
+        "아",
+        "인정",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그 자세부터 엄청 중요하다던데?",
+      "tokens": [
+        "그",
+        "자세",
+        "부터",
+        "엄청",
+        "중요",
+        "하",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그래서 스크린 골프부터 해보려고!",
+      "tokens": [
+        "그래서",
+        "스크린골프",
+        "부터",
+        "해",
+        "EC",
+        "보",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "처음에는 스크린 골프부터 배우는 거구나?",
+      "tokens": [
+        "처음",
+        "에",
+        "는",
+        "스크린골프",
+        "부터",
+        "배우",
+        "는",
+        "거",
+        "구나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엄마가 가르쳐 주신다고 하셔가지고!",
+      "tokens": [
+        "엄마",
+        "가",
+        "가르쳐",
+        "EC",
+        "주",
+        "신다고",
+        "EC",
+        "하",
+        "셔",
+        "EC",
+        "가지",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오 대박 키키",
+      "tokens": [
+        "오",
+        "대",
+        "박",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그러면 골프쌤은 따로 필요 없겠네?",
+      "tokens": [
+        "그러면",
+        "골프",
+        "쌤",
+        "은",
+        "따로",
+        "필요",
+        "없",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "골프쌤 키키",
+      "tokens": [
+        "골프",
+        "쌤",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래도 필요할 거 같은데?",
+      "tokens": [
+        "그래도",
+        "필요",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 그치?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "지금 어무니는 골프쌤한테 교육 받고 계셔?",
+      "tokens": [
+        "지금",
+        "어",
+        "무니",
+        "는",
+        "골프",
+        "쌤",
+        "한테",
+        "교육",
+        "받",
+        "고",
+        "계셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "응 항상 교육 받고 계시지~",
+      "tokens": [
+        "응",
+        "항상",
+        "교육",
+        "받",
+        "고",
+        "계시",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 어무니는 그러면 필드까지 나가시겠다!",
+      "tokens": [
+        "키",
+        "키어",
+        "무니",
+        "는",
+        "그러",
+        "면",
+        "필드",
+        "까지",
+        "나가",
+        "시",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 근데 잘 못 치시는 거 같아 키키",
+      "tokens": [
+        "아",
+        "근데",
+        "잘못",
+        "치",
+        "시",
+        "는",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "내가 아는 분은 지금 필드만 나가셔!",
+      "tokens": [
+        "내",
+        "가",
+        "아",
+        "는",
+        "분",
+        "은",
+        "지금",
+        "필드",
+        "만",
+        "나가",
+        "셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "와, 필드 진짜 어려운데 대단하시다",
+      "tokens": [
+        "와",
+        ",",
+        "필드",
+        "진짜",
+        "어려운데",
+        "EC",
+        "대단",
+        "하",
+        "시다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "필드 나가서 하는 게 진짜 좋대!",
+      "tokens": [
+        "필드",
+        "나가",
+        "서",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "진짜",
+        "좋",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "은근히 운동도 많이 된대!",
+      "tokens": [
+        "은근히",
+        "운동",
+        "도",
+        "많이",
+        "된대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘의 사회 이슈는 중국인이닷...",
+      "tokens": [
+        "오늘",
+        "의",
+        "사회",
+        "이슈",
+        "는",
+        "중국인",
+        "이",
+        "닷",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "중국 대박 사건",
+      "tokens": [
+        "중국",
+        "대박",
+        "사건"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "하... 나도 그거 봤어",
+      "tokens": [
+        "하",
+        ".",
+        "나",
+        "도",
+        "그거",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "중국인이 쌍칼부림을 했대...",
+      "tokens": [
+        "중국인",
+        "이",
+        "쌍",
+        "칼부림",
+        "을",
+        "했",
+        "EP",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "칼부림 사건 덜덜",
+      "tokens": [
+        "칼부림",
+        "사건",
+        "덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 큰일 날 사람이다",
+      "tokens": [
+        "진짜",
+        "큰일날",
+        "ETM",
+        "사람",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그래서 총 쏜 거 봤어?",
+      "tokens": [
+        "그래서",
+        "총",
+        "쏜",
+        "ETM",
+        "거",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "실탄으로 제압 덜덜",
+      "tokens": [
+        "실탄",
+        "으로",
+        "제압",
+        "덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응 테이저건 2방 쐈다던데",
+      "tokens": [
+        "응",
+        "테이저",
+        "건",
+        "JX",
+        "2",
+        "방",
+        "쐈",
+        "EP",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그 사람 왜 그랬대?",
+      "tokens": [
+        "그",
+        "사람",
+        "왜",
+        "그랬",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "실탄 잘 안 쏘는데 얼마나 급했으면 하하",
+      "tokens": [
+        "실탄",
+        "잘",
+        "안",
+        "쏘",
+        "는데",
+        "얼마나",
+        "급",
+        "했",
+        "EP",
+        "으면",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "정신 나간 듯 진짜 한국인 죽을 뻔",
+      "tokens": [
+        "정신",
+        "나간",
+        "ETM",
+        "듯",
+        "진짜",
+        "한국인",
+        "죽",
+        "을",
+        "뻔"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이유가 넘 궁금하네",
+      "tokens": [
+        "이유",
+        "가",
+        "넘",
+        "궁금",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "미국이었음 그냥 총 쏴서 죽였을 듯",
+      "tokens": [
+        "미국",
+        "이",
+        "었",
+        "음",
+        "그냥",
+        "총",
+        "쏴서",
+        "EC",
+        "죽였",
+        "EP",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 잘 지냈대 근데 갑자기 저런 듯",
+      "tokens": [
+        "진짜",
+        "잘",
+        "지냈",
+        "EP",
+        "대",
+        "근데",
+        "갑자기",
+        "저런",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "테이저건 맞아도 멀쩡한 거 신기...",
+      "tokens": [
+        "테이저",
+        "건",
+        "JX",
+        "맞",
+        "아도",
+        "멀쩡",
+        "한",
+        "ETM",
+        "거",
+        "신기",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리나라는 그래도 관대한 편이야",
+      "tokens": [
+        "우리",
+        "나라",
+        "는",
+        "그래도",
+        "EC",
+        "관대",
+        "한",
+        "ETM",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜 생명에 지장이 없대",
+      "tokens": [
+        "진짜",
+        "생명",
+        "에",
+        "지장",
+        "이",
+        "없",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

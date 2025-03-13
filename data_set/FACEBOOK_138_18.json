@@ -1,0 +1,361 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "갑자기 졸 버섯 사기 싫어짐",
+      "tokens": [
+        "갑자기",
+        "졸",
+        "ETM",
+        "버섯",
+        "사기",
+        "싫",
+        "어",
+        "짐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 버섯 밸로야",
+      "tokens": [
+        "그니까",
+        "버섯",
+        "밸",
+        "로",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "버섯 진짜 조심해야겠어",
+      "tokens": [
+        "버섯",
+        "진짜",
+        "조심",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어딘가에 독버섯 있을 꺼 같음",
+      "tokens": [
+        "어딘가",
+        "VCP",
+        "EC",
+        "에",
+        "독버섯",
+        "있",
+        "을",
+        "꺼",
+        "VCP",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "무서워 버섯 안 먹을래",
+      "tokens": [
+        "무서워",
+        "EC",
+        "버섯",
+        "안",
+        "먹",
+        "을래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "구매 할 때 신중해야 해",
+      "tokens": [
+        "구매",
+        "할",
+        "ETM",
+        "때",
+        "신중",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 버섯 안 먹을래",
+      "tokens": [
+        "나",
+        "도",
+        "버섯",
+        "안",
+        "먹",
+        "을래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니까 그럼 난리 날 듯",
+      "tokens": [
+        "그니까",
+        "그럼",
+        "난리",
+        "날",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "원산지부터 잘 봐야 해",
+      "tokens": [
+        "원산지",
+        "부터",
+        "잘",
+        "봐야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "버섯 90%는 독버섯이래",
+      "tokens": [
+        "버섯",
+        "90",
+        "%",
+        "는",
+        "독버섯",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그래도 건강에 좋은데 그게",
+      "tokens": [
+        "그래도",
+        "건강",
+        "에",
+        "좋",
+        "은데",
+        "그게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어디 출신인지 잘 봐야 해",
+      "tokens": [
+        "어디",
+        "출신",
+        "인지",
+        "EC",
+        "잘",
+        "봐야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거의 먹을 수 있는 버섯이 없다 함",
+      "tokens": [
+        "거의",
+        "먹",
+        "을",
+        "수",
+        "있",
+        "는",
+        "버섯",
+        "이",
+        "없",
+        "다",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "헐 10프로만 먹을 수 있군",
+      "tokens": [
+        "헐",
+        "ETM",
+        "10",
+        "프로",
+        "만",
+        "먹",
+        "을",
+        "수",
+        "있",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "건강에 나쁜 거 일수도 있어",
+      "tokens": [
+        "건강",
+        "에",
+        "나쁜",
+        "ETM",
+        "거",
+        "일",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그냥 산에 있는 건 거의 독버섯이래",
+      "tokens": [
+        "그냥",
+        "산",
+        "에",
+        "있",
+        "는",
+        "건",
+        "JX",
+        "거의",
+        "독버섯",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래도 그걸 연구를 하면 좋을 듯",
+      "tokens": [
+        "그래도",
+        "그걸",
+        "JKO",
+        "연구",
+        "를",
+        "하",
+        "면",
+        "좋",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "주의 할게",
+      "tokens": [
+        "주의",
+        "할",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

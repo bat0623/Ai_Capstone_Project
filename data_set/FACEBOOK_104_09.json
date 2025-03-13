@@ -1,0 +1,465 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 어렸을 때도 키워본 동물은 없어?",
+      "tokens": [
+        "너",
+        "는",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "도",
+        "키워본",
+        "EC",
+        "VX",
+        "ETM",
+        "동물",
+        "은",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어렸을때는 햄스터랑 토끼 키워봤어",
+      "tokens": [
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "는",
+        "햄스터",
+        "랑",
+        "토끼",
+        "키워",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "토끼 근데 똥 많이 마지 않아?",
+      "tokens": [
+        "토끼",
+        "근데",
+        "똥",
+        "많이",
+        "마",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그리고 너무 어릴 때여서 약간 무서웠어",
+      "tokens": [
+        "그리고",
+        "너무",
+        "어릴",
+        "ETM",
+        "때",
+        "여서",
+        "EC",
+        "약간",
+        "무서웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 그렇겠다 걔 시도때도 없이 똥 싸잖아 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "겠",
+        "다",
+        "걔",
+        "시도",
+        "때",
+        "도",
+        "없이",
+        "똥",
+        "싸",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 그거 다 엄마가 치웠는데 대단하다..",
+      "tokens": [
+        "진짜",
+        "그거",
+        "다",
+        "엄마",
+        "가",
+        "치웠",
+        "EP",
+        "는데",
+        "대단",
+        "하",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 걔가 이불 위에다가는 안 쌌어?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "걔",
+        "가",
+        "이불",
+        "위",
+        "에다가",
+        "는",
+        "안",
+        "쌌",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아마 그랬을걸",
+      "tokens": [
+        "아마",
+        "그랬",
+        "EP",
+        "을",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "걔 있는 곳은 울타리 해놨었어",
+      "tokens": [
+        "걔",
+        "있",
+        "는",
+        "곳",
+        "은",
+        "울타리",
+        "해",
+        "EC",
+        "놨었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 그렇구나 어쩌다가 데리고 왔어?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "구나",
+        "어쩌다가",
+        "데리",
+        "고",
+        "왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "어 아마 나였나 동생인가 가 키우고 싶다고 했을거야",
+      "tokens": [
+        "어",
+        "아마나",
+        "였",
+        "EP",
+        "나",
+        "동생",
+        "인가",
+        "EC",
+        "가",
+        "키우",
+        "고",
+        "싶",
+        "다고",
+        "했",
+        "EP",
+        "을",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 왜 그런 짓을 했어, 결국에 엄마가 다 치워줬구먼~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "그런",
+        "짓",
+        "을",
+        "했",
+        "EP",
+        "어",
+        ",",
+        "결국",
+        "에",
+        "엄마",
+        "가",
+        "다",
+        "치워",
+        "EC",
+        "줬",
+        "EP",
+        "구먼",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러니까 말이야...키키 그래도 그때는 좋았겠지!",
+      "tokens": [
+        "그러니까",
+        "말",
+        "이",
+        "야",
+        ".",
+        "키",
+        "키",
+        "ETN",
+        "그래도",
+        "그때",
+        "는",
+        "좋",
+        "았",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 그치",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "토끼 털 색은 무슨 색이었어?",
+      "tokens": [
+        "토끼",
+        "털색",
+        "은",
+        "무슨",
+        "색",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "흰색이랑 검은색 섞여있는 토끼였어",
+      "tokens": [
+        "흰색",
+        "이랑",
+        "검은색",
+        "섞여",
+        "EC",
+        "있",
+        "는",
+        "토끼",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어 되게 귀여웠겠는데 달마시안 토끼네? 키키",
+      "tokens": [
+        "어",
+        "되게",
+        "귀여웠",
+        "EP",
+        "겠",
+        "는데",
+        "달",
+        "마",
+        "VV",
+        "시",
+        "안",
+        "토끼",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그래서 기억에 남았나 봐!",
+      "tokens": [
+        "그래서",
+        "기억",
+        "에",
+        "남",
+        "았",
+        "나",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

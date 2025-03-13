@@ -1,0 +1,366 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "회사에서 야근도 함?",
+      "tokens": [
+        "회사",
+        "에서",
+        "야",
+        "근도",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 회사 회식 너무 많다",
+      "tokens": [
+        "우리",
+        "회사",
+        "회식",
+        "너무",
+        "많",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 그렇겠지 ㅜㅜ",
+      "tokens": [
+        "키키그렇겠지ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "극혐이다",
+      "tokens": [
+        "극혐이다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리 오빠 회사는 잦은 야근...",
+      "tokens": [
+        "우리",
+        "오빠",
+        "회사",
+        "는",
+        "잦",
+        "은",
+        "야근",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "야근 이제 못함 52시간제 떄문에",
+      "tokens": [
+        "야근",
+        "이제",
+        "못",
+        "함",
+        "ETN",
+        "52",
+        "시간",
+        "제떄",
+        "문",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 그런 거 안 함 야근",
+      "tokens": [
+        "난",
+        "JX",
+        "그런",
+        "거",
+        "안",
+        "함",
+        "ETN",
+        "야근"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그래서 좋다",
+      "tokens": [
+        "그래서",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아니 ** 너 말야",
+      "tokens": [
+        "아니",
+        "*",
+        "*",
+        "너",
+        "말",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거 하면 사업장 중지 당한다",
+      "tokens": [
+        "그거",
+        "하",
+        "면",
+        "사업장",
+        "중지",
+        "당한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 거기 야근 많이 하는 곳이군",
+      "tokens": [
+        "아",
+        "거기",
+        "야",
+        "EF",
+        "근",
+        "JX",
+        "많이",
+        "하",
+        "는",
+        "곳",
+        "이",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 야근 없구나 개꿀!",
+      "tokens": [
+        "아",
+        "야근",
+        "없",
+        "구나",
+        "개꿀"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "학원은 10시까지잖아",
+      "tokens": [
+        "학원",
+        "은",
+        "10",
+        "시",
+        "까지",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "뭐래",
+      "tokens": [
+        "뭐",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 7시면 칼퇴지 키키",
+      "tokens": [
+        "나",
+        "7",
+        "시면칼퇴지키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 완전 야근 많아...",
+      "tokens": [
+        "아",
+        "완전",
+        "야근",
+        "많",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그거 어기면 바로 노동청 조사임",
+      "tokens": [
+        "그거",
+        "어기",
+        "면",
+        "바로",
+        "노동청",
+        "조사",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그니까 ㅜㅜ 넘좋아 그런 건",
+      "tokens": [
+        "그니까",
+        "ㅜㅜ",
+        "넘",
+        "좋아",
+        "그런",
+        "건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "주 52시간 아무도 안 지킴",
+      "tokens": [
+        "주",
+        "52",
+        "시간",
+        "아무",
+        "도",
+        "안",
+        "지킴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "노동법이 얼마나 무섭다구",
+      "tokens": [
+        "노동법",
+        "이",
+        "얼마나",
+        "무섭",
+        "다구"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "야근 많은 직장은 안 가지",
+      "tokens": [
+        "야근",
+        "많",
+        "은",
+        "직장",
+        "은",
+        "안",
+        "가",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

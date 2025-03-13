@@ -1,0 +1,433 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 야식으로 족발을 먹을꺼야",
+      "tokens": [
+        "난",
+        "JX",
+        "야식",
+        "으로",
+        "족발",
+        "을",
+        "먹",
+        "을",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 야식으로 김밥을 먹을거야",
+      "tokens": [
+        "나",
+        "는",
+        "야식",
+        "으로",
+        "김밥",
+        "을",
+        "먹",
+        "을",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "족발은 반반이 진리야",
+      "tokens": [
+        "족발",
+        "은",
+        "반반",
+        "이",
+        "진리",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "야식에는 치킨이 대박인데",
+      "tokens": [
+        "야식",
+        "에",
+        "는",
+        "치킨",
+        "이",
+        "대박",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "불족은 진짜 맛있어",
+      "tokens": [
+        "불",
+        "족",
+        "은",
+        "진짜",
+        "맛있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "불족은 진짜 인생 음식이야",
+      "tokens": [
+        "불",
+        "족",
+        "은",
+        "진짜",
+        "인생",
+        "음식",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "불족 진짜 너무 좋아 키키",
+      "tokens": [
+        "불",
+        "족",
+        "진짜",
+        "너무",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 그냥 족발도 불족소스에 발라막어",
+      "tokens": [
+        "난",
+        "JX",
+        "그냥",
+        "족발",
+        "도",
+        "불",
+        "족",
+        "소스",
+        "에",
+        "발라",
+        "EC",
+        "막",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 내일은 뭐먹지 고민이야",
+      "tokens": [
+        "키",
+        "키",
+        "내일",
+        "은",
+        "뭐",
+        "먹",
+        "지",
+        "고민",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "매일 무얼 먹을지 고민하는건 행복해",
+      "tokens": [
+        "매일",
+        "무얼",
+        "JKO",
+        "먹",
+        "을지",
+        "고민",
+        "하",
+        "는",
+        "건",
+        "JX",
+        "행복",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너희 혹시 새우대가리 튀겨먹어봤니?",
+      "tokens": [
+        "너희",
+        "혹시",
+        "새우",
+        "대가리",
+        "튀겨",
+        "EC",
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 새우대가리 너무 맛있지",
+      "tokens": [
+        "키",
+        "키",
+        "새우",
+        "대가리",
+        "너무",
+        "맛있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "새우대가리 진짜 너무 맛있어",
+      "tokens": [
+        "새우",
+        "대가리",
+        "진짜",
+        "너무",
+        "맛있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "버터랑 해서 솨악 튀겨먹으면 진짜 맛있어 키키",
+      "tokens": [
+        "버터",
+        "랑",
+        "해서",
+        "EC",
+        "솨",
+        "악",
+        "튀겨",
+        "EC",
+        "먹",
+        "으면",
+        "진짜",
+        "맛있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "새우구이는 진짜 맛있어 하하",
+      "tokens": [
+        "새우구이",
+        "는",
+        "진짜",
+        "맛있",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "새우철일때 많이 먹어줘야 하는데",
+      "tokens": [
+        "새",
+        "우철",
+        "일",
+        "때",
+        "많이",
+        "먹",
+        "어",
+        "줘야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "조개구이 + 새우랑 소주먹고싶다",
+      "tokens": [
+        "조개",
+        "구이",
+        "",
+        "",
+        "새",
+        "우랑",
+        "소주",
+        "먹",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "새우 먹고싶네 갑자기 ㅠㅠ",
+      "tokens": [
+        "새우",
+        "먹",
+        "고",
+        "싶",
+        "네",
+        "갑자기",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "새우에는 무조건 음료수지",
+      "tokens": [
+        "새우",
+        "에",
+        "는",
+        "무조건",
+        "음료",
+        "수지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "정말 배고파 갑자기",
+      "tokens": [
+        "정말",
+        "배고파",
+        "EC",
+        "갑자기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

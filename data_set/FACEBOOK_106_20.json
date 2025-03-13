@@ -1,0 +1,435 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 어렸을 때 어떤 만화 봤어?",
+      "tokens": [
+        "언니",
+        "는",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "어떤",
+        "만화",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 카드캡처 체리?",
+      "tokens": [
+        "나",
+        "는",
+        "카드",
+        "캡처",
+        "체리"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "달빛천사?",
+      "tokens": [
+        "달빛천사"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아, 그것들 완전 띵작이지!",
+      "tokens": [
+        "아",
+        ",",
+        "그것",
+        "들",
+        "완전",
+        "띵",
+        "작",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 만화 진짜 많이 봤어",
+      "tokens": [
+        "난만",
+        "화",
+        "진짜",
+        "많이",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜?",
+      "tokens": [
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그러면 언니 이누야사도 봤겠네?",
+      "tokens": [
+        "그러면",
+        "언니",
+        "이",
+        "누",
+        "야사",
+        "도",
+        "봤",
+        "EP",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "이누야샤 진짜 정주행도 할 수 있어",
+      "tokens": [
+        "이누야샤",
+        "진짜",
+        "정주",
+        "행도",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "지금 이누야사 자식들이 나와서 하는 애니 알아?",
+      "tokens": [
+        "지금",
+        "이",
+        "누",
+        "야사",
+        "자식",
+        "들",
+        "이",
+        "나와서",
+        "EC",
+        "하",
+        "는",
+        "애",
+        "니",
+        "EC",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엉?",
+      "tokens": [
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이누야샤?",
+      "tokens": [
+        "이누야샤"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "마지막 회도 기억 안 나는데?",
+      "tokens": [
+        "마지막",
+        "회도",
+        "기억",
+        "안",
+        "나",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "지금 반요의 야사히매라고 있어!",
+      "tokens": [
+        "지금",
+        "반요",
+        "의",
+        "야",
+        "사히",
+        "매",
+        "라고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "와 대박 진짜?",
+      "tokens": [
+        "와",
+        "대박",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "넷플에 있었음 재밌겠다",
+      "tokens": [
+        "넷",
+        "플",
+        "에",
+        "있",
+        "었",
+        "음",
+        "재밌",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 넷플에 이누야샤는 있더라!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "넷",
+        "플",
+        "에",
+        "이누야샤",
+        "는",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그거 봐봐!",
+      "tokens": [
+        "그거",
+        "봐",
+        "EC",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "이누야샤 처음부터 끝까지 다 있어?",
+      "tokens": [
+        "이누야샤",
+        "처음",
+        "부터",
+        "끝",
+        "까지",
+        "다",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 어 있어!",
+      "tokens": [
+        "키",
+        "키",
+        "어",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나 그걸로 결말까지 다 봤잖아!",
+      "tokens": [
+        "나",
+        "그걸로",
+        "JKB",
+        "결말",
+        "까지",
+        "다",
+        "봤",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "와 추억 회상 할래 키키 나 결말 볼래",
+      "tokens": [
+        "와",
+        "추억",
+        "회상",
+        "할래",
+        "EC",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "결말",
+        "볼래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 어 나 마지막에 울었어 ㅜㅜ 눈물",
+      "tokens": [
+        "키",
+        "키어",
+        "나",
+        "마지막",
+        "에",
+        "울",
+        "었",
+        "어",
+        "ㅜㅜ",
+        "눈물"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "진짜 그거 많이 울어...",
+      "tokens": [
+        "진짜",
+        "그거",
+        "많이",
+        "울",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 비행기 타고 어디 어디 가봤어?",
+      "tokens": [
+        "언니",
+        "는",
+        "비행기",
+        "타",
+        "고",
+        "어디",
+        "어디",
+        "가",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 국내, 해외 다 가봤지!",
+      "tokens": [
+        "나",
+        "는",
+        "국내",
+        ",",
+        "해외",
+        "다가",
+        "EC",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오 비행기로 국내는 어디에서 어디로 갔었어?",
+      "tokens": [
+        "오",
+        "비행기",
+        "로",
+        "국내",
+        "는",
+        "어디",
+        "에서",
+        "어디",
+        "로",
+        "갔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "국내는 서울, 제주도, 울산?",
+      "tokens": [
+        "국내",
+        "는",
+        "서울",
+        ",",
+        "제주도",
+        ",",
+        "울산"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "울산? 부산에서 울산 가는 비행기도 있어?",
+      "tokens": [
+        "울산",
+        "?",
+        "부산",
+        "에서",
+        "울산",
+        "가",
+        "는",
+        "비행기",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 그때 서울에서 출발했었어 키키",
+      "tokens": [
+        "아니",
+        "그때",
+        "서울",
+        "에서",
+        "출발",
+        "했었",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "울산에도 공항이 있는 거 몰랐음!",
+      "tokens": [
+        "울산",
+        "에",
+        "도",
+        "공항",
+        "이",
+        "있",
+        "는",
+        "거",
+        "몰랐",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그러니까 나도 처음 알았어 그 때 키키",
+      "tokens": [
+        "그러니까",
+        "나",
+        "도",
+        "처음",
+        "알",
+        "았",
+        "어",
+        "그때",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "서울에서 울산까지 몇 시간 걸려?",
+      "tokens": [
+        "서울",
+        "에서",
+        "울산",
+        "까지",
+        "몇",
+        "시간",
+        "걸려",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "거의 40분 정도? 걸리더라",
+      "tokens": [
+        "거의",
+        "40",
+        "분",
+        "정도",
+        "걸리",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "비행기가 있으니까 엄청 편한 거 같아!",
+      "tokens": [
+        "비행기",
+        "가",
+        "있",
+        "으니까",
+        "엄청",
+        "편한",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 그 이후로 기차는 안 타는 거 같아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "그",
+        "이후",
+        "로",
+        "기차",
+        "는",
+        "안",
+        "타",
+        "는",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 맞아 나는 한 번도 안 탔는데 12월에 한 번 타보려고!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "나",
+        "는",
+        "한",
+        "번",
+        "도",
+        "안",
+        "탔",
+        "EP",
+        "는데",
+        "12",
+        "월",
+        "에",
+        "한",
+        "번",
+        "타",
+        "EC",
+        "보",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "비행기 타면 진짜 신세계일 걸?",
+      "tokens": [
+        "비행기",
+        "타",
+        "면",
+        "진짜",
+        "신세계",
+        "일걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 서울에서 부산까지 한 번 가보고 싶어!",
+      "tokens": [
+        "나",
+        "서울",
+        "에서",
+        "부산",
+        "까지",
+        "한",
+        "번",
+        "가",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "다음에 비행기 타고 부산 놀러 와!",
+      "tokens": [
+        "다음",
+        "에",
+        "비행기",
+        "타",
+        "고",
+        "부산",
+        "놀러와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

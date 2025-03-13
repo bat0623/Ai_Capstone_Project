@@ -1,0 +1,372 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 게임 중독 치료 받아야 할 듯",
+      "tokens": [
+        "나",
+        "게임",
+        "중독",
+        "치료",
+        "받",
+        "아야",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "진짜 어떤 정도 길래",
+      "tokens": [
+        "진짜",
+        "어떤",
+        "정도",
+        "길래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "앜 키키 그정도 아니잖아 키키",
+      "tokens": [
+        "앜키",
+        "키",
+        "그",
+        "정도",
+        "아니",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이거 병이래...",
+      "tokens": [
+        "이거",
+        "병",
+        "이",
+        "래",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "찾아보니까",
+      "tokens": [
+        "찾아보",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 애니팡이 그 정도라구요?",
+      "tokens": [
+        "키키",
+        "애니팡",
+        "이",
+        "그",
+        "정도",
+        "라구요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "왜 증상이 뭔데?",
+      "tokens": [
+        "왜",
+        "증상",
+        "이",
+        "뭔데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아냐",
+      "tokens": [
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 심각해...",
+      "tokens": [
+        "나",
+        "심각",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "잠을 안자고 혹시",
+      "tokens": [
+        "잠",
+        "을",
+        "안",
+        "자",
+        "고",
+        "혹시"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "왜 밤에 잠을 안 잠?",
+      "tokens": [
+        "왜",
+        "밤",
+        "에",
+        "잠",
+        "을",
+        "안잠"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "눈만 감아도 생각나...",
+      "tokens": [
+        "눈",
+        "만",
+        "감",
+        "아도",
+        "생각나",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "게임만 계속 하는 거...?",
+      "tokens": [
+        "게임",
+        "만",
+        "계속",
+        "하",
+        "는",
+        "거",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그러면 치료 받으러 가볼래? ㄷㄷ",
+      "tokens": [
+        "그러면",
+        "치료",
+        "받",
+        "으러",
+        "가",
+        "볼래",
+        "VX",
+        "EF",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "밤에 잠도 잘 안 오구...",
+      "tokens": [
+        "밤",
+        "에",
+        "잠",
+        "도",
+        "잘",
+        "안",
+        "오",
+        "구",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아니...",
+      "tokens": [
+        "아니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그 정도면 치료 받아야",
+      "tokens": [
+        "그",
+        "정도",
+        "면",
+        "EC",
+        "치료",
+        "받",
+        "아야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어디 병원을 가야 하나",
+      "tokens": [
+        "어디",
+        "병원",
+        "을",
+        "가",
+        "야",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 나 치료 받아야 할 거 같아",
+      "tokens": [
+        "응",
+        "나",
+        "치료",
+        "받",
+        "아야",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 할 정도 맞는 듯...",
+      "tokens": [
+        "키",
+        "키",
+        "할",
+        "ETM",
+        "정도",
+        "맞",
+        "는",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "정신과를 가야 함?",
+      "tokens": [
+        "정신과",
+        "를",
+        "가",
+        "야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

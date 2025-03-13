@@ -1,0 +1,382 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 낚시 가자 담주에",
+      "tokens": [
+        "우리",
+        "낚시",
+        "가",
+        "자담",
+        "주",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 펜싱 다니자 다 같이",
+      "tokens": [
+        "우리",
+        "펜싱",
+        "다니",
+        "자",
+        "다",
+        "같이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "낚시 좋지!",
+      "tokens": [
+        "낚시",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 사람 낚는 어부가 되고 싶어",
+      "tokens": [
+        "난",
+        "JX",
+        "사람",
+        "낚",
+        "는",
+        "어부",
+        "가",
+        "되",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 낚시가 너무 좋더라구 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "낚시",
+        "가",
+        "너무",
+        "좋",
+        "더라구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "낚시는 너무 재미없어",
+      "tokens": [
+        "낚시",
+        "는",
+        "너무",
+        "재미없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "낚시는 부자들의 스포츠래",
+      "tokens": [
+        "낚시",
+        "는",
+        "부자",
+        "들",
+        "의",
+        "스포츠",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "낚시는 세월을 낚을 수 있잖아",
+      "tokens": [
+        "낚시",
+        "는",
+        "세월",
+        "을",
+        "낚",
+        "을",
+        "수",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "사람을 낚는 니가 멋쟁이야",
+      "tokens": [
+        "사람",
+        "을",
+        "낚",
+        "는",
+        "니",
+        "가",
+        "멋쟁이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 부자가 될 거니까 미리 배워둘려고",
+      "tokens": [
+        "난부자",
+        "가",
+        "될",
+        "ETM",
+        "거",
+        "니까",
+        "EC",
+        "미리",
+        "배워",
+        "EC",
+        "둘려고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "가서 라면도 먹고 고기도 먹자",
+      "tokens": [
+        "가",
+        "서",
+        "라면",
+        "도",
+        "먹",
+        "고",
+        "고기",
+        "도",
+        "먹",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "세월을 낚는 사람들 보면 주름 투성이야",
+      "tokens": [
+        "세월",
+        "을",
+        "낚",
+        "는",
+        "사람",
+        "들",
+        "보",
+        "면",
+        "주름투성이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "낚시는 거기서 직접 회 떠먹는 게 최고야",
+      "tokens": [
+        "낚시",
+        "는",
+        "거기",
+        "서",
+        "직접",
+        "회",
+        "떠먹",
+        "는",
+        "게",
+        "JKS",
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그리고 회도 같이 먹자구 키키",
+      "tokens": [
+        "그리고",
+        "회도",
+        "같이",
+        "먹",
+        "자구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "라면 고기는 정말 맛있겠다",
+      "tokens": [
+        "라면",
+        "고기",
+        "는",
+        "정말",
+        "맛있",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "내가 회 야무지게 썰거든 기대해도 좋아",
+      "tokens": [
+        "내",
+        "JKG",
+        "가회",
+        "야무지",
+        "게",
+        "썰",
+        "ETM",
+        "거",
+        "든",
+        "EC",
+        "기대",
+        "해도",
+        "EC",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "회 야무지게 먹어보자구 키키",
+      "tokens": [
+        "회",
+        "야무지",
+        "게",
+        "먹",
+        "어",
+        "보",
+        "자구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "낚시 정말 재밌겠다 꼭 가자 우리",
+      "tokens": [
+        "낚시",
+        "정말",
+        "재밌",
+        "겠",
+        "다",
+        "꼭",
+        "가",
+        "자",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "매운탕 끓일 줄 아는 사람?",
+      "tokens": [
+        "매운탕",
+        "끓일",
+        "ETM",
+        "줄",
+        "아",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

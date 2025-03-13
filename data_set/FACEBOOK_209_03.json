@@ -1,0 +1,364 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 교통도 넘넘넘 중요해...",
+      "tokens": [
+        "아교통도넘넘넘중요해",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아...",
+      "tokens": [
+        "맞",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "교통 진짜 중요 ㅠㅠ",
+      "tokens": [
+        "교통진짜중요ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "교통이 집값의 핵심 요소임",
+      "tokens": [
+        "교통",
+        "이",
+        "집값",
+        "의",
+        "핵심",
+        "요소",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "역세권!",
+      "tokens": [
+        "역세",
+        "권"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "교통 불편하면 진짜... ㅠㅠ",
+      "tokens": [
+        "교통",
+        "불편",
+        "하",
+        "면",
+        "진짜",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뚜벅이면 더 중요해 ㅠ",
+      "tokens": [
+        "뚜벅",
+        "이",
+        "면",
+        "더",
+        "중요",
+        "해",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "역세권은 3억씩 프리미엄임",
+      "tokens": [
+        "역세",
+        "권",
+        "은",
+        "3",
+        "억",
+        "씩",
+        "프리미엄",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "어딜 갈 수가 없어...",
+      "tokens": [
+        "어딜",
+        "JKO",
+        "갈",
+        "ETM",
+        "수",
+        "가",
+        "없",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "요즘 진짜 내 차 갖고 싶당...",
+      "tokens": [
+        "요즘",
+        "진짜",
+        "내",
+        "JKG",
+        "차",
+        "갖",
+        "고",
+        "싶",
+        "당",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "서울 우리 집 앞은 더 그래",
+      "tokens": [
+        "서울",
+        "우리",
+        "집",
+        "앞",
+        "은",
+        "더",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 어디 안 가게 된당",
+      "tokens": [
+        "근데",
+        "어디",
+        "안",
+        "가",
+        "게",
+        "된",
+        "ETM",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "어머나 역세권 진짜 비싸",
+      "tokens": [
+        "어머나",
+        "역세",
+        "권",
+        "진짜",
+        "비싸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "벌써 7억 올랐다",
+      "tokens": [
+        "벌써",
+        "7",
+        "억",
+        "올랐",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 내 차 갖고 싶어 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "내",
+        "JKG",
+        "차",
+        "갖",
+        "고",
+        "싶",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "헉 7억? 부럽다 집값...",
+      "tokens": [
+        "헉",
+        "7",
+        "억",
+        "부럽",
+        "다",
+        "집값",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오피스텔은 더 해",
+      "tokens": [
+        "오피스텔",
+        "은",
+        "더",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "역세권은 진주가 큰 의미가 있나...?",
+      "tokens": [
+        "역세",
+        "권",
+        "은",
+        "진주",
+        "가",
+        "큰",
+        "ETM",
+        "의미",
+        "가",
+        "있",
+        "나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "내차 진짜 편리한 듯 ㅠㅠ",
+      "tokens": [
+        "내",
+        "JKG",
+        "차",
+        "진짜",
+        "편리",
+        "한",
+        "ETM",
+        "듯",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "돈 아껴라 제발 ㅠㅠ  안된다",
+      "tokens": [
+        "돈",
+        "아껴라",
+        "EC",
+        "제발",
+        "ㅠㅠ",
+        "안",
+        "된다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

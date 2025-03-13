@@ -1,0 +1,419 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 벅수 죽으면 우울증 걸릴 꺼 같음...",
+      "tokens": [
+        "나벅수죽으면우울증걸릴꺼같음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우울증 걸림 안되지 하하",
+      "tokens": [
+        "우울증",
+        "걸림",
+        "ETN",
+        "안",
+        "되",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벅수 몇 살이야 지금 ㅜㅜ",
+      "tokens": [
+        "벅수",
+        "몇",
+        "살",
+        "이야",
+        "지금",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "생각만 해도 진짜 슬퍼",
+      "tokens": [
+        "생각",
+        "만",
+        "해도",
+        "EC",
+        "진짜",
+        "슬퍼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그럼 벅수도 슬퍼할 꺼야",
+      "tokens": [
+        "그럼",
+        "벅수",
+        "도",
+        "슬퍼",
+        "EC",
+        "할꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그래 넘 슬픈데 ㅜㅜㅜ",
+      "tokens": [
+        "그래",
+        "넘",
+        "슬픈",
+        "ETM",
+        "데ㅜ",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "벅수 지금 7살이야",
+      "tokens": [
+        "벅수",
+        "지금",
+        "7",
+        "살",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내년에 8살",
+      "tokens": [
+        "내년",
+        "에",
+        "8",
+        "살"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "너가 웃으며 사는 걸 원해 벅수는",
+      "tokens": [
+        "너",
+        "가",
+        "웃",
+        "으며",
+        "사",
+        "는",
+        "걸",
+        "JKO",
+        "원해",
+        "EC",
+        "벅수",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아아 그 종은 몇 살까지 살지 ㅜㅜㅜ",
+      "tokens": [
+        "아아",
+        "그",
+        "종",
+        "은",
+        "몇",
+        "살",
+        "까지",
+        "살",
+        "지",
+        "ㅜ",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "벅수 죽으면 어떡해",
+      "tokens": [
+        "벅수",
+        "죽",
+        "으면",
+        "어떡",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "벅수는 그런 아이야",
+      "tokens": [
+        "벅수",
+        "는",
+        "그런",
+        "아이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "너 생각만 하는 바보",
+      "tokens": [
+        "너",
+        "생각",
+        "만",
+        "하",
+        "는",
+        "바보"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래 ㅜㅜ",
+      "tokens": [
+        "그래ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 너무 슬플 듯",
+      "tokens": [
+        "근데",
+        "너무",
+        "슬플",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내 동생이야 벅수는",
+      "tokens": [
+        "내",
+        "JKG",
+        "동생",
+        "이",
+        "야",
+        "벅수",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그니까 벅수 죽어도 행복하렴",
+      "tokens": [
+        "그니까",
+        "벅수",
+        "죽",
+        "어도",
+        "행복",
+        "하",
+        "렴"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "가족이자나 ㅜㅜ",
+      "tokens": [
+        "가족이자나ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "없으면 넘 슬퍼",
+      "tokens": [
+        "없",
+        "으면",
+        "넘",
+        "슬퍼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그런 말 하면 더 슬픔",
+      "tokens": [
+        "그런",
+        "말",
+        "하",
+        "면",
+        "더",
+        "슬픔"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그걸 벅수도 바라고 있어",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "벅수",
+        "도",
+        "바라",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "말하지 말자",
+      "tokens": [
+        "말",
+        "하",
+        "지",
+        "말",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "슬프다",
+      "tokens": [
+        "슬프",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

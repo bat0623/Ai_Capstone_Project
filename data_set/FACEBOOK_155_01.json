@@ -1,0 +1,388 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "커피는 항상 부족해...",
+      "tokens": [
+        "커피",
+        "는",
+        "항상",
+        "부족",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "커피는 먹어도 먹어도",
+      "tokens": [
+        "커피",
+        "는",
+        "먹",
+        "어도",
+        "먹",
+        "어도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 자꾸 더 마셔 ㅜㅜ",
+      "tokens": [
+        "나자꾸더마셔ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오늘 벌써 두 잔 마심...",
+      "tokens": [
+        "오늘",
+        "벌써",
+        "두",
+        "잔",
+        "마심",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뭔가 계속 땡기는 기분...",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "계속",
+        "땡기",
+        "는",
+        "기분",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "계속 마시면 안되는 딩",
+      "tokens": [
+        "계속",
+        "마시",
+        "면",
+        "안",
+        "되",
+        "는",
+        "딩"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "커피는 자꾸 마시고 싶어",
+      "tokens": [
+        "커피",
+        "는",
+        "자꾸",
+        "마시",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "양이 점점 늘어...",
+      "tokens": [
+        "양",
+        "이",
+        "점점",
+        "늘",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 중독됨 키키",
+      "tokens": [
+        "나중",
+        "독",
+        "됨",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "자꾸 마시고 싶네...?",
+      "tokens": [
+        "자꾸",
+        "마시",
+        "고",
+        "싶",
+        "네",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아요 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 계속 마시고 싶은...",
+      "tokens": [
+        "진짜",
+        "계속",
+        "마시",
+        "고",
+        "싶",
+        "은",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 우리 집 오면 내려줌 키키",
+      "tokens": [
+        "나",
+        "도",
+        "우리",
+        "집",
+        "오",
+        "면",
+        "내려",
+        "줌",
+        "VX",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "** 요즘 몇 잔 마셔?",
+      "tokens": [
+        "*",
+        "*",
+        "요즘",
+        "몇",
+        "잔",
+        "마셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "잠도 이제 잘 와서 맨날 먹는...",
+      "tokens": [
+        "잠",
+        "도",
+        "이제",
+        "잘",
+        "와서",
+        "EC",
+        "맨날",
+        "먹",
+        "는",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 두 잔까지는 마셔 키키",
+      "tokens": [
+        "나",
+        "두",
+        "잔",
+        "까지",
+        "는",
+        "마셔",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "이제 커피 마실 수 있음?",
+      "tokens": [
+        "이제",
+        "커피",
+        "마실",
+        "ETM",
+        "수",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "누나 집 가면 내려주나여 키키",
+      "tokens": [
+        "누나",
+        "집",
+        "가",
+        "면",
+        "내려",
+        "EC",
+        "주",
+        "나",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 이제 한잔만 마셔야징 키키",
+      "tokens": [
+        "근데",
+        "이제",
+        "한잔",
+        "만",
+        "마셔야",
+        "EC",
+        "징",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

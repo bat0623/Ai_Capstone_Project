@@ -1,0 +1,434 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 몸에 문신 같은 거 했어?",
+      "tokens": [
+        "너",
+        "는",
+        "몸",
+        "에",
+        "문신",
+        "같",
+        "은",
+        "거",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니 안 해봤는데 해보고 싶어",
+      "tokens": [
+        "아니",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "는데",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어느  부위에 하고 싶은데?",
+      "tokens": [
+        "어느",
+        "부위",
+        "에",
+        "하",
+        "고",
+        "싶",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 발목에 작게 해보고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "발목",
+        "에",
+        "작",
+        "게",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 발목에 하면 엄청 아프대!",
+      "tokens": [
+        "근데",
+        "발목",
+        "에",
+        "하",
+        "면",
+        "엄청",
+        "아프",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뼈랑 가까울 수록 아프다는데 이쁠 거 같아",
+      "tokens": [
+        "뼈",
+        "랑",
+        "가까울수록",
+        "EC",
+        "아프",
+        "다는",
+        "데",
+        "이쁠",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내 친구 발목에 장미 한 송이 그렸는데 눈물 흘렸대 키키",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "발목",
+        "에",
+        "장미",
+        "한",
+        "ETM",
+        "송이",
+        "그렸",
+        "EP",
+        "는데",
+        "눈물",
+        "흘렸",
+        "EP",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 레터링으로 해보고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "레터링",
+        "으로",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "레터링은 문구 생각해 놓은 거 있어?",
+      "tokens": [
+        "레터링",
+        "은",
+        "문구",
+        "생각",
+        "해",
+        "EC",
+        "놓",
+        "은",
+        "거",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아직 찾아보는 중이야",
+      "tokens": [
+        "아직",
+        "찾아보",
+        "는",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "부모님한테 허락은 받고 하는 거지?",
+      "tokens": [
+        "부모",
+        "님",
+        "한테",
+        "허락",
+        "은",
+        "받",
+        "고",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "당연하지",
+      "tokens": [
+        "당연",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "선타투 후뚜 맞은 위험해",
+      "tokens": [
+        "선",
+        "타투",
+        "후",
+        "뚜",
+        "맞",
+        "은",
+        "위험",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 금액은 얼마 정도로 생각하고 있어?",
+      "tokens": [
+        "키",
+        "키",
+        "금액",
+        "은",
+        "얼마",
+        "정도",
+        "로",
+        "생각",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "한 30만 원 정도?",
+      "tokens": [
+        "한",
+        "30",
+        "만",
+        "원",
+        "정도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "괜찮지 않을까?",
+      "tokens": [
+        "괜찮",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "대전 가면 싸고 예쁘게 해 주는 곳 있는데 거기 한번 가 봐!",
+      "tokens": [
+        "대전",
+        "가",
+        "면",
+        "싸",
+        "고",
+        "예쁘",
+        "게",
+        "해",
+        "EC",
+        "주",
+        "는",
+        "곳",
+        "있",
+        "는데",
+        "거기",
+        "한번",
+        "가",
+        "EC",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아 정말?",
+      "tokens": [
+        "아",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "요즘 타투 비싸긴 하더라",
+      "tokens": [
+        "요즘",
+        "타투",
+        "비싸",
+        "긴",
+        "JX",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

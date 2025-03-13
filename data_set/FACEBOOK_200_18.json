@@ -1,0 +1,494 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "발난로 아니고...",
+      "tokens": [
+        "발난",
+        "로",
+        "아니",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "세우는 거 있는 데 왕왕 강추",
+      "tokens": [
+        "세우",
+        "는",
+        "거",
+        "있",
+        "는데",
+        "왕왕",
+        "강추"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 아아 진짜",
+      "tokens": [
+        "키키",
+        "아아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그건 뭐야",
+      "tokens": [
+        "그건",
+        "JX",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오 ... 그거도 있던데",
+      "tokens": [
+        "오",
+        ".",
+        "그거",
+        "도",
+        "있",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "발 완전 덮어주는 거",
+      "tokens": [
+        "발",
+        "완전",
+        "덮",
+        "어",
+        "주",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "불날 일도 없고 완전 따심",
+      "tokens": [
+        "불",
+        "날일",
+        "도",
+        "없",
+        "고",
+        "완전",
+        "따",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어디서 사는건데",
+      "tokens": [
+        "어디",
+        "서",
+        "사",
+        "는",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 살래 키키",
+      "tokens": [
+        "나",
+        "도",
+        "살래",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "유에스비 연결해서 쓰던데",
+      "tokens": [
+        "유에스",
+        "비",
+        "연결",
+        "해서",
+        "EC",
+        "쓰",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "책상 밑에 탁 세우는 거임!",
+      "tokens": [
+        "책상",
+        "밑",
+        "에",
+        "탁",
+        "세우",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아아 전기로 하는그런 거가 키키",
+      "tokens": [
+        "아아",
+        "전기",
+        "로",
+        "하",
+        "는",
+        "그런",
+        "거",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 본 거 같다",
+      "tokens": [
+        "아",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "판때기?",
+      "tokens": [
+        "판때기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "알았어",
+      "tokens": [
+        "알",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "링크 보내 드림",
+      "tokens": [
+        "링크",
+        "보내",
+        "EC",
+        "드림",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아아 나도 작은 거는 있다",
+      "tokens": [
+        "아아나",
+        "도",
+        "작",
+        "은",
+        "거",
+        "는",
+        "있",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "발가락 용 키키",
+      "tokens": [
+        "발가락",
+        "용",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "판때기 3단으로 접어놓고 그랬던 거 같은데",
+      "tokens": [
+        "판때기",
+        "3",
+        "단",
+        "으로",
+        "접어놓",
+        "고",
+        "그랬",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "엉 전기로 하는 거임!",
+      "tokens": [
+        "엉",
+        "전기",
+        "로",
+        "하",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "발꾸락 아냐 ㅠ",
+      "tokens": [
+        "발꾸락아냐ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "오케 링크 보내줘",
+      "tokens": [
+        "오케",
+        "링크",
+        "보내",
+        "줘",
+        "VV",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "또 구매해 본다",
+      "tokens": [
+        "또",
+        "구매",
+        "해본다",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "나 손발 되게 시려서 그런 거 엄청 찾아봄",
+      "tokens": [
+        "나",
+        "손발",
+        "되게",
+        "시려서",
+        "EC",
+        "그런",
+        "거",
+        "엄청",
+        "찾",
+        "아",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "맞아맞아",
+      "tokens": [
+        "맞",
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "그거 맞는 듯!",
+      "tokens": [
+        "그거",
+        "맞",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "키키 웅 나도 있음",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "웅",
+        "나",
+        "도",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "샤오민가 거기서도 나오는 거 같던데",
+      "tokens": [
+        "샤오",
+        "민가",
+        "거기",
+        "서",
+        "도",
+        "나오",
+        "는",
+        "거",
+        "같",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

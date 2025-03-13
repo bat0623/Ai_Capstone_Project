@@ -1,0 +1,424 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "건강한 음식 섭취가 중요한 거 같아",
+      "tokens": [
+        "건강",
+        "한",
+        "ETM",
+        "음식",
+        "섭취",
+        "가",
+        "중요",
+        "한",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "음식도 잘 챙겨 먹어야 해",
+      "tokens": [
+        "음식",
+        "도",
+        "잘",
+        "챙겨",
+        "EC",
+        "먹",
+        "어야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘은 진짜 영양소 골고루",
+      "tokens": [
+        "요즘",
+        "은",
+        "진짜",
+        "영양소",
+        "골고루"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 할매랑 살 때는 매일이 건강한 음식이었는데...",
+      "tokens": [
+        "우리",
+        "할매",
+        "랑",
+        "살",
+        "ETM",
+        "때",
+        "는",
+        "매일",
+        "이건",
+        "JX",
+        "강한",
+        "ETM",
+        "음식",
+        "이",
+        "었",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너무 안 먹는 거도 안 되고 많이도 안 되고",
+      "tokens": [
+        "너무",
+        "안",
+        "먹",
+        "는",
+        "거",
+        "도",
+        "안",
+        "되",
+        "고",
+        "많이",
+        "도",
+        "안",
+        "되",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "잘 섭취하는 게 제일 중요해",
+      "tokens": [
+        "잘",
+        "섭취",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "제일",
+        "중요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리 할매는 항상 생선에 나물!",
+      "tokens": [
+        "우리",
+        "할매",
+        "는",
+        "항상",
+        "생선",
+        "에",
+        "나물"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "어르신들이 좋은 거 잘 챙겨 주셔",
+      "tokens": [
+        "어르신",
+        "들",
+        "이",
+        "좋",
+        "은",
+        "거",
+        "잘",
+        "챙겨",
+        "EC",
+        "주",
+        "셔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "할머니는 밥도 잘 챙겨 먹으라 하고 키키",
+      "tokens": [
+        "할머니",
+        "는",
+        "밥",
+        "도",
+        "잘",
+        "챙겨",
+        "EC",
+        "먹",
+        "으라",
+        "하",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니면 고기 반찬에 나물!",
+      "tokens": [
+        "아니면",
+        "고기반찬",
+        "에",
+        "나물"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "국물!",
+      "tokens": [
+        "국물"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 고기 반찬 너무 좋지",
+      "tokens": [
+        "키",
+        "키",
+        "고기반찬",
+        "너무",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "건강한 식단이라서 좋은데",
+      "tokens": [
+        "건강",
+        "한",
+        "ETM",
+        "식단",
+        "이",
+        "라서",
+        "좋",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "어른들은 참 음식을 건강하게 드셔",
+      "tokens": [
+        "어른",
+        "들",
+        "은",
+        "참",
+        "음식",
+        "을",
+        "건강",
+        "하",
+        "게",
+        "드셔",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우리보다 더 잘 아셔",
+      "tokens": [
+        "우리",
+        "보다",
+        "더",
+        "잘",
+        "아셔"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "밖에서 사니까 외식이 너무 많아서 ㅠㅠ",
+      "tokens": [
+        "밖",
+        "에서",
+        "사",
+        "니까",
+        "외식",
+        "이",
+        "너무",
+        "많",
+        "아서",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "햄버거 못 먹게 하잖아 할모니들은",
+      "tokens": [
+        "햄버거",
+        "못",
+        "먹",
+        "게",
+        "하",
+        "잖아",
+        "할",
+        "ETM",
+        "모니",
+        "들",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "싫어하시지 심지어",
+      "tokens": [
+        "싫",
+        "어",
+        "하",
+        "시",
+        "지",
+        "심지어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아니면 배달... 이거나",
+      "tokens": [
+        "아니면",
+        "배달",
+        ".",
+        ".",
+        "이거",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

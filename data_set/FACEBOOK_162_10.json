@@ -1,0 +1,381 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "헬스 열심히  가심?",
+      "tokens": [
+        "헬스",
+        "열심히",
+        "가심"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어제도 잠깐 갔지? 키키",
+      "tokens": [
+        "어제",
+        "도",
+        "잠깐",
+        "갔",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니... 요새 안간지 꽤 됐다",
+      "tokens": [
+        "아니",
+        ".",
+        "요새",
+        "안",
+        "간지",
+        "EC",
+        "꽤",
+        "됐",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "헬스는 평생 할꺼임?",
+      "tokens": [
+        "헬스",
+        "는",
+        "평생",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 그래도 집에서 할 거 같은데 안가고 키키",
+      "tokens": [
+        "나",
+        "는",
+        "그래도",
+        "집",
+        "에서",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "안",
+        "가",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 2대 300치는데...",
+      "tokens": [
+        "나",
+        "2",
+        "대",
+        "300",
+        "치",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "헬스는 진짜 재미는 없지 ?",
+      "tokens": [
+        "헬스",
+        "는",
+        "진짜",
+        "재미",
+        "는",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 쎄다… 튼튼한 형이었네",
+      "tokens": [
+        "오",
+        "쎄",
+        "다",
+        "…",
+        "튼튼",
+        "한",
+        "ETM",
+        "형",
+        "이",
+        "었",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이제 헬스장 가면 벤치 50도 힘들듯...",
+      "tokens": [
+        "이제",
+        "헬스",
+        "장가",
+        "면",
+        "EC",
+        "벤치",
+        "50",
+        "도",
+        "힘들",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 3대 100!",
+      "tokens": [
+        "난",
+        "JX",
+        "3",
+        "대",
+        "100"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 하도 안하면 안 나오지",
+      "tokens": [
+        "키",
+        "키",
+        "하도",
+        "안",
+        "하",
+        "면",
+        "안",
+        "나오",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 3대 100이면 재활운동이잖어",
+      "tokens": [
+        "헐",
+        "ETM",
+        "3",
+        "대",
+        "100",
+        "이",
+        "면",
+        "재활",
+        "운동",
+        "이",
+        "잖어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "쎈 형이네...",
+      "tokens": [
+        "쎈",
+        "ETM",
+        "형",
+        "이",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "몸 좋음?",
+      "tokens": [
+        "몸",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 키키 재활 그 자체다 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "재활",
+        "그",
+        "자체",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "재활의학과 가는게 나을듯...",
+      "tokens": [
+        "재활",
+        "의",
+        "학과",
+        "가",
+        "는",
+        "게",
+        "JKS",
+        "나을",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "3대 100이면 재활 수준임?",
+      "tokens": [
+        "3",
+        "대",
+        "100",
+        "이",
+        "면",
+        "재활",
+        "수준",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그치... 빈봉만 해도 60임",
+      "tokens": [
+        "그치",
+        ".",
+        "빈",
+        "ETM",
+        "봉만",
+        "해도",
+        "EC",
+        "60",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "웅... 그거 갖고 뭐 한다는 거여...",
+      "tokens": [
+        "웅",
+        ".",
+        "그거",
+        "갖",
+        "고",
+        "뭐",
+        "한다는",
+        "ETM",
+        "거",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

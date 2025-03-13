@@ -1,0 +1,397 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나랑 결혼해 줘서 고마오 **야",
+      "tokens": [
+        "나",
+        "랑",
+        "결혼",
+        "해",
+        "EC",
+        "줘서",
+        "VV",
+        "고",
+        "마",
+        "오",
+        "*",
+        "*",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나도 고마워 **야",
+      "tokens": [
+        "나",
+        "도",
+        "고마워",
+        "EC",
+        "*",
+        "*",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "두분 진짜 보기 좋아요",
+      "tokens": [
+        "두",
+        "분",
+        "진짜",
+        "보",
+        "기",
+        "좋",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "평생 행복하게 해줄게 사랑해 **얌",
+      "tokens": [
+        "평생",
+        "행복",
+        "하",
+        "게",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "사랑",
+        "해",
+        "EC",
+        "*",
+        "*",
+        "얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "**도 얼른 **언니랑 식 올리자 하하",
+      "tokens": [
+        "*",
+        "*",
+        "도",
+        "얼른",
+        "*",
+        "*",
+        "언니랑식올리자하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "ㅠㅠ저는 언제 결혼할 수 있나여 키키",
+      "tokens": [
+        "ㅠㅠ",
+        "저",
+        "는",
+        "언제",
+        "결혼",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "나",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**도 얼른 고백해",
+      "tokens": [
+        "*",
+        "*",
+        "도",
+        "얼른",
+        "고백",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "축가는 우리가 부를께",
+      "tokens": [
+        "축가",
+        "는",
+        "우리",
+        "가",
+        "부를",
+        "ETM",
+        "께"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "저희 결혼하면 오실 건가요 키키",
+      "tokens": [
+        "저희",
+        "결혼",
+        "하",
+        "면",
+        "오",
+        "실건가",
+        "ETM",
+        "NNB",
+        "EF",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "결혼 당근 가지",
+      "tokens": [
+        "결혼",
+        "당근",
+        "가지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "구래",
+      "tokens": [
+        "구래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "남자는 직진이지",
+      "tokens": [
+        "남자",
+        "는",
+        "직진",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "축가 키키 꼭 불러주세요",
+      "tokens": [
+        "축가",
+        "키",
+        "키",
+        "ETN",
+        "꼭",
+        "불러",
+        "EC",
+        "주",
+        "세요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "말이라구?",
+      "tokens": [
+        "말",
+        "이",
+        "라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리 초대해 줘",
+      "tokens": [
+        "우리",
+        "초대",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "초대해주면 당근 갈께",
+      "tokens": [
+        "초대",
+        "해",
+        "EC",
+        "주",
+        "면",
+        "당근",
+        "갈께",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "남자가 추진해야 결혼되는 거져?",
+      "tokens": [
+        "남자",
+        "가",
+        "추진",
+        "해야",
+        "EC",
+        "결혼",
+        "되",
+        "는",
+        "거",
+        "져",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리는 결혼식 가는 거 좋아해",
+      "tokens": [
+        "우리",
+        "는",
+        "결혼식",
+        "가",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그렇지",
+      "tokens": [
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "바로 직진 때리야지",
+      "tokens": [
+        "바로",
+        "직진",
+        "때리",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "벅수랑 함께 꼭 오세여 키키",
+      "tokens": [
+        "벅수",
+        "랑",
+        "함께",
+        "꼭",
+        "오",
+        "세여",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

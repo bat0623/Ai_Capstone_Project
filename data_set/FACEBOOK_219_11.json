@@ -1,0 +1,393 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "마피아 게임도 하자",
+      "tokens": [
+        "마피아",
+        "게임",
+        "도",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "마피아 게임 나도 끼워줌?/",
+      "tokens": [
+        "마피아",
+        "게임",
+        "나",
+        "도",
+        "끼워",
+        "EC",
+        "줌",
+        "ETN",
+        "?",
+        ""
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요 우리 19일날 접선하는 거임? 키키",
+      "tokens": [
+        "요",
+        "우리",
+        "19",
+        "일",
+        "날",
+        "접선",
+        "하",
+        "는",
+        "거",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 마피가 넘 하고 싶오",
+      "tokens": [
+        "나",
+        "마피",
+        "가",
+        "넘",
+        "하",
+        "고",
+        "싶",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "내가 사회자 할께 그럼",
+      "tokens": [
+        "내",
+        "가",
+        "사회",
+        "자할",
+        "께",
+        "그럼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 둘이 해",
+      "tokens": [
+        "아니",
+        "둘",
+        "이해"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "둘이는 못 하겠구나? 키키",
+      "tokens": [
+        "둘",
+        "이",
+        "는",
+        "못하",
+        "겠",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "당근 당근 오빠랑 그 오빠도 불러",
+      "tokens": [
+        "당근",
+        "당근",
+        "오빠",
+        "랑",
+        "그",
+        "오빠",
+        "도",
+        "불러",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "몇 명 더 모집해야 되는데 그럼",
+      "tokens": [
+        "몇",
+        "명",
+        "더",
+        "모집",
+        "해야",
+        "EC",
+        "되",
+        "는",
+        "데",
+        "그럼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "**이랑 **이 남친 불렄 키키",
+      "tokens": [
+        "*",
+        "*",
+        "이랑",
+        "*",
+        "*",
+        "이남친불렄키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "** 남편이랑 그 연못 사는 오빠랑",
+      "tokens": [
+        "*",
+        "*",
+        "남편이랑그연못사는오빠랑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "남친도 데리고 와 그럼 하하",
+      "tokens": [
+        "남친",
+        "도",
+        "데리",
+        "고",
+        "와",
+        "EF",
+        "그럼",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 연못 사는 오빠 누군뎈 키키",
+      "tokens": [
+        "키",
+        "키",
+        "연못",
+        "사",
+        "는",
+        "오빠",
+        "누군",
+        "JX",
+        "뎈키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "남친 일해 ㅜㅜ",
+      "tokens": [
+        "남친일해ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "마자 마자",
+      "tokens": [
+        "마",
+        "자마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "** 남친도 데려와",
+      "tokens": [
+        "*",
+        "*",
+        "남친",
+        "도",
+        "데려와",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "다같이 하자 하하",
+      "tokens": [
+        "다",
+        "같이",
+        "하",
+        "자",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 데려가고 싶지만 아직 어색? 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "데려가",
+        "고",
+        "싶",
+        "지만",
+        "아직",
+        "어색",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "마피아 하려면 사람 많아야 해!",
+      "tokens": [
+        "마피아",
+        "하",
+        "려면",
+        "사람",
+        "많",
+        "아야",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "남친이랑 어색한 사이야?",
+      "tokens": [
+        "남친",
+        "이랑",
+        "어색",
+        "한",
+        "ETM",
+        "사이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "엉 아직 한 달 대서 개어색이얔 키키",
+      "tokens": [
+        "엉",
+        "아직",
+        "한",
+        "달대",
+        "서",
+        "개",
+        "어색",
+        "이",
+        "얔키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

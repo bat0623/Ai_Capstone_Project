@@ -1,0 +1,379 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그래서 **가 뭐 잡아왔대 키키",
+      "tokens": [
+        "그래서",
+        "*",
+        "*",
+        "가",
+        "뭐",
+        "잡",
+        "아",
+        "왔",
+        "EP",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "필라테스 재밌당 요새",
+      "tokens": [
+        "필라테스",
+        "재밌",
+        "당",
+        "요새"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래서 어제 문어 개큰 거",
+      "tokens": [
+        "그래서",
+        "어제",
+        "문어",
+        "개",
+        "큰",
+        "ETM",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "강태공 남편 자랑 좀 키키",
+      "tokens": [
+        "강태공",
+        "남편",
+        "자",
+        "랑",
+        "좀",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리 선생님 너무 이쁘셔 하하",
+      "tokens": [
+        "우리",
+        "선생",
+        "님",
+        "너무",
+        "이쁘",
+        "셔",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "잡았던데 키키",
+      "tokens": [
+        "잡",
+        "았",
+        "던",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "문어 진짜 크더라",
+      "tokens": [
+        "문어",
+        "진짜",
+        "크",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어어 그거 배 타고 나간 거임?",
+      "tokens": [
+        "어",
+        "어",
+        "그거",
+        "배",
+        "타",
+        "고",
+        "나간",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "강사님이 실력도 좋으시고",
+      "tokens": [
+        "강사",
+        "님",
+        "이",
+        "실력",
+        "도",
+        "좋",
+        "으시",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 아니 아니 그거 그냥 거기",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "아니",
+        "그거",
+        "그냥",
+        "거기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "문어를 잡다니...",
+      "tokens": [
+        "문어",
+        "를",
+        "잡",
+        "다니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "대박사건",
+      "tokens": [
+        "대박",
+        "사건"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 낚시 스토리 좀 들려저",
+      "tokens": [
+        "아",
+        "낚시",
+        "스토리",
+        "좀",
+        "들려",
+        "EC",
+        "저"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "방파제에서 잡았지 키키",
+      "tokens": [
+        "방파제",
+        "에서",
+        "잡",
+        "았",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "배도 안 타고 잡았다고?",
+      "tokens": [
+        "배",
+        "도",
+        "안",
+        "타",
+        "고",
+        "잡",
+        "았",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "방파제 위험한데 너무",
+      "tokens": [
+        "방파제",
+        "위험",
+        "한데",
+        "EC",
+        "너무"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "엄청 크드라",
+      "tokens": [
+        "엄청",
+        "크",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "무늬 오징어도 잡음",
+      "tokens": [
+        "무늬",
+        "오징어",
+        "도",
+        "잡음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "걘 정말 강태공이 맞군...",
+      "tokens": [
+        "걘",
+        "JX",
+        "정말",
+        "강태공",
+        "이",
+        "맞",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "와 뭐야 강태공 납셨네",
+      "tokens": [
+        "와",
+        "뭐",
+        "야",
+        "강태",
+        "공납",
+        "셨",
+        "EP",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "원래 낚시는 방파제지 키키",
+      "tokens": [
+        "원래",
+        "낚",
+        "시",
+        "는",
+        "방파제",
+        "지키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "게임에 난 흥미를 잃었어",
+      "tokens": [
+        "게임",
+        "에",
+        "난",
+        "ETM",
+        "흥미",
+        "를",
+        "잃",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 게임 재미없어 하하",
+      "tokens": [
+        "맞",
+        "아",
+        "게임",
+        "재미",
+        "없",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 플스를 사보는 건 어때",
+      "tokens": [
+        "키",
+        "키",
+        "플",
+        "스",
+        "를",
+        "사",
+        "EC",
+        "보",
+        "는",
+        "건",
+        "JX",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이제 게임이 재미가 없더라...",
+      "tokens": [
+        "이제",
+        "게임",
+        "이",
+        "재미",
+        "가",
+        "없",
+        "더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요새는 게임이 재미가 없더라 하하",
+      "tokens": [
+        "요새",
+        "는",
+        "게임",
+        "이",
+        "재미",
+        "가",
+        "없",
+        "더라",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "플스게임 다 재밌어보이더라",
+      "tokens": [
+        "플",
+        "스",
+        "게임",
+        "다",
+        "재밌",
+        "어",
+        "보이",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "플스 사면 또 불타 오르나...?",
+      "tokens": [
+        "플스사면또불타오르나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "플스 사고 싶다 하하",
+      "tokens": [
+        "플스사고싶다하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 한 번 불타올라봐! 꼭사",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "한",
+        "번",
+        "불타",
+        "EC",
+        "올라",
+        "EC",
+        "봐",
+        "EF",
+        "꼭",
+        "사",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "** 플스는 하심?",
+      "tokens": [
+        "*",
+        "*",
+        "플스는하심"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "플스도 근데 많이 안할까봐 하하",
+      "tokens": [
+        "플",
+        "스도",
+        "근데",
+        "많이",
+        "안",
+        "할까봐",
+        "EC",
+        "VX",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 살려구 취업하자마자",
+      "tokens": [
+        "나",
+        "도",
+        "살려구",
+        "EC",
+        "취업",
+        "하",
+        "자마자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "플스 사도 안할까봐...",
+      "tokens": [
+        "플",
+        "스",
+        "사",
+        "도",
+        "안",
+        "할까",
+        "EC",
+        "봐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "사놓고 안할까봐 하하 안사고있어",
+      "tokens": [
+        "사놓",
+        "고",
+        "안",
+        "할까봐",
+        "EC",
+        "VX",
+        "EC",
+        "하하",
+        "안",
+        "사",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "친구도 취업하자마자 엄청 하더라 키키",
+      "tokens": [
+        "친구",
+        "도",
+        "취업",
+        "하",
+        "자마자",
+        "엄청",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "플스는  왜 점점 비싸질까",
+      "tokens": [
+        "플",
+        "스",
+        "는",
+        "왜",
+        "점점",
+        "비싸",
+        "질까",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "소니 꺼락서 그리고 불매해야 되는디",
+      "tokens": [
+        "소니",
+        "꺼",
+        "EC",
+        "락서",
+        "그리고",
+        "불매",
+        "해야",
+        "EC",
+        "되",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 요즘 물량도 없고 난리잖아 ㅠㅠ",
+      "tokens": [
+        "근데",
+        "요즘",
+        "물량",
+        "도",
+        "없",
+        "고",
+        "난리",
+        "잖아",
+        "EC",
+        "VX",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_171_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

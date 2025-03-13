@@ -1,0 +1,453 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 나 이번에 인테리어 해야 하는데 키키",
+      "tokens": [
+        "아",
+        "나",
+        "이번",
+        "에",
+        "인테리어",
+        "해야",
+        "EC",
+        "하",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 인테리어 잘 모르는 데 알려줘",
+      "tokens": [
+        "나",
+        "는",
+        "인테리어",
+        "잘",
+        "모르",
+        "는",
+        "데",
+        "알려줘",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 그러게 뭐 하게?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러",
+        "게",
+        "뭐",
+        "하",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "궁금하네",
+      "tokens": [
+        "궁금",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "인테리어 어디가 좋아? 키키",
+      "tokens": [
+        "인테리어",
+        "어디",
+        "가",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜?",
+      "tokens": [
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그런 거 해주는데 있지 않나 키키",
+      "tokens": [
+        "그런",
+        "거",
+        "해",
+        "EC",
+        "주",
+        "는데",
+        "있",
+        "지",
+        "않",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아는 사람",
+      "tokens": [
+        "아",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그거 업자들이 잘 해주잖아 키키",
+      "tokens": [
+        "그거",
+        "업자",
+        "들",
+        "이",
+        "잘",
+        "해",
+        "EC",
+        "주",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "인테리어 업자들 진짜 별로야 키키",
+      "tokens": [
+        "인테리어",
+        "업자",
+        "들",
+        "진짜",
+        "별로",
+        "야키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그런 것도 한번 하려고 나도 이제 키키",
+      "tokens": [
+        "그런",
+        "것",
+        "도",
+        "한",
+        "번",
+        "하",
+        "려고",
+        "나",
+        "도",
+        "이제",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키  그래 요새 그런 거 많이 해 ㅋ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "요새",
+        "그런",
+        "거",
+        "많이",
+        "해",
+        "EC",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "뒤통수 치더라고 진짜 걔네들은 키키",
+      "tokens": [
+        "뒤통수치",
+        "더라고",
+        "진짜",
+        "걔",
+        "네",
+        "들",
+        "은",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니깐 업자들이 별로긴해",
+      "tokens": [
+        "그니깐",
+        "업자",
+        "들",
+        "이",
+        "별로",
+        "긴",
+        "ETM",
+        "해"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "내가 공부해야 하낰 키키",
+      "tokens": [
+        "내",
+        "가",
+        "공부",
+        "해야",
+        "EC",
+        "하",
+        "낰키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그거 유퀴즈에도 나왔잖아 키키",
+      "tokens": [
+        "그",
+        "거유",
+        "퀴즈",
+        "에",
+        "도",
+        "나왔",
+        "EP",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그러니까 업자들이 진짜 별로야 키키",
+      "tokens": [
+        "그러니까",
+        "업자",
+        "들",
+        "이",
+        "진짜",
+        "별로",
+        "야키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그니깐 맞아 뒤통수 치더라 정말 키키",
+      "tokens": [
+        "그니깐",
+        "맞",
+        "아",
+        "뒤통수치",
+        "더라",
+        "정말",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "젊은데 하더라고 키키 진짜 키키",
+      "tokens": [
+        "젊",
+        "은",
+        "데",
+        "하",
+        "더라고",
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나 하고 나중에 알려줌 키키",
+      "tokens": [
+        "나",
+        "하고",
+        "나중",
+        "에",
+        "알려줌",
+        "EC",
+        "VX",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 한번 알려줘 키키",
+      "tokens": [
+        "나",
+        "도",
+        "한",
+        "번",
+        "알려줘",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 그래",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "고맙다 키키 나도 ㅋ",
+      "tokens": [
+        "고맙다키키나도ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

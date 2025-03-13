@@ -1,0 +1,433 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 지금 치아 교정 했어?",
+      "tokens": [
+        "너",
+        "는",
+        "지금",
+        "치아",
+        "EC",
+        "교정",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 교정 아직 안 어",
+      "tokens": [
+        "난",
+        "JX",
+        "교정",
+        "아직",
+        "안어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그러면 너 지금 치아 되게 바르게 나 있어?",
+      "tokens": [
+        "그러면",
+        "너",
+        "지금",
+        "치아",
+        "EC",
+        "되게",
+        "바르",
+        "게나",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "사람들이 다 교정하라고 난리야 ㅠㅠ",
+      "tokens": [
+        "사람",
+        "들",
+        "이",
+        "다",
+        "교정",
+        "하",
+        "라고",
+        "난리",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 근데 너는 안 하고 싶어?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "너",
+        "는",
+        "안",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "하고 싶은데 나중에 이빨이 자기 자리로 돌아온다고 해서 고민 중이야 ㅠㅠ",
+      "tokens": [
+        "하",
+        "고",
+        "싶",
+        "은데",
+        "나중",
+        "에",
+        "이빨",
+        "이",
+        "자기",
+        "자리",
+        "로",
+        "돌아온다고",
+        "EC",
+        "해서",
+        "EC",
+        "고민",
+        "중",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래서 평생 유지장치 껴야 하잖아!",
+      "tokens": [
+        "그래서",
+        "평생",
+        "유지",
+        "장치",
+        "껴야",
+        "EC",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그러니까 난 그게 불편할 거 같아서 못하겠어 ㅠㅠ",
+      "tokens": [
+        "그러니까",
+        "난",
+        "JX",
+        "그게",
+        "JKS",
+        "불편",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아서",
+        "못하",
+        "겠",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그렇구나 나는 위에만 교정하고 싶어서 상담 받았는데 안 된대,",
+      "tokens": [
+        "그렇",
+        "구나",
+        "나",
+        "는",
+        "위",
+        "에",
+        "만",
+        "교정",
+        "하",
+        "고",
+        "싶",
+        "어서",
+        "상담",
+        "받",
+        "았",
+        "는데",
+        "안",
+        "된대",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 왜 위에만 안되는 거야?",
+      "tokens": [
+        "헐",
+        "왜",
+        "위",
+        "에",
+        "만",
+        "안",
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이게 내가 부리모양 치아라고 하거든?",
+      "tokens": [
+        "이게",
+        "JKS",
+        "내",
+        "가",
+        "부리",
+        "모양",
+        "치아",
+        "라고",
+        "EC",
+        "하",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "새 부리처럼 위 아래가 튀어나온 거야!",
+      "tokens": [
+        "새부리",
+        "처럼",
+        "위아래",
+        "가",
+        "튀어나온",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 둘 다 튀어나와서 위에만 못하는 거구나?",
+      "tokens": [
+        "아",
+        "둘",
+        "다",
+        "튀어나와서",
+        "EC",
+        "위",
+        "에",
+        "만",
+        "못하",
+        "는",
+        "거",
+        "구나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아래도 다 같이  해 줘야 한대!",
+      "tokens": [
+        "아래",
+        "도",
+        "다",
+        "같이",
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "와 그럼 너무 힘들 거 같아 아프고 ㅠㅠ",
+      "tokens": [
+        "와",
+        "그럼",
+        "너무",
+        "힘들",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "아프",
+        "고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "기본 2년은 교정해야 하잖아!",
+      "tokens": [
+        "기본",
+        "2",
+        "년",
+        "은",
+        "교정",
+        "해야",
+        "EC",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그치 기간도 너무 오래걸려 ㅠㅠ",
+      "tokens": [
+        "그치",
+        "기간",
+        "도",
+        "너무",
+        "오래",
+        "걸려",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

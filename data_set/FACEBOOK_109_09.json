@@ -1,0 +1,412 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 지금 자취하고 있다고 했나?",
+      "tokens": [
+        "언니",
+        "지금",
+        "자취",
+        "하",
+        "고",
+        "있",
+        "다고",
+        "했",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 키키 나 지금 혼자 자취하고 있지~",
+      "tokens": [
+        "응",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "지금",
+        "혼자",
+        "자취",
+        "하",
+        "고",
+        "있",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "언니는 지금 자취방에서 키우는 생명체 없어?",
+      "tokens": [
+        "언니",
+        "는",
+        "지금",
+        "자취방",
+        "에서",
+        "키우",
+        "는",
+        "생명체",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "응 동물을 못 키우게 해서 못 키워ㅠㅠ",
+      "tokens": [
+        "응",
+        "동물",
+        "을",
+        "못",
+        "키우",
+        "게",
+        "해서",
+        "EC",
+        "못",
+        "키워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 집에서 동물 자체를 키울 수가 없구나?",
+      "tokens": [
+        "아집",
+        "에서",
+        "동물",
+        "자체",
+        "를",
+        "키울",
+        "ETM",
+        "수",
+        "가",
+        "없",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "응 아예 금지되어 있어~",
+      "tokens": [
+        "응",
+        "아예",
+        "금지",
+        "되",
+        "어",
+        "있",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그렇구나 ㅜㅜ",
+      "tokens": [
+        "그렇구나ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나중에 키워보고 싶은 동물 있어?",
+      "tokens": [
+        "나중",
+        "에",
+        "키워",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "은",
+        "동물",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 강아지 꼭 키워보고싶어~",
+      "tokens": [
+        "나",
+        "는",
+        "강아지",
+        "꼭",
+        "키워",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "언니는 어떤 강아지 키우고 싶어?",
+      "tokens": [
+        "언니",
+        "는",
+        "어떤",
+        "강아지",
+        "키우",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "종류 상관없이 그냥 강아지!",
+      "tokens": [
+        "종류",
+        "상관없이",
+        "그냥",
+        "강아지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나는 나중에 유기견 데리고 와서 키울 거야!",
+      "tokens": [
+        "나",
+        "는",
+        "나중",
+        "에",
+        "유기",
+        "견",
+        "데리",
+        "고",
+        "와서",
+        "EC",
+        "키울",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 진짜 좋은 생각인 거 같은데?",
+      "tokens": [
+        "그거",
+        "진짜",
+        "좋",
+        "은",
+        "생각",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 한 천만 원쯤 모으고 데려올 거야!",
+      "tokens": [
+        "근데",
+        "한",
+        "천만",
+        "원",
+        "쯤",
+        "모으",
+        "고",
+        "데려올",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "돈이 풍족해야 될 거 같아",
+      "tokens": [
+        "돈",
+        "이",
+        "풍족",
+        "해야",
+        "EC",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "유기견들은 또 어떤 병이 있을지 모르니까 이 정도는 필요한 거 같아!",
+      "tokens": [
+        "유기",
+        "견",
+        "들",
+        "은",
+        "또",
+        "어떤",
+        "병",
+        "이",
+        "있",
+        "을지",
+        "모르",
+        "니까",
+        "이",
+        "정도",
+        "는",
+        "필요",
+        "한",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "응 그래도 펫샵보다는 훨 나은 거 같아!",
+      "tokens": [
+        "응",
+        "그래도",
+        "펫",
+        "샵",
+        "보다",
+        "는",
+        "훨",
+        "나",
+        "은",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

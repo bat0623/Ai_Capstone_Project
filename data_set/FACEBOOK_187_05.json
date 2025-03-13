@@ -1,0 +1,443 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번에 친척 동생 군대 가는데 어디로 가라 할까",
+      "tokens": [
+        "이번",
+        "에",
+        "친척",
+        "동생",
+        "군대",
+        "가",
+        "는데",
+        "어디",
+        "로",
+        "가",
+        "라",
+        "할까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그냥 의경이나 하라고 하지 키키",
+      "tokens": [
+        "그냥",
+        "의경",
+        "이나",
+        "하",
+        "라고",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "내 생각엔 키키",
+      "tokens": [
+        "내",
+        "JKG",
+        "생각",
+        "엔",
+        "JX",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그냥 의경 해 키키",
+      "tokens": [
+        "그냥",
+        "의경",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오 의경 좋은데 추천해야겠네 키키",
+      "tokens": [
+        "오의경",
+        "좋",
+        "은데",
+        "추천",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "의경이 짱이야 편한 거 키키",
+      "tokens": [
+        "의경",
+        "이",
+        "짱",
+        "이",
+        "야",
+        "편한",
+        "ETM",
+        "거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "편한 게 최고야 키키 진짜 키키",
+      "tokens": [
+        "편한",
+        "ETM",
+        "게",
+        "JKS",
+        "최고",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "의경이 진짜 꿀이여 키키",
+      "tokens": [
+        "의경",
+        "이",
+        "진짜",
+        "꿀",
+        "이",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "편한 데 갔다 오는 게 짱이야 진짜",
+      "tokens": [
+        "편한",
+        "ETM",
+        "데",
+        "갔다오",
+        "는",
+        "게",
+        "JKS",
+        "짱",
+        "이",
+        "야",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그리고 개인 시간도 많잖아 키키",
+      "tokens": [
+        "그리고",
+        "개인",
+        "시간",
+        "도",
+        "많",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "의경 진짜 최고다 키키",
+      "tokens": [
+        "의경",
+        "진짜",
+        "최고",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너네도 알자나",
+      "tokens": [
+        "너",
+        "네",
+        "도",
+        "알자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "다 갔다 와서 키키",
+      "tokens": [
+        "다",
+        "갔",
+        "EP",
+        "다",
+        "와서",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나는 진짜 추천할게 키키 그냥",
+      "tokens": [
+        "나",
+        "는",
+        "진짜",
+        "추천",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "키",
+        "키",
+        "그냥"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러니까 그거 하고 공무원 하라 해야지 키키",
+      "tokens": [
+        "그러니까",
+        "그거",
+        "하고",
+        "공무원",
+        "하",
+        "라",
+        "해야지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그니깐 한번 의경 지원하라고 해 키키",
+      "tokens": [
+        "그니깐",
+        "한",
+        "번",
+        "의",
+        "경",
+        "지원",
+        "하",
+        "라고",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "가서 많이 성숙해져서 오더라 키키",
+      "tokens": [
+        "가",
+        "서",
+        "많이",
+        "성숙",
+        "해져서",
+        "EC",
+        "VX",
+        "EC",
+        "오",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오케 내가 말해줄게 키키",
+      "tokens": [
+        "오케",
+        "내",
+        "가",
+        "말",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그거 하면 시간도 금방 가 키키",
+      "tokens": [
+        "그거",
+        "하",
+        "면",
+        "시간",
+        "도",
+        "금방",
+        "가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그려 그려 말해줘 키키",
+      "tokens": [
+        "그려",
+        "EC",
+        "그려",
+        "EC",
+        "말",
+        "해",
+        "EC",
+        "줘",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_187_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

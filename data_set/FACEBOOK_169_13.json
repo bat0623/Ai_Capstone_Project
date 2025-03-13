@@ -1,0 +1,326 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "일기 예보 어디서 확인해?",
+      "tokens": [
+        "일기",
+        "예보",
+        "어디",
+        "서",
+        "확인",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 인터넷으로. 봐",
+      "tokens": [
+        "난",
+        "JX",
+        "인터넷",
+        "으로",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 매일 뉴스보고 해",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "뉴스",
+        "보고",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 보통 폰으로 확인함",
+      "tokens": [
+        "난",
+        "JX",
+        "보통",
+        "폰",
+        "으로",
+        "확인",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요새 기상청 꽤나 정확해",
+      "tokens": [
+        "요새",
+        "기상청",
+        "꽤",
+        "나",
+        "정확",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "하지만 너무 안맞아",
+      "tokens": [
+        "하지만",
+        "너무",
+        "안",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뉴스로는 잘 안보는 듯",
+      "tokens": [
+        "뉴스",
+        "로",
+        "는",
+        "잘",
+        "안",
+        "보",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아주 신기하다니까 그거",
+      "tokens": [
+        "아주",
+        "신기",
+        "하",
+        "다니까",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래서 이젠 안믿어",
+      "tokens": [
+        "그래서",
+        "이젠",
+        "JX",
+        "안",
+        "믿",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그 시간 맞추기가 어려워",
+      "tokens": [
+        "그",
+        "시간",
+        "맞추",
+        "기",
+        "가",
+        "어려워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "기상청이 잘 맞추기 시작함 하하",
+      "tokens": [
+        "기상청",
+        "이",
+        "잘",
+        "맞추",
+        "기",
+        "시작",
+        "함하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그냥 나 스스로 믿기로했어",
+      "tokens": [
+        "그냥",
+        "나",
+        "스스로",
+        "믿",
+        "기",
+        "로",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마자 기상청 꽤나 잘 맞춤 키키",
+      "tokens": [
+        "마자",
+        "기상청",
+        "꽤",
+        "나",
+        "잘",
+        "맞춤",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까 꽤나 잘해",
+      "tokens": [
+        "그니까",
+        "꽤",
+        "나잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "비 오고 이런게 너무 틀려",
+      "tokens": [
+        "비오",
+        "고",
+        "이런",
+        "게",
+        "JKS",
+        "너무",
+        "틀려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "너 스스로를 믿는다고?",
+      "tokens": [
+        "너",
+        "스스로",
+        "를",
+        "믿",
+        "는다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "비 오는 거 난 싫어",
+      "tokens": [
+        "비오",
+        "는",
+        "거",
+        "난",
+        "JX",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "기상청이 일 잘해?",
+      "tokens": [
+        "기상청",
+        "이",
+        "일",
+        "잘",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 친구들 결혼식 넘 슬퍼...",
+      "tokens": [
+        "나",
+        "친구",
+        "들",
+        "결혼식",
+        "넘",
+        "슬퍼",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "왜 슬픈 건지 도대체 하하",
+      "tokens": [
+        "왜",
+        "슬픈",
+        "ETM",
+        "건지",
+        "VCP",
+        "EC",
+        "도대체",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 이번 주 결혼식 가는데 오열하겠군",
+      "tokens": [
+        "나",
+        "이번",
+        "주",
+        "결혼식",
+        "가",
+        "는데",
+        "오열",
+        "하",
+        "겠",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "내 결혼식은 안 울었는데",
+      "tokens": [
+        "내",
+        "JKG",
+        "결혼식",
+        "은",
+        "안",
+        "울",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "** 결혼식 때도 통곡하심 하하",
+      "tokens": [
+        "*",
+        "*",
+        "결혼식때도통곡하심하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 맨날 슬퍼 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "맨날",
+        "슬퍼",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그냥 맨날 움 키키",
+      "tokens": [
+        "그냥",
+        "맨날",
+        "움",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**이 결혼식 진짜 개 슬플 듯",
+      "tokens": [
+        "*",
+        "*",
+        "이결혼식진짜개슬플듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "왜 우는지 모르겠어 하하",
+      "tokens": [
+        "왜",
+        "우",
+        "는지",
+        "모르",
+        "겠",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아직 가지도 않았는데 슬퍼 키키",
+      "tokens": [
+        "아직",
+        "가지",
+        "도",
+        "않",
+        "았",
+        "는데",
+        "슬퍼",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이번 주 누구 결혼식이야?",
+      "tokens": [
+        "이번",
+        "주",
+        "누구",
+        "결혼식",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 모르는 애니",
+      "tokens": [
+        "난",
+        "JX",
+        "모르",
+        "는",
+        "애",
+        "니",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이 기쁜 날 왜 울어 하하",
+      "tokens": [
+        "이",
+        "기쁜",
+        "ETM",
+        "날",
+        "왜",
+        "울",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 그거 약간 그 ***언니",
+      "tokens": [
+        "아",
+        "그거",
+        "약간",
+        "그",
+        "*",
+        "*",
+        "*",
+        "언니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아직 가기도 전에 슬퍼",
+      "tokens": [
+        "아직",
+        "가",
+        "기",
+        "도",
+        "전",
+        "에",
+        "슬퍼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "요새 결혼식 진짜 많네",
+      "tokens": [
+        "요새",
+        "결혼식",
+        "진짜",
+        "많",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "결혼하는데 슬프다 진짜 ㅜㅜ",
+      "tokens": [
+        "결혼",
+        "하",
+        "는",
+        "데",
+        "슬프",
+        "다",
+        "진짜",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 ***언니 결혼식도 가야 함?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "*",
+        "언니",
+        "결혼식",
+        "도",
+        "가",
+        "야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "슬픈 결혼식이군 ㅠㅠ",
+      "tokens": [
+        "슬픈",
+        "ETM",
+        "결혼식",
+        "이",
+        "군",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "지나만가도 슬프지 않냐 키키",
+      "tokens": [
+        "지나",
+        "만가",
+        "도",
+        "슬프",
+        "지",
+        "않",
+        "냐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

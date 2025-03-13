@@ -1,0 +1,376 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "필러가 건강에 안 좋대",
+      "tokens": [
+        "필러",
+        "가",
+        "건강",
+        "에",
+        "안",
+        "좋",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "필러 근데 만족도 높대",
+      "tokens": [
+        "필러",
+        "근데",
+        "만족",
+        "도",
+        "높",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜잉... 겁나게 왜 구래...",
+      "tokens": [
+        "왜",
+        "잉",
+        ".",
+        "겁나게",
+        "왜",
+        "구래",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "잔존 필러 어쩌고 해서",
+      "tokens": [
+        "잔존",
+        "필러",
+        "어쩌",
+        "고",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "** 이마 넣었는데 마이 나왔더라",
+      "tokens": [
+        "*",
+        "*",
+        "이마",
+        "넣",
+        "었",
+        "는데",
+        "마이",
+        "나왔",
+        "EP",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "들어본 거 같다...",
+      "tokens": [
+        "들",
+        "어",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이제 그만 해야 하나",
+      "tokens": [
+        "이제",
+        "그만",
+        "해야",
+        "EC",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "** 필러 많이  맞던디...",
+      "tokens": [
+        "*",
+        "*",
+        "필러",
+        "많이",
+        "맞",
+        "던디",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 한 1~2년 가던데",
+      "tokens": [
+        "근데",
+        "한",
+        "1",
+        "~",
+        "2",
+        "년",
+        "가",
+        "던데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "한번 하니까 또 하고 싶다",
+      "tokens": [
+        "한",
+        "번",
+        "하",
+        "니까",
+        "또",
+        "하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아프다고 하면서 자꾸 맞고 싶다 함",
+      "tokens": [
+        "아프",
+        "다고",
+        "하",
+        "면서",
+        "자꾸",
+        "맞",
+        "고",
+        "싶",
+        "다",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "엄청 아파서 울었다던데",
+      "tokens": [
+        "엄청",
+        "아파서",
+        "EC",
+        "울",
+        "었",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "즉각 즉각 얼굴 바뀌는 게 보이니까",
+      "tokens": [
+        "즉각",
+        "즉각",
+        "얼굴",
+        "바뀌",
+        "는",
+        "게",
+        "JKS",
+        "보이",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "효과가 드라마틱 하긴 한가 봄",
+      "tokens": [
+        "효과",
+        "가",
+        "드라마틱",
+        "하",
+        "긴",
+        "JX",
+        "한가",
+        "EC",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "꺼지면 꺼진 부분만 보인데 키키",
+      "tokens": [
+        "꺼지",
+        "면",
+        "꺼진",
+        "ETM",
+        "부분",
+        "만",
+        "보인데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 하나도 안 아팠는데... 쿄쿄",
+      "tokens": [
+        "나",
+        "는",
+        "하나",
+        "도",
+        "안",
+        "아팠",
+        "EP",
+        "는데",
+        ".",
+        ".",
+        "쿄",
+        "쿄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 해볼까...",
+      "tokens": [
+        "나",
+        "도",
+        "해",
+        "EC",
+        "볼까",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어디 하지",
+      "tokens": [
+        "어디",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "울면서 왜 맞지 키키",
+      "tokens": [
+        "울",
+        "면서",
+        "왜",
+        "맞",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "코 이마 국룰 아니여",
+      "tokens": [
+        "코이마국룰아니여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

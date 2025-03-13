@@ -1,0 +1,506 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "웹툰 뭐 보는 거 있어?",
+      "tokens": [
+        "웹툰",
+        "뭐",
+        "보",
+        "는",
+        "거",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 웹툰 진짜 많이 보는데 키키",
+      "tokens": [
+        "나",
+        "웹툰",
+        "진짜",
+        "많이",
+        "보",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 나도 요즘 빌드업이라는 웹툰 보고 있어",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "요즘",
+        "빌드",
+        "업",
+        "이",
+        "라는",
+        "웹툰",
+        "보",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "빌드업 웹툰은 무슨 내용이야?",
+      "tokens": [
+        "빌드",
+        "업",
+        "웹툰",
+        "은",
+        "무슨",
+        "내용",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "빌드업? 나도 그 웹툰은 처음 들어 키키",
+      "tokens": [
+        "빌드",
+        "업",
+        "나도그웹툰은처음들어키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "빌드업 수요일 웹툰인데 축구 하는 웹툰이야 키키",
+      "tokens": [
+        "빌드",
+        "업",
+        "수요일",
+        "웹툰",
+        "인데",
+        "EC",
+        "축구",
+        "하",
+        "는",
+        "웹툰",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 축구 하는 웹툰이야?",
+      "tokens": [
+        "아",
+        "축구",
+        "하",
+        "는",
+        "웹툰",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "너는 무슨 웹툰 봐?",
+      "tokens": [
+        "너",
+        "는",
+        "무슨",
+        "웹툰",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 축구 웹툰... 그래서 내가 그걸 모르나 봐 키키",
+      "tokens": [
+        "아",
+        "축구",
+        "웹툰",
+        ".",
+        ".",
+        "그래서",
+        "내",
+        "가",
+        "그걸",
+        "JKO",
+        "모르",
+        "나",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 판타지 많이 봐 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "판타지",
+        "많이",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 판타지 키키  추천 해줄 만한 거 있어 ?  키키",
+      "tokens": [
+        "오판타지키키추천해줄만한거있어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 나도 추천 좀 해줘 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "나",
+        "도",
+        "추천",
+        "좀",
+        "해",
+        "EC",
+        "줘",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "당연하지 나 트럼프랑 쿠베라 이거 두 개 광팬이야",
+      "tokens": [
+        "당연",
+        "하",
+        "지나",
+        "트럼프",
+        "랑",
+        "쿠베라",
+        "이거",
+        "두",
+        "개광",
+        "팬",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "정주행 3번씩 함 키키",
+      "tokens": [
+        "정",
+        "주행",
+        "3",
+        "번",
+        "씩",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "와 쿠베라 오랜만이다",
+      "tokens": [
+        "와",
+        "쿠베라",
+        "오랜만",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그거 다시 볼려고 했는데 연재량이 엄두가 안 나 키키",
+      "tokens": [
+        "그거",
+        "다시",
+        "볼려고",
+        "EC",
+        "했",
+        "EP",
+        "는데",
+        "연재",
+        "량",
+        "이",
+        "엄두",
+        "가",
+        "안",
+        "나",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "헐 쿠베라는 무슨 내용이야?",
+      "tokens": [
+        "헐",
+        "쿠베라",
+        "는",
+        "무슨",
+        "내용",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 근데 그거 날 잡고 맨날 봐 키키",
+      "tokens": [
+        "맞아",
+        "근데",
+        "그거",
+        "날",
+        "JKO",
+        "잡",
+        "고",
+        "맨날",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그거 그림체도 엄청 발전했어 키키",
+      "tokens": [
+        "그거",
+        "그림",
+        "체",
+        "도",
+        "엄청",
+        "발전",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "쿠베라 그냥 보세요",
+      "tokens": [
+        "쿠베라",
+        "그냥",
+        "보",
+        "세요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 맞아 초반부랑 중반부도 그림체 확 달라져 있더라 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "초반",
+        "부랑",
+        "중반",
+        "부도",
+        "그림",
+        "체",
+        "확",
+        "달라져",
+        "EC",
+        "있",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 키키 네 그냥 제가 쿠베라 볼게요",
+      "tokens": [
+        "아키",
+        "키",
+        "네",
+        "그냥",
+        "제",
+        "가",
+        "쿠베라",
+        "볼",
+        "ETM",
+        "게요",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "응응 맞아 그거 진짜 꼭 봐",
+      "tokens": [
+        "응응",
+        "맞",
+        "아",
+        "그거",
+        "진짜",
+        "꼭",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "인생 웹툰이야",
+      "tokens": [
+        "인생",
+        "웹툰",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_145_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 강아지 보여 줄게",
+      "tokens": [
+        "우리",
+        "강아지",
+        "보여",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "벅수 놀라지 마",
+      "tokens": [
+        "벅수",
+        "놀라",
+        "지",
+        "마",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "귀여워 너무",
+      "tokens": [
+        "귀여워",
+        "EC",
+        "너무"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오예 키키 바로 근처니까 볼 수 있겠지?",
+      "tokens": [
+        "오예",
+        "키",
+        "ETN",
+        "키바",
+        "로",
+        "근처",
+        "니까",
+        "EC",
+        "볼",
+        "ETM",
+        "수",
+        "있",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "개 벅수를 드디어 보여 주겠군 키키",
+      "tokens": [
+        "개",
+        "벅수",
+        "를",
+        "드디어",
+        "보여",
+        "EC",
+        "주",
+        "겠",
+        "군",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "귀여워서 쓰러질 정도야",
+      "tokens": [
+        "귀여워서",
+        "EC",
+        "쓰러질",
+        "ETM",
+        "정도",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "산책권 준다 했자나 키키",
+      "tokens": [
+        "산책",
+        "권",
+        "준다",
+        "EC",
+        "했",
+        "EP",
+        "자",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "엉 완전 가까이 살아 키키",
+      "tokens": [
+        "엉",
+        "완전",
+        "가까이",
+        "살",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아주 생각 잘하고 와",
+      "tokens": [
+        "아주",
+        "생각",
+        "잘",
+        "하",
+        "고",
+        "와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사진 옴청 귀엽다고 키키",
+      "tokens": [
+        "사진",
+        "옴",
+        "청",
+        "귀엽",
+        "다고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 벅수랑 산책하고 싶다고? 키키",
+      "tokens": [
+        "아",
+        "벅수",
+        "랑",
+        "산책",
+        "하",
+        "고",
+        "싶",
+        "다고",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "산책권 주기로 했니?",
+      "tokens": [
+        "산책",
+        "권",
+        "주기",
+        "로",
+        "했",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 끌려다니는 거 아니지? 키키",
+      "tokens": [
+        "나",
+        "끌려",
+        "EC",
+        "다니",
+        "는",
+        "거",
+        "아니",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 오키!",
+      "tokens": [
+        "아오키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "당근 쌉 가능 키키",
+      "tokens": [
+        "당근쌉가능키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아예 대전으로 데리고 가도 됨 하하",
+      "tokens": [
+        "아예",
+        "대전",
+        "으로",
+        "데리",
+        "고",
+        "가도",
+        "됨",
+        "ETN",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "힘 엄청 쎌 거 같음 키키...",
+      "tokens": [
+        "힘",
+        "엄청",
+        "쎌",
+        "ETM",
+        "거",
+        "같",
+        "음",
+        "키",
+        "키",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "벅수 10키로 감당 가능하실?",
+      "tokens": [
+        "벅수",
+        "10",
+        "키로",
+        "ETN",
+        "JKB",
+        "감당",
+        "가능",
+        "하",
+        "실",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "좀 데리고 가 ㅎ",
+      "tokens": [
+        "좀",
+        "데리",
+        "고",
+        "가",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 전 강아지 비슷했어",
+      "tokens": [
+        "키키",
+        "전",
+        "강아지",
+        "비슷",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_128_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

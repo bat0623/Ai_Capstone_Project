@@ -1,0 +1,319 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "고양이 울음 소리가 넘 싫더라다며.",
+      "tokens": [
+        "고양이",
+        "울음",
+        "소리",
+        "가",
+        "넘",
+        "싫",
+        "더라",
+        "다며"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 좀 소름임 하하",
+      "tokens": [
+        "그니까",
+        "좀",
+        "소름",
+        "임하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "고양이 냄새 너무 싫어",
+      "tokens": [
+        "고양이",
+        "냄새",
+        "너무",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "집 고양이는 안울제?",
+      "tokens": [
+        "집고양이",
+        "는",
+        "안",
+        "울",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "발정기에 나는 그 소리 하하",
+      "tokens": [
+        "발정기",
+        "에",
+        "나",
+        "는",
+        "그",
+        "소리",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그리고 울음소리도 소름이야",
+      "tokens": [
+        "그리고",
+        "울음",
+        "소리",
+        "도",
+        "소름",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "고양이 냄새가 있어?",
+      "tokens": [
+        "고양이",
+        "냄새",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아기울음 소리 같은거 하하",
+      "tokens": [
+        "아기",
+        "울음",
+        "소리",
+        "같",
+        "은",
+        "거",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "강아지 짖는게 더 나아",
+      "tokens": [
+        "강아지",
+        "짖",
+        "는",
+        "게",
+        "JKS",
+        "더",
+        "나",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "야 그 소리 넘 싫어...",
+      "tokens": [
+        "야",
+        "그",
+        "소리",
+        "넘",
+        "싫",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "중성화 하면 안내럴?",
+      "tokens": [
+        "중성화하면안내럴"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너무 듣기 싫어 나도",
+      "tokens": [
+        "너무",
+        "듣",
+        "기",
+        "싫",
+        "어",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "집에 있는 애들도 우냐?",
+      "tokens": [
+        "집",
+        "에",
+        "있",
+        "는",
+        "애",
+        "들",
+        "도",
+        "우",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 발정나서 하는 거래",
+      "tokens": [
+        "그거",
+        "발정",
+        "나서",
+        "하",
+        "는",
+        "거래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "중성화 필수야 이젠",
+      "tokens": [
+        "중성화",
+        "필수",
+        "야",
+        "EF",
+        "이젠",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "너네 회사에 고양이 있잖아",
+      "tokens": [
+        "너",
+        "네",
+        "회사",
+        "에",
+        "고양이",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 우린 중성화함",
+      "tokens": [
+        "그니까",
+        "우린",
+        "JX",
+        "중성",
+        "화",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "집에서 키우려면 조용해야해",
+      "tokens": [
+        "집",
+        "에서",
+        "키우",
+        "려면",
+        "조용",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

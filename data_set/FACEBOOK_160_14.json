@@ -1,0 +1,920 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "야 너네 그거봤냐고 그 19살짜리 아빠",
+      "tokens": [
+        "야",
+        "너",
+        "네",
+        "그거",
+        "봤",
+        "EP",
+        "냐고",
+        "그",
+        "19",
+        "살",
+        "짜리",
+        "아빠"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 1,
+      "text": "야 너네 그거봤냐고 그 19살짜리 아빠",
+      "tokens": [
+        "야",
+        "너",
+        "네",
+        "그거",
+        "봤",
+        "EP",
+        "냐고",
+        "그",
+        "19",
+        "살",
+        "짜리",
+        "아빠"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "19살 짜리 아빠?",
+      "tokens": [
+        "19",
+        "살",
+        "짜리",
+        "아빠"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "19살 짜리 아빠?",
+      "tokens": [
+        "19",
+        "살",
+        "짜리",
+        "아빠"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "무슨 일임",
+      "tokens": [
+        "무슨",
+        "일임"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "무슨 일임",
+      "tokens": [
+        "무슨",
+        "일임"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니 세상 맨날 내만 모르네",
+      "tokens": [
+        "아니",
+        "세상",
+        "맨날",
+        "내",
+        "만",
+        "모르",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니 세상 맨날 내만 모르네",
+      "tokens": [
+        "아니",
+        "세상",
+        "맨날",
+        "내",
+        "만",
+        "모르",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "내가 그 기사 말했음?",
+      "tokens": [
+        "내",
+        "가",
+        "그",
+        "기사",
+        "말",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "내가 그 기사 말했음?",
+      "tokens": [
+        "내",
+        "가",
+        "그",
+        "기사",
+        "말",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "14살 짜리 엄마",
+      "tokens": [
+        "14",
+        "살",
+        "짜리",
+        "엄마"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "14살 짜리 엄마",
+      "tokens": [
+        "14",
+        "살",
+        "짜리",
+        "엄마"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니 아니 무슨 일임 대체",
+      "tokens": [
+        "아니",
+        "아니",
+        "무슨",
+        "일임",
+        "대체"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니 아니 무슨 일임 대체",
+      "tokens": [
+        "아니",
+        "아니",
+        "무슨",
+        "일임",
+        "대체"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "14살짜리 엄마?",
+      "tokens": [
+        "14",
+        "살",
+        "짜리",
+        "엄마"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "14살짜리 엄마?",
+      "tokens": [
+        "14",
+        "살",
+        "짜리",
+        "엄마"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아니 뭔데",
+      "tokens": [
+        "아니",
+        "뭔데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아니 뭔데",
+      "tokens": [
+        "아니",
+        "뭔데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 1살 짜리 애를 아빠가 변기에 넣었데",
+      "tokens": [
+        "근데",
+        "1",
+        "살",
+        "짜리",
+        "애",
+        "를",
+        "아빠",
+        "가",
+        "변기",
+        "에",
+        "넣",
+        "었",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 1살 짜리 애를 아빠가 변기에 넣었데",
+      "tokens": [
+        "근데",
+        "1",
+        "살",
+        "짜리",
+        "애",
+        "를",
+        "아빠",
+        "가",
+        "변기",
+        "에",
+        "넣",
+        "었",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "세상 세상 ㅁ별일  다있네",
+      "tokens": [
+        "세상",
+        "세상",
+        "ㅁ",
+        "별일",
+        "다",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "세상 세상 ㅁ별일  다있네",
+      "tokens": [
+        "세상",
+        "세상",
+        "ㅁ",
+        "별일",
+        "다",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사람이 아닌데 그건",
+      "tokens": [
+        "사람",
+        "이",
+        "아닌데",
+        "EC",
+        "그건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사람이 아닌데 그건",
+      "tokens": [
+        "사람",
+        "이",
+        "아닌데",
+        "EC",
+        "그건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 넣었는지 아냐고... ㅠㅠ",
+      "tokens": [
+        "왜",
+        "넣",
+        "었",
+        "는지",
+        "아",
+        "냐고",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 넣었는지 아냐고... ㅠㅠ",
+      "tokens": [
+        "왜",
+        "넣",
+        "었",
+        "는지",
+        "아",
+        "냐고",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "무슨 일인지 말해주라",
+      "tokens": [
+        "무슨",
+        "일",
+        "인지",
+        "EC",
+        "말",
+        "해",
+        "EC",
+        "주",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "무슨 일인지 말해주라",
+      "tokens": [
+        "무슨",
+        "일",
+        "인지",
+        "EC",
+        "말",
+        "해",
+        "EC",
+        "주",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "무슨 이유에서 그런건데 도대체 사람이 할 짓이 아니다",
+      "tokens": [
+        "무슨",
+        "이유",
+        "에서",
+        "그런",
+        "건데",
+        "VCP",
+        "EC",
+        "도대체",
+        "사람",
+        "이",
+        "할",
+        "ETM",
+        "짓",
+        "이",
+        "아니",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "무슨 이유에서 그런건데 도대체 사람이 할 짓이 아니다",
+      "tokens": [
+        "무슨",
+        "이유",
+        "에서",
+        "그런",
+        "건데",
+        "VCP",
+        "EC",
+        "도대체",
+        "사람",
+        "이",
+        "할",
+        "ETM",
+        "짓",
+        "이",
+        "아니",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "14살 짜리 엄마가 성관계 안해줘서",
+      "tokens": [
+        "14",
+        "살",
+        "짜리",
+        "엄마",
+        "가",
+        "성관계",
+        "안",
+        "해",
+        "EC",
+        "줘서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "14살 짜리 엄마가 성관계 안해줘서",
+      "tokens": [
+        "14",
+        "살",
+        "짜리",
+        "엄마",
+        "가",
+        "성관계",
+        "안",
+        "해",
+        "EC",
+        "줘서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "? 뭔 소리임?",
+      "tokens": [
+        "?",
+        "뭔",
+        "소리",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "? 뭔 소리임?",
+      "tokens": [
+        "?",
+        "뭔",
+        "소리",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "걍 회로가 정지하게 되네",
+      "tokens": [
+        "걍",
+        "회로",
+        "가",
+        "정지",
+        "하",
+        "게",
+        "되",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "걍 회로가 정지하게 되네",
+      "tokens": [
+        "걍",
+        "회로",
+        "가",
+        "정지",
+        "하",
+        "게",
+        "되",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "19살짜리 아빠가? 14살 엄마한테? 성관계 안해준다고?",
+      "tokens": [
+        "19",
+        "살",
+        "짜리",
+        "아빠",
+        "가",
+        "?",
+        "14",
+        "살",
+        "엄마",
+        "한테",
+        "성관계",
+        "안",
+        "해",
+        "EC",
+        "준다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "19살짜리 아빠가? 14살 엄마한테? 성관계 안해준다고?",
+      "tokens": [
+        "19",
+        "살",
+        "짜리",
+        "아빠",
+        "가",
+        "?",
+        "14",
+        "살",
+        "엄마",
+        "한테",
+        "성관계",
+        "안",
+        "해",
+        "EC",
+        "준다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "협박 한다고 애를 변기에 넣었데",
+      "tokens": [
+        "협박",
+        "한다고",
+        "EC",
+        "애",
+        "를",
+        "변기",
+        "에",
+        "넣",
+        "었",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "협박 한다고 애를 변기에 넣었데",
+      "tokens": [
+        "협박",
+        "한다고",
+        "EC",
+        "애",
+        "를",
+        "변기",
+        "에",
+        "넣",
+        "었",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "진짜 미쳤다…",
+      "tokens": [
+        "진짜",
+        "미쳤",
+        "EP",
+        "다",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "진짜 미쳤다…",
+      "tokens": [
+        "진짜",
+        "미쳤",
+        "EP",
+        "다",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "무슨 어이없는 세상이고",
+      "tokens": [
+        "무슨",
+        "어이없",
+        "는",
+        "세상",
+        "이",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "무슨 어이없는 세상이고",
+      "tokens": [
+        "무슨",
+        "어이없",
+        "는",
+        "세상",
+        "이",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그렇게 했다고?",
+      "tokens": [
+        "그렇게",
+        "했",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그렇게 했다고?",
+      "tokens": [
+        "그렇게",
+        "했",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "사람이길 포기했네;",
+      "tokens": [
+        "사람",
+        "이",
+        "길",
+        "포기",
+        "했",
+        "EP",
+        "네",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "사람이길 포기했네;",
+      "tokens": [
+        "사람",
+        "이",
+        "길",
+        "포기",
+        "했",
+        "EP",
+        "네",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

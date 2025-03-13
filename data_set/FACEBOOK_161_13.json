@@ -1,0 +1,345 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "현재 기온 14도",
+      "tokens": [
+        "현재",
+        "기온",
+        "14",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "현재 중랑구 14도 마찬가지",
+      "tokens": [
+        "현재",
+        "중랑구",
+        "14",
+        "도",
+        "마찬가지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "12시 다 됐는데 그거밖에 안되나 ㅜㅜ",
+      "tokens": [
+        "12",
+        "시",
+        "다",
+        "됐",
+        "EP",
+        "는데",
+        "그거",
+        "밖에",
+        "안",
+        "되",
+        "나",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "서울 여행갈 때 패딩 입어야겠지?",
+      "tokens": [
+        "서울",
+        "여행",
+        "갈",
+        "ETM",
+        "때",
+        "패딩",
+        "입",
+        "어야",
+        "겠지",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 아니아니 아직은",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "아니",
+        "아직",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "집안에 온도계는 23돈데",
+      "tokens": [
+        "집안",
+        "에",
+        "온도계",
+        "는",
+        "23",
+        "돈",
+        "VCP",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "집안 온도계는 22도!",
+      "tokens": [
+        "집안",
+        "온도계",
+        "는",
+        "22",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "좀 더 지켜봐바 키키 패딩은",
+      "tokens": [
+        "좀",
+        "더",
+        "지켜봐",
+        "EC",
+        "바키",
+        "키",
+        "패딩",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "습도 41퍼... 제습기 사랑해",
+      "tokens": [
+        "습도",
+        "41",
+        "퍼",
+        "EF",
+        ".",
+        ".",
+        "제습기",
+        "사랑",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "패딩은 에바라고? 그럼?",
+      "tokens": [
+        "패딩",
+        "은",
+        "에",
+        "바라",
+        "고",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 집에 21도!",
+      "tokens": [
+        "나",
+        "는",
+        "집",
+        "에",
+        "21",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아직 패딩 입기는 좀 투머치다야",
+      "tokens": [
+        "아직",
+        "패딩",
+        "입",
+        "기",
+        "는",
+        "좀",
+        "투",
+        "머치",
+        "다야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "제습기 틀어 뒀어?",
+      "tokens": [
+        "제습기",
+        "틀",
+        "어",
+        "뒀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 키키 가습기이지 않으까",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키가",
+        "ETN",
+        "JKS",
+        "습기",
+        "이",
+        "지",
+        "않",
+        "으까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "후리스 입어 후리스가 요즘 날씨에 제격임",
+      "tokens": [
+        "후",
+        "리스",
+        "입",
+        "어",
+        "후",
+        "리스",
+        "가",
+        "요즘",
+        "날씨",
+        "에",
+        "제격",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "제습기 씻기 귀찮아 ㅠㅠ",
+      "tokens": [
+        "제습기",
+        "씻",
+        "기",
+        "귀찮",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 후리스 적당 적당",
+      "tokens": [
+        "맞",
+        "아",
+        "후",
+        "리스",
+        "적",
+        "당적",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞지 곰팡이가 어디서 생기지",
+      "tokens": [
+        "맞",
+        "지",
+        "곰팡이",
+        "가",
+        "어디",
+        "서",
+        "생기",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

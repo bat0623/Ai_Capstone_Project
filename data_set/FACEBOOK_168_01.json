@@ -1,0 +1,307 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "빵 좋아하는 사람",
+      "tokens": [
+        "빵",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 빵돌이지 완젼 하하",
+      "tokens": [
+        "나",
+        "빵",
+        "돌",
+        "이지완",
+        "젼",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "내 피자 좋아한다 ㅋ",
+      "tokens": [
+        "내피자좋아한다ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 갑자기 빵 먹고 싶네",
+      "tokens": [
+        "나",
+        "갑자기",
+        "빵",
+        "먹",
+        "고",
+        "싶",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 단팥빵 떙기네",
+      "tokens": [
+        "난단팥빵떙기네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "빵은 햄 들어간게 존맛",
+      "tokens": [
+        "빵",
+        "은",
+        "햄",
+        "들어간",
+        "ETM",
+        "게",
+        "JKS",
+        "존",
+        "ETM",
+        "맛"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 나도 피자 좋아행",
+      "tokens": [
+        "오나도피자좋아행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "단팥빵 왤케 마싯냐",
+      "tokens": [
+        "단팥빵왤케마싯냐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "피자는 어디거가 맛있죠~",
+      "tokens": [
+        "피자",
+        "는",
+        "어디",
+        "거",
+        "가",
+        "맛있",
+        "죠",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 도미노 피자가 최고더라",
+      "tokens": [
+        "난",
+        "JX",
+        "도미노피자",
+        "가",
+        "최고",
+        "더라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 늙었나봐 하하",
+      "tokens": [
+        "나",
+        "늙",
+        "었",
+        "나",
+        "봐",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "단팥빵은 우유랑 무야죠 행님 키키",
+      "tokens": [
+        "단팥빵",
+        "은",
+        "우유",
+        "랑",
+        "무야",
+        "죠",
+        "EF",
+        "행",
+        "님",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "단팥빵 넘 할배쓰...",
+      "tokens": [
+        "단팥빵넘할배쓰",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "도미노 안먹은지 넘오래",
+      "tokens": [
+        "도미노",
+        "안",
+        "먹",
+        "은지",
+        "넘",
+        "오래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우유랑 함씩 무면 존맛탱",
+      "tokens": [
+        "우유",
+        "랑",
+        "함",
+        "씩",
+        "무면",
+        "존",
+        "맛",
+        "탱"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "역시 도미노가 최고죠",
+      "tokens": [
+        "역시",
+        "도미노",
+        "가",
+        "최고",
+        "죠",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "먹고 싶은데 돼지라 죄책감",
+      "tokens": [
+        "먹",
+        "고",
+        "싶",
+        "은데",
+        "돼지",
+        "라",
+        "EC",
+        "죄책감"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오 내도 도미노만 묵는다 키키",
+      "tokens": [
+        "오내",
+        "도",
+        "도미노",
+        "만",
+        "묵",
+        "는",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

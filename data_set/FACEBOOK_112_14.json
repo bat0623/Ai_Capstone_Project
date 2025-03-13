@@ -1,0 +1,469 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "와 내가 보내준 영상 봤어?",
+      "tokens": [
+        "와내",
+        "가",
+        "보내",
+        "EC",
+        "준",
+        "ETM",
+        "영상",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니?",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "무슨 영상",
+      "tokens": [
+        "무슨",
+        "영상"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "못봤어",
+      "tokens": [
+        "못",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어떤 사람이 이중 주차된 차량 3대를 그냥 밀어버림 키키",
+      "tokens": [
+        "어떤",
+        "사람",
+        "이",
+        "이중",
+        "주차",
+        "된",
+        "ETM",
+        "차량",
+        "3",
+        "대",
+        "를",
+        "그냥",
+        "밀",
+        "어",
+        "버림",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "엥 미쳤다 진짜",
+      "tokens": [
+        "엥",
+        "미쳤",
+        "EP",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "음주?",
+      "tokens": [
+        "음주"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니 자기 차 앞에 세워놨다고 중립박은 차 다 밀어버림 키키",
+      "tokens": [
+        "아니",
+        "자기",
+        "차",
+        "앞",
+        "에",
+        "세워놨",
+        "EC",
+        "VX",
+        "EP",
+        "다고",
+        "중립",
+        "박",
+        "은",
+        "차",
+        "다",
+        "밀",
+        "어",
+        "버림",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그건 싸이코 아니야?",
+      "tokens": [
+        "그건",
+        "JX",
+        "싸이코",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "제정신 아닌 듯 키키",
+      "tokens": [
+        "제정신",
+        "아닌",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 그니까 이거 고소할 예정이라고 하더라!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "이거",
+        "고소",
+        "할",
+        "ETM",
+        "예정",
+        "이",
+        "라고",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "고소 해야지",
+      "tokens": [
+        "고소",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 그러는 거야",
+      "tokens": [
+        "왜",
+        "그러",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 또 이 사람이 얼마나 짜증나면 그랬겠냐고 그러더라",
+      "tokens": [
+        "근데",
+        "또",
+        "이",
+        "사람",
+        "이",
+        "얼마나",
+        "짜증",
+        "나",
+        "면",
+        "그랬",
+        "EP",
+        "겠",
+        "냐고",
+        "그러",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 불법 주차 요새 너무 많아 ㅜㅜ",
+      "tokens": [
+        "근데",
+        "불법",
+        "주차",
+        "요새",
+        "너무",
+        "많",
+        "아",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 이중주차 ㅜㅜ",
+      "tokens": [
+        "맞아이중주차ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이거 말하는 거 같아!",
+      "tokens": [
+        "이거",
+        "말",
+        "하",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 진짜 매너없는 사람 많지",
+      "tokens": [
+        "근데",
+        "진짜",
+        "매너",
+        "없",
+        "는",
+        "사람",
+        "많",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 중립기어 박은 차 세대 밀어버리는 거 봤는데 좀 속이 시원해 키키",
+      "tokens": [
+        "근데",
+        "중립",
+        "기어",
+        "박",
+        "은",
+        "차세대",
+        "밀",
+        "어",
+        "버리",
+        "는",
+        "거",
+        "봤",
+        "EP",
+        "는데",
+        "좀",
+        "속",
+        "이",
+        "시원",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아 근데 돈 많나보네 그 사람",
+      "tokens": [
+        "맞아",
+        "근데",
+        "돈",
+        "많",
+        "나",
+        "보",
+        "네",
+        "그",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "차 보니까 그렇게 많지는 않아 보이는데 아니면 차 세 대가 전화번호를 기입을 안 했나 봐!",
+      "tokens": [
+        "차보",
+        "니까",
+        "EC",
+        "그렇게",
+        "많",
+        "지",
+        "는",
+        "않",
+        "아",
+        "보이",
+        "는",
+        "데",
+        "아니",
+        "면",
+        "차세대",
+        "가",
+        "전화",
+        "번호",
+        "를",
+        "기입",
+        "을",
+        "안",
+        "했",
+        "EP",
+        "나",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아이고 왜 그랬데 분노조절인가봐",
+      "tokens": [
+        "아이고",
+        "왜",
+        "그랬",
+        "EP",
+        "데",
+        "분노",
+        "조절",
+        "인가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

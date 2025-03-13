@@ -1,0 +1,376 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 지금 하고 있는 게임 있어?",
+      "tokens": [
+        "언니",
+        "는",
+        "지금",
+        "하",
+        "고",
+        "있",
+        "는",
+        "게임",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 게임 폰 게임만 하는데?",
+      "tokens": [
+        "나",
+        "게임",
+        "폰",
+        "게임",
+        "만",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오~ 언니 요즘에 어떤 게임 하는데?",
+      "tokens": [
+        "오",
+        "~",
+        "언니",
+        "요즘",
+        "에",
+        "어떤",
+        "게임",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 요즘 카트라이더 하고 있어 키키",
+      "tokens": [
+        "나",
+        "요즘",
+        "카트라이더",
+        "하",
+        "고",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "카드라이더를 폰으로 할 수 있어?",
+      "tokens": [
+        "카드",
+        "라이더",
+        "를",
+        "폰",
+        "으로",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "응 얼마 전에 폰으로도 나왔더라?",
+      "tokens": [
+        "응",
+        "얼마",
+        "전",
+        "에",
+        "폰",
+        "으로",
+        "도",
+        "나왔",
+        "EP",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 진짜?",
+      "tokens": [
+        "오",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그거 피시보다 더 재미있어?",
+      "tokens": [
+        "그거",
+        "피시",
+        "보다",
+        "더",
+        "재미있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "피씨보다 더 재밌는 거 같아 키키",
+      "tokens": [
+        "피",
+        "씨",
+        "보다",
+        "더",
+        "재밌",
+        "는",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "동작법은 어떻게 돼?",
+      "tokens": [
+        "동작",
+        "법",
+        "은",
+        "어떻게",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "동작법은 쉬운 패드로 나오던데?",
+      "tokens": [
+        "동작",
+        "법",
+        "은",
+        "쉬운",
+        "ETM",
+        "패드",
+        "로",
+        "나오",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 뭔지 알 거 같아 아이템전도 있어?",
+      "tokens": [
+        "아",
+        "뭔지",
+        "VCP",
+        "EC",
+        "알",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "아이템",
+        "전",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 아이템전이 진짜 꿀잼이야",
+      "tokens": [
+        "응",
+        "아이템",
+        "전",
+        "이",
+        "진짜",
+        "꿀",
+        "ETM",
+        "잼",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 키키 아이템은 컴퓨터 카트도 재미있긴 해!",
+      "tokens": [
+        "진짜",
+        "키",
+        "키",
+        "아이템",
+        "은",
+        "컴퓨터",
+        "카트",
+        "도",
+        "재미있",
+        "긴",
+        "JX",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 모바일이 더 재밌어서 이걸로만 해",
+      "tokens": [
+        "나",
+        "는",
+        "모바일",
+        "이",
+        "더",
+        "재밌",
+        "어서",
+        "이걸로",
+        "JKB",
+        "만",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 그렇구나",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아이템은 피씨랑 똑같이 나와?",
+      "tokens": [
+        "아이템",
+        "은",
+        "피",
+        "씨",
+        "랑",
+        "똑같이",
+        "나와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 완전 똑같이 나오지~",
+      "tokens": [
+        "응",
+        "완전",
+        "똑같이",
+        "나오",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

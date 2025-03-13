@@ -1,0 +1,664 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그로게",
+      "tokens": [
+        "그",
+        "로",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "가을이나 겨울에 놀러 가고 싶은 곳 있엉?",
+      "tokens": [
+        "가을",
+        "이나",
+        "겨울",
+        "에",
+        "놀",
+        "러",
+        "가",
+        "고",
+        "싶",
+        "은",
+        "곳",
+        "있",
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 가을에 순천만 하하 시원한 갈대밭 너무 이쁘더라",
+      "tokens": [
+        "난",
+        "JX",
+        "가을",
+        "에",
+        "순천",
+        "만",
+        "하하",
+        "시원",
+        "한",
+        "ETM",
+        "갈대밭",
+        "너무",
+        "이쁘",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 순천만습지 진짜 기가 막히지",
+      "tokens": [
+        "아",
+        "순천",
+        "만",
+        "습지",
+        "진",
+        "JX",
+        "짜",
+        "기",
+        "가",
+        "막히",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "밑에 지방 놀러 가고 싶다",
+      "tokens": [
+        "밑",
+        "에",
+        "지방",
+        "놀",
+        "러",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 진짜 지방 가면 너무 좋긴 한데ㅠ",
+      "tokens": [
+        "아",
+        "진짜",
+        "지방",
+        "가",
+        "면",
+        "너무",
+        "좋",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "순천만 갈래**야?",
+      "tokens": [
+        "순천",
+        "만",
+        "갈래",
+        "EC",
+        "*",
+        "*",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "내년에... 근데 우리 이번 주말에 제부도나 오이도는 어때?",
+      "tokens": [
+        "내년",
+        "에",
+        ".",
+        "근데",
+        "우리",
+        "이번",
+        "주말",
+        "에",
+        "제부",
+        "도",
+        "나오",
+        "이도",
+        "NNB",
+        "JX",
+        "는",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오 진짜?",
+      "tokens": [
+        "오",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "금욜날 바로 갈까?",
+      "tokens": [
+        "금",
+        "욜",
+        "날",
+        "바로",
+        "갈까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 좋겠다",
+      "tokens": [
+        "오",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "제부도 진짜 좋다",
+      "tokens": [
+        "제부",
+        "도",
+        "진짜",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "날씨 선선하고 좋았음 좋겠다...",
+      "tokens": [
+        "날씨",
+        "선선",
+        "하",
+        "고",
+        "좋",
+        "았",
+        "음",
+        "좋",
+        "겠",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "비만 안 오면 딱인데",
+      "tokens": [
+        "비",
+        "만",
+        "안",
+        "오",
+        "면",
+        "딱",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "ㅠㅠ 그니까 비와도 근데 기분 좋던데~",
+      "tokens": [
+        "ㅠㅠ그니까비와도근데기분좋던데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 비 올 때 파라솔 엄청 큰 곳에서 동동주에 전 먹고 싶다ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "비올",
+        "때",
+        "파라솔",
+        "엄청",
+        "큰",
+        "ETM",
+        "곳",
+        "에서",
+        "동동주",
+        "에",
+        "전",
+        "먹",
+        "고",
+        "싶",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 너무 좋아...",
+      "tokens": [
+        "아",
+        "너무",
+        "좋",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 실내에서 비 오는 거 보는 거ㅜ",
+      "tokens": [
+        "난",
+        "JX",
+        "실내",
+        "에서",
+        "비오",
+        "는",
+        "거",
+        "보",
+        "는",
+        "거",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 나도!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "비 얼른 와라",
+      "tokens": [
+        "비",
+        "얼른",
+        "와라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 금욜날 제부도 고고?",
+      "tokens": [
+        "진짜",
+        "금",
+        "욜",
+        "날",
+        "제부",
+        "도",
+        "고고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "좋겠다ㅠㅠ",
+      "tokens": [
+        "좋",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "너네 대천은 안 가?",
+      "tokens": [
+        "너",
+        "네",
+        "대천",
+        "은",
+        "안",
+        "가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "거기 진짜 추천하는 조개구이집 있는데",
+      "tokens": [
+        "거기",
+        "진짜",
+        "추천",
+        "하",
+        "는",
+        "조개",
+        "구이",
+        "집",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "당연 가봤지!",
+      "tokens": [
+        "당연",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "우리 국내는 진짜 많이 돌아다닌 것 같아 사계절로...",
+      "tokens": [
+        "우리",
+        "국내",
+        "는",
+        "진짜",
+        "많이",
+        "돌아다닌",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "사계절",
+        "로",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "하하 마져마져",
+      "tokens": [
+        "하하",
+        "마져",
+        "마져"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "얼른 놀러 가고 파",
+      "tokens": [
+        "얼른",
+        "놀",
+        "러",
+        "가",
+        "고파"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "그니까 그런 거 같드라",
+      "tokens": [
+        "그니까",
+        "그런",
+        "거",
+        "같",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "어디 놀러 갈려면 너네한테 물어봐야 할 거 같아 키키",
+      "tokens": [
+        "어디",
+        "놀",
+        "러",
+        "갈려면",
+        "EC",
+        "너",
+        "네",
+        "한테",
+        "물어봐야",
+        "EC",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "아 진짜 날씨 좋을 때 놀러 많이 가야해ㅠ",
+      "tokens": [
+        "아",
+        "진짜",
+        "날씨",
+        "좋",
+        "을",
+        "때",
+        "놀",
+        "러",
+        "많이",
+        "가",
+        "야",
+        "해ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 32,
+      "text": "키키 그니까 얼른 추워지기 전에 놀쟝",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "얼른",
+        "추워",
+        "EC",
+        "지",
+        "기",
+        "전",
+        "에",
+        "놀",
+        "ETM",
+        "쟝"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 33,
+      "text": "키키 재밌겠당",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "재밌",
+        "겠",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 34,
+      "text": "그래서 어디 가기로 했어?",
+      "tokens": [
+        "그래서",
+        "어디",
+        "가",
+        "기로",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

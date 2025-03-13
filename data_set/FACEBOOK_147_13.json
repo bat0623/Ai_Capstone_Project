@@ -1,0 +1,486 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이제 금방 겨울 되겠지?",
+      "tokens": [
+        "이제",
+        "금방",
+        "겨울",
+        "되",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "곧 추워지고 눈도 오겠지",
+      "tokens": [
+        "곧",
+        "추워",
+        "EC",
+        "지",
+        "고",
+        "눈",
+        "도",
+        "오",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "눈 내리면 눈썰매 타야 되는데",
+      "tokens": [
+        "눈",
+        "내리",
+        "면",
+        "눈썰매",
+        "타",
+        "야",
+        "되",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 집에 있는 눈썰매 애기 갖다 줘야 하는데",
+      "tokens": [
+        "아집",
+        "에",
+        "있",
+        "는",
+        "눈썰매",
+        "애기",
+        "갖",
+        "다",
+        "줘야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "눈썰매 생각하니까 오대산 생각이 나네",
+      "tokens": [
+        "눈썰매",
+        "생각",
+        "하",
+        "니까",
+        "오대산",
+        "생각",
+        "이",
+        "나",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우리 어릴 때 오대산 가서 눈썰매 탔었지?",
+      "tokens": [
+        "우리",
+        "어릴",
+        "ETM",
+        "때",
+        "오",
+        "대",
+        "산가",
+        "서",
+        "눈썰매",
+        "탔었",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그랬어?",
+      "tokens": [
+        "그랬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 기억이 하나도 안 나",
+      "tokens": [
+        "나",
+        "는",
+        "기억",
+        "이",
+        "하나",
+        "도",
+        "안",
+        "나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너는 어렸으니까 그렇지",
+      "tokens": [
+        "너",
+        "는",
+        "어렸",
+        "EP",
+        "으니까",
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오대산 상원사였나?",
+      "tokens": [
+        "오대산",
+        "상원사",
+        "였",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "다같이 갔었어",
+      "tokens": [
+        "다",
+        "같이",
+        "갔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그때도 눈썰매 가져 갔어?",
+      "tokens": [
+        "그때",
+        "도",
+        "눈썰매",
+        "가져갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "비료 포대 위에서 탔지",
+      "tokens": [
+        "비료",
+        "포대",
+        "위",
+        "에서",
+        "탔",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "또 애기 목욕통에 태워서 끌고 다니기도 했지",
+      "tokens": [
+        "또애기",
+        "목욕통",
+        "에",
+        "태워서",
+        "EC",
+        "끌",
+        "고",
+        "다니",
+        "기",
+        "도",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "와 재미있었겠다",
+      "tokens": [
+        "와",
+        "재미있",
+        "었",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 기억이 안 나",
+      "tokens": [
+        "근데",
+        "기억",
+        "이",
+        "안",
+        "나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "원래 타려고 간 게 아니라 준비가 안 되어 있었어",
+      "tokens": [
+        "원래",
+        "타",
+        "려고",
+        "간",
+        "ETM",
+        "게",
+        "JKC",
+        "아니",
+        "라",
+        "준비",
+        "가",
+        "안",
+        "되",
+        "어",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "둘째 이모부가 목욕통에 끈 매달고 끌고 내려오셨어",
+      "tokens": [
+        "둘째",
+        "이모부",
+        "가",
+        "목욕통",
+        "에",
+        "끈",
+        "매달",
+        "고",
+        "끌",
+        "고",
+        "내려오",
+        "셨",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오 준비 안 한 거에 비해 잘 놀았다",
+      "tokens": [
+        "오",
+        "준비",
+        "안",
+        "한",
+        "ETM",
+        "거",
+        "에",
+        "비해",
+        "EC",
+        "잘",
+        "놀",
+        "았",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 눈이 너무 많이 와서 사거리에서 차가 한 바퀴 돌았어",
+      "tokens": [
+        "근데",
+        "눈",
+        "이",
+        "너무",
+        "많이",
+        "와서",
+        "EC",
+        "사거리",
+        "에서",
+        "차",
+        "가",
+        "한",
+        "바퀴",
+        "돌",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "눈 때문에 길이 미끄러웠어",
+      "tokens": [
+        "눈",
+        "때문",
+        "에",
+        "길",
+        "이",
+        "미끄러웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "헉 큰일 날 뻔했다",
+      "tokens": [
+        "헉",
+        "큰일날",
+        "ETM",
+        "뻔",
+        "했",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그러니까 잘 놀고 큰일 날 뻔했어",
+      "tokens": [
+        "그러니까",
+        "잘",
+        "놀",
+        "고",
+        "큰일날",
+        "ETM",
+        "뻔",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "눈 올 때는 더 조심해야 해",
+      "tokens": [
+        "눈",
+        "올",
+        "때",
+        "는",
+        "더",
+        "조심",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

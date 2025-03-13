@@ -1,0 +1,400 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대도 주 52시간 하나 키키",
+      "tokens": [
+        "군대",
+        "도",
+        "주",
+        "52",
+        "시간",
+        "하나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "군인 복지 좀 줄여야 해 내 생각엔",
+      "tokens": [
+        "군인",
+        "복지",
+        "좀",
+        "줄여야",
+        "EC",
+        "해내",
+        "EC",
+        "생각",
+        "엔",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 군인 복지 줄이면",
+      "tokens": [
+        "키키",
+        "군",
+        "인",
+        "ETM",
+        "복지",
+        "줄이",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "거기도 나름 출퇴근 있던데",
+      "tokens": [
+        "거기",
+        "도",
+        "나름",
+        "출퇴근",
+        "있",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "공무원은 적용 제외임",
+      "tokens": [
+        "공무원",
+        "은",
+        "적용",
+        "제",
+        "외임"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "군인한테 욕먹을 소린데 키키",
+      "tokens": [
+        "군인",
+        "한테",
+        "욕먹",
+        "을",
+        "소린데",
+        "VCP",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니 병사들은 그런 거 안 함?",
+      "tokens": [
+        "아니",
+        "병사",
+        "들",
+        "은",
+        "그런",
+        "거",
+        "안",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "공무원이 그래서 갈수록 억울해짐",
+      "tokens": [
+        "공무원",
+        "이",
+        "그래서",
+        "갈수록",
+        "억울",
+        "해짐",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래 키키",
+      "tokens": [
+        "그래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "군인 왜 복지 줄여 ㅜㅜ",
+      "tokens": [
+        "군인",
+        "왜",
+        "복지",
+        "줄여",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 공무원은 이미 52시간 아님?",
+      "tokens": [
+        "키키",
+        "공무원",
+        "은",
+        "이미",
+        "52",
+        "시간",
+        "아님",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘 시대에 돈도 못 받고 욕은 먹고",
+      "tokens": [
+        "요즘",
+        "시대",
+        "에",
+        "돈",
+        "도",
+        "못",
+        "받",
+        "고",
+        "욕",
+        "은",
+        "먹",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 왜 공무원 꿀아니가 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "공무원",
+        "꿀",
+        "아니",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "공무원은... 45시간 하는 듯...?",
+      "tokens": [
+        "공무원",
+        "은",
+        ".",
+        ".",
+        "45",
+        "시간",
+        "하",
+        "는",
+        "듯",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 중앙 부처들은 야근이 일상임 수당도 안주고",
+      "tokens": [
+        "근데",
+        "중앙",
+        "부처",
+        "들",
+        "은",
+        "야근",
+        "이",
+        "일상",
+        "임",
+        "ETN",
+        "수당",
+        "도",
+        "안",
+        "주",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "젤 잘 쉬던데 ㅜㅜ",
+      "tokens": [
+        "젤잘쉬던데ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "잘 쉬고 잘 먹고",
+      "tokens": [
+        "잘",
+        "쉬",
+        "고",
+        "잘",
+        "먹",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "군인은 얼마나 일해?",
+      "tokens": [
+        "군인",
+        "은",
+        "얼마나",
+        "일",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그거 오해야 중앙 부처 격무에 시달림",
+      "tokens": [
+        "그거",
+        "오",
+        "EC",
+        "해야",
+        "EC",
+        "중앙",
+        "부처",
+        "격무",
+        "에",
+        "시달림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아아 야근 ㅜㅜ",
+      "tokens": [
+        "아아야근ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 공부원이 젤 많이 쉬더만",
+      "tokens": [
+        "근데",
+        "공부",
+        "원",
+        "이",
+        "젤",
+        "많이",
+        "쉬",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

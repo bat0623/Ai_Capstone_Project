@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 여자친구랑 결혼해라",
+      "tokens": [
+        "*",
+        "*",
+        "여자",
+        "친구",
+        "랑",
+        "결혼",
+        "해라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "결혼 하다잖아 하하",
+      "tokens": [
+        "결혼",
+        "하",
+        "다잖아",
+        "VX",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "하고 싶다 제발 좀 나도 이제 키키",
+      "tokens": [
+        "하",
+        "고",
+        "싶",
+        "다",
+        "제발",
+        "좀",
+        "나",
+        "도",
+        "이제",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그 아가씨 아주 괜찮은 아가씨인 듯",
+      "tokens": [
+        "그",
+        "아가씨",
+        "아주",
+        "괜찮",
+        "은",
+        "아가씨",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그만 보체셈 하하",
+      "tokens": [
+        "그만",
+        "보체",
+        "셈",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내가 더 이상 좋은 사람 못 만날 듯",
+      "tokens": [
+        "내",
+        "가",
+        "더",
+        "이상",
+        "좋",
+        "은",
+        "사람",
+        "못",
+        "만날",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "너랑 완전 잘 어울려",
+      "tokens": [
+        "너",
+        "랑",
+        "완전",
+        "잘",
+        "어울려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "내년에 할 듯 아마?",
+      "tokens": [
+        "내년",
+        "에",
+        "할",
+        "ETM",
+        "듯",
+        "아마"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내년 말에 꼭 하고 싶다",
+      "tokens": [
+        "내년",
+        "말",
+        "에",
+        "꼭",
+        "하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 엄청 풋풋한 커플일껄?",
+      "tokens": [
+        "근데",
+        "엄청",
+        "풋풋",
+        "한",
+        "ETM",
+        "커플",
+        "일",
+        "껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 좋은 사람 하하 좋다?",
+      "tokens": [
+        "오",
+        "좋",
+        "은",
+        "사람",
+        "하하",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "여자친구 집에서 결혼 하라고 재촉하나 봐",
+      "tokens": [
+        "여자",
+        "친구",
+        "집",
+        "에서",
+        "결혼",
+        "하",
+        "라고",
+        "재촉",
+        "하",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이제 한 2달 만났던가...",
+      "tokens": [
+        "이제",
+        "한",
+        "2",
+        "달",
+        "만났",
+        "EP",
+        "던가",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "얼마나 만났지? 하하",
+      "tokens": [
+        "얼마나",
+        "만났",
+        "EP",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "저 이제 한 달 반이요;",
+      "tokens": [
+        "저",
+        "이제",
+        "한",
+        "달",
+        "반",
+        "이",
+        "요",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "내년 말 정도는 괜찮네 키키",
+      "tokens": [
+        "내년",
+        "말",
+        "정도",
+        "는",
+        "괜찮",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "엥 2달?",
+      "tokens": [
+        "엥",
+        "2",
+        "달"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아직 좀 이르긴 하네 하하",
+      "tokens": [
+        "아직",
+        "좀",
+        "이르",
+        "긴",
+        "JX",
+        "하",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아직 이르긴 한대 어릴 떄 만났어서 키키",
+      "tokens": [
+        "아직",
+        "이르",
+        "긴",
+        "JX",
+        "한대",
+        "EF",
+        "어릴",
+        "ETM",
+        "떄",
+        "만났",
+        "EP",
+        "어서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 남소 받을 생각 없어~?",
+      "tokens": [
+        "언니",
+        "남소",
+        "받",
+        "을",
+        "생각",
+        "없",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐~ 갑자기 왠 남소야?",
+      "tokens": [
+        "헐",
+        "~",
+        "갑자기",
+        "왠",
+        "남소",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "내가 그냥 건너 건너 아는 분이 계셔~",
+      "tokens": [
+        "내",
+        "가",
+        "그냥",
+        "건너",
+        "EC",
+        "건너",
+        "EC",
+        "아",
+        "는",
+        "분",
+        "이",
+        "계셔",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 얼굴은 잘 생긴 거야?",
+      "tokens": [
+        "오",
+        "얼굴",
+        "은",
+        "잘생긴",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어어,? 사진 보내 달라고 할까,?",
+      "tokens": [
+        "어",
+        "어",
+        ",",
+        "?",
+        "사진",
+        "보내",
+        "EC",
+        "달",
+        "라고",
+        "할까",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "응 남소는 역시 사진이지 키키",
+      "tokens": [
+        "응",
+        "남소",
+        "는",
+        "역시",
+        "사진",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 그렇지?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니 언니 운동하고 있다길래~ 이 분도 지금 열심히 운동 중이거든~",
+      "tokens": [
+        "아니",
+        "언니",
+        "운동",
+        "하",
+        "고",
+        "있",
+        "다길래",
+        "~",
+        "이분",
+        "도",
+        "지금",
+        "열심히",
+        "운동",
+        "중",
+        "이",
+        "거든",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아~ 자기 관리하는 사람은 괜찮더라~",
+      "tokens": [
+        "아",
+        "~",
+        "자기",
+        "관리",
+        "하",
+        "는",
+        "사람",
+        "은",
+        "괜찮",
+        "더라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어 맞아!",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 내가 알기론 나이도 28~29일 걸?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "내",
+        "가",
+        "알기",
+        "론",
+        "나이",
+        "도",
+        "28",
+        "~",
+        "29",
+        "일",
+        "걸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나이 차이도 참 적당하네 키키",
+      "tokens": [
+        "나이",
+        "차이",
+        "도",
+        "참",
+        "적당",
+        "하",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 그러니까 이거는 운명이야~ 생각해 봐~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러니까",
+        "이거",
+        "는",
+        "운명",
+        "이",
+        "야",
+        "~",
+        "생각",
+        "해",
+        "EC",
+        "봐",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이거는 운명인가?",
+      "tokens": [
+        "이거",
+        "는",
+        "운명",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 역시 대단해~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "역시",
+        "대단",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 내가 한 번 물어봐 줄까~?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "내",
+        "가",
+        "한",
+        "번",
+        "물어봐",
+        "EC",
+        "줄까",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응~ 내 번호 줘도 괜찮아~",
+      "tokens": [
+        "응",
+        "~",
+        "내",
+        "JKG",
+        "번호",
+        "줘도",
+        "EC",
+        "괜찮",
+        "아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오 좋지 좋지!",
+      "tokens": [
+        "오",
+        "좋",
+        "지",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "근데 대신에 닭찌찌만 먹는대!",
+      "tokens": [
+        "근데",
+        "대신",
+        "에",
+        "닭",
+        "찌찌",
+        "만",
+        "먹",
+        "는대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "으... 그건 좀 별로인 거 같아...",
+      "tokens": [
+        "으",
+        ".",
+        "그건",
+        "JX",
+        "좀",
+        "별로",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_111_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

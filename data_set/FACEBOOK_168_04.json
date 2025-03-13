@@ -1,0 +1,354 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요새 코로나라서 회사 망한다잖아",
+      "tokens": [
+        "요새",
+        "코",
+        "로",
+        "나라",
+        "서회",
+        "사망",
+        "한다",
+        "EF",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 망한데도 많더라",
+      "tokens": [
+        "그니까",
+        "망한",
+        "ETM",
+        "데",
+        "도",
+        "많",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래 망한데 많다드라",
+      "tokens": [
+        "그래",
+        "EC",
+        "망한",
+        "ETM",
+        "데",
+        "많",
+        "다드라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 오빠네 회사는 더 잘됨...",
+      "tokens": [
+        "근데",
+        "오빠",
+        "네",
+        "회사",
+        "는",
+        "더",
+        "잘",
+        "됨",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 대황정밀은 호황기야",
+      "tokens": [
+        "근데",
+        "대황",
+        "정밀",
+        "은",
+        "호황",
+        "기",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "친구들 회사가 빨리 마치든데",
+      "tokens": [
+        "친구",
+        "들",
+        "회사",
+        "가",
+        "빨리",
+        "마치",
+        "든데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "미국에서 트랙터를 엄청 산데",
+      "tokens": [
+        "미국",
+        "에서",
+        "트랙터",
+        "를",
+        "엄청",
+        "산데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아주 농기계가 겁나 잘 팔린데",
+      "tokens": [
+        "아주",
+        "농기계",
+        "가",
+        "겁나",
+        "EC",
+        "잘",
+        "팔린",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "월급도 다 깎여서 ㅠㅠ",
+      "tokens": [
+        "월급",
+        "도",
+        "다",
+        "깎여서",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "무슨 그런 일이 다 있는지",
+      "tokens": [
+        "무슨",
+        "그런",
+        "일",
+        "이",
+        "다",
+        "있",
+        "는지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "미국에서 대동트랙터 그리 많이 사네",
+      "tokens": [
+        "미국",
+        "에서",
+        "대동",
+        "트랙터",
+        "그리",
+        "많이",
+        "사",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "대동트랙터 그리 많이 삽니까?",
+      "tokens": [
+        "대동",
+        "트랙터",
+        "그리",
+        "많이",
+        "삽니까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그니까 근데 회사에서 사람 구하는데 아무도 안온뎅",
+      "tokens": [
+        "그니까",
+        "근데",
+        "회사",
+        "에서",
+        "사람",
+        "구하",
+        "는데",
+        "아무",
+        "도",
+        "안",
+        "온",
+        "ETM",
+        "뎅"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아주 내년까지 일이 겁나 많아",
+      "tokens": [
+        "아주",
+        "내년",
+        "까지",
+        "일",
+        "이",
+        "겁나",
+        "EC",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "헐 그럼 저도 갈게여 키키",
+      "tokens": [
+        "헐",
+        "그럼",
+        "저",
+        "도",
+        "갈",
+        "ETM",
+        "게여",
+        "VCP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "사람이 안구해 진다네...",
+      "tokens": [
+        "사람",
+        "이",
+        "안",
+        "구해진다",
+        "EC",
+        "VX",
+        "EF",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "** 대동트랙터 한대 있니?",
+      "tokens": [
+        "*",
+        "*",
+        "대동",
+        "트랙터",
+        "한대",
+        "EC",
+        "있",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "네 저희집 대동입니더 키키",
+      "tokens": [
+        "네",
+        "저희",
+        "집",
+        "대동",
+        "입니더",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

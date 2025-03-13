@@ -1,0 +1,496 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "위경련 때문에 병원 다녀왔어 ㅠㅠ",
+      "tokens": [
+        "위경련",
+        "때문",
+        "에",
+        "병원",
+        "다녀왔",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헉 언니 위경련 자주 일어나?",
+      "tokens": [
+        "헉",
+        "언니",
+        "위경련",
+        "자주",
+        "일어나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "헐 ㅠㅠ 병원에서 약 받아 왔어?",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "병원",
+        "에서",
+        "약",
+        "받",
+        "아",
+        "왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "한번 심하게 아프더니 그 후로 스트레스 많이 받으면 계속 생기더라 ㅠㅠ",
+      "tokens": [
+        "한",
+        "번",
+        "심하",
+        "게",
+        "아프",
+        "더니",
+        "그",
+        "후",
+        "로",
+        "스트레스",
+        "많이",
+        "받",
+        "으면",
+        "계속",
+        "생기",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 ㅜㅜ 진짜 위경련 엄청 아픈데 ㅜㅜ",
+      "tokens": [
+        "아",
+        "ㅜㅜ",
+        "진짜",
+        "위경련",
+        "엄청",
+        "아픈데",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 ㅠㅠ 그거 엄청 아프다고 하던데 조심해야 하는데 ㅠ",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "그거",
+        "엄청",
+        "아프",
+        "다고",
+        "하",
+        "던데",
+        "조심",
+        "해야",
+        "EC",
+        "하",
+        "는",
+        "데ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "와 진짜 새벽에 엄청 아파서 허리도 못 펴고 ㅠㅠ",
+      "tokens": [
+        "와",
+        "진짜",
+        "새벽",
+        "에",
+        "엄청",
+        "아파서",
+        "EC",
+        "허리",
+        "도",
+        "못",
+        "펴",
+        "고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 심하면 병원 응급실 가야 해",
+      "tokens": [
+        "맞",
+        "아",
+        "심하",
+        "면",
+        "병원",
+        "응급실",
+        "가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐 ㅠㅠ 다들 몸 진짜 조심해야 해",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "다",
+        "들",
+        "몸",
+        "진짜",
+        "조심",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아프면 진짜 서러운데 ㅠㅠ",
+      "tokens": [
+        "아프",
+        "면",
+        "진짜",
+        "서러운데",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "버티다가 너무 아파서 병원 응급실 갔다 왔어 ㅠㅠ",
+      "tokens": [
+        "버티",
+        "다가",
+        "너무",
+        "아파서",
+        "EC",
+        "병원",
+        "응급실",
+        "갔다왔",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "ㅜㅜ 언니 진짜 심했었나 보다",
+      "tokens": [
+        "ㅜㅜ",
+        "언니",
+        "진짜",
+        "심했었",
+        "EP",
+        "나",
+        "보다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "지금은 괜찮아?",
+      "tokens": [
+        "지금",
+        "은",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그러게 지금은 괜찮아?",
+      "tokens": [
+        "그러게",
+        "지금",
+        "은",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아직 아퍼?",
+      "tokens": [
+        "아직",
+        "아퍼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "링거 맞고 나니까 괜찮더라",
+      "tokens": [
+        "링거",
+        "맞",
+        "고",
+        "나",
+        "니까",
+        "괜찮",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 웃겨 이거 키키",
+      "tokens": [
+        "진짜",
+        "웃겨",
+        "EF",
+        "이거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "약은 먹었어?",
+      "tokens": [
+        "약",
+        "은",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "먹는 것도 조심해야 한대",
+      "tokens": [
+        "먹",
+        "는",
+        "것",
+        "도",
+        "조심",
+        "해야",
+        "EC",
+        "한대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그니깐 뭐든지 조금이라도 아프면 바로 병원 가야 해 진짜 ㅠㅠ",
+      "tokens": [
+        "그니깐",
+        "뭐",
+        "든지",
+        "EC",
+        "조금",
+        "이라도",
+        "아프",
+        "면",
+        "바로",
+        "병원",
+        "가",
+        "야",
+        "해",
+        "EF",
+        "진짜",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "당분간 죽 먹으라고 하더라고 ㅠㅠ",
+      "tokens": [
+        "당분간",
+        "죽",
+        "먹",
+        "으라고",
+        "하",
+        "더라고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "기름기 없는 거 자극 없는 걸로 ㅠㅠ",
+      "tokens": [
+        "기름기",
+        "없",
+        "는",
+        "거",
+        "자극",
+        "없",
+        "는",
+        "걸로",
+        "JKB",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "맞아 ㅜㅜ 위경련 진짜 아프다던데 고생했네",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅜㅜ",
+        "위경련",
+        "진짜",
+        "아프",
+        "다던데",
+        "고생",
+        "했",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "진짜 스트레스는 어쩔 수 없는 거니깐 밥이라도 잘 챙겨 먹자 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "스트레스",
+        "는",
+        "어쩔",
+        "ETM",
+        "수",
+        "없",
+        "는",
+        "거",
+        "니깐",
+        "EC",
+        "밥",
+        "이",
+        "라도",
+        "잘",
+        "챙겨",
+        "EC",
+        "먹",
+        "자",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

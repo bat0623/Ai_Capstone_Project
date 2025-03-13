@@ -1,0 +1,429 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 시력이 좋은 편이야?",
+      "tokens": [
+        "언니",
+        "는",
+        "시력",
+        "이",
+        "좋",
+        "은",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 좋았는데 요새 많이 나빠졌어",
+      "tokens": [
+        "나",
+        "는",
+        "좋",
+        "았",
+        "는데",
+        "요새",
+        "많이",
+        "나빠졌",
+        "EC",
+        "VX",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "언니 그러면 양쪽 시력이 몇인지 알아?",
+      "tokens": [
+        "언니",
+        "그러",
+        "면",
+        "양쪽",
+        "시력",
+        "이",
+        "몇",
+        "인지",
+        "VCP",
+        "EC",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "쉴 때 안과 가볼까 해",
+      "tokens": [
+        "쉴",
+        "ETM",
+        "때",
+        "안과",
+        "가",
+        "볼까",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "왜 멀리 있는 게 잘 안 보여?",
+      "tokens": [
+        "왜",
+        "멀리",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "잘",
+        "안",
+        "보여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어 멀리 있는 게 안 보여 ㅜㅜ 넌?",
+      "tokens": [
+        "어",
+        "멀리",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "안",
+        "보여",
+        "EC",
+        "ㅜㅜ",
+        "넌",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "홀 ㅜㅜ 나도 멀리 있는 게 잘 안 보이는데 안경은 안 쓰고 있어!",
+      "tokens": [
+        "홀",
+        "ㅜㅜ",
+        "나",
+        "도",
+        "멀리",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "잘",
+        "안",
+        "보이",
+        "는데",
+        "안경",
+        "은",
+        "안",
+        "쓰",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "하루 종일 나도 컴퓨터 앞에 있어서 그런가 봐",
+      "tokens": [
+        "하루",
+        "종일",
+        "나",
+        "도",
+        "컴퓨터",
+        "앞",
+        "에",
+        "있",
+        "어서",
+        "그런가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 맞아 ㅜㅜ",
+      "tokens": [
+        "아맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "컴퓨터 보니까 어쩔 수 없나 봐 시력은 ㅜㅜ",
+      "tokens": [
+        "컴퓨터",
+        "보",
+        "니까",
+        "어쩔",
+        "ETM",
+        "수",
+        "없",
+        "나",
+        "봐",
+        "EF",
+        "시력",
+        "은",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 조만간 눈 검사 좀 해야지",
+      "tokens": [
+        "나",
+        "도",
+        "조만간",
+        "눈",
+        "검사",
+        "좀",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "꼭 해 아니면 나는 지금 라식할까 생각 중이야!",
+      "tokens": [
+        "꼭",
+        "해",
+        "EC",
+        "아니",
+        "면",
+        "나",
+        "는",
+        "지금",
+        "라식",
+        "할까",
+        "EC",
+        "생각",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "라식 무섭지 않아?",
+      "tokens": [
+        "라식",
+        "무섭",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "안 무서워?",
+      "tokens": [
+        "안",
+        "무서워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내 친구 했는데 금방 끝나더라!",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "했",
+        "EP",
+        "는데",
+        "금방",
+        "끝",
+        "나",
+        "더라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내 친구들도 다 편해 해 근데",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "들",
+        "도",
+        "다",
+        "편해",
+        "EC",
+        "해",
+        "EF",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "초반에만 빛을 안 보면 된대 키키",
+      "tokens": [
+        "초반",
+        "에",
+        "만",
+        "빛",
+        "을",
+        "안",
+        "보",
+        "면",
+        "된",
+        "ETM",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 요새는 스마트라식도 있잖아",
+      "tokens": [
+        "근데",
+        "요새",
+        "는",
+        "스마트",
+        "라식",
+        "도",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

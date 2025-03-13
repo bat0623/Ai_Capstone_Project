@@ -1,0 +1,497 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "작은엄마는 조카 많지 않아?",
+      "tokens": [
+        "작",
+        "은",
+        "엄마",
+        "는",
+        "조카",
+        "많",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엄청 많지~",
+      "tokens": [
+        "엄청",
+        "많",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "열 명은 될 것 같아",
+      "tokens": [
+        "열",
+        "명",
+        "은",
+        "될",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 명절 때 용돈 어떻게 줘?",
+      "tokens": [
+        "키",
+        "키",
+        "명절",
+        "때",
+        "용돈",
+        "어떻",
+        "게",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "많아서 2만 원씩 주거나 큰 애들은 5만 원",
+      "tokens": [
+        "많",
+        "아서",
+        "2",
+        "만",
+        "원",
+        "씩",
+        "주",
+        "거나",
+        "큰",
+        "ETM",
+        "애",
+        "들",
+        "은",
+        "5",
+        "만",
+        "원"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "지금 제일 큰 조카가 몇 살이야?",
+      "tokens": [
+        "지금",
+        "제일",
+        "큰조카",
+        "가",
+        "몇",
+        "살",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "30살이야 키키",
+      "tokens": [
+        "30",
+        "살",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내년에 장가 간대~",
+      "tokens": [
+        "내년",
+        "에",
+        "장가간",
+        "ETM",
+        "대",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "와 대박 키키",
+      "tokens": [
+        "와",
+        "대박",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "작은엄마는 명절이 두렵겠어~",
+      "tokens": [
+        "작",
+        "은",
+        "엄마",
+        "는",
+        "명절",
+        "이",
+        "두렵",
+        "겠",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그려~",
+      "tokens": [
+        "그려",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너네도 줄려면 돈이 훅훅 나가",
+      "tokens": [
+        "너",
+        "네",
+        "도",
+        "줄려면",
+        "EC",
+        "돈",
+        "이",
+        "훅훅",
+        "나가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 이제 우리 다 성인 됐으니까 안 나가잖아~",
+      "tokens": [
+        "키",
+        "키",
+        "이제",
+        "우리",
+        "다",
+        "성인",
+        "됐",
+        "EP",
+        "으니까",
+        "안",
+        "나가",
+        "잖아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래도 가끔 줘야지 ㅠㅠ",
+      "tokens": [
+        "그래도",
+        "가끔",
+        "줘야지",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "고생 하는데",
+      "tokens": [
+        "고생",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 작은엄마 제일 어린 조카는 몇 살이야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "작",
+        "은",
+        "엄마",
+        "제일",
+        "어린",
+        "ETM",
+        "조카",
+        "는",
+        "몇",
+        "살",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "지금 4살인데 엄청 예뻐",
+      "tokens": [
+        "지금",
+        "4",
+        "살",
+        "인데",
+        "EC",
+        "엄청",
+        "예뻐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "이쁘게 생겨서",
+      "tokens": [
+        "이쁘",
+        "게",
+        "생겨서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 와 대박",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "와",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "몇 째 언니가 낳은 거야?",
+      "tokens": [
+        "몇째",
+        "언니",
+        "가",
+        "낳",
+        "은",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "조카가 낳은 애라...",
+      "tokens": [
+        "조카",
+        "가",
+        "낳",
+        "은",
+        "애라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그럼 나는 이모할머니",
+      "tokens": [
+        "그럼",
+        "나",
+        "는",
+        "이모할머니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "어엉,? 키키 와 대박",
+      "tokens": [
+        "어엉",
+        ",",
+        "?",
+        "키",
+        "키",
+        "ETN",
+        "와",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "벌써 작은엄마가 할머니라니!",
+      "tokens": [
+        "벌써",
+        "작",
+        "은",
+        "엄마",
+        "가",
+        "할머니",
+        "라니",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "그러게,",
+      "tokens": [
+        "그러게",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "할매 소리 들은 지 오래야",
+      "tokens": [
+        "할매",
+        "소리",
+        "들",
+        "은",
+        "지오",
+        "래야",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

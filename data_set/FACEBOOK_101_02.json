@@ -1,0 +1,472 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 지금 자취하고 있어?",
+      "tokens": [
+        "언니",
+        "지금",
+        "자취",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 자취비 장난 아님",
+      "tokens": [
+        "웅",
+        "자취",
+        "비",
+        "장난아",
+        "님"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 맞아,",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 지금 서울살이하고 있잖아,",
+      "tokens": [
+        "나",
+        "도",
+        "지금",
+        "서울",
+        "살",
+        "이",
+        "하",
+        "고",
+        "있",
+        "잖아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "거기 보증금이랑 월세 얼마야?",
+      "tokens": [
+        "거기",
+        "보증금",
+        "이랑",
+        "월세",
+        "얼마",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "여기 되게 싸게 주고 왔어",
+      "tokens": [
+        "여기",
+        "되게",
+        "싸",
+        "게",
+        "주",
+        "고",
+        "왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "얼마게?",
+      "tokens": [
+        "얼마",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "얼만데",
+      "tokens": [
+        "얼만데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래도 거기 기본이 비싸자나",
+      "tokens": [
+        "그래도",
+        "거기",
+        "기본",
+        "이",
+        "비싸",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "여기 보증금 100에 월세 38만 원이야!",
+      "tokens": [
+        "여기",
+        "보증금",
+        "100",
+        "에",
+        "월세",
+        "38",
+        "만",
+        "원",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "어딘데",
+      "tokens": [
+        "어딘데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "왜 이렇게 싸?",
+      "tokens": [
+        "왜",
+        "이렇게",
+        "싸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "여기 키키 신림이야,",
+      "tokens": [
+        "여기",
+        "키",
+        "키",
+        "신림",
+        "이",
+        "야",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "여기 주변 맨날 공사해 허허",
+      "tokens": [
+        "여기",
+        "주변",
+        "맨날",
+        "공사",
+        "해",
+        "EC",
+        "허허"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "원룸이야?",
+      "tokens": [
+        "원룸",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "신축?",
+      "tokens": [
+        "신축"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "대전보다 좋은데?",
+      "tokens": [
+        "대전",
+        "보다",
+        "좋",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 신축,?",
+      "tokens": [
+        "키",
+        "키",
+        "신축",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "여기 2003년도에 완공이던데?",
+      "tokens": [
+        "여기",
+        "2003",
+        "년",
+        "도",
+        "에",
+        "완공",
+        "이",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "와 깨끗해?",
+      "tokens": [
+        "와",
+        "깨끗",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나중에 놀러갈래",
+      "tokens": [
+        "나중",
+        "에",
+        "놀",
+        "러",
+        "갈래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 아니",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "여기 완전 코딱지만 해서 오면 안 돼!",
+      "tokens": [
+        "여기",
+        "완전",
+        "코딱지",
+        "만",
+        "해서",
+        "EC",
+        "오",
+        "면",
+        "안",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그래도 그 정도면 서울에서 살만 할듯 키키",
+      "tokens": [
+        "그래도",
+        "그",
+        "정도",
+        "면",
+        "EC",
+        "서울",
+        "에서",
+        "살만",
+        "할",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 진짜 나 혼자 살기 딱 좋아,",
+      "tokens": [
+        "키키진짜나혼자살기딱좋아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "나도 이사 갈래",
+      "tokens": [
+        "나",
+        "도",
+        "이사",
+        "갈래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "나 퇴근",
+      "tokens": [
+        "나",
+        "퇴근"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "가서 연락함",
+      "tokens": [
+        "가",
+        "서",
+        "연락",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

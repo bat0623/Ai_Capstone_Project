@@ -1,0 +1,368 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 1인 가구가 늘어났대",
+      "tokens": [
+        "요즘",
+        "1",
+        "인",
+        "가구",
+        "가",
+        "늘어났",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "1인 가구가 늘어서 참 큰일이야",
+      "tokens": [
+        "1",
+        "인",
+        "가구",
+        "가",
+        "늘",
+        "어서",
+        "참",
+        "큰일",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 1인 가구가 좋은 거 같아",
+      "tokens": [
+        "나",
+        "는",
+        "1",
+        "인",
+        "가구",
+        "가",
+        "좋",
+        "은",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "다들 혼자 사나 봐 ㅠㅠ",
+      "tokens": [
+        "다",
+        "들",
+        "혼자",
+        "사",
+        "나",
+        "봐",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요즘에 대가족도 많이 없어진다 하더라",
+      "tokens": [
+        "요즘",
+        "에",
+        "대",
+        "가족",
+        "도",
+        "많이",
+        "없",
+        "어",
+        "진다",
+        "EC",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "다들 혼자 사는 추세야",
+      "tokens": [
+        "다",
+        "들",
+        "혼자",
+        "사",
+        "는",
+        "추세",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 커플이 좋은데 말이야 ㅠㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "커플",
+        "이",
+        "좋",
+        "은데",
+        "말",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "내 로망이 점점 깨지고 있어",
+      "tokens": [
+        "내",
+        "JKG",
+        "로망",
+        "이",
+        "점점",
+        "깨지",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 크면 다 같이 살고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "크",
+        "면",
+        "다",
+        "같이",
+        "살",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "요즘 대가족 거의 없지 ㅜㅜ",
+      "tokens": [
+        "요즘",
+        "대",
+        "가족",
+        "거의",
+        "없",
+        "지",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "빨리 결혼을 하고 싶어",
+      "tokens": [
+        "빨리",
+        "결혼",
+        "을",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘 결혼 시기가 많이 늦어졌어",
+      "tokens": [
+        "요즘",
+        "결혼",
+        "시기",
+        "가",
+        "많이",
+        "늦",
+        "어",
+        "졌",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 혼자서 절대 안 살꺼야 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "혼자",
+        "서",
+        "절대",
+        "안",
+        "살",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 요즘에 그 얘기 들었어?",
+      "tokens": [
+        "근데",
+        "요즘",
+        "에",
+        "그",
+        "얘기",
+        "들",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 혼자 절대 안 살거야",
+      "tokens": [
+        "나",
+        "도",
+        "혼자",
+        "절대",
+        "안",
+        "살",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 얼른 결혼 하고 싶어 키키",
+      "tokens": [
+        "나",
+        "도",
+        "얼른",
+        "결혼",
+        "하",
+        "고",
+        "싶",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "전지현이 드라마를 찍는대",
+      "tokens": [
+        "전지현",
+        "이",
+        "드라마",
+        "를",
+        "찍",
+        "는대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "전지현이 찍는 드라마는 다 재밌던데",
+      "tokens": [
+        "전지현",
+        "이",
+        "찍",
+        "는",
+        "드라마",
+        "는",
+        "다",
+        "재밌",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

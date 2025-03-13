@@ -1,0 +1,374 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 매일 운동하자",
+      "tokens": [
+        "우리",
+        "매일",
+        "운동",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 허리가 너무 아파",
+      "tokens": [
+        "요즘",
+        "에",
+        "허리",
+        "가",
+        "너무",
+        "아파",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "다들 각자 조깅하로 가자",
+      "tokens": [
+        "다",
+        "들",
+        "각자",
+        "조깅",
+        "하",
+        "로",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "건강은 항상 지켜야 해 키키",
+      "tokens": [
+        "건강",
+        "은",
+        "항상",
+        "지켜야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "여자친구가 나를 너무 힘들게 해",
+      "tokens": [
+        "여자",
+        "친구",
+        "가",
+        "나",
+        "를",
+        "너무",
+        "힘들",
+        "게",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "조깅 할 때 무릎 조심 해야 돼",
+      "tokens": [
+        "조깅",
+        "할",
+        "ETM",
+        "때",
+        "무릎",
+        "조심",
+        "해야",
+        "EC",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "남자는 허리가 너무 중요해",
+      "tokens": [
+        "남자",
+        "는",
+        "허리",
+        "가",
+        "너무",
+        "중요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "장난이고 너무 건강해서 심란해",
+      "tokens": [
+        "장난",
+        "이",
+        "고",
+        "너무",
+        "건강",
+        "해서",
+        "EC",
+        "심란",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "운동하다 아프면 바로바로 병원 가야 해",
+      "tokens": [
+        "운동",
+        "하",
+        "다",
+        "아프",
+        "면",
+        "바로",
+        "바로",
+        "병원",
+        "가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "조깅 할 때는 항상 운동화를 신어야 해",
+      "tokens": [
+        "조깅",
+        "할",
+        "ETM",
+        "때",
+        "는",
+        "항상",
+        "운동",
+        "화",
+        "를",
+        "신",
+        "어야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 같은 사람은 왜 아프지도 않을까?",
+      "tokens": [
+        "나",
+        "같",
+        "은",
+        "사람",
+        "은",
+        "왜",
+        "아프",
+        "지",
+        "도",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 내일 팔굽혀 펴기 할 거야",
+      "tokens": [
+        "나",
+        "는",
+        "내일",
+        "팔굽혀",
+        "EC",
+        "펴",
+        "기",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 운동할 때 항상 조심하는 중이야",
+      "tokens": [
+        "나",
+        "도",
+        "운동",
+        "할",
+        "ETM",
+        "때",
+        "항상",
+        "조심",
+        "하",
+        "는",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "가끔 아픈 사람들이 신기해",
+      "tokens": [
+        "가끔",
+        "아픈",
+        "ETM",
+        "사람",
+        "들",
+        "이",
+        "신기",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "운동 후 마사지가 중요해",
+      "tokens": [
+        "운동",
+        "후",
+        "마사지",
+        "가",
+        "중요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 요즘 철봉을 하고 있어",
+      "tokens": [
+        "난",
+        "JX",
+        "요즘",
+        "철봉",
+        "을",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "너희들도 열심히 운동하길 바래",
+      "tokens": [
+        "너희",
+        "들",
+        "도",
+        "열심히",
+        "운동",
+        "하",
+        "길",
+        "JKO",
+        "바래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 요즘 철봉하고 있어",
+      "tokens": [
+        "나",
+        "도",
+        "요즘",
+        "철봉",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "현재 정촌 날씨 흐림",
+      "tokens": [
+        "현재",
+        "정촌",
+        "날씨",
+        "흐림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "여기는 해가 안 뜬다",
+      "tokens": [
+        "여기",
+        "는",
+        "해",
+        "가",
+        "안",
+        "뜬다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "신안동도 흐림...추어...",
+      "tokens": [
+        "신안동",
+        "도",
+        "흐림",
+        "ETN",
+        ".",
+        "추",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오늘 스모그 있다 함",
+      "tokens": [
+        "오늘",
+        "스모그",
+        "있",
+        "다",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "빨래 상쾌하게 해 놨는데 해가 쨍 해야 하는데",
+      "tokens": [
+        "빨래",
+        "상쾌",
+        "하",
+        "게",
+        "해놨",
+        "EC",
+        "VX",
+        "EP",
+        "는데",
+        "해",
+        "가",
+        "쨍",
+        "해야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "제주도도 날씨가 여기랑 비슷하구먼",
+      "tokens": [
+        "제주도",
+        "도",
+        "날씨",
+        "가",
+        "여기",
+        "랑",
+        "비슷",
+        "하",
+        "구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그거 구름 아니구 먼지임",
+      "tokens": [
+        "그거",
+        "구름",
+        "아니",
+        "구",
+        "먼지",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "해가 빨리 떠야 한다",
+      "tokens": [
+        "해",
+        "가",
+        "빨리",
+        "떠야",
+        "EC",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래야 기분도 좋아진다",
+      "tokens": [
+        "그래야",
+        "기분",
+        "도",
+        "좋",
+        "아",
+        "진다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "집에 있으니까 엄마가 빨래해줘서 넘 좋앙",
+      "tokens": [
+        "집",
+        "에",
+        "있",
+        "으니까",
+        "엄마",
+        "가",
+        "빨래",
+        "해",
+        "EC",
+        "줘서",
+        "EC",
+        "넘",
+        "좋",
+        "앙"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "스모그 현상이 심하다 함",
+      "tokens": [
+        "스모그",
+        "현상",
+        "이",
+        "심하",
+        "다",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "스모그인가... 여기도",
+      "tokens": [
+        "스모그",
+        "인가",
+        "EF",
+        ".",
+        "여기",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "스모그 영국만 있다고 배웠는데 이제 우리나라도 어쩔 수 옶군",
+      "tokens": [
+        "스모그",
+        "영국",
+        "만",
+        "있",
+        "다고",
+        "배웠",
+        "EP",
+        "는데",
+        "이제",
+        "우리",
+        "나라",
+        "도",
+        "어쩔",
+        "ETM",
+        "수",
+        "옶군"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "빨래에  먼지 다 묻었을 듯",
+      "tokens": [
+        "빨래",
+        "에",
+        "먼지",
+        "다",
+        "묻",
+        "었",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "뭔가 기분 나쁘게 흐려 키키",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "기분",
+        "나쁘",
+        "게",
+        "흐려",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "힝 진짜 찝찝한데",
+      "tokens": [
+        "힝",
+        "진짜",
+        "찝찝",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "마자 기분 나쁘게 흐려!",
+      "tokens": [
+        "마자",
+        "기분",
+        "나쁘",
+        "게",
+        "흐려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "저 멀리 해는 보이긴 해 키키",
+      "tokens": [
+        "저",
+        "멀리",
+        "해",
+        "EC",
+        "는",
+        "보이",
+        "긴",
+        "JX",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "해가 떠야 사람이 기분이 살아난다니께",
+      "tokens": [
+        "해",
+        "가",
+        "떠야",
+        "EC",
+        "사람",
+        "이",
+        "기분",
+        "이",
+        "살아난다",
+        "EC",
+        "니께",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

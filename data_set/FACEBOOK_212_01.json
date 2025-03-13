@@ -1,0 +1,362 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이제 저녁 식사 하니?",
+      "tokens": [
+        "이제",
+        "저녁",
+        "식사",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저는 카레 먹을겁니당 키키",
+      "tokens": [
+        "저",
+        "는",
+        "카레",
+        "먹",
+        "을",
+        "겁",
+        "니",
+        "EC",
+        "당",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 굶을 듯...  ㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "굶",
+        "을",
+        "듯",
+        ".",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "다이어트",
+      "tokens": [
+        "다이어트"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 저녁 준비 중~",
+      "tokens": [
+        "난",
+        "JX",
+        "저녁",
+        "준비",
+        "중",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "지금 열심히 준비 중임 키키",
+      "tokens": [
+        "지금",
+        "열심히",
+        "준비",
+        "중임",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "저녁 뭐 만들어 먹어?",
+      "tokens": [
+        "저녁",
+        "뭐",
+        "만들",
+        "어",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 엄마가 준비 중 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "엄마",
+        "가",
+        "준비",
+        "중",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "넘나 배고프넹 키키",
+      "tokens": [
+        "넘나배고프넹키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "둘 다 남편 해주려면 재밌겠당",
+      "tokens": [
+        "둘",
+        "다",
+        "남편",
+        "해",
+        "EC",
+        "주",
+        "려면",
+        "재밌",
+        "겠",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "우리는 오늘 마파두부...!",
+      "tokens": [
+        "우리",
+        "는",
+        "오늘",
+        "마파두부",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "와 엄마가 또 저녁을 ㄷㄷ",
+      "tokens": [
+        "와",
+        "엄마",
+        "가",
+        "또",
+        "저녁",
+        "을",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "부럽다",
+      "tokens": [
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "요리는 주로 누가 해",
+      "tokens": [
+        "요리",
+        "는",
+        "주로",
+        "누가",
+        "JKS",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "**은 아직 결혼 안 했음...",
+      "tokens": [
+        "*",
+        "*",
+        "은",
+        "아직",
+        "결혼",
+        "안",
+        "했",
+        "EP",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 진짜 대받인디",
+      "tokens": [
+        "와",
+        "진짜",
+        "대",
+        "받",
+        "인디"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "결혼 전에 같이 합가 하잖어",
+      "tokens": [
+        "결혼",
+        "전",
+        "에",
+        "같이",
+        "합가",
+        "하",
+        "잖어",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "요샌 오빠가 거의 요리사얌",
+      "tokens": [
+        "요샌",
+        "JX",
+        "오빠",
+        "가",
+        "거의",
+        "요리사",
+        "얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "** 오빠는 요리 좀 하나유? 키키",
+      "tokens": [
+        "*",
+        "*",
+        "오빠",
+        "는",
+        "요리",
+        "좀",
+        "하",
+        "나유",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "마파두부 그 어려운 걸 니가 하다니 ㅎ",
+      "tokens": [
+        "마파두부",
+        "그",
+        "어려운",
+        "ETM",
+        "걸",
+        "JKO",
+        "니",
+        "가",
+        "하",
+        "다니",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

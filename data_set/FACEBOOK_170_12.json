@@ -1,0 +1,335 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여행 가고 싶다링 하하",
+      "tokens": [
+        "여행",
+        "가",
+        "고",
+        "싶",
+        "다",
+        "링",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "여행은 언제나 가고싶지 ㅠ",
+      "tokens": [
+        "여행",
+        "은",
+        "언제나",
+        "가",
+        "고",
+        "싶",
+        "지",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "저두오! 아무 여행이나 가고 싶어요",
+      "tokens": [
+        "저",
+        "두",
+        "오",
+        "아무",
+        "여행",
+        "이",
+        "나가",
+        "고",
+        "싶",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 버킷 리스트에 스위스가 있어",
+      "tokens": [
+        "난",
+        "JX",
+        "버킷",
+        "리스트",
+        "에",
+        "스위스",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이번주에 우리 떠나자",
+      "tokens": [
+        "이번",
+        "주",
+        "에",
+        "우리",
+        "떠나",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "스위스 넘 좋아요 ㅜㅜ",
+      "tokens": [
+        "스위스",
+        "넘",
+        "좋",
+        "아요",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "스위스랑 호주... 와...",
+      "tokens": [
+        "스위스",
+        "랑",
+        "호주",
+        ".",
+        ".",
+        "와",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "스위스 설산에서 아이스 아메리카노 먹고싶당",
+      "tokens": [
+        "스위스",
+        "설산",
+        "에서",
+        "아이스",
+        "아메리카노",
+        "먹",
+        "고",
+        "싶",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이번주에 삼천포로 여행오시나요 하하",
+      "tokens": [
+        "이번",
+        "주",
+        "에",
+        "삼",
+        "천",
+        "포로",
+        "여행",
+        "오",
+        "시",
+        "나요",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "스위스 진짜 그림 같음...",
+      "tokens": [
+        "스위스",
+        "진짜",
+        "그림",
+        "같",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "삼천포 여행 가지 이번주 하하",
+      "tokens": [
+        "삼",
+        "천",
+        "포",
+        "여행",
+        "가지",
+        "이번",
+        "주하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "스위스는 한 폭의 그림,",
+      "tokens": [
+        "스위스",
+        "는",
+        "한",
+        "폭",
+        "의",
+        "그림",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 당근 삼천포 여행 가야져...!",
+      "tokens": [
+        "아당근삼천포여행가야져",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "팔포항으로 나오렴 **야",
+      "tokens": [
+        "팔",
+        "포항",
+        "으로",
+        "나오",
+        "렴",
+        "*",
+        "*",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "실안카페 추천 드립ㄴ니당",
+      "tokens": [
+        "실안",
+        "카페",
+        "추천",
+        "드립",
+        "ㄴ",
+        "니",
+        "EC",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오징어 낚으로  갑니둥...!",
+      "tokens": [
+        "오징어낚으로갑니둥",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우리가 낚시하고 있을 거야 하하",
+      "tokens": [
+        "우리",
+        "가",
+        "낚시",
+        "하",
+        "고",
+        "있",
+        "을",
+        "거",
+        "야",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "하하 오징어 낚시 재밌겠어용",
+      "tokens": [
+        "하하",
+        "오징어",
+        "낚시",
+        "재밌",
+        "겠",
+        "어용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "레저는 제주도가 레전드인 듯",
+      "tokens": [
+        "레저",
+        "는",
+        "제주도",
+        "가",
+        "레전드",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "할 거 넘모 많아",
+      "tokens": [
+        "할거넘모많아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "제주도에서 해상 레저 많이 가능햄?",
+      "tokens": [
+        "제주도",
+        "에서",
+        "해상",
+        "레저",
+        "많이",
+        "가능",
+        "햄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "레저 천국이얌 완전",
+      "tokens": [
+        "레저",
+        "천국",
+        "이얌",
+        "완전"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "해상 레저도 많지 키키",
+      "tokens": [
+        "해상",
+        "레저",
+        "도",
+        "많",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오 진짜 재밌겠다",
+      "tokens": [
+        "오",
+        "진짜",
+        "재밌",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "물이 최고야",
+      "tokens": [
+        "물",
+        "이",
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 매일 낚시 할 듯",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "낚시",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 내가 잘 몰라서 그렇지 키키",
+      "tokens": [
+        "근데",
+        "내",
+        "가",
+        "잘",
+        "몰라서",
+        "EC",
+        "그렇",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 밥만 먹여주면 물에서 일주일 놀 수 있음",
+      "tokens": [
+        "나",
+        "밥",
+        "만",
+        "먹여",
+        "EC",
+        "주",
+        "면",
+        "물",
+        "에서",
+        "일",
+        "주일",
+        "놀",
+        "ETM",
+        "수",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "서핑도 진짜 많이 해",
+      "tokens": [
+        "서핑",
+        "도",
+        "진짜",
+        "많이",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "서핑은 꼭 해보고 시픔",
+      "tokens": [
+        "서핑",
+        "은",
+        "꼭",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "시픔"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "서핑 한번 배워 보고 싶다...",
+      "tokens": [
+        "서핑",
+        "한",
+        "번",
+        "배워",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오... 인어**...",
+      "tokens": [
+        "오",
+        ".",
+        "인어",
+        "*",
+        "*",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 수영 못해",
+      "tokens": [
+        "나수영",
+        "못",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 생존 수영만... 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "생존",
+        "수영",
+        "만",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "일주일 정도 배우면 어느 정도 탄다든데",
+      "tokens": [
+        "일",
+        "주일",
+        "정도",
+        "배우",
+        "면",
+        "어느",
+        "정도",
+        "탄다",
+        "EC",
+        "든",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 배영은 엄청 잘함!",
+      "tokens": [
+        "난",
+        "JX",
+        "배영",
+        "은",
+        "엄청",
+        "잘",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "둥둥 떠다니는 건 잘함",
+      "tokens": [
+        "둥둥",
+        "떠다니",
+        "는",
+        "건",
+        "JX",
+        "잘",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "배영은 그냥 배 까고 떠 있음 대잖오",
+      "tokens": [
+        "배영",
+        "은",
+        "그냥",
+        "배까",
+        "고",
+        "EC",
+        "떠",
+        "EC",
+        "있",
+        "음",
+        "대",
+        "잖",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

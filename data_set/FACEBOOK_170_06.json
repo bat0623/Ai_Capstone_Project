@@ -1,0 +1,348 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "학교 다니는거 어때?",
+      "tokens": [
+        "학교",
+        "다니",
+        "는",
+        "거",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "학교 다니는 거 부럽다 하하",
+      "tokens": [
+        "학교",
+        "다니",
+        "는",
+        "거",
+        "부럽",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "학교 다니는 거 좋죠 하하",
+      "tokens": [
+        "학교",
+        "다니",
+        "는",
+        "거",
+        "좋",
+        "죠",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "학교 생활 만족해? 하하",
+      "tokens": [
+        "학교",
+        "생활",
+        "만족",
+        "해",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "학교 다닐 때가 좋았어 하하",
+      "tokens": [
+        "학교",
+        "다닐",
+        "ETM",
+        "때",
+        "가",
+        "좋",
+        "았",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "비대면이라 아직 즐기질 못해서",
+      "tokens": [
+        "비",
+        "대면",
+        "이",
+        "라",
+        "아직",
+        "즐기",
+        "질",
+        "JX",
+        "못해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "학교 다니는 거 재밌어? 하하",
+      "tokens": [
+        "학교",
+        "다니",
+        "는",
+        "거",
+        "재밌",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어디 학교 다닌다 했지?",
+      "tokens": [
+        "어디",
+        "학교",
+        "다닌다",
+        "EC",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "엠티 가보고 싶네용",
+      "tokens": [
+        "엠티",
+        "가",
+        "보",
+        "고",
+        "싶",
+        "네",
+        "용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어머... 혹시 1학년 때부터 코로나였어?",
+      "tokens": [
+        "어머",
+        ".",
+        "혹시",
+        "1",
+        "학년",
+        "때",
+        "부터",
+        "코로나",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엠티를 아직 안가봤구나 하하",
+      "tokens": [
+        "엠티",
+        "를",
+        "아직",
+        "안",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "구나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "넵 ㅜㅜ 고3 마지막쯤에 코로나",
+      "tokens": [
+        "넵ㅜㅜ고",
+        "3",
+        "마지막",
+        "쯤",
+        "에",
+        "코로나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "엠티 아직 안가봤어?",
+      "tokens": [
+        "엠티",
+        "아직",
+        "안",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까 엠티 내년엔 갈 수 있길",
+      "tokens": [
+        "그니까",
+        "엠티",
+        "내년",
+        "엔",
+        "JX",
+        "갈",
+        "ETM",
+        "수",
+        "있",
+        "길",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "넵 엠티 오티 학교 행사 다 취소",
+      "tokens": [
+        "넵",
+        "엠티",
+        "오티",
+        "학교",
+        "행사",
+        "다",
+        "취소"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "헉... 대박... 그때부터 코로나라니...",
+      "tokens": [
+        "헉",
+        ".",
+        "대박",
+        ".",
+        ".",
+        "그때",
+        "부터",
+        "코로나",
+        "라니",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 그게 존잼인데",
+      "tokens": [
+        "그니까",
+        "그게",
+        "JKS",
+        "존",
+        "ETM",
+        "잼",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "동기들이랑도 안 친해용",
+      "tokens": [
+        "동기",
+        "들",
+        "이랑",
+        "도",
+        "안",
+        "친",
+        "ETM",
+        "해용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_170_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

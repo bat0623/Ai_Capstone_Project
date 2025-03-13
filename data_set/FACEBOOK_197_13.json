@@ -1,0 +1,484 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "날씨 변수도 있잖음?",
+      "tokens": [
+        "날씨",
+        "변수",
+        "도",
+        "있",
+        "잖",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "날씨도 변수가 크지",
+      "tokens": [
+        "날씨",
+        "도",
+        "변수",
+        "가",
+        "크",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그니까...",
+      "tokens": [
+        "그니까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "비 오고 하면 좀 주변에서 막걸리도 한잔 해주고 ...",
+      "tokens": [
+        "비",
+        "오고",
+        "하",
+        "면",
+        "좀",
+        "주변",
+        "에서",
+        "막걸리",
+        "도",
+        "한잔",
+        "해",
+        "EC",
+        "주",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "비가 와서 내가 움직이고 싶지 않아 막",
+      "tokens": [
+        "비",
+        "가",
+        "와서",
+        "EC",
+        "내",
+        "가",
+        "움직이",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아",
+        "막"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 난 비 맞으면서 돌아다니는 거 좋아함",
+      "tokens": [
+        "근데",
+        "난비",
+        "맞",
+        "으면서",
+        "돌아다니",
+        "는",
+        "거",
+        "좋",
+        "아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "숙소에서 배달음식 시켜서 놀아도 되고 ...",
+      "tokens": [
+        "숙소",
+        "에서",
+        "배달",
+        "음식",
+        "시켜서",
+        "EC",
+        "놀",
+        "아도",
+        "되",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그러므로 즉흥이 좋아",
+      "tokens": [
+        "그러므로",
+        "즉흥",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 뭔가...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "뭔가",
+        "VCP",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "촉촉하니 소리도 좋고",
+      "tokens": [
+        "촉촉",
+        "하",
+        "니",
+        "소리",
+        "도",
+        "좋",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "비 맞으면 찝찝하잖아...",
+      "tokens": [
+        "비",
+        "맞",
+        "으면",
+        "찝찝",
+        "하",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 비맞는 거 진짜 싫음...",
+      "tokens": [
+        "나비",
+        "맞",
+        "는",
+        "거",
+        "진짜",
+        "싫",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "해가 좋으면 좀 걷고 그런 거 하하",
+      "tokens": [
+        "해",
+        "가",
+        "좋",
+        "으면",
+        "좀",
+        "걷",
+        "고",
+        "그런",
+        "거",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "제가 좀 변태같은 면이 있어서 키키",
+      "tokens": [
+        "제",
+        "가",
+        "좀",
+        "변태",
+        "같",
+        "은",
+        "면",
+        "이",
+        "있",
+        "어서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "비 맞아서 머리 빠질 수도 있잖아 ...",
+      "tokens": [
+        "비",
+        "맞",
+        "아서",
+        "머리",
+        "빠질",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "안대 ...",
+      "tokens": [
+        "안",
+        "대",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내 작고 소중한 머리숱",
+      "tokens": [
+        "내",
+        "JKG",
+        "작",
+        "고",
+        "소중",
+        "한",
+        "ETM",
+        "머리숱"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "이 방은 다 즉흥들이군 키키",
+      "tokens": [
+        "이방",
+        "은",
+        "다",
+        "즉흥",
+        "들",
+        "이",
+        "군",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그런 거 좋아합니다 ... 키키",
+      "tokens": [
+        "그런",
+        "거",
+        "좋",
+        "아",
+        "합니다",
+        "EF",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 즉흥이 최고야",
+      "tokens": [
+        "키",
+        "키",
+        "즉흥",
+        "이",
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "감정 기복이 심하다더군 키키",
+      "tokens": [
+        "감정",
+        "기복",
+        "이",
+        "심하",
+        "다더군",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "감정 기복도 어느정도 있어요 키키",
+      "tokens": [
+        "감정",
+        "기복",
+        "도",
+        "어느",
+        "정도",
+        "있",
+        "어요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 그런 거도 있어?",
+      "tokens": [
+        "키키",
+        "그런",
+        "거",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "나는 부처님 그 자체임",
+      "tokens": [
+        "나",
+        "는",
+        "부처",
+        "님",
+        "그",
+        "자체",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번 주에는 엄마 시골 가니까 토요일 저녁에 일찍 와야겠다",
+      "tokens": [
+        "이번",
+        "주",
+        "에",
+        "는",
+        "엄마",
+        "시골",
+        "가",
+        "니까",
+        "토요일",
+        "저녁",
+        "에",
+        "일찍",
+        "와야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "토요일에도 남자친구 만나?",
+      "tokens": [
+        "토요일",
+        "에",
+        "도",
+        "남자",
+        "친구",
+        "만나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "토요일은 좀 자중해라",
+      "tokens": [
+        "토요일",
+        "은",
+        "좀",
+        "자중",
+        "해라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "뭘 자중해~",
+      "tokens": [
+        "뭘",
+        "JKO",
+        "자중",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "볼 수 있는 날이 주말밖에 없는데",
+      "tokens": [
+        "볼",
+        "ETM",
+        "수",
+        "있",
+        "는",
+        "날",
+        "이",
+        "주말",
+        "밖에",
+        "없",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래도 그럼 너 없으면 아빠랑 꾸미만 있는 거잖아",
+      "tokens": [
+        "그래도",
+        "그럼",
+        "너",
+        "없",
+        "으면",
+        "아빠",
+        "랑",
+        "꾸미",
+        "만",
+        "있",
+        "는",
+        "거",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "남자친구는 그 다음 주에 만나도 되는 거고",
+      "tokens": [
+        "남자",
+        "친구",
+        "는",
+        "그",
+        "다음",
+        "주",
+        "에",
+        "만나",
+        "EC",
+        "도",
+        "되",
+        "는",
+        "거",
+        "고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엥 아빠 꾸미랑 단 둘이 있으면 어색해?",
+      "tokens": [
+        "엥",
+        "아빠",
+        "꾸미",
+        "랑",
+        "단",
+        "둘",
+        "이",
+        "있",
+        "으면",
+        "어색",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭐 그러기야 하겠냐 마는",
+      "tokens": [
+        "뭐",
+        "그러",
+        "기",
+        "야",
+        "하",
+        "겠",
+        "냐",
+        "마는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "남자친구 일요일에 만나라",
+      "tokens": [
+        "남자",
+        "친구",
+        "일요일",
+        "에",
+        "만나",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 싫어",
+      "tokens": [
+        "아",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그날 브런치 카페 가기로 했단 말이야",
+      "tokens": [
+        "그날",
+        "브런치",
+        "카페",
+        "가",
+        "기로",
+        "했",
+        "EP",
+        "단",
+        "말",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 점심만 먹고 와",
+      "tokens": [
+        "그럼",
+        "점심",
+        "만",
+        "먹",
+        "고",
+        "와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "뭐 하러 나가서 돈을 쓰고 올라고 기를 쓰냐",
+      "tokens": [
+        "뭐",
+        "하",
+        "러",
+        "나가",
+        "서",
+        "돈",
+        "을",
+        "쓰",
+        "고",
+        "올라",
+        "EC",
+        "고기",
+        "를",
+        "쓰",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "주말에라도 돈 씁시다;",
+      "tokens": [
+        "주말",
+        "에",
+        "라도",
+        "EC",
+        "돈",
+        "씁시다",
+        "EC",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "평일에 맨날 회사 집 회사 집 인데",
+      "tokens": [
+        "평일",
+        "에",
+        "맨날",
+        "회사",
+        "집회",
+        "사집",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "대신 저녁은 아빠랑 먹어라",
+      "tokens": [
+        "대신",
+        "저녁",
+        "은",
+        "아빠",
+        "랑",
+        "먹",
+        "어라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "됐어",
+      "tokens": [
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나도 나가서 먹고 올거다",
+      "tokens": [
+        "나",
+        "도",
+        "나가",
+        "서",
+        "먹",
+        "고",
+        "올거",
+        "ETM",
+        "NNB",
+        "VCP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그럼 꾸미 혼자 집에 있으라고?",
+      "tokens": [
+        "그럼",
+        "꾸미",
+        "혼자",
+        "집",
+        "에",
+        "있",
+        "으라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "또 그건 싫냐?",
+      "tokens": [
+        "또",
+        "그건",
+        "JX",
+        "싫",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "너는 아빠보단 꾸미냐",
+      "tokens": [
+        "너",
+        "는",
+        "아빠",
+        "보단",
+        "JX",
+        "꾸미",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

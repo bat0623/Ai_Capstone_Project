@@ -1,0 +1,362 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "자취할 때 아프면 진짜 서럽더라",
+      "tokens": [
+        "자취",
+        "할",
+        "ETM",
+        "때",
+        "아프",
+        "면",
+        "진짜",
+        "서럽",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 ㅠㅠ 아프면 서러움",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅠㅠ",
+        "아프",
+        "면",
+        "서러움"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 이제 고시원 좀 벗어나고싶다",
+      "tokens": [
+        "나",
+        "이제",
+        "고시원",
+        "좀",
+        "벗어나",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "혼자 급체해서 화장실에 쓰러져봄...",
+      "tokens": [
+        "혼자",
+        "급체",
+        "해서",
+        "EC",
+        "화장실",
+        "에",
+        "쓰러져",
+        "EC",
+        "봄",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그래서 상비약 좀 구비해야해",
+      "tokens": [
+        "그래서",
+        "상비약",
+        "좀",
+        "구비",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "고시원 너무 좁아...정신병 걸리겠어",
+      "tokens": [
+        "고시원",
+        "너무",
+        "좁",
+        "아",
+        ".",
+        "정신병",
+        "걸리",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 고시원 생활 그만...",
+      "tokens": [
+        "나",
+        "도",
+        "고시원",
+        "생활",
+        "그만",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐… 그 정도로? 심했다",
+      "tokens": [
+        "헐",
+        "…",
+        "그",
+        "정도",
+        "로",
+        "심했",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "고시원비 싼 거도 아니고...",
+      "tokens": [
+        "고시원",
+        "비싼",
+        "ETM",
+        "거",
+        "도",
+        "아니",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "보증금 박고 원룸 들어갈까...",
+      "tokens": [
+        "보증금",
+        "박",
+        "고",
+        "원룸",
+        "들어갈까",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "급체 진짜 무서워",
+      "tokens": [
+        "급체",
+        "진짜",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 ㅠㅠ 그래도 사람 돌아 다녀야 하는데",
+      "tokens": [
+        "진짜",
+        "ㅠㅠ",
+        "그래도",
+        "EC",
+        "사람",
+        "돌아다녀야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 식은땀 줄줄 나잖어",
+      "tokens": [
+        "진짜",
+        "식은땀",
+        "줄줄",
+        "나",
+        "잖어",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "미역국 먹고 급체했어 ㅠㅠ",
+      "tokens": [
+        "미역국",
+        "먹",
+        "고",
+        "급체",
+        "했",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "하필 또 미역국이야?",
+      "tokens": [
+        "하필",
+        "또",
+        "미역국",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "미역국먹고 어찌 급체한대 고기도 아니고",
+      "tokens": [
+        "미역국",
+        "먹",
+        "고",
+        "어찌",
+        "급체",
+        "한",
+        "ETM",
+        "대",
+        "고기",
+        "도",
+        "아니",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "마자 고시원 넘 관 같애 ㅠㅠ",
+      "tokens": [
+        "마자",
+        "고시원",
+        "넘관",
+        "같",
+        "애",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "생일 때 체한 거 아니야?",
+      "tokens": [
+        "생일",
+        "때",
+        "체한",
+        "ETM",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞지 나 더 이상은 못 버티게따",
+      "tokens": [
+        "맞",
+        "지나",
+        "더",
+        "이상",
+        "은",
+        "못",
+        "버티",
+        "게",
+        "따",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

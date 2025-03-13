@@ -1,0 +1,542 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "특이한 알바 해본거 있어?",
+      "tokens": [
+        "특이",
+        "한",
+        "ETM",
+        "알",
+        "ETM",
+        "바",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "거",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "음... 나는 진행요원?",
+      "tokens": [
+        "음",
+        ".",
+        "나",
+        "는",
+        "진행",
+        "요원"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "이런 거 해 봤어",
+      "tokens": [
+        "이런",
+        "거",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 그냥 공장에서 반찬 뚜껑 닫는 일? 키키",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "공장",
+        "에서",
+        "반찬",
+        "뚜껑",
+        "닫",
+        "는",
+        "일",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오 축제 알바 같은거 했어?",
+      "tokens": [
+        "오",
+        "축제",
+        "알",
+        "ETM",
+        "바",
+        "같",
+        "은",
+        "거",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그 필기시험 이런 거 복도 요원 키키",
+      "tokens": [
+        "그",
+        "필기",
+        "시험",
+        "이런",
+        "거복",
+        "도",
+        "요원",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 축제 알바 안 해봤어 키키",
+      "tokens": [
+        "나",
+        "는",
+        "축제",
+        "알",
+        "ETM",
+        "바",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "대박이다 키키",
+      "tokens": [
+        "대박",
+        "이",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 전시회 알바 해봤어",
+      "tokens": [
+        "나",
+        "는",
+        "전시회",
+        "알",
+        "ETM",
+        "바",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "전시회 알바는 사람 많고 힘들겠다",
+      "tokens": [
+        "전시회",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "사람",
+        "많",
+        "고",
+        "힘들",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "전시회 알바는 뭐해?",
+      "tokens": [
+        "전시회",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "뭐",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "계속 서있나?",
+      "tokens": [
+        "계속",
+        "서",
+        "EC",
+        "있",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "생각보다?",
+      "tokens": [
+        "생각",
+        "보다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그냥 서있고 팜플랫 나눠줘 키키",
+      "tokens": [
+        "그냥",
+        "서",
+        "EC",
+        "있",
+        "고",
+        "팜",
+        "플랫",
+        "나눠줘",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그 정도면 괜찮겠다 진상만 없으면 편하지ㅠㅠ",
+      "tokens": [
+        "그",
+        "정도",
+        "면",
+        "EC",
+        "괜찮",
+        "겠",
+        "다",
+        "진상",
+        "만",
+        "없",
+        "으면",
+        "편하",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오 괜찮네",
+      "tokens": [
+        "오",
+        "괜찮",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래도 시급 많이 올랐어 키키",
+      "tokens": [
+        "그래도",
+        "시급",
+        "많이",
+        "올랐",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "생각 보다 애기들 많이 울어서 당황",
+      "tokens": [
+        "생각",
+        "보다",
+        "애기",
+        "들",
+        "많이",
+        "울",
+        "어서",
+        "당황"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 애기들 울면 당황스럽지... 키키",
+      "tokens": [
+        "아",
+        "애기",
+        "들",
+        "울",
+        "면",
+        "당황",
+        "스럽",
+        "지",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "달래 줄 수 없는 키키 당황하겠다",
+      "tokens": [
+        "달래",
+        "EC",
+        "줄",
+        "ETM",
+        "수",
+        "없",
+        "는",
+        "키",
+        "키",
+        "당황",
+        "하",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그거 말고는 편한 것 같아",
+      "tokens": [
+        "그거",
+        "말",
+        "고",
+        "는",
+        "편한",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "조용해",
+      "tokens": [
+        "조용",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "시급도 괜찮고 그 정도면 좋지!",
+      "tokens": [
+        "시급",
+        "도",
+        "괜찮",
+        "고",
+        "그",
+        "정도",
+        "면",
+        "EC",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "하루 종일 서있는 것도 힘들어 ㅠㅠ",
+      "tokens": [
+        "하루",
+        "종일",
+        "서",
+        "EC",
+        "있",
+        "는",
+        "것",
+        "도",
+        "힘들",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

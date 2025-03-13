@@ -1,0 +1,342 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 사교육비 넘 많이 썼다",
+      "tokens": [
+        "난",
+        "JX",
+        "사교육비",
+        "넘",
+        "많이",
+        "썼",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 별로 안 썼어 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "별로",
+        "안",
+        "썼",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 누나는 과외 많이 했나여 키키",
+      "tokens": [
+        "키",
+        "키",
+        "누나",
+        "는",
+        "과외",
+        "많이",
+        "했",
+        "EC",
+        "나",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그 돈으로 비트코인을 할 걸",
+      "tokens": [
+        "그",
+        "돈",
+        "으로",
+        "비트코인",
+        "을",
+        "할걸",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너 돈 마이 깨뭇구나?",
+      "tokens": [
+        "너돈마이깨뭇구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "저는... 과외 해도... 성적이 키키",
+      "tokens": [
+        "저",
+        "는",
+        ".",
+        "과외",
+        "해도",
+        "EC",
+        ".",
+        ".",
+        "성적",
+        "이",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 과외... 학원... 어학연수",
+      "tokens": [
+        "난",
+        "JX",
+        "과외",
+        ".",
+        ".",
+        "학원",
+        ".",
+        ".",
+        "어학",
+        "연수"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그럼 우리 지금 전세기 타고 다닐 듯",
+      "tokens": [
+        "그럼",
+        "우리",
+        "지금",
+        "전",
+        "세기",
+        "타",
+        "고",
+        "다닐",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "과외는 많이 했는데 키키",
+      "tokens": [
+        "과외",
+        "는",
+        "많이",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어학연수도 다녀왔어 초딩 때",
+      "tokens": [
+        "어학",
+        "연수",
+        "도",
+        "다녀왔",
+        "EP",
+        "어",
+        "초딩",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "난 그냥 독학 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "그냥",
+        "독학",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "와 어학 연수까지 키키 대단하다",
+      "tokens": [
+        "와",
+        "어학",
+        "연수",
+        "까지",
+        "키",
+        "키",
+        "ETN",
+        "대단",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "유치원도 영어 유치원 다니구",
+      "tokens": [
+        "유치원",
+        "도",
+        "영어",
+        "유치원",
+        "다니",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "혼자 공부를 했어요",
+      "tokens": [
+        "혼자",
+        "공부",
+        "를",
+        "했",
+        "EP",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "영어 유치원까지 키키 엘리트 코스",
+      "tokens": [
+        "영어",
+        "유치원",
+        "까지",
+        "키",
+        "키",
+        "엘리트",
+        "코스"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "사교육 장인 ***",
+      "tokens": [
+        "사교육",
+        "장인",
+        "*",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "영어유치원 완전 금수저였네",
+      "tokens": [
+        "영어",
+        "유치원",
+        "완전",
+        "금",
+        "수저",
+        "였",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "사교육 장인이네여 진짜",
+      "tokens": [
+        "사교육",
+        "장인",
+        "이",
+        "네여",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_222_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

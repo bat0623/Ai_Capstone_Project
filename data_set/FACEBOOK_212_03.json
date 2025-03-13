@@ -1,0 +1,388 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그럼 2억짜리로 이사 가서 1. 5억 남기자",
+      "tokens": [
+        "그럼",
+        "2",
+        "억",
+        "짜리",
+        "로",
+        "이사",
+        "가",
+        "서",
+        "1",
+        ".",
+        "5",
+        "억",
+        "남기",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그런 곳이 어디 있는데 키키",
+      "tokens": [
+        "그런",
+        "곳",
+        "이",
+        "어디",
+        "있",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 마을버스 타는 게 좋음 촌에서",
+      "tokens": [
+        "난",
+        "JX",
+        "마을버스",
+        "타",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "음",
+        "촌",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그리고 차를 한 대 구매 하는 거지",
+      "tokens": [
+        "그리고",
+        "차",
+        "를",
+        "한대",
+        "EC",
+        "구매",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "알려줘",
+      "tokens": [
+        "알려줘",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "일단 가보자 키키",
+      "tokens": [
+        "일단",
+        "가보",
+        "자키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "산청으로 넘어오셔",
+      "tokens": [
+        "산청",
+        "으로",
+        "넘어오",
+        "셔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "내가 소개해줌",
+      "tokens": [
+        "내",
+        "가",
+        "소개",
+        "해줌",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "사천만 가도 널렸을 듯 키키",
+      "tokens": [
+        "사",
+        "천",
+        "만가",
+        "도",
+        "널렸",
+        "EP",
+        "을",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오 차 넘나 사고 싶다고 지금",
+      "tokens": [
+        "오",
+        "차",
+        "넘나",
+        "사고",
+        "싶",
+        "다고",
+        "지금"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "내가 보증할게",
+      "tokens": [
+        "내",
+        "가",
+        "보증",
+        "할",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사천을 왜 가",
+      "tokens": [
+        "사천",
+        "을",
+        "왜",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마을버스 타면 재밌을 듯... ㅠㅠ",
+      "tokens": [
+        "마을버스",
+        "타",
+        "면",
+        "재밌",
+        "을",
+        "듯",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니 사천도 비싸더라니까",
+      "tokens": [
+        "아니",
+        "사천",
+        "도",
+        "비싸",
+        "더라니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "서울에서 산청이 더 가까움",
+      "tokens": [
+        "서울",
+        "에서",
+        "산청",
+        "이",
+        "더",
+        "가까움",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마을 버스 힐링...",
+      "tokens": [
+        "마을버스",
+        "힐링",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "넘나 비쌈 알아바 바",
+      "tokens": [
+        "넘나비쌈알아바바"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "사천은 노핫해",
+      "tokens": [
+        "사천",
+        "은",
+        "노",
+        "핫",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "사천에  쫌 썩다배리 가야지",
+      "tokens": [
+        "사천",
+        "에",
+        "쫌",
+        "ETN",
+        "썩",
+        "다",
+        "배리",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "사천에도 삼 억 간다고...",
+      "tokens": [
+        "사천",
+        "에",
+        "도",
+        "삼",
+        "억",
+        "간다고",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "마을버스 공용화 사업 더 해야 됨",
+      "tokens": [
+        "마을버스",
+        "공용",
+        "화",
+        "사업",
+        "더",
+        "해야",
+        "EC",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

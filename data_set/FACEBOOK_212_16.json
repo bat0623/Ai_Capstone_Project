@@ -1,0 +1,361 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "얌 **! 보톡스는 안 아프대",
+      "tokens": [
+        "얌",
+        "*",
+        "*",
+        "!",
+        "보톡스",
+        "는",
+        "안",
+        "아프",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "안 아픈 게 어딨어 ㅜㅜ",
+      "tokens": [
+        "안",
+        "아픈",
+        "ETM",
+        "게",
+        "JKS",
+        "어딨",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 서클렌즈 껴볼까",
+      "tokens": [
+        "나",
+        "서",
+        "클",
+        "ETM",
+        "렌즈",
+        "껴볼까",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "**가 보톡스랑 필러를 둘 다 맞아 봤대",
+      "tokens": [
+        "*",
+        "*",
+        "가보톡스랑필러를둘다맞아봤대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "주사는 다 아픈 거 아니냐...",
+      "tokens": [
+        "주사",
+        "는",
+        "다",
+        "아픈",
+        "ETM",
+        "거",
+        "아니",
+        "냐",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "필러가 엄청 아픈 거래",
+      "tokens": [
+        "필러",
+        "가",
+        "엄청",
+        "아픈",
+        "ETM",
+        "거래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 보톡스는 진짜는 하나도 안 아프대",
+      "tokens": [
+        "근데",
+        "보톡스",
+        "는",
+        "진짜",
+        "는",
+        "하나",
+        "도",
+        "안",
+        "아프",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐헐 진짜? ㄷㄷ",
+      "tokens": [
+        "헐헐",
+        "진짜",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭐야 그럼 도전 키키",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF",
+        "그럼",
+        "도전",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "주사 ㅠㅠ 나 운다 울어 보톡스만 맞아야지",
+      "tokens": [
+        "주사",
+        "ㅠㅠ",
+        "나",
+        "운다",
+        "EC",
+        "울",
+        "어",
+        "보톡스",
+        "만",
+        "맞",
+        "아야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "필러가 아파서 진짜 디진대",
+      "tokens": [
+        "필러",
+        "가",
+        "아파서",
+        "EC",
+        "진짜",
+        "디",
+        "진대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "보톡스 같이 맞으러 가실 분 키키",
+      "tokens": [
+        "보톡스",
+        "같이",
+        "맞",
+        "으러",
+        "가",
+        "실",
+        "ETM",
+        "분키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "필러가 플라스틱 넣는 건가",
+      "tokens": [
+        "필러",
+        "가",
+        "플라스틱",
+        "넣",
+        "는",
+        "건가",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "엉엉 보톡스는 엥? 이런다 함 키키",
+      "tokens": [
+        "엉엉",
+        "보톡스",
+        "는",
+        "엥",
+        "이런",
+        "다함",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "필러는 어디에 맞았는데?",
+      "tokens": [
+        "필러",
+        "는",
+        "어디",
+        "에",
+        "맞",
+        "았",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "필러 코에 맞잖아",
+      "tokens": [
+        "필러",
+        "코",
+        "에",
+        "맞",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "필러 이마랑 팔자 맞은 듯",
+      "tokens": [
+        "필러",
+        "이마",
+        "랑",
+        "팔",
+        "자",
+        "맞",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "필러는 근데 맞지 말라던데 ㄷㄷ",
+      "tokens": [
+        "필러",
+        "는",
+        "근데",
+        "맞",
+        "지",
+        "말",
+        "라던데",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 경락 마사지로 얼굴 크기 줄여야지",
+      "tokens": [
+        "난",
+        "JX",
+        "경락",
+        "마사지",
+        "로",
+        "얼굴",
+        "크기",
+        "줄여야",
+        "EC",
+        "VX",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "와 커피 없었으면 어쩔 뻔",
+      "tokens": [
+        "와",
+        "커피",
+        "없",
+        "었",
+        "으면",
+        "어쩔",
+        "ETM",
+        "뻔"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 커피는 사랑",
+      "tokens": [
+        "그니까",
+        "커피",
+        "는",
+        "사랑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "커피 매일 3잔 필수 키키",
+      "tokens": [
+        "커피",
+        "매일",
+        "3",
+        "잔",
+        "필수",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 커피 중독인 듯",
+      "tokens": [
+        "나",
+        "커피",
+        "중독",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "카페인 없이는 못 살아",
+      "tokens": [
+        "카페인",
+        "없이",
+        "는",
+        "못",
+        "살",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어떻게 커피 안 먹고 살지",
+      "tokens": [
+        "어떻게",
+        "커피",
+        "안",
+        "먹",
+        "고",
+        "살",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "다들 커피 좋아하지?",
+      "tokens": [
+        "다",
+        "들",
+        "커피",
+        "좋",
+        "아",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "카페인 없는 세상 싫어",
+      "tokens": [
+        "카페인",
+        "없",
+        "는",
+        "세상",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "카페인 진짜 좋아해요 키키",
+      "tokens": [
+        "카페인",
+        "진짜",
+        "좋",
+        "아",
+        "해요",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "커피 없이 못 살아",
+      "tokens": [
+        "커피",
+        "없이",
+        "못",
+        "살",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "상상하기 싫어",
+      "tokens": [
+        "상상",
+        "하",
+        "기",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "저는 아아보단 라떼 키키",
+      "tokens": [
+        "저",
+        "는",
+        "아아",
+        "보단",
+        "JX",
+        "라떼",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "디카페인은 충족이 안 댐...",
+      "tokens": [
+        "디카페인",
+        "은",
+        "충족",
+        "이",
+        "안",
+        "댐",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "라떼 **는 애기군",
+      "tokens": [
+        "라떼",
+        "*",
+        "*",
+        "는",
+        "애기",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "매일 3잔씩 꼭 먹어요",
+      "tokens": [
+        "매일",
+        "3",
+        "잔",
+        "씩",
+        "꼭",
+        "먹",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "엇 난 라떼는 싫어",
+      "tokens": [
+        "엇",
+        "난",
+        "JX",
+        "라떼",
+        "는",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "라뗴는 라떼는 말야지",
+      "tokens": [
+        "라뗴",
+        "는",
+        "라떼",
+        "는",
+        "말",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 라떼만 좋아해서~ ㅠㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "라떼",
+        "만",
+        "좋",
+        "아",
+        "해서",
+        "EC",
+        "~",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대 가면 난 진짜 잘할듯",
+      "tokens": [
+        "군대",
+        "가",
+        "면",
+        "난",
+        "JX",
+        "진짜",
+        "잘",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 잘하겠네 완젼",
+      "tokens": [
+        "그니까",
+        "잘",
+        "하",
+        "겠",
+        "네",
+        "완",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 진짜 함보내자니까요 오빠 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "함",
+        "ETN",
+        "보내",
+        "자니까요",
+        "오빠",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "뭔가 엄청 재밌을 거 같음",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "엄청",
+        "재밌",
+        "을",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "넌 군대 체질이야 정말",
+      "tokens": [
+        "넌",
+        "JX",
+        "군대",
+        "체질",
+        "이",
+        "야",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "저분 함 가야댐 키키 엄청 힘들지",
+      "tokens": [
+        "저분",
+        "함",
+        "ETN",
+        "가",
+        "야",
+        "댐",
+        "ETN",
+        "키",
+        "키",
+        "엄청",
+        "힘들",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 해군으로 정했당",
+      "tokens": [
+        "난",
+        "JX",
+        "해군",
+        "으로",
+        "정했",
+        "EP",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "한번 도전해봐 담에 하하",
+      "tokens": [
+        "한",
+        "번",
+        "도",
+        "전해",
+        "EC",
+        "봐",
+        "EF",
+        "담",
+        "에",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 진짜 키키 난 울고 나올 거 같은데",
+      "tokens": [
+        "아",
+        "진짜",
+        "키",
+        "키",
+        "ETN",
+        "난",
+        "JX",
+        "울",
+        "고",
+        "나올",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "해군 옷이 젤 이쁘니까",
+      "tokens": [
+        "해군",
+        "옷",
+        "이",
+        "젤",
+        "이쁘",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "해군 가서 고생해봐 키키",
+      "tokens": [
+        "해군",
+        "가",
+        "서",
+        "고생",
+        "해",
+        "EC",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래 꼭 해봤으면 키키",
+      "tokens": [
+        "그래",
+        "꼭",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "으면",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아님 특전사 가려고 해!",
+      "tokens": [
+        "아님",
+        "특전",
+        "사",
+        "EC",
+        "가",
+        "려고",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "얼마나 힘든지 가보면 알거야",
+      "tokens": [
+        "얼마나",
+        "힘든",
+        "ETM",
+        "지",
+        "가",
+        "보",
+        "면",
+        "알",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오 해병대도 추천",
+      "tokens": [
+        "오",
+        "해병대",
+        "도",
+        "추천"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "양념 치킨 사서 면회와...",
+      "tokens": [
+        "양념치킨",
+        "사",
+        "서",
+        "면회",
+        "와",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아주 널 응원해 하하",
+      "tokens": [
+        "아주",
+        "널",
+        "ETM",
+        "응원",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "잘 어울릴 거 같아 키키",
+      "tokens": [
+        "잘",
+        "어울릴",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

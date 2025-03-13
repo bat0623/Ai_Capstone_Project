@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 결혼할 꺼지 하하",
+      "tokens": [
+        "다",
+        "들",
+        "결혼",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "연애를 하려면 일단 집밖에 나가야 해",
+      "tokens": [
+        "연애",
+        "를",
+        "하",
+        "려면",
+        "일단",
+        "집",
+        "밖에",
+        "나가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 결혼을 할 거야 30살에",
+      "tokens": [
+        "나",
+        "는",
+        "결혼",
+        "을",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "30",
+        "살",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 여친이랑 결혼 할 꺼야 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "여친",
+        "이랑",
+        "결혼",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "결혼 하고 싶은데 돈이 없어서 못해 ㅠ",
+      "tokens": [
+        "결혼",
+        "하",
+        "고",
+        "싶",
+        "은데",
+        "돈",
+        "이",
+        "없",
+        "어서",
+        "못해",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너는 결혼을 할 수 있다고 생각해",
+      "tokens": [
+        "너",
+        "는",
+        "결혼",
+        "을",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "다고",
+        "생각",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "좋은 남편이 되고 싶어 난",
+      "tokens": [
+        "좋",
+        "은",
+        "남편",
+        "이",
+        "되",
+        "고",
+        "싶",
+        "어",
+        "난",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우와 근데 여러 여자랑 만나봐야지 왜 결혼을 벌써 해",
+      "tokens": [
+        "우와",
+        "근데",
+        "여러",
+        "여자",
+        "랑",
+        "만나",
+        "EC",
+        "봐야지",
+        "EF",
+        "왜",
+        "결혼",
+        "을",
+        "벌써",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 여군이랑 결혼할 꺼야 다들 도와줘",
+      "tokens": [
+        "나",
+        "는",
+        "여군",
+        "이랑",
+        "결혼",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야다",
+        "들",
+        "도",
+        "와",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래서 좋은 남친이라도 되려구 일단",
+      "tokens": [
+        "그래서",
+        "좋",
+        "은",
+        "남친",
+        "이",
+        "라도",
+        "되",
+        "려구",
+        "일단"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "좋은 남편의 1조건은 돈이래 키키",
+      "tokens": [
+        "좋",
+        "은",
+        "남편",
+        "의",
+        "1",
+        "조건",
+        "은",
+        "돈",
+        "이",
+        "래키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 좋은 남편이 되고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "좋",
+        "은",
+        "남편",
+        "이",
+        "되",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "여군이랑 결혼 너무 좋지 키키",
+      "tokens": [
+        "여군",
+        "이랑",
+        "결혼",
+        "너무",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우와 좋은 마인드야",
+      "tokens": [
+        "우와",
+        "좋",
+        "은",
+        "마인드",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나는 일단 여친부터 만들어야지",
+      "tokens": [
+        "나",
+        "는",
+        "일단",
+        "여친",
+        "부터",
+        "만들",
+        "어야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "여군이랑 결혼하는 것 좋아 소개 시켜 줄게",
+      "tokens": [
+        "여군",
+        "이랑",
+        "결혼",
+        "하",
+        "는",
+        "것",
+        "좋",
+        "아",
+        "소개",
+        "시켜",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "좋은 자녀까지 키우자 우리",
+      "tokens": [
+        "좋",
+        "은",
+        "자녀",
+        "까지",
+        "키우",
+        "자",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "헐 너는 진짜 카사노바구나 키키",
+      "tokens": [
+        "헐",
+        "너",
+        "는",
+        "진짜",
+        "카사노바",
+        "구나",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "우리 얼른 돈 모아서 결혼하자구 ㅎ",
+      "tokens": [
+        "우리",
+        "얼른",
+        "돈",
+        "모아서",
+        "EC",
+        "결혼",
+        "하",
+        "자",
+        "구",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

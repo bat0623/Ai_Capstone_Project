@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "회화 스터디 나가려구",
+      "tokens": [
+        "회화",
+        "스터디",
+        "나가",
+        "려구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "영어 회화 쪽으루?",
+      "tokens": [
+        "영어",
+        "회화",
+        "쪽",
+        "으루"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "외국인 선생 하나 있어야 하지 않나",
+      "tokens": [
+        "외국인",
+        "선생",
+        "하",
+        "나",
+        "있",
+        "어야",
+        "하",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "외국인이랑 하는 거 있길래 하하",
+      "tokens": [
+        "외국인",
+        "이랑",
+        "하",
+        "는",
+        "거",
+        "있",
+        "길래",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "웅 영어!",
+      "tokens": [
+        "웅",
+        "영어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오호 그런 거 좋지 키키",
+      "tokens": [
+        "오호",
+        "그런",
+        "거",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 중국어 배워볼까 싶은데",
+      "tokens": [
+        "나",
+        "는",
+        "중국어",
+        "배워볼까",
+        "EC",
+        "VX",
+        "EC",
+        "싶",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "외국인 선생님이 스터디원 구한데",
+      "tokens": [
+        "외국인",
+        "선생",
+        "님",
+        "이",
+        "스터디",
+        "원구",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 해보고 싶긴하다 키키",
+      "tokens": [
+        "나",
+        "도",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "긴",
+        "JX",
+        "하",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오 그런거 도 있구만 나도 끼워줘",
+      "tokens": [
+        "오",
+        "그런",
+        "거",
+        "도",
+        "있",
+        "구",
+        "만나",
+        "EC",
+        "도",
+        "끼워",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "중국어 진짜 어렵지 않음?",
+      "tokens": [
+        "중국",
+        "어",
+        "진짜",
+        "어렵",
+        "지",
+        "않",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오픽 성적도 올려야하는데 ㅠㅠ",
+      "tokens": [
+        "오픽",
+        "성적",
+        "도",
+        "올려야",
+        "EC",
+        "하",
+        "는데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "중국어랑 영어랑 어순이 비슷하다든디",
+      "tokens": [
+        "중국어",
+        "랑",
+        "영어",
+        "랑",
+        "어순",
+        "이",
+        "비슷",
+        "하",
+        "다든",
+        "디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 완전 한자 못해",
+      "tokens": [
+        "나",
+        "완전",
+        "한",
+        "ETM",
+        "자못",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 중국어는 진짜 뭐라는 지 모르겠더라 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "중국어",
+        "는",
+        "진짜",
+        "뭐",
+        "라는지",
+        "EC",
+        "모르",
+        "겠",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "친구 보니까 중국말은 잘하는데 까막눈이여",
+      "tokens": [
+        "친구",
+        "보",
+        "니까",
+        "중국",
+        "말",
+        "은",
+        "잘",
+        "하",
+        "는데",
+        "까막눈",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "한자 넘 어렵 ㅠㅠ",
+      "tokens": [
+        "한자넘어렵ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 키키 글도 어려워",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "글",
+        "도",
+        "어려워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "글자 공부 하더니 그냥 까막눈으로 살거라더라",
+      "tokens": [
+        "글자",
+        "공부",
+        "하",
+        "더니",
+        "그냥",
+        "까막눈",
+        "으로",
+        "살",
+        "ETM",
+        "거",
+        "라더라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_162_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 개미를 키우고 싶어",
+      "tokens": [
+        "요즘",
+        "개미",
+        "를",
+        "키우",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 개미핥기롤 키우고 있어",
+      "tokens": [
+        "나",
+        "는",
+        "개미핥기",
+        "롤",
+        "키우",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 호랑이를 키우고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "호랑이",
+        "를",
+        "키우",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "먹이는 개미핥기를 주면 될 거 같아",
+      "tokens": [
+        "먹이",
+        "는",
+        "개미핥기",
+        "를",
+        "주",
+        "면",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "개미는 작고 소중하잖아 ...ㅠㅠ",
+      "tokens": [
+        "개미",
+        "는",
+        "작",
+        "고",
+        "소중",
+        "하",
+        "잖아",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "구석구석 청소하는데 너무 효과적이야",
+      "tokens": [
+        "구석구석",
+        "청소",
+        "하",
+        "는",
+        "데",
+        "너무",
+        "효과",
+        "적",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "호랑이는 크고 소중하다고 생각해",
+      "tokens": [
+        "호랑이",
+        "는",
+        "크",
+        "고",
+        "소중",
+        "하",
+        "다고",
+        "생각",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 동물이라면 다 좋아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "동물",
+        "이",
+        "라면",
+        "다",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "먹이로 개미를 준 적이 없어",
+      "tokens": [
+        "먹이",
+        "로",
+        "개미",
+        "를",
+        "준",
+        "ETM",
+        "적",
+        "이",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그럼 침팬치도 좋아하니?",
+      "tokens": [
+        "그럼",
+        "침",
+        "팬",
+        "치도",
+        "EC",
+        "JX",
+        "좋",
+        "아",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "호랑이는 고양이 종류잖아 키키",
+      "tokens": [
+        "호랑이",
+        "는",
+        "고양이",
+        "종류",
+        "잖아",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "개사료도 잘 먹더라구",
+      "tokens": [
+        "개",
+        "사료",
+        "도",
+        "잘",
+        "먹",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 침팬치가 나 닮아서 싫어",
+      "tokens": [
+        "난",
+        "JX",
+        "침",
+        "팬",
+        "치가",
+        "EC",
+        "JKS",
+        "나",
+        "닮",
+        "아서",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "원숭이는 너무 못생겻어 키키",
+      "tokens": [
+        "원숭이",
+        "는",
+        "너무",
+        "못",
+        "생",
+        "겻",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "고양이는 너무 귀여운 것 같아",
+      "tokens": [
+        "고양이",
+        "는",
+        "너무",
+        "귀여운",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "다들 원숭이류는 싫어하더라",
+      "tokens": [
+        "다",
+        "들",
+        "원숭이",
+        "류",
+        "는",
+        "싫",
+        "어",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "차라리 고양이가 낫지 키키",
+      "tokens": [
+        "차라리",
+        "고양이",
+        "가",
+        "낫",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 어렸을 때 별명이 원숭이야",
+      "tokens": [
+        "나",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "별명",
+        "이",
+        "원숭이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "지능이 높긴 한데 못생겼어",
+      "tokens": [
+        "지능",
+        "이",
+        "높",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "못생겼",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

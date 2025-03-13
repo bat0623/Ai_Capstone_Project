@@ -1,0 +1,408 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠 나 오빠네 집에  햄스터 키워도 될까?",
+      "tokens": [
+        "오빠",
+        "나",
+        "오빠",
+        "네",
+        "집",
+        "에",
+        "햄스터",
+        "키워도",
+        "EC",
+        "될까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "행님이 허락 해줄 까여?",
+      "tokens": [
+        "행",
+        "님",
+        "이",
+        "허락",
+        "해",
+        "EC",
+        "줄까",
+        "EF",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "안 된다구 키키",
+      "tokens": [
+        "안",
+        "된다구",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "여친 집도 안된다 참고로",
+      "tokens": [
+        "여친",
+        "집",
+        "도",
+        "안",
+        "된다",
+        "EC",
+        "참고",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우리 집은 자꾸 누가 반대를 하네...",
+      "tokens": [
+        "우리",
+        "집",
+        "은",
+        "자꾸",
+        "누가",
+        "JKS",
+        "반대",
+        "를",
+        "하",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 **누나한테 실패하고 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "누나",
+        "한테",
+        "실패",
+        "하",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "앜 키키 남편이 반대하는구나",
+      "tokens": [
+        "앜키",
+        "키",
+        "남편",
+        "이",
+        "반대",
+        "하",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오빠 집은 왜 안되는데?",
+      "tokens": [
+        "오빠",
+        "집",
+        "은",
+        "왜",
+        "안",
+        "되",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이제 행님 집에 도전...",
+      "tokens": [
+        "이",
+        "제행",
+        "님",
+        "집",
+        "에",
+        "도전",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이유는 뭔데? 키키",
+      "tokens": [
+        "이유",
+        "는",
+        "뭔데",
+        "VCP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 너무하네 사람들이",
+      "tokens": [
+        "진짜",
+        "너무",
+        "하",
+        "네",
+        "사람",
+        "들",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "반대 할 사람 하나 뿐인데 키키",
+      "tokens": [
+        "반대",
+        "할",
+        "ETM",
+        "사람",
+        "하나",
+        "뿐",
+        "인데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우리 집에서 어떻게 관리해 키키",
+      "tokens": [
+        "우리",
+        "집",
+        "에서",
+        "어떻게",
+        "관리",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "쥐는 일단 안된데",
+      "tokens": [
+        "쥐",
+        "는",
+        "일단",
+        "안",
+        "된",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "햄스터는 근데 괜찮지 않나여...?",
+      "tokens": [
+        "햄스터",
+        "는",
+        "근데",
+        "괜찮",
+        "지",
+        "않",
+        "나",
+        "여",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 쥐는 쥐지...",
+      "tokens": [
+        "아",
+        "쥐",
+        "는",
+        "쥐",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "매동 마을에 쥐 많다며",
+      "tokens": [
+        "매동",
+        "마을",
+        "에",
+        "쥐",
+        "많",
+        "다며"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아... 쥐라서 키키",
+      "tokens": [
+        "아",
+        ".",
+        "쥐",
+        "라서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그렇게 본다면...",
+      "tokens": [
+        "그렇",
+        "게",
+        "본다면",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 햄찌는 먼가 아직 쥐 같아...",
+      "tokens": [
+        "나",
+        "도",
+        "햄",
+        "찌",
+        "는",
+        "먼가",
+        "VCP",
+        "EF",
+        "아직",
+        "쥐",
+        "같",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

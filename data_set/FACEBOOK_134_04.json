@@ -1,0 +1,496 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "회사에서 그건 없어?",
+      "tokens": [
+        "회사",
+        "에서",
+        "그건",
+        "JX",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그 뭐냐...",
+      "tokens": [
+        "그",
+        "뭐",
+        "냐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "한자리에 있는 거",
+      "tokens": [
+        "한",
+        "자리",
+        "에",
+        "있",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "모야?",
+      "tokens": [
+        "모",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "한 자리에 있는 거?",
+      "tokens": [
+        "한",
+        "자리",
+        "에",
+        "있",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그냥 뭐 그걸 뭐라 하지 하하",
+      "tokens": [
+        "그냥",
+        "뭐",
+        "그걸",
+        "JKO",
+        "뭐",
+        "라하",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그 뭐냐 키키",
+      "tokens": [
+        "그",
+        "뭐",
+        "냐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "회사를 자꾸 옮겨야 하냐구 키키",
+      "tokens": [
+        "회사",
+        "를",
+        "자꾸",
+        "옮겨야",
+        "EC",
+        "하",
+        "냐구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 그러면 본사에 들어가면 되는데",
+      "tokens": [
+        "아",
+        "그러면",
+        "본사",
+        "에",
+        "들어가",
+        "면",
+        "되",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그냥 정착 생활 하하",
+      "tokens": [
+        "그냥",
+        "정착",
+        "생활",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "유목민 말고",
+      "tokens": [
+        "유목민",
+        "말",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그걸 뭐라 하지?",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "뭐",
+        "라",
+        "EC",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "정착!",
+      "tokens": [
+        "정착"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "본사는 서울이야",
+      "tokens": [
+        "본사",
+        "는",
+        "서울",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "서울 가기 시러 ㅠㅠ",
+      "tokens": [
+        "서울가기시러ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "서울에 살면 그래도 좋지 하하",
+      "tokens": [
+        "서울",
+        "에",
+        "살",
+        "면",
+        "그래도",
+        "EC",
+        "좋",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 서울... 서울은 좀 글치",
+      "tokens": [
+        "아",
+        "서울",
+        ".",
+        ".",
+        "서울",
+        "은",
+        "좀",
+        "글",
+        "치",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "집값이...",
+      "tokens": [
+        "집값",
+        "이",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "정착하려면 나랑 ***하고 오빠는 기러기 해야 해",
+      "tokens": [
+        "정착",
+        "하",
+        "려면",
+        "나",
+        "랑",
+        "*",
+        "*",
+        "*",
+        "하고",
+        "오빠",
+        "는",
+        "기러기",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "문화생활도 즐기고 서울인이 되어 보렴 하하",
+      "tokens": [
+        "문화",
+        "생활",
+        "도",
+        "즐기",
+        "고서",
+        "울인",
+        "이",
+        "되",
+        "어",
+        "보",
+        "렴",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "우리 가면 반지하 살아야 할껄...",
+      "tokens": [
+        "우리",
+        "가",
+        "면반",
+        "지하",
+        "살",
+        "아야",
+        "할껄",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "응 이번에 본사 제의가 왔는데 거절했어...",
+      "tokens": [
+        "응",
+        "이번",
+        "에",
+        "본사",
+        "제의",
+        "가",
+        "왔",
+        "EP",
+        "는데",
+        "거절",
+        "했",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그래도 뭐 원룸 정도는 살 수 있지 우린 하하",
+      "tokens": [
+        "그래도",
+        "뭐",
+        "원룸",
+        "정도",
+        "는",
+        "살",
+        "ETM",
+        "수",
+        "있",
+        "지",
+        "우린",
+        "JX",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "와우 본사 가고 싶은 마음은 있었어?",
+      "tokens": [
+        "와우",
+        "본사",
+        "가",
+        "고",
+        "싶",
+        "은",
+        "마음",
+        "은",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "어우 서울 가서 아등바등 살 거 눈에 보여서 ㅠㅠ",
+      "tokens": [
+        "어우",
+        "서울",
+        "가",
+        "서",
+        "아등바등",
+        "살",
+        "ETM",
+        "거",
+        "눈",
+        "에",
+        "보여서",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "헐 거절하다니 ㅠㅠ",
+      "tokens": [
+        "헐거절하다니ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "아쉽당",
+      "tokens": [
+        "아쉽",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

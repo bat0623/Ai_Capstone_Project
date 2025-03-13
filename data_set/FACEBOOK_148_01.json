@@ -1,0 +1,393 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 점심 뭐 먹었어? 키키",
+      "tokens": [
+        "다",
+        "들",
+        "점심",
+        "뭐",
+        "먹",
+        "었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 점심에 삼겹살을 먹었어",
+      "tokens": [
+        "나",
+        "는",
+        "점심",
+        "에",
+        "삼겹살",
+        "을",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 점심에 갈비찜을 먹었어",
+      "tokens": [
+        "나",
+        "는",
+        "점심",
+        "에",
+        "갈비찜",
+        "을",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우와 키키 나도 갈비찜 먹고싶어",
+      "tokens": [
+        "우와",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "갈비찜",
+        "먹",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오늘 저녁에는 소고기를 먹을꺼야",
+      "tokens": [
+        "오늘",
+        "저녁",
+        "에",
+        "는",
+        "소고기",
+        "를",
+        "먹",
+        "을",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맛있는 거만 먹는 거 아니니?",
+      "tokens": [
+        "맛있",
+        "는",
+        "거",
+        "만",
+        "먹",
+        "는",
+        "거",
+        "아니",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 오늘 저녁에 참치를 먹을꺼야 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "저녁",
+        "에",
+        "참치",
+        "를",
+        "먹",
+        "을",
+        "꺼",
+        "VCP",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "내일 아침에는 뭘 먹을지 고민이야",
+      "tokens": [
+        "내일",
+        "아침",
+        "에",
+        "는",
+        "뭘",
+        "JKO",
+        "먹",
+        "을지",
+        "고민",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 내일 아침에는 뭐 먹을지 생각중이야",
+      "tokens": [
+        "나",
+        "도",
+        "내일",
+        "아침",
+        "에",
+        "는",
+        "뭐",
+        "먹",
+        "을지",
+        "생각",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "내일은 샥스핀 먹으려고 하하",
+      "tokens": [
+        "내일",
+        "은",
+        "샥",
+        "스핀",
+        "먹",
+        "으려고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맛있는 거 먹고 살찌워야 해 키키",
+      "tokens": [
+        "맛있",
+        "는",
+        "거",
+        "먹",
+        "고",
+        "살찌워야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내일 삽결살을 먹어야겠어",
+      "tokens": [
+        "내일",
+        "삽",
+        "결",
+        "살",
+        "을",
+        "먹",
+        "어야",
+        "겠어",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "케비어는 너무 비싸서 못 먹을 것 같아 ㅠㅠ",
+      "tokens": [
+        "케",
+        "비어",
+        "는",
+        "너무",
+        "비싸",
+        "서",
+        "못",
+        "먹",
+        "을",
+        "것",
+        "같",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "샥스핀은 너무 많이 먹어서 질려",
+      "tokens": [
+        "샥",
+        "스핀",
+        "은",
+        "너무",
+        "많이",
+        "먹",
+        "어서",
+        "질려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 샥스핀을 먹어보고 싶네",
+      "tokens": [
+        "나",
+        "도",
+        "샥",
+        "스핀",
+        "을",
+        "먹",
+        "어",
+        "보",
+        "고",
+        "싶",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 그래도 소고기가 좋아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "그래도",
+        "소고기",
+        "가",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 소고기보단 돼지고기가 좋아",
+      "tokens": [
+        "나",
+        "는",
+        "소고기",
+        "보단",
+        "JX",
+        "돼지고기",
+        "가",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내일 저녁에는 소고기를 먹어봐야지",
+      "tokens": [
+        "내일",
+        "저녁",
+        "에",
+        "는",
+        "소고기",
+        "를",
+        "먹",
+        "어",
+        "봐야",
+        "EC",
+        "VV",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

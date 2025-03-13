@@ -1,0 +1,471 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "작은엄마 우리 오복이 사촌 오빠 때린 거 봤어?",
+      "tokens": [
+        "작",
+        "은",
+        "엄마",
+        "우리",
+        "오복",
+        "이",
+        "사촌",
+        "오빠",
+        "때린",
+        "ETM",
+        "거",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오복이는 남자를 싫어해",
+      "tokens": [
+        "오복이",
+        "는",
+        "남자",
+        "를",
+        "싫어해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그래서 사촌 오빠 손등에 상처 남!",
+      "tokens": [
+        "그래서",
+        "사촌",
+        "오빠",
+        "손등",
+        "에",
+        "상처",
+        "남"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "엄청 씨게 물렸나 보네...",
+      "tokens": [
+        "엄청",
+        "씨",
+        "게",
+        "물렸",
+        "EP",
+        "나",
+        "보",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "소독은?",
+      "tokens": [
+        "소독",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 흠, 안 했던 거 같아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "흠",
+        ",",
+        "안",
+        "했",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그 긁은 거라서!",
+      "tokens": [
+        "그",
+        "긁",
+        "은",
+        "거",
+        "라서",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그냥 살짝 긁힌 거면 다행이야 키키",
+      "tokens": [
+        "그냥",
+        "살짝",
+        "긁힌",
+        "ETM",
+        "거",
+        "면",
+        "EC",
+        "다행",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "만약에 물렸으면 바로 주사 맞으러 가야지!",
+      "tokens": [
+        "만약",
+        "에",
+        "물렸",
+        "EP",
+        "으면",
+        "바로",
+        "주사",
+        "맞",
+        "으러",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거도 광견병 이런 거 있나?",
+      "tokens": [
+        "그거",
+        "도",
+        "광견병",
+        "이런",
+        "거",
+        "있",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그 강아지랑 고양이는 이빨에 세균이 진짜 많거든 ㅜ",
+      "tokens": [
+        "그",
+        "강아지",
+        "랑",
+        "고양이",
+        "는",
+        "이빨",
+        "에",
+        "세균",
+        "이",
+        "진짜",
+        "많",
+        "거든",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "매일 양치도 시켜주는데 그래?",
+      "tokens": [
+        "매일",
+        "양치",
+        "도",
+        "시켜",
+        "EC",
+        "주",
+        "는데그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어 근데 하루에 한 번씩밖에 안 시켜주잖아",
+      "tokens": [
+        "어",
+        "근데",
+        "하루",
+        "에",
+        "한",
+        "번",
+        "씩",
+        "밖에",
+        "안",
+        "시켜",
+        "EC",
+        "주",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그것도  대충 ㅜ",
+      "tokens": [
+        "그것",
+        "도",
+        "대충",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그러면 더욱 조심 해야지...",
+      "tokens": [
+        "그러면",
+        "더욱",
+        "조심",
+        "해야지",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 우리 오복이 사람 문 적은 한 번도 없는 듯!",
+      "tokens": [
+        "근데",
+        "우리",
+        "오복",
+        "이",
+        "사람",
+        "문적",
+        "은",
+        "한",
+        "번",
+        "도",
+        "없",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오 그래?",
+      "tokens": [
+        "오",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "작은 아빠 엄청 물던데 키키",
+      "tokens": [
+        "작",
+        "은",
+        "아빠",
+        "엄청",
+        "물",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아 생각해 보니까 나 저번에 입술 물렸었다",
+      "tokens": [
+        "아",
+        "생각",
+        "해",
+        "EC",
+        "보",
+        "니까",
+        "나",
+        "저번",
+        "에",
+        "입술",
+        "물렸",
+        "EP",
+        "었",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "눈물 ㅜㅜ",
+      "tokens": [
+        "눈물ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그건 격한 애정표현 아닐까 싶어",
+      "tokens": [
+        "그건",
+        "JX",
+        "격한",
+        "ETM",
+        "애정",
+        "표현",
+        "아닐까",
+        "EC",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

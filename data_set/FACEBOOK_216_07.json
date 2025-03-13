@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "가족이 최고인 듯...",
+      "tokens": [
+        "가족",
+        "이",
+        "최고",
+        "인듯",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 그렇지 뭐",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "지",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 요즘은 직계 아니면 가족 같지도 않다",
+      "tokens": [
+        "근데",
+        "요즘",
+        "은",
+        "직계",
+        "아니",
+        "면",
+        "가족",
+        "같",
+        "지",
+        "도",
+        "않",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "가족이 최고지 친구보다",
+      "tokens": [
+        "가족",
+        "이",
+        "최고",
+        "지",
+        "EC",
+        "친구",
+        "보다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "사촌이랑 연락 하심?",
+      "tokens": [
+        "사촌",
+        "이랑",
+        "연락",
+        "하",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "에전처럼 삼촌 사촌 이런 거 안 챙기는 거 같아",
+      "tokens": [
+        "에",
+        "전",
+        "처럼",
+        "삼촌",
+        "사촌",
+        "이런",
+        "거",
+        "안",
+        "챙기",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "사촌은 자주 만나!",
+      "tokens": [
+        "사촌",
+        "은",
+        "자주",
+        "만나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 사촌이랑 거의 연락 안 해",
+      "tokens": [
+        "난",
+        "JX",
+        "사촌",
+        "이랑",
+        "거의",
+        "연락",
+        "안",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "제사도 뭐 잘 안 하니까 더 그런 듯",
+      "tokens": [
+        "제사",
+        "도",
+        "뭐",
+        "잘",
+        "안",
+        "하",
+        "니까",
+        "더",
+        "그런",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "직계 아니면 남남 같기두",
+      "tokens": [
+        "직계",
+        "아니",
+        "면",
+        "남남",
+        "같",
+        "기",
+        "두"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 **는 사촌 형이랑 친하더라",
+      "tokens": [
+        "아",
+        "*",
+        "*",
+        "는",
+        "사촌",
+        "형",
+        "이랑",
+        "친하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "허례허식 같긴 한데 가족들끼리 이럴 때 아니면 잘 안 모이자나",
+      "tokens": [
+        "허례허식",
+        "같",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "가족",
+        "들",
+        "끼리",
+        "이럴",
+        "ETM",
+        "때",
+        "아니",
+        "면",
+        "잘",
+        "안",
+        "모이",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "사촌 형이랑 맨날 같이 노니까 하하",
+      "tokens": [
+        "사촌",
+        "형",
+        "이랑",
+        "맨날",
+        "같이",
+        "노",
+        "니까",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "직계가 진정 가족이지",
+      "tokens": [
+        "직계",
+        "가",
+        "진정",
+        "가족",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그니까 직계만 챙기게 되는ㄷㅅ",
+      "tokens": [
+        "그니까",
+        "직계",
+        "만",
+        "챙기",
+        "게",
+        "되",
+        "는",
+        "ㄷ",
+        "ㅅ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "**는 혼자라 심심하겠다",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "혼자",
+        "라",
+        "EC",
+        "심심",
+        "하",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "제사 안 지내니까 안 만나게 된다",
+      "tokens": [
+        "제사",
+        "안",
+        "지내",
+        "니까",
+        "안",
+        "만나",
+        "게",
+        "된다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "** 외동이었어?",
+      "tokens": [
+        "*",
+        "*",
+        "외동",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "외롭게따",
+      "tokens": [
+        "외롭",
+        "게",
+        "따",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "외동이자누...",
+      "tokens": [
+        "외동",
+        "이",
+        "자",
+        "누",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

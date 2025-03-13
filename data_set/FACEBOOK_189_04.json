@@ -1,0 +1,369 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 또 회사 회식이야 ㅠㅠ",
+      "tokens": [
+        "오늘",
+        "또",
+        "회사",
+        "회식",
+        "이",
+        "야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 회식이 재밌더라",
+      "tokens": [
+        "나",
+        "는",
+        "회식",
+        "이",
+        "재밌",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "회식은 늘 재밌지 않니",
+      "tokens": [
+        "회식",
+        "은",
+        "늘",
+        "재밌",
+        "지",
+        "않",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "최고야",
+      "tokens": [
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "회식 너무 싫어 난 ㅠㅠ",
+      "tokens": [
+        "회식",
+        "너무",
+        "싫",
+        "어",
+        "난",
+        "JX",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "회식하면 이쁜 사람이 너무 많아",
+      "tokens": [
+        "회식",
+        "하",
+        "면",
+        "이쁜",
+        "ETM",
+        "사람",
+        "이",
+        "너무",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "회식갈 때 뭐먹을지 설레",
+      "tokens": [
+        "회식",
+        "갈",
+        "ETM",
+        "때",
+        "뭐",
+        "먹",
+        "을지",
+        "설레",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "부장님이 매일 술먹여 ㅠㅠ",
+      "tokens": [
+        "부장",
+        "님",
+        "이",
+        "매일",
+        "술",
+        "먹여",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맨날 회식했으면 좋겠어",
+      "tokens": [
+        "맨날",
+        "회식",
+        "했",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "부장님이랑 러브샷 했어",
+      "tokens": [
+        "부장",
+        "님",
+        "이랑",
+        "러브",
+        "샷",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "급여나 올려줫으면 좋겠어 ㅠㅠ",
+      "tokens": [
+        "급여",
+        "나올",
+        "ETM",
+        "려줫",
+        "으면",
+        "좋",
+        "겠",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 부장님이랑 결혼할꺼야",
+      "tokens": [
+        "나",
+        "는",
+        "부장",
+        "님",
+        "이랑",
+        "결혼",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "부장님 없는 회식은 재미없어",
+      "tokens": [
+        "부장",
+        "님",
+        "없",
+        "는",
+        "회식",
+        "은",
+        "재미없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "연봉이 너무 짜다구 슬퍼",
+      "tokens": [
+        "연봉",
+        "이",
+        "너무",
+        "짜",
+        "다구",
+        "슬퍼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "내가 설거지 해줄 수 있어",
+      "tokens": [
+        "내",
+        "가",
+        "설거지",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 저런 부장님이 되고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "저런",
+        "부장",
+        "님",
+        "이",
+        "되",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이직을 하고 싶어 난 키키",
+      "tokens": [
+        "이직",
+        "을",
+        "하",
+        "고",
+        "싶",
+        "어",
+        "난키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "연봉이 짜면 나차럼 취집을 해",
+      "tokens": [
+        "연봉",
+        "이",
+        "짜",
+        "면",
+        "나",
+        "차",
+        "럼",
+        "취집",
+        "을",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "연봉 많이주는데 이직할려면 힘들어",
+      "tokens": [
+        "연봉",
+        "많이",
+        "주",
+        "는데",
+        "이직",
+        "할려면",
+        "EC",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

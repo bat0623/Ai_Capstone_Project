@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "날씨 완전 따뜻한데?",
+      "tokens": [
+        "날씨",
+        "완전",
+        "따뜻",
+        "한데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "단풍 든 거 봤냐 이뻐",
+      "tokens": [
+        "단풍",
+        "든",
+        "ETM",
+        "거",
+        "봤",
+        "EP",
+        "냐",
+        "이뻐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "내 말이 따뜻하다 했자나 키키",
+      "tokens": [
+        "내말이",
+        "JKG",
+        "NNG",
+        "JKS",
+        "따뜻",
+        "하",
+        "다",
+        "했",
+        "EP",
+        "자",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "창문 열어 놨나?",
+      "tokens": [
+        "창문",
+        "열",
+        "어",
+        "놨",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 추워서 닫음",
+      "tokens": [
+        "난",
+        "JX",
+        "추워서",
+        "EC",
+        "닫",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "단풍 넘 이뿌다 ㅜㅜ",
+      "tokens": [
+        "단풍넘이뿌다ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "단풍 완전 들었음?",
+      "tokens": [
+        "단풍",
+        "완전",
+        "들",
+        "었",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 완전 빨개",
+      "tokens": [
+        "응",
+        "완전",
+        "빨개",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "단풍캠 갈랬는데 ㅜㅜ 실패",
+      "tokens": [
+        "단풍",
+        "캠",
+        "갈",
+        "랬는데",
+        "ㅜㅜ",
+        "실패"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요즘 세상 밖을 몰라...",
+      "tokens": [
+        "요즘",
+        "세상",
+        "밖",
+        "을",
+        "몰라",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "왜 밖을 좀 나가",
+      "tokens": [
+        "왜",
+        "밖",
+        "을",
+        "좀",
+        "나가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 ㅜㅜ 그게 로망이엿는데 비라니",
+      "tokens": [
+        "아",
+        "ㅜㅜ",
+        "그게",
+        "JKS",
+        "로망",
+        "이",
+        "엿",
+        "는데",
+        "비",
+        "라니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이번 주에 드디어 나간다...",
+      "tokens": [
+        "이번",
+        "주",
+        "에",
+        "드디어",
+        "나간다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "비타민d 부족해",
+      "tokens": [
+        "비타민",
+        "d",
+        "부족",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 그래",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이번 주 가나 했는데 비 오네",
+      "tokens": [
+        "이번",
+        "주가",
+        "나",
+        "했",
+        "EP",
+        "는데",
+        "비",
+        "오",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 그니까 ㅡㅡ 비가 웬말",
+      "tokens": [
+        "아",
+        "그니까",
+        "ㅡㅡ",
+        "비",
+        "가",
+        "웬",
+        "말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "비 오면 더 추워짐",
+      "tokens": [
+        "비오",
+        "면",
+        "더",
+        "추워",
+        "EC",
+        "짐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "극혐이다 비 ㅜㅜ",
+      "tokens": [
+        "극혐이다비ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "넘 싫어",
+      "tokens": [
+        "넘",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

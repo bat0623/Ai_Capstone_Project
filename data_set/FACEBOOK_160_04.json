@@ -1,0 +1,395 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "제주에는 이색 알바가 많을듯",
+      "tokens": [
+        "제주",
+        "에",
+        "는",
+        "이색",
+        "알",
+        "ETM",
+        "바",
+        "가",
+        "많",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "예를 들면 어떤?",
+      "tokens": [
+        "예",
+        "를",
+        "들",
+        "면",
+        "어떤"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 모르는데?",
+      "tokens": [
+        "나",
+        "도",
+        "모르",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "말 관리 하기 이런거",
+      "tokens": [
+        "말",
+        "관리",
+        "하",
+        "기",
+        "이런",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "게스트하우스 스탭 말고는 몰랐네",
+      "tokens": [
+        "게스트",
+        "하우스",
+        "스탭",
+        "말",
+        "고는",
+        "몰랐",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 웃기노 키키",
+      "tokens": [
+        "키키웃기노키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 목장에 있을 거 같긴함",
+      "tokens": [
+        "진짜",
+        "목장",
+        "에",
+        "있",
+        "을",
+        "거",
+        "같",
+        "긴",
+        "JX",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "해녀 알바 이런거",
+      "tokens": [
+        "해녀",
+        "알",
+        "ETM",
+        "바",
+        "이런",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "말관리 하기 키키 그렇네 필요하네",
+      "tokens": [
+        "말",
+        "관리",
+        "하",
+        "기",
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "네",
+        "필요",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "해녀 알바는 없지 않겟나...",
+      "tokens": [
+        "해녀",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "없",
+        "지",
+        "않",
+        "겟",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 분명히 있음 감귤 따기는 하수고",
+      "tokens": [
+        "아",
+        "분명히",
+        "있",
+        "음",
+        "감귤",
+        "따",
+        "기",
+        "는",
+        "하수",
+        "고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "해녀 알바는 자격증 없으면 안해줄듯",
+      "tokens": [
+        "해녀",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "자격증",
+        "없",
+        "으면",
+        "안",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "감귤은 그냥 노동이다 키키",
+      "tokens": [
+        "감귤",
+        "은",
+        "그냥",
+        "노동",
+        "이",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "제주도에 이색 알바 많을듯 하하",
+      "tokens": [
+        "제주도",
+        "에",
+        "이색",
+        "알",
+        "ETM",
+        "바",
+        "많",
+        "을",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "잠수 자격증 이런거 키키",
+      "tokens": [
+        "잠수",
+        "자격증",
+        "이런",
+        "거",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 뭔가 나 농사 잘 할 듯",
+      "tokens": [
+        "근데",
+        "뭔가",
+        "VCP",
+        "EC",
+        "나",
+        "농사",
+        "잘",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "잠수 자격증 필요하다고?",
+      "tokens": [
+        "잠수",
+        "자격증",
+        "필요",
+        "하",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "감귤따기는 진짜 노동 맞겠다 키키",
+      "tokens": [
+        "감귤",
+        "따",
+        "기",
+        "는",
+        "진짜",
+        "노동",
+        "맞",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어울리지 않나?",
+      "tokens": [
+        "어울리",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 땅값이 너무 비싸다",
+      "tokens": [
+        "근데",
+        "땅값",
+        "이",
+        "너무",
+        "비싸",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

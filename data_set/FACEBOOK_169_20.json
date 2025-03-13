@@ -1,0 +1,312 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "종이의  집 보신분",
+      "tokens": [
+        "종이",
+        "의",
+        "집",
+        "보",
+        "신",
+        "ETM",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 봤지 완젼 강추",
+      "tokens": [
+        "나봤지완젼강추"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "시리즈 보다 말았어 키키",
+      "tokens": [
+        "시리즈",
+        "보다",
+        "말",
+        "았",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "종이의 집이 진짜 명작이다",
+      "tokens": [
+        "종이",
+        "의",
+        "집",
+        "이",
+        "진짜",
+        "명작",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이번에 마지막 시리즈 나옴 하하",
+      "tokens": [
+        "이번",
+        "에",
+        "마지막",
+        "시리즈",
+        "나옴",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너무 중독성ㅇ 있더라구",
+      "tokens": [
+        "너무",
+        "중독",
+        "성",
+        "ㅇ",
+        "있",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그걸 보다가 말았어...?",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "보",
+        "다가",
+        "말",
+        "았",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "12월에 막판 나옴 ㅠㅠ",
+      "tokens": [
+        "12",
+        "월에막판나옴ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 스토리 너무 탄탄해",
+      "tokens": [
+        "키",
+        "키",
+        "스토리",
+        "너무",
+        "탄탄",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어떻게 그럴 수 가 있지...",
+      "tokens": [
+        "어떻게",
+        "그럴",
+        "ETM",
+        "수",
+        "가",
+        "있",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "해피엔딩은 아니겟지 ㅠㅠ",
+      "tokens": [
+        "해피",
+        "엔딩",
+        "은",
+        "아니",
+        "겟",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "만간에 다 봐야겠어 키키",
+      "tokens": [
+        "만간",
+        "에다",
+        "봐야겠어",
+        "EC",
+        "VX",
+        "EP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리 밤새서 봤는데",
+      "tokens": [
+        "우리",
+        "밤새",
+        "서",
+        "봤",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 도둑을 응원해 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "도둑",
+        "을",
+        "응원",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "해피앤딩이면 좋겠는걸, ㅠㅠ",
+      "tokens": [
+        "해피",
+        "앤",
+        "JX",
+        "딩",
+        "이",
+        "면",
+        "좋",
+        "겠",
+        "는걸",
+        ",",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "해피 엔딩은 아닐듯 ㅠㅠ",
+      "tokens": [
+        "해피",
+        "엔딩",
+        "은",
+        "아닐",
+        "ETM",
+        "듯",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "도둑을 응원하긴 첨이야",
+      "tokens": [
+        "도둑",
+        "을",
+        "응원",
+        "하",
+        "긴",
+        "JX",
+        "첨",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

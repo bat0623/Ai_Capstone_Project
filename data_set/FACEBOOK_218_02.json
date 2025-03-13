@@ -1,0 +1,410 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아파트 카페 진짜 웃기당?",
+      "tokens": [
+        "아파트",
+        "카페",
+        "진짜",
+        "웃기",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "먼데 그건?",
+      "tokens": [
+        "먼데",
+        "VCP",
+        "EC",
+        "그건",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 무슨 일있어?",
+      "tokens": [
+        "아",
+        "무슨",
+        "일",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "엥 그런 것도 있어?",
+      "tokens": [
+        "엥",
+        "그런",
+        "것",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아파트 카페? 그게 머야?",
+      "tokens": [
+        "아파트",
+        "카페",
+        "그게",
+        "JKS",
+        "머",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "누가 햄 떨어 뜨렸다고 주워가랭",
+      "tokens": [
+        "누가",
+        "JKS",
+        "햄",
+        "떨어뜨렸",
+        "EP",
+        "다고",
+        "주워",
+        "EC",
+        "가",
+        "랭"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "햄을 떨어뜨렸대?",
+      "tokens": [
+        "햄",
+        "을",
+        "떨어뜨렸",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "하하 웃기네",
+      "tokens": [
+        "하하",
+        "웃기",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "우와 그런 것도 있어?",
+      "tokens": [
+        "우와",
+        "그런",
+        "것",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 주으러 갈래",
+      "tokens": [
+        "나",
+        "주으러",
+        "EC",
+        "갈래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 그런 거 올려주는데 넘 귀여움 아파트 카페 키키",
+      "tokens": [
+        "키키",
+        "그런",
+        "거",
+        "올려",
+        "EC",
+        "주",
+        "는",
+        "데넘",
+        "귀여움",
+        "ETN",
+        "아파트",
+        "카페키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "우리가 주우러 가쟈 하하",
+      "tokens": [
+        "우리",
+        "가",
+        "주우러",
+        "EC",
+        "가",
+        "쟈",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 어디서 하는 거야?",
+      "tokens": [
+        "헐",
+        "어디",
+        "서",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 김밥 햄 누가 떨어 뜨린 거야",
+      "tokens": [
+        "응",
+        "김밥",
+        "햄",
+        "누가",
+        "JKS",
+        "떨어뜨린",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "울 친구 집은 똥폭탄을 맞았어",
+      "tokens": [
+        "울",
+        "친구",
+        "집",
+        "은",
+        "똥",
+        "폭탄",
+        "을",
+        "맞",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "당장 달려가 우리 모두 달려가~",
+      "tokens": [
+        "당장",
+        "달려가",
+        "EC",
+        "우리",
+        "모두",
+        "달려가",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "네이버 카펜데 아파트 사람들 가입해 있어",
+      "tokens": [
+        "네이버",
+        "카",
+        "펜데",
+        "아파트",
+        "사람",
+        "들",
+        "가입",
+        "해",
+        "EC",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "변기가 역류해서 똥폭탄 하하",
+      "tokens": [
+        "변기",
+        "가",
+        "역류",
+        "해서",
+        "EC",
+        "똥",
+        "폭탄",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "헐 신기하다 증말로  헉",
+      "tokens": [
+        "헐",
+        "JKO",
+        "신기",
+        "하",
+        "다",
+        "증말",
+        "로",
+        "헉"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 마자 ㅠㅠ 똥 폭탄 맞았음",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "마자",
+        "ㅠㅠ",
+        "똥",
+        "폭탄",
+        "맞",
+        "았",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아주 대박이지 완젼",
+      "tokens": [
+        "아주",
+        "대박",
+        "이지완",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "헐 너네 집에 그런 거야?",
+      "tokens": [
+        "헐",
+        "너",
+        "네",
+        "집",
+        "에",
+        "그런",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

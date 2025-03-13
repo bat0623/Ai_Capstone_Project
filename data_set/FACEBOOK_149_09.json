@@ -1,0 +1,410 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "고양이 키우고 싶다 진짜",
+      "tokens": [
+        "고양이",
+        "키우",
+        "고",
+        "싶",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "에이 그건 아니지 이 친구야",
+      "tokens": [
+        "에이",
+        "그건",
+        "JX",
+        "아니",
+        "지",
+        "이",
+        "친구",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "곰처럼 흰 털 수북한 강아지 이름 뭐더라",
+      "tokens": [
+        "곰",
+        "처럼",
+        "흰",
+        "ETM",
+        "털",
+        "수북",
+        "한",
+        "ETM",
+        "강아지",
+        "이름",
+        "뭐",
+        "더라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "고양이 간식 뭐가 좋지 키키",
+      "tokens": [
+        "고양이",
+        "간식",
+        "뭐",
+        "가",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 강아지가 너무 조아 진짜 키키",
+      "tokens": [
+        "나",
+        "는",
+        "강아지",
+        "가",
+        "너무",
+        "조아",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거 여러 마리 키우는 카페도 있던데 키키",
+      "tokens": [
+        "그거",
+        "여러",
+        "마리",
+        "키우",
+        "는",
+        "카페",
+        "도",
+        "있",
+        "던",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "포메 말하는 건가? 키키",
+      "tokens": [
+        "포",
+        "메",
+        "EC",
+        "말",
+        "하",
+        "는",
+        "건가",
+        "VCP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "시츄가 너무 귀여워 요즘 키키",
+      "tokens": [
+        "시",
+        "츄",
+        "가",
+        "너무",
+        "귀여워",
+        "EC",
+        "요즘",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "거기 가보고 싶더라 키키 나는 키키",
+      "tokens": [
+        "거기",
+        "가",
+        "보",
+        "고",
+        "싶",
+        "더라",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 고양이 카페 얼마 전에 다녀왔는데 키키",
+      "tokens": [
+        "나",
+        "고양이",
+        "카페",
+        "얼마",
+        "전",
+        "에",
+        "다녀왔",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "포메도 귀여워 너무 진짜 키키",
+      "tokens": [
+        "포",
+        "메",
+        "도",
+        "귀여워",
+        "EC",
+        "너무",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니야 몸집 엄청 큰 애야 키키",
+      "tokens": [
+        "아니야",
+        "몸집",
+        "엄청",
+        "큰",
+        "ETM",
+        "애",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "고양이 카페 재밌어 키키",
+      "tokens": [
+        "고양이",
+        "카페",
+        "재밌",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "가봐 키키",
+      "tokens": [
+        "가",
+        "EC",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 카페 가고 싶다 진짜 키키",
+      "tokens": [
+        "나",
+        "도",
+        "카페",
+        "가",
+        "고",
+        "싶",
+        "다",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "고양이 카페도 있나 보네 키키",
+      "tokens": [
+        "고양이",
+        "카페",
+        "도",
+        "있",
+        "나",
+        "보",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나중에 말해줄게 키키 ㅇㅈ?",
+      "tokens": [
+        "나중",
+        "에",
+        "말",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "키",
+        "키",
+        "ETN",
+        "ㅇㅈ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래 대박 나도 갈래 키키",
+      "tokens": [
+        "그래",
+        "대박",
+        "나",
+        "도",
+        "갈래",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "ㅇㅈ 나중에 말해줘 키키 진짜",
+      "tokens": [
+        "ㅇㅈ",
+        "나중",
+        "에",
+        "말",
+        "해",
+        "EC",
+        "줘",
+        "EC",
+        "키",
+        "키",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_149_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

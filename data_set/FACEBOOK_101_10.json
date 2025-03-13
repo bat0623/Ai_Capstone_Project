@@ -1,0 +1,477 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 요즘 운동하고 있는 거 맞아?",
+      "tokens": [
+        "언니",
+        "요즘",
+        "운동",
+        "하",
+        "고",
+        "있",
+        "는",
+        "거",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 요새 운동 안 해",
+      "tokens": [
+        "나",
+        "요",
+        "새운",
+        "ETM",
+        "동안",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "살 엄청 찜",
+      "tokens": [
+        "살",
+        "엄청",
+        "찜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 근데 겨울에는 많이 먹어줘야 해~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "겨울",
+        "에",
+        "는",
+        "많이",
+        "먹",
+        "어",
+        "줘야해",
+        "EC",
+        "VX",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 운동 해야지",
+      "tokens": [
+        "근데",
+        "운동",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "요가라도 해야지..",
+      "tokens": [
+        "요가",
+        "라도",
+        "EC",
+        "해야지",
+        "EC",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 언니 요가 배운 적 있어?",
+      "tokens": [
+        "키",
+        "키",
+        "언니",
+        "요가",
+        "배운",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 요가 아님 필라테스만 해",
+      "tokens": [
+        "난요",
+        "가",
+        "아님",
+        "ETN",
+        "필라테스",
+        "만",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "와 진짜?",
+      "tokens": [
+        "와",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요가랑 필테랑 뭐가 더 좋아?",
+      "tokens": [
+        "요가",
+        "랑",
+        "필",
+        "ETM",
+        "테",
+        "VCP",
+        "랑",
+        "뭐",
+        "가",
+        "더",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "필라테스가 더 좋다는데 시간대가 안 맞아ㅠ",
+      "tokens": [
+        "필라테스",
+        "가",
+        "더",
+        "좋",
+        "다는데",
+        "시간대",
+        "가",
+        "안",
+        "맞",
+        "아",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그렇구나 ㅜㅜ",
+      "tokens": [
+        "그렇구나ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "필테는 몇 시에 시작하는데?",
+      "tokens": [
+        "필",
+        "ETM",
+        "테",
+        "는",
+        "몇",
+        "시",
+        "에",
+        "시작",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "필테는 여덟시",
+      "tokens": [
+        "필",
+        "ETM",
+        "테",
+        "는",
+        "여덟",
+        "시"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 퇴근 일곱시라 안 맞아",
+      "tokens": [
+        "나",
+        "퇴근",
+        "일곱",
+        "시",
+        "라",
+        "EC",
+        "안",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "언니가 다녔던 필테는 기구 이용해서 하는 곳이야?",
+      "tokens": [
+        "언니",
+        "가",
+        "다녔",
+        "EP",
+        "던",
+        "필",
+        "테",
+        "는",
+        "기구",
+        "이용",
+        "해서",
+        "EC",
+        "하",
+        "는",
+        "곳",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "기구도 있었고 최근에 했던 데는 기구 아니었어",
+      "tokens": [
+        "기구",
+        "도",
+        "있",
+        "었",
+        "고",
+        "최근",
+        "에",
+        "했",
+        "EP",
+        "던",
+        "데",
+        "는",
+        "기구",
+        "아니",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 필테는 기구 운동으로 거의 다 하는 거 아니야?",
+      "tokens": [
+        "근데",
+        "필",
+        "ETM",
+        "테",
+        "는",
+        "기구",
+        "운동",
+        "으로",
+        "거의",
+        "다",
+        "하",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "마져",
+      "tokens": [
+        "마져"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "기구가 좋은 거 같은데 안 맞네 시간이",
+      "tokens": [
+        "기구",
+        "가",
+        "좋",
+        "은",
+        "거",
+        "같",
+        "은데",
+        "안",
+        "맞",
+        "네",
+        "시간",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 그렇구나 ㅜㅜ",
+      "tokens": [
+        "키키그렇구나ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "언니 필테 언제부터 배웠어?",
+      "tokens": [
+        "언니",
+        "필",
+        "ETM",
+        "테",
+        "VCP",
+        "언제",
+        "부터",
+        "배웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "나는 필테는 거의 삼년 정도?",
+      "tokens": [
+        "나",
+        "는",
+        "필",
+        "ETM",
+        "테",
+        "는",
+        "거의",
+        "삼",
+        "년",
+        "정도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

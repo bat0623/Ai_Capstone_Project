@@ -1,0 +1,347 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 조만간 결혼해 ㅠㅠ",
+      "tokens": [
+        "나",
+        "조만간",
+        "결혼",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "이번에 여자친구랑 헤어졌어 ㅠ",
+      "tokens": [
+        "이번",
+        "에",
+        "여자",
+        "친구",
+        "랑",
+        "헤어졌",
+        "EP",
+        "어ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어떡해 결혼 정말 축하해",
+      "tokens": [
+        "어떡",
+        "해",
+        "EC",
+        "결혼",
+        "정말",
+        "축하",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "얼른 결혼 하고 싶었어 난 ㅠㅠ",
+      "tokens": [
+        "얼른",
+        "결혼",
+        "하",
+        "고",
+        "싶",
+        "었",
+        "어",
+        "난",
+        "JX",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "정말 나를 존중하지 않아",
+      "tokens": [
+        "정말",
+        "나",
+        "를",
+        "존중",
+        "하",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나도 이번에 여자친구 사겼어",
+      "tokens": [
+        "나",
+        "도",
+        "이번",
+        "에",
+        "여자",
+        "친구",
+        "사겼",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뻥이고, 모쏠이야 난 ㅠㅠ",
+      "tokens": [
+        "뻥",
+        "이",
+        "고",
+        ",",
+        "모쏠이야난ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아이는 언제 가질꺼야?",
+      "tokens": [
+        "아이",
+        "는",
+        "언제",
+        "가질",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "결혼은 언제 하는 게 제일 좋을까",
+      "tokens": [
+        "결혼",
+        "은",
+        "언제",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "제일",
+        "좋",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "여친 만들고 싶어 나도 ㅠㅠ",
+      "tokens": [
+        "여친",
+        "만들",
+        "고",
+        "싶",
+        "어",
+        "나",
+        "도",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 지금 아이가 3명이야",
+      "tokens": [
+        "나",
+        "는",
+        "지금",
+        "아이",
+        "가",
+        "3",
+        "명",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "전에 만난 여친이 자꾸 연락해",
+      "tokens": [
+        "전",
+        "에",
+        "만난",
+        "ETM",
+        "여친",
+        "이",
+        "자꾸",
+        "연락",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "결혼은 신중해야지 항상",
+      "tokens": [
+        "결혼",
+        "은",
+        "신중",
+        "해야지",
+        "EC",
+        "항상"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나같은 애국자가 없다고 생각해",
+      "tokens": [
+        "나",
+        "같",
+        "은",
+        "애국자",
+        "가",
+        "없",
+        "다고",
+        "생각",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "결혼은 무조건 해야지",
+      "tokens": [
+        "결혼",
+        "은",
+        "무조건",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "좋은 부모가 되자 우리도",
+      "tokens": [
+        "좋",
+        "은",
+        "부모",
+        "가",
+        "되",
+        "자",
+        "우리",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "여자친구가 집척하면 너무 무서워",
+      "tokens": [
+        "여자",
+        "친구",
+        "가",
+        "집",
+        "척하면",
+        "너무",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아이 3명 키우기 너무 재밌겠다",
+      "tokens": [
+        "아이",
+        "3",
+        "명",
+        "키우",
+        "기",
+        "너무",
+        "재밌",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

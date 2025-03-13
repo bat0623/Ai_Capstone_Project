@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부모님 전화 자주 오심?",
+      "tokens": [
+        "부모",
+        "님",
+        "전화",
+        "자주",
+        "오심"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 내가 자주 함 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "내",
+        "가",
+        "자주",
+        "함하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "자주 안 오심;",
+      "tokens": [
+        "자주",
+        "안",
+        "오",
+        "심",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나한테 관심이 별로;",
+      "tokens": [
+        "나",
+        "한테",
+        "관심",
+        "이",
+        "별로",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "부모님이 걱정 안 하시든?",
+      "tokens": [
+        "부모",
+        "님",
+        "이",
+        "걱정",
+        "안",
+        "하",
+        "시",
+        "든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오늘도 전화했어 하하",
+      "tokens": [
+        "오늘",
+        "도",
+        "전화",
+        "했",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "효자 코스프레",
+      "tokens": [
+        "효자",
+        "코스프레"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "알아서 하겠지 하는 분이라;",
+      "tokens": [
+        "알",
+        "아서",
+        "하",
+        "겠",
+        "지",
+        "하",
+        "는",
+        "분",
+        "이",
+        "라",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 우리 엄마가 엄청 걱정해",
+      "tokens": [
+        "난",
+        "JX",
+        "우리",
+        "엄마",
+        "가",
+        "엄청",
+        "걱정",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "남자는 원래 그래",
+      "tokens": [
+        "남자",
+        "는",
+        "원래",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래도 날 추워져서 그런가 월요일에 전화 오더라",
+      "tokens": [
+        "그래도",
+        "날",
+        "JKO",
+        "추워져서",
+        "EC",
+        "VX",
+        "EC",
+        "그런가",
+        "EC",
+        "월요일",
+        "에",
+        "전화",
+        "오",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 전화 자주 옴...",
+      "tokens": [
+        "나",
+        "도",
+        "전화",
+        "자주",
+        "옴",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "남자는 풀어놓고 키우심 하하",
+      "tokens": [
+        "남자",
+        "는",
+        "풀어놓",
+        "고",
+        "키",
+        "우심",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래서 옷 택배로 보내주 ㅁ 키키",
+      "tokens": [
+        "그래서",
+        "옷",
+        "택배",
+        "로",
+        "보내",
+        "EC",
+        "주",
+        "ㅁ",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "내가 먼저 해야 하는데",
+      "tokens": [
+        "내",
+        "가",
+        "먼저",
+        "해야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난 어디 가도 전화 잘 안 와 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "어디",
+        "가",
+        "도전",
+        "화",
+        "잘",
+        "안",
+        "와",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 내가 먼저 하기는 좀 그래 키키",
+      "tokens": [
+        "나",
+        "도",
+        "내",
+        "가",
+        "먼저",
+        "하",
+        "기",
+        "는",
+        "좀",
+        "그래",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "옷 택배 이제 왔음? 키키",
+      "tokens": [
+        "옷",
+        "택배",
+        "이제",
+        "왔음",
+        "EP",
+        "EC",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "저번에 안 오는 거 봤지?",
+      "tokens": [
+        "저번",
+        "에",
+        "안",
+        "오",
+        "는",
+        "거",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그래도 3일 만에 온 거 같던데",
+      "tokens": [
+        "그래도",
+        "3",
+        "일",
+        "만",
+        "에",
+        "온",
+        "ETM",
+        "거",
+        "같",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

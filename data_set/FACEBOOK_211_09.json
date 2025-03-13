@@ -1,0 +1,381 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아기 좀만 더 크면 병아리 사올 듯",
+      "tokens": [
+        "아기",
+        "좀",
+        "만",
+        "더",
+        "크",
+        "면",
+        "병아리",
+        "사",
+        "올",
+        "VCP",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "병아리 우엑 안돼...",
+      "tokens": [
+        "병아리",
+        "우",
+        "엑",
+        "안",
+        "돼",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "으... 병아리 잘 죽자나... 처치 불가...",
+      "tokens": [
+        "으",
+        ".",
+        "병아리",
+        "잘",
+        "죽",
+        "자",
+        "나",
+        "EF",
+        ".",
+        "처치",
+        "불가",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "학교 갔다가 올 때",
+      "tokens": [
+        "학교",
+        "갔",
+        "EP",
+        "다가",
+        "올",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 그런 동물들은 진짜 냄새 땜에",
+      "tokens": [
+        "근데",
+        "그런",
+        "동물",
+        "들",
+        "은",
+        "진짜",
+        "냄새",
+        "땜",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 그런 거 진자 못 만지는데 ㅜㅜ",
+      "tokens": [
+        "나",
+        "그런",
+        "거진",
+        "자못",
+        "만지",
+        "는데",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엄마 삐약이 삐약이 하면서 온다",
+      "tokens": [
+        "엄마",
+        "삐",
+        "약",
+        "이",
+        "삐",
+        "약",
+        "이",
+        "하",
+        "면서",
+        "온다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리 때 교문 앞에 엄청 팔았는데",
+      "tokens": [
+        "우리",
+        "때",
+        "교문",
+        "앞",
+        "에",
+        "엄청",
+        "팔",
+        "았",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "병아리 청소년 되면 진짜 징그러워",
+      "tokens": [
+        "병아리",
+        "청소년",
+        "되",
+        "면",
+        "진짜",
+        "징그러워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "병아리 진짜 잘 죽어...",
+      "tokens": [
+        "병아리",
+        "진짜",
+        "잘",
+        "죽",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "진짜 상자에 담아가꼬 올 듯 ㅠ",
+      "tokens": [
+        "진짜",
+        "상자",
+        "에",
+        "담",
+        "아",
+        "가",
+        "꼬",
+        "올",
+        "ETM",
+        "듯ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "닭 되면 늠름하긴 한데",
+      "tokens": [
+        "닭",
+        "되",
+        "면",
+        "늠름",
+        "하",
+        "긴",
+        "JX",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "청소년 병아리 극혐...",
+      "tokens": [
+        "청소년병아리극혐",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 일주일도 못 가더라 병아리는 ㅠ",
+      "tokens": [
+        "응",
+        "일",
+        "주일",
+        "도",
+        "못",
+        "가",
+        "더라",
+        "병아리",
+        "는",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그니까... 닭도 아니고 병아리도 아니고",
+      "tokens": [
+        "그니까",
+        ".",
+        "닭",
+        "도",
+        "아니",
+        "고",
+        "병아리",
+        "도",
+        "아니",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "털이 먼가 엉성하니",
+      "tokens": [
+        "털",
+        "이",
+        "먼가",
+        "VCP",
+        "EC",
+        "엉성",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응 시르다 털 날리고 ㅠ",
+      "tokens": [
+        "응",
+        "시르",
+        "다",
+        "털",
+        "날리",
+        "고",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "내 친구 집 갔다가 한번 딱 봤는데 잊혀지질 않아",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "집",
+        "갔",
+        "EP",
+        "다가",
+        "한",
+        "번",
+        "딱",
+        "봤",
+        "EP",
+        "는데",
+        "잊혀",
+        "EC",
+        "지",
+        "질",
+        "JX",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

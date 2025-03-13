@@ -1,0 +1,502 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 루미큐브 할 줄 알아?",
+      "tokens": [
+        "언니",
+        "루미큐브",
+        "할",
+        "ETM",
+        "줄",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 잘해",
+      "tokens": [
+        "나잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그거 너 해?",
+      "tokens": [
+        "그거",
+        "너",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 오~ 나랑 앱으로 한판 붙어봐야겠는데?",
+      "tokens": [
+        "키",
+        "키오",
+        "~",
+        "나",
+        "랑",
+        "앱",
+        "으로",
+        "한판",
+        "붙",
+        "어",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어 하자",
+      "tokens": [
+        "어",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내가 이겨줌 키키",
+      "tokens": [
+        "내",
+        "가",
+        "이겨",
+        "EC",
+        "줌",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 무조건 15초만 하는 거 알아?",
+      "tokens": [
+        "나",
+        "는",
+        "무조건",
+        "15",
+        "초",
+        "만",
+        "하",
+        "는",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그건 또 뭐람...",
+      "tokens": [
+        "그건",
+        "JX",
+        "또",
+        "뭐",
+        "람",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "왜 나 모르지",
+      "tokens": [
+        "왜",
+        "나",
+        "모르",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "15초 안에 둬야 해~",
+      "tokens": [
+        "15",
+        "초안",
+        "에",
+        "둬야",
+        "EC",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "안 그러면 아웃~",
+      "tokens": [
+        "안",
+        "그러",
+        "면",
+        "아웃",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 그건 어려울 것 같아",
+      "tokens": [
+        "아",
+        "그건",
+        "JX",
+        "어려울",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "완전 스피드 하게 하는 게 최고지!",
+      "tokens": [
+        "완전",
+        "스피드",
+        "하",
+        "게",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "최고",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 그거 시간 가는 지 모르지",
+      "tokens": [
+        "근데",
+        "그거",
+        "시간",
+        "가",
+        "는지",
+        "모르",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 와 나 그거 돈 버는 거잖아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "와",
+        "나",
+        "그거",
+        "돈",
+        "버",
+        "는",
+        "거",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 얼마 벌었게?",
+      "tokens": [
+        "나",
+        "얼마",
+        "벌",
+        "었",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "얼마 벌었는데",
+      "tokens": [
+        "얼마",
+        "벌",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "또 그것만 했지",
+      "tokens": [
+        "또",
+        "그것",
+        "만",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 지금 500만 원 모았어~",
+      "tokens": [
+        "나",
+        "지금",
+        "500",
+        "만",
+        "원",
+        "모았",
+        "EP",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "와 지금도 해?",
+      "tokens": [
+        "와",
+        "지금",
+        "도",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나 안 해 요새 ㅜㅜ",
+      "tokens": [
+        "나안해요새ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 나도 요새는 안 하는데 진짜 심심하면 그거 하러 가~",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "요새",
+        "는",
+        "안",
+        "하",
+        "는데",
+        "진짜",
+        "심심",
+        "하",
+        "면",
+        "그거",
+        "하",
+        "러",
+        "가",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "안 하면 안 하게 돼 그치 키키",
+      "tokens": [
+        "안",
+        "하",
+        "면",
+        "안",
+        "하",
+        "게",
+        "돼",
+        "EF",
+        "그치",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "근데 진짜 할 거 없으면 그거 해!",
+      "tokens": [
+        "근데",
+        "진짜",
+        "할",
+        "ETM",
+        "거",
+        "없",
+        "으면",
+        "그거",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "한번 하면 빠지지~",
+      "tokens": [
+        "한",
+        "번",
+        "하",
+        "면",
+        "빠지",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

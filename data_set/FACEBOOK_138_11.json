@@ -1,0 +1,358 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "일본이 게임을 잘 만드나?",
+      "tokens": [
+        "일본",
+        "이",
+        "게임",
+        "을",
+        "잘",
+        "만드",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 에법 잘 만들지 하하",
+      "tokens": [
+        "응에",
+        "법",
+        "잘",
+        "만들",
+        "ETM",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "일본은 애니 잘 만들지 않아?",
+      "tokens": [
+        "일본",
+        "은",
+        "애",
+        "니",
+        "EC",
+        "잘",
+        "만들",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "플스는 일본 꺼제?",
+      "tokens": [
+        "플스는일본꺼제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "미국이 더 잘 만들지 않니?",
+      "tokens": [
+        "미국",
+        "이",
+        "더",
+        "잘",
+        "만들",
+        "지",
+        "않",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우리나라도 게임 잘 만드는 듯해",
+      "tokens": [
+        "우리",
+        "나라",
+        "도",
+        "게임",
+        "잘",
+        "만드",
+        "는",
+        "듯",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그 씨디도 다 일본 꺼가?",
+      "tokens": [
+        "그",
+        "씨",
+        "디",
+        "도",
+        "다",
+        "일본",
+        "꺼",
+        "VCP",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "플스는 소니 거임 일본 하하",
+      "tokens": [
+        "플",
+        "스",
+        "는",
+        "소니",
+        "거",
+        "임",
+        "ETN",
+        "일본",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "피파 우리나라 꺼 아니야?",
+      "tokens": [
+        "피파",
+        "우리나라",
+        "꺼",
+        "EC",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그 안에 게임도 걔네가 만든 거임?",
+      "tokens": [
+        "그",
+        "안",
+        "에",
+        "게임",
+        "도",
+        "걔",
+        "네",
+        "가",
+        "만든",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엑스박스는 미국 꺼고 하하",
+      "tokens": [
+        "엑스박스",
+        "는",
+        "미국",
+        "꺼",
+        "VCP",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 플스가 일본 꺼구나",
+      "tokens": [
+        "아플",
+        "ETM",
+        "스가",
+        "일본",
+        "꺼",
+        "VCP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "피파가 우리나라 꺼야?",
+      "tokens": [
+        "피파",
+        "가",
+        "우리",
+        "나라",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "겜은 다른 나라 꺼야",
+      "tokens": [
+        "겜",
+        "은",
+        "다른",
+        "나라",
+        "꺼야",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "처음 알았네",
+      "tokens": [
+        "처음",
+        "알",
+        "았",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "피파 우리나라 일 껄?",
+      "tokens": [
+        "피파우리나라일껄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어느 나라에서 만든 거야?",
+      "tokens": [
+        "어느",
+        "나라",
+        "에서",
+        "만든",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "피파도 미국 꺼임 하하",
+      "tokens": [
+        "피파",
+        "도",
+        "미국",
+        "꺼",
+        "EC",
+        "임하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "피파 미국 꺼야? 소름",
+      "tokens": [
+        "피파",
+        "미국",
+        "꺼",
+        "VCP",
+        "야",
+        "소름"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

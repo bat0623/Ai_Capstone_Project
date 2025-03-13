@@ -1,0 +1,403 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "벌써 어둑어둑 하네",
+      "tokens": [
+        "벌써",
+        "어둑어둑",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 매일을 여행처럼 산다!",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "을",
+        "여행",
+        "처럼",
+        "산다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "이런 날씨면 더욱 더",
+      "tokens": [
+        "이런",
+        "날씨",
+        "면",
+        "EC",
+        "더욱더"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그니까 이러다가 갑자기 눈 오겠지",
+      "tokens": [
+        "그니까",
+        "이러",
+        "다가",
+        "갑자기",
+        "눈",
+        "오",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "겨울은 겨울이네",
+      "tokens": [
+        "겨울",
+        "은",
+        "겨울",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "해가 진짜 짧다",
+      "tokens": [
+        "해",
+        "가",
+        "진짜",
+        "짧",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요샌 5시면 어둑해져",
+      "tokens": [
+        "요샌",
+        "JX",
+        "5",
+        "시",
+        "면",
+        "EC",
+        "어둑",
+        "해져",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "눈 오면 눈사람 만들러 바로 나가야지",
+      "tokens": [
+        "눈",
+        "오",
+        "면",
+        "눈",
+        "사람",
+        "만",
+        "들러",
+        "EC",
+        "바로",
+        "나가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "요즘 아침에 몇 시에 해 떠?",
+      "tokens": [
+        "요즘",
+        "아침",
+        "에",
+        "몇",
+        "시",
+        "에",
+        "해",
+        "EC",
+        "떠",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "한겨울은 4시도 어두워지잖아",
+      "tokens": [
+        "한",
+        "겨울",
+        "은",
+        "4",
+        "시",
+        "도",
+        "어두워",
+        "EC",
+        "지",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나랑 눈사람 만들래?",
+      "tokens": [
+        "나",
+        "랑",
+        "눈",
+        "사람",
+        "만들",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "눈 오면 눈사람 바로지",
+      "tokens": [
+        "눈",
+        "오",
+        "면",
+        "눈",
+        "사람",
+        "바로",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "한 6시 30분 정도에 뜨던데",
+      "tokens": [
+        "한",
+        "6",
+        "시",
+        "30",
+        "분",
+        "정도",
+        "에",
+        "뜨",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "7시쯤 뜨지 않나",
+      "tokens": [
+        "7",
+        "시",
+        "쯤",
+        "뜨",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "두유 워너 빌더 스노맨~",
+      "tokens": [
+        "두유워너빌더스노맨",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "눈싸움 하자 우리 하하",
+      "tokens": [
+        "눈싸움",
+        "하",
+        "자",
+        "우리",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "재밌겠다",
+      "tokens": [
+        "재밌",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아하 아직 밤이 더 길어져야겠구만",
+      "tokens": [
+        "아하",
+        "아직",
+        "밤",
+        "이",
+        "더",
+        "길",
+        "어",
+        "져야",
+        "EC",
+        "VX",
+        "겠",
+        "구만"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "7시쯤?",
+      "tokens": [
+        "7",
+        "시",
+        "쯤"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "짱 늦게 뜨네",
+      "tokens": [
+        "짱",
+        "늦",
+        "게",
+        "뜨",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "일출 일몰 시각은 알고 있어야지",
+      "tokens": [
+        "일출",
+        "일몰",
+        "시각",
+        "은",
+        "알",
+        "고",
+        "있",
+        "어야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나 눈 안에 돌 넣어서 눈싸움할 건데",
+      "tokens": [
+        "나눈",
+        "ETM",
+        "안",
+        "에",
+        "돌",
+        "넣",
+        "어서",
+        "눈싸움",
+        "할",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

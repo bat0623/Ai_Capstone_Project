@@ -1,0 +1,351 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "황소랑 여행 가면 지칠 듯",
+      "tokens": [
+        "황소",
+        "랑",
+        "여행",
+        "가",
+        "면",
+        "지칠",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 엄청나게 계획적이야",
+      "tokens": [
+        "나",
+        "는",
+        "엄청나",
+        "게",
+        "계획",
+        "적",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 나는 완전 무계획파",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "완전",
+        "무계획",
+        "파"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "넘 수다쟁이라서",
+      "tokens": [
+        "넘",
+        "수다",
+        "쟁이",
+        "라서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그 계획대로 안 하면 큰일 남 키키",
+      "tokens": [
+        "그",
+        "계획",
+        "대로",
+        "안",
+        "하",
+        "면",
+        "큰",
+        "ETM",
+        "일남",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "계획파와 같이 가면 조음",
+      "tokens": [
+        "계획",
+        "파와",
+        "같이",
+        "가",
+        "면",
+        "조음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**는 진짜 말이 많아",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "진짜",
+        "말",
+        "이",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "하루 일정 장난 아니게 짬 키키",
+      "tokens": [
+        "하루",
+        "일정",
+        "장난",
+        "아니",
+        "게",
+        "짬",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 가만히 있어도 되자나 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "가만히",
+        "있",
+        "어도",
+        "되",
+        "자",
+        "나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 무계획 여행자임",
+      "tokens": [
+        "나",
+        "도",
+        "무계획",
+        "여행자",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "귀 아플 정도로 떠들고",
+      "tokens": [
+        "귀",
+        "아플",
+        "ETM",
+        "정도",
+        "로",
+        "떠들",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "무계획이 편하긴 함",
+      "tokens": [
+        "무계획",
+        "이",
+        "편하",
+        "긴",
+        "JX",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 요새는 누구랑 떠드노",
+      "tokens": [
+        "키",
+        "키",
+        "요새",
+        "는",
+        "누구",
+        "랑",
+        "떠드",
+        "노"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "가는 내내 게임을 해야 해 키키",
+      "tokens": [
+        "가",
+        "는",
+        "내내",
+        "게임",
+        "을",
+        "해야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 의견도 안 내세우는 편임 하하",
+      "tokens": [
+        "나",
+        "의",
+        "견도",
+        "안",
+        "내세우",
+        "는",
+        "편",
+        "임하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어제도 여행 가서 떠들었나",
+      "tokens": [
+        "어",
+        "제도",
+        "여행",
+        "가",
+        "서",
+        "떠들",
+        "었",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "**은 나보다 더 수다쟁이거든 하하",
+      "tokens": [
+        "*",
+        "*",
+        "은",
+        "나",
+        "보다",
+        "더",
+        "수다",
+        "쟁이",
+        "거든",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "게임하는 건 너무 피곤한댕",
+      "tokens": [
+        "게임",
+        "하",
+        "는",
+        "건",
+        "JX",
+        "너무",
+        "피곤",
+        "한댕"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_132_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네는 사촌끼리 자주 만나?",
+      "tokens": [
+        "너",
+        "네",
+        "는",
+        "사촌",
+        "끼리",
+        "자주",
+        "만나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 가족은 사촌끼리도 엄청 친해",
+      "tokens": [
+        "우리",
+        "가족",
+        "은",
+        "사촌",
+        "끼리",
+        "도",
+        "엄청",
+        "친해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜?",
+      "tokens": [
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그러면 사촌들이랑 다 같이 여행 간 적 있어?",
+      "tokens": [
+        "그러면",
+        "사촌",
+        "들",
+        "이랑",
+        "다",
+        "같이",
+        "여행",
+        "간",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나랑 동생이랑 사촌 동생 둘 데리고 일본 간 적 있어",
+      "tokens": [
+        "나",
+        "랑",
+        "동생",
+        "이랑",
+        "사촌",
+        "동생",
+        "둘",
+        "데리",
+        "고",
+        "일본",
+        "간",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어른들 빼고 사촌끼리만?",
+      "tokens": [
+        "어른",
+        "들",
+        "빼",
+        "고",
+        "사촌",
+        "끼리",
+        "만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "웅 처음으로 우리끼리 가본 거라 더 재밌었어",
+      "tokens": [
+        "웅",
+        "처음",
+        "으로",
+        "우리",
+        "끼리",
+        "가",
+        "본",
+        "ETM",
+        "거",
+        "라",
+        "EC",
+        "더",
+        "재밌",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "언제 갔었어?",
+      "tokens": [
+        "언제",
+        "갔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "코로나 터지기 전?",
+      "tokens": [
+        "코로나",
+        "터지",
+        "기",
+        "전"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 20살 때 갔으니까 코로나 전에 갔어",
+      "tokens": [
+        "나",
+        "20",
+        "살",
+        "때",
+        "갔",
+        "EP",
+        "으니까",
+        "코",
+        "로",
+        "나전",
+        "에",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 그렇구나",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그러면 애들은 고등학생이었겠네?",
+      "tokens": [
+        "그러면",
+        "애",
+        "들",
+        "은",
+        "고등",
+        "학생",
+        "이",
+        "었",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 나 믿고 보내주셨어",
+      "tokens": [
+        "근데",
+        "나",
+        "믿",
+        "고",
+        "보내",
+        "EC",
+        "주",
+        "셨",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 대박이다",
+      "tokens": [
+        "와",
+        "대박",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "총 예산은 얼마 잡고 갔어?",
+      "tokens": [
+        "총예산",
+        "은",
+        "얼마",
+        "잡",
+        "고",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "인당 백만원씩 잡고 갔어",
+      "tokens": [
+        "인",
+        "당",
+        "백만",
+        "원",
+        "씩",
+        "잡",
+        "고",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "대박이다",
+      "tokens": [
+        "대박",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "너 일본어 잘 해?",
+      "tokens": [
+        "너",
+        "일본어",
+        "잘",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나는 못하는데 동생이 할 줄 알아",
+      "tokens": [
+        "나",
+        "는",
+        "못하",
+        "는데",
+        "동생",
+        "이",
+        "할",
+        "ETM",
+        "줄",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "진짜?",
+      "tokens": [
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "일본인이랑 회화도 가능해?",
+      "tokens": [
+        "일본",
+        "인",
+        "이랑",
+        "회화",
+        "도",
+        "가능",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "웅 그래서 가이드는 동생이 해줬어",
+      "tokens": [
+        "웅",
+        "그래서",
+        "가이드",
+        "는",
+        "동생",
+        "이",
+        "해",
+        "EC",
+        "줬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

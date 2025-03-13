@@ -1,0 +1,398 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "중국 호주 무역 전쟁중이래",
+      "tokens": [
+        "중국",
+        "호주",
+        "무역",
+        "전쟁",
+        "중",
+        "이",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "중국은 어떻게 맨날 전쟁중일까",
+      "tokens": [
+        "중국",
+        "은",
+        "어떻게",
+        "맨날",
+        "전쟁",
+        "중",
+        "일까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "중국이 졌으면 좋겠어",
+      "tokens": [
+        "중국",
+        "이",
+        "졌으면",
+        "EP",
+        "EC",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "석유 가지고 서로 싸우고 있는중이래",
+      "tokens": [
+        "석유",
+        "가지",
+        "고",
+        "서로",
+        "싸우",
+        "고",
+        "있",
+        "는",
+        "중",
+        "이",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "싸우지 못해서 안달난것같애",
+      "tokens": [
+        "싸우",
+        "지",
+        "못해서",
+        "EC",
+        "안달",
+        "난",
+        "ETM",
+        "것",
+        "같",
+        "애"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "석유 우리집에도 났으며ㅑㄴ 좋겠다",
+      "tokens": [
+        "석유",
+        "우리",
+        "집",
+        "에",
+        "도",
+        "났으며",
+        "EP",
+        "EC",
+        "ㅑㄴ",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "호주가 중국한테 석유 안주고 있어 키키",
+      "tokens": [
+        "호주",
+        "가",
+        "중국",
+        "한테",
+        "석유",
+        "안",
+        "주",
+        "고",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "석유는 정말 중요한 자원이지",
+      "tokens": [
+        "석유",
+        "는",
+        "정말",
+        "중요",
+        "한",
+        "ETM",
+        "자원",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "중국한데는 아무것도 주면 안돼",
+      "tokens": [
+        "중국",
+        "한데",
+        "는",
+        "아무것",
+        "도",
+        "주",
+        "면",
+        "안",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "사실 너무 통쾌해 키키",
+      "tokens": [
+        "사실",
+        "너무",
+        "통쾌",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "호주가 좋은 일을 했구나",
+      "tokens": [
+        "호주",
+        "가",
+        "좋",
+        "은",
+        "일",
+        "을",
+        "했",
+        "EP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "호주가 착한 일을 하고 있구나",
+      "tokens": [
+        "호주",
+        "가",
+        "착한",
+        "ETM",
+        "일",
+        "을",
+        "하",
+        "고",
+        "있",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "중국은 누구와도 싸우고 있어 지금 키키",
+      "tokens": [
+        "중국",
+        "은",
+        "누구",
+        "와",
+        "도",
+        "싸우",
+        "고",
+        "있",
+        "어",
+        "지금",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래도 전쟁은 안났으면 좋겠어",
+      "tokens": [
+        "그래도",
+        "전쟁",
+        "은",
+        "안",
+        "났으면",
+        "EP",
+        "EC",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "중국은 맨날 지는싸움만 하더라",
+      "tokens": [
+        "중국",
+        "은",
+        "맨날",
+        "지",
+        "는",
+        "싸움",
+        "만",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "미국이랑도 한번 싸웠잖아 키키",
+      "tokens": [
+        "미국",
+        "이랑",
+        "도",
+        "한",
+        "번",
+        "싸웠",
+        "EP",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이러다가 다 죽을 수도 있을 것 같아",
+      "tokens": [
+        "이러",
+        "다가",
+        "다",
+        "죽",
+        "을",
+        "수",
+        "도",
+        "있",
+        "을",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 무서워",
+      "tokens": [
+        "나",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "싸움나더라도 우리나라만 피해안끼쳤으면",
+      "tokens": [
+        "싸움",
+        "나",
+        "더라도",
+        "우리",
+        "나라",
+        "만",
+        "피해",
+        "EC",
+        "안",
+        "끼쳤",
+        "EP",
+        "으면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

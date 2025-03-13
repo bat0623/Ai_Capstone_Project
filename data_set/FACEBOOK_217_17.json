@@ -1,0 +1,480 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "정신 병원 끌려 가고 그랬음... 그거 먹고",
+      "tokens": [
+        "정신",
+        "병원",
+        "끌려가",
+        "고",
+        "그랬",
+        "EP",
+        "음",
+        ".",
+        "그거",
+        "먹",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 그 다이어트 약?",
+      "tokens": [
+        "아",
+        "그",
+        "다이어트",
+        "약"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "가야지... 환각 보고 그러는 건데",
+      "tokens": [
+        "가",
+        "야지",
+        ".",
+        "환각",
+        "보",
+        "고",
+        "그러",
+        "는",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 그 약 타려고 병원에 새벽 2시부터 줄 서더라",
+      "tokens": [
+        "근데",
+        "그",
+        "약",
+        "타",
+        "려고",
+        "병원",
+        "에",
+        "새벽",
+        "2",
+        "시",
+        "부터",
+        "줄서",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그런 건 어떻게 단속하냐고 ㅠㅠ 참내",
+      "tokens": [
+        "그런",
+        "건",
+        "JX",
+        "어떻",
+        "게",
+        "단속",
+        "하",
+        "냐고",
+        "ㅠㅠ",
+        "참내"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 근데 그걸 그냥 막 주나?",
+      "tokens": [
+        "아니",
+        "근데",
+        "그걸",
+        "JKO",
+        "그냥",
+        "막",
+        "주",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "묻지도 따지지도 않고 처방해주는 곳이 있더라",
+      "tokens": [
+        "묻",
+        "지",
+        "도",
+        "따지",
+        "지",
+        "도",
+        "않",
+        "고",
+        "처방",
+        "해",
+        "EC",
+        "주",
+        "는",
+        "곳",
+        "이",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그러게 ㅠㅠ",
+      "tokens": [
+        "그러",
+        "게",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "미쳤네",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "거긴 정지 당해야 함",
+      "tokens": [
+        "거긴",
+        "JX",
+        "정지",
+        "당해야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "병원에서 처방을 왜케 쉽게 해주는데 진짜; 문제 많다",
+      "tokens": [
+        "병원",
+        "에서",
+        "처방",
+        "을",
+        "왜",
+        "케",
+        "EC",
+        "쉽",
+        "게",
+        "해",
+        "EC",
+        "주",
+        "는데",
+        "진짜",
+        ";",
+        "문제",
+        "많",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "병원 거의 다 해주긴 했음... 그알에서 갔을 때는",
+      "tokens": [
+        "병원",
+        "거의",
+        "다",
+        "해",
+        "EC",
+        "주",
+        "긴",
+        "JX",
+        "했",
+        "EP",
+        "음",
+        ".",
+        "그",
+        "알",
+        "에서",
+        "갔",
+        "EP",
+        "을",
+        "때",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "와… 진짜 뭔 일이냐 함 봐야겠다",
+      "tokens": [
+        "와",
+        "…",
+        "진짜",
+        "뭔",
+        "일",
+        "이",
+        "냐",
+        "함",
+        "EC",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "병원이 그래서 되겠나;",
+      "tokens": [
+        "병원",
+        "이",
+        "그래서",
+        "되",
+        "겠",
+        "나",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나중에 찾아봐얒;",
+      "tokens": [
+        "나중",
+        "에",
+        "찾",
+        "아",
+        "봐",
+        "EF",
+        "얒",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그게 조현병처럼 막 불 지르고 자살하고 그러더라니까",
+      "tokens": [
+        "그게",
+        "JKS",
+        "조현",
+        "병",
+        "처럼",
+        "막",
+        "불지르",
+        "고",
+        "자살",
+        "하",
+        "고",
+        "그러",
+        "더라니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "하,… 진짜 문제가 심각하네",
+      "tokens": [
+        "하",
+        ",",
+        "…",
+        "진짜",
+        "문제",
+        "가",
+        "심각",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "자살까지 하나...",
+      "tokens": [
+        "자살",
+        "까지",
+        "하나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜... 무섭네",
+      "tokens": [
+        "진짜",
+        ".",
+        "무섭",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 그걸 악용해서 청소년들한테 그 약을 파는 어른들;",
+      "tokens": [
+        "근데",
+        "그걸",
+        "JKO",
+        "악용",
+        "해서",
+        "EC",
+        "청소년",
+        "들",
+        "한테",
+        "그",
+        "약",
+        "을",
+        "파",
+        "는",
+        "어른",
+        "들",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜... 원래 담배 파는 데도 청소년이 타겟이래",
+      "tokens": [
+        "진짜",
+        ".",
+        "원래담배파는데도청소년이타겟이래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그니까 막 중고 거래 하는 사이트에도 팔고 그러더라니까",
+      "tokens": [
+        "그니까",
+        "막중",
+        "고",
+        "거래",
+        "하",
+        "는",
+        "사이트",
+        "에",
+        "도",
+        "팔",
+        "고",
+        "그러",
+        "더라니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "어른들이 왜 그러냐",
+      "tokens": [
+        "어른",
+        "들",
+        "이",
+        "왜",
+        "그러",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

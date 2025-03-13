@@ -1,0 +1,497 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여행 준비물로 꼭 챙겨 가는거 있어?",
+      "tokens": [
+        "여행",
+        "준비물",
+        "로",
+        "꼭",
+        "챙겨",
+        "EC",
+        "가",
+        "는",
+        "거",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 나는 고추장 필수로 챙겨가 키키",
+      "tokens": [
+        "웅",
+        "나",
+        "는",
+        "고추장",
+        "필수",
+        "로",
+        "챙겨",
+        "EC",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 무조건 보조배터리!! 필수야 나한텐",
+      "tokens": [
+        "나",
+        "는",
+        "무조건",
+        "보조",
+        "배터리",
+        "!",
+        "필수",
+        "야",
+        "EF",
+        "나",
+        "한텐",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 라면 키키 라면은 꼭 챙겨 해외여행 갈 때",
+      "tokens": [
+        "나",
+        "는",
+        "라면",
+        "키",
+        "ETN",
+        "키",
+        "라면은",
+        "꼭",
+        "챙겨",
+        "EC",
+        "해외여행",
+        "갈",
+        "ETM",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "보조 배터리도 진짜 필수이긴 하지 키키",
+      "tokens": [
+        "보조",
+        "배터리",
+        "도",
+        "진짜",
+        "필수",
+        "이",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "해외여행에 신라면은 또 국룰 아니겠어?!",
+      "tokens": [
+        "해외여행에신라면은또국룰아니겠어",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "이상하게 해외여행가면 그렇게 먹고 싶더라 ㅠㅠ",
+      "tokens": [
+        "이상",
+        "하",
+        "게",
+        "해외여행",
+        "가",
+        "면",
+        "그렇게",
+        "먹",
+        "고",
+        "싶",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "신라면 컵라면으로 꼭 챙겨가야 해",
+      "tokens": [
+        "신라면",
+        "컵라면",
+        "으로",
+        "꼭",
+        "챙겨",
+        "EC",
+        "가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그치~",
+      "tokens": [
+        "그치",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 그게 한 끼로 든든하잖아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그게",
+        "JKS",
+        "한",
+        "끼",
+        "로",
+        "든든",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나는 캐리어 무게 재는 것도 꼭 들고 가 키키",
+      "tokens": [
+        "나",
+        "는",
+        "캐리어",
+        "무게",
+        "재",
+        "는",
+        "것",
+        "도",
+        "꼭",
+        "들",
+        "고",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "입맛 없을 때 한 번씩 먹으면 개꿀맛",
+      "tokens": [
+        "입맛",
+        "없",
+        "을",
+        "때",
+        "한",
+        "번",
+        "씩",
+        "먹",
+        "으면",
+        "개꿀",
+        "맛"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그렇긴 해 키키",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 얼른 여행 또 가고 싶다",
+      "tokens": [
+        "아",
+        "얼른",
+        "여행",
+        "또",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "진짜 너무 여행 가고 싶어 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "너무",
+        "여행",
+        "가",
+        "고",
+        "싶",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "캐리어 무게 재는 건 뭐야?",
+      "tokens": [
+        "캐리어",
+        "무게",
+        "재",
+        "는",
+        "건",
+        "JX",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "비행기 탈 때 무게 넘칠까봐 재는 거 일걸 키키",
+      "tokens": [
+        "비행기",
+        "탈",
+        "때",
+        "무게",
+        "넘",
+        "칠까봐",
+        "EC",
+        "VX",
+        "EC",
+        "재",
+        "는",
+        "거",
+        "일",
+        "ETM",
+        "걸",
+        "JKO",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "수화물 무게 넘으면 초과비용 내니까 다이소에 그거 팔더라고 키키",
+      "tokens": [
+        "수화물",
+        "무게",
+        "넘",
+        "으면",
+        "초과",
+        "비용",
+        "내",
+        "니까",
+        "다이소",
+        "에",
+        "그거",
+        "팔",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 그렇구나 다이소에는 없는 게 없네",
+      "tokens": [
+        "아",
+        "그렇",
+        "구나",
+        "다이소",
+        "에",
+        "는",
+        "없",
+        "는",
+        "게",
+        "JKS",
+        "없",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그러니까~",
+      "tokens": [
+        "그러니까",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "다이소가 괜히 다이소가 아니잖아 여행용품도 은근 잘 나오더라",
+      "tokens": [
+        "다이소",
+        "가",
+        "괜히",
+        "다",
+        "이소",
+        "가",
+        "아니",
+        "잖아",
+        "여행",
+        "용품",
+        "도",
+        "은근",
+        "잘",
+        "나오",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_140_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

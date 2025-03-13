@@ -1,0 +1,463 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 이번에 상생지원금 신청했어?",
+      "tokens": [
+        "언니",
+        "이번",
+        "에",
+        "상생",
+        "지원금",
+        "신청",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 했어",
+      "tokens": [
+        "맞",
+        "아",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 그게 나올까?",
+      "tokens": [
+        "근데",
+        "그게",
+        "JKS",
+        "나올까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이제 11월에 나오니까, 얼마 나오는지는 정확하게 알고 있어?",
+      "tokens": [
+        "이제",
+        "11",
+        "월",
+        "에",
+        "나오",
+        "니까",
+        ",",
+        "얼마나",
+        "오",
+        "는지",
+        "는",
+        "정확",
+        "하",
+        "게",
+        "알",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어?",
+      "tokens": [
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거 어떻게 나오는 건데?",
+      "tokens": [
+        "그거",
+        "어떻게",
+        "나오",
+        "는",
+        "건데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "일단  10월 실적이 2분기 실적보다 많으면 나온대!",
+      "tokens": [
+        "일단",
+        "10",
+        "월",
+        "실적",
+        "이",
+        "2",
+        "분기",
+        "실적",
+        "보다",
+        "많",
+        "으면",
+        "나온대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그걸 어디서 보는 건데?",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "어디",
+        "서",
+        "보",
+        "는",
+        "건데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이번 달 기준으로 하니까 다음 달에 나오는 거 보이지 않나?",
+      "tokens": [
+        "이번",
+        "달",
+        "기준",
+        "으로",
+        "하",
+        "니까",
+        "다음",
+        "달",
+        "에",
+        "나오",
+        "는",
+        "거",
+        "보이",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 나도 잘 모르겠어 인터넷 쳐서 한 번 봐줄래?",
+      "tokens": [
+        "근데",
+        "나",
+        "도",
+        "잘",
+        "모르",
+        "겠",
+        "어",
+        "인터넷",
+        "쳐서",
+        "EC",
+        "한",
+        "번",
+        "봐",
+        "EC",
+        "줄래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 걍 많이 쓰면 알아서 나오는 거 아냐?",
+      "tokens": [
+        "키",
+        "키걍",
+        "많이",
+        "쓰",
+        "면",
+        "알",
+        "아서",
+        "나오",
+        "는",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 어 맞아, 근데 나는 이번에 정확하게 나올 거야!",
+      "tokens": [
+        "키",
+        "키",
+        "어",
+        "맞",
+        "아",
+        ",",
+        "근데",
+        "나",
+        "는",
+        "이번",
+        "에",
+        "정확",
+        "하",
+        "게",
+        "나올",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "안 쓰면 안 나오고?",
+      "tokens": [
+        "안",
+        "쓰",
+        "면",
+        "안",
+        "나오",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "너 왜?",
+      "tokens": [
+        "너",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 카드 이번에 250만 원 긁었거든!",
+      "tokens": [
+        "나",
+        "카드",
+        "이번",
+        "에",
+        "250",
+        "만",
+        "원",
+        "긁",
+        "었",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "뭐 샀는데?",
+      "tokens": [
+        "뭐",
+        "샀",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "또?",
+      "tokens": [
+        "또"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 산 게 아니고 예약했어 병원",
+      "tokens": [
+        "나",
+        "산",
+        "ETM",
+        "게",
+        "JKC",
+        "아니",
+        "고",
+        "예약",
+        "했",
+        "EP",
+        "어",
+        "병원"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "무슨 예약?",
+      "tokens": [
+        "무슨",
+        "예약"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "어디 아펑?",
+      "tokens": [
+        "어디",
+        "아",
+        "펑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아니 아픈 게 아니고 난 다시 태어날 거야!",
+      "tokens": [
+        "아니",
+        "아픈",
+        "ETM",
+        "게",
+        "JKC",
+        "아니",
+        "고",
+        "난",
+        "JX",
+        "다시",
+        "태어날",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "너 뭐 해",
+      "tokens": [
+        "너",
+        "뭐",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "아 너 코 해?",
+      "tokens": [
+        "아",
+        "너",
+        "코",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

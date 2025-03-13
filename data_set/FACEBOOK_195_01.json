@@ -1,0 +1,451 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 오늘 배달이당",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "배달",
+        "이당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어떤거 시켜 먹을 거야",
+      "tokens": [
+        "어떤",
+        "거",
+        "시켜",
+        "EC",
+        "먹",
+        "을",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오늘 뭐 배달시킬고얌?",
+      "tokens": [
+        "오늘",
+        "뭐",
+        "배달",
+        "시킬",
+        "ETM",
+        "고얌"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "알랴줘 궁금쓰",
+      "tokens": [
+        "알랴줘궁금쓰"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "저녁은 배달 ... !",
+      "tokens": [
+        "저녁",
+        "은",
+        "배달",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "목욜이니까",
+      "tokens": [
+        "목",
+        "욜",
+        "이",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 맨날 배달 아니가 키키",
+      "tokens": [
+        "키",
+        "키",
+        "맨날",
+        "배달",
+        "아",
+        "니",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "음 ... 나 개인적으로 족발 추천",
+      "tokens": [
+        "음",
+        ".",
+        "나",
+        "개인",
+        "적",
+        "으로",
+        "족발",
+        "추천"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "목욜엔 치킨아닐까?",
+      "tokens": [
+        "목",
+        "욜",
+        "엔",
+        "JX",
+        "치킨",
+        "아닐까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "여긴 배달이 안와서 ... ㅠ",
+      "tokens": [
+        "여긴",
+        "JX",
+        "배달",
+        "이",
+        "안",
+        "와서",
+        "EC",
+        ".",
+        ".",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "불족 땡긴다 ...",
+      "tokens": [
+        "불",
+        "족",
+        "땡",
+        "긴다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "시원한 맥주랑 ...",
+      "tokens": [
+        "시원",
+        "한",
+        "ETM",
+        "맥주",
+        "랑",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그러다가 시원한 소주묵고 ... 째리고 ...",
+      "tokens": [
+        "그러다가",
+        "시원",
+        "한",
+        "ETM",
+        "소주",
+        "묵",
+        "고",
+        ".",
+        ".",
+        "째리",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "족발은 쥐 나오고 나서 안먹어 ㅠ",
+      "tokens": [
+        "족발",
+        "은",
+        "쥐",
+        "나오",
+        "고",
+        "나",
+        "서",
+        "안",
+        "먹",
+        "어",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "치킨 어디거 먹을거야 ㅋ",
+      "tokens": [
+        "치킨",
+        "어디",
+        "거",
+        "먹",
+        "을",
+        "거",
+        "야",
+        "EF",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "으 족발에 쥐나왔다고?",
+      "tokens": [
+        "으",
+        "족발",
+        "에",
+        "쥐",
+        "나왔",
+        "VV",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "토나온다야",
+      "tokens": [
+        "토",
+        "나온",
+        "ETM",
+        "다야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "불족 좋아행?",
+      "tokens": [
+        "불",
+        "족",
+        "좋",
+        "ETM",
+        "아행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 맵찔이야",
+      "tokens": [
+        "난",
+        "JX",
+        "맵찔",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "처갓집 버렸나유 이제 ~",
+      "tokens": [
+        "처갓집",
+        "버렸",
+        "EP",
+        "나유",
+        "이제",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 맵찔인데 센척하는거 조아함",
+      "tokens": [
+        "나",
+        "도",
+        "맵",
+        "찔",
+        "ETM",
+        "인데",
+        "EC",
+        "센",
+        "ETM",
+        "척",
+        "하",
+        "는",
+        "거",
+        "조아",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "족발에 쥐나왔어 ㅠ 안먹",
+      "tokens": [
+        "족발",
+        "에",
+        "쥐",
+        "나왔",
+        "VV",
+        "EP",
+        "어ㅠ",
+        "안",
+        "먹"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그래 나 그거 봄 징글 ㅠ",
+      "tokens": [
+        "그래",
+        "나",
+        "그거",
+        "봄",
+        "징글",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "남들앞에서 잘먹다가 화장실가서 울고 그래",
+      "tokens": [
+        "남",
+        "들",
+        "앞",
+        "에서",
+        "잘",
+        "먹",
+        "다가",
+        "화장실",
+        "가",
+        "서",
+        "울",
+        "고",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

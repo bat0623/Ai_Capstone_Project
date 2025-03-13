@@ -1,0 +1,481 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 과태료 내 본 적 있어?",
+      "tokens": [
+        "언니",
+        "는",
+        "과태료",
+        "내본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 나 과태료 내 본 적 많지 키키",
+      "tokens": [
+        "응",
+        "나",
+        "과태료",
+        "내본",
+        "ETM",
+        "적",
+        "많",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 어쩌다가 냈어,",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "어쩌",
+        "다가",
+        "냈",
+        "EP",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 거기는 그래 지뢰가 많지",
+      "tokens": [
+        "근데",
+        "거기",
+        "는",
+        "그래",
+        "EC",
+        "지뢰",
+        "가",
+        "많",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 과속도 있었고 신호도 한 번 있었어 키키",
+      "tokens": [
+        "응",
+        "과속",
+        "도",
+        "있",
+        "었",
+        "고",
+        "신호",
+        "도",
+        "한",
+        "번",
+        "있",
+        "었",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 ㅜㅜ",
+      "tokens": [
+        "헐ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "신호 과태료 비싸지 않아?",
+      "tokens": [
+        "신호",
+        "과태료",
+        "비싸",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래서 낼 때 엄청 슬펐다?",
+      "tokens": [
+        "그래서",
+        "낼",
+        "JKO",
+        "때",
+        "엄청",
+        "슬펐",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헐 ㅜㅜ",
+      "tokens": [
+        "헐ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그거 내가 알기론 7만 원대였는데?",
+      "tokens": [
+        "그거",
+        "내",
+        "가",
+        "알",
+        "기",
+        "론",
+        "JX",
+        "7",
+        "만",
+        "원",
+        "대",
+        "였",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "웅 7만 원 냈는데 나는 억울해 ㅠㅠ",
+      "tokens": [
+        "웅",
+        "7",
+        "만원냈는데나는억울해ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 ㅜㅜ",
+      "tokens": [
+        "헐ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "왜",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "머선 일이었어",
+      "tokens": [
+        "머",
+        "선일",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그대 상황이?",
+      "tokens": [
+        "그대",
+        "상황",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그때 멈췄는데 오빠랑 말하다가 모르고 지나감 키키",
+      "tokens": [
+        "그때",
+        "멈췄",
+        "EP",
+        "는데",
+        "오빠",
+        "랑",
+        "말",
+        "하",
+        "다가",
+        "모르",
+        "고",
+        "지나감",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "헐 ㅜㅜ",
+      "tokens": [
+        "헐ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "왜 그랬어 ㅜㅜ",
+      "tokens": [
+        "왜",
+        "그랬",
+        "EP",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "운전할 때는 집중하라구으~",
+      "tokens": [
+        "운전",
+        "할",
+        "ETM",
+        "때",
+        "는",
+        "집중",
+        "하",
+        "라구",
+        "으",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "다 멈춰 놓고선 나는 아무 생각이 없었다~",
+      "tokens": [
+        "다",
+        "멈춰",
+        "EC",
+        "놓",
+        "고선",
+        "JX",
+        "나",
+        "는",
+        "아무",
+        "생각",
+        "이",
+        "없",
+        "었",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 근데 거기에 마침 카메라가 있었고?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "거기",
+        "에",
+        "마침",
+        "카메라",
+        "가",
+        "있",
+        "었",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "카메라를 보고 멈춘 건데 말하다가 그냥 갔어 키키",
+      "tokens": [
+        "카메라",
+        "를",
+        "보",
+        "고",
+        "멈춘",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC",
+        "말",
+        "하",
+        "다가",
+        "그냥",
+        "갔",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 그럴 거면 왜 멈췄어,?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그럴",
+        "ETM",
+        "거",
+        "면",
+        "EC",
+        "왜",
+        "멈췄",
+        "EP",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그냥 뇌가 멈춘 거지 뭐 키키",
+      "tokens": [
+        "그냥",
+        "뇌",
+        "가",
+        "멈춘",
+        "ETM",
+        "거",
+        "지",
+        "EF",
+        "뭐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

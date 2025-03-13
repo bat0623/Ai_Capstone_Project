@@ -1,0 +1,378 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 할머니 돌아 가시면 어떡하지",
+      "tokens": [
+        "나",
+        "할머니",
+        "돌아가",
+        "시",
+        "면",
+        "어떡",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "에이 그런걱정을 왜 벌써해 ㅜㅜ",
+      "tokens": [
+        "에이",
+        "그런",
+        "걱정",
+        "을",
+        "왜",
+        "벌써",
+        "해",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그런 생각하지 말오...",
+      "tokens": [
+        "그런",
+        "생각",
+        "하",
+        "지",
+        "말",
+        "오",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벌써 슬프잖어 ㅜㅜ",
+      "tokens": [
+        "벌써슬프잖어ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그런 악몽 진짜 많이  꿈",
+      "tokens": [
+        "그런",
+        "악몽",
+        "진짜",
+        "많이",
+        "꿈"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그런 상상하디 마 ㅜㅜ",
+      "tokens": [
+        "그런",
+        "상상",
+        "하",
+        "디",
+        "마",
+        "EF",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "잉 할머니 연세 때문에 무섭나 보다 니가",
+      "tokens": [
+        "잉",
+        "할머니",
+        "연세",
+        "때문",
+        "에",
+        "무섭",
+        "나",
+        "보다",
+        "니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "할머니 이제 연세가 많으시잖아",
+      "tokens": [
+        "할머니",
+        "이제",
+        "연세",
+        "가",
+        "많",
+        "으시",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "힝 나도 아직 할머니 할아부지 계신데 걱정임 ㅜㅜ",
+      "tokens": [
+        "힝",
+        "나",
+        "도",
+        "아직",
+        "할머니",
+        "할",
+        "ETM",
+        "아부지",
+        "계신데",
+        "EC",
+        "걱정",
+        "임",
+        "ETN",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그럴수록 더 자주 뵙고 연락드리고 해야 대는데",
+      "tokens": [
+        "그럴수록",
+        "EC",
+        "더",
+        "자주",
+        "뵙",
+        "고",
+        "연락",
+        "드리",
+        "고",
+        "해야",
+        "EC",
+        "대",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "진짜 개슬픔 상상만 해도",
+      "tokens": [
+        "진짜",
+        "개",
+        "슬픔",
+        "상상",
+        "만",
+        "해도",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 나는 상상하기도 싫어 ㅜㅜ",
+      "tokens": [
+        "진짜",
+        "나",
+        "는",
+        "상상",
+        "하",
+        "기",
+        "도",
+        "싫",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요즘 요양원 가 계시나?",
+      "tokens": [
+        "요즘",
+        "요양원",
+        "가",
+        "EC",
+        "계시",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 할머니가 엄마 대신이었어",
+      "tokens": [
+        "난",
+        "JX",
+        "할머니",
+        "가",
+        "엄마",
+        "대신",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 항상 건강했으면...",
+      "tokens": [
+        "진짜",
+        "항상",
+        "건강",
+        "했",
+        "EP",
+        "으면",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그런 할모니 이찌...",
+      "tokens": [
+        "그런할모니이찌",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 외할머니가 그럼",
+      "tokens": [
+        "나",
+        "도",
+        "외할머니",
+        "가",
+        "그럼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "지금 오열 중... 개슬퍼 잠시만",
+      "tokens": [
+        "지금",
+        "오열",
+        "중",
+        ".",
+        "개",
+        "슬퍼",
+        "EC",
+        "잠시",
+        "만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나는 멀리 계시는데 맘이 안 좋아 ㅜㅜ",
+      "tokens": [
+        "나",
+        "는",
+        "멀리",
+        "계시",
+        "는데",
+        "맘",
+        "이",
+        "안",
+        "좋",
+        "아",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "짜식... 울지 마 울지 마",
+      "tokens": [
+        "짜식",
+        ".",
+        ".",
+        "울지마",
+        "울지마"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "월세 넘 부담일듯",
+      "tokens": [
+        "월세",
+        "넘",
+        "부담",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "월세는 부담이야 너무",
+      "tokens": [
+        "월세",
+        "는",
+        "부담",
+        "이야",
+        "너무"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그렇긋지 월세 살면 ㅠㅠ",
+      "tokens": [
+        "그렇",
+        "긋",
+        "지",
+        "월세",
+        "살",
+        "면",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리는 월세 안 살아서 다행이다...",
+      "tokens": [
+        "우리",
+        "는",
+        "월세",
+        "안",
+        "살",
+        "아서",
+        "다행",
+        "이",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "전세가 좋지 하하",
+      "tokens": [
+        "전세",
+        "가",
+        "좋",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 최소 전세 살아야함 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "최소",
+        "전세",
+        "살",
+        "아야",
+        "함",
+        "ETN",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "서울에는 월세 장난 아니더라?",
+      "tokens": [
+        "서울",
+        "에",
+        "는",
+        "월세",
+        "장난",
+        "아니",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니까 그래도 월세 비싸지",
+      "tokens": [
+        "그니까",
+        "그래도",
+        "월세",
+        "비싸",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래 서울 월세 엄청 비쌈",
+      "tokens": [
+        "그래서",
+        "울",
+        "월세",
+        "엄청",
+        "비",
+        "쌈"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니까 월세를 막 70-80씩... 덜덜덜덜",
+      "tokens": [
+        "그니까",
+        "월세",
+        "를",
+        "막",
+        "70",
+        "-",
+        "80",
+        "씩",
+        ".",
+        "덜덜덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "월세를 선호하지 근데",
+      "tokens": [
+        "월세",
+        "를",
+        "선호",
+        "하",
+        "지",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "애들 사는 거 보니까 장난 아이데",
+      "tokens": [
+        "애",
+        "들",
+        "사",
+        "는",
+        "거",
+        "보",
+        "니까",
+        "장난아",
+        "이데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그것도 원룸이던데? 소름임.",
+      "tokens": [
+        "그것",
+        "도",
+        "원룸",
+        "이",
+        "던데",
+        "소름",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "건물주들은 선호함 하하",
+      "tokens": [
+        "건물",
+        "주",
+        "들",
+        "은",
+        "선호",
+        "함하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "서울 살면... 돈 못 모을듯",
+      "tokens": [
+        "서울",
+        "살",
+        "면",
+        ".",
+        ".",
+        "돈",
+        "못",
+        "모을",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 그 돈 못 내 ㅠ",
+      "tokens": [
+        "난그돈못내ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 못 낼듯 ㅠㅠ",
+      "tokens": [
+        "나도못낼듯ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "건물주만 좋은기다 월세 ㅠ",
+      "tokens": [
+        "건물",
+        "주",
+        "만",
+        "좋",
+        "은",
+        "기다",
+        "월세",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

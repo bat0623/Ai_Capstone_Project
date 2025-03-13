@@ -1,0 +1,408 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "* 우리도 취업 하자...!",
+      "tokens": [
+        "*",
+        "우리",
+        "도",
+        "취업",
+        "하",
+        "자",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "돈이 최고야...",
+      "tokens": [
+        "돈",
+        "이",
+        "최고",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 회사 부장님 집값 떨어져서 슬퍼짐",
+      "tokens": [
+        "우리",
+        "회사",
+        "부장",
+        "님",
+        "집값",
+        "떨어져서",
+        "EC",
+        "슬퍼",
+        "EP",
+        "짐",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "워킹맘이 되는 거야...!",
+      "tokens": [
+        "워킹",
+        "맘",
+        "이",
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 건강이 최고지만 돈도 최고야...",
+      "tokens": [
+        "아",
+        "건강",
+        "이",
+        "최고",
+        "지만",
+        "EC",
+        "돈",
+        "도",
+        "최고",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "워킹맘은 고되다",
+      "tokens": [
+        "워킹",
+        "맘",
+        "은",
+        "고되",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "파김치 ㅠ",
+      "tokens": [
+        "파김치ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 돈이 있어야 좀 즐기지...",
+      "tokens": [
+        "키",
+        "키",
+        "돈",
+        "이",
+        "있",
+        "어야",
+        "좀",
+        "즐기",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "워킹맘 ㅠㅠ 진짜 워킹맘들 대단해",
+      "tokens": [
+        "워킹",
+        "맘",
+        "ㅠㅠ",
+        "진짜",
+        "워킹",
+        "맘",
+        "들",
+        "대단",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "돈도 최고지 돈",
+      "tokens": [
+        "돈",
+        "도",
+        "최고",
+        "지",
+        "EC",
+        "돈"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "돈도 좀 있어야 해...",
+      "tokens": [
+        "돈",
+        "도",
+        "좀",
+        "있",
+        "어야",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "오매 파김치 벌써 확 느껴져...",
+      "tokens": [
+        "오매",
+        "파김치",
+        "벌써",
+        "확",
+        "느껴져",
+        "EC",
+        "VX",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "워킹맘들 나는 존경해",
+      "tokens": [
+        "워킹",
+        "맘",
+        "들",
+        "나",
+        "는",
+        "존경",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이제 아기 초딩 되면 고고하장...!",
+      "tokens": [
+        "이제",
+        "아기",
+        "초딩",
+        "되",
+        "면",
+        "고고",
+        "하장",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "돈 있어야 행복도 더 있는 듯",
+      "tokens": [
+        "돈",
+        "있",
+        "어야",
+        "행복",
+        "도",
+        "더",
+        "있",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "소파에 누워서 일어나질 못해",
+      "tokens": [
+        "소파",
+        "에",
+        "누워서",
+        "EC",
+        "일어나",
+        "질",
+        "JX",
+        "못해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "힘들겠지만 아기가 더 좋아할 수도 있어...",
+      "tokens": [
+        "힘들",
+        "겠",
+        "지만",
+        "아기",
+        "가",
+        "더",
+        "좋",
+        "아",
+        "할",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "초딩 되면 집에 더 일찍 온대...",
+      "tokens": [
+        "초딩",
+        "되",
+        "면",
+        "집",
+        "에",
+        "더",
+        "일찍",
+        "온대",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "무항산이면 무항심이라고 맹자가 그랬어",
+      "tokens": [
+        "무항산",
+        "이",
+        "면",
+        "무항심",
+        "이",
+        "라고",
+        "맹자",
+        "가",
+        "그랬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_209_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

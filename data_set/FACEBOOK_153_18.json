@@ -1,0 +1,368 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "마스크 대란 일 때 기억남?",
+      "tokens": [
+        "마스크",
+        "대란",
+        "일",
+        "ETM",
+        "때",
+        "기억",
+        "남"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "마스크 못 구해서 밖을 못나감 키키",
+      "tokens": [
+        "마스크",
+        "못",
+        "구해서",
+        "EC",
+        "밖",
+        "을",
+        "못나",
+        "감",
+        "VV",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅... 마스크 진짜 비쌌었지...",
+      "tokens": [
+        "웅",
+        ".",
+        "마스크",
+        "진짜",
+        "비쌌",
+        "EP",
+        "었",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그때 마스크 4000원이었어",
+      "tokens": [
+        "그때",
+        "마스크",
+        "4000",
+        "원",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너무 비싸다 진짜",
+      "tokens": [
+        "너무",
+        "비싸",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그니까 키키 요새 마스크 다시 300원",
+      "tokens": [
+        "그니까",
+        "키",
+        "키",
+        "ETN",
+        "요새",
+        "마스크",
+        "다시",
+        "300",
+        "원"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "2장 산다고 줄 서고 ㅠㅠ",
+      "tokens": [
+        "2",
+        "장산다고줄서고ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 요즘은 너무 풍족해서 탈임",
+      "tokens": [
+        "근데",
+        "요즘",
+        "은",
+        "너무",
+        "풍족",
+        "해서",
+        "EC",
+        "탈",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그게 뭐라고 싸움 나고 그랬었는데",
+      "tokens": [
+        "그게",
+        "JKS",
+        "뭐",
+        "라고",
+        "EC",
+        "싸움",
+        "나",
+        "고",
+        "그랬었",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "요새 300원임?...",
+      "tokens": [
+        "요새",
+        "300",
+        "원임",
+        "?",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "휴 속상해",
+      "tokens": [
+        "휴",
+        "속상해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어제 어머니가 택배로 마스크 200개 보내줌;",
+      "tokens": [
+        "어제",
+        "어머니",
+        "가",
+        "택배",
+        "로",
+        "마스크",
+        "200",
+        "개",
+        "보내",
+        "줌",
+        "VX",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요새는 또 요소수 대란이니께 ㅜㅜ",
+      "tokens": [
+        "요새",
+        "는",
+        "또",
+        "요",
+        "소수",
+        "대란",
+        "이",
+        "니께",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 그때 넘 많이 사서 처치 곤란임...",
+      "tokens": [
+        "나그때넘많이사서처치곤란임",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "언제 다 씀...",
+      "tokens": [
+        "언제",
+        "다",
+        "씀",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래도 내년까지는 계속 쓸텐데",
+      "tokens": [
+        "그래도",
+        "내년",
+        "까지",
+        "는",
+        "계속",
+        "쓸",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아직 박스로 그득해...",
+      "tokens": [
+        "아직",
+        "박스",
+        "로",
+        "그득",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "언제 다 씀...",
+      "tokens": [
+        "언제",
+        "다",
+        "씀",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "언젠가는 다 쓴다",
+      "tokens": [
+        "언젠가",
+        "는다",
+        "EC",
+        "쓴다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "마스크 쓰니까 비염 안 와서 조아",
+      "tokens": [
+        "마스크",
+        "쓰",
+        "니까",
+        "비염",
+        "안",
+        "와서",
+        "EC",
+        "조아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

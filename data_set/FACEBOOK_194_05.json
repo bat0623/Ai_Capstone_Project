@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군인도 퇴근이 있더라?",
+      "tokens": [
+        "군인",
+        "도",
+        "퇴근",
+        "이",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "퇴근이 있지",
+      "tokens": [
+        "퇴근",
+        "이",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "직업군인!",
+      "tokens": [
+        "직업",
+        "군인"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "택배 나 잘 싼다",
+      "tokens": [
+        "택배",
+        "나",
+        "잘",
+        "싼다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "군대에서 많이 해봄",
+      "tokens": [
+        "군대",
+        "에서",
+        "많이",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "걔들도 일과 마치면 퇴근이더만",
+      "tokens": [
+        "걔",
+        "들",
+        "도",
+        "일",
+        "과",
+        "마치",
+        "면",
+        "퇴근",
+        "이",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그니깐",
+      "tokens": [
+        "그니깐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "걔네는 출퇴라서",
+      "tokens": [
+        "걔",
+        "네",
+        "는",
+        "출",
+        "ETM",
+        "퇴",
+        "라서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "군대 솔직히 꿀임",
+      "tokens": [
+        "군대",
+        "솔직히",
+        "꿀",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "병사들 말야 키키",
+      "tokens": [
+        "병사",
+        "들",
+        "말",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "직업군인은 좀 재미있을 듯",
+      "tokens": [
+        "직업",
+        "군인",
+        "은",
+        "좀",
+        "재미있",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "걔네 회식도 일과로 칠걸",
+      "tokens": [
+        "걔",
+        "네",
+        "회식",
+        "도",
+        "일과",
+        "로",
+        "칠",
+        "ETM",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "직업군인은 존잼일 듯",
+      "tokens": [
+        "직업",
+        "군인",
+        "은",
+        "존",
+        "잼",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어 ?",
+      "tokens": [
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "병사들이 출퇴해 ?",
+      "tokens": [
+        "병사",
+        "들",
+        "이",
+        "출",
+        "ETM",
+        "퇴",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "병사들 키키 유치원생이랑 같음",
+      "tokens": [
+        "병사",
+        "들",
+        "키",
+        "키",
+        "유치원생",
+        "이랑",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그냥 뭐 별 할 일 있나 ... ?",
+      "tokens": [
+        "그냥",
+        "뭐",
+        "별",
+        "할",
+        "ETM",
+        "일",
+        "있",
+        "나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "군인들 요즘 뭐할까",
+      "tokens": [
+        "군인",
+        "들",
+        "요즘",
+        "뭐",
+        "할까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "직업군인이 솔직히 적성에 맞을 듯",
+      "tokens": [
+        "직업",
+        "군인",
+        "이",
+        "솔직히",
+        "적성",
+        "에",
+        "맞",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "군인은 출근하면 무슨일하지?",
+      "tokens": [
+        "군인",
+        "은",
+        "출근",
+        "하",
+        "면",
+        "무슨",
+        "일",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "훈련은 제대로 받을까 ?",
+      "tokens": [
+        "훈련",
+        "은",
+        "제대로",
+        "받",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "재입대나 하련다",
+      "tokens": [
+        "재입",
+        "대나",
+        "하",
+        "련다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "경찰로",
+      "tokens": [
+        "경찰",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

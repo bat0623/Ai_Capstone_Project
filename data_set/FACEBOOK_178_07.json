@@ -1,0 +1,538 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내 동생 결혼 할 때 내가 괜히 울컥하더라 키키",
+      "tokens": [
+        "내",
+        "JKG",
+        "동생",
+        "결혼",
+        "할",
+        "ETM",
+        "때",
+        "내",
+        "가",
+        "괜히",
+        "울컥",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "너 동생 이번에 결혼함?",
+      "tokens": [
+        "너",
+        "동생",
+        "이번",
+        "에",
+        "결혼",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "와 진짜 축하한다고 전해줘!",
+      "tokens": [
+        "와",
+        "진짜",
+        "축하",
+        "한다고",
+        "EC",
+        "전해",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 내 동생 작년에 결혼했는데 키키",
+      "tokens": [
+        "아내",
+        "동생",
+        "작년",
+        "에",
+        "결혼",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "헐 동생 작년에 결혼 했다고?",
+      "tokens": [
+        "헐",
+        "동생",
+        "작년",
+        "에",
+        "결혼",
+        "했",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "왜 우리 기억이 안 나냐",
+      "tokens": [
+        "왜",
+        "우리",
+        "기억",
+        "이",
+        "안",
+        "나",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "갑자기 동생 생각이 났어 ㅠㅠ",
+      "tokens": [
+        "갑자기",
+        "동생",
+        "생각",
+        "이",
+        "났",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너희 초대 안 해서 몰랐지 ㅠㅠ",
+      "tokens": [
+        "너",
+        "희초",
+        "대안",
+        "해서",
+        "EC",
+        "몰랐",
+        "EP",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 기억을 안 하는 게 아니고 못하는 거 아니야?",
+      "tokens": [
+        "키",
+        "키",
+        "기억",
+        "을",
+        "안",
+        "하",
+        "는",
+        "게",
+        "JKC",
+        "아니",
+        "고",
+        "못하",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아... 아니야",
+      "tokens": [
+        "아",
+        ".",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "초대 안했다잖아...",
+      "tokens": [
+        "초",
+        "대안",
+        "했다잖아",
+        "EP",
+        "EC",
+        "VX",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 응 ㅠㅠ 동생 결혼식이라 따로 초대는 안 했어",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "응",
+        "ㅠㅠ",
+        "동생",
+        "결혼식",
+        "이",
+        "라",
+        "따로",
+        "초대",
+        "는",
+        "안",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 아기는 있어?",
+      "tokens": [
+        "키",
+        "키",
+        "아기",
+        "는",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 귀여울 거 같은데",
+      "tokens": [
+        "진짜",
+        "귀여울",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "작년이면 아기 있을 거 같은데?",
+      "tokens": [
+        "작년",
+        "이",
+        "면",
+        "아기",
+        "있",
+        "을",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "동생 이번에 임신했어 키키",
+      "tokens": [
+        "동생",
+        "이번",
+        "에",
+        "임신",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "얼마 안됐어 키키",
+      "tokens": [
+        "얼마",
+        "안",
+        "됐",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "요즘은 아기 용품도 잘 나오더라",
+      "tokens": [
+        "요즘",
+        "은",
+        "아기",
+        "용품",
+        "도",
+        "잘",
+        "나오",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "우리가 하나 사줄게!",
+      "tokens": [
+        "우리",
+        "가",
+        "하나",
+        "사",
+        "EC",
+        "줄게",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "헐 ㅠㅠ 그럼 나야 너무 고맙지 키키",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "그럼",
+        "나",
+        "야",
+        "너무",
+        "고맙",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "말만 해",
+      "tokens": [
+        "말",
+        "만",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "금액 상관없이 다!",
+      "tokens": [
+        "금액",
+        "상관없이",
+        "다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "우리가 사 줄게",
+      "tokens": [
+        "우리",
+        "가",
+        "사",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "편하게 말해 하하",
+      "tokens": [
+        "편하",
+        "게",
+        "말",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

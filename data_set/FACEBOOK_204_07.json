@@ -1,0 +1,431 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그때 우리 가족들이 기대가 어마어마 했어",
+      "tokens": [
+        "그때",
+        "우리",
+        "가족",
+        "들",
+        "이",
+        "기대",
+        "가",
+        "어마어마",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "근데 진짜 아이큐 얼마야 ?",
+      "tokens": [
+        "근데",
+        "진짜",
+        "아이큐",
+        "얼마",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 키키",
+      "tokens": [
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "누나 어디 유학도 갔었다고...",
+      "tokens": [
+        "누나",
+        "어디",
+        "유학",
+        "도",
+        "갔었",
+        "EP",
+        "다고",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "하버드 보낸다고 난리였음...",
+      "tokens": [
+        "하버드",
+        "보낸다고",
+        "EC",
+        "난리",
+        "였",
+        "EP",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "부모님이 기특해 했겠다",
+      "tokens": [
+        "부모",
+        "님",
+        "이",
+        "기특",
+        "해했",
+        "EC",
+        "VX",
+        "EP",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "들었던 거 같은데 키키",
+      "tokens": [
+        "들",
+        "었",
+        "던",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아이큐 검사 초딩때 140?",
+      "tokens": [
+        "아이큐",
+        "검사",
+        "초딩",
+        "때",
+        "140"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내는 아이큐 두 자리 일 듯",
+      "tokens": [
+        "내",
+        "는",
+        "아이큐",
+        "두",
+        "자리",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "하버드 멋있어 키키",
+      "tokens": [
+        "하버드",
+        "멋있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "뭐가 문제였나여...",
+      "tokens": [
+        "뭐",
+        "가",
+        "문제",
+        "였",
+        "EP",
+        "나",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "중딩 때 했을 때는 집에 전화 왔음",
+      "tokens": [
+        "중",
+        "딩",
+        "때",
+        "했",
+        "EP",
+        "을",
+        "때",
+        "는",
+        "집",
+        "에",
+        "전화",
+        "왔음",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "쩐다 140 ㄷㄷ",
+      "tokens": [
+        "쩐",
+        "다",
+        "140",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "티비에 나오는 사람 아니가",
+      "tokens": [
+        "티비",
+        "에",
+        "나오",
+        "는",
+        "사람",
+        "아니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "와 진짜 개똑똑...",
+      "tokens": [
+        "와",
+        "진짜",
+        "개",
+        "똑똑",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "저는 아이큐도",
+      "tokens": [
+        "저",
+        "는",
+        "아이큐",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "선생님이 ... 애가 아이큐가 너무 높다고",
+      "tokens": [
+        "선생",
+        "님",
+        "이",
+        ".",
+        ".",
+        "애",
+        "가",
+        "아이큐",
+        "가",
+        "너무",
+        "높",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "멘사 이런 거 티비에서만 봄",
+      "tokens": [
+        "멘사",
+        "이런",
+        "거",
+        "티비",
+        "에서",
+        "만",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "천재가 한명 나왔네...",
+      "tokens": [
+        "천재",
+        "가",
+        "한",
+        "명",
+        "나왔",
+        "EP",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 공부는 열심히 안 한다고 전화 옴 키키",
+      "tokens": [
+        "근데",
+        "공부",
+        "는",
+        "열심히",
+        "안",
+        "한다고",
+        "EC",
+        "전화",
+        "옴",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "** 큰 사람이다 !",
+      "tokens": [
+        "*",
+        "*",
+        "큰",
+        "ETM",
+        "사람",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "진짜",
+      "tokens": [
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "저렇게 높은 사람 처음 봄...",
+      "tokens": [
+        "저렇게",
+        "높",
+        "은",
+        "사람",
+        "처음",
+        "봄",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

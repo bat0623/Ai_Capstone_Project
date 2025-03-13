@@ -1,0 +1,464 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "진이는 어떤 장난감 좋아해?",
+      "tokens": [
+        "진이",
+        "는",
+        "어떤",
+        "장난감",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "진이는 지만한 인형 좋아해",
+      "tokens": [
+        "진",
+        "이",
+        "는지",
+        "만한",
+        "ETM",
+        "인형",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 그렇구나",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "완전 귀엽겠다",
+      "tokens": [
+        "완전",
+        "귀엽",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "진이 견종이 어떻게 되지?",
+      "tokens": [
+        "진",
+        "ETM",
+        "이견",
+        "종이",
+        "어떻게",
+        "되",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "푸들 키키",
+      "tokens": [
+        "푸들",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뽀글 머리 귀여워",
+      "tokens": [
+        "뽀",
+        "글",
+        "머리",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "털 색은 무슨 색이야?",
+      "tokens": [
+        "털색",
+        "은",
+        "무슨",
+        "색",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "갈색이야",
+      "tokens": [
+        "갈색",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "갈색 인형 옆에 있음 헷갈려",
+      "tokens": [
+        "갈색",
+        "인형",
+        "옆",
+        "에",
+        "있",
+        "음",
+        "헷갈려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 완전 귀엽겠다!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "완전",
+        "귀엽",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "애기 지금 몇 살이야?",
+      "tokens": [
+        "애기",
+        "지금",
+        "몇",
+        "살",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "귀엽긴 하지",
+      "tokens": [
+        "귀엽",
+        "긴",
+        "JX",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "지금 이제 두살",
+      "tokens": [
+        "지금",
+        "이제",
+        "두",
+        "살"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 진짜 개린이 때 아니야 그때는!",
+      "tokens": [
+        "와",
+        "진짜",
+        "개린",
+        "이",
+        "때",
+        "아니",
+        "야",
+        "그때",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "요새 사고 장난 아냐 ㅜㅜ",
+      "tokens": [
+        "요새",
+        "사고",
+        "장난",
+        "아냐",
+        "EF",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어떤 사고 치는데?",
+      "tokens": [
+        "어떤",
+        "사고",
+        "치",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "매일 물어 뜯고 배변도 못 가리고 ㅜㅜ",
+      "tokens": [
+        "매일",
+        "물어뜯",
+        "고",
+        "배변",
+        "도",
+        "못",
+        "가리",
+        "고",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 헐! 대소변 어디에다가 하는데!?",
+      "tokens": [
+        "키",
+        "키",
+        "헐",
+        "ETM",
+        "!",
+        "대소변",
+        "어디",
+        "에다가",
+        "하",
+        "는데",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "매일 화장실 앞 매트에다 해...",
+      "tokens": [
+        "매일",
+        "화장실",
+        "앞",
+        "매트",
+        "에다",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "오우 ㅜㅜ 왜 하필 그런 곳에",
+      "tokens": [
+        "오우",
+        "ㅜㅜ",
+        "왜",
+        "하필",
+        "그런",
+        "곳",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "레몬을 뿌려 봐!",
+      "tokens": [
+        "레몬",
+        "을",
+        "뿌려",
+        "EC",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "레몬 뿌리면 괜찮대?",
+      "tokens": [
+        "레몬",
+        "뿌리",
+        "면",
+        "괜찮",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "해봐야지",
+      "tokens": [
+        "해",
+        "EC",
+        "봐야",
+        "EC",
+        "VV",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_115_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

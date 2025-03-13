@@ -1,0 +1,386 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아파트 좀 올랐다데 키키",
+      "tokens": [
+        "아파트",
+        "좀",
+        "올랐",
+        "EP",
+        "다데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오 잘됐다 진짜 키키",
+      "tokens": [
+        "오",
+        "잘",
+        "됐",
+        "EP",
+        "다",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 유럽 시골마을에서 살고 싶어",
+      "tokens": [
+        "난",
+        "JX",
+        "유럽",
+        "시골",
+        "마을",
+        "에서",
+        "살",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "희소식이야 **아",
+      "tokens": [
+        "희소식",
+        "이",
+        "야",
+        "*",
+        "*",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "축하 축하!",
+      "tokens": [
+        "축하",
+        "축하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "얼마나 올랐는데 키키",
+      "tokens": [
+        "얼마나",
+        "올랐",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "집값에서 초월해서 살자 우리는",
+      "tokens": [
+        "집값",
+        "에서",
+        "초월",
+        "해서",
+        "EC",
+        "살",
+        "자",
+        "우리",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**이도 이제 나랑 같은 아파트 살아 키키",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "도",
+        "이제",
+        "나",
+        "랑",
+        "같",
+        "은",
+        "아파트",
+        "살",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 희소식이다 키키",
+      "tokens": [
+        "진짜",
+        "희소식",
+        "이",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 자연인이다가 속 편한 거여",
+      "tokens": [
+        "나",
+        "는",
+        "자연인",
+        "이",
+        "다가",
+        "속편",
+        "한",
+        "ETM",
+        "거",
+        "여",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "3.5억 찍었다던데... 두둥...!",
+      "tokens": [
+        "3",
+        ".",
+        "5",
+        "억",
+        "찍",
+        "었",
+        "다던데",
+        ".",
+        "두둥",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "더 올라야 댐",
+      "tokens": [
+        "더",
+        "올라야",
+        "EC",
+        "댐",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아직 갈 수 있는 곳 없다 키키",
+      "tokens": [
+        "아직",
+        "갈",
+        "ETM",
+        "수",
+        "있",
+        "는",
+        "곳",
+        "없",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "헐 키키 그러면 둘이 자주 보겠네",
+      "tokens": [
+        "헐",
+        "키",
+        "키",
+        "ETN",
+        "그러면",
+        "둘",
+        "이",
+        "자주",
+        "보",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "자연인이 왜 속 편하냐고 키키",
+      "tokens": [
+        "자연인",
+        "이",
+        "왜",
+        "속편",
+        "하",
+        "냐고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오호 넘나 좋은 것 키키",
+      "tokens": [
+        "오호",
+        "넘",
+        "나",
+        "좋",
+        "은",
+        "것",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "둘이 아직도 친해?",
+      "tokens": [
+        "둘",
+        "이",
+        "아직",
+        "도",
+        "친해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "자연인 완전 불편할 듯",
+      "tokens": [
+        "자연",
+        "인",
+        "ETM",
+        "완전",
+        "불편",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜 자연인 키키",
+      "tokens": [
+        "진짜",
+        "자연",
+        "인",
+        "ETM",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "난 자연인이 좋아",
+      "tokens": [
+        "난",
+        "JX",
+        "자연인",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

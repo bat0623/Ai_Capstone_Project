@@ -1,0 +1,364 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠는 지금 야구 보는 중...",
+      "tokens": [
+        "오빠",
+        "는",
+        "지금",
+        "야구",
+        "보",
+        "는",
+        "중",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "야구 보면서 하는중 하하",
+      "tokens": [
+        "야구",
+        "보",
+        "면서",
+        "하",
+        "는",
+        "중하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 오 야구 못 보러가서 어쩜",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "야구",
+        "못",
+        "보",
+        "러",
+        "가",
+        "서",
+        "어쩜",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "야구 보면서 카톡 하는 거임...",
+      "tokens": [
+        "야구",
+        "보",
+        "면서",
+        "카톡",
+        "하",
+        "는",
+        "거",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "와카 1차전 재밌네 하하",
+      "tokens": [
+        "와카",
+        "1",
+        "차",
+        "전",
+        "재밌",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 핵 마니아였자나",
+      "tokens": [
+        "진짜",
+        "핵",
+        "마니아",
+        "였",
+        "EP",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그니까 야구 엄청 안갔다",
+      "tokens": [
+        "그니까",
+        "야구",
+        "엄청",
+        "안",
+        "갔",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "역시 가을야구는 잼나 하하",
+      "tokens": [
+        "역시",
+        "가을",
+        "야구",
+        "는",
+        "잼",
+        "ETN",
+        "나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 그래 엄청 그 뭐야 그때 갈려고",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "엄청",
+        "그",
+        "뭐",
+        "야",
+        "그때",
+        "갈려고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "한 1년은 안간듯? 아니냐...?",
+      "tokens": [
+        "한",
+        "1",
+        "년",
+        "은",
+        "안",
+        "간",
+        "ETM",
+        "듯",
+        "아니",
+        "냐",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "우리팀은 떨어짐 진작에 하하",
+      "tokens": [
+        "우리",
+        "팀",
+        "은",
+        "떨어짐",
+        "ETN",
+        "진작",
+        "에",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그 회원권 있고 그랬던 기억이",
+      "tokens": [
+        "그",
+        "회원",
+        "권",
+        "있",
+        "고",
+        "그랬",
+        "EP",
+        "던",
+        "기억",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니다 한 2년은 안간듯;",
+      "tokens": [
+        "아니",
+        "다",
+        "한",
+        "ETM",
+        "2",
+        "년",
+        "은",
+        "안",
+        "간",
+        "ETM",
+        "듯",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 좀 정 떨어짐 하하",
+      "tokens": [
+        "응좀정떨어짐하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "어디 앉아야 대냐면서 키키",
+      "tokens": [
+        "어디",
+        "앉",
+        "아야",
+        "대",
+        "냐면서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "코로나 터지고 안갔네...",
+      "tokens": [
+        "코로나",
+        "터지",
+        "고",
+        "안",
+        "갔",
+        "EP",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 다시 풀림 생각해봄",
+      "tokens": [
+        "그니까",
+        "다시",
+        "풀림",
+        "생각",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래 키키 그러고 안갔지 ㅜㅜ 야구를 안했지 ㅜㅜ",
+      "tokens": [
+        "그래",
+        "키",
+        "키",
+        "ETN",
+        "그러",
+        "고",
+        "안",
+        "갔",
+        "EP",
+        "지",
+        "ㅜㅜ",
+        "야구",
+        "를",
+        "안",
+        "했",
+        "EP",
+        "지",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

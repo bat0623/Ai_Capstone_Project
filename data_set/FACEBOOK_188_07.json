@@ -1,0 +1,384 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 동생 있었으면 좋겠어",
+      "tokens": [
+        "난",
+        "JX",
+        "동생",
+        "있",
+        "었",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "가족들의 사랑은 잊으면 안돼",
+      "tokens": [
+        "가족",
+        "들",
+        "의",
+        "사랑",
+        "은",
+        "잊",
+        "으면",
+        "안",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 형이 있었으면 좋겠어",
+      "tokens": [
+        "난형",
+        "이",
+        "있",
+        "었",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "형 있으니깐 매일 싸워 ㅠㅠ",
+      "tokens": [
+        "형",
+        "있",
+        "으니깐",
+        "매일",
+        "싸워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "동생 나도 갖고 싶어 누나 뿐이야",
+      "tokens": [
+        "동생",
+        "나",
+        "도",
+        "갖",
+        "고",
+        "싶",
+        "어",
+        "누나",
+        "뿐",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "가족의 사랑을 알 것 같아",
+      "tokens": [
+        "가족",
+        "의",
+        "사랑",
+        "을",
+        "알",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "동생 있으면 괴롭힐 수 있잖아",
+      "tokens": [
+        "동생",
+        "있",
+        "으면",
+        "괴롭힐",
+        "ETM",
+        "수",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "형이랑 싸우면 안돼 다치잖아",
+      "tokens": [
+        "형",
+        "이랑",
+        "싸우",
+        "면",
+        "안",
+        "돼",
+        "EC",
+        "다치",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "형제끼리 사이좋게 지내야 된다구 하하",
+      "tokens": [
+        "형제",
+        "끼리",
+        "사이",
+        "좋",
+        "게",
+        "지내",
+        "야",
+        "된다구",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아 형제끼리 싸우면 안되지 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "형제",
+        "끼리",
+        "싸우",
+        "면",
+        "안",
+        "되",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "동생 있으면 심부름만 시켜야지 키키",
+      "tokens": [
+        "동생",
+        "있",
+        "으면",
+        "심부름",
+        "만",
+        "시켜야",
+        "EC",
+        "VX",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내가 동생인데 심부름 시키지 마라",
+      "tokens": [
+        "내",
+        "가",
+        "동생",
+        "인데",
+        "EC",
+        "심부름",
+        "시키",
+        "지",
+        "마",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "항상 사이좋게 지내자 형제끼리는",
+      "tokens": [
+        "항상",
+        "사이",
+        "좋",
+        "게",
+        "지내",
+        "자",
+        "형제",
+        "끼리",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "동생은 심부름 당해야 해 키키 당연한 거지",
+      "tokens": [
+        "동생",
+        "은",
+        "심부름",
+        "당해야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN",
+        "당연",
+        "한",
+        "ETM",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "동생의 서러움을 너희들이 아느냐",
+      "tokens": [
+        "동생",
+        "의",
+        "서러움",
+        "을",
+        "너희",
+        "들",
+        "이",
+        "아",
+        "느냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "동생들은 너무 서럽긴 하지 키키",
+      "tokens": [
+        "동생",
+        "들",
+        "은",
+        "너무",
+        "서럽",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "부모님이 해주신 음식 너무 먹고 싶다",
+      "tokens": [
+        "부모",
+        "님",
+        "이",
+        "해",
+        "EC",
+        "주",
+        "신",
+        "ETM",
+        "음식",
+        "너무",
+        "먹",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "동생한테 시키지 마라 인간적으로",
+      "tokens": [
+        "동생",
+        "한테",
+        "시키",
+        "지",
+        "마",
+        "라",
+        "인간",
+        "적",
+        "으로"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

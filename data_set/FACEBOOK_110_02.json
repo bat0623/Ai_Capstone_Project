@@ -1,0 +1,374 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 나 어제 빨래했거든?",
+      "tokens": [
+        "언니",
+        "나",
+        "어제",
+        "빨래",
+        "했",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 빨래 왜? 뭔일",
+      "tokens": [
+        "웅",
+        "빨래",
+        "왜",
+        "뭔",
+        "일"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "빨래는 왜 해도 해도 끝이 없는 걸까!?",
+      "tokens": [
+        "빨래",
+        "는",
+        "왜",
+        "해도",
+        "EC",
+        "해도",
+        "EC",
+        "끝",
+        "이",
+        "없",
+        "는",
+        "걸까",
+        "VCP",
+        "EC",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아 나도 일주일에 빨래 세 번은 하는 듯",
+      "tokens": [
+        "맞",
+        "아",
+        "나",
+        "도",
+        "일",
+        "주일",
+        "에",
+        "빨래",
+        "세",
+        "번",
+        "은",
+        "하",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 진짜? 나는 일주일에 한 번밖에 안 하는데!",
+      "tokens": [
+        "아",
+        "진짜",
+        "나",
+        "는",
+        "일",
+        "주일",
+        "에",
+        "한",
+        "번",
+        "밖에",
+        "안",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 그래? 나는 나눠서 해서 근가",
+      "tokens": [
+        "아",
+        "그래",
+        "나",
+        "는",
+        "나눠서",
+        "EC",
+        "해서",
+        "EC",
+        "근가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 건조기 돌려야 해서 한꺼번에 돌려!",
+      "tokens": [
+        "나",
+        "는",
+        "건조기",
+        "돌려야",
+        "EC",
+        "해서",
+        "EC",
+        "한꺼번에",
+        "돌려",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "와 건조기도 있어? 좋다",
+      "tokens": [
+        "와",
+        "건조기",
+        "도",
+        "있",
+        "어",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "우리 집에는 없고 집 근처에 있음!",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "는",
+        "없",
+        "고",
+        "집",
+        "근처",
+        "에",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 빨래방 가서 해? 왜?",
+      "tokens": [
+        "아",
+        "빨래방",
+        "가",
+        "서",
+        "해",
+        "EF",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어 빨래는 집에서 하고 건조기는 거기 가서 돌려!",
+      "tokens": [
+        "어",
+        "빨래",
+        "는",
+        "집",
+        "에서",
+        "하",
+        "고",
+        "건조기",
+        "는",
+        "거기",
+        "가",
+        "서",
+        "EC",
+        "돌려",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 그냥 집에다 널면 되잖아",
+      "tokens": [
+        "키",
+        "키",
+        "그냥",
+        "집",
+        "에다",
+        "널",
+        "면",
+        "되",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 아니,",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리 집 환풍이 잘 안 돼서 하면 꿉꿉해져 ㅜ",
+      "tokens": [
+        "우리",
+        "집",
+        "환",
+        "풍",
+        "이",
+        "잘",
+        "안",
+        "돼서",
+        "EC",
+        "하",
+        "면",
+        "꿉꿉",
+        "해져",
+        "EC",
+        "VX",
+        "EC",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 왔다 갔다 하기 귀찮겠다",
+      "tokens": [
+        "와",
+        "왔다갔다",
+        "하",
+        "기",
+        "귀찮",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아니야 바로 앞에 있어서 괜찮아!",
+      "tokens": [
+        "아니야",
+        "바로",
+        "앞",
+        "에",
+        "있",
+        "어서",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "옷 따뜻하게 입고 나가라 추웡",
+      "tokens": [
+        "옷",
+        "따뜻",
+        "하",
+        "게",
+        "입",
+        "고",
+        "나가",
+        "라",
+        "추웡"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

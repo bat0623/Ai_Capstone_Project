@@ -1,0 +1,446 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "겨울에는 어디로 놀러 가야 잘 놀러 갔다고 소문이 날까?",
+      "tokens": [
+        "겨울",
+        "에",
+        "는",
+        "어디",
+        "로",
+        "놀",
+        "러",
+        "가",
+        "야",
+        "잘",
+        "놀러갔",
+        "EP",
+        "다고",
+        "소문",
+        "이",
+        "날까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "겨울은 온천 여행 필수지!",
+      "tokens": [
+        "겨울",
+        "은",
+        "온천",
+        "여행",
+        "필수",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 오 온천이면 덕산으로 가야 하는 건가?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "온천",
+        "이",
+        "면",
+        "덕산",
+        "으로",
+        "가",
+        "야",
+        "하",
+        "는",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "덕산?",
+      "tokens": [
+        "덕산"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그곳은 처음 들어본다",
+      "tokens": [
+        "그곳",
+        "은",
+        "처음",
+        "들",
+        "어",
+        "본다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "덕산에 리조트 있거든!",
+      "tokens": [
+        "덕산",
+        "에",
+        "리조트",
+        "있",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "온천으로 유명한 곳!",
+      "tokens": [
+        "온천",
+        "으로",
+        "유명",
+        "한",
+        "ETM",
+        "곳"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "와, 다음에 거기로 놀러 가야겠네",
+      "tokens": [
+        "와",
+        ",",
+        "다음",
+        "에",
+        "거기",
+        "로",
+        "놀",
+        "러",
+        "가",
+        "야",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 어 여기 괜찮아",
+      "tokens": [
+        "키",
+        "키",
+        "어",
+        "여기",
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "언니는 어디로 갔어?",
+      "tokens": [
+        "언니",
+        "는",
+        "어디",
+        "로",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "코로나 터지기 전에는 일본!",
+      "tokens": [
+        "코로나",
+        "터지",
+        "기",
+        "전",
+        "에",
+        "는",
+        "일본"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "하, 맞아",
+      "tokens": [
+        "하",
+        ",",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "일본 온천 진짜 짱이지!",
+      "tokens": [
+        "일본",
+        "온천",
+        "진짜",
+        "짱",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니면 대만으로 온천여행 갔지!",
+      "tokens": [
+        "아니면",
+        "대만",
+        "으로",
+        "온천",
+        "여행",
+        "갔",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "와 언니 완전 브루주아구나?",
+      "tokens": [
+        "와",
+        "언니",
+        "완전",
+        "브루",
+        "주아",
+        "구나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아니야 키키",
+      "tokens": [
+        "아니야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "일본이나 대만은 저렴해!",
+      "tokens": [
+        "일본",
+        "이나",
+        "대만",
+        "은",
+        "저렴",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그렇긴 한데 그래도 국내 여행보다는 비싸잖아!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그렇",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "그래도",
+        "EC",
+        "국내",
+        "여행",
+        "보다",
+        "는",
+        "비싸",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그건 맞아 ㅠㅠ",
+      "tokens": [
+        "그건맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "이번엔 국내로 알아봐야겠다",
+      "tokens": [
+        "이번",
+        "엔",
+        "JX",
+        "국내",
+        "로",
+        "알",
+        "아",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 어 여기 진짜 나쁘지 않아",
+      "tokens": [
+        "키",
+        "키",
+        "어",
+        "여기",
+        "진짜",
+        "나쁘",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "프라이빗한 공간도 있는 걸로 알고 있어!",
+      "tokens": [
+        "프라이빗",
+        "한",
+        "ETM",
+        "공간",
+        "도",
+        "있",
+        "는",
+        "걸로",
+        "JKB",
+        "알",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그럼 거기로 내가 알아볼게~",
+      "tokens": [
+        "그럼",
+        "거기",
+        "로",
+        "내",
+        "가",
+        "알아볼",
+        "ETM",
+        "게",
+        "JKS",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

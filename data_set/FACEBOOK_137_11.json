@@ -1,0 +1,370 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리집에 놀러 와",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "놀러와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "플스 살 꺼야",
+      "tokens": [
+        "플스살꺼야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오 진짜 살려고?",
+      "tokens": [
+        "오",
+        "진짜",
+        "살",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "플스 내 함도 안 해봄 응응",
+      "tokens": [
+        "플",
+        "스",
+        "내",
+        "함",
+        "ETN",
+        "도",
+        "안",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN",
+        "응",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "플스 알아 봤거든",
+      "tokens": [
+        "플스알아봤거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "대박스 나 그럼 준비해?",
+      "tokens": [
+        "대",
+        "박스",
+        "나",
+        "그럼",
+        "준비",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "플스 얼마 하네 요즘 키키",
+      "tokens": [
+        "플",
+        "스",
+        "얼마",
+        "하",
+        "네",
+        "요즘",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "당근에 팔더라구 그거 살 거야",
+      "tokens": [
+        "당근",
+        "에",
+        "팔",
+        "더라구",
+        "그거",
+        "살",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 몰랐네 사는 줄",
+      "tokens": [
+        "난",
+        "JX",
+        "몰랐",
+        "EP",
+        "네",
+        "사",
+        "는",
+        "줄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "행님 좋아하시나 보네요 하하 플스",
+      "tokens": [
+        "행",
+        "님",
+        "좋",
+        "아",
+        "하",
+        "시",
+        "나",
+        "보",
+        "네요",
+        "하하",
+        "플",
+        "스"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요즘 당근에서 70하던디",
+      "tokens": [
+        "요즘",
+        "당근",
+        "에서",
+        "70",
+        "하",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "에어랩이나 사 **야",
+      "tokens": [
+        "에",
+        "어",
+        "랩",
+        "이",
+        "나사",
+        "*",
+        "*",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "둘이서 하면 재밌긋다야 키키",
+      "tokens": [
+        "둘",
+        "이",
+        "서",
+        "하",
+        "면",
+        "재밌",
+        "긋",
+        "다",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "저기 사천 사람이던디",
+      "tokens": [
+        "저기",
+        "사",
+        "천",
+        "사람",
+        "이",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "플스 사지 말고 하하 에어랩",
+      "tokens": [
+        "플",
+        "스",
+        "사",
+        "지",
+        "말",
+        "고",
+        "하하",
+        "에",
+        "어",
+        "랩"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "에어랩은 또 뭔데?",
+      "tokens": [
+        "에",
+        "어",
+        "랩",
+        "은",
+        "또",
+        "뭔데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "언제 가지러 가냐",
+      "tokens": [
+        "언제",
+        "가",
+        "지러",
+        "EC",
+        "가",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "사천 사람?",
+      "tokens": [
+        "사",
+        "천",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "**가 산 거 아냐",
+      "tokens": [
+        "*",
+        "*",
+        "가",
+        "산",
+        "ETM",
+        "거",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "에어랩 처음 들어봄 ㅠㅠ",
+      "tokens": [
+        "에",
+        "어",
+        "랩",
+        "처음",
+        "들",
+        "어",
+        "봄",
+        "ETN",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

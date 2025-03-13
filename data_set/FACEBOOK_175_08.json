@@ -1,0 +1,402 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 언제 여친을 만들 수 있을까,",
+      "tokens": [
+        "난",
+        "JX",
+        "언제",
+        "여친",
+        "을",
+        "만들",
+        "ETM",
+        "수",
+        "있",
+        "을까",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "걱정마",
+      "tokens": [
+        "걱정",
+        "마"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "너도 할 수 있어",
+      "tokens": [
+        "너",
+        "도",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "내 여자친구는 정말 착해",
+      "tokens": [
+        "내",
+        "JKG",
+        "여자",
+        "친구",
+        "는",
+        "정말",
+        "착해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "저번 주에 여자친구랑 헤어졌어 ㅠㅠ",
+      "tokens": [
+        "저번",
+        "주",
+        "에",
+        "여자",
+        "친구",
+        "랑",
+        "헤어졌",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "착각하지만 연애는 필수가 아니야",
+      "tokens": [
+        "착각",
+        "하",
+        "지만",
+        "연애",
+        "는",
+        "필수",
+        "가",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "소개팅 한번 받아보는 게 어때?",
+      "tokens": [
+        "소개팅",
+        "한",
+        "번",
+        "받",
+        "아",
+        "보",
+        "는",
+        "게",
+        "JKS",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞어",
+      "tokens": [
+        "맞",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너가 매일 여자친구 칭찬하잖아",
+      "tokens": [
+        "너",
+        "가",
+        "매일",
+        "여자",
+        "친구",
+        "칭찬",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헤어질 여자친구가 있었어?",
+      "tokens": [
+        "헤어질",
+        "ETM",
+        "여자",
+        "친구",
+        "가",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "연애를 하는 것은 추억을 만드는 거야",
+      "tokens": [
+        "연애",
+        "를",
+        "하",
+        "는",
+        "것",
+        "은",
+        "추억",
+        "을",
+        "만드",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 얼른 여친 만들어 볼게!",
+      "tokens": [
+        "나",
+        "도",
+        "얼른",
+        "여친",
+        "만들",
+        "어",
+        "볼게",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "결혼은 최대한 늦게 하고 싶어",
+      "tokens": [
+        "결혼",
+        "은",
+        "최대한",
+        "늦",
+        "게",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "같이 아름다운 추억을 나누면서 나중에 회상하는 거야",
+      "tokens": [
+        "같이",
+        "아름다운",
+        "ETM",
+        "추억",
+        "을",
+        "나누",
+        "면서",
+        "나중",
+        "에",
+        "회상",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "조언 너무 고마워 다들 ㅠㅠ",
+      "tokens": [
+        "조언",
+        "너무",
+        "고마워",
+        "EC",
+        "다",
+        "들",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "결혼 적령기에 나타나는 사람과 결혼하고 싶어",
+      "tokens": [
+        "결혼",
+        "적",
+        "령기",
+        "에",
+        "나타나",
+        "는",
+        "사람",
+        "과",
+        "결혼",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 너는 지금 썸녀 없어?",
+      "tokens": [
+        "근데",
+        "너",
+        "는",
+        "지금",
+        "썸녀",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 결혼은 늦게 하고 싶더라구",
+      "tokens": [
+        "나",
+        "도",
+        "결혼",
+        "은",
+        "늦",
+        "게",
+        "하",
+        "고",
+        "싶",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "원한다면 여자 소개 한번 해줄게",
+      "tokens": [
+        "원한다면",
+        "EC",
+        "여자",
+        "소개",
+        "한",
+        "번",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나는 결혼 당장 하고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "결혼",
+        "당장",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_175_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

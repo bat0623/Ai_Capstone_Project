@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "평일에 회사 안 가니까 너무 좋다 키키",
+      "tokens": [
+        "평일",
+        "에",
+        "회사",
+        "안",
+        "가",
+        "니까",
+        "너무",
+        "좋",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "재택 아직도 하고 있는 거야?",
+      "tokens": [
+        "재택",
+        "아직",
+        "도",
+        "하",
+        "고",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘 거의 다 재택이지",
+      "tokens": [
+        "요즘",
+        "거의",
+        "다",
+        "재택",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "응 키키 그래서 오늘 업무 없어서 나가서 놀았어 키키",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "ETN",
+        "그래서",
+        "오늘",
+        "업무",
+        "없",
+        "어서",
+        "나가",
+        "서",
+        "놀",
+        "았",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 아무래도 코로나 아직 심해서?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아무래도",
+        "코로나",
+        "아직",
+        "심해서",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 출근 신청 재택으로 바꾸면 해주더라",
+      "tokens": [
+        "나",
+        "는",
+        "출근",
+        "신청",
+        "재택",
+        "으로",
+        "바꾸",
+        "면",
+        "해",
+        "EC",
+        "주",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "응 ㅠㅠ 와 너희 회사 완전 좋네?",
+      "tokens": [
+        "응",
+        "ㅠㅠ",
+        "와",
+        "너희",
+        "회사",
+        "완전",
+        "좋",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "요즘 자율 근무제로 많이 변했으니까",
+      "tokens": [
+        "요즘",
+        "자율",
+        "근무",
+        "제",
+        "로",
+        "많이",
+        "변했",
+        "EP",
+        "으니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 우리 회사는 그렇게 해줘 하하",
+      "tokens": [
+        "응",
+        "우리",
+        "회사",
+        "는",
+        "그렇",
+        "게",
+        "해줘",
+        "EC",
+        "VX",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진짜 도시 회사는 엄청 좋구나",
+      "tokens": [
+        "진짜",
+        "도시",
+        "회사",
+        "는",
+        "엄청",
+        "좋",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이제 거의 모든 회사가 그렇게 변하겠지 하하",
+      "tokens": [
+        "이제",
+        "거의",
+        "모든",
+        "회사",
+        "가",
+        "그렇게",
+        "변하",
+        "겠",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이제 복지 좋아져야지!",
+      "tokens": [
+        "이제",
+        "복지",
+        "좋",
+        "아",
+        "져야지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 그렇게 회사 바뀌면 좋겠다 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "그렇게",
+        "회사",
+        "바뀌",
+        "면",
+        "좋",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "소원이야",
+      "tokens": [
+        "소원",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "회사 복지 보고 많이 가잖아 하하",
+      "tokens": [
+        "회사",
+        "복지",
+        "보",
+        "고",
+        "많이",
+        "가",
+        "잖아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 회사들 복지가 좋아야 지원하지",
+      "tokens": [
+        "응",
+        "회사",
+        "들",
+        "복지",
+        "가",
+        "좋",
+        "아야",
+        "지원",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "우리 회사도 얼른 복지가 좋아져야 할텐데 ㅠㅠ",
+      "tokens": [
+        "우리",
+        "회사",
+        "도",
+        "얼른",
+        "복지",
+        "가",
+        "좋",
+        "아",
+        "져야",
+        "EC",
+        "할",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "복지 안 좋으면 딱 가기 싫어",
+      "tokens": [
+        "복지",
+        "안",
+        "좋",
+        "으면",
+        "딱",
+        "가",
+        "기",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "월급도 진짜 중요해",
+      "tokens": [
+        "월급",
+        "도",
+        "진짜",
+        "중요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

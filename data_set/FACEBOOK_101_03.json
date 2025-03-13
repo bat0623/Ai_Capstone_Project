@@ -1,0 +1,515 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 차 멀미 안 해?",
+      "tokens": [
+        "언니",
+        "는",
+        "차멀미",
+        "안",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 멀미는 없더라",
+      "tokens": [
+        "나",
+        "멀미",
+        "는",
+        "없",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "너 있어?",
+      "tokens": [
+        "너",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 진짜 장난 아니야",
+      "tokens": [
+        "나",
+        "진짜",
+        "장난",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우엑,",
+      "tokens": [
+        "우",
+        "엑",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거 약 먹어도 소용없다며",
+      "tokens": [
+        "그",
+        "거약",
+        "먹",
+        "어도",
+        "소용없",
+        "다며"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "힘들지",
+      "tokens": [
+        "힘들",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니야",
+      "tokens": [
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 5천 원 짜리 약 먹어!",
+      "tokens": [
+        "나",
+        "는",
+        "5",
+        "천",
+        "원",
+        "짜리",
+        "약",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거 먹으면 멀쩡함?",
+      "tokens": [
+        "그거",
+        "먹",
+        "으면",
+        "멀쩡",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "괜찮아?",
+      "tokens": [
+        "괜찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 어 근데 좀 졸리더라!",
+      "tokens": [
+        "키",
+        "키어",
+        "근데",
+        "좀",
+        "졸리",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "자는 게 낫지 토하는 거 보다",
+      "tokens": [
+        "자",
+        "는",
+        "게",
+        "JKS",
+        "낫",
+        "지",
+        "토하",
+        "는",
+        "거",
+        "보다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "창문쪽 아니면 나 버스 아예 못 타!",
+      "tokens": [
+        "창문",
+        "쪽",
+        "아니",
+        "면",
+        "나",
+        "버스",
+        "아예",
+        "못",
+        "타",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 그럼 본집 갈 때 뭐 타?",
+      "tokens": [
+        "와",
+        "그럼",
+        "본집",
+        "갈",
+        "ETM",
+        "때",
+        "뭐",
+        "타",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나 그 약 먹고 버스 타지!",
+      "tokens": [
+        "나",
+        "그",
+        "약",
+        "먹",
+        "고",
+        "버스",
+        "타",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 그 약이 없으면 죽어,",
+      "tokens": [
+        "근데",
+        "그",
+        "약",
+        "이",
+        "없",
+        "으면",
+        "죽",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 멀미도 스트레스 많이 받는다던데",
+      "tokens": [
+        "키",
+        "키",
+        "멀미",
+        "도",
+        "스트레스",
+        "많이",
+        "받",
+        "는다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나 그래서 우리집 기사야",
+      "tokens": [
+        "나",
+        "그래서",
+        "우리",
+        "집",
+        "기",
+        "사",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "운전하면 멀미 안 하잖아!",
+      "tokens": [
+        "운전",
+        "하",
+        "면",
+        "멀",
+        "ETM",
+        "미안",
+        "하",
+        "잖아",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 우와",
+      "tokens": [
+        "키",
+        "키",
+        "우와"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "운전하면 멀미 안 해?",
+      "tokens": [
+        "운전",
+        "하",
+        "면",
+        "멀미",
+        "안",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "허 그거 몰랐어!?",
+      "tokens": [
+        "허",
+        "그거",
+        "몰랐",
+        "EP",
+        "어",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "그래서 멀미하는 사람들이 운전하잖아!",
+      "tokens": [
+        "그래서",
+        "멀미",
+        "하",
+        "는",
+        "사람",
+        "들",
+        "이",
+        "운전",
+        "하",
+        "잖아",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "대박 키키",
+      "tokens": [
+        "대박",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "첨 들음",
+      "tokens": [
+        "첨",
+        "들",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "신기해",
+      "tokens": [
+        "신기",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "담에 너가 운전해",
+      "tokens": [
+        "담",
+        "에",
+        "너",
+        "가",
+        "운전",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

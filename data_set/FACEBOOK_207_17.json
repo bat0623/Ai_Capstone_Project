@@ -1,0 +1,396 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "눈 시리고 그러진 않음?",
+      "tokens": [
+        "눈",
+        "시리",
+        "고",
+        "그러",
+        "진",
+        "JX",
+        "않",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "홍삼 엑기스 하나만 사줘",
+      "tokens": [
+        "홍삼",
+        "엑기스",
+        "하나",
+        "만",
+        "사",
+        "줘",
+        "VV",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 엉 전혀",
+      "tokens": [
+        "키",
+        "키",
+        "엉",
+        "전혀"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 붙이는 게",
+      "tokens": [
+        "난",
+        "JX",
+        "붙이",
+        "는",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 요즘 안구가 건조하다",
+      "tokens": [
+        "나",
+        "요즘",
+        "안구",
+        "가",
+        "건조",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "눈에는 루테인이 좋음",
+      "tokens": [
+        "눈",
+        "에",
+        "는",
+        "루테인",
+        "이",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "꽃차 메리골드",
+      "tokens": [
+        "꽃차",
+        "메리",
+        "골드"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "더 힘들더라 ㅜㅜ",
+      "tokens": [
+        "더힘들더라ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 그래 건조증",
+      "tokens": [
+        "아",
+        "그래",
+        "건조증"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 붙이면 시리더라구",
+      "tokens": [
+        "난",
+        "JX",
+        "붙이",
+        "면",
+        "시리",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "인공 눈물 챙겨 다녀",
+      "tokens": [
+        "인공",
+        "눈물",
+        "챙겨",
+        "EC",
+        "다녀",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "많다",
+      "tokens": [
+        "많",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 붙이는 게 더 안 맞더라",
+      "tokens": [
+        "난",
+        "JX",
+        "붙이",
+        "는",
+        "게",
+        "JKS",
+        "더",
+        "안",
+        "맞",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "펌은 그런 건 없어?",
+      "tokens": [
+        "펌",
+        "은",
+        "그런",
+        "건",
+        "JX",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그거 비싼 게 좋음",
+      "tokens": [
+        "그거",
+        "비싼",
+        "ETM",
+        "게",
+        "JKS",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "웅 전혀 키키",
+      "tokens": [
+        "웅",
+        "전혀",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "일도 느낌 없음",
+      "tokens": [
+        "일",
+        "도",
+        "느낌",
+        "없",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "인공 눈물 사야 함...",
+      "tokens": [
+        "인공",
+        "눈물",
+        "사야",
+        "함",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "건조증에는 그 경동제약이 좋음",
+      "tokens": [
+        "건조증",
+        "에",
+        "는",
+        "그",
+        "경동",
+        "제약",
+        "이",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "추천 완전 삶의 질이 다르다 키키",
+      "tokens": [
+        "추천",
+        "완전",
+        "삶",
+        "의",
+        "질",
+        "이",
+        "다르",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오호 아주 끌리는구먼?",
+      "tokens": [
+        "오호",
+        "아주",
+        "끌리",
+        "는구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "응 영국산 원료를 쓴다",
+      "tokens": [
+        "응",
+        "영국",
+        "산",
+        "원료",
+        "를",
+        "쓴다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 거기에 마스카라 하면 끝남",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "거기",
+        "에",
+        "마스카라",
+        "하",
+        "면",
+        "끝남",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

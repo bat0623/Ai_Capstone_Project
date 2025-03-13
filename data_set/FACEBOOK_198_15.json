@@ -1,0 +1,469 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이야... 미국에 개 토 나오는 일 발생함",
+      "tokens": [
+        "이",
+        "야",
+        "EF",
+        ".",
+        ".",
+        "미국",
+        "에",
+        "개토",
+        "나오",
+        "는",
+        "일",
+        "발생",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "? 도대체 이건 또 머선 일이고",
+      "tokens": [
+        "도대체",
+        "이건",
+        "JX",
+        "또",
+        "머",
+        "선일",
+        "이",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "뭐...성범죄 이런 거야?",
+      "tokens": [
+        "뭐",
+        ".",
+        "성범죄",
+        "이런",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어떤 96세 할아버지가 신체 기증 했는데",
+      "tokens": [
+        "어떤",
+        "96",
+        "세",
+        "할아버지",
+        "가",
+        "신체",
+        "기증",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "신체기증?",
+      "tokens": [
+        "신체",
+        "기증"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "좋은 거 아니가",
+      "tokens": [
+        "좋",
+        "은",
+        "거",
+        "아니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "웅 ... 장기기증 말하는 거지?",
+      "tokens": [
+        "웅",
+        ".",
+        "장기",
+        "기증",
+        "말",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "미국 어느 호텔에서 인체 해부쇼를 했대",
+      "tokens": [
+        "미국",
+        "어느",
+        "호텔",
+        "에서",
+        "인체",
+        "해부",
+        "쇼",
+        "를",
+        "했",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "? 신체기증한 거로?",
+      "tokens": [
+        "?",
+        "신체",
+        "기증",
+        "한",
+        "ETM",
+        "거",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헐 ... 미쳤다",
+      "tokens": [
+        "헐",
+        ".",
+        "미쳤",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "망인에 대한 예의가 아니다 그거는",
+      "tokens": [
+        "망인",
+        "에",
+        "대한",
+        "ETM",
+        "예의",
+        "가",
+        "아니",
+        "다",
+        "그거",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "입장료 60만 원 !",
+      "tokens": [
+        "입장료",
+        "60",
+        "만",
+        "원"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 그 할아버지 시신이 사용...",
+      "tokens": [
+        "근데",
+        "그",
+        "할아버지",
+        "시신",
+        "이",
+        "사용",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니 ...",
+      "tokens": [
+        "아니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그걸 상업적으로 그렇게?",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "상업",
+        "적",
+        "으로",
+        "그렇게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "미친 놈들 아니야 ...",
+      "tokens": [
+        "미친",
+        "ETM",
+        "놈",
+        "들",
+        "아니",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래갖고 수익금은 또 누가 먹었는데",
+      "tokens": [
+        "그래",
+        "EC",
+        "갖",
+        "고",
+        "수익금",
+        "은",
+        "또",
+        "누가",
+        "JKS",
+        "먹",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "가족들도 몰랐대 그렇게 이용될 줄",
+      "tokens": [
+        "가족",
+        "들",
+        "도",
+        "몰랐",
+        "EP",
+        "대",
+        "그렇게",
+        "이용",
+        "될",
+        "ETM",
+        "줄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "미친 거 아니가 진짜",
+      "tokens": [
+        "미친",
+        "ETM",
+        "거",
+        "아니",
+        "가",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "소름돋는다...",
+      "tokens": [
+        "소름",
+        "돋",
+        "EP",
+        "는다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "사람 맞나...",
+      "tokens": [
+        "사람",
+        "맞",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "엉 아니 인체 해부 쇼가 뭐야 ... ?",
+      "tokens": [
+        "엉",
+        "아니",
+        "인체",
+        "해부",
+        "쇼",
+        "가",
+        "뭐",
+        "야",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "참나 ...",
+      "tokens": [
+        "참나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "유가족 분들의 마음은 ...",
+      "tokens": [
+        "유가족",
+        "분",
+        "들",
+        "의",
+        "마음",
+        "은",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "지네들도 똑같이 당해봐야 될 거 같은데...",
+      "tokens": [
+        "지",
+        "네",
+        "들",
+        "도",
+        "똑같이",
+        "당해",
+        "EC",
+        "봐야",
+        "EC",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

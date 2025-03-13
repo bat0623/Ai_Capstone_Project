@@ -1,0 +1,438 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "작은엄마는 어렸을 때 오락실 있었어?",
+      "tokens": [
+        "작",
+        "은",
+        "엄마",
+        "는",
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "오락실",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니~",
+      "tokens": [
+        "아니",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "없었지",
+      "tokens": [
+        "없",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "문방구에서 자주 놀았어",
+      "tokens": [
+        "문방구",
+        "에서",
+        "자주",
+        "놀",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "문방구에서 작은엄마도 뽑기 같은 거 했어?",
+      "tokens": [
+        "문방구",
+        "에서",
+        "작",
+        "은",
+        "엄마",
+        "도",
+        "뽑",
+        "기",
+        "같",
+        "은",
+        "거",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "응~ 우리는 경상도라 쪽자라고 불러!",
+      "tokens": [
+        "응",
+        "~",
+        "우리",
+        "는",
+        "경상도",
+        "라",
+        "EC",
+        "쪽자",
+        "라고",
+        "EC",
+        "불러",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "쪽자?",
+      "tokens": [
+        "쪽자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그때 한 번 뽑는데 얼마였어?",
+      "tokens": [
+        "그때",
+        "한",
+        "번",
+        "뽑",
+        "는데",
+        "얼마",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그때는 500원 이면 모든 게 해결이었지~",
+      "tokens": [
+        "그때",
+        "는",
+        "500",
+        "원",
+        "이",
+        "면",
+        "모든",
+        "게",
+        "JKS",
+        "해결",
+        "이",
+        "었",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 근데 작은엄마 때면 500은 큰 돈 아니야?",
+      "tokens": [
+        "키키근데작은엄마때면",
+        "500",
+        "은",
+        "큰",
+        "ETM",
+        "돈",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼~",
+      "tokens": [
+        "그럼",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "용돈인데 아껴 쓰지 못했어",
+      "tokens": [
+        "용돈",
+        "인데",
+        "EC",
+        "아껴",
+        "EC",
+        "쓰",
+        "지",
+        "못했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 와 작은엄마 완전 부르주아였네~",
+      "tokens": [
+        "키키와작은엄마완전부르주아였네",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아녀~",
+      "tokens": [
+        "아녀",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그냥 쪽자가 재밌었지",
+      "tokens": [
+        "그냥",
+        "쪽자",
+        "가",
+        "재밌",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 나는 뽑기 1등도 뽑아봤다!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "뽑",
+        "기",
+        "1",
+        "등",
+        "도",
+        "뽑",
+        "아",
+        "봤",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "뽑기는 잉어 그거 아니여?",
+      "tokens": [
+        "뽑",
+        "기",
+        "는",
+        "잉어",
+        "그거",
+        "아니",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 아니 우리는 상품뽑기도 뽑기라고 했어!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "우리",
+        "는",
+        "상품",
+        "뽑",
+        "기",
+        "도",
+        "뽑",
+        "기",
+        "라고",
+        "EC",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "요새는 또 다양하게 많이 나오구만",
+      "tokens": [
+        "요새",
+        "는",
+        "또",
+        "다양",
+        "하",
+        "게",
+        "많이",
+        "나오",
+        "구만"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 라떼는 이거 50원 100원 이었는데 지금은 기본 500원이래!",
+      "tokens": [
+        "키",
+        "키",
+        "라떼",
+        "는",
+        "이거",
+        "50",
+        "원",
+        "100",
+        "원",
+        "이",
+        "었",
+        "는데",
+        "지금",
+        "은",
+        "기본",
+        "500",
+        "원",
+        "이",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "물가가 올라서 다들 그래",
+      "tokens": [
+        "물가",
+        "가",
+        "올라서",
+        "다",
+        "들",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

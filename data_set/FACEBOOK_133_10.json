@@ -1,0 +1,375 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 오늘도 골프 감?",
+      "tokens": [
+        "*",
+        "*",
+        "오늘",
+        "도",
+        "골프",
+        "감"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오늘도 가야 함",
+      "tokens": [
+        "오늘",
+        "도",
+        "가",
+        "야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "흑흑 팔 아파",
+      "tokens": [
+        "흑흑",
+        "팔",
+        "아",
+        "파",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 언니 골프도 친다고?",
+      "tokens": [
+        "오",
+        "언니",
+        "골프",
+        "도",
+        "친다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "**는 요즘 골프에 빠졌어",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "요즘",
+        "골프",
+        "에",
+        "빠졌",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그래도 안 빠지고 가야 해",
+      "tokens": [
+        "그래도",
+        "안",
+        "빠지",
+        "고",
+        "가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "와 세상 바쁘다 진ㅉ ㅏ",
+      "tokens": [
+        "와",
+        "세상",
+        "바쁘",
+        "다",
+        "진",
+        "ETM",
+        "ㅉㅏ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "응 **네 가족이 다 빠졌대",
+      "tokens": [
+        "응",
+        "*",
+        "*",
+        "네",
+        "가족",
+        "이",
+        "다",
+        "빠졌",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래야 빨리 실력 늘지",
+      "tokens": [
+        "그래야",
+        "빨리",
+        "실력",
+        "늘",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "대단해 언니 키키 바쁘다",
+      "tokens": [
+        "대단",
+        "해",
+        "EC",
+        "언니",
+        "키",
+        "키",
+        "ETN",
+        "바쁘",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "** 왜케 바쁘냐 정말",
+      "tokens": [
+        "*",
+        "*",
+        "왜",
+        "케",
+        "EC",
+        "바쁘",
+        "냐",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "울 가족들 다 침 ... 키키",
+      "tokens": [
+        "울",
+        "가족",
+        "들",
+        "다",
+        "침",
+        ".",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "와 근데 열정 있게 사는 거 좋아",
+      "tokens": [
+        "와",
+        "근데",
+        "열정",
+        "있",
+        "게",
+        "사",
+        "는",
+        "거",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "** 아빠는 골프 치다가 디스크가 터졌대...",
+      "tokens": [
+        "*",
+        "*",
+        "아빠",
+        "는",
+        "골프",
+        "치",
+        "다가",
+        "디스크",
+        "가",
+        "터졌",
+        "EP",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "은근 재미있어",
+      "tokens": [
+        "은근",
+        "재미있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "같이 다니자!",
+      "tokens": [
+        "같이",
+        "다니",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 본받아야징 키키",
+      "tokens": [
+        "나",
+        "도",
+        "본받",
+        "아야",
+        "징",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "이 소식 넘 충격이었어",
+      "tokens": [
+        "이",
+        "소식",
+        "넘",
+        "충격",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "디스크 터져도 또 쳐 ...",
+      "tokens": [
+        "디스크",
+        "터져",
+        "EC",
+        "도",
+        "또",
+        "쳐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아 진짜? 헐 조심해야겠다",
+      "tokens": [
+        "아",
+        "진짜",
+        "헐",
+        "ETM",
+        "조심",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

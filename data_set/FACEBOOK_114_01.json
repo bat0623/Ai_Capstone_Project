@@ -1,0 +1,379 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "어제 케이크를 하루 종일 먹었어!",
+      "tokens": [
+        "어제",
+        "케이크",
+        "를",
+        "하루",
+        "종일",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "케이크? 나는 떡볶이 시켜 먹었는데",
+      "tokens": [
+        "케이크",
+        "나",
+        "는",
+        "떡볶이",
+        "시켜",
+        "EC",
+        "먹",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "헐 키키 나는 금요일에 떡볶이 먹음~",
+      "tokens": [
+        "헐",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "금요일",
+        "에",
+        "떡볶이",
+        "먹",
+        "음",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "헐 ㅠㅠ 엽떡 할인하는데 그거 먹었어?",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "엽",
+        "떡",
+        "할인",
+        "하",
+        "는데",
+        "그거",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 헐 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "헐",
+        "JKO",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "엽떡이 할인도 해?",
+      "tokens": [
+        "엽",
+        "떡",
+        "이",
+        "할인",
+        "도",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "분모자 새로 나와서 그거만 하더라 ㅜ",
+      "tokens": [
+        "분모",
+        "자새",
+        "로",
+        "나와서",
+        "EC",
+        "그거",
+        "만",
+        "하",
+        "더라",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 대박 키키",
+      "tokens": [
+        "헐",
+        "대박",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그거 매운 거야?",
+      "tokens": [
+        "그거",
+        "매운",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아니 그냥 로제, 크림, 기본 다 되던데?",
+      "tokens": [
+        "아니",
+        "그냥",
+        "로제",
+        ",",
+        "크림",
+        ",",
+        "기본",
+        "다",
+        "되",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 키키 기본 떡이랑 분모자랑 무슨 차이야?",
+      "tokens": [
+        "오키",
+        "키",
+        "기본",
+        "떡",
+        "이랑",
+        "분모",
+        "자랑",
+        "무슨",
+        "차이",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "분모자는 그냥 분모자만 들어가 있어 키키",
+      "tokens": [
+        "분모",
+        "자",
+        "는",
+        "그냥",
+        "분모",
+        "자",
+        "만",
+        "들어가",
+        "EC",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 그래서 그거 가격이 얼마야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래서",
+        "그거",
+        "가격",
+        "이",
+        "얼마",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "할인해서 13000원인가? 그래도 비싸 ㅜ",
+      "tokens": [
+        "할인",
+        "해서",
+        "EC",
+        "13000",
+        "원",
+        "인가",
+        "EF",
+        "그래도비싸ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "할 키키 원래 만 오천 원이었나?",
+      "tokens": [
+        "할",
+        "ETM",
+        "키",
+        "키",
+        "원래",
+        "만",
+        "오",
+        "천",
+        "원",
+        "이",
+        "었",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 근데 분모자에 흡수가 아예 안 돼있어 키키",
+      "tokens": [
+        "응",
+        "근데",
+        "분모",
+        "자",
+        "에",
+        "흡수",
+        "가",
+        "아예",
+        "안",
+        "돼",
+        "EC",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 분모자는 양념 흡수가 안 돼!",
+      "tokens": [
+        "맞",
+        "아",
+        "분모",
+        "자",
+        "는",
+        "양념",
+        "흡수",
+        "가",
+        "안",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 그냥 케이크 시켜 먹을걸 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "그냥",
+        "케이크",
+        "시켜",
+        "EC",
+        "먹",
+        "을",
+        "걸",
+        "JKO",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_114_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

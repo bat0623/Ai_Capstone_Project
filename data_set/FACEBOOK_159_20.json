@@ -1,0 +1,334 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "넷플 영화 콜 봐봐",
+      "tokens": [
+        "넷플영화콜봐봐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "콜? 전화 관련된 건가",
+      "tokens": [
+        "콜",
+        "?",
+        "전화",
+        "관련",
+        "된",
+        "ETM",
+        "건가",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "콜? 난 인간수업보구 있는데",
+      "tokens": [
+        "콜",
+        "난",
+        "JX",
+        "인간",
+        "수업",
+        "보",
+        "구",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그거 진짜 재밌음...!",
+      "tokens": [
+        "그거",
+        "진짜",
+        "재밌",
+        "음",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "인간수업 재밌겠더라 최민 수나오는ㄱ지",
+      "tokens": [
+        "인간",
+        "수업",
+        "재밌",
+        "겠",
+        "더라",
+        "최민수",
+        "나오",
+        "는",
+        "ㄱ",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "류준열 나오는데 재밌더라",
+      "tokens": [
+        "류준열",
+        "나오",
+        "는",
+        "데",
+        "재밌",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "인간 수업 보고 있어? 재밌제 키키",
+      "tokens": [
+        "인간",
+        "수업",
+        "보",
+        "고",
+        "있",
+        "어",
+        "재밌",
+        "제",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 나도 한번 봐야겠다",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "한",
+        "번",
+        "봐야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "2편 보고 있는중 오늘 정주행간다",
+      "tokens": [
+        "2",
+        "편보고있는중오늘정주행간다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 인간수업 엄청 재밌음 그래도 나는 레전드는 종이의 집이다",
+      "tokens": [
+        "아",
+        "인간",
+        "수업",
+        "엄청",
+        "재밌",
+        "음",
+        "그래도",
+        "나",
+        "는",
+        "레전드",
+        "는",
+        "종이",
+        "의",
+        "집",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "대충 무슨 내용이길래",
+      "tokens": [
+        "대충",
+        "무슨",
+        "내용",
+        "이",
+        "길래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "종이의집 인정이지",
+      "tokens": [
+        "종이",
+        "의",
+        "집",
+        "인정",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "도쿄가 진짜 간지임... ㅠㅠ 도쿄 ㅠㅠ",
+      "tokens": [
+        "도쿄",
+        "가",
+        "진짜",
+        "간지",
+        "임",
+        "ETN",
+        ".",
+        "ㅠㅠ도쿄ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "지정 생존자 한번 봐봐 진짜 재미써",
+      "tokens": [
+        "지정",
+        "생존자",
+        "한",
+        "번",
+        "봐",
+        "EC",
+        "봐",
+        "EF",
+        "진짜",
+        "재미",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "덴베르...",
+      "tokens": [
+        "덴베",
+        "르",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "지정 생존자?",
+      "tokens": [
+        "지정",
+        "생존자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우리나라 거임?",
+      "tokens": [
+        "우리",
+        "나라",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "매화가 스릴 넘치는데...",
+      "tokens": [
+        "매화",
+        "가",
+        "스릴",
+        "넘치",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

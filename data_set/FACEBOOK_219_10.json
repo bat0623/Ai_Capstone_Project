@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 근데 낚시해서 잡으면 들고 갈 거임?",
+      "tokens": [
+        "*",
+        "*",
+        "근데",
+        "낚시",
+        "해서",
+        "EC",
+        "잡",
+        "으면",
+        "들",
+        "고",
+        "갈",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "들고 가서 부모님 드려 하하",
+      "tokens": [
+        "들",
+        "고",
+        "가",
+        "서",
+        "부모",
+        "님",
+        "드려",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 아니 바로 회 쳐먹는 거 아녀?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "바로",
+        "회",
+        "쳐먹",
+        "는",
+        "거",
+        "아녀",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "니 차 없어서 버스에  싣고?",
+      "tokens": [
+        "니",
+        "차",
+        "없",
+        "어서",
+        "버스",
+        "에",
+        "싣",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아이스팩 빌려 드림 하하",
+      "tokens": [
+        "아이스",
+        "팩",
+        "빌려",
+        "EC",
+        "드림",
+        "ETM",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 나 거기서 먹을랰 키키",
+      "tokens": [
+        "아니",
+        "나",
+        "거기",
+        "서",
+        "먹",
+        "을",
+        "랰키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니?",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리 쭈꾸미 300마리 잡을 건데?",
+      "tokens": [
+        "우리쭈꾸미",
+        "300",
+        "마리",
+        "잡",
+        "을",
+        "건데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "**이한테 태워주라 해 하하",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "한테",
+        "태워",
+        "EC",
+        "주",
+        "라",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 주꾸미는 그러 가져갈겤 키키",
+      "tokens": [
+        "키",
+        "키",
+        "주꾸미",
+        "는",
+        "그러",
+        "가",
+        "져갈",
+        "EC",
+        "VX",
+        "ETM",
+        "겤키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "300마리는 다 못 먹을껄?",
+      "tokens": [
+        "300",
+        "마리",
+        "는",
+        "다",
+        "못",
+        "먹",
+        "을껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "배타고 나가면 300마리 잡는데",
+      "tokens": [
+        "배",
+        "타",
+        "고",
+        "나가",
+        "면",
+        "300",
+        "마리",
+        "잡",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "주꾸미 어디서 잡는뎈 키키",
+      "tokens": [
+        "주꾸미",
+        "어디",
+        "서",
+        "잡",
+        "는",
+        "뎈키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우리가 태워 주자 그럼!",
+      "tokens": [
+        "우리",
+        "가",
+        "태워",
+        "EC",
+        "주",
+        "자",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "어깨 아플 정도래 완젼",
+      "tokens": [
+        "어깨",
+        "아플",
+        "ETM",
+        "정도",
+        "래",
+        "EF",
+        "완",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 완전 재밌겠는데?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "완전",
+        "재밌",
+        "겠",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 삼천포 완전 쭈꾸미 밭임 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "삼",
+        "천",
+        "포",
+        "완",
+        "전쭈",
+        "꾸미",
+        "밭",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "우리가 태워줄꼐 그럼",
+      "tokens": [
+        "우리",
+        "가",
+        "태워",
+        "EC",
+        "줄꼐",
+        "그럼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아니 주꾸미 몇 월 달이 피크야",
+      "tokens": [
+        "아니",
+        "주꾸미",
+        "몇",
+        "월",
+        "달",
+        "이",
+        "피크",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

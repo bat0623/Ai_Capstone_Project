@@ -1,0 +1,385 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "외모가 얼마나 중요하다고 생각해?",
+      "tokens": [
+        "외모",
+        "가",
+        "얼마나",
+        "중요",
+        "하",
+        "다고",
+        "생각",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엄청나게 중요하지 외모 !",
+      "tokens": [
+        "엄청나",
+        "게",
+        "중요",
+        "하",
+        "지",
+        "외모"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "음 ... 첫인상에서 90퍼센트는 먹고 들어가잖아",
+      "tokens": [
+        "음",
+        ".",
+        "첫",
+        "인상",
+        "에서",
+        "90",
+        "퍼센트",
+        "는",
+        "먹",
+        "고",
+        "들어가",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 외모는 한 50%",
+      "tokens": [
+        "난",
+        "JX",
+        "외모",
+        "는",
+        "한",
+        "50",
+        "%"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "처음 보면 외모밖에 안 보이니까 ㅠㅠ",
+      "tokens": [
+        "처음",
+        "보",
+        "면",
+        "외모",
+        "밖에",
+        "안",
+        "보이",
+        "니까",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "못생기면 ... 첫인상 점수가 넘 안 좋음",
+      "tokens": [
+        "못",
+        "생기",
+        "면",
+        ".",
+        ".",
+        "첫",
+        "인상",
+        "점수",
+        "가",
+        "넘",
+        "안",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어떤 외모 좋아해?",
+      "tokens": [
+        "어떤",
+        "외모",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 50퍼 밖에 안봐 ?",
+      "tokens": [
+        "오",
+        "50",
+        "퍼",
+        "밖에",
+        "안",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "분위기나 말투는 얘기를 하면서 매력을 느끼는 거잖아",
+      "tokens": [
+        "분위기",
+        "나",
+        "말투",
+        "는",
+        "얘기",
+        "를",
+        "하",
+        "면서",
+        "매력",
+        "을",
+        "느끼",
+        "는",
+        "거",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 눈빛을 많이 봄",
+      "tokens": [
+        "난",
+        "JX",
+        "눈빛",
+        "을",
+        "많이",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 현빈 같은 외모 ^^",
+      "tokens": [
+        "나",
+        "는",
+        "현빈",
+        "같",
+        "은",
+        "외모",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 현빈 좋아한다",
+      "tokens": [
+        "키키",
+        "현빈",
+        "좋",
+        "아",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "좋아해",
+      "tokens": [
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "눈빛이 아주 중요해",
+      "tokens": [
+        "눈빛",
+        "이",
+        "아주",
+        "중요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "현빈 너무 잘생겼음 키키",
+      "tokens": [
+        "현빈",
+        "너무",
+        "잘",
+        "생겼",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "음 인정 ...",
+      "tokens": [
+        "음",
+        "인정",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "눈빛도 크다",
+      "tokens": [
+        "눈빛",
+        "도",
+        "크",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "현빈 같은 외모는 키키",
+      "tokens": [
+        "현빈",
+        "같",
+        "은",
+        "외모",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "현빈 눈빛 발사하면 기절할 듯 !",
+      "tokens": [
+        "현빈",
+        "눈빛",
+        "발사",
+        "하",
+        "면",
+        "기절",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나도 눈빛 좀 부리부리 했음 좋겠다",
+      "tokens": [
+        "나",
+        "도",
+        "눈빛",
+        "좀",
+        "부리부리",
+        "했",
+        "EP",
+        "음",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

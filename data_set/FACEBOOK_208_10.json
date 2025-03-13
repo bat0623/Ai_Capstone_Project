@@ -1,0 +1,342 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "홍스퍼 차박 가능?",
+      "tokens": [
+        "홍스퍼차박가능"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "차박 쌉 가능",
+      "tokens": [
+        "차",
+        "박쌉",
+        "가능"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "1인 차박만 가능할 듯",
+      "tokens": [
+        "1",
+        "인차",
+        "박만",
+        "가능",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "인스타에는 차박 하던디",
+      "tokens": [
+        "인",
+        "스타",
+        "에",
+        "는",
+        "차",
+        "박하",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 장기가 참 좋은 스포츠 같음",
+      "tokens": [
+        "난",
+        "JX",
+        "장기",
+        "가",
+        "참",
+        "좋",
+        "은",
+        "스포츠",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "대신 허리는 안녕하지 못할걸",
+      "tokens": [
+        "대신",
+        "허리",
+        "는",
+        "안녕",
+        "하",
+        "지",
+        "못할",
+        "ETM",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**는 키가 커서 안될 듯?",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "키",
+        "가",
+        "커서",
+        "EC",
+        "안",
+        "될",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "바둑 이세돌처럼 스포츠임",
+      "tokens": [
+        "바둑",
+        "이세돌",
+        "처럼",
+        "스포츠",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "장기는 두뇌 스포츠지",
+      "tokens": [
+        "장기",
+        "는",
+        "두뇌",
+        "스포츠",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "폭신한 거 깔면 되징",
+      "tokens": [
+        "폭신",
+        "한",
+        "ETM",
+        "거",
+        "깔",
+        "면",
+        "되",
+        "징"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "푹신한 거 깔아도 한계가 있음",
+      "tokens": [
+        "푹신",
+        "한",
+        "ETM",
+        "거",
+        "깔",
+        "아도",
+        "한계",
+        "가",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 근데 둘 줄 모름...",
+      "tokens": [
+        "나",
+        "는",
+        "근데",
+        "둘",
+        "줄",
+        "모름",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "장기 둘 줄 알아?",
+      "tokens": [
+        "장기",
+        "둘",
+        "줄",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "장기나 바둑이 좋음",
+      "tokens": [
+        "장기",
+        "나",
+        "바둑",
+        "이",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "차에 타프 치고 텐트를 외부에 치는 걸로 하는 게 낫겠던데",
+      "tokens": [
+        "차",
+        "에",
+        "타",
+        "EC",
+        "프",
+        "치",
+        "고",
+        "텐트",
+        "를",
+        "외부",
+        "에",
+        "치",
+        "는",
+        "걸로",
+        "JKB",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "낫",
+        "겠",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "체스는 어떤 거 같음?",
+      "tokens": [
+        "체스",
+        "는",
+        "어떤",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "마 차 포 신의 한수!",
+      "tokens": [
+        "마차",
+        "포신",
+        "의",
+        "한수"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "바둑은 한번 배워보고 싶다",
+      "tokens": [
+        "바둑",
+        "은",
+        "한",
+        "번",
+        "배워",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

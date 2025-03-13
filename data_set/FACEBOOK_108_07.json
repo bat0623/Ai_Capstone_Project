@@ -1,0 +1,543 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네는 가족끼리 영상통화 자주 해?",
+      "tokens": [
+        "너",
+        "네",
+        "는",
+        "가족",
+        "끼리",
+        "영상",
+        "통화",
+        "자주",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "자주는 안하고 정말 가끔 한 번씩 해!",
+      "tokens": [
+        "자주",
+        "는",
+        "안",
+        "하",
+        "고",
+        "정말",
+        "가끔",
+        "한",
+        "번",
+        "씩",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 사촌끼리 그룹 영상통화 자주 하는데 지금 흑역사 생성 오지게 되는 중 키키",
+      "tokens": [
+        "나",
+        "는",
+        "사촌",
+        "끼리",
+        "그룹",
+        "영상",
+        "통화",
+        "자주",
+        "하",
+        "는데",
+        "지금",
+        "흑",
+        "역사",
+        "생성",
+        "오지",
+        "게",
+        "되",
+        "는",
+        "중키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 왜?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "생얼로 영상통화 받았어?!",
+      "tokens": [
+        "생얼로영상통화받았어",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어 생얼도 그런데 웃긴 표정 지을 때 있잖아!",
+      "tokens": [
+        "어",
+        "생",
+        "얼도",
+        "그런데",
+        "웃긴",
+        "ETM",
+        "표",
+        "정지",
+        "을",
+        "때",
+        "EC",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그때다 캡처함!",
+      "tokens": [
+        "그때",
+        "다",
+        "EF",
+        "캡",
+        "처함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "역시 손은 눈보다 빠르다... 나도 캡쳐 많이 당했어...",
+      "tokens": [
+        "역시",
+        "손",
+        "은",
+        "눈",
+        "보다",
+        "빠르",
+        "다",
+        ".",
+        "나",
+        "도",
+        "캡쳐",
+        "많이",
+        "당했",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞앜 키키",
+      "tokens": [
+        "맞앜키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이거 도용 아니냐!?",
+      "tokens": [
+        "이거",
+        "도용",
+        "아니",
+        "냐",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "우리의 초상권을 지켜야 해!",
+      "tokens": [
+        "우리",
+        "의",
+        "초상권",
+        "을",
+        "지켜야",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 이거 실수로 퍼지기만 해!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "이거",
+        "실수",
+        "로",
+        "퍼지",
+        "기",
+        "만",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 누군지 못 알아보는 거 아니겠지..?",
+      "tokens": [
+        "근데",
+        "누군지",
+        "VCP",
+        "EC",
+        "못",
+        "알아보",
+        "는",
+        "거",
+        "아니",
+        "겠",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 나 쫌 있다 또 영상통화 하기로 했는데 나 이틀째 머리 안 감았거든?",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "쫌",
+        "있",
+        "다",
+        "또",
+        "영상",
+        "통화",
+        "하",
+        "기",
+        "로",
+        "했",
+        "EP",
+        "는데",
+        "나",
+        "이틀",
+        "째",
+        "머리",
+        "안",
+        "감",
+        "았",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "목욕 좀 하고 전화해야겠지?",
+      "tokens": [
+        "목욕",
+        "좀",
+        "하",
+        "고",
+        "전화",
+        "해야",
+        "EC",
+        "겠지",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 에이 뭐 어때 머리는 3일 국룰 아니야!?",
+      "tokens": [
+        "키",
+        "키",
+        "에",
+        "이",
+        "뭐",
+        "어",
+        "때머리",
+        "는",
+        "3",
+        "일국",
+        "룰",
+        "아니",
+        "야",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 맞아 너무 자주 감아도 머리 두피에 안 좋아~",
+      "tokens": [
+        "키키맞아너무자주감아도머리두피에안좋아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러니까 말이야 나도 그래서 안 감는 거지 귀찮아서 그런 건 아니야 ㅎ",
+      "tokens": [
+        "그러니까",
+        "말",
+        "이",
+        "야",
+        "나",
+        "도",
+        "그래서",
+        "안",
+        "감",
+        "는",
+        "거",
+        "지",
+        "EF",
+        "귀찮",
+        "아서",
+        "그런",
+        "건",
+        "JX",
+        "아니",
+        "야",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 맞아 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그러면 니 말 듣고 그냥 통화해야겠다~",
+      "tokens": [
+        "그러면",
+        "니",
+        "말",
+        "듣",
+        "고",
+        "그냥",
+        "통화",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "좋은 생각이야",
+      "tokens": [
+        "좋",
+        "은",
+        "생각",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "오늘 씻기 말기!",
+      "tokens": [
+        "오늘",
+        "씻",
+        "기",
+        "말",
+        "기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 오늘은 우리 언니랑 사촌언니랑 셋이서 하기로 했어!",
+      "tokens": [
+        "키",
+        "키",
+        "오늘",
+        "은",
+        "우리",
+        "언니",
+        "랑",
+        "사촌",
+        "언니",
+        "랑",
+        "셋",
+        "이",
+        "서",
+        "하",
+        "기",
+        "로",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "재밌겠다 ㅠㅠ",
+      "tokens": [
+        "재밌",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "통화하고 알려줘!",
+      "tokens": [
+        "통화",
+        "하",
+        "고",
+        "알려",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

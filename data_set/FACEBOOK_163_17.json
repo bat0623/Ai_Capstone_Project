@@ -1,0 +1,716 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "감기 조심 하자 하하",
+      "tokens": [
+        "감기",
+        "조심",
+        "하",
+        "자",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 1,
+      "text": "감기 조심 하자 하하",
+      "tokens": [
+        "감기",
+        "조심",
+        "하",
+        "자",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 배즙 챙겨먹고 하하",
+      "tokens": [
+        "응",
+        "배",
+        "즙",
+        "챙겨",
+        "EC",
+        "먹",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 배즙 챙겨먹고 하하",
+      "tokens": [
+        "응",
+        "배",
+        "즙",
+        "챙겨",
+        "EC",
+        "먹",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "지금 환절기라서 다 난리더라",
+      "tokens": [
+        "지금",
+        "환절기",
+        "라서",
+        "EC",
+        "다",
+        "난리",
+        "더라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "지금 환절기라서 다 난리더라",
+      "tokens": [
+        "지금",
+        "환절기",
+        "라서",
+        "EC",
+        "다",
+        "난리",
+        "더라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "겨울이니까 배즙도 좀 먹고",
+      "tokens": [
+        "겨울",
+        "이",
+        "니까",
+        "배",
+        "즙",
+        "도",
+        "좀",
+        "먹",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "겨울이니까 배즙도 좀 먹고",
+      "tokens": [
+        "겨울",
+        "이",
+        "니까",
+        "배",
+        "즙",
+        "도",
+        "좀",
+        "먹",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "배즙먹음 건강에 좋데 ㅎ",
+      "tokens": [
+        "배",
+        "즙",
+        "먹",
+        "음",
+        "건강",
+        "에",
+        "좋",
+        "데",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "배즙먹음 건강에 좋데 ㅎ",
+      "tokens": [
+        "배",
+        "즙",
+        "먹",
+        "음",
+        "건강",
+        "에",
+        "좋",
+        "데",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "배즙 진짜 효과 짱인듯",
+      "tokens": [
+        "배",
+        "즙",
+        "진짜",
+        "효과",
+        "짱",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "배즙 진짜 효과 짱인듯",
+      "tokens": [
+        "배",
+        "즙",
+        "진짜",
+        "효과",
+        "짱",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "환절기는 항상  조심 조심 하하",
+      "tokens": [
+        "환절기",
+        "는",
+        "항상",
+        "조심조심",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "환절기는 항상  조심 조심 하하",
+      "tokens": [
+        "환절기",
+        "는",
+        "항상",
+        "조심조심",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리집에 배즙 많아 하하 농사 지은 거 ㅎ",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "배",
+        "즙",
+        "많",
+        "아",
+        "하하",
+        "농사지",
+        "은",
+        "거",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리집에 배즙 많아 하하 농사 지은 거 ㅎ",
+      "tokens": [
+        "우리",
+        "집",
+        "에",
+        "배",
+        "즙",
+        "많",
+        "아",
+        "하하",
+        "농사지",
+        "은",
+        "거",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "배즙 나 진짜 좋아하는데",
+      "tokens": [
+        "배",
+        "즙",
+        "나",
+        "진짜",
+        "좋",
+        "아",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "배즙 나 진짜 좋아하는데",
+      "tokens": [
+        "배",
+        "즙",
+        "나",
+        "진짜",
+        "좋",
+        "아",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "손도 자주 씻고 하하",
+      "tokens": [
+        "손",
+        "도",
+        "자주",
+        "씻",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "손도 자주 씻고 하하",
+      "tokens": [
+        "손",
+        "도",
+        "자주",
+        "씻",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "빵상 좀 살래?",
+      "tokens": [
+        "빵",
+        "상",
+        "좀",
+        "살래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "빵상 좀 살래?",
+      "tokens": [
+        "빵",
+        "상",
+        "좀",
+        "살래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "배즙도 팔아요?",
+      "tokens": [
+        "배",
+        "즙",
+        "도",
+        "팔",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "배즙도 팔아요?",
+      "tokens": [
+        "배",
+        "즙",
+        "도",
+        "팔",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 살래요",
+      "tokens": [
+        "나",
+        "살",
+        "래요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 살래요",
+      "tokens": [
+        "나",
+        "살",
+        "래요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마스크 철저하게 끼고 하하",
+      "tokens": [
+        "마스크",
+        "철저",
+        "하",
+        "게",
+        "끼",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "마스크 철저하게 끼고 하하",
+      "tokens": [
+        "마스크",
+        "철저",
+        "하",
+        "게",
+        "끼",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "한박스 5만원이야 하하 60개 들었어",
+      "tokens": [
+        "한",
+        "박스",
+        "5",
+        "만",
+        "원",
+        "이야",
+        "하하",
+        "60",
+        "개",
+        "들",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "한박스 5만원이야 하하 60개 들었어",
+      "tokens": [
+        "한",
+        "박스",
+        "5",
+        "만",
+        "원",
+        "이야",
+        "하하",
+        "60",
+        "개",
+        "들",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "배달해 줍니까? 배즙 60개면 오",
+      "tokens": [
+        "배달",
+        "해줍니까",
+        "EC",
+        "VX",
+        "EF",
+        "배",
+        "즙",
+        "60",
+        "개",
+        "면오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "배달해 줍니까? 배즙 60개면 오",
+      "tokens": [
+        "배달",
+        "해줍니까",
+        "EC",
+        "VX",
+        "EF",
+        "배",
+        "즙",
+        "60",
+        "개",
+        "면오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "빵상 좀 줘라... 팔다니...",
+      "tokens": [
+        "빵",
+        "상",
+        "좀",
+        "줘라",
+        "EF",
+        ".",
+        "팔",
+        "다니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "빵상 좀 줘라... 팔다니...",
+      "tokens": [
+        "빵",
+        "상",
+        "좀",
+        "줘라",
+        "EF",
+        ".",
+        "팔",
+        "다니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래 그럼 계좌 부를께",
+      "tokens": [
+        "그래",
+        "그럼",
+        "계좌",
+        "부를",
+        "ETM",
+        "께"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래 그럼 계좌 부를께",
+      "tokens": [
+        "그래",
+        "그럼",
+        "계좌",
+        "부를",
+        "ETM",
+        "께"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 악 오빠 영업의 신 아닙니까 푸하",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "악",
+        "오빠",
+        "영업",
+        "의",
+        "신",
+        "아닙니까",
+        "EC",
+        "푸",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 악 오빠 영업의 신 아닙니까 푸하",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "악",
+        "오빠",
+        "영업",
+        "의",
+        "신",
+        "아닙니까",
+        "EC",
+        "푸",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

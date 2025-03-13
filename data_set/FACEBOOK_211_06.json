@@ -1,0 +1,385 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "그래서 영어 학원 보내기루 했어?",
+      "tokens": [
+        "그래서",
+        "영어",
+        "학원",
+        "보내",
+        "기",
+        "루",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "모르겠어",
+      "tokens": [
+        "모르",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "유치원은 백퍼 추첨 ㅠ",
+      "tokens": [
+        "유치원",
+        "은",
+        "백",
+        "퍼",
+        "추첨",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "영어는 필수지...",
+      "tokens": [
+        "영어",
+        "는",
+        "필수",
+        "지",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 코딩 추천함",
+      "tokens": [
+        "근데",
+        "코딩",
+        "추천",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "코딩 요즘 많이 배운대",
+      "tokens": [
+        "코딩",
+        "요즘",
+        "많이",
+        "배",
+        "운대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "보내고 싶어도 당첨... 되어야...",
+      "tokens": [
+        "보내",
+        "고",
+        "싶",
+        "어도",
+        "당첨",
+        ".",
+        ".",
+        "되",
+        "어야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "유치원 추첨을 한다고? 무슨 유치원인데",
+      "tokens": [
+        "유치원",
+        "추첨",
+        "을",
+        "한다고",
+        "EF",
+        "무슨",
+        "유치원",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "한글 몰라도 배울 수 있는 거임?",
+      "tokens": [
+        "한글",
+        "몰라도",
+        "EC",
+        "배울",
+        "ETM",
+        "수",
+        "있",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응 코딩 교육이 대세라고 하더라구",
+      "tokens": [
+        "응",
+        "코딩",
+        "교육",
+        "이",
+        "대세",
+        "라고",
+        "EC",
+        "하",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "음... 글자는 알아야 배우지",
+      "tokens": [
+        "음",
+        ".",
+        "글자",
+        "는",
+        "알",
+        "아야",
+        "배우",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "유치원 요새 다 추첨이라데...",
+      "tokens": [
+        "유치원",
+        "요새",
+        "다",
+        "추첨",
+        "이",
+        "라데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그냥 모든 유치원이 추첨이에욤 ㅠㅠ",
+      "tokens": [
+        "그냥",
+        "모든",
+        "유치원",
+        "이",
+        "추첨",
+        "이",
+        "에",
+        "욤",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "영어 학원 보낼 정도면 글자 아는 거자너",
+      "tokens": [
+        "영어",
+        "학원",
+        "보낼",
+        "ETM",
+        "정도",
+        "면",
+        "EC",
+        "글자",
+        "아",
+        "는",
+        "거",
+        "자",
+        "EC",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "대기도 엄청 길대;",
+      "tokens": [
+        "대기",
+        "도",
+        "엄청",
+        "길",
+        "대",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 대기 장난 없어...",
+      "tokens": [
+        "응",
+        "대기",
+        "장난",
+        "없",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오... 유치원도 보내기 힘들구나...",
+      "tokens": [
+        "오",
+        ".",
+        "유치원",
+        "도",
+        "보내",
+        "기",
+        "힘들",
+        "구나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "유치원 가기가 힘들다고 합니다",
+      "tokens": [
+        "유치원",
+        "가",
+        "기",
+        "가",
+        "힘들",
+        "다고",
+        "합니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아기가 많은가 봐 아직",
+      "tokens": [
+        "아기",
+        "가",
+        "많",
+        "은가",
+        "봐",
+        "EF",
+        "아직"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나 때도 좋은 데는 그랬던 거 같다...",
+      "tokens": [
+        "나",
+        "때",
+        "도",
+        "좋",
+        "은",
+        "데",
+        "는",
+        "그랬",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

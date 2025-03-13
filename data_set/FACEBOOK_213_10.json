@@ -1,0 +1,354 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "* 캠핑 용품 다 팔아 치웠대 ㅠㅠ",
+      "tokens": [
+        "*",
+        "캠핑용품다팔아치웠대ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 왜? 왜 팔았어 ㄷㄷ",
+      "tokens": [
+        "헐",
+        "왜",
+        "왜",
+        "팔",
+        "았",
+        "어",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "캠핑 빠룽...",
+      "tokens": [
+        "캠핑빠룽",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "역시 캠핑은 힘든 거였어",
+      "tokens": [
+        "역시",
+        "캠핑",
+        "은",
+        "힘든",
+        "ETM",
+        "거",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 이제 사 모을 듯;",
+      "tokens": [
+        "나",
+        "는",
+        "이제사",
+        "모을",
+        "ETM",
+        "듯",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나 골린이야",
+      "tokens": [
+        "나",
+        "골린",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "골린이로 바꿨어",
+      "tokens": [
+        "골린",
+        "이",
+        "로",
+        "바꿨",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "캠핑 넘 힘들어서 못하겠대",
+      "tokens": [
+        "캠핑",
+        "넘",
+        "힘들",
+        "어서",
+        "못하",
+        "겠",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "골린이면 골프?",
+      "tokens": [
+        "골린",
+        "이",
+        "면",
+        "골프"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 캠핑 좋아하는구만",
+      "tokens": [
+        "오",
+        "캠핑",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "구만"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오 골린이 많이 배웠음? 키키",
+      "tokens": [
+        "오",
+        "골린",
+        "이",
+        "많이",
+        "배웠",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "오 키키 골프도 좋지 키키",
+      "tokens": [
+        "오키",
+        "키",
+        "골프",
+        "도",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 골프 배우려고 키키",
+      "tokens": [
+        "응",
+        "골프",
+        "배우",
+        "려고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이제 좀 치나? 키키",
+      "tokens": [
+        "이제",
+        "좀",
+        "치",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 골프 치고 싶다 키키",
+      "tokens": [
+        "나",
+        "도",
+        "골프",
+        "치",
+        "고",
+        "싶",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 넘 어려워... 못 쳐...",
+      "tokens": [
+        "근데",
+        "넘",
+        "어려워",
+        "EF",
+        ".",
+        "못",
+        "쳐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오빠는 골프 잘 침?",
+      "tokens": [
+        "오빠",
+        "는",
+        "골프",
+        "잘",
+        "침"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "드라이버? 잘 맞으면 기분 좋음 키키",
+      "tokens": [
+        "드라이버",
+        "잘",
+        "맞",
+        "으면",
+        "기분",
+        "좋",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "다같이 골프 해보자!",
+      "tokens": [
+        "다",
+        "같이",
+        "골프",
+        "해",
+        "EC",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

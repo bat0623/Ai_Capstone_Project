@@ -1,0 +1,481 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "형아가 빨리 결혼 했으면 좋겠제?",
+      "tokens": [
+        "형아",
+        "가",
+        "빨리",
+        "결혼",
+        "했",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "형은 언제 하실 예정?",
+      "tokens": [
+        "형",
+        "은",
+        "언제",
+        "하",
+        "실",
+        "ETM",
+        "예정"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "음 ... 빨리 내 눈앞에서 사라졌음 ...",
+      "tokens": [
+        "음",
+        ".",
+        "빨리",
+        "내",
+        "JKG",
+        "눈앞",
+        "에서",
+        "사라졌",
+        "EP",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "형수님 좀 데려가주세여",
+      "tokens": [
+        "형수님",
+        "좀",
+        "데려가",
+        "EC",
+        "주",
+        "세여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "언제까지 집에 산다데...",
+      "tokens": [
+        "언제",
+        "까지",
+        "집",
+        "에",
+        "산",
+        "다데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "사라졌음 좋겠대",
+      "tokens": [
+        "사라졌",
+        "EP",
+        "음",
+        "좋",
+        "겠",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "너무 웃겨 키키",
+      "tokens": [
+        "너무",
+        "웃겨",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "몰라 ...",
+      "tokens": [
+        "몰라",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "좀 나가지 ...",
+      "tokens": [
+        "좀",
+        "나가",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "불편해죽게따 ...",
+      "tokens": [
+        "불편",
+        "해",
+        "EC",
+        "죽",
+        "게",
+        "따",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "니가 빨리 하는게 답일듯",
+      "tokens": [
+        "니",
+        "가",
+        "빨리",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "답",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "형이 알면 섭섭할수도",
+      "tokens": [
+        "형",
+        "이",
+        "알",
+        "면",
+        "섭섭",
+        "할",
+        "ETM",
+        "수",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "잉 ... 나는 나가기 시러 ...",
+      "tokens": [
+        "잉",
+        ".",
+        "나",
+        "는",
+        "나가",
+        "기",
+        "시",
+        "러",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까...",
+      "tokens": [
+        "그니까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "니도 이제 나가 서른 넘는디",
+      "tokens": [
+        "니",
+        "도",
+        "이제",
+        "나",
+        "가",
+        "서른",
+        "넘",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "행님을 쫓으려고 하네 키키",
+      "tokens": [
+        "행",
+        "님",
+        "을",
+        "쫓",
+        "으려고",
+        "하",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나 비혼주의자임 ...",
+      "tokens": [
+        "나비",
+        "혼주",
+        "의",
+        "자임",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "집에서 옴마모시고 살거얌 ...",
+      "tokens": [
+        "집",
+        "에서",
+        "옴마",
+        "모시",
+        "고",
+        "살",
+        "ETM",
+        "거",
+        "얌",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "언제까지 눈치보고 살꺼야",
+      "tokens": [
+        "언제",
+        "까지",
+        "눈치보",
+        "고",
+        "살",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "엄마 모시고 사는게 짱이긴 함 키키",
+      "tokens": [
+        "엄마",
+        "모시",
+        "고",
+        "사",
+        "는",
+        "게",
+        "JKS",
+        "짱",
+        "이",
+        "긴",
+        "JX",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "행님이 조카 낳아오면 잘해줄거임 ...",
+      "tokens": [
+        "행님이조카낳아오면잘해줄거임",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나도 돌봐야하니까",
+      "tokens": [
+        "나",
+        "도",
+        "돌봐야",
+        "EC",
+        "하",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "홍이는 언제 자유를 얻을까...",
+      "tokens": [
+        "홍",
+        "이",
+        "는",
+        "언제",
+        "자유",
+        "를",
+        "얻",
+        "을까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "근데 아빠 된다고 안했니 ?",
+      "tokens": [
+        "근데",
+        "아빠",
+        "된다고",
+        "EC",
+        "안",
+        "했",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 마쟈 곧 아빠될건데 ...",
+      "tokens": [
+        "키키마쟈곧아빠될건데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "집이 없어",
+      "tokens": [
+        "집",
+        "이",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

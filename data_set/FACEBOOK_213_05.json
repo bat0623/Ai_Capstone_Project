@@ -1,0 +1,385 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대 들어가 있으면 마음은 편할 듯",
+      "tokens": [
+        "군대",
+        "들어가",
+        "EC",
+        "있",
+        "으면",
+        "마음",
+        "은",
+        "편할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 지금 군대 가고 싶어...",
+      "tokens": [
+        "나",
+        "지금",
+        "군대",
+        "가",
+        "고",
+        "싶",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "걱정은 없을 듯?",
+      "tokens": [
+        "걱정",
+        "은",
+        "없",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "몸은 좀 고단해도 마음은 아주 편할 듯",
+      "tokens": [
+        "몸",
+        "은",
+        "좀",
+        "고단",
+        "해도",
+        "EC",
+        "마음",
+        "은",
+        "아주",
+        "편할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "군대 가서 암 생각 없이 살래...",
+      "tokens": [
+        "군대",
+        "가",
+        "서암",
+        "생각",
+        "없이",
+        "살래",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "군대 가고 싶다니 키키 오매",
+      "tokens": [
+        "군대",
+        "가",
+        "고",
+        "싶",
+        "다니",
+        "키",
+        "키",
+        "오매"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "시키는 거만 하면 되잖아 군대는",
+      "tokens": [
+        "시키",
+        "는",
+        "거",
+        "만",
+        "하",
+        "면",
+        "되",
+        "잖아",
+        "군대",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "몸이 곤단한 게 낫겠어",
+      "tokens": [
+        "몸",
+        "이",
+        "곤",
+        "단",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "낫",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "마치 학생 같이",
+      "tokens": [
+        "마치",
+        "학생",
+        "같이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 **이 군대 가고 싶대 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "이군대가고싶대ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "살이라도 빼야지 키키",
+      "tokens": [
+        "살",
+        "이",
+        "라도",
+        "빼",
+        "야지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "다이어트 군대 가서",
+      "tokens": [
+        "다이어트",
+        "군대",
+        "가",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우짜노야 안쓰럽다 살도 빠질 듯...",
+      "tokens": [
+        "우짜노야안쓰럽다살도빠질듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 군대 갈래 ㅜㅜ",
+      "tokens": [
+        "나군대갈래ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "어디서 받아 주려나",
+      "tokens": [
+        "어디",
+        "서",
+        "받",
+        "아",
+        "주",
+        "려나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 다이어트 하러 가자...",
+      "tokens": [
+        "키",
+        "키",
+        "다이어트",
+        "하",
+        "러",
+        "가",
+        "자",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "심지어 월급도 많이 줘 키키",
+      "tokens": [
+        "심지어",
+        "월급",
+        "도",
+        "많이",
+        "줘",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그러니까 은근 꿀이야 키키",
+      "tokens": [
+        "그러니까",
+        "은근",
+        "꿀",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "월급 많이 올랐대",
+      "tokens": [
+        "월급",
+        "많이",
+        "올랐",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

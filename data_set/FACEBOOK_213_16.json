@@ -1,0 +1,337 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "*는 완전 새댁 같아 ㅠㅠ",
+      "tokens": [
+        "*",
+        "는완전새댁같아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "이제 완전 엄마지 ㅜㅜ",
+      "tokens": [
+        "이제",
+        "완전",
+        "엄마",
+        "지",
+        "EF",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "뭔 소리여 아줌마지 나는...",
+      "tokens": [
+        "뭔",
+        "소리",
+        "여",
+        "아줌마",
+        "지나",
+        "는",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "피부도 어쩜 그리 좋니",
+      "tokens": [
+        "피부",
+        "도",
+        "어쩜",
+        "그리",
+        "좋",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그러게 피부 무슨 일인데",
+      "tokens": [
+        "그러",
+        "게",
+        "피부",
+        "무슨",
+        "일",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "새댁이라니 키키 어우 부끄러라",
+      "tokens": [
+        "새댁",
+        "이",
+        "라니",
+        "키",
+        "키어",
+        "우부",
+        "끄",
+        "러라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니 젊어 보인다고 키키",
+      "tokens": [
+        "아니",
+        "젊",
+        "어",
+        "보인다고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "뭐 관리 받냐고 키키",
+      "tokens": [
+        "뭐",
+        "관리",
+        "받",
+        "냐고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "내 피부 갑자기?",
+      "tokens": [
+        "내",
+        "JKG",
+        "피부",
+        "갑자기"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "졸 날씬하고 다이어트 하냐고 키키",
+      "tokens": [
+        "졸",
+        "ETM",
+        "날씬",
+        "하",
+        "고",
+        "다이어트",
+        "하",
+        "냐고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "어어 하나도 나이 안 먹음 키키",
+      "tokens": [
+        "어",
+        "어",
+        "하나",
+        "도",
+        "나이",
+        "안",
+        "먹",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "저번에 내 피부 못 봤냐구 울긋불긋",
+      "tokens": [
+        "저번",
+        "에",
+        "내",
+        "JKG",
+        "피부",
+        "못",
+        "봤",
+        "EP",
+        "냐구",
+        "울긋불긋"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "엄마들 중에 젤 이쁠 듯",
+      "tokens": [
+        "엄마",
+        "들",
+        "중",
+        "에",
+        "젤",
+        "이쁠",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그러게 살이 어찌 안 찜?",
+      "tokens": [
+        "그러",
+        "게",
+        "살",
+        "이",
+        "어찌",
+        "안",
+        "찜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그건 육아... 육아 할래 **?",
+      "tokens": [
+        "그건",
+        "JX",
+        "육아",
+        ".",
+        ".",
+        "육아",
+        "할래",
+        "EC",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "모르겠고 넘 날씬해 키키",
+      "tokens": [
+        "모르",
+        "겠",
+        "고",
+        "넘",
+        "날씬",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 비법 좀... 왜 안 쪄",
+      "tokens": [
+        "진짜",
+        "비법",
+        "좀",
+        ".",
+        "왜",
+        "안",
+        "쪄",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "바로 다이어트다 육아",
+      "tokens": [
+        "바로",
+        "다이어트",
+        "다",
+        "육아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

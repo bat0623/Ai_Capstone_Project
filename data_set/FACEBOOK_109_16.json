@@ -1,0 +1,432 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 지금 하고 싶은 머리스타일 있어?",
+      "tokens": [
+        "언니",
+        "는",
+        "지금",
+        "하",
+        "고",
+        "싶",
+        "은",
+        "머리",
+        "스타일",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 뿌리 매직 좀 하고 싶다!",
+      "tokens": [
+        "나",
+        "는",
+        "뿌리",
+        "매직",
+        "좀",
+        "하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "뿌리 매직?",
+      "tokens": [
+        "뿌리",
+        "매직"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "머리가 많이 떠?",
+      "tokens": [
+        "머리",
+        "가",
+        "많이",
+        "떠",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 천생 곱슬이라 스트레스야ㅠㅠ",
+      "tokens": [
+        "나",
+        "천생",
+        "곱슬",
+        "이",
+        "라",
+        "스트레스",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 진짜? 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "곱슬인 줄 몰랐어!",
+      "tokens": [
+        "곱슬",
+        "인",
+        "ETM",
+        "줄",
+        "몰랐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 앞머리 부분만 곱슬이야ㅠㅠ",
+      "tokens": [
+        "나",
+        "앞머리",
+        "부분",
+        "만",
+        "곱슬",
+        "이야",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐 그런 경우도 있어?",
+      "tokens": [
+        "헐",
+        "그런",
+        "경우",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그러면 파마한 것처럼 보여?",
+      "tokens": [
+        "그러면",
+        "파마",
+        "한",
+        "ETM",
+        "것",
+        "처럼",
+        "보여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "응!",
+      "tokens": [
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래서 여름에 항상 힘들어",
+      "tokens": [
+        "그래서",
+        "여름",
+        "에",
+        "항상",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 ㅜㅜ 나도 반곱슬이긴 한데 그렇다고 스트레스 받지는 않거든!",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅜㅜ",
+        "나",
+        "도",
+        "반",
+        "곱슬",
+        "이",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "그렇",
+        "다고",
+        "스트레스",
+        "받",
+        "지",
+        "는",
+        "않",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "너도 매번 매직 해?",
+      "tokens": [
+        "너",
+        "도",
+        "매번",
+        "매직",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 중학생 때 단발머리 했을 때 빼고는 안 했어!",
+      "tokens": [
+        "나",
+        "는",
+        "중학생",
+        "때",
+        "단발머리",
+        "했",
+        "EP",
+        "을",
+        "때",
+        "빼",
+        "고",
+        "는",
+        "안",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "와, 그럼 너는 축복 받은 거다 키키",
+      "tokens": [
+        "와",
+        ",",
+        "그럼",
+        "너",
+        "는",
+        "축복",
+        "받",
+        "은",
+        "거",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "대신에 머리숱이 많아서 머리가 무거움 ㅜ",
+      "tokens": [
+        "대신",
+        "에",
+        "머리숱",
+        "이",
+        "많",
+        "아서",
+        "머리",
+        "가",
+        "무거움",
+        "ETN",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 맨날 머리 잘라줘야겠네!",
+      "tokens": [
+        "키",
+        "키",
+        "맨날",
+        "머리",
+        "잘라",
+        "EC",
+        "줘야",
+        "EC",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "이제 조만간 미용실 갈 거야!",
+      "tokens": [
+        "이제",
+        "조만간",
+        "미용실",
+        "갈",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "응 미용실 같이 가서 보자!",
+      "tokens": [
+        "응",
+        "미용실",
+        "같이",
+        "가",
+        "서",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

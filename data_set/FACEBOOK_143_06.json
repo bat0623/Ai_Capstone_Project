@@ -1,0 +1,463 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "국비 지원 받아서 학원 다녀 본 적 있어?",
+      "tokens": [
+        "국비",
+        "지원",
+        "받",
+        "아서",
+        "학원",
+        "다녀본",
+        "EC",
+        "VX",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니 난 한 번도 없오",
+      "tokens": [
+        "아니",
+        "난",
+        "JX",
+        "한",
+        "번",
+        "도",
+        "없",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 나 다녀 본 적 있어 바리스타 학원",
+      "tokens": [
+        "웅",
+        "나다녀",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어",
+        "바리스타",
+        "학원"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "국비 지원 받아서 바리스타 학원 다녔어?",
+      "tokens": [
+        "국비",
+        "지원",
+        "받",
+        "아서",
+        "바리스타",
+        "학원",
+        "다녔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "많이 해줘?",
+      "tokens": [
+        "많이",
+        "해",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오 바리스타 학원 다녀봤어?",
+      "tokens": [
+        "오",
+        "바리스타",
+        "학원",
+        "다녀",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "웅 거의 절반은 학원비 지원 받았어",
+      "tokens": [
+        "웅거",
+        "의",
+        "절반",
+        "은",
+        "학원",
+        "비",
+        "지원",
+        "받",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "와 진짜 많이 해주네",
+      "tokens": [
+        "와",
+        "진짜",
+        "많이",
+        "해",
+        "EC",
+        "주",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 한번 다녀볼까",
+      "tokens": [
+        "나",
+        "도",
+        "한",
+        "번",
+        "다녀",
+        "EC",
+        "볼까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오 그럼 되게 편하게 다녔겠네?",
+      "tokens": [
+        "오",
+        "그럼",
+        "되게",
+        "편하",
+        "게",
+        "다녔",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "웅 진짜 편하게 다녔지 키키",
+      "tokens": [
+        "웅",
+        "진짜",
+        "편하",
+        "게",
+        "다녔",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "시간대는 저녁 상관없이 다닐 수 있어?",
+      "tokens": [
+        "시간",
+        "대",
+        "는",
+        "저녁",
+        "상관없이",
+        "다닐",
+        "ETM",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 나는 학원 다닐 때 전액 다 내고 다녔어 ㅜㅜ",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "학원",
+        "다닐",
+        "ETM",
+        "때",
+        "전액",
+        "다",
+        "내",
+        "고",
+        "다녔",
+        "EP",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니 오전에!",
+      "tokens": [
+        "아니",
+        "오전",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오전에 다녔어 나는",
+      "tokens": [
+        "오전",
+        "에",
+        "다녔",
+        "EP",
+        "어",
+        "나",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 오전에 학원 다니긴 좀 편했겠다 ㅠㅠ",
+      "tokens": [
+        "아",
+        "오전",
+        "에",
+        "학원",
+        "다니",
+        "긴",
+        "JX",
+        "좀",
+        "편했",
+        "EP",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 그것도 시간대가 다 있다던데",
+      "tokens": [
+        "맞",
+        "아",
+        "그것",
+        "도",
+        "시간",
+        "대가",
+        "다",
+        "있",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 바리스타도 진짜 어렵더라고 ㅠㅠ",
+      "tokens": [
+        "근데",
+        "바리스타",
+        "도",
+        "진짜",
+        "어렵",
+        "더라고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "바리스타 어렵긴 하지 ㅠㅠ",
+      "tokens": [
+        "바리스타",
+        "어렵",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "커피 종류 많이 알겠다",
+      "tokens": [
+        "커피",
+        "종류",
+        "많이",
+        "알",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "바리스타도 많이 어려워?",
+      "tokens": [
+        "바리스타",
+        "도",
+        "많이",
+        "어려워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "배우고 싶었는데",
+      "tokens": [
+        "배우",
+        "고",
+        "싶",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "웅 진짜 좀 많이 어려워",
+      "tokens": [
+        "웅",
+        "진짜",
+        "좀",
+        "많이",
+        "어려워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "손재주가 없어서",
+      "tokens": [
+        "손재주",
+        "가",
+        "없",
+        "어서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_143_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

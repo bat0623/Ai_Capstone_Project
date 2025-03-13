@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "제주도 아파트가 8억이라네?",
+      "tokens": [
+        "제주도",
+        "아파트",
+        "가",
+        "8",
+        "억",
+        "이",
+        "라네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "에? 생각보다 훨 비싸네",
+      "tokens": [
+        "에",
+        "생각",
+        "보다",
+        "훨",
+        "비싸",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "보통 작아 보이는 아파트가 그렇더라",
+      "tokens": [
+        "보통",
+        "작",
+        "아",
+        "보이",
+        "는",
+        "아파트",
+        "가",
+        "그렇",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "제주도 가서 살고 싶었는데",
+      "tokens": [
+        "제주",
+        "도",
+        "가",
+        "서",
+        "살",
+        "고",
+        "싶",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "몇 평짜린데 8억임? 키키",
+      "tokens": [
+        "몇",
+        "평",
+        "짜린데",
+        "VCP",
+        "EC",
+        "8",
+        "억",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "브랜드 있는 아파트는 더 비쌀 듯",
+      "tokens": [
+        "브랜드",
+        "있",
+        "는",
+        "아파트",
+        "는",
+        "더",
+        "비쌀",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "마음 삭 접음",
+      "tokens": [
+        "마음",
+        "삭",
+        "접",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "접을 만한 가격임 키키",
+      "tokens": [
+        "접",
+        "을",
+        "만",
+        "한",
+        "ETM",
+        "가격",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "평수는 못 봄 키키",
+      "tokens": [
+        "평수",
+        "는",
+        "못",
+        "봄",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "제주도 집값 비싸다 비싸다 하더만",
+      "tokens": [
+        "제주도",
+        "집",
+        "값비싸",
+        "다",
+        "비싸",
+        "다",
+        "하",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 작아 보이는데가 그렇다고 쩌네 키키",
+      "tokens": [
+        "아",
+        "작",
+        "아",
+        "보이",
+        "는",
+        "데",
+        "가",
+        "그렇",
+        "다고",
+        "쩌",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "세상 놀랬다니까 진짜 키키",
+      "tokens": [
+        "세상",
+        "놀랬",
+        "EP",
+        "다니까",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 졸 비싸다 덜덜덜덜",
+      "tokens": [
+        "진짜",
+        "졸",
+        "ETM",
+        "비싸",
+        "다",
+        "덜덜덜덜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 제주도 특성상 어쩔 수 없나봄",
+      "tokens": [
+        "키키",
+        "제주도",
+        "특성",
+        "상",
+        "어쩔",
+        "ETM",
+        "수",
+        "없",
+        "나",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그냥 한 동임 작은 아파트 높아보이지도 않고",
+      "tokens": [
+        "그냥",
+        "한",
+        "ETM",
+        "동임",
+        "작",
+        "은",
+        "아파트",
+        "높",
+        "아",
+        "보이",
+        "지",
+        "도",
+        "않",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "대출도 막혔다는데 불가능임",
+      "tokens": [
+        "대출",
+        "도",
+        "막혔",
+        "EP",
+        "다는",
+        "데",
+        "불",
+        "가능",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞다… 대출 막혀서 내 맘도 막막",
+      "tokens": [
+        "맞",
+        "다",
+        "…",
+        "대출막혀서내맘도막막"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "대출 이제 풀리지 않나?",
+      "tokens": [
+        "대출",
+        "이제",
+        "풀리",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_160_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

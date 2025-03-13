@@ -1,0 +1,465 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "서울 여행 가고 싶다",
+      "tokens": [
+        "서울",
+        "여행",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 서울 가고 싶다 나도",
+      "tokens": [
+        "키키",
+        "서울",
+        "가",
+        "고",
+        "싶",
+        "다",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "좋지 ...",
+      "tokens": [
+        "좋",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오랜만에 가는 거다 나도 키키",
+      "tokens": [
+        "오랜만",
+        "에",
+        "가",
+        "는",
+        "거",
+        "다",
+        "EF",
+        "나",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "서울엔 참 맛집이 많아",
+      "tokens": [
+        "서울",
+        "엔",
+        "JX",
+        "참",
+        "맛집",
+        "이",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "거긴 할 게 많음 키키",
+      "tokens": [
+        "거긴",
+        "JX",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "많",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이런 데보다",
+      "tokens": [
+        "이런",
+        "데",
+        "보다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "6월에 다녀오고 몇 개월 만인지",
+      "tokens": [
+        "6",
+        "월",
+        "에",
+        "다녀오",
+        "고",
+        "몇",
+        "개월",
+        "만",
+        "인지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "서울 가면 뭐 할 거냐...",
+      "tokens": [
+        "서울",
+        "가",
+        "면",
+        "뭐",
+        "할",
+        "ETM",
+        "거",
+        "냐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맛집도 많고 놀거리도 많고 볼 꺼도 키키",
+      "tokens": [
+        "맛집",
+        "도",
+        "많",
+        "고",
+        "놀",
+        "ETM",
+        "거리",
+        "도",
+        "많",
+        "고",
+        "볼꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "여자친구가 롯데월드 가고 싶다네",
+      "tokens": [
+        "여자",
+        "친구",
+        "가",
+        "롯데월드",
+        "가",
+        "고",
+        "싶",
+        "다네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맛집 넘 많아...",
+      "tokens": [
+        "맛집",
+        "넘",
+        "많",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 뮤지컬 보고 싶은데 가면 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "뮤지컬",
+        "보",
+        "고",
+        "싶",
+        "은데",
+        "가",
+        "면",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "교복 입고 놀고 싶대;",
+      "tokens": [
+        "교복",
+        "입",
+        "고",
+        "놀",
+        "고",
+        "싶",
+        "대",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "롯데월드 무슨 일...",
+      "tokens": [
+        "롯데월드",
+        "무슨",
+        "일",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "교복?",
+      "tokens": [
+        "교복"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞다 맛집은 다 서울에 있다 키키",
+      "tokens": [
+        "맞",
+        "다",
+        "맛집",
+        "은",
+        "다",
+        "서울",
+        "에",
+        "있",
+        "다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "이번에 엑스칼리버 보고 싶은데 ...",
+      "tokens": [
+        "이번",
+        "에",
+        "엑스칼리버",
+        "보",
+        "고",
+        "싶",
+        "은데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "뮤지컬 키키",
+      "tokens": [
+        "뮤지컬",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "세상에나...",
+      "tokens": [
+        "세상",
+        "에",
+        "나",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "난 이제 나이가 31세라서",
+      "tokens": [
+        "난",
+        "JX",
+        "이제",
+        "나이",
+        "가",
+        "31",
+        "세",
+        "라서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 교복 키키",
+      "tokens": [
+        "아",
+        "교복",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "연애에 진심이네 여친 키키",
+      "tokens": [
+        "연애",
+        "에",
+        "진심",
+        "이",
+        "네",
+        "여친",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "뭔가 거기에 꼽혀서 해야겠다 하더라 키키",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "거기",
+        "에",
+        "꼽혀서",
+        "EC",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

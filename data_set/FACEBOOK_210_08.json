@@ -1,0 +1,395 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "결혼하면 애 걱정 한다니까",
+      "tokens": [
+        "결혼",
+        "하",
+        "면",
+        "애",
+        "걱정",
+        "한다니까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "결혼 아기 자동...",
+      "tokens": [
+        "결혼",
+        "아기",
+        "자동",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 그니까... 형제 하나 있음 좋긴 조아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        ".",
+        "형제",
+        "하",
+        "나",
+        "있",
+        "음",
+        "좋",
+        "긴",
+        "JX",
+        "조아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "*는 둘째 걱정이군...",
+      "tokens": [
+        "*",
+        "는",
+        "둘째",
+        "걱정",
+        "이",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "웅 근데 생각 없어 키키",
+      "tokens": [
+        "웅",
+        "근데",
+        "생각",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "둘째도 한번 생각해바 바.",
+      "tokens": [
+        "둘째",
+        "도",
+        "한",
+        "번",
+        "생각",
+        "해",
+        "EC",
+        "바바"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 추천함",
+      "tokens": [
+        "나",
+        "는",
+        "추천",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "여동생은 아주 별로인 듯",
+      "tokens": [
+        "여동생",
+        "은",
+        "아주",
+        "별로",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "둘째... 자신이 없네요...",
+      "tokens": [
+        "둘째",
+        ".",
+        "자신",
+        "이",
+        "없",
+        "네요",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맨날 싸우고 해도... 행님 있는 게 좋다",
+      "tokens": [
+        "맨날",
+        "싸우",
+        "고",
+        "해도",
+        "EF",
+        ".",
+        "행",
+        "님",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오빠가 있는데 정말 별로얌",
+      "tokens": [
+        "오빠",
+        "가",
+        "있",
+        "는데",
+        "정말",
+        "별로",
+        "얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 키워보면 그게 생각이 달라져",
+      "tokens": [
+        "근데",
+        "키워",
+        "EC",
+        "보",
+        "면",
+        "그게",
+        "JKS",
+        "생각",
+        "이",
+        "달라져",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "하나 키우면서 같이 키우는 거지 뭐",
+      "tokens": [
+        "하나",
+        "키우",
+        "면서",
+        "같이",
+        "키우",
+        "는",
+        "거",
+        "지",
+        "EF",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "행님 있는 게 나을 듯",
+      "tokens": [
+        "행",
+        "님",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "나을",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 차라리 위가 나은 듯",
+      "tokens": [
+        "응",
+        "차라리",
+        "위",
+        "가",
+        "나",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "돈이 좀 문제일려나...",
+      "tokens": [
+        "돈",
+        "이",
+        "좀",
+        "문제",
+        "일",
+        "려나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "초등학생 때쯤 어떰?",
+      "tokens": [
+        "초등학생때쯤어떰"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "돈 보다는 나는 힘듬이 무섭 ㅠ",
+      "tokens": [
+        "돈",
+        "보다",
+        "는",
+        "나",
+        "는",
+        "힘",
+        "듬",
+        "이",
+        "무섭",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그때 엄청 맞지...",
+      "tokens": [
+        "그때",
+        "엄청",
+        "맞",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "행님 사춘기자네",
+      "tokens": [
+        "행",
+        "님",
+        "사춘기",
+        "자",
+        "네",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "어제 케이크만 먹어서 그런 가 아침에 배가 너무 아팠음!",
+      "tokens": [
+        "어제",
+        "케이크",
+        "만",
+        "먹",
+        "어서",
+        "그런가",
+        "EC",
+        "아침",
+        "에",
+        "배",
+        "가",
+        "너무",
+        "아팠",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "너 요즘 밥 잘 안 챙겨 먹어?",
+      "tokens": [
+        "너",
+        "요즘",
+        "밥",
+        "잘",
+        "안",
+        "챙겨",
+        "EC",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그냥 집에 있는 거 먹으려고 하는데 마침 케이크가 있었어!",
+      "tokens": [
+        "그냥",
+        "집",
+        "에",
+        "있",
+        "는",
+        "거",
+        "먹",
+        "으려고",
+        "하",
+        "는데",
+        "마침",
+        "케이크",
+        "가",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "몸이 좀 이상하면 병원 가봐!",
+      "tokens": [
+        "몸",
+        "이",
+        "좀",
+        "이상",
+        "하",
+        "면",
+        "병원",
+        "가",
+        "EC",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "일단 화장실에서 비워냈긴 했거든 키키",
+      "tokens": [
+        "일단",
+        "화장실",
+        "에서",
+        "비워냈",
+        "EC",
+        "VX",
+        "EP",
+        "긴",
+        "JX",
+        "했",
+        "EP",
+        "거든",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 아니면 이참에 식단 조절 해보는 거 어때?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "면",
+        "이",
+        "참",
+        "에",
+        "식단",
+        "조절",
+        "해",
+        "EC",
+        "보",
+        "는",
+        "거",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 나는 체력이 딸려서 하루에 한 끼는 꼭 밥 먹어야 해!",
+      "tokens": [
+        "아",
+        "나",
+        "는",
+        "체력",
+        "이",
+        "딸려서",
+        "EC",
+        "하루",
+        "에",
+        "한",
+        "끼",
+        "는",
+        "꼭",
+        "밥",
+        "먹",
+        "어야",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 아니면 pt를 신청해서 해봐",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "면",
+        "pt",
+        "를",
+        "신청",
+        "해서",
+        "EC",
+        "해",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "지금 피티 다닐 시간이 없어서 나도 다니고 싶은데 못 다니고 있어 ㅜ",
+      "tokens": [
+        "지금",
+        "피티",
+        "다닐",
+        "ETM",
+        "시간",
+        "이",
+        "없",
+        "어서",
+        "나",
+        "도",
+        "다니",
+        "고",
+        "싶",
+        "은데",
+        "못",
+        "다니",
+        "고",
+        "있",
+        "어",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 전에도 숨쉬기 운동만 한다며!",
+      "tokens": [
+        "키",
+        "키",
+        "전",
+        "에",
+        "도",
+        "숨쉬기",
+        "운동",
+        "만",
+        "한다며",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아앗 키키",
+      "tokens": [
+        "아앗",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "숨쉬기 운동이 얼마나 힘든 건데~",
+      "tokens": [
+        "숨쉬기",
+        "운동",
+        "이",
+        "얼마나",
+        "힘든",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "다음 주에 나랑 같이 운동가자",
+      "tokens": [
+        "다음",
+        "주",
+        "에",
+        "나",
+        "랑",
+        "같이",
+        "운동가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 언니랑 나랑 체력 차이 많이 나는 거 알지?",
+      "tokens": [
+        "키",
+        "키",
+        "언니",
+        "랑",
+        "나",
+        "랑",
+        "체력",
+        "차이",
+        "많이",
+        "나",
+        "는",
+        "거",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "살살 해야 해~",
+      "tokens": [
+        "살살",
+        "해야",
+        "EC",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내가 너한테 무조건 맞춰줄게~",
+      "tokens": [
+        "내",
+        "가",
+        "너",
+        "한테",
+        "무조건",
+        "맞춰줄",
+        "EC",
+        "VX",
+        "ETM",
+        "게",
+        "JKS",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 오 좋지!",
+      "tokens": [
+        "키",
+        "키",
+        "오",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러고 맛있는 거 먹으러 가쟈~",
+      "tokens": [
+        "그러",
+        "고",
+        "맛있",
+        "는",
+        "거",
+        "먹",
+        "으러",
+        "가",
+        "쟈",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래 키키",
+      "tokens": [
+        "그래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "운동복 꼭 챙겨와",
+      "tokens": [
+        "운동복",
+        "꼭",
+        "챙겨와",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

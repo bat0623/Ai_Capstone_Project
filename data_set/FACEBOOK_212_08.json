@@ -1,0 +1,380 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**아 결혼 준비 하느라 힘들지?",
+      "tokens": [
+        "*",
+        "*",
+        "아",
+        "결혼",
+        "준비",
+        "하",
+        "느라",
+        "힘들",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 넘나 하기 싫다 결혼",
+      "tokens": [
+        "응",
+        "넘",
+        "나",
+        "하",
+        "기",
+        "싫",
+        "다",
+        "결혼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "결혼식 과정 유튜브 생중계 되는 세상이란다",
+      "tokens": [
+        "결혼식",
+        "과정",
+        "유튜브",
+        "생",
+        "중계",
+        "되",
+        "는",
+        "세상",
+        "이",
+        "란다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "내가 다음 주부터는 심층 고민 들어줄게",
+      "tokens": [
+        "내",
+        "가",
+        "다음",
+        "주",
+        "부터",
+        "는",
+        "심층",
+        "고민",
+        "들어줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이런 건줄 누가 알았어...",
+      "tokens": [
+        "이런",
+        "건",
+        "JX",
+        "줄",
+        "ETM",
+        "누가",
+        "JKS",
+        "알",
+        "았",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 결혼식 안 할 예정",
+      "tokens": [
+        "난",
+        "JX",
+        "결혼식",
+        "안",
+        "할",
+        "ETM",
+        "예정"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "사람이 들어만 줘도 속이 풀리잖니",
+      "tokens": [
+        "사람",
+        "이",
+        "들",
+        "어",
+        "만",
+        "줘도",
+        "EC",
+        "속",
+        "이",
+        "풀리",
+        "잖니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "증말 신경 쓸 거 천지네...",
+      "tokens": [
+        "증말",
+        "신경",
+        "쓸",
+        "ETM",
+        "거",
+        "천지",
+        "네",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 스트레스 원천 차단 주의자라서",
+      "tokens": [
+        "난",
+        "JX",
+        "스트레스",
+        "원천",
+        "차단",
+        "주의자",
+        "라서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 너의 대나무 밭이얌",
+      "tokens": [
+        "나",
+        "는",
+        "너",
+        "의",
+        "대나무",
+        "밭",
+        "이얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그게 맘대로 안된다니까 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "맘대로",
+        "안",
+        "된다니까",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "대나무밭이 무슨 의미임?",
+      "tokens": [
+        "대나무",
+        "밭",
+        "이",
+        "무슨",
+        "의미",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "결혼식 안 한다고?  왜?",
+      "tokens": [
+        "결혼식",
+        "안",
+        "한다고",
+        "EF",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "부모님 결혼식임 이거는 키키",
+      "tokens": [
+        "부모",
+        "님",
+        "결혼식",
+        "임",
+        "ETN",
+        "이거",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "**아 청소기 어떤 거 쓰냐",
+      "tokens": [
+        "*",
+        "*",
+        "아",
+        "청소기",
+        "어떤",
+        "거",
+        "쓰",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 마즘",
+      "tokens": [
+        "키키마즘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "부모님 결혼식임 키키",
+      "tokens": [
+        "부모",
+        "님",
+        "결혼식",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내 의지로 결정하는 게 아님 키키",
+      "tokens": [
+        "내",
+        "JKG",
+        "의지",
+        "로",
+        "결정",
+        "하",
+        "는",
+        "게",
+        "JKC",
+        "아님",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 결혼식 안 하기로 키키 이미 마음 먹었어",
+      "tokens": [
+        "난",
+        "JX",
+        "결혼식",
+        "안",
+        "하",
+        "기",
+        "로",
+        "키",
+        "키",
+        "이미",
+        "마음먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

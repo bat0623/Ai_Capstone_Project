@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아이고 다이어트 약 그거봤냐",
+      "tokens": [
+        "아이고",
+        "다이어트",
+        "약",
+        "그거",
+        "봤",
+        "EP",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 나비약 먹지마 절대",
+      "tokens": [
+        "그니까",
+        "나",
+        "비약",
+        "먹",
+        "지",
+        "마",
+        "EC",
+        "절대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "엉 그알 말하는 거제? 키키",
+      "tokens": [
+        "엉",
+        "그",
+        "알",
+        "말",
+        "하",
+        "는",
+        "거",
+        "제",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그알에서 하는 거!",
+      "tokens": [
+        "그",
+        "알",
+        "에서",
+        "하",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "중독 되고 완젼 엑스야",
+      "tokens": [
+        "중독",
+        "되",
+        "고",
+        "완",
+        "젼",
+        "엑스",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "웅 나는 그냥 듣기만 했음!",
+      "tokens": [
+        "웅",
+        "나",
+        "는",
+        "그냥",
+        "듣",
+        "기",
+        "만",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그 병원이 대전 아냐?",
+      "tokens": [
+        "그",
+        "병원",
+        "이",
+        "대전",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "환청 들리고 막 그런데 ㅠㅠ",
+      "tokens": [
+        "환청",
+        "들리",
+        "고",
+        "막",
+        "그런데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 진짜? 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 약 타러 대전온댜",
+      "tokens": [
+        "근데",
+        "약",
+        "타",
+        "러",
+        "대전",
+        "온댜",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엉 완전 정신병자 되고 ㅠ 조현병",
+      "tokens": [
+        "엉",
+        "완전",
+        "정신병자",
+        "되",
+        "고",
+        "ㅠ조",
+        "현병"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 대전에 무슨 병원 있었어",
+      "tokens": [
+        "맞",
+        "아",
+        "대전",
+        "에",
+        "무슨",
+        "병원",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니 부작용이 심하대...키키 무서워",
+      "tokens": [
+        "아니",
+        "부작용",
+        "이",
+        "심하",
+        "대",
+        ".",
+        "키",
+        "키",
+        "ETN",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까 완전 새벽부터 줄 서더라",
+      "tokens": [
+        "그니까",
+        "완전",
+        "새벽",
+        "부터",
+        "줄서",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그 의사 부자겠다 하하",
+      "tokens": [
+        "그",
+        "의사",
+        "부자",
+        "겠",
+        "EP",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 그니까 근데 갈 사람들 계속 갈듯",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "근데",
+        "갈",
+        "ETM",
+        "사람",
+        "들",
+        "계속",
+        "갈",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "텐트치고 기다리고 그러드라..",
+      "tokens": [
+        "텐트",
+        "치",
+        "고",
+        "기다리",
+        "고",
+        "그러",
+        "드라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "줄을 그리 서있으니 돈많이 벌듯",
+      "tokens": [
+        "줄",
+        "을",
+        "그리",
+        "서",
+        "있",
+        "으니",
+        "돈",
+        "많이",
+        "벌",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "ㅋㅋㅋㅋㅋㅋ그니까 부자되것네",
+      "tokens": [
+        "ㅋㅋ",
+        "ㅋㅋ",
+        "ㅋㅋ",
+        "그니까",
+        "부자",
+        "되",
+        "것",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

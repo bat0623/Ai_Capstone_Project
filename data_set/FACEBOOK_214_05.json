@@ -1,0 +1,448 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 의외로 군필임",
+      "tokens": [
+        "*",
+        "*",
+        "의외",
+        "로",
+        "군필",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그게 왜 의외얔 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "왜",
+        "의외",
+        "얔키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "마쟈...",
+      "tokens": [
+        "마",
+        "쟈",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "의경도 군인이까...",
+      "tokens": [
+        "의경",
+        "도",
+        "군인",
+        "이",
+        "까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그게 진짜 신기함",
+      "tokens": [
+        "그게",
+        "JKS",
+        "진짜",
+        "신기",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 당연할 거라 생각했는데 키키",
+      "tokens": [
+        "나",
+        "는",
+        "당연",
+        "할거",
+        "ETM",
+        "NNB",
+        "VCP",
+        "라",
+        "생각",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 왜.... 나도 철들었는데",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        ".",
+        ".",
+        "나",
+        "도",
+        "철들",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "** 만나봐 봐",
+      "tokens": [
+        "*",
+        "*",
+        "만나",
+        "EC",
+        "봐",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 나약하거든",
+      "tokens": [
+        "진짜",
+        "나약",
+        "하",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 의경으로 갔구나 키키",
+      "tokens": [
+        "아",
+        "의경",
+        "으로",
+        "갔",
+        "EP",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 그건 맞다...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그건",
+        "JX",
+        "맞",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "ㅋㅋㅋ그건 맞다..정신력이 약해빠졋어",
+      "tokens": [
+        "ㅋㅋㅋ그건맞다",
+        ".",
+        "정신력",
+        "이",
+        "약해",
+        "EC",
+        "빠졋",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "**가 2년 동안 어떻게 거기를 견뎠지...",
+      "tokens": [
+        "*",
+        "*",
+        "가",
+        "2",
+        "년",
+        "동안",
+        "어떻게",
+        "거기",
+        "를",
+        "견뎠",
+        "EP",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "의경은 나름 나약한 건가... 키키",
+      "tokens": [
+        "의경",
+        "은",
+        "나름",
+        "나약",
+        "한",
+        "ETM",
+        "건가",
+        "VCP",
+        "EF",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "거기서 좀 더 단련하고 나왔어야 했는디",
+      "tokens": [
+        "거기",
+        "서",
+        "좀",
+        "더",
+        "단련",
+        "하",
+        "고",
+        "나왔",
+        "EP",
+        "어야",
+        "했",
+        "EP",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나보다 더 나약해 난 미필인디",
+      "tokens": [
+        "나",
+        "보다",
+        "더",
+        "나약",
+        "해",
+        "EC",
+        "난",
+        "ETM",
+        "미필",
+        "인디",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래도 군필자는 대단하지 하하",
+      "tokens": [
+        "그래도",
+        "군",
+        "필자",
+        "는",
+        "대단",
+        "하",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 **보다는 강력할 거 같은데...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "보다",
+        "는",
+        "강력",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "한번 대결 해보까",
+      "tokens": [
+        "한",
+        "번",
+        "대결",
+        "해",
+        "EC",
+        "보",
+        "까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나약한 ** 자식...",
+      "tokens": [
+        "나약",
+        "한",
+        "ETM",
+        "*",
+        "*",
+        "자식",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "의경은 뭐가 젤 장점임?",
+      "tokens": [
+        "의경",
+        "은",
+        "뭐",
+        "가",
+        "젤",
+        "장점",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "의경은 휴가도 많고 사회랑 인접한 게 장점데스",
+      "tokens": [
+        "의경",
+        "은",
+        "휴가",
+        "도",
+        "많",
+        "고",
+        "사회",
+        "랑",
+        "인접",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "장점",
+        "데스"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

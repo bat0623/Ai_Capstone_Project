@@ -1,0 +1,380 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 나 발난로 샀는데 이거 진짜 좋음...",
+      "tokens": [
+        "*",
+        "*",
+        "나",
+        "발난",
+        "로",
+        "샀",
+        "EP",
+        "는데",
+        "이거",
+        "진짜",
+        "좋",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "발난로 좋아?",
+      "tokens": [
+        "발난",
+        "로",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 안해봄",
+      "tokens": [
+        "난",
+        "JX",
+        "안",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 뭔데 추천해져바",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "뭔데",
+        "VCP",
+        "EC",
+        "추천",
+        "해져",
+        "EC",
+        "VX",
+        "EC",
+        "바"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너도 하나 사라...",
+      "tokens": [
+        "너",
+        "도",
+        "하나",
+        "사라",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "빌려주지도 않아 하하 지만 씀",
+      "tokens": [
+        "빌려",
+        "EC",
+        "주",
+        "지",
+        "도",
+        "않",
+        "아하",
+        "하",
+        "지만",
+        "씀",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "수족냉증에 효과있음? 키키",
+      "tokens": [
+        "수족",
+        "냉증",
+        "에",
+        "효과",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "발 하나도 안시려.",
+      "tokens": [
+        "발",
+        "하나",
+        "도",
+        "안",
+        "시려",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "** 수족냉증임?",
+      "tokens": [
+        "*",
+        "*",
+        "수족",
+        "냉증",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 빌려주지도 않ㄴ는뎈 키키 나도 수족냉증임",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "빌려",
+        "EC",
+        "주",
+        "지",
+        "도",
+        "않",
+        "ㄴ",
+        "는",
+        "뎈키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "수족",
+        "냉증",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "완전 효과 있어...!",
+      "tokens": [
+        "완전",
+        "효과",
+        "있",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 힘들겠다 ㅠㅠ 그거",
+      "tokens": [
+        "헐",
+        "JKO",
+        "힘들",
+        "겠",
+        "다",
+        "ㅠㅠ",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요오오 아니 근데 발에 땀찰듯 키키",
+      "tokens": [
+        "요",
+        "오오",
+        "아니",
+        "근데",
+        "발",
+        "에",
+        "땀",
+        "찰",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오빠는 발이 안 시리잖슴...",
+      "tokens": [
+        "오빠는발이안시리잖슴",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 왤케 따심?",
+      "tokens": [
+        "난왤케따심"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 웃갸 한짝씩 나눠쓰셈",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "웃갸",
+        "한",
+        "짝",
+        "씩",
+        "나눠",
+        "EC",
+        "쓰",
+        "셈"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아니 발에 끼고 그런게 아냐 키키",
+      "tokens": [
+        "아니",
+        "발",
+        "에",
+        "끼",
+        "고",
+        "그런",
+        "게",
+        "JKC",
+        "아냐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 몸이 따뜻해 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "몸",
+        "이",
+        "따뜻",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그럼 뭔뎈 키키 어케 쓰는 건데",
+      "tokens": [
+        "그럼",
+        "뭔",
+        "JX",
+        "뎈키",
+        "키어",
+        "케",
+        "EC",
+        "쓰",
+        "는",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

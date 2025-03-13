@@ -1,0 +1,437 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 오늘은 서든어택 하자",
+      "tokens": [
+        "우리",
+        "오늘",
+        "은",
+        "서든",
+        "어택",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 메이플이 너무 재밌어",
+      "tokens": [
+        "요즘",
+        "에",
+        "메이플",
+        "이",
+        "너무",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "킹든갓택?",
+      "tokens": [
+        "킹든갓택"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그거 진짜 추억의 게임이라고 생각해!",
+      "tokens": [
+        "그거",
+        "진짜",
+        "추억",
+        "의",
+        "게임",
+        "이",
+        "라고",
+        "생각",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "총싸움이 너무 하고 싶어 오늘",
+      "tokens": [
+        "총싸움",
+        "이",
+        "너무",
+        "하",
+        "고",
+        "싶",
+        "어",
+        "오늘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "서든어택은 핵이 너무 많아",
+      "tokens": [
+        "서든",
+        "어택",
+        "은",
+        "핵",
+        "이",
+        "너무",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 칼싸움이 더 재밌는 거 같아",
+      "tokens": [
+        "난",
+        "JX",
+        "칼싸움",
+        "이",
+        "더",
+        "재밌",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 오늘 스나를 할 거야 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "스나",
+        "를",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나는 서든하면 핵으로 의심을 받어",
+      "tokens": [
+        "나",
+        "는",
+        "서든",
+        "하",
+        "면",
+        "핵",
+        "으로",
+        "의심",
+        "을",
+        "받",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 라플을 들게",
+      "tokens": [
+        "난",
+        "JX",
+        "라",
+        "EC",
+        "플",
+        "을",
+        "들",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "숏 보면 되지?",
+      "tokens": [
+        "숏",
+        "보",
+        "면",
+        "되",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "칼전하자 그럼",
+      "tokens": [
+        "칼",
+        "전하",
+        "자",
+        "그럼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너무 좋지 키키",
+      "tokens": [
+        "너무",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "칼전은 몽키가든이 국룰이지",
+      "tokens": [
+        "칼",
+        "전",
+        "은",
+        "몽키",
+        "가",
+        "든",
+        "ETM",
+        "이국",
+        "룰",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "내가 소싯적에 칼클이었어",
+      "tokens": [
+        "내",
+        "가",
+        "소싯적",
+        "에",
+        "칼",
+        "클",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "개구멍에서 횟집 장사를 하던 실력이지",
+      "tokens": [
+        "개구멍",
+        "에서",
+        "횟집",
+        "장사",
+        "를",
+        "하",
+        "던",
+        "실력",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "라플은 너무 힘들더라구 ㅠㅠ",
+      "tokens": [
+        "라",
+        "플",
+        "은",
+        "너무",
+        "힘들",
+        "더라구",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "매드케이지 하는 애기들은 없지?",
+      "tokens": [
+        "매드",
+        "케이지",
+        "하",
+        "는",
+        "애기",
+        "들",
+        "은",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "상대방 누구한테 죽으면 음료수 사기 이런 내기 하면 재밌어",
+      "tokens": [
+        "상대방",
+        "누구",
+        "한테",
+        "죽",
+        "으면",
+        "음료수",
+        "사기",
+        "이런",
+        "내기",
+        "하",
+        "면",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "몽키가든 진짜 재밌지 키키",
+      "tokens": [
+        "몽키",
+        "가든",
+        "진짜",
+        "재밌",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "라플을 들어도 나는 스나같이 정확함이 있었어",
+      "tokens": [
+        "라",
+        "플",
+        "을",
+        "들어도",
+        "EC",
+        "나",
+        "는",
+        "스나",
+        "같이",
+        "정확",
+        "함",
+        "ETN",
+        "이",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "난 에이보급이 주력맵이야",
+      "tokens": [
+        "난",
+        "JX",
+        "에이",
+        "보급",
+        "이",
+        "주력",
+        "맵",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

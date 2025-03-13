@@ -1,0 +1,335 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여행가면 맛집을 꼭 가고 싶어",
+      "tokens": [
+        "여행",
+        "가",
+        "면",
+        "맛집",
+        "을",
+        "꼭",
+        "가",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맛집은 꼭 가야지 하하",
+      "tokens": [
+        "맛집",
+        "은",
+        "꼭",
+        "가",
+        "야",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맛집보고 여행가는 사람인데",
+      "tokens": [
+        "맛집",
+        "보고",
+        "여행가",
+        "는",
+        "사람",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맛집 찾는 게 일이야",
+      "tokens": [
+        "맛집",
+        "찾",
+        "는",
+        "게",
+        "JKS",
+        "일",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "남해 힙한식 언제가냐",
+      "tokens": [
+        "남해",
+        "힙",
+        "한식",
+        "언제",
+        "가",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 맛집 찾아서 여행 떠나거든요",
+      "tokens": [
+        "키",
+        "키",
+        "맛집",
+        "찾",
+        "아서",
+        "여행",
+        "떠나",
+        "거든요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 맛집 여행 좋아해!",
+      "tokens": [
+        "난",
+        "JX",
+        "맛집",
+        "여행",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "갈 수가 없다 거긴 ㅠㅠ",
+      "tokens": [
+        "갈",
+        "ETM",
+        "수",
+        "가",
+        "없",
+        "다",
+        "거긴",
+        "JX",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "힙한식은 어디예요?키키 남해",
+      "tokens": [
+        "힙",
+        "한식",
+        "은",
+        "어디",
+        "예요",
+        "EF",
+        "키",
+        "키",
+        "남",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니까 남해 여행 넘 인기라서...",
+      "tokens": [
+        "그니까남해여행넘인기라서",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "남해에 완젼 인기 맛집 하하",
+      "tokens": [
+        "남해",
+        "에",
+        "완",
+        "EF",
+        "젼",
+        "인기",
+        "맛",
+        "집하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "핫플이라서 ㅠㅠ 못 가는건가요?",
+      "tokens": [
+        "핫",
+        "플",
+        "이",
+        "라서",
+        "ㅠㅠ",
+        "못",
+        "가",
+        "는",
+        "건가요",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그 집 갈 수 가 없어",
+      "tokens": [
+        "그",
+        "집",
+        "갈",
+        "ETM",
+        "수",
+        "가",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아침에 마감됨 ㅠㅠ",
+      "tokens": [
+        "아침에마감됨ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아 ~ 남해 요즘 사람 많아요",
+      "tokens": [
+        "아",
+        "~",
+        "남해요즘사람많아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우리 가기 전에 관두면 안되는디...",
+      "tokens": [
+        "우리",
+        "가",
+        "기전",
+        "에",
+        "관두",
+        "면",
+        "안",
+        "되",
+        "는디",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "ㅇ심지어 예약도 안됨 하하",
+      "tokens": [
+        "ㅇ",
+        "심지어",
+        "예약",
+        "도",
+        "안",
+        "됨",
+        "ETN",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "헐 아침에 예약 마감?...",
+      "tokens": [
+        "헐",
+        "아침",
+        "에",
+        "예약",
+        "마감",
+        "?",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

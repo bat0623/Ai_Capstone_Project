@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 엄마랑 어쩌다가 싸우게 돼?",
+      "tokens": [
+        "언니",
+        "는",
+        "엄마",
+        "랑",
+        "어쩌다가",
+        "싸우",
+        "게",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 엄마랑 붙어만 있으면 싸워",
+      "tokens": [
+        "나",
+        "는",
+        "엄마",
+        "랑",
+        "붙",
+        "어만",
+        "있",
+        "으면",
+        "싸워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 우리 엄마가 맨날 나한테 짜증 내는 거 같음!",
+      "tokens": [
+        "나",
+        "는",
+        "우리",
+        "엄마",
+        "가",
+        "맨날",
+        "나",
+        "한테",
+        "짜증",
+        "내",
+        "는",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 또 엄청 친해 근데 엄청 싸움",
+      "tokens": [
+        "근데",
+        "또",
+        "엄청",
+        "친해",
+        "EP",
+        "근데",
+        "엄청",
+        "싸움"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "막 싸우다가 밥 뭐 먹을래? 하면 풀리잖아",
+      "tokens": [
+        "막",
+        "싸우",
+        "다가",
+        "밥",
+        "뭐",
+        "먹",
+        "을래",
+        "하",
+        "면",
+        "풀리",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 맞아 맞아 딸이랑 엄마는 다 그런가봐",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "맞",
+        "아",
+        "딸",
+        "이랑",
+        "엄마",
+        "는",
+        "다",
+        "그런가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 맞아 지금은 우리 언니랑 엄마랑 티격태격댐 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아",
+        "지금",
+        "은",
+        "우리",
+        "언니",
+        "랑",
+        "엄마",
+        "랑",
+        "티격태격",
+        "댐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 왜? 자주 싸우지?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "자주",
+        "싸우",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나돈데",
+      "tokens": [
+        "나돈",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "지금 둘이 붙어 있으니까~ 같이 살잖아!",
+      "tokens": [
+        "지금",
+        "둘",
+        "이",
+        "붙",
+        "어",
+        "있",
+        "으니까",
+        "~",
+        "같이",
+        "살",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 맞아 엄마가 그래서 나한테도 우린 붙어살면 안된데 맬",
+      "tokens": [
+        "아",
+        "맞",
+        "아",
+        "엄마",
+        "가",
+        "그래서",
+        "나",
+        "한테",
+        "도",
+        "우린",
+        "JX",
+        "붙어살",
+        "면",
+        "안",
+        "된",
+        "ETM",
+        "데",
+        "맬",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 아니 솔직히 엄마가 먼저 짜증내서 우리도 짜증내게 되는 거잖아~",
+      "tokens": [
+        "키키아니솔직히엄마가먼저짜증내서우리도짜증내게되는거잖아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 그래서 말대꾸 하면 싸가지 없다하지",
+      "tokens": [
+        "맞아",
+        "그래서",
+        "말대꾸",
+        "하",
+        "면",
+        "싸가지",
+        "없",
+        "다",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 그리고 등짝 스매칭 오져!",
+      "tokens": [
+        "나",
+        "는",
+        "그리고",
+        "등짝",
+        "스",
+        "매칭",
+        "오",
+        "져",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 난 머리도 엄청 잡혀봄,",
+      "tokens": [
+        "키키난머리도엄청잡혀봄",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "헐 키키 실화야?",
+      "tokens": [
+        "헐",
+        "키",
+        "키",
+        "실화",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "머리 많이 안 뽑혔어?",
+      "tokens": [
+        "머리",
+        "많이",
+        "안",
+        "뽑혔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "어 엄청 싸운다니까 진짜",
+      "tokens": [
+        "어",
+        "엄청",
+        "싸운다",
+        "EC",
+        "니까",
+        "EC",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_113_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 결혼식에 나 오열 했잖아 ㅠㅠ",
+      "tokens": [
+        "*",
+        "*",
+        "결혼식에나오열했잖아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오빠 여자친구 있어여 키키 ?",
+      "tokens": [
+        "오빠",
+        "여자",
+        "친구",
+        "있",
+        "어여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "헐 ... 결혼했어?",
+      "tokens": [
+        "헐",
+        ".",
+        "결혼",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "부럽당",
+      "tokens": [
+        "부럽",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오빠 여자친구 웨딩 플래너야...",
+      "tokens": [
+        "오빠",
+        "여자",
+        "친구",
+        "웨딩",
+        "플래너",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 미친듯이 울었음 키키",
+      "tokens": [
+        "진짜",
+        "미친",
+        "ETM",
+        "듯이",
+        "울",
+        "었",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 여자친구 있어 ...",
+      "tokens": [
+        "나",
+        "여자",
+        "친구",
+        "있",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "연애한 지 10년째임",
+      "tokens": [
+        "연애",
+        "한지",
+        "EC",
+        "10",
+        "년",
+        "째",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이거 혹시 비밀임?",
+      "tokens": [
+        "이거",
+        "혹시",
+        "비밀",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요즘 결혼식 대세에여 키키",
+      "tokens": [
+        "요즘",
+        "결혼식",
+        "대세",
+        "에",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아직 결혼을 못하겠다 ...",
+      "tokens": [
+        "아직",
+        "결혼",
+        "을",
+        "못",
+        "하",
+        "겠",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "결혼식 대세가 모야",
+      "tokens": [
+        "결혼식",
+        "대세",
+        "가",
+        "모야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "10년째 연애 소름",
+      "tokens": [
+        "10",
+        "년",
+        "째",
+        "연애",
+        "소름"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "기반이 너무 안 잡혀있어",
+      "tokens": [
+        "기반",
+        "이",
+        "너무",
+        "안",
+        "잡혀",
+        "EC",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "10년 째 연애 하면 어떤 느낌일까",
+      "tokens": [
+        "10",
+        "년",
+        "째",
+        "연애",
+        "하",
+        "면",
+        "어떤",
+        "느낌",
+        "일까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아니 결혼 다 했길래 키키",
+      "tokens": [
+        "아니",
+        "결혼",
+        "다",
+        "했",
+        "EP",
+        "길래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "결혼식만 올리고 끝이 아니잖아 ...",
+      "tokens": [
+        "결혼식",
+        "만",
+        "올리",
+        "고",
+        "끝",
+        "이",
+        "아니",
+        "잖아",
+        "VX",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "얘도 키워야 될 거고 ...",
+      "tokens": [
+        "얘",
+        "도",
+        "키워야",
+        "EC",
+        "될",
+        "ETM",
+        "거",
+        "고",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나도 결혼은 했어",
+      "tokens": [
+        "나",
+        "도",
+        "결혼",
+        "은",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 ㅜㅜ",
+      "tokens": [
+        "진짜ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "기반을 다지고는 못해여",
+      "tokens": [
+        "기반",
+        "을",
+        "다지",
+        "고는",
+        "못해",
+        "EC",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 ** 너 애기 언제 낳을 거야",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "너",
+        "애기",
+        "언제",
+        "낳",
+        "을",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

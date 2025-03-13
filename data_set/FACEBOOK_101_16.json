@@ -1,0 +1,469 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 탈색은 해 봤어?",
+      "tokens": [
+        "언니",
+        "탈색",
+        "은",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 나 탈색 좀 많이 해",
+      "tokens": [
+        "웅",
+        "나",
+        "탈색",
+        "좀",
+        "많이",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어떤 색 해 봤어?",
+      "tokens": [
+        "어떤",
+        "색",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 근데 밝은 색 아니고 검정으로 해가지고 탈색을 하지",
+      "tokens": [
+        "나",
+        "는",
+        "근데",
+        "밝은색",
+        "아니",
+        "고",
+        "검정",
+        "으로",
+        "해",
+        "EC",
+        "가지",
+        "고",
+        "탈색",
+        "을",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그렇게 하면 어떤 색이 나와?",
+      "tokens": [
+        "그렇게",
+        "하",
+        "면",
+        "어떤",
+        "색",
+        "이",
+        "나와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그냥 갈색을 하려고 해도 탈색을 해야 해",
+      "tokens": [
+        "그냥",
+        "갈색",
+        "을",
+        "하",
+        "려고",
+        "해도",
+        "EC",
+        "탈색",
+        "을",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "신기하네!",
+      "tokens": [
+        "신기",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "지금은 머리 무슨 색이야?",
+      "tokens": [
+        "지금",
+        "은",
+        "머리",
+        "무슨",
+        "색",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "지금 머리 검정색 또 탈색해야겠지",
+      "tokens": [
+        "지금",
+        "머리",
+        "검정",
+        "색",
+        "또",
+        "탈색",
+        "해야",
+        "EC",
+        "겠지",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 나도 너무 하고 싶다",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "너무",
+        "하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나는 분홍머리 해 봤다!",
+      "tokens": [
+        "나",
+        "는",
+        "분홍",
+        "머리",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "와 분홍색?",
+      "tokens": [
+        "와분",
+        "홍색"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "어땠어?",
+      "tokens": [
+        "어땠어",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "신기해 키키",
+      "tokens": [
+        "신기",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이게 보라색에서 분홍색으로 빠지는 건데 애들도 엄청 예쁘다고 했어!",
+      "tokens": [
+        "이게",
+        "JKS",
+        "보라색",
+        "에서",
+        "분홍색",
+        "으로",
+        "빠지",
+        "는",
+        "건데",
+        "VCP",
+        "EC",
+        "애",
+        "들",
+        "도",
+        "엄청",
+        "예쁘",
+        "다고",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "와 검정머리 나올 때 좀 별로지?",
+      "tokens": [
+        "와",
+        "검정",
+        "머리",
+        "나올",
+        "ETM",
+        "때",
+        "좀",
+        "별로",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "진짜 짜증났어, ,",
+      "tokens": [
+        "진짜",
+        "짜증",
+        "났",
+        "EP",
+        "어",
+        ",",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "유지 비용도 장난 아니잖아!",
+      "tokens": [
+        "유지",
+        "비용",
+        "도",
+        "장난",
+        "아니",
+        "잖아",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 머릿결 많이 안 상했어?",
+      "tokens": [
+        "키",
+        "키",
+        "머릿결",
+        "많이",
+        "안",
+        "상했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그때 엄청 좋은 탈색제로 써서 두피도 안 아팠고 나는 괜찮았어!",
+      "tokens": [
+        "그때",
+        "엄청",
+        "좋",
+        "은",
+        "탈색제",
+        "로",
+        "써서",
+        "EC",
+        "두피",
+        "도",
+        "안",
+        "아팠",
+        "EP",
+        "고",
+        "나",
+        "는",
+        "괜찮",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "지금은 머리 무슨 색인데 키키",
+      "tokens": [
+        "지금",
+        "은",
+        "머리",
+        "무슨",
+        "색",
+        "인데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

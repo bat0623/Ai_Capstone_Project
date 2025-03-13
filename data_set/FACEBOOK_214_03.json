@@ -1,0 +1,479 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 캐스퍼 오늘 왔댕",
+      "tokens": [
+        "*",
+        "*",
+        "캐스퍼오늘왔댕"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐헐 주문했다고? ㄷㄷ",
+      "tokens": [
+        "헐헐",
+        "주문",
+        "했",
+        "EP",
+        "다고",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "쿄쿄 부럽지?",
+      "tokens": [
+        "쿄",
+        "쿄",
+        "부럽",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "완전 때깔 곱다규",
+      "tokens": [
+        "완전때깔곱다규"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "썬팅도 다 끝냈구",
+      "tokens": [
+        "썬팅",
+        "도",
+        "다",
+        "끝냈",
+        "EP",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뭐야 핵 부러워",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF",
+        "핵",
+        "부러워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "무슨 색이야?",
+      "tokens": [
+        "무슨",
+        "색",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "번쩍번쩍 한 거이...",
+      "tokens": [
+        "번쩍번쩍",
+        "한",
+        "ETM",
+        "거",
+        "이",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "카키색이야",
+      "tokens": [
+        "카키색",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엉 주문해서 어제 받았어",
+      "tokens": [
+        "엉",
+        "주문",
+        "해서",
+        "EC",
+        "어제",
+        "받",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "카키!",
+      "tokens": [
+        "카키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "ㄷㄷ 진짜 빠르다",
+      "tokens": [
+        "ㄷ",
+        "ㄷ",
+        "진짜",
+        "빠르",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "부러워 ㅜㅜ",
+      "tokens": [
+        "부러워ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그냥 카키 아니다...",
+      "tokens": [
+        "그냥",
+        "카키",
+        "아니",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "톰보이 카키임...",
+      "tokens": [
+        "톰보이",
+        "카키",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이름도 홍스퍼로 지음 존귀탱",
+      "tokens": [
+        "이름",
+        "도홍",
+        "스퍼",
+        "로",
+        "지음",
+        "존귀",
+        "탱"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 실물 사진 나중에 공유해줘 키키",
+      "tokens": [
+        "아",
+        "실물",
+        "사진",
+        "나중",
+        "에",
+        "공유",
+        "해",
+        "EC",
+        "줘",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "색깔 이름부터 멋지지?",
+      "tokens": [
+        "색깔",
+        "이름",
+        "부터",
+        "멋지",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "한번 태워줄까?",
+      "tokens": [
+        "한",
+        "번",
+        "태워",
+        "EC",
+        "줄까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "홍스퍼는 카키가 진리인 듯",
+      "tokens": [
+        "홍",
+        "스퍼",
+        "는",
+        "카키",
+        "가",
+        "진리",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 궁금함 키키",
+      "tokens": [
+        "진짜",
+        "궁금",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "부럽다!",
+      "tokens": [
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "내 뒤에는 사람 못 탐 하하...",
+      "tokens": [
+        "내",
+        "JKG",
+        "뒤",
+        "에",
+        "는",
+        "사람",
+        "못",
+        "탐하",
+        "하",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "차가 작긴 작아",
+      "tokens": [
+        "차",
+        "가",
+        "작",
+        "긴",
+        "JX",
+        "작",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "다 카키 사지 않을까?",
+      "tokens": [
+        "다카키",
+        "사",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "나도 태워줘 나도 탈래 키키",
+      "tokens": [
+        "나",
+        "도",
+        "태워",
+        "EC",
+        "줘",
+        "EF",
+        "나",
+        "도",
+        "탈래",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "카키가 제일 잘나갈 거 같긴 해...",
+      "tokens": [
+        "카키",
+        "가",
+        "제일",
+        "잘",
+        "나갈",
+        "ETM",
+        "거",
+        "같",
+        "긴",
+        "JX",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "흰색도 이쁘던데",
+      "tokens": [
+        "흰색",
+        "도",
+        "이쁘",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

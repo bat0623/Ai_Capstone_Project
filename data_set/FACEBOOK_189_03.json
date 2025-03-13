@@ -1,0 +1,355 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "학교랑 거리가 너무 멀어 ㅠㅠ",
+      "tokens": [
+        "학교",
+        "랑",
+        "거리",
+        "가",
+        "너무",
+        "멀",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 버스타는게 너무 재밌어",
+      "tokens": [
+        "요즘",
+        "버스",
+        "타",
+        "는",
+        "게",
+        "JKS",
+        "너무",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "차 사니깐 너무 좋네",
+      "tokens": [
+        "차사",
+        "니깐",
+        "EC",
+        "너무",
+        "좋",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그래서 버스타고 엄청 오래걸랴",
+      "tokens": [
+        "그래서",
+        "버스",
+        "타",
+        "고",
+        "엄청",
+        "오래",
+        "걸",
+        "랴"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "지하철타는 것도 나쁘지않아",
+      "tokens": [
+        "지하철",
+        "타",
+        "는",
+        "것",
+        "도",
+        "나쁘",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "차는 역시 모닝이지",
+      "tokens": [
+        "차",
+        "는",
+        "역시",
+        "모닝",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "택시를 타고 싶어 이젠 키키",
+      "tokens": [
+        "택시",
+        "를",
+        "타",
+        "고",
+        "싶",
+        "어",
+        "이젠",
+        "JX",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "역시 대도시는 다르더라",
+      "tokens": [
+        "역",
+        "시대",
+        "도시",
+        "는",
+        "다르",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "모닝이 요리조리 잘 다녀",
+      "tokens": [
+        "모닝",
+        "이",
+        "요리조리",
+        "잘",
+        "다녀",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "차는 모닝 국룰이지 키키",
+      "tokens": [
+        "차",
+        "는",
+        "모닝",
+        "국",
+        "룰",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 디너를 샀어",
+      "tokens": [
+        "나",
+        "는",
+        "디너",
+        "를",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "자전거도 이번에 샀어",
+      "tokens": [
+        "자전거",
+        "도",
+        "이번",
+        "에",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마티즈 모닝 가성비 좋아 키키",
+      "tokens": [
+        "마티즈",
+        "모닝",
+        "가",
+        "성비",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "자전거타면 허벅지가 굵어져",
+      "tokens": [
+        "자전거",
+        "타",
+        "면",
+        "허벅지",
+        "가",
+        "굵",
+        "어",
+        "져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "2인승 자전거라서 함께 타야해",
+      "tokens": [
+        "2",
+        "인승",
+        "자전거",
+        "라서",
+        "EC",
+        "함께",
+        "타",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "외제차는 너무 무리야 지금 키키",
+      "tokens": [
+        "외제",
+        "차",
+        "는",
+        "너무",
+        "무리",
+        "야",
+        "EF",
+        "지금",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 아벤떼가 제일 좋아",
+      "tokens": [
+        "나",
+        "는",
+        "아",
+        "벤",
+        "ETM",
+        "떼",
+        "가",
+        "제일",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "자전거 샀는데 모닝타고 다니니 편하더라",
+      "tokens": [
+        "자전거",
+        "샀",
+        "EP",
+        "는데",
+        "모닝",
+        "타",
+        "고",
+        "다니",
+        "니",
+        "편하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

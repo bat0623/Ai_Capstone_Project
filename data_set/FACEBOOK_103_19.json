@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 그러면 콘서트 한 번도 가본 적 없어?",
+      "tokens": [
+        "너",
+        "는",
+        "그러",
+        "면",
+        "콘서트",
+        "한",
+        "번",
+        "도",
+        "가본",
+        "적",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 가면 신나게 놀 자신 있는데",
+      "tokens": [
+        "웅",
+        "가",
+        "면",
+        "신나",
+        "게",
+        "놀",
+        "ETM",
+        "자신",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜?",
+      "tokens": [
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 싸이 콘서트 한 번 가봤어!",
+      "tokens": [
+        "나",
+        "싸",
+        "EF",
+        "이",
+        "콘서트",
+        "한",
+        "번",
+        "가",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 진짜 언제 가봤어?",
+      "tokens": [
+        "아",
+        "진짜",
+        "언제",
+        "가",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 18년도에 친구랑 가봤어!",
+      "tokens": [
+        "나",
+        "18",
+        "년",
+        "도",
+        "에",
+        "친구",
+        "랑",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "새벽까지 해준다던데 그게 진짜야?",
+      "tokens": [
+        "새벽",
+        "까지",
+        "해",
+        "EC",
+        "준다던데",
+        "EC",
+        "그게",
+        "JKS",
+        "진짜",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 나는 그 콘서트 말고 여름에 하는 콘서트 갔어!",
+      "tokens": [
+        "근데",
+        "나",
+        "는",
+        "그",
+        "콘서트",
+        "말",
+        "고",
+        "여름",
+        "에",
+        "하",
+        "는",
+        "콘서트",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "여름에 하는 콘서트면 물 뿌리고 그러나?",
+      "tokens": [
+        "여름",
+        "에",
+        "하",
+        "는",
+        "콘서트",
+        "면",
+        "EC",
+        "물",
+        "뿌리",
+        "고",
+        "그러",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "물 대포 엄청 쏴 키키",
+      "tokens": [
+        "물대포엄청쏴키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 재밌었겠다 코로나 끝나면 가봐야겠어",
+      "tokens": [
+        "진짜",
+        "재밌",
+        "었",
+        "겠",
+        "다",
+        "코로나",
+        "끝",
+        "나",
+        "면",
+        "가",
+        "봐야",
+        "VX",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어 완전 시원했어",
+      "tokens": [
+        "어",
+        "완전",
+        "시원",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리는 일부러 우비 안 입었어!",
+      "tokens": [
+        "우리",
+        "는",
+        "일부러",
+        "우비",
+        "안",
+        "입",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그럼 다 젖지 않아?",
+      "tokens": [
+        "그럼",
+        "다",
+        "젖",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "어 거기는 다 젖으려고 가는 곳이니까!",
+      "tokens": [
+        "어",
+        "거기",
+        "는",
+        "다",
+        "젖",
+        "으려고",
+        "가",
+        "는",
+        "곳",
+        "이",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나도 여름에 하는 싸이 콘서트 가봐야겠어",
+      "tokens": [
+        "나",
+        "도",
+        "여름",
+        "에",
+        "하",
+        "는",
+        "싸이",
+        "콘서트",
+        "가",
+        "봐야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어 꼭 가봐 싸이 노래 다 외워서 가면 더 재밌어!",
+      "tokens": [
+        "어",
+        "꼭",
+        "가",
+        "EC",
+        "봐",
+        "EC",
+        "싸",
+        "EF",
+        "이",
+        "노래",
+        "다",
+        "외워서",
+        "EC",
+        "가",
+        "면",
+        "더",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "노래는 필수로 외우고 가야지",
+      "tokens": [
+        "노래",
+        "는",
+        "필수",
+        "로",
+        "외우",
+        "고",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

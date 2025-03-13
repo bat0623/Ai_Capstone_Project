@@ -1,0 +1,423 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 낚시 게임도 한당",
+      "tokens": [
+        "나",
+        "낚시",
+        "게임",
+        "도",
+        "한당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 게임도 낚시를 ?",
+      "tokens": [
+        "키",
+        "키",
+        "게임",
+        "도",
+        "낚시",
+        "를"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "완전하구만",
+      "tokens": [
+        "완전",
+        "하",
+        "구만"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "현실 낚시에 이어서 게임마저...",
+      "tokens": [
+        "현실",
+        "낚시",
+        "에",
+        "이어서",
+        "EC",
+        "게임",
+        "마저",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어제 상어도 낚음",
+      "tokens": [
+        "어제",
+        "상어",
+        "도",
+        "낚",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "낚시에 완전 빠진 듯 키키",
+      "tokens": [
+        "낚시",
+        "에",
+        "완전",
+        "빠진",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "도대체...",
+      "tokens": [
+        "도대체",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "완전 빠져서 헤어나오질 못하네 키키",
+      "tokens": [
+        "완전",
+        "빠져서",
+        "EC",
+        "헤어나오",
+        "질",
+        "JX",
+        "못하",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "거기서는 완전 세계 제일 강태공...!",
+      "tokens": [
+        "거기",
+        "서",
+        "는",
+        "완전",
+        "세계",
+        "제일",
+        "강태공",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "상어를 어케 낚냐고 키키",
+      "tokens": [
+        "상어",
+        "를",
+        "어",
+        "케",
+        "낚",
+        "냐고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 난 세월을 낚고 싶다",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "난",
+        "ETM",
+        "세월",
+        "을",
+        "낚",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너네는 무슨 게임 좋아해?",
+      "tokens": [
+        "너",
+        "네",
+        "는",
+        "무슨",
+        "게임",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "같이할래?",
+      "tokens": [
+        "같이",
+        "할래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "상어한테 안 잡아먹히면 다행 키키",
+      "tokens": [
+        "상어",
+        "한테",
+        "안",
+        "잡아먹히",
+        "면",
+        "다행",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나? 롤 말고는 흥미 없...",
+      "tokens": [
+        "나",
+        "롤",
+        "말",
+        "고",
+        "는",
+        "흥미",
+        "없",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "같이 낚시 게임 하장 하하",
+      "tokens": [
+        "같이",
+        "낚",
+        "시",
+        "게",
+        "임하",
+        "장하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "미니게임천국 어떰 키키",
+      "tokens": [
+        "미니게임천국",
+        "어떰",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "같이도 할 수 있나?",
+      "tokens": [
+        "같이",
+        "도",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나 친추 해 줘! ***",
+      "tokens": [
+        "나친",
+        "추해",
+        "EC",
+        "줘",
+        "EF",
+        "*",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나는 실제 보드게임이 더 좋다고",
+      "tokens": [
+        "나",
+        "는",
+        "실제",
+        "보드게임",
+        "이",
+        "더",
+        "좋",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "어떰 보드게임",
+      "tokens": [
+        "어떰보드게임"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 닉 왜케 귀여움 키키",
+      "tokens": [
+        "키키",
+        "닉",
+        "왜",
+        "케",
+        "EC",
+        "귀여움",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

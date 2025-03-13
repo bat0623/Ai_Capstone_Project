@@ -1,0 +1,387 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "썬크림 진짜 잘 바르고 다녀야 해",
+      "tokens": [
+        "썬",
+        "ETM",
+        "크림",
+        "진짜",
+        "잘",
+        "바르",
+        "고",
+        "다녀야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 진짜 잘 바르고 다녀야 해",
+      "tokens": [
+        "아",
+        "진짜",
+        "잘",
+        "바르",
+        "고",
+        "다녀야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "안 그러면 기미랑 잡티 자주 생겨 키키",
+      "tokens": [
+        "안",
+        "그러",
+        "면",
+        "기미",
+        "랑",
+        "잡티",
+        "자주",
+        "생겨",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "기미 잡티 안 생길라면 나도 알지",
+      "tokens": [
+        "기미",
+        "잡티",
+        "안",
+        "생길",
+        "ETM",
+        "라면",
+        "나",
+        "도",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 이번에 기미 생겨서 레이저 예약했어",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "기미",
+        "생겨서",
+        "EC",
+        "레이저",
+        "예약",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나도 남자인데 맨날 바르고 다닌다고 키키",
+      "tokens": [
+        "나",
+        "도",
+        "남자",
+        "인데",
+        "EC",
+        "맨날",
+        "바르",
+        "고",
+        "다닌다고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "너무 심해서 ㅠㅠ 다 빼버리게",
+      "tokens": [
+        "너무",
+        "심해서",
+        "EC",
+        "VCP",
+        "ㅠㅠ",
+        "다",
+        "빼",
+        "EC",
+        "버리",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진짜 예약했어?",
+      "tokens": [
+        "진짜",
+        "예약",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 여자친구랑 예약했는데 키키",
+      "tokens": [
+        "나",
+        "도",
+        "여자",
+        "친구",
+        "랑",
+        "예약",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 어릴 때 하면 얼굴 패일까 봐 겁나",
+      "tokens": [
+        "근데",
+        "어릴",
+        "ETM",
+        "때",
+        "하",
+        "면",
+        "얼굴",
+        "패",
+        "일까봐",
+        "EC",
+        "VX",
+        "EC",
+        "겁나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "관리 해야 해 지금부터 안 그럼 늙는다 키키",
+      "tokens": [
+        "관리",
+        "해야",
+        "EC",
+        "해",
+        "EC",
+        "지금",
+        "부터",
+        "안",
+        "그럼",
+        "EC",
+        "늙",
+        "는",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 그렇긴 하지 ㅋㅋ",
+      "tokens": [
+        "아그렇긴하지ㅋㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "레이저 받아도 괜찮을까?",
+      "tokens": [
+        "레이저",
+        "받",
+        "아도",
+        "괜찮",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니야 안 패여 걱정 마 잘 관리하면",
+      "tokens": [
+        "아니야",
+        "안",
+        "패여",
+        "EC",
+        "걱정",
+        "마",
+        "잘",
+        "관리",
+        "하",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 저번에 점 뺀 거도 흉짐 캘로이드로",
+      "tokens": [
+        "나",
+        "저번",
+        "에",
+        "점",
+        "뺀",
+        "ETM",
+        "거",
+        "도",
+        "흉",
+        "짐",
+        "캘",
+        "ETM",
+        "로이드",
+        "로"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "더 이뻐질 수 있어 알겠지 언능 가서 받아봐",
+      "tokens": [
+        "더",
+        "이뻐",
+        "EC",
+        "질",
+        "ETM",
+        "수",
+        "있",
+        "어",
+        "알",
+        "겠",
+        "지",
+        "언능",
+        "가",
+        "서",
+        "받",
+        "아",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 그래? ㅠㅠ 당장 예약 해야겠다 흑흑",
+      "tokens": [
+        "아",
+        "그래",
+        "ㅠㅠ당장예약해야겠다흑흑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 진짜 캘로이드 ? 그럼 안 하는 게 좋지;",
+      "tokens": [
+        "아",
+        "진짜",
+        "캘",
+        "ETM",
+        "로이드",
+        "그럼",
+        "안",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "지",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

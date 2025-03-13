@@ -1,0 +1,411 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 게임에서 농사 짓는 거 즐김",
+      "tokens": [
+        "난",
+        "JX",
+        "게임",
+        "에서",
+        "농사",
+        "짓",
+        "는",
+        "거",
+        "즐김",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "예전부터 잘하더라 키키",
+      "tokens": [
+        "예전",
+        "부터",
+        "잘",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "니가 뭘 아네",
+      "tokens": [
+        "니",
+        "가",
+        "뭘",
+        "JKO",
+        "아네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "농사도 그렇게 배우는 거임",
+      "tokens": [
+        "농사",
+        "도",
+        "그렇게",
+        "배우",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "농사 짓는 게임 완전 힐링이야 키키",
+      "tokens": [
+        "농사",
+        "짓",
+        "는",
+        "게임",
+        "완전",
+        "힐링",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "특히 **는 커피를 잘했었어 !",
+      "tokens": [
+        "특히",
+        "*",
+        "*",
+        "는",
+        "커피",
+        "를",
+        "잘",
+        "했었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아이러브커피",
+      "tokens": [
+        "아이러브커피"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "게임을 접목시키면 소득창출 쌉가능",
+      "tokens": [
+        "게임",
+        "을",
+        "접목",
+        "시키",
+        "면",
+        "소득",
+        "창출",
+        "쌉",
+        "가능"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "무슨 팜 이런 거 넘 재밌어",
+      "tokens": [
+        "무슨",
+        "팜",
+        "이런",
+        "거",
+        "넘",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나도 타이니팜 열심히 했었지 키키",
+      "tokens": [
+        "나",
+        "도",
+        "타이니팜",
+        "열심히",
+        "했었",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "커피게임 완전 ㅡㅡ",
+      "tokens": [
+        "커피게임완전ㅡㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거 카톡 많이 보냄",
+      "tokens": [
+        "그거",
+        "카톡",
+        "많이",
+        "보냄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아이러브커피 완전 좋아했지 키키",
+      "tokens": [
+        "아이러브커피",
+        "완전",
+        "좋",
+        "아",
+        "했",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "타이니팜 막 희귀동물 모으구 키키",
+      "tokens": [
+        "타이니팜",
+        "막",
+        "희귀",
+        "동물",
+        "모으",
+        "구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아이러브커피 ㅋ",
+      "tokens": [
+        "아이러브커피ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그만 좀 ㅎ",
+      "tokens": [
+        "그만",
+        "좀",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 ** 그거 잘했음!",
+      "tokens": [
+        "맞",
+        "아",
+        "*",
+        "*",
+        "그거",
+        "잘",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "** 진짜 고수였음 키키",
+      "tokens": [
+        "*",
+        "*",
+        "진짜고수였음키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "**는 그 뭐더라 딴 거였는데",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "그",
+        "뭐",
+        "더라",
+        "EF",
+        "딴",
+        "거",
+        "였",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아이러브 커피 안한 지 오래됨 ㅠㅠ",
+      "tokens": [
+        "아이러브커피",
+        "안",
+        "한지",
+        "EC",
+        "오래됨",
+        "ETN",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "한번 지금 다시해봥 ㄱㄱ",
+      "tokens": [
+        "한",
+        "번",
+        "지금",
+        "다시",
+        "해",
+        "EC",
+        "봥ㄱ",
+        "ㄱ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나는 테트리스 자주함",
+      "tokens": [
+        "나",
+        "는",
+        "테트리스",
+        "자주",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

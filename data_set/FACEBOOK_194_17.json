@@ -1,0 +1,433 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "스트레스가 만병의 근원이야",
+      "tokens": [
+        "스트레스",
+        "가",
+        "만병",
+        "의",
+        "근원",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "스트레스 받음 안된다 ㅠ",
+      "tokens": [
+        "스트레스",
+        "받",
+        "음",
+        "안",
+        "된",
+        "ETM",
+        "다ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "스트레스를 안 받으려면 자연에 살아야해",
+      "tokens": [
+        "스트레스",
+        "를",
+        "안",
+        "받",
+        "으려면",
+        "자연",
+        "에",
+        "살",
+        "아야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그냥 한 귀로 듣고 한 귀로 흘리기 시전 해야 함",
+      "tokens": [
+        "그냥",
+        "한귀",
+        "로",
+        "듣",
+        "고",
+        "한귀",
+        "로",
+        "흘리",
+        "기",
+        "시전",
+        "해야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나도 그러고 있어 요즘",
+      "tokens": [
+        "나",
+        "도",
+        "그러",
+        "고",
+        "있",
+        "어",
+        "요즘"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 그거 훈련해서 잘한다",
+      "tokens": [
+        "난",
+        "JX",
+        "그거",
+        "훈련",
+        "해서",
+        "EC",
+        "잘",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "스트레스 안 받고 살아야 해",
+      "tokens": [
+        "스트레스",
+        "안",
+        "받",
+        "고",
+        "살",
+        "아야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그냥 무시가 답이야 ~",
+      "tokens": [
+        "그냥",
+        "무시",
+        "가",
+        "답",
+        "이",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "내가 기계가 되었다고 생각하면 됨",
+      "tokens": [
+        "내",
+        "가",
+        "기계",
+        "가",
+        "되",
+        "었",
+        "다고",
+        "생각",
+        "하",
+        "면",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "무슨 훈련 했는데 키키",
+      "tokens": [
+        "무슨",
+        "훈련",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "가장 좋은 법은 딴 생각하기 키키",
+      "tokens": [
+        "가장",
+        "좋",
+        "은",
+        "법",
+        "은",
+        "딴",
+        "생각",
+        "하",
+        "기",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "딱 스트레스 상황이 오면 나는 인공지능이다라고 생각하고 기계적으로 반응함",
+      "tokens": [
+        "딱",
+        "스트레스",
+        "상황",
+        "이",
+        "오",
+        "면",
+        "나",
+        "는",
+        "인공지능",
+        "이",
+        "다",
+        "라고",
+        "생각",
+        "하",
+        "고",
+        "기계",
+        "적",
+        "으로",
+        "반응",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞음",
+      "tokens": [
+        "맞음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그거 훈련 해야 함 키키",
+      "tokens": [
+        "그거",
+        "훈련",
+        "해야",
+        "EC",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "딴 생각하기 키키",
+      "tokens": [
+        "딴",
+        "생각",
+        "하",
+        "기",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "한 귀로 듣고 흘리는 훈련도 있구나 ! 하하",
+      "tokens": [
+        "한귀",
+        "로",
+        "듣",
+        "고",
+        "흘리",
+        "는",
+        "훈련",
+        "도",
+        "있",
+        "구나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "1년 정도 수련했다",
+      "tokens": [
+        "1",
+        "년",
+        "정도",
+        "수련",
+        "했",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "성공",
+      "tokens": [
+        "성공"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 나도 계속 수련하겠어",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "계속",
+        "수련",
+        "하",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오 1년이나 걸림 키키 ?",
+      "tokens": [
+        "오",
+        "1",
+        "년",
+        "이나",
+        "걸림",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "감정 상하면 내 건강에 악영향",
+      "tokens": [
+        "감정",
+        "상하",
+        "면",
+        "내",
+        "JKG",
+        "건강",
+        "에",
+        "악영향"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

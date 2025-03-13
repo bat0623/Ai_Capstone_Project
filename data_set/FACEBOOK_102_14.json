@@ -1,0 +1,523 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번에 치매 노인이 카드 주워서 무단으로 썼다는 기사 봤어?",
+      "tokens": [
+        "이번",
+        "에",
+        "치매",
+        "노인",
+        "이",
+        "카드",
+        "주워서",
+        "EC",
+        "무단",
+        "으로",
+        "썼",
+        "EP",
+        "다는",
+        "기사",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "에이~ 그게 치매라니 말도 안돼~",
+      "tokens": [
+        "에이",
+        "~",
+        "그게",
+        "JKS",
+        "치매",
+        "라니",
+        "EC",
+        "말",
+        "도",
+        "안",
+        "돼",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 치매래,",
+      "tokens": [
+        "키",
+        "키치",
+        "매래",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 횡설수설 말도 제대로 못하더라",
+      "tokens": [
+        "근데",
+        "횡설수설",
+        "말",
+        "도",
+        "제대로",
+        "못",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아... 그냥 정신 문제 아닐까 싶네",
+      "tokens": [
+        "아",
+        ".",
+        "그냥",
+        "정신",
+        "문제",
+        "아닐까",
+        "EC",
+        "싶",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그러니까 땅을 보고 뭘 줍는 습관을 가지고 있대 이 할머니가",
+      "tokens": [
+        "그러니까",
+        "땅",
+        "을",
+        "보",
+        "고",
+        "뭘",
+        "JKO",
+        "줍",
+        "는",
+        "습관",
+        "을",
+        "가지",
+        "고",
+        "있",
+        "대",
+        "이",
+        "할머니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "결제는 어떻게 했을려나...",
+      "tokens": [
+        "결제",
+        "는",
+        "어떻",
+        "게",
+        "했",
+        "EP",
+        "을려나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "의문이다야~",
+      "tokens": [
+        "의문",
+        "이",
+        "다야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그러니까 그걸로 밥도 사 먹고 마트 가서 뭐도 사 왔대!",
+      "tokens": [
+        "그러니까",
+        "그걸로",
+        "JKB",
+        "밥",
+        "도",
+        "사먹",
+        "고",
+        "마트",
+        "가",
+        "서",
+        "뭐",
+        "도",
+        "사",
+        "EC",
+        "왔",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "음, 피해 금액이 많이 크대?",
+      "tokens": [
+        "음",
+        ",",
+        "피해",
+        "금액",
+        "이",
+        "많이",
+        "크",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "음, 시간이 꽤 지나서",
+      "tokens": [
+        "음",
+        ",",
+        "시간",
+        "이",
+        "꽤",
+        "지나",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "2명의  피해자가 있는데 한 분이 85만 원 정도? 그 정도 피해를 입었대!",
+      "tokens": [
+        "2",
+        "명",
+        "의",
+        "피해자",
+        "가",
+        "있",
+        "는데",
+        "한",
+        "분",
+        "이",
+        "85",
+        "만",
+        "원",
+        "정도",
+        "그",
+        "정도",
+        "피해",
+        "를",
+        "입",
+        "었",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너무 심한데",
+      "tokens": [
+        "너무",
+        "심한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그건 치매라 보기 힘드네",
+      "tokens": [
+        "그건",
+        "JX",
+        "치매",
+        "라",
+        "EC",
+        "보",
+        "기",
+        "힘드",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "흠, 그런데 치매라고 이미 병명이 나왔으니까,",
+      "tokens": [
+        "흠",
+        ",",
+        "그런데",
+        "치매",
+        "라고",
+        "EC",
+        "이미",
+        "병명",
+        "이",
+        "나왔",
+        "EP",
+        "으니까",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "글쎄다...",
+      "tokens": [
+        "글쎄다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "어디까지 치매라고 봐야 할지",
+      "tokens": [
+        "어디",
+        "까지",
+        "치매",
+        "라고",
+        "EC",
+        "봐야",
+        "EC",
+        "할지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 흠,  모르겠어",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "흠",
+        ",",
+        "모르",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "째뜬 한 분은 용서를 해 줬는데 다른 한 분은 합의금 물어줬대!",
+      "tokens": [
+        "째",
+        "뜬",
+        "ETM",
+        "한",
+        "분",
+        "은",
+        "용서",
+        "를",
+        "해",
+        "EC",
+        "줬",
+        "EP",
+        "는데",
+        "다른",
+        "한",
+        "분",
+        "은",
+        "합의금",
+        "물",
+        "어",
+        "줬",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그렇지",
+      "tokens": [
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "피해가 큰 금액인데",
+      "tokens": [
+        "피해",
+        "가",
+        "큰",
+        "ETM",
+        "금액",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "한 분은 피해금액만 받고 다른 한 분은 300만 원 정도 줬다는 거 같아!",
+      "tokens": [
+        "한",
+        "분",
+        "은",
+        "피해",
+        "금액",
+        "만",
+        "받",
+        "고",
+        "다른",
+        "한",
+        "분",
+        "은",
+        "300",
+        "만",
+        "원",
+        "정도",
+        "줬",
+        "EP",
+        "다는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "치매는 무슨~",
+      "tokens": [
+        "치매",
+        "는",
+        "무슨",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "정신이 아주 단단하네",
+      "tokens": [
+        "정신",
+        "이",
+        "아주",
+        "단단",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

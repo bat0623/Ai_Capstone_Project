@@ -1,0 +1,471 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "데이트 폭력 동영상 봤음...?",
+      "tokens": [
+        "데이트",
+        "폭력",
+        "동영상",
+        "봤",
+        "EP",
+        "음",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "데이트 폭력 미친 ㅠㅠ",
+      "tokens": [
+        "데이트",
+        "폭력",
+        "미친",
+        "ETM",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "넘 싫다",
+      "tokens": [
+        "넘",
+        "싫",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "웅 ... 데이트폭력을 왜 할까 도대체 ...",
+      "tokens": [
+        "웅",
+        ".",
+        "데이트",
+        "폭력",
+        "을",
+        "왜",
+        "할까",
+        "EF",
+        "도대체",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "사람끼리 만나면서",
+      "tokens": [
+        "사람",
+        "끼리",
+        "만나",
+        "면서"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "안 봤으면 보지 마라 ㅠㅠ",
+      "tokens": [
+        "안",
+        "봤",
+        "EP",
+        "으면",
+        "보",
+        "지",
+        "마",
+        "라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니 잠잠하면 한번씩 터지더라",
+      "tokens": [
+        "아니",
+        "잠잠",
+        "하",
+        "면",
+        "한",
+        "번",
+        "씩",
+        "터지",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "좋아서 만났을 거 아니야",
+      "tokens": [
+        "좋",
+        "아서",
+        "만났",
+        "EP",
+        "을",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "여자 죽었거든?",
+      "tokens": [
+        "여자",
+        "죽",
+        "었",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "개소름임...",
+      "tokens": [
+        "개",
+        "소름",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "언제 또 일어난 사건인데 !",
+      "tokens": [
+        "언제",
+        "또",
+        "일어난",
+        "ETM",
+        "사건",
+        "인데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 걔네들은 정신과 한번 가봐야 된다",
+      "tokens": [
+        "진짜",
+        "걔",
+        "네",
+        "들",
+        "은",
+        "정신",
+        "과",
+        "한",
+        "번",
+        "가",
+        "봐야",
+        "EC",
+        "된다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "모가지가 꺾여가지고 끌려 다님",
+      "tokens": [
+        "모가지",
+        "가",
+        "꺾여",
+        "EC",
+        "가지",
+        "고",
+        "끌려",
+        "EC",
+        "다님"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "헐 ... 여자 죽었다고 ?",
+      "tokens": [
+        "헐",
+        ".",
+        "여자",
+        "죽",
+        "었",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "미친 거 아냐 ?",
+      "tokens": [
+        "미친",
+        "ETM",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "남자가 역으로 폭행 당하는 경우도 있대",
+      "tokens": [
+        "남자",
+        "가",
+        "역",
+        "으로",
+        "폭행",
+        "당하",
+        "는",
+        "경우",
+        "도",
+        "있",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "피 완전 칠갑하고 엘베에서",
+      "tokens": [
+        "피",
+        "완전",
+        "칠갑",
+        "하",
+        "고",
+        "엘베",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "돌았다 ...",
+      "tokens": [
+        "돌",
+        "았",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어느 지역에서 ?",
+      "tokens": [
+        "어느",
+        "지역",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "우 ... 진짜 심각하다 ...",
+      "tokens": [
+        "우",
+        ".",
+        "진짜",
+        "심각",
+        "하",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "몰라?",
+      "tokens": [
+        "몰라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그 동영상 왜 공개한 거야 ㅠㅠ",
+      "tokens": [
+        "그",
+        "동영상",
+        "왜",
+        "공개",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "미쳤다 ㅠㅠ",
+      "tokens": [
+        "미쳤다ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "개무섭다",
+      "tokens": [
+        "개",
+        "무섭",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "그냥 안 봐야할 듯",
+      "tokens": [
+        "그냥",
+        "안",
+        "봐야",
+        "EC",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "그런 동영상 나는 못 보겠다",
+      "tokens": [
+        "그런",
+        "동영상",
+        "나",
+        "는",
+        "못",
+        "보",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 피시방 일찍 가서 게임 한판 했음?",
+      "tokens": [
+        "*",
+        "*",
+        "피시방",
+        "일찍",
+        "가",
+        "서",
+        "게임",
+        "한판",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 그니까",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "일찍 갔더만",
+      "tokens": [
+        "일찍",
+        "갔",
+        "EP",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아직",
+      "tokens": [
+        "아직"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "끝나고 해야지 키키",
+      "tokens": [
+        "끝",
+        "나",
+        "고",
+        "해야지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "여전히 롤 하심?",
+      "tokens": [
+        "여전히",
+        "롤",
+        "하",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니 근데 배탈 나서 화장실에 있었대",
+      "tokens": [
+        "아니",
+        "근데",
+        "배탈",
+        "나",
+        "서",
+        "화장실",
+        "에",
+        "있",
+        "었",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "롤 하는데 어제 연패해서 하기 싫음",
+      "tokens": [
+        "롤",
+        "하",
+        "는데",
+        "어제",
+        "연패",
+        "해서",
+        "EC",
+        "하",
+        "기",
+        "싫",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 롤 넘 오래해서 지면 스트레스임",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "롤",
+        "넘",
+        "오래",
+        "해서",
+        "EC",
+        "지",
+        "면",
+        "스트레스",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요새 롤 안하잖아",
+      "tokens": [
+        "요새",
+        "롤",
+        "안",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "하나 아직 키키",
+      "tokens": [
+        "하나",
+        "아직",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 디아 2 레저렉션 하려고 켜 둠 키키",
+      "tokens": [
+        "그래서",
+        "디아",
+        "2",
+        "레저렉션하려고켜둠키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "배탈이 왜 났음?",
+      "tokens": [
+        "배탈",
+        "이",
+        "왜",
+        "났",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오래 하는데 지면 더 짜증남",
+      "tokens": [
+        "오래",
+        "하",
+        "는데",
+        "지",
+        "면",
+        "더",
+        "짜증",
+        "남"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "어제 너무 많이 먹어서 그런가 키키",
+      "tokens": [
+        "어제",
+        "너무",
+        "많이",
+        "먹",
+        "어서",
+        "그런가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "피시방 가면 디아 할 수 있음?",
+      "tokens": [
+        "피시방",
+        "가",
+        "면",
+        "디아",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "뭐야 식을 겁나 먹었나 봄 키키",
+      "tokens": [
+        "뭐",
+        "야식",
+        "을",
+        "겁나",
+        "EC",
+        "먹",
+        "었",
+        "나",
+        "봄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "응 집에 노트으로는 안 돌아감",
+      "tokens": [
+        "응집",
+        "에",
+        "노트",
+        "으로",
+        "는",
+        "안",
+        "돌아감",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "난 빨리 끝나는 게임이 좋더라",
+      "tokens": [
+        "난",
+        "JX",
+        "빨리",
+        "끝",
+        "나",
+        "는",
+        "게임",
+        "이",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 피시방은 웬만한 거 다 되잖아",
+      "tokens": [
+        "키",
+        "키",
+        "피시방",
+        "은",
+        "웬만",
+        "한",
+        "ETM",
+        "거",
+        "다",
+        "되",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "빨리 끝나면 재미없잖아 ...",
+      "tokens": [
+        "빨리",
+        "끝나",
+        "면",
+        "재미없",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

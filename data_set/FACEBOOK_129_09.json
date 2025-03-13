@@ -1,0 +1,392 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 형부 강아지가 죽었대...",
+      "tokens": [
+        "*",
+        "*",
+        "형부",
+        "강아지",
+        "가",
+        "죽",
+        "었",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 너무 충격 ㅠㅠ",
+      "tokens": [
+        "그니까",
+        "너무",
+        "충격",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 근데 그 큰 개도 9살이야 ㅜㅜ",
+      "tokens": [
+        "웅",
+        "근데",
+        "그",
+        "큰개",
+        "도",
+        "9",
+        "살",
+        "이",
+        "야",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그 소식 들었니",
+      "tokens": [
+        "그",
+        "소식",
+        "들",
+        "었",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 하루 종일 생각나...",
+      "tokens": [
+        "난",
+        "JX",
+        "하루",
+        "종일",
+        "생각나",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "갑자기 죽어 버리다니 ㅠㅠ",
+      "tokens": [
+        "갑자기",
+        "죽",
+        "어",
+        "버리",
+        "다니",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그래서 형부가 엄청 속상해함",
+      "tokens": [
+        "그래서",
+        "형부",
+        "가",
+        "엄청",
+        "속상해",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "앗 9살이나 된 강아지였다니",
+      "tokens": [
+        "앗",
+        "9",
+        "살",
+        "이나",
+        "된",
+        "ETM",
+        "강아지",
+        "였",
+        "EP",
+        "다니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "밤에 추워서 죽은 건가 ㅠ",
+      "tokens": [
+        "밤",
+        "에",
+        "추워서",
+        "EC",
+        "죽",
+        "은",
+        "건",
+        "JX",
+        "가ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "며칠 밥을 안 먹었는데 ㅜㅜ ㅇ",
+      "tokens": [
+        "며칠",
+        "밥",
+        "을",
+        "안",
+        "먹",
+        "었",
+        "는데",
+        "ㅜ",
+        "ㅜㅇ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그럼 더 속상할 듯...",
+      "tokens": [
+        "그럼",
+        "더",
+        "속상할",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너무 안됐군 ㅠ",
+      "tokens": [
+        "너무",
+        "안",
+        "됐",
+        "EP",
+        "군ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "회사에 강아지랬지?",
+      "tokens": [
+        "회사",
+        "에",
+        "강아지",
+        "랬",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니 그 개 말고 작은 개가 먼저 갔음",
+      "tokens": [
+        "아니",
+        "그",
+        "개말",
+        "고작",
+        "은",
+        "개",
+        "가",
+        "먼저",
+        "갔",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "밥 안 먹으면 이상한 거지",
+      "tokens": [
+        "밥",
+        "안",
+        "먹",
+        "으면",
+        "이상",
+        "한",
+        "ETM",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "좋은 데 갔을 거야 아마 ㅠ",
+      "tokens": [
+        "좋",
+        "은",
+        "데",
+        "갔",
+        "EP",
+        "을",
+        "거",
+        "야",
+        "EF",
+        "아마",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래서 큰 개도 갈까 봐 걱정 ㅜ",
+      "tokens": [
+        "그래서",
+        "큰개",
+        "도",
+        "갈까봐",
+        "EC",
+        "VX",
+        "EC",
+        "걱정",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어머... 작은 개가 얼마나 작았는데?",
+      "tokens": [
+        "어머",
+        ".",
+        "작은개",
+        "가",
+        "얼마나",
+        "작",
+        "았",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "구러게 얼마나 작았지",
+      "tokens": [
+        "구",
+        "러",
+        "게",
+        "JKS",
+        "얼마나",
+        "작",
+        "았",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그 똥개, 뭐라 하지 종을 몰라 ㅜㅜ",
+      "tokens": [
+        "그",
+        "똥개",
+        ",",
+        "뭐라하지종을몰라ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_129_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

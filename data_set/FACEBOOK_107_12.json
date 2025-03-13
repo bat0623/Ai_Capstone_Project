@@ -1,0 +1,506 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 펜션 잡고 노는 게 좋아 호텔에서 노는 게 좋아?",
+      "tokens": [
+        "언니",
+        "는",
+        "펜션",
+        "잡",
+        "고",
+        "노",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "아",
+        "호텔",
+        "에서",
+        "노",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 펜션 파야 고기 꾸워 먹는 거지",
+      "tokens": [
+        "나",
+        "는",
+        "펜션",
+        "파",
+        "야",
+        "고기",
+        "꾸워",
+        "먹",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 키키 맞아 고기 최고지!",
+      "tokens": [
+        "아키",
+        "키",
+        "맞",
+        "아",
+        "고기",
+        "최고",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "최근에 어디로 갔어?",
+      "tokens": [
+        "최근",
+        "에",
+        "어디",
+        "로",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "최근에 아니고 다음주에 가지롱",
+      "tokens": [
+        "최근",
+        "에",
+        "아니",
+        "고",
+        "다음",
+        "주",
+        "에",
+        "가",
+        "지롱"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "홀 대박!",
+      "tokens": [
+        "홀",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어디로 갈 예정이야!?",
+      "tokens": [
+        "어디",
+        "로",
+        "갈",
+        "ETM",
+        "예정",
+        "이",
+        "야",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 빼놓고!",
+      "tokens": [
+        "나",
+        "빼놓",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "지역은 기억 안 나는데 풀빌라 빌렸엉",
+      "tokens": [
+        "지역",
+        "은",
+        "기억",
+        "안",
+        "나",
+        "는",
+        "데",
+        "풀",
+        "ETM",
+        "빌라",
+        "빌렸",
+        "EP",
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헐 대박 풀빌라면 수영장도 있겠네!?",
+      "tokens": [
+        "헐대박풀빌라면수영장도있겠네",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "수영장 밖에도 안에도 있대 온수 풀 키키",
+      "tokens": [
+        "수영장",
+        "밖에",
+        "도",
+        "안",
+        "에",
+        "도",
+        "있",
+        "대",
+        "온수풀",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "와 대박 몇 명이서 가?",
+      "tokens": [
+        "와",
+        "대박",
+        "몇",
+        "명",
+        "이",
+        "서",
+        "가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 비쌀텐데!",
+      "tokens": [
+        "그거",
+        "비쌀텐데",
+        "ETM",
+        "NNB",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "여섯명 키키 응 좀 비쌌던 거 같아 육십 넘었던 듯",
+      "tokens": [
+        "여섯",
+        "명",
+        "키",
+        "키",
+        "ETN",
+        "응",
+        "좀",
+        "비쌌",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "아",
+        "육",
+        "십",
+        "넘",
+        "었",
+        "던",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그 정도 할 거 같아!",
+      "tokens": [
+        "그",
+        "정도",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "온수 기본 비용만 30만 원이던데!?",
+      "tokens": [
+        "온수",
+        "기본",
+        "비용",
+        "만",
+        "30",
+        "만",
+        "원",
+        "이",
+        "던데",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "와 대박 그렇다고?",
+      "tokens": [
+        "와",
+        "대박",
+        "그렇",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "빨랑 가고 싶다",
+      "tokens": [
+        "빨랑",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 펜션마다 가격은 다르긴 하지!",
+      "tokens": [
+        "근데",
+        "펜션",
+        "마다",
+        "가격",
+        "은",
+        "다르",
+        "긴",
+        "JX",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "부럽다!",
+      "tokens": [
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "후기 좀 알려줘!",
+      "tokens": [
+        "후기",
+        "좀",
+        "알려",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 나중에 내가 다녀와서 알려줄게",
+      "tokens": [
+        "키",
+        "키",
+        "나중",
+        "에",
+        "내",
+        "가",
+        "다녀와서",
+        "EC",
+        "알려",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 오 좋아 나는 부여로 캠핑 가는데 언니네로 슝 가고 싶다!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "오",
+        "좋아",
+        "나",
+        "는",
+        "부여",
+        "로",
+        "캠핑",
+        "가",
+        "는데",
+        "언니네",
+        "로",
+        "슝",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "키키 캠핑 감기 조심히 다녀와",
+      "tokens": [
+        "키",
+        "키",
+        "캠핑",
+        "감기",
+        "조심히",
+        "다녀와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

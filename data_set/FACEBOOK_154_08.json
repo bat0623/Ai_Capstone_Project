@@ -1,0 +1,401 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "연애 할 때는 결혼 걱정 하잖아",
+      "tokens": [
+        "연애",
+        "할",
+        "ETM",
+        "때",
+        "는",
+        "결혼",
+        "걱정",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "지금 저 결혼 걱정...",
+      "tokens": [
+        "지금",
+        "저",
+        "결혼",
+        "걱정",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아무래도? 키키",
+      "tokens": [
+        "아무래도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "결혼하면 애 걱정 한다?",
+      "tokens": [
+        "결혼",
+        "하",
+        "면",
+        "애",
+        "걱정",
+        "한다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "무슨 평생 걱정...",
+      "tokens": [
+        "무슨",
+        "평생",
+        "걱정",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "앜 키키 아직 애 없잖아?",
+      "tokens": [
+        "앜키",
+        "키",
+        "아직",
+        "애",
+        "없",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "결혼하면 걱정이 배는 더 생김",
+      "tokens": [
+        "결혼",
+        "하",
+        "면",
+        "걱정",
+        "이",
+        "배",
+        "는",
+        "더",
+        "생김"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "애를 꼭 낳아야 한다고 생각해여?",
+      "tokens": [
+        "애",
+        "를",
+        "꼭",
+        "낳",
+        "아야",
+        "한다고",
+        "EC",
+        "생각",
+        "해",
+        "EC",
+        "여",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "걱정은 평생일 껄",
+      "tokens": [
+        "걱정은평생일껄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아직 애 없는 데 애 낳을 걱정함 키키",
+      "tokens": [
+        "아직",
+        "애",
+        "없",
+        "는데",
+        "애",
+        "낳",
+        "을",
+        "걱정",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "점점 시간이 지날 수록...",
+      "tokens": [
+        "점점",
+        "시간",
+        "이",
+        "지날수록",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "왜 요즘은 머가 걱정인데ㅜㅜ",
+      "tokens": [
+        "왜",
+        "요즘",
+        "은",
+        "머",
+        "가",
+        "걱정",
+        "인데",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그리고 이제 시댁 걱정 앤드 남편 걱정",
+      "tokens": [
+        "그리고",
+        "이제",
+        "시댁",
+        "걱정",
+        "앤드",
+        "남편",
+        "걱정"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "뭔가 둘이서 행복할 수 있을 텐데",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "둘",
+        "이",
+        "서",
+        "행복",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "을",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 남편도 걱정해? 키키",
+      "tokens": [
+        "아",
+        "남편",
+        "도",
+        "걱정",
+        "해",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "내 건강 뿐 아니라 남편 건강도 걱정...",
+      "tokens": [
+        "내",
+        "JKG",
+        "건강",
+        "뿐",
+        "아니",
+        "라",
+        "남편",
+        "건강",
+        "도",
+        "걱정",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "이런 생각 드는데 키키 시댁 걱정 남편까지",
+      "tokens": [
+        "이런",
+        "생각",
+        "드",
+        "는데",
+        "키",
+        "키",
+        "시댁",
+        "걱정",
+        "남편",
+        "까지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "윽 그런 건 진짜 걱정이네",
+      "tokens": [
+        "윽",
+        "그런",
+        "건",
+        "JX",
+        "진짜",
+        "걱정",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

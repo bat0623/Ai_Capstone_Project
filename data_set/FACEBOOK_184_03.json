@@ -1,0 +1,536 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 내일 회사 처음으로 대중교통 이용해서 가는데 두려워...",
+      "tokens": [
+        "나",
+        "내일",
+        "회사",
+        "처음",
+        "으로",
+        "대중교통",
+        "이용",
+        "해서",
+        "EC",
+        "가",
+        "는",
+        "데",
+        "두려워",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "지금 막 이것저것 어플 까는 중 ㅜ 추천 좀",
+      "tokens": [
+        "지금",
+        "막",
+        "이것저것",
+        "어",
+        "플",
+        "까",
+        "는",
+        "중ㅜ",
+        "추천",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "지하철로 가? 버스로 가?",
+      "tokens": [
+        "지하",
+        "철로",
+        "가",
+        "버스",
+        "로",
+        "가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "ㅠㅠ 내가 데려다 주고 싶다",
+      "tokens": [
+        "ㅠㅠ",
+        "내",
+        "가",
+        "데려다",
+        "EC",
+        "주",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "웅 고마워!",
+      "tokens": [
+        "웅",
+        "고마워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 지하철이랑 버스 다 타야 행...",
+      "tokens": [
+        "나지하철이랑버스다타야행",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "복정에서 내려서 가야 하는데 그걸 어케 알아?!",
+      "tokens": [
+        "복정",
+        "에서",
+        "내려서",
+        "EC",
+        "가",
+        "야",
+        "하",
+        "는데",
+        "그걸",
+        "JKO",
+        "어",
+        "케",
+        "알",
+        "아",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "음 그건 그냥 네이버에 길 찾기 하면 다 나왕!",
+      "tokens": [
+        "음",
+        "그건",
+        "JX",
+        "그냥",
+        "네이버",
+        "에",
+        "길",
+        "찾",
+        "기",
+        "하",
+        "면",
+        "다",
+        "나왕"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐 ㅠㅠ 가는 길 찾아볼까?",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "가",
+        "는",
+        "길",
+        "찾",
+        "아",
+        "볼까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "네이버 길찾기... 열심히 해볼게 성공 해야지 ㅜ",
+      "tokens": [
+        "네이버",
+        "길",
+        "JKO",
+        "찾",
+        "기",
+        ".",
+        "열심히해볼게성공해야지ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "화이팅!",
+      "tokens": [
+        "화이팅"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래도 차 막히는 스트레스는 없어서 다행이가",
+      "tokens": [
+        "그래도",
+        "차",
+        "막히",
+        "는",
+        "스트레스",
+        "는",
+        "없",
+        "어서",
+        "다행",
+        "이",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 요즘 어린이 보호 구역이 정말 엄청 많아진 거 같아 ㅠ",
+      "tokens": [
+        "아",
+        "요즘",
+        "어린이",
+        "보호구역",
+        "이",
+        "정말",
+        "엄청",
+        "많",
+        "아",
+        "진",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 맞아 30찍는 건 좀 오바 아니야?",
+      "tokens": [
+        "아",
+        "맞",
+        "아",
+        "30",
+        "찍",
+        "는",
+        "건",
+        "JX",
+        "좀",
+        "오바",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "게다가 속도 50도... 많아 졌어 ㅜ",
+      "tokens": [
+        "게다가",
+        "속",
+        "도",
+        "50",
+        "도",
+        ".",
+        "많아졌어ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "광교는 20짜리도 있어, 대박이지",
+      "tokens": [
+        "광교",
+        "는",
+        "20",
+        "짜리",
+        "도",
+        "있",
+        "어",
+        ",",
+        "대박",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까...  20 키키",
+      "tokens": [
+        "그니까",
+        ".",
+        ".",
+        "20",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 20은 난생 처음 들어 봐 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "20",
+        "은난생처음들어봐ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "좋아 좋아!",
+      "tokens": [
+        "좋",
+        "아",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아 둘 다 무슨 차종 좋아행?",
+      "tokens": [
+        "아",
+        "둘",
+        "다",
+        "무슨",
+        "차종",
+        "좋",
+        "ETM",
+        "아행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나는 차를 잘 몰라! 하하",
+      "tokens": [
+        "나",
+        "는",
+        "차",
+        "를",
+        "잘",
+        "몰라",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "엄... 나도 차에는 관심이 없는데! 재규어! 타고 싶어",
+      "tokens": [
+        "엄",
+        ".",
+        "나",
+        "도",
+        "차",
+        "에",
+        "는",
+        "관심",
+        "이",
+        "없",
+        "는데",
+        "!",
+        "재규어",
+        "타",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "애들한테 말했더니 안 된다곤 하지만...",
+      "tokens": [
+        "애",
+        "들",
+        "한테",
+        "말",
+        "했",
+        "EP",
+        "더니",
+        "안",
+        "된다",
+        "EC",
+        "곤하",
+        "지만",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "나도 차는 모르지만 외제차가 갖고 파...",
+      "tokens": [
+        "나",
+        "도",
+        "차",
+        "는",
+        "모르",
+        "지만",
+        "외제",
+        "차",
+        "가",
+        "갖",
+        "고파",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 나는 아직 차 무서워서 가지고 싶은 게 없나 봐",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "아직",
+        "차",
+        "무서워서",
+        "EC",
+        "가지",
+        "고",
+        "싶",
+        "은",
+        "게",
+        "JKS",
+        "없",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "키키 운전하려면 면허도 따야 하는데! 걱정이다",
+      "tokens": [
+        "키키운전하려면면허도따야하는데",
+        "걱정",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

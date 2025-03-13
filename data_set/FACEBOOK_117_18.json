@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "일단 내가 상생 지원금 2분기 금액을 봤거든?",
+      "tokens": [
+        "일단",
+        "내",
+        "가",
+        "상생",
+        "지원금",
+        "2",
+        "분기",
+        "금액",
+        "을",
+        "봤",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 얼마 나와야 해?",
+      "tokens": [
+        "웅",
+        "얼마나",
+        "와야",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 88만 원 나왔어!",
+      "tokens": [
+        "나",
+        "88",
+        "만",
+        "원",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "음, 괜찮겠지?",
+      "tokens": [
+        "음",
+        ",",
+        "괜찮",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그럼 그 돈 다 받는 거야?",
+      "tokens": [
+        "그럼",
+        "그",
+        "돈",
+        "다",
+        "받",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니! 이거보다 10월 달에 많이 쓰면 이제 캐시백 되는 거야!",
+      "tokens": [
+        "아니",
+        "이거",
+        "보다",
+        "10",
+        "월",
+        "달",
+        "에",
+        "많이",
+        "쓰",
+        "면",
+        "이제",
+        "캐",
+        "ETM",
+        "시백",
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이번 달 많이 쓸 수 있겠어? 키키",
+      "tokens": [
+        "이번",
+        "달",
+        "많이",
+        "쓸",
+        "ETM",
+        "수",
+        "있",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "응~ 당연하지 ~",
+      "tokens": [
+        "응",
+        "~",
+        "당연",
+        "하",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "카드만 쓰는 중이야~",
+      "tokens": [
+        "카드",
+        "만",
+        "쓰",
+        "는",
+        "중",
+        "이",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그 수술비 선결제 해 얼른",
+      "tokens": [
+        "그",
+        "수술",
+        "비선",
+        "결제",
+        "해",
+        "EC",
+        "얼른"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 어 당연히 했지~",
+      "tokens": [
+        "키",
+        "키어",
+        "당연히",
+        "했",
+        "EP",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 할부도 포함이 되나?",
+      "tokens": [
+        "근데",
+        "할",
+        "ETM",
+        "부도",
+        "포함",
+        "이",
+        "되",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "당연히 받겠다",
+      "tokens": [
+        "당연히",
+        "받",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "할부도 포함이지 않을까?",
+      "tokens": [
+        "할부",
+        "도",
+        "포함",
+        "이",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오 개꿀~ 그러면 나 다 받을 수 있어!",
+      "tokens": [
+        "오",
+        "개꿀",
+        "~",
+        "그러",
+        "면",
+        "나",
+        "다",
+        "받",
+        "을",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "할부 몇 개월 했어",
+      "tokens": [
+        "할부",
+        "몇",
+        "개월",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "비싸잖아",
+      "tokens": [
+        "비싸",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 할부 무이자 5개월로 했어!",
+      "tokens": [
+        "나",
+        "할부",
+        "무이자",
+        "5",
+        "개월",
+        "로",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "한 달에 육십 넘게 내겠네 키키",
+      "tokens": [
+        "한",
+        "달",
+        "에",
+        "육",
+        "십",
+        "넘",
+        "게",
+        "내",
+        "겠",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어 맞아 키키 괜찮아 열심히 돈 벌고 있으니까!",
+      "tokens": [
+        "어",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN",
+        "괜찮",
+        "아",
+        "열심히",
+        "돈",
+        "벌",
+        "고",
+        "있",
+        "으니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아 너 요새 고생하더라 ㅜㅜ",
+      "tokens": [
+        "맞",
+        "아",
+        "너",
+        "요새",
+        "고생",
+        "하",
+        "더라",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_117_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

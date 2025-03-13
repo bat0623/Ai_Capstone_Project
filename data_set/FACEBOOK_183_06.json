@@ -1,0 +1,481 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너희는 어떤 교육이 제일 빡셌어?",
+      "tokens": [
+        "너희",
+        "는",
+        "어떤",
+        "교육",
+        "이",
+        "제일",
+        "빡",
+        "셌",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 수학 공부 하하 어려워 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "수학",
+        "공부",
+        "하하",
+        "어려워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 암기 위주의 공부들이 너무 빡쌨어 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "암기",
+        "위주",
+        "의",
+        "공부",
+        "들",
+        "이",
+        "너무",
+        "빡",
+        "쌨",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오... 난 모든 공부들이... 싫었어...",
+      "tokens": [
+        "오",
+        ".",
+        "난",
+        "JX",
+        "모든",
+        "공부",
+        "들",
+        "이",
+        ".",
+        ".",
+        "싫",
+        "었",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 역시 노는 게 제일 죠하!",
+      "tokens": [
+        "난",
+        "JX",
+        "역시",
+        "노",
+        "는",
+        "게",
+        "JKS",
+        "제일",
+        "죠",
+        "EF",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 그건 나도! 엄청 놀즈야~",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그건",
+        "JX",
+        "나",
+        "도",
+        "엄청",
+        "놀즈",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 그건 누구나 그렇지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그건",
+        "JX",
+        "누구",
+        "나",
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 나는 올해 살면서 처음으로 스스로 공부한 거 같아",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "올해",
+        "살",
+        "면서",
+        "처음",
+        "으로",
+        "스스로",
+        "공부",
+        "한",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오우... 진짜 근데 공부는 평생 해야 하는 것 같아...",
+      "tokens": [
+        "오우",
+        ".",
+        "진짜",
+        "근데",
+        "공부",
+        "는",
+        "평생",
+        "해야",
+        "EC",
+        "하",
+        "는",
+        "것",
+        "같",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "계속 교육의 반복이야ㅜ",
+      "tokens": [
+        "계속",
+        "교육",
+        "의",
+        "반복",
+        "이",
+        "야",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "ㅠㅠ 맞어 공부해야 되는 거 같아 ㅠㅠ 어려워",
+      "tokens": [
+        "ㅠㅠ",
+        "맞",
+        "어",
+        "공부",
+        "해야",
+        "EC",
+        "되",
+        "는",
+        "거",
+        "같",
+        "아",
+        "ㅠㅠ",
+        "어려워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "둘 다 요즘 공부하고 있는 거 있어?",
+      "tokens": [
+        "둘",
+        "다",
+        "요즘",
+        "공부",
+        "하",
+        "고",
+        "있",
+        "는",
+        "거",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 요즘 포토샵 배워!",
+      "tokens": [
+        "난",
+        "JX",
+        "요즘",
+        "포토샵",
+        "배워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오 나는 얼마나 효율적으로 쉴 수 있을지 공부 ㅎ",
+      "tokens": [
+        "오",
+        "나",
+        "는",
+        "얼마나",
+        "효율",
+        "적",
+        "으로",
+        "쉴",
+        "ETM",
+        "수",
+        "있",
+        "을지",
+        "공부",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오 휴식 중요하지",
+      "tokens": [
+        "오",
+        "휴식",
+        "중요",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래서 뭘 배웠어?",
+      "tokens": [
+        "그래서",
+        "뭘",
+        "JKO",
+        "배웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "넌 뭐 배우는 거 읬엉?",
+      "tokens": [
+        "넌",
+        "JX",
+        "뭐",
+        "배우",
+        "는",
+        "거",
+        "읬엉"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "교육은 평생이지 진짜 ㅠ",
+      "tokens": [
+        "교육",
+        "은",
+        "평생",
+        "이",
+        "지",
+        "진짜",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나는 이제 없어 키키",
+      "tokens": [
+        "나",
+        "는",
+        "이제",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 배우고 공부하고 싶은 거는 있어",
+      "tokens": [
+        "근데",
+        "배우",
+        "고",
+        "공부",
+        "하",
+        "고",
+        "싶",
+        "은",
+        "거",
+        "는",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "뭐 배우고 싶은데?",
+      "tokens": [
+        "뭐",
+        "배우",
+        "고",
+        "싶",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "하하 그게 뭔데에?",
+      "tokens": [
+        "하하",
+        "그게",
+        "JKS",
+        "뭔",
+        "데",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나 교정 운동학이랑 운동 재활? 이쪽으로 배우고 싶어",
+      "tokens": [
+        "나교정운동학이랑운동재활",
+        "이쪽",
+        "으로",
+        "배우",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_183_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

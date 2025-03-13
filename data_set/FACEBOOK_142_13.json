@@ -1,0 +1,456 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 날씨 따뜻했어?",
+      "tokens": [
+        "오늘",
+        "날씨",
+        "따뜻",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어땠어? ㅠㅠ",
+      "tokens": [
+        "어땠어",
+        "EP",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오늘 날씨 진짜 따뜻했어 키키",
+      "tokens": [
+        "오늘",
+        "날씨",
+        "진짜",
+        "따뜻",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "음 오늘도 나가진 않았는데 날씨 좋아서 좀 있다가 나는 산책 갈라고 키키",
+      "tokens": [
+        "음",
+        "오늘",
+        "도",
+        "나가",
+        "진",
+        "JX",
+        "않",
+        "았",
+        "는데",
+        "날씨",
+        "좋",
+        "아서",
+        "좀",
+        "있",
+        "다가",
+        "나",
+        "는",
+        "산책",
+        "갈라고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 오늘은 밖에 한 번도 못 나가봤어 ㅠㅠ",
+      "tokens": [
+        "나오늘",
+        "은",
+        "밖",
+        "에",
+        "한",
+        "번",
+        "도",
+        "못",
+        "나가",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "언니 진짜 날씨 좋았는데 아숩다",
+      "tokens": [
+        "언니",
+        "진짜",
+        "날씨",
+        "좋",
+        "았",
+        "는데",
+        "아",
+        "숩",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "저녁도 먹었겠다 좀 있다가 공원이나 산책 갔다 와야지 키키",
+      "tokens": [
+        "저녁",
+        "도",
+        "먹",
+        "었겠",
+        "다",
+        "좀",
+        "있",
+        "다가",
+        "공원",
+        "이나",
+        "산책",
+        "갔",
+        "EP",
+        "다",
+        "와야지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "속상해 ㅠㅠ 날씨 추운데 어딜 나가려고 ㅠㅠ",
+      "tokens": [
+        "속상해",
+        "EC",
+        "ㅠㅠ",
+        "날씨",
+        "추운데",
+        "EC",
+        "어딜",
+        "JKO",
+        "나가",
+        "려고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래 저녁에 산책이라도 다녀와~",
+      "tokens": [
+        "그래",
+        "저녁",
+        "에",
+        "산책",
+        "이",
+        "라도",
+        "다녀와",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞어 산책 가면 진짜 기분 상쾌하고 좋은데 키키",
+      "tokens": [
+        "맞",
+        "어",
+        "산책",
+        "가",
+        "면",
+        "진짜",
+        "기분",
+        "상쾌",
+        "하",
+        "고",
+        "좋",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "저녁엔 밖에 나가는 거 아니야",
+      "tokens": [
+        "저녁",
+        "엔",
+        "JX",
+        "밖",
+        "에",
+        "나가",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너무 춥다고 ㅠㅠ",
+      "tokens": [
+        "너무",
+        "춥",
+        "다고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "지금 날씨 별로 안 추워",
+      "tokens": [
+        "지금",
+        "날씨",
+        "별로",
+        "안",
+        "추워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "한번 나가봐!",
+      "tokens": [
+        "한",
+        "번",
+        "나가",
+        "EC",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞어 날씨 너무 안 추울 때 딱 산책 갔다 와야 해 키키",
+      "tokens": [
+        "맞",
+        "어",
+        "날씨",
+        "너무",
+        "안",
+        "추울",
+        "ETM",
+        "때",
+        "딱",
+        "산책",
+        "갔다와야",
+        "EC",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래? 그럼 이따 밥 먹고 산책 좀 하고 와야겠다 ㅠㅠ",
+      "tokens": [
+        "그래",
+        "그럼이따밥먹고산책좀하고와야겠다ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아니면 털옷 입고 나가봐~",
+      "tokens": [
+        "아니면",
+        "털옷",
+        "입",
+        "고",
+        "나가",
+        "EC",
+        "봐",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아니면 롱패딩의 시작을 니가 한번 해보자! 키키",
+      "tokens": [
+        "아니면",
+        "롱",
+        "패딩",
+        "의",
+        "시작",
+        "을",
+        "니",
+        "가",
+        "한",
+        "번",
+        "해",
+        "EC",
+        "보",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어머 나 롱패 개시한 지 오래야 키키",
+      "tokens": [
+        "어머",
+        "나롱",
+        "패",
+        "개시",
+        "한지",
+        "EC",
+        "오",
+        "래야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래 롱패딩 꺼내서 입고 나가자!",
+      "tokens": [
+        "그래",
+        "롱",
+        "패딩",
+        "꺼내",
+        "서",
+        "입",
+        "고",
+        "나가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오 벌써 롱패딩 꺼냈구나 키키",
+      "tokens": [
+        "오",
+        "벌써",
+        "롱",
+        "패딩",
+        "꺼냈",
+        "EP",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_142_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

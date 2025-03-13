@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "헐 경유차 타는 사람?",
+      "tokens": [
+        "헐",
+        "경유",
+        "차타",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저는 경유 아니예요",
+      "tokens": [
+        "저",
+        "는",
+        "경유",
+        "아니",
+        "예요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 아니야 ㅜㅜ 힝",
+      "tokens": [
+        "나",
+        "는",
+        "아니",
+        "야",
+        "ㅜㅜ",
+        "힝"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "요소수가 없어서 또 난리네",
+      "tokens": [
+        "요",
+        "소수",
+        "가",
+        "없",
+        "어서",
+        "또",
+        "난리",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "경유차 타면 진짜 개이득... 이던데",
+      "tokens": [
+        "경유차타면진짜개이득",
+        ".",
+        ".",
+        "이",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그건 뭔데? 궁금",
+      "tokens": [
+        "그건",
+        "JX",
+        "뭔데",
+        "VCP",
+        "EF",
+        "궁금"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "중국에서 수입이 안된데",
+      "tokens": [
+        "중국",
+        "에서",
+        "수입",
+        "이",
+        "안",
+        "된",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 ㅠㅠ 그게 또 난리구나",
+      "tokens": [
+        "아",
+        "ㅠㅠ",
+        "그게",
+        "JKS",
+        "또",
+        "난리",
+        "구나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 그걸 또 수입하는 거임?",
+      "tokens": [
+        "아",
+        "그걸",
+        "JKO",
+        "또",
+        "수입",
+        "하",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "경유차에 요즘 넣어야 하는 거 있음!",
+      "tokens": [
+        "경유",
+        "차",
+        "에",
+        "요즘",
+        "넣",
+        "어야",
+        "하",
+        "는",
+        "거",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 경유차에는 그걸 꼭",
+      "tokens": [
+        "아경",
+        "유차",
+        "에",
+        "는",
+        "그걸",
+        "JKO",
+        "꼭"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 뭐야",
+      "tokens": [
+        "아",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "첨 들어봤어 ㄷㄷ",
+      "tokens": [
+        "첨",
+        "들",
+        "어",
+        "봤",
+        "EP",
+        "어",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 그거 중국에서 수입하는 거래",
+      "tokens": [
+        "응",
+        "그거",
+        "중국",
+        "에서",
+        "수입",
+        "하",
+        "는",
+        "거래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "넣어야 하는 구나",
+      "tokens": [
+        "넣",
+        "어야",
+        "하",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "경유차 아니라서 다행인가...",
+      "tokens": [
+        "경유",
+        "차",
+        "아니",
+        "라서",
+        "다행",
+        "인가",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우리 차도 넣어야 하는 데...",
+      "tokens": [
+        "우리",
+        "차",
+        "도",
+        "넣",
+        "어야",
+        "하",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "처음 알았네여 ㅠㅠ 진짜...",
+      "tokens": [
+        "처음",
+        "알",
+        "았",
+        "네여",
+        "ㅠㅠ",
+        "진짜",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "뭐야 어떡해?",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF",
+        "어떡",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "건강에 문제 있으신 분...?",
+      "tokens": [
+        "건강",
+        "에",
+        "문제",
+        "있",
+        "으신",
+        "ETM",
+        "분",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저는 오늘 두통이 좀...",
+      "tokens": [
+        "저",
+        "는",
+        "오늘",
+        "두통",
+        "이",
+        "좀",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 단백뇨래... 어쩐대...",
+      "tokens": [
+        "나",
+        "단백뇨",
+        "래",
+        "EF",
+        ".",
+        "어",
+        "쩐",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 지금 경락 시급",
+      "tokens": [
+        "난",
+        "JX",
+        "지금",
+        "경락",
+        "시급"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "하도 신경 쓸 일이 많아서...",
+      "tokens": [
+        "하도",
+        "신경",
+        "쓸",
+        "ETM",
+        "일",
+        "이",
+        "많",
+        "아서",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "ㅜㅜ 두통 진짜 사람 거슬리게 하는데",
+      "tokens": [
+        "ㅜㅜ",
+        "두통",
+        "진짜",
+        "사람",
+        "거슬리",
+        "게",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "단백뇨? 그거 콜라색 아냐?",
+      "tokens": [
+        "단백뇨",
+        "그거",
+        "콜라",
+        "색",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 단백뇨?",
+      "tokens": [
+        "헐",
+        "단백뇨"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "** 친구 큰일이네 키키",
+      "tokens": [
+        "*",
+        "*",
+        "친구",
+        "큰일",
+        "이",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "뭐야 키키",
+      "tokens": [
+        "뭐",
+        "야키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "보충제 많이 머거서 근가...",
+      "tokens": [
+        "보충제많이머거서근가",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "건강검진 했는데 단백뇨래",
+      "tokens": [
+        "건강",
+        "검진",
+        "했",
+        "EP",
+        "는데",
+        "단백뇨",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "스트레스 받아서 두통 왔나 봐",
+      "tokens": [
+        "스트레스",
+        "받",
+        "아서",
+        "두",
+        "통",
+        "왔",
+        "EP",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그게 왜 생기는 건데?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "왜",
+        "생기",
+        "는",
+        "건데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "콜라색 오줌은 횡문근융해증이여",
+      "tokens": [
+        "콜라",
+        "색",
+        "오줌",
+        "은",
+        "횡문근",
+        "융해",
+        "증",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 그거 큰 병 아님?",
+      "tokens": [
+        "와",
+        "그거",
+        "큰",
+        "ETM",
+        "병",
+        "아님",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "헐헐 보충제 때문이구나 ㄷㄷ",
+      "tokens": [
+        "헐헐",
+        "보충",
+        "제",
+        "때문",
+        "이",
+        "구나",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그거는 진짜 심각한 거고",
+      "tokens": [
+        "그거",
+        "는",
+        "진짜",
+        "심각",
+        "한",
+        "ETM",
+        "거",
+        "고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 그래...? 그럼 괜찮은 거임?",
+      "tokens": [
+        "아",
+        "그래",
+        ".",
+        ".",
+        "그럼",
+        "괜찮",
+        "은",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그럼 보충제만 끊으면 됨?",
+      "tokens": [
+        "그럼",
+        "보충",
+        "제",
+        "만",
+        "끊",
+        "으면",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "움... 일단 먹는 거부터 조절해 바야지",
+      "tokens": [
+        "움",
+        ".",
+        "일단",
+        "먹",
+        "는",
+        "거",
+        "부터",
+        "조절",
+        "해",
+        "EC",
+        "바야",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

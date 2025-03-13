@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "겨울 좋아하시는 분~",
+      "tokens": [
+        "겨울",
+        "좋",
+        "아",
+        "하",
+        "시",
+        "는",
+        "분",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 겨울 좋아해 하하",
+      "tokens": [
+        "나",
+        "겨울",
+        "좋",
+        "아",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "겨울 좋지 키키",
+      "tokens": [
+        "겨울",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "스키장 가?",
+      "tokens": [
+        "스키",
+        "장가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "전 겨울이 좋아요",
+      "tokens": [
+        "전",
+        "겨울",
+        "이",
+        "좋",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "겨울은 보드의 계절이니까 하하 스노우보드 좋아",
+      "tokens": [
+        "겨울",
+        "은",
+        "보드",
+        "의",
+        "계절",
+        "이",
+        "니까",
+        "하하",
+        "스노우",
+        "보드",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요 둘이 타러 가나봄?",
+      "tokens": [
+        "요둘이타러가나봄"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "장판이 넘 좋아",
+      "tokens": [
+        "장판",
+        "이",
+        "넘",
+        "좋아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "대전에서 무주 가까워서 부럽 ㅠㅠ",
+      "tokens": [
+        "대전",
+        "에서",
+        "무주",
+        "가까워",
+        "서",
+        "부럽",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 아니 갑자기 장판 키키 귤까먹ㄱ기",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "갑자기",
+        "장판",
+        "키",
+        "키",
+        "귤",
+        "까먹",
+        "ㄱ",
+        "기",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나도 스키장 좋아해",
+      "tokens": [
+        "나",
+        "도",
+        "스키장",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "1시간도 알걸릴듯 무주는",
+      "tokens": [
+        "1",
+        "시간",
+        "도",
+        "알",
+        "걸릴",
+        "ETM",
+        "듯",
+        "무주",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 근데 한번도 안타봄 키키",
+      "tokens": [
+        "나",
+        "근데",
+        "한",
+        "번",
+        "도",
+        "안",
+        "타",
+        "EC",
+        "봄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "대전에서 무주가 가까워?",
+      "tokens": [
+        "대전",
+        "에서",
+        "무주",
+        "가",
+        "가까워",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우린 1시간 30분 가야해",
+      "tokens": [
+        "우린",
+        "JX",
+        "1",
+        "시간",
+        "30",
+        "분",
+        "가",
+        "야해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "한 시간 걸릴듯? 키키 가깝지?",
+      "tokens": [
+        "한",
+        "시간",
+        "걸릴",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN",
+        "가깝",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "대전은 다 가깝넹...",
+      "tokens": [
+        "대전",
+        "은",
+        "다",
+        "가깝",
+        "넹",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 30분이면 감 무주까지 하하 대전에서",
+      "tokens": [
+        "응",
+        "30",
+        "분",
+        "이",
+        "면",
+        "감",
+        "ETN",
+        "무주",
+        "까지",
+        "하하",
+        "대전",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "웅 맞아 키키 가까워서 좋제",
+      "tokens": [
+        "웅",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN",
+        "가까워",
+        "서",
+        "좋",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

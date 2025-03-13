@@ -1,0 +1,371 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "반려 동물 키운다고 했나...?",
+      "tokens": [
+        "반려",
+        "동물",
+        "키운다고",
+        "EC",
+        "했",
+        "EP",
+        "나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "고양이 키우지 않나?",
+      "tokens": [
+        "고양이",
+        "키우",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아뇨",
+      "tokens": [
+        "아뇨",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나중에 독립하면 키우려고요 하하",
+      "tokens": [
+        "나중",
+        "에",
+        "독립",
+        "하",
+        "면",
+        "키우",
+        "려고요",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 강아지 키워 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "강아지",
+        "키워",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오 독립하고 하하 키우면 좋을 듯 하하",
+      "tokens": [
+        "오",
+        "독립",
+        "하",
+        "고",
+        "하하",
+        "키우",
+        "면",
+        "좋",
+        "을",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "강아지랑 고양이랑 다 키우고 싶어요 하하",
+      "tokens": [
+        "강아지",
+        "랑",
+        "고양이",
+        "랑",
+        "다",
+        "키우",
+        "고",
+        "싶",
+        "어요",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "고양이 파가 있고 강아지 파가 있잖아",
+      "tokens": [
+        "고양이",
+        "파",
+        "가",
+        "있",
+        "고",
+        "강아지",
+        "파",
+        "가",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "고양이 키워봐 아주 귀여워 하하",
+      "tokens": [
+        "고양이",
+        "키워",
+        "EC",
+        "봐",
+        "EF",
+        "아주",
+        "귀여워",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이구아나도 좋고 뭐든 다 좋아요",
+      "tokens": [
+        "이구아나",
+        "도",
+        "좋",
+        "고",
+        "뭐",
+        "든다",
+        "EC",
+        "좋",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "난 백 번 강아지!",
+      "tokens": [
+        "난",
+        "JX",
+        "백",
+        "번",
+        "강아지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "강아지는 냄새나서 꽤나 하하",
+      "tokens": [
+        "강아지",
+        "는",
+        "냄새나",
+        "서",
+        "꽤",
+        "나",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그냥 반력동물을 키우고 싶네유 하하",
+      "tokens": [
+        "그냥",
+        "반력",
+        "동물",
+        "을",
+        "키우",
+        "고",
+        "싶",
+        "네유",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이구아나 좋다 키키",
+      "tokens": [
+        "이구아나",
+        "좋",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이구아나 키워 ㅠㅠ",
+      "tokens": [
+        "이구아나키워ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "고양이는 깨끗하거든 하하",
+      "tokens": [
+        "고양이",
+        "는",
+        "깨끗",
+        "하",
+        "거든",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "강아지는 그래도 사람 말 잘 알아들으니까",
+      "tokens": [
+        "강아지",
+        "는",
+        "그래도",
+        "사람",
+        "말",
+        "잘",
+        "알아들으니까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "고양이도 냄새 날 껄?",
+      "tokens": [
+        "고양이",
+        "도",
+        "냄새",
+        "날",
+        "껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "고양이는 냄새가 별로 안나 하하 몸에서",
+      "tokens": [
+        "고양이",
+        "는",
+        "냄새",
+        "가",
+        "별로",
+        "안",
+        "나",
+        "EC",
+        "하하",
+        "몸",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아무래도 사람들이 더 선호하는 거 같아요 ㅎ",
+      "tokens": [
+        "아무래도",
+        "사람",
+        "들",
+        "이",
+        "더",
+        "선호",
+        "하",
+        "는",
+        "거",
+        "같",
+        "아요",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_131_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

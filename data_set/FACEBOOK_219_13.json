@@ -1,0 +1,462 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "겨울에 하는 건 처음이야!",
+      "tokens": [
+        "겨울",
+        "에",
+        "하",
+        "는",
+        "건",
+        "JX",
+        "처음",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "원래 10월1일에 하거든 하하",
+      "tokens": [
+        "원래",
+        "10",
+        "월",
+        "1",
+        "일",
+        "에",
+        "하",
+        "거든",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 그럼 보통 가을쯤에 했구낰 키키?",
+      "tokens": [
+        "오",
+        "그럼",
+        "보통",
+        "가을",
+        "쯤",
+        "에",
+        "했",
+        "EP",
+        "구",
+        "낰키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "유등 축제 완전 큰 축제얌...!",
+      "tokens": [
+        "유등축제완전큰축제얌",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "글로벌 한디",
+      "tokens": [
+        "글로벌",
+        "한디",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이번에는 코로나라 이례적인 일이야 하하",
+      "tokens": [
+        "이번",
+        "에",
+        "는",
+        "코",
+        "로",
+        "나라",
+        "이례",
+        "적",
+        "인",
+        "ETM",
+        "일",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "오 한번도 안 가봤음! 키키",
+      "tokens": [
+        "오",
+        "한",
+        "번",
+        "도",
+        "안",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "궁금한디?",
+      "tokens": [
+        "궁금",
+        "한",
+        "ETM",
+        "디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응 원래 가을에 하는 축제야 하하",
+      "tokens": [
+        "응",
+        "원래",
+        "가을",
+        "에",
+        "하",
+        "는",
+        "축제",
+        "야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "엄청 유명한데 하하",
+      "tokens": [
+        "엄청",
+        "유명",
+        "한데",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니 사천에서 뮤슨 공군 축제 있자나",
+      "tokens": [
+        "아니",
+        "사",
+        "천",
+        "에서",
+        "뮤",
+        "슨",
+        "ETM",
+        "공군",
+        "축제",
+        "있",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "인스타 쳐봐",
+      "tokens": [
+        "인",
+        "스타",
+        "쳐",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "엄청난 축제임...",
+      "tokens": [
+        "엄청난",
+        "ETM",
+        "축제",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "남자친구랑 내려 오렴 친해져서 하하",
+      "tokens": [
+        "남자",
+        "친구",
+        "랑",
+        "내려오",
+        "렴",
+        "친해져서",
+        "EC",
+        "VX",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "오 한번 검색해보겠음!",
+      "tokens": [
+        "오",
+        "한",
+        "번",
+        "검색",
+        "해",
+        "EC",
+        "보",
+        "겠",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "공군 축제랑은 비교가 안된단다",
+      "tokens": [
+        "공군",
+        "축제",
+        "랑",
+        "은",
+        "비교",
+        "가",
+        "안",
+        "된단다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "에어쇼 보러 갔었구나?",
+      "tokens": [
+        "에어쇼",
+        "보",
+        "러",
+        "갔었",
+        "EP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 아니",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그것도 본 적 없음 키키 듣기만?",
+      "tokens": [
+        "그것",
+        "도",
+        "본",
+        "ETM",
+        "적",
+        "없",
+        "음",
+        "키",
+        "키",
+        "ETN",
+        "듣",
+        "기",
+        "만"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "엉엉 찾아보면 놀랄 꺼얌 하하",
+      "tokens": [
+        "엉엉",
+        "찾아보",
+        "면",
+        "놀랄",
+        "ETM",
+        "꺼얌",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그것도 재밌지 ㅎ",
+      "tokens": [
+        "그것",
+        "도",
+        "재밌",
+        "지",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "남친이랑 가보고 싶긴하넼 키키",
+      "tokens": [
+        "남친",
+        "이",
+        "랑가",
+        "보",
+        "고",
+        "싶",
+        "긴",
+        "JX",
+        "하",
+        "넼키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

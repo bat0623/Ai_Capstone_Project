@@ -1,0 +1,511 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "강아지 미용 사업도 괜찮은 듯",
+      "tokens": [
+        "강아지",
+        "미용",
+        "사업",
+        "도",
+        "괜찮",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 가격 장난 아니제",
+      "tokens": [
+        "키",
+        "키가",
+        "ETN",
+        "JKS",
+        "격장",
+        "난",
+        "JX",
+        "아니",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "강아지 관련 용품 사업도 좋지",
+      "tokens": [
+        "강아지",
+        "관련",
+        "용품",
+        "사업",
+        "도",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "유튜브 보니까 어떤 아저씨 달에 2천 벌더라",
+      "tokens": [
+        "유튜브",
+        "보",
+        "니까",
+        "어떤",
+        "아저씨",
+        "달",
+        "에",
+        "2",
+        "천",
+        "벌",
+        "더라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어렵지 않나 근데?",
+      "tokens": [
+        "어렵",
+        "지",
+        "않",
+        "나",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "2천?",
+      "tokens": [
+        "2",
+        "천"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "와... 근데 강아지 미용도 자격증 있어야 하지?",
+      "tokens": [
+        "와",
+        ".",
+        "근데",
+        "강아지",
+        "미용",
+        "도",
+        "자격증",
+        "있",
+        "어야",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "대형견만 미용하는데 키키",
+      "tokens": [
+        "대형",
+        "견만",
+        "미용",
+        "하",
+        "는",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "찾아가는 서비스",
+      "tokens": [
+        "찾아가",
+        "는",
+        "서비스"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 미쳤다 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "미쳤",
+        "EP",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "출장 서비스네",
+      "tokens": [
+        "출장",
+        "서비스",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "심지어 찾아가 주네;",
+      "tokens": [
+        "심지어",
+        "찾아가",
+        "EC",
+        "주",
+        "네",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "미용이 아니구 목욕만 시켜 주고!",
+      "tokens": [
+        "미용",
+        "이",
+        "아니",
+        "구",
+        "목욕",
+        "만",
+        "시켜",
+        "EC",
+        "주",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "와? 대박이네 키키",
+      "tokens": [
+        "와",
+        "대박",
+        "이",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "장비가 장난 아닌가",
+      "tokens": [
+        "장비",
+        "가",
+        "장난",
+        "아닌가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 목욕시키고 관리해 주고?",
+      "tokens": [
+        "아",
+        "목욕",
+        "시키",
+        "고",
+        "관리",
+        "해",
+        "EC",
+        "주",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그거로 달에 2천?",
+      "tokens": [
+        "그거",
+        "로",
+        "달",
+        "에",
+        "2",
+        "천"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "엉 트럭에서 씻기던데 대단하더라",
+      "tokens": [
+        "엉",
+        "트럭",
+        "에서",
+        "씻기",
+        "던데",
+        "대단",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "크 미쳤다 키키",
+      "tokens": [
+        "크",
+        "미쳤",
+        "EP",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그런 것도 잘 찾아야 함",
+      "tokens": [
+        "그런",
+        "것",
+        "도",
+        "잘",
+        "찾",
+        "아야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "쉬는 날 없나...?",
+      "tokens": [
+        "쉬",
+        "는",
+        "날",
+        "없",
+        "나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나도 할 수 있을 거 같은데",
+      "tokens": [
+        "나",
+        "도",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "을",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "엉엉",
+      "tokens": [
+        "엉엉"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "목욕만 시켜 주고 달에 2천 번대",
+      "tokens": [
+        "목욕",
+        "만",
+        "시켜",
+        "EC",
+        "주",
+        "고",
+        "달",
+        "에",
+        "2",
+        "천",
+        "번",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "순수익!",
+      "tokens": [
+        "순수익"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "혼자서!",
+      "tokens": [
+        "혼자",
+        "서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "나도 고양이 샤워시킬까…",
+      "tokens": [
+        "나",
+        "도",
+        "고양이",
+        "샤워",
+        "시킬까",
+        "EC",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "혼자 차 하나 끌고 가서 하는 거면... 제주에서 내가 해 볼까?",
+      "tokens": [
+        "혼자",
+        "차",
+        "하나",
+        "끌",
+        "고",
+        "가",
+        "서",
+        "하",
+        "는",
+        "거",
+        "면",
+        "EF",
+        ".",
+        ".",
+        "제주",
+        "에서",
+        "내",
+        "가",
+        "해",
+        "EC",
+        "볼까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_126_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

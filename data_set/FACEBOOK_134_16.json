@@ -1,0 +1,427 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "넘 애기들이 다이어트 한다고 난리...",
+      "tokens": [
+        "넘",
+        "애기",
+        "들",
+        "이",
+        "다이어트",
+        "한다고",
+        "EC",
+        "난리",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "우리나라는 다이어트 지옥...",
+      "tokens": [
+        "우리",
+        "나라",
+        "는",
+        "다이어트",
+        "지옥",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그냥 다이어트는 필수지",
+      "tokens": [
+        "그냥",
+        "다이어트",
+        "는",
+        "필",
+        "ETM",
+        "수지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요즘 초딩들은 아이돌 몸매를 원한대",
+      "tokens": [
+        "요즘",
+        "초딩",
+        "들",
+        "은",
+        "아이돌",
+        "몸매",
+        "를",
+        "원한",
+        "ETM",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어머나 초딩들이 ㅠㅠ",
+      "tokens": [
+        "어머나",
+        "초딩",
+        "들",
+        "이",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "무럭무럭 커야지",
+      "tokens": [
+        "무럭무럭",
+        "커야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 심하더라 하는 게 ㅠㅠ",
+      "tokens": [
+        "근데",
+        "심하",
+        "더라",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 어제 금쪽이도 무슨 22키로인 애 나왔던데",
+      "tokens": [
+        "아",
+        "어제",
+        "금쪽",
+        "이",
+        "도",
+        "무슨",
+        "22",
+        "키로",
+        "ETN",
+        "JKB",
+        "인애",
+        "나왔",
+        "EP",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "우리 아기가 그러면 속 터질 듯",
+      "tokens": [
+        "우리",
+        "아기",
+        "가",
+        "그러",
+        "면",
+        "속",
+        "터질",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "뭐 20키로까지 뺄 거라고 난리",
+      "tokens": [
+        "뭐",
+        "20",
+        "키로",
+        "ETN",
+        "JKB",
+        "까지",
+        "뺄",
+        "ETM",
+        "거",
+        "라고",
+        "EC",
+        "난리"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "초5인 앤데...",
+      "tokens": [
+        "초",
+        "5",
+        "인",
+        "앤데",
+        "VCP",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "무슨 일",
+      "tokens": [
+        "무슨",
+        "일"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "토한다는?",
+      "tokens": [
+        "토",
+        "한다는",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "다이어트 때문이었어?",
+      "tokens": [
+        "다이어트",
+        "때문",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "먹고 토하고 그러던데 ㅇ 초딩들",
+      "tokens": [
+        "먹",
+        "고",
+        "토하",
+        "고",
+        "그러",
+        "던",
+        "데ㅇ",
+        "초딩",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "다이어트 때문에 아냐?",
+      "tokens": [
+        "다이어트",
+        "때문",
+        "에",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 제목만 봤는데 다이어트 무슨 일...",
+      "tokens": [
+        "나",
+        "제목",
+        "만",
+        "봤",
+        "EP",
+        "는데",
+        "다이어트",
+        "무슨",
+        "일",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "완젼 그럼 안 되는데 ㅠㅠ",
+      "tokens": [
+        "완",
+        "젼",
+        "그럼",
+        "안",
+        "되",
+        "는데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "난 헤드라인만 봤어 ㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "헤드라인",
+        "만",
+        "봤",
+        "EP",
+        "어ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "방송은 못 봤어",
+      "tokens": [
+        "방송",
+        "은",
+        "못",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나도 헤드라인 ㅠㅠ",
+      "tokens": [
+        "나도헤드라인ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그알 한번 봐 *야",
+      "tokens": [
+        "그",
+        "알",
+        "한",
+        "번",
+        "봐",
+        "EC",
+        "*",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "남친이랑 진주 여행",
+      "tokens": [
+        "남친",
+        "이랑",
+        "진주",
+        "여행"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "남친이랑 진주여행 오면서 친해지기 하하",
+      "tokens": [
+        "남친",
+        "이랑",
+        "진주",
+        "여행",
+        "오",
+        "면서",
+        "친해",
+        "EC",
+        "지",
+        "기",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "쫌 오래 대면 진주로 한번 놀러가겠으!",
+      "tokens": [
+        "쫌",
+        "오래",
+        "대",
+        "면",
+        "진주",
+        "로",
+        "한번",
+        "놀",
+        "러",
+        "가",
+        "겠",
+        "으"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아직 여행 못 가봤지?",
+      "tokens": [
+        "아직",
+        "여행",
+        "못",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "진주 촉석루 가봤니?",
+      "tokens": [
+        "진주촉석루",
+        "가",
+        "봤",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "웅 아직 여행은 못 가봄 키키",
+      "tokens": [
+        "웅",
+        "아직",
+        "여행",
+        "은",
+        "못가",
+        "봄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "촉석루 뭔데?",
+      "tokens": [
+        "촉석루",
+        "뭔데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**아 여기 유등 축제 한다...",
+      "tokens": [
+        "*",
+        "*",
+        "아",
+        "여기",
+        "유등",
+        "축제",
+        "한다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐 진주 와서 거기도 안 데리고 가다니 **",
+      "tokens": [
+        "헐",
+        "진주",
+        "와서",
+        "EC",
+        "거기",
+        "도",
+        "안",
+        "데리",
+        "고",
+        "가",
+        "다니",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 남친이랑 가야 되는 건갘 키키",
+      "tokens": [
+        "아",
+        "남친",
+        "이랑",
+        "가",
+        "야",
+        "되",
+        "는",
+        "건",
+        "JX",
+        "갘키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "유등 축제 쳐봐라...",
+      "tokens": [
+        "유등",
+        "축",
+        "제쳐",
+        "EC",
+        "봐라",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "완전 작살 남",
+      "tokens": [
+        "완전",
+        "작살",
+        "남"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "유등축제 작살 나지 완죤 ㅎ",
+      "tokens": [
+        "유등",
+        "축제",
+        "작살",
+        "나지완",
+        "죤",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우리 신상 카페가기러했능디?",
+      "tokens": [
+        "우리",
+        "신상",
+        "카페",
+        "가",
+        "기러",
+        "EC",
+        "했",
+        "EP",
+        "능",
+        "디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "유등 축제 보러 가장~ 꼬셔 꼬셔",
+      "tokens": [
+        "유등",
+        "축제",
+        "보러",
+        "가장",
+        "~",
+        "꼬셔",
+        "EC",
+        "꼬셔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "12월에 내려와 유등 축제한대 하하",
+      "tokens": [
+        "12",
+        "월",
+        "에",
+        "내려와",
+        "EC",
+        "유등",
+        "축제",
+        "한",
+        "ETM",
+        "대하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "유등 축제 큰 축제임? 키키",
+      "tokens": [
+        "유등",
+        "축제",
+        "큰",
+        "ETM",
+        "축제",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "12월에 한대?",
+      "tokens": [
+        "12",
+        "월",
+        "에",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "신상 카페가 뭐냐...",
+      "tokens": [
+        "신상",
+        "카페",
+        "가",
+        "뭐",
+        "냐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "작년엔 코로나라 안 했음 하하",
+      "tokens": [
+        "작년",
+        "엔",
+        "JX",
+        "코",
+        "로",
+        "나라",
+        "안",
+        "했",
+        "EP",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 아니 그럼 이번 년도는 해? 키키",
+      "tokens": [
+        "키키아니그럼이번년도는해",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

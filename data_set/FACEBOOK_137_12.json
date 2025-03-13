@@ -1,0 +1,335 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여행 적금 들어야 하나...",
+      "tokens": [
+        "여행",
+        "적금",
+        "들어야",
+        "EC",
+        "하나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 들자 바로 하하",
+      "tokens": [
+        "응",
+        "들",
+        "자",
+        "바로",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "여행 적금 낸 들고 있따 키키",
+      "tokens": [
+        "여행",
+        "적금",
+        "낸들",
+        "VCP",
+        "EC",
+        "고",
+        "있",
+        "따",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "인제 돈이라도 모아야 하나 싶다",
+      "tokens": [
+        "인제",
+        "돈",
+        "이",
+        "라도",
+        "모아야",
+        "EC",
+        "하",
+        "나",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "지금부터 들어서 해외로 뜨자",
+      "tokens": [
+        "지금",
+        "부터",
+        "들",
+        "어서",
+        "해외",
+        "로",
+        "뜨",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "돈 모아서 가야 함 키키",
+      "tokens": [
+        "돈",
+        "모아서",
+        "EC",
+        "가",
+        "야",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "한 달에 얼마 넣음?",
+      "tokens": [
+        "한",
+        "달",
+        "에",
+        "얼마",
+        "넣",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "코로나 시작부터 모았음 어땠을까",
+      "tokens": [
+        "코로나",
+        "시작",
+        "부터",
+        "모았",
+        "EP",
+        "음",
+        "어땠을까",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "**는 ** 친구랑",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "*",
+        "*",
+        "친구",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니까 돈 안 모으면 부담이당",
+      "tokens": [
+        "그니까",
+        "돈",
+        "안",
+        "모으",
+        "면",
+        "부담",
+        "이당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아마 지금 많이 모았을 듯",
+      "tokens": [
+        "아마",
+        "지금",
+        "많이",
+        "모았",
+        "EP",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "내는 내 친구들이랑 든다 키키",
+      "tokens": [
+        "내",
+        "는",
+        "내",
+        "JKG",
+        "친구",
+        "들",
+        "이랑",
+        "든",
+        "EC",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 여행 적금 있음 키키",
+      "tokens": [
+        "나",
+        "도",
+        "여행",
+        "적금",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까 그때 목돈 들면 부담",
+      "tokens": [
+        "그니까",
+        "그때",
+        "목돈",
+        "들",
+        "면",
+        "부담"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "졸랭 갠플이네 우리 부부 ^^",
+      "tokens": [
+        "졸랭갠플이네우리부부",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "2만원씩 내는 데 벌써 500...",
+      "tokens": [
+        "2",
+        "만",
+        "원",
+        "씩",
+        "내",
+        "는데",
+        "벌써",
+        "500",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "울 가족 적금 있는디 난 하하",
+      "tokens": [
+        "울",
+        "가족",
+        "적금",
+        "있",
+        "는디",
+        "난",
+        "JX",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오 ㅏ 엄청 쌓였네 ? 대박",
+      "tokens": [
+        "오ㅏ엄청쌓였네",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_137_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

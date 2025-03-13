@@ -1,0 +1,524 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오랜만에 친구 집 가서 고양이 봤는데 살이 엄청 쪘더라 키키",
+      "tokens": [
+        "오랜만",
+        "에",
+        "친구",
+        "집",
+        "가",
+        "서",
+        "고양이",
+        "봤",
+        "EP",
+        "는데",
+        "살",
+        "이",
+        "엄청",
+        "쪘",
+        "EP",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 고양이?",
+      "tokens": [
+        "헐",
+        "고양이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "으악 귀여워ㅠㅠ",
+      "tokens": [
+        "으악귀여워ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 고양이는 안 키워 봤는데",
+      "tokens": [
+        "나",
+        "고양이",
+        "는",
+        "안",
+        "키워",
+        "EC",
+        "봤",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 모르게 고양이 살 엄청 쪘네 이랬더니 고양이가 울더라고 키키",
+      "tokens": [
+        "나",
+        "도",
+        "모르",
+        "게",
+        "고양이",
+        "살",
+        "엄청",
+        "쪘",
+        "EP",
+        "네",
+        "이랬",
+        "EP",
+        "더니",
+        "고양이",
+        "가",
+        "울",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "고양이 키우면 내가 쫓아 다닐 듯",
+      "tokens": [
+        "고양이",
+        "키우",
+        "면",
+        "내",
+        "가",
+        "쫓아다닐",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "고양이 도도해서 그럴 듯",
+      "tokens": [
+        "고양이",
+        "도도",
+        "해서",
+        "EC",
+        "그럴",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 고양이가 자기 살찐 거 아나 봐 키키",
+      "tokens": [
+        "키",
+        "키",
+        "고양이",
+        "가",
+        "자기",
+        "살찐",
+        "ETM",
+        "거",
+        "아나",
+        "봐",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "신기하더라 키키",
+      "tokens": [
+        "신기",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "고양이는 살 쪄도 귀여워",
+      "tokens": [
+        "고양이",
+        "는",
+        "살쪄",
+        "EC",
+        "도",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "고양이가 뭐 많이 먹었나 보네 키키",
+      "tokens": [
+        "고양이",
+        "가",
+        "뭐",
+        "많이",
+        "먹",
+        "었",
+        "나",
+        "보",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "친구가 고양이 엄청 좋아해서 맛있는 거 많이 먹이나봐 키키",
+      "tokens": [
+        "친구",
+        "가",
+        "고양이",
+        "엄청",
+        "좋",
+        "아",
+        "해서",
+        "EC",
+        "맛있",
+        "는",
+        "거",
+        "많이",
+        "먹",
+        "이나",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 많이 먹어라",
+      "tokens": [
+        "키",
+        "키",
+        "많이",
+        "먹",
+        "어라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "더 귀여워지게!",
+      "tokens": [
+        "더",
+        "귀여워",
+        "EC",
+        "지",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 아니야",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래도 가려가면서 줘야지ㅠㅠ",
+      "tokens": [
+        "그래도",
+        "가려",
+        "EC",
+        "가",
+        "면서",
+        "줘야지",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "내가 고양이 다이어트 좀 시키라고 했어 키키",
+      "tokens": [
+        "내",
+        "가",
+        "고양이",
+        "다이어트",
+        "좀",
+        "시키",
+        "라고",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 그래",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "가려가면서 많이 먹여라!",
+      "tokens": [
+        "가려",
+        "EC",
+        "가",
+        "면서",
+        "많이",
+        "먹",
+        "여라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 으이그",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "으이",
+        "그"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "안 그래도 귀여운 거 알면서 저런다",
+      "tokens": [
+        "안",
+        "그래도",
+        "EC",
+        "귀여운",
+        "ETM",
+        "거",
+        "알",
+        "면서",
+        "저런다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "진짜 흔히 말하는 돼양이가 됐어 키키",
+      "tokens": [
+        "진짜",
+        "흔히",
+        "말",
+        "하",
+        "는",
+        "돼",
+        "EC",
+        "양이",
+        "가",
+        "됐",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "키키 그건 또 무슨 신조어야",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그건",
+        "JX",
+        "또",
+        "무슨",
+        "신조",
+        "어야",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "키키 아마 너도 뜻하는 거일 듯...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아마",
+        "너",
+        "도",
+        "뜻",
+        "하",
+        "는",
+        "거",
+        "일",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

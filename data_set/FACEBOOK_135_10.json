@@ -1,0 +1,409 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 야외 활동 좋아행는",
+      "tokens": [
+        "난",
+        "JX",
+        "야외",
+        "활동",
+        "좋",
+        "ETM",
+        "아행",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 야외가 좋아?",
+      "tokens": [
+        "키",
+        "키",
+        "야외",
+        "가",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 나도 움직이는 게 좋아",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "움직이",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "야외 활동 좋아해?",
+      "tokens": [
+        "야외",
+        "활동",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 밖에 나가는 거 좋아!",
+      "tokens": [
+        "나",
+        "도",
+        "밖",
+        "에",
+        "나가",
+        "는",
+        "거",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "별 보러 가는 거 좋아함!",
+      "tokens": [
+        "별",
+        "보",
+        "러",
+        "가",
+        "는",
+        "거",
+        "좋",
+        "아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "올~ 제주도에 거기 좋더라",
+      "tokens": [
+        "올",
+        "~",
+        "제주도",
+        "에",
+        "거기",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "별 보러 가기 좋은 곳 추천할 곳 있어?",
+      "tokens": [
+        "별",
+        "보",
+        "러",
+        "가",
+        "기",
+        "좋",
+        "은",
+        "곳",
+        "추천",
+        "할",
+        "ETM",
+        "곳",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "다들 한우산 가 봤니?",
+      "tokens": [
+        "다",
+        "들",
+        "한",
+        "우산",
+        "가",
+        "봤",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "거기 지리는 데",
+      "tokens": [
+        "거기",
+        "지리",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "별 보기에 천백고지 짱임",
+      "tokens": [
+        "별보",
+        "기에",
+        "ETN",
+        "JKB",
+        "천",
+        "백",
+        "고지",
+        "짱",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "와 꼭 한번 가 보고 싶네 ㅠㅠ",
+      "tokens": [
+        "와",
+        "꼭",
+        "한",
+        "번",
+        "가",
+        "보",
+        "고",
+        "싶",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기랑 강원도 안반데기 가 봐...",
+      "tokens": [
+        "거기",
+        "랑",
+        "강원도",
+        "안",
+        "반데기",
+        "가",
+        "봐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 사실 산청 가면 진짜 쩔더라",
+      "tokens": [
+        "근데",
+        "사실",
+        "산청",
+        "가",
+        "면",
+        "진짜",
+        "쩔",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 매일 마음만... 가야지 가야지",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "마음",
+        "만",
+        ".",
+        "가야지",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오 천백고지 많이 들어 봄",
+      "tokens": [
+        "오",
+        "천",
+        "백",
+        "고지",
+        "많이",
+        "들",
+        "어",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "지리산에 장난 아님 ㅠㅠ",
+      "tokens": [
+        "지리산",
+        "에",
+        "장난아",
+        "님",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "산청 가까운 데 별 보는 곳이 있구나 ~",
+      "tokens": [
+        "산청가까운데별보는곳이있구나",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "폰으로 찍어도 그냥 인생샷임...",
+      "tokens": [
+        "폰",
+        "으로",
+        "찍",
+        "어도",
+        "그냥",
+        "인생",
+        "샷",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그냥 하늘 올려 봤는데 쏟아져",
+      "tokens": [
+        "그냥",
+        "하늘",
+        "올려",
+        "EC",
+        "봤",
+        "EP",
+        "는데",
+        "쏟아져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오... 이번에 한번 가 봐야겠어",
+      "tokens": [
+        "오",
+        ".",
+        "이번",
+        "에",
+        "한",
+        "번",
+        "가",
+        "봐야",
+        "VX",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

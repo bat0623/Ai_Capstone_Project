@@ -1,0 +1,386 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "영화도 관람가를 지켜야 할 듯",
+      "tokens": [
+        "영화",
+        "도",
+        "관람",
+        "가",
+        "를",
+        "지켜야",
+        "EC",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 근데 요즘은 수위가 ㅠㅠ",
+      "tokens": [
+        "응",
+        "근데",
+        "요즘",
+        "은",
+        "수위",
+        "가",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "마즘...",
+      "tokens": [
+        "마",
+        "즘",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "신분증 검사 철저!",
+      "tokens": [
+        "신분증",
+        "검사",
+        "철저"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 안 지켰지만 케케케",
+      "tokens": [
+        "난",
+        "JX",
+        "안",
+        "지켰",
+        "EP",
+        "지만",
+        "케",
+        "케케"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "15세 관람인데 장난 없더라",
+      "tokens": [
+        "15",
+        "세",
+        "관람",
+        "인데",
+        "EC",
+        "장난",
+        "없",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 나도...",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "몰래 극장 들어가고 그랬는데",
+      "tokens": [
+        "몰래",
+        "극장",
+        "들어가",
+        "고",
+        "그랬",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오징어 게임 초딩들도 다 봤더라",
+      "tokens": [
+        "오징어",
+        "게임",
+        "초딩",
+        "들",
+        "도",
+        "다",
+        "봤",
+        "EP",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "초딩들 ㅠㅠ 너무 잔인한데",
+      "tokens": [
+        "초딩",
+        "들",
+        "ㅠㅠ",
+        "너무",
+        "잔인",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "헉.. 그게 애들 볼 내용이야?",
+      "tokens": [
+        "헉",
+        ".",
+        "그게",
+        "JKS",
+        "애",
+        "들",
+        "볼",
+        "ETM",
+        "내용",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "초딩들 보기에 넘 자극적이지 않냐?",
+      "tokens": [
+        "초딩",
+        "들",
+        "보",
+        "기",
+        "에",
+        "넘",
+        "자극",
+        "적",
+        "이",
+        "지",
+        "않",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 초딩은 안될 듯...",
+      "tokens": [
+        "진짜",
+        "초딩",
+        "은",
+        "안",
+        "될",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 충격인데...",
+      "tokens": [
+        "진짜",
+        "충격",
+        "인데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그거 안본 친구들이 없대",
+      "tokens": [
+        "그거",
+        "안",
+        "본",
+        "ETM",
+        "친구",
+        "들",
+        "이",
+        "없",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "조카가 그랬음",
+      "tokens": [
+        "조카",
+        "가",
+        "그랬음",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "부모들이 그런 건 관리해줘야 해!",
+      "tokens": [
+        "부모",
+        "들",
+        "이",
+        "그런",
+        "건",
+        "JX",
+        "관리",
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "뭔 생각으로 얘들을 보여주는 거여",
+      "tokens": [
+        "뭔",
+        "생각",
+        "으로",
+        "얘",
+        "들",
+        "을",
+        "보여",
+        "EC",
+        "주",
+        "는",
+        "거",
+        "여",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그니까 관리해줘야 할 듯 ㅠ",
+      "tokens": [
+        "그니까",
+        "관리",
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "할",
+        "ETM",
+        "듯ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "응 그런 건 엄빠 책임 ㅠㅠ",
+      "tokens": [
+        "응",
+        "그런",
+        "건",
+        "JX",
+        "엄빠",
+        "책임",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

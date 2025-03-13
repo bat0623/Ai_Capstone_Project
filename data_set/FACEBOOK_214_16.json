@@ -1,0 +1,369 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**이 보톡스 맞을 거랭...",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "보톡스",
+        "맞",
+        "을",
+        "거랭",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어어 당연한 거 아니냨 키키",
+      "tokens": [
+        "어",
+        "어",
+        "당연",
+        "한",
+        "ETM",
+        "거",
+        "아니",
+        "냨키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오잉... 나는 복근 성형할까 고민 듕...",
+      "tokens": [
+        "오잉",
+        ".",
+        ".",
+        "나는복근성형할까고민듕",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "승모근에  맞는다던디",
+      "tokens": [
+        "승모근",
+        "에",
+        "맞",
+        "는다던",
+        "디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "승모근은 지금 고민 중임 키키",
+      "tokens": [
+        "승모근",
+        "은",
+        "지금",
+        "고민",
+        "중임",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 보톡스 잘하는 데 가서 맞아야 대",
+      "tokens": [
+        "키키",
+        "보톡스",
+        "잘",
+        "하",
+        "는데",
+        "가",
+        "서",
+        "맞",
+        "아야",
+        "대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 갑자기 관심 생겼어",
+      "tokens": [
+        "나",
+        "도",
+        "갑자기",
+        "관심",
+        "생겼",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "복근 성형? 헐 그게 뭐야 키키",
+      "tokens": [
+        "복근",
+        "성형",
+        "헐",
+        "그게",
+        "JKS",
+        "뭐",
+        "야키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "지방 흡입하고 배에 보형물 넣어줘...",
+      "tokens": [
+        "지방",
+        "흡입",
+        "하",
+        "고",
+        "배",
+        "에",
+        "보형물",
+        "넣",
+        "어",
+        "줘",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "복근 성형은 또 뭐냐",
+      "tokens": [
+        "복근",
+        "성형",
+        "은",
+        "또",
+        "뭐",
+        "냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "보톡스 잘하는 곳 알아? 키키",
+      "tokens": [
+        "보톡스",
+        "잘",
+        "하",
+        "는",
+        "곳",
+        "알",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 복근이란 게 갖고 싶어...",
+      "tokens": [
+        "나",
+        "도",
+        "복근",
+        "이",
+        "란",
+        "게",
+        "JKS",
+        "갖",
+        "고",
+        "싶",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "보톡스 잘하는 곳 추천 좀!",
+      "tokens": [
+        "보톡스",
+        "잘",
+        "하",
+        "는",
+        "곳",
+        "추천",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "헐헐 그런 거 하지 마 ㅜㅜ",
+      "tokens": [
+        "헐헐",
+        "그런",
+        "거",
+        "하",
+        "지",
+        "마",
+        "EF",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "많이 맞추는 데 가는 게 최고지",
+      "tokens": [
+        "많이",
+        "맞추",
+        "는",
+        "데",
+        "가",
+        "는",
+        "게",
+        "JKS",
+        "최고",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "일단 살을 빼야 하는 거 아니냐",
+      "tokens": [
+        "일단",
+        "살",
+        "을",
+        "빼",
+        "야",
+        "하",
+        "는",
+        "거",
+        "아니",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 위험해 보임 ㄷㄷ",
+      "tokens": [
+        "진짜",
+        "위험",
+        "해",
+        "EC",
+        "보임",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "안 빠지더라구...",
+      "tokens": [
+        "안",
+        "빠지",
+        "더라구",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "포기하고 싶다...",
+      "tokens": [
+        "포기",
+        "하",
+        "고",
+        "싶",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

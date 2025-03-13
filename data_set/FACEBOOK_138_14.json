@@ -1,0 +1,317 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "한양대 교수 봤음?",
+      "tokens": [
+        "한양대",
+        "교수",
+        "봤",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 완젼 하하",
+      "tokens": [
+        "그니까",
+        "완",
+        "젼",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "엥? 무슨 일 있어?",
+      "tokens": [
+        "엥",
+        "무슨",
+        "일",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "비대면 수업 하는 데 목욕하고 있었대...",
+      "tokens": [
+        "비대",
+        "면",
+        "수업",
+        "하",
+        "는",
+        "데",
+        "목욕",
+        "하",
+        "고",
+        "있",
+        "었",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "일부러 그런 건 아니지?",
+      "tokens": [
+        "일부러",
+        "그런",
+        "건",
+        "JX",
+        "아니",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐? 그거 한양대였어?",
+      "tokens": [
+        "헐",
+        "그거",
+        "한양대",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그런 거 아닐 껄 ?",
+      "tokens": [
+        "그런",
+        "거",
+        "아닐",
+        "ETM",
+        "껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "설마 일부러 그랬겠어?",
+      "tokens": [
+        "설마",
+        "일부러",
+        "그랬",
+        "EP",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "교수가 드디어 미쳤구나,",
+      "tokens": [
+        "교수",
+        "가",
+        "드디어",
+        "미쳤",
+        "EP",
+        "구나",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엉 일부러 그런 건 아닌 듯",
+      "tokens": [
+        "엉",
+        "일부러",
+        "그런",
+        "건",
+        "JX",
+        "아닌",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그냥 실수였겠지 하하",
+      "tokens": [
+        "그냥",
+        "실수",
+        "였",
+        "EP",
+        "겠",
+        "지하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "완젼 교수구나,",
+      "tokens": [
+        "완",
+        "젼",
+        "교수",
+        "구나",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "화면 이 잠시 켜졌대",
+      "tokens": [
+        "화면",
+        "이",
+        "잠시",
+        "켜졌",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래도 좀 민망하네",
+      "tokens": [
+        "그래도",
+        "좀",
+        "민망",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "저런 교수는 짤려야 해",
+      "tokens": [
+        "저런",
+        "교수",
+        "는",
+        "짤려",
+        "EC",
+        "야해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "거품 목욕 중이었대 키키 웃겨",
+      "tokens": [
+        "거품",
+        "목욕",
+        "중",
+        "이",
+        "었",
+        "대",
+        "키",
+        "키",
+        "ETN",
+        "웃겨",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "왜 그런 실수를",
+      "tokens": [
+        "왜",
+        "그런",
+        "실수",
+        "를"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "너무 교수가",
+      "tokens": [
+        "너무",
+        "교수",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_138_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

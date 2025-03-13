@@ -1,0 +1,368 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "와... 내 친구 집 화장실 썰 들었지?",
+      "tokens": [
+        "와",
+        ".",
+        "내친구집화장실썰들었지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 매일 캠핑 같은 주거생활을 영위할 거임",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "캠핑",
+        "같",
+        "은",
+        "주거",
+        "생활",
+        "을",
+        "영위",
+        "할",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "화장실에 뭘 했길래",
+      "tokens": [
+        "화장실",
+        "에",
+        "뭘",
+        "JKO",
+        "했",
+        "EP",
+        "길래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "화장실 역류해서 똥통 되버림 ㅠㅠ",
+      "tokens": [
+        "화장실",
+        "역류",
+        "해서",
+        "EC",
+        "똥통",
+        "되",
+        "버림",
+        "VX",
+        "ETN",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 **이 변기 역류 ㅠㅠ",
+      "tokens": [
+        "응",
+        "*",
+        "*",
+        "이변기역류ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 역류를 했다고?",
+      "tokens": [
+        "헐",
+        "역류",
+        "를",
+        "했",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "완전 똥 구덩이 되버림...",
+      "tokens": [
+        "완전",
+        "똥구덩이",
+        "되",
+        "버림",
+        "VX",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "주택은 정화조 똥차 불러서 푸면 되는데",
+      "tokens": [
+        "주택",
+        "은",
+        "정화조",
+        "똥차",
+        "불러서",
+        "EC",
+        "푸",
+        "면",
+        "되",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "우짜노...하수구 수리비 비쌀텐데",
+      "tokens": [
+        "우짜",
+        "노",
+        ".",
+        "하수구",
+        "수리비",
+        "비쌀",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "집에  아무도 없었는데...! 윗집 문제인듯",
+      "tokens": [
+        "집",
+        "에",
+        "아무",
+        "도",
+        "없",
+        "었",
+        "는데",
+        ".",
+        ".",
+        "윗집",
+        "문제",
+        "인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아파트는 배관을 전부다 해야되니까",
+      "tokens": [
+        "아파트",
+        "는",
+        "배관",
+        "을",
+        "전부",
+        "다",
+        "해야",
+        "EC",
+        "되",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그러면 윗집에서 보상 다 해줘야대",
+      "tokens": [
+        "그러면",
+        "윗집",
+        "에서",
+        "보상",
+        "다",
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 아무도 보상 안해준데",
+      "tokens": [
+        "근데",
+        "아무",
+        "도",
+        "보상",
+        "안",
+        "해",
+        "EC",
+        "준",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "무개념 무지성인들이 엄청 많음",
+      "tokens": [
+        "무",
+        "개념",
+        "무지",
+        "성인",
+        "들",
+        "이",
+        "엄청",
+        "많",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "왜 판례가 다 나와있는디",
+      "tokens": [
+        "왜",
+        "판례",
+        "가",
+        "다",
+        "나와",
+        "EC",
+        "있",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "집 버리고 싶다고 난리임...",
+      "tokens": [
+        "집",
+        "버리",
+        "고",
+        "싶",
+        "다고",
+        "난리",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "책임 소재를 따지지가 힘들어서 그럼 아파트는",
+      "tokens": [
+        "책임",
+        "소재",
+        "를",
+        "따지",
+        "지가",
+        "JKS",
+        "힘들",
+        "어서",
+        "그럼",
+        "아파트",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "터진 집에서 다 보상해줘야댐",
+      "tokens": [
+        "터진",
+        "ETM",
+        "집",
+        "에서",
+        "다",
+        "보상",
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "댐",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

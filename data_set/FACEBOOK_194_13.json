@@ -1,0 +1,370 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "겨울은 겨울입니다",
+      "tokens": [
+        "겨울",
+        "은",
+        "겨울",
+        "입니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "컴컴합니다...",
+      "tokens": [
+        "컴컴",
+        "합니다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "지금 여기 밤이야",
+      "tokens": [
+        "지금",
+        "여기",
+        "밤",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이런 날씨에 여행을 떠나요~ 해야 됨 ㅠㅠ",
+      "tokens": [
+        "이런",
+        "날씨",
+        "에",
+        "여행",
+        "을",
+        "떠나",
+        "요",
+        "~",
+        "해야됨ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "현실은 컴퓨터 앞",
+      "tokens": [
+        "현실",
+        "은",
+        "컴퓨터",
+        "앞"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "갑자기 밤이 돼버림...",
+      "tokens": [
+        "갑자기",
+        "밤",
+        "이",
+        "돼",
+        "EC",
+        "버림",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나가면 앞 보일 듯 ㅠ",
+      "tokens": [
+        "나가면앞보일듯ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 어둠이 좋아",
+      "tokens": [
+        "난",
+        "JX",
+        "어둠",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "캄캄한 어둠",
+      "tokens": [
+        "캄캄",
+        "한",
+        "ETM",
+        "어둠"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이것이 바로 지구의 신비",
+      "tokens": [
+        "이것",
+        "이",
+        "바로",
+        "지구",
+        "의",
+        "신비"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "후레쉬 켜야 할 것 같애",
+      "tokens": [
+        "후레쉬",
+        "켜",
+        "야",
+        "할",
+        "ETM",
+        "것",
+        "같",
+        "애"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아침에도 어두워",
+      "tokens": [
+        "아침",
+        "에",
+        "도",
+        "어두워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "산청은 어떤 수준이야?",
+      "tokens": [
+        "산청",
+        "은",
+        "어떤",
+        "수준",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니 진짜 해 짧다 ㅠ",
+      "tokens": [
+        "아니진짜해짧다ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "후레쉬는 머리에 둘러야 됨",
+      "tokens": [
+        "후레쉬",
+        "는",
+        "머리",
+        "에",
+        "둘러",
+        "EC",
+        "야",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "산 밑에 있어서 그런 듯",
+      "tokens": [
+        "산",
+        "밑",
+        "에",
+        "있",
+        "어서",
+        "그런",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "여기 암흑 수준인데?",
+      "tokens": [
+        "여기",
+        "암흑",
+        "수준",
+        "인데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "산청은 별빛이 비춰서 밝음",
+      "tokens": [
+        "산청",
+        "은",
+        "별빛",
+        "이",
+        "비춰서",
+        "EC",
+        "밝",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "산청이 확실히 춥더라",
+      "tokens": [
+        "산청",
+        "이",
+        "확실히",
+        "춥",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "해도 빨리지고 뭔가 ㅠ",
+      "tokens": [
+        "해도",
+        "EC",
+        "빨리",
+        "지",
+        "고",
+        "뭔가",
+        "VCP",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "별빛을 바라보면서 잠이 들지",
+      "tokens": [
+        "별빛",
+        "을",
+        "바라보",
+        "면서",
+        "잠",
+        "이",
+        "들",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

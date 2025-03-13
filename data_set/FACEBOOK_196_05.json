@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군인들은 알바 못하지?",
+      "tokens": [
+        "군인",
+        "들",
+        "은",
+        "알",
+        "바",
+        "못하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "군인은 못하지",
+      "tokens": [
+        "군인",
+        "은",
+        "못",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "불법임 ㅠ",
+      "tokens": [
+        "불법임ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "겸직 자체가 안될걸 ...",
+      "tokens": [
+        "겸직",
+        "자체",
+        "가",
+        "안",
+        "될걸",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어디 군부대에 전단 뿌리러 가야 하나",
+      "tokens": [
+        "어디",
+        "군부대",
+        "에",
+        "전단",
+        "ETM",
+        "뿌리",
+        "러",
+        "가",
+        "야",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아놔 군대는 안된다구여 키키",
+      "tokens": [
+        "아",
+        "놔",
+        "EC",
+        "군대",
+        "는",
+        "안",
+        "된다",
+        "EC",
+        "구여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 군부대에 전단 뿌리면 안대",
+      "tokens": [
+        "키키",
+        "군",
+        "부대",
+        "에",
+        "전단",
+        "ETM",
+        "뿌리",
+        "면",
+        "안대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "군대는 다 남자잖아",
+      "tokens": [
+        "군대",
+        "는",
+        "다",
+        "남자",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "차라리 공대를 도는 건 어때 ?",
+      "tokens": [
+        "차라리",
+        "공대",
+        "를",
+        "도는",
+        "ETM",
+        "건",
+        "JX",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "음 공대 도는 게 효율이 더 좋겠다",
+      "tokens": [
+        "음",
+        "공대",
+        "도는",
+        "ETM",
+        "게",
+        "JKS",
+        "효율",
+        "이",
+        "더",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "폰도 쓰는데 알바 하게 해달라!",
+      "tokens": [
+        "폰",
+        "도",
+        "쓰",
+        "는",
+        "데",
+        "알",
+        "ETM",
+        "바",
+        "하",
+        "게",
+        "해",
+        "EC",
+        "달",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아놔 알바 하게 하면 꿀일 듯",
+      "tokens": [
+        "아",
+        "놔",
+        "EC",
+        "알",
+        "ETM",
+        "바",
+        "하",
+        "게",
+        "하",
+        "면",
+        "꿀",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 그럼 알바한다고 나라 안 지키면 우째",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그럼",
+        "알",
+        "ETM",
+        "바",
+        "한다고",
+        "EC",
+        "나라",
+        "안",
+        "지키",
+        "면",
+        "우째"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오 공대 좋다",
+      "tokens": [
+        "오",
+        "공",
+        "대",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "공대 가서 홍보 좀...",
+      "tokens": [
+        "공대",
+        "가",
+        "서",
+        "홍보",
+        "좀",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "거기서 다 구하면 되겠다 !",
+      "tokens": [
+        "거기",
+        "서",
+        "다",
+        "구하",
+        "면",
+        "되",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 내가 찌라시 좀 돌려보께",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "내",
+        "가",
+        "찌",
+        "라",
+        "시",
+        "좀",
+        "돌려보",
+        "께"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 알바 하느라 나라 못지키구나...?",
+      "tokens": [
+        "아",
+        "알",
+        "ETM",
+        "바",
+        "하",
+        "느라",
+        "나라",
+        "못",
+        "지키",
+        "구나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "전쟁 나는데 타자 치고 있는 거 아냐",
+      "tokens": [
+        "전쟁",
+        "나",
+        "는",
+        "데",
+        "타",
+        "자",
+        "치",
+        "고",
+        "있",
+        "는",
+        "거",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그니까...",
+      "tokens": [
+        "그니까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나라 지키는 게 걔들은 메인이야",
+      "tokens": [
+        "나라",
+        "지키",
+        "는",
+        "게",
+        "JKS",
+        "걔",
+        "들",
+        "은",
+        "메인",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_196_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

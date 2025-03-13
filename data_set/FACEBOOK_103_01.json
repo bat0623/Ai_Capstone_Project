@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너 인도 커리 먹어봤어?",
+      "tokens": [
+        "너",
+        "인",
+        "ETM",
+        "도커리",
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "먹어봤지",
+      "tokens": [
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 한국 카레보다 인도 카레가 좋더라",
+      "tokens": [
+        "나",
+        "는",
+        "한국",
+        "카레",
+        "보다",
+        "인도",
+        "카레",
+        "가",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 키키 너 탄두리 치킨도 먹어봤어?",
+      "tokens": [
+        "나",
+        "도",
+        "키",
+        "키너",
+        "탄두리",
+        "치킨",
+        "도",
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그건 안 먹어본 거 같아",
+      "tokens": [
+        "그건",
+        "JX",
+        "안",
+        "먹",
+        "어",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 탄두리 치킨보다 한국 치킨이 훨 맛있음!",
+      "tokens": [
+        "근데",
+        "탄두리",
+        "치킨",
+        "보다",
+        "한국",
+        "치킨",
+        "이",
+        "훨",
+        "맛있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "역시 치킨은 한국이 진리지",
+      "tokens": [
+        "역시",
+        "치킨",
+        "은",
+        "한국",
+        "이",
+        "진리",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "탄두리 치킨은 너무 뻑뻑해!",
+      "tokens": [
+        "탄두리",
+        "치킨",
+        "은",
+        "너무",
+        "뻑뻑",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "탄두리 치킨도 카레향 나는 건가?",
+      "tokens": [
+        "탄두리",
+        "치킨",
+        "도",
+        "카레",
+        "향",
+        "나",
+        "는",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어 맞아 그리고 색 봤어?",
+      "tokens": [
+        "어",
+        "맞아",
+        "그리고",
+        "색",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "되게 빨개!",
+      "tokens": [
+        "되게",
+        "빨개",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래도 역시 치킨은 한국이지",
+      "tokens": [
+        "그래도",
+        "역시",
+        "치킨",
+        "은",
+        "한국",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "너 그리고 라씨라고 알아?",
+      "tokens": [
+        "너",
+        "그리고",
+        "라",
+        "씨",
+        "라고",
+        "EC",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어디서 들어본 거 같은데",
+      "tokens": [
+        "어디",
+        "서",
+        "들",
+        "어",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그거 인도 전통 음료인데 안 먹어 봤어?",
+      "tokens": [
+        "그거",
+        "인도",
+        "전통",
+        "음료",
+        "인데",
+        "EC",
+        "안",
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "안 먹어 본 거 같아",
+      "tokens": [
+        "안",
+        "먹",
+        "어",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "이거 요거트 맛 나고 엄청 맛있잖아!",
+      "tokens": [
+        "이거",
+        "요",
+        "거트",
+        "맛나",
+        "고",
+        "엄청",
+        "맛있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "요거트 좋아하는데 한번 먹어봐야겠다",
+      "tokens": [
+        "요거",
+        "트",
+        "좋아",
+        "하",
+        "는데",
+        "한",
+        "번",
+        "먹",
+        "어",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

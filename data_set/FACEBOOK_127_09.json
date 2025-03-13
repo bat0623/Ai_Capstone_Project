@@ -1,0 +1,369 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 강아지 잘 있니",
+      "tokens": [
+        "*",
+        "*",
+        "강아지",
+        "잘",
+        "있",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그러게 그 이름 머지",
+      "tokens": [
+        "그러게",
+        "그",
+        "이름",
+        "머지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 우리 강아지 잘 먹고 잘 싸고 아주 잘 지내 칸쵸",
+      "tokens": [
+        "웅",
+        "우리",
+        "강아지",
+        "잘",
+        "먹",
+        "고",
+        "잘",
+        "싸",
+        "고",
+        "아주",
+        "잘",
+        "지내",
+        "EC",
+        "칸쵸"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "** 강아지는 몇 살이야?",
+      "tokens": [
+        "*",
+        "*",
+        "강아지",
+        "는",
+        "몇",
+        "살",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "칸쵸 잘 있니? 하하",
+      "tokens": [
+        "칸쵸",
+        "잘",
+        "있",
+        "니",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "4살이야 칸쵸는 키키",
+      "tokens": [
+        "4",
+        "살",
+        "이",
+        "야",
+        "칸쵸",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "너무 귀여워",
+      "tokens": [
+        "너무",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리 벅수는 이제 7살이얌...",
+      "tokens": [
+        "우리",
+        "벅수",
+        "는",
+        "이제",
+        "7",
+        "살",
+        "이얌",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "칸쵸 졸귀더라 진짜 하하",
+      "tokens": [
+        "칸쵸",
+        "졸",
+        "ETM",
+        "귀",
+        "더라",
+        "EF",
+        "진짜",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "벅수 벌써 그렇게 됐어?",
+      "tokens": [
+        "벅수",
+        "벌써",
+        "그렇게",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 4살",
+      "tokens": [
+        "오",
+        "4",
+        "살"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "생일 언제얌?",
+      "tokens": [
+        "생일",
+        "언제",
+        "얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "헐 칸쵸는 아직 애기네 하하",
+      "tokens": [
+        "헐",
+        "칸쵸",
+        "는",
+        "아직",
+        "애기네",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "2월 17일이 생일이야 벅수는?",
+      "tokens": [
+        "2",
+        "월",
+        "17",
+        "일",
+        "이",
+        "생일",
+        "이",
+        "야",
+        "벅수",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "벅수는 생일 지났어 ㅠㅠ",
+      "tokens": [
+        "벅수",
+        "는",
+        "생일",
+        "지났",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "칸쵸 생일 선물 뭐 줄 거임?",
+      "tokens": [
+        "칸쵸",
+        "생일",
+        "선물",
+        "뭐",
+        "줄",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "벅수랑 같이 만나자?",
+      "tokens": [
+        "벅수",
+        "랑",
+        "같이",
+        "만나",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "벅수 생일은 9월 15일이얌 하하",
+      "tokens": [
+        "벅수",
+        "생일",
+        "은",
+        "9",
+        "월",
+        "15",
+        "일",
+        "이얌",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 벅수 생일 선물 안 챙겨 줌 ㅎ",
+      "tokens": [
+        "난",
+        "JX",
+        "벅수",
+        "생일",
+        "선물",
+        "안",
+        "챙겨",
+        "EC",
+        "줌",
+        "ETN",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "난 매번 생일 챙겨 주는데",
+      "tokens": [
+        "난",
+        "JX",
+        "매번",
+        "생일",
+        "챙겨",
+        "EC",
+        "주",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "뭐 해서 다이어트 했음?",
+      "tokens": [
+        "뭐",
+        "해서",
+        "EC",
+        "다이어트",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 음 그냥 적게 먹고 뛰고 운동",
+      "tokens": [
+        "나",
+        "는",
+        "음",
+        "그냥",
+        "적",
+        "게",
+        "먹",
+        "고",
+        "뛰",
+        "고",
+        "운동"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 그냥 안 먹고 운동해써",
+      "tokens": [
+        "나",
+        "그냥",
+        "안",
+        "먹",
+        "고",
+        "운동",
+        "해",
+        "EC",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 비법 공유좀",
+      "tokens": [
+        "나",
+        "도",
+        "비법",
+        "공유",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 그거 밖에 없어",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그거",
+        "밖에",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그만한게 없다... 왕도가 어딨누.. .걍 달려...",
+      "tokens": [
+        "그만",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "없",
+        "다",
+        ".",
+        "왕도",
+        "가",
+        "어딨",
+        "누",
+        ".",
+        "걍달려",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "** 몇 키로 뺐음?",
+      "tokens": [
+        "*",
+        "*",
+        "몇",
+        "키",
+        "로",
+        "뺐",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "진리야 사실 저게",
+      "tokens": [
+        "진리",
+        "야",
+        "EF",
+        "사실",
+        "저게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "** 살 많이 뺐더만",
+      "tokens": [
+        "*",
+        "*",
+        "살",
+        "많이",
+        "뺐",
+        "EP",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "무슨 운동 했어?",
+      "tokens": [
+        "무슨",
+        "운동",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 20키로 빼본 게 살면서 두 번?",
+      "tokens": [
+        "나",
+        "는",
+        "20",
+        "키",
+        "로",
+        "빼",
+        "EC",
+        "본",
+        "ETM",
+        "게",
+        "JKS",
+        "살",
+        "면서",
+        "두",
+        "번"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 요즘 5키로 러닝 매일하기 프로젝트중",
+      "tokens": [
+        "나",
+        "요즘",
+        "5",
+        "키로",
+        "ETN",
+        "JKB",
+        "러닝",
+        "매일",
+        "하",
+        "기",
+        "프로젝트",
+        "중"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 헬스는 못하겠어 ㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "헬스",
+        "는",
+        "못하",
+        "겠",
+        "어ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 나는 그냥 뛰고 집에서 팔굽",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "그냥",
+        "뛰",
+        "고",
+        "집",
+        "에서",
+        "팔굽"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "헬스 재미 못 붙이는 사람은 잘 못해",
+      "tokens": [
+        "헬스",
+        "재미",
+        "못",
+        "붙이",
+        "는",
+        "사람",
+        "은",
+        "잘못",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "재미 없는 건 못해...!",
+      "tokens": [
+        "재미없",
+        "는",
+        "건",
+        "JX",
+        "못",
+        "해",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그때 뺄 때는 그렇게 뺐지",
+      "tokens": [
+        "그때",
+        "뺄",
+        "ETM",
+        "때",
+        "는",
+        "그렇게",
+        "뺐",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그럼 점핑 다이어트밖에 없겠다",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그럼",
+        "점핑",
+        "다이어트",
+        "밖에",
+        "없",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

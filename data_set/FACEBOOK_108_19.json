@@ -1,0 +1,494 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너희 부모님도 드라마 잘 챙겨보셔?",
+      "tokens": [
+        "너희",
+        "부모",
+        "님",
+        "도",
+        "드라마",
+        "잘",
+        "챙겨",
+        "EC",
+        "보",
+        "셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어 엄마는 드라마 매번 보고 계셔!",
+      "tokens": [
+        "어",
+        "엄마",
+        "는",
+        "드라마",
+        "매번",
+        "보",
+        "고",
+        "계셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘에 오케이 광자매?",
+      "tokens": [
+        "요즘",
+        "에",
+        "오케이",
+        "광자",
+        "매",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그게 인기던데!?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "인기",
+        "던데",
+        "EC",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그럼 분명히 우리 엄마 보고 있다",
+      "tokens": [
+        "그럼",
+        "분명히",
+        "우리",
+        "엄마",
+        "보",
+        "고",
+        "있",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 주말 드라마인데 혹시 너 전혜빈이라고 알아?",
+      "tokens": [
+        "키",
+        "키",
+        "주말",
+        "드라마",
+        "인데",
+        "EC",
+        "혹시",
+        "너",
+        "전혜빈",
+        "이",
+        "라고",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "전혜빈 얼굴 알 거 같은데?!",
+      "tokens": [
+        "전혜빈",
+        "얼굴",
+        "알",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "요즘 드라마는 유튜브처럼 자막도 써준대 웃기게 키키",
+      "tokens": [
+        "요즘",
+        "드라마",
+        "는",
+        "유튜브",
+        "처럼",
+        "자막",
+        "도",
+        "써",
+        "EC",
+        "준대",
+        "EF",
+        "웃기",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엥 진짜로?",
+      "tokens": [
+        "엥",
+        "진짜로"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그게 유튜브랑 뭐가 달라?!",
+      "tokens": [
+        "그게",
+        "JKS",
+        "유튜브",
+        "랑",
+        "뭐",
+        "가",
+        "달라",
+        "EC",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 근데 공중파 방송에서 하는 거 보니까  진짜 웃기더라!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "공중",
+        "파",
+        "방송",
+        "에서",
+        "하",
+        "는",
+        "거",
+        "보",
+        "니까",
+        "진짜",
+        "웃기",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "재밌긴 한가보네 키키 나도 나중에 봐야겠다 ㅎ",
+      "tokens": [
+        "재밌",
+        "긴",
+        "JX",
+        "한가",
+        "EC",
+        "보",
+        "네",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "나중",
+        "에",
+        "봐야겠다",
+        "EC",
+        "VX",
+        "EP",
+        "EF",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어 꼭 봐 키키",
+      "tokens": [
+        "어",
+        "꼭",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "전혜빈이 엄청 울고 있는데 거기다 자막으로 오열이라고 써 놨더라 ㅋ",
+      "tokens": [
+        "전혜빈",
+        "이",
+        "엄청",
+        "울",
+        "고",
+        "있",
+        "는데",
+        "거기",
+        "다",
+        "자막",
+        "으로",
+        "오열",
+        "이",
+        "라고",
+        "써",
+        "EC",
+        "놨더라",
+        "EP",
+        "EF",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아니 키키",
+      "tokens": [
+        "아니",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그게 뭐야 몰입 하나도 안돼 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF",
+        "몰입",
+        "하나",
+        "도",
+        "안",
+        "돼",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 그니까 근데 색다르고 재미있긴 했었어!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "근데",
+        "색다르",
+        "고",
+        "재미있",
+        "긴",
+        "JX",
+        "했었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "내가 이번에 꼭 봐볼게 하하",
+      "tokens": [
+        "내",
+        "가",
+        "이번",
+        "에",
+        "꼭",
+        "봐",
+        "EC",
+        "볼",
+        "ETM",
+        "게",
+        "JKS",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 어 꼭 봐바",
+      "tokens": [
+        "키키어꼭봐바"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그냥 그 장면만 보면  돼!",
+      "tokens": [
+        "그냥",
+        "그",
+        "장면",
+        "만",
+        "보",
+        "면",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "나 지금 검색 들어간다 ㅎ",
+      "tokens": [
+        "나",
+        "지금",
+        "검색",
+        "들어간다",
+        "EF",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

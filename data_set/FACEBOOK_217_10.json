@@ -1,0 +1,416 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "캠핑 가면 뭐함?",
+      "tokens": [
+        "캠핑",
+        "가",
+        "면",
+        "뭐",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 가면 일단 고기부터…",
+      "tokens": [
+        "나",
+        "는",
+        "가",
+        "면",
+        "일단",
+        "고기",
+        "부터",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맛있는 거 해 먹구 불멍도 하고 노래도 듣고",
+      "tokens": [
+        "맛있",
+        "는",
+        "거",
+        "해",
+        "EC",
+        "먹",
+        "구",
+        "불",
+        "멍",
+        "도",
+        "하",
+        "고",
+        "노래",
+        "도",
+        "듣",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "고기 먹고 수다?",
+      "tokens": [
+        "고기",
+        "먹",
+        "고",
+        "수다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 고기 먹고 술 먹고 수다",
+      "tokens": [
+        "키",
+        "키",
+        "고기",
+        "먹",
+        "고",
+        "술",
+        "먹",
+        "고",
+        "수다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "술도 마시고 이야기도 하고 그런 거 아니겠나",
+      "tokens": [
+        "술",
+        "도",
+        "마시",
+        "고",
+        "이야기",
+        "도",
+        "하",
+        "고",
+        "그런",
+        "거",
+        "아니",
+        "겠",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "수다의 연속인 거지?",
+      "tokens": [
+        "수다",
+        "의",
+        "연속",
+        "인",
+        "ETM",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "노래 듣는 거 너무 좋지 키키",
+      "tokens": [
+        "노래",
+        "듣",
+        "는",
+        "거",
+        "너무",
+        "좋",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그냥 한적한 곳 가서 조용하니 하는 캠핑 좋아함",
+      "tokens": [
+        "그냥",
+        "한적",
+        "한",
+        "ETM",
+        "곳",
+        "가",
+        "서",
+        "조용",
+        "하",
+        "니",
+        "하",
+        "는",
+        "캠핑",
+        "좋",
+        "아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "캠핑 가면 난 넘 심심하더라...",
+      "tokens": [
+        "캠핑가면난넘심심하더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "사람 없는데 가면 노래도 부르고 키키",
+      "tokens": [
+        "사람",
+        "없",
+        "는데",
+        "가",
+        "면",
+        "노래",
+        "도",
+        "부르",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "뭔가 그 느낌이 좋다 나는",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "그",
+        "느낌",
+        "이",
+        "좋",
+        "다",
+        "나",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "손에 낚시대라도 있어야 함...",
+      "tokens": [
+        "손",
+        "에",
+        "낚시",
+        "대",
+        "라도",
+        "있",
+        "어야",
+        "함",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 역시 낚시 중독자",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "역시",
+        "낚시",
+        "중독자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "방해 받지 않고 조용하니 시간 보내는 거",
+      "tokens": [
+        "방해",
+        "받",
+        "지",
+        "않",
+        "고",
+        "조용",
+        "하",
+        "니",
+        "시간",
+        "보내",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "낭만이 없네 나는 키키",
+      "tokens": [
+        "낭만",
+        "이",
+        "없",
+        "네",
+        "나",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그럴 수 있지 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그럴",
+        "ETM",
+        "수",
+        "있",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "취향 차이임",
+      "tokens": [
+        "취향",
+        "차이",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "낚시 제발... 키키",
+      "tokens": [
+        "낚시",
+        "제발",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 낚시도 낭만 있다",
+      "tokens": [
+        "근데",
+        "낚시",
+        "도",
+        "낭",
+        "만",
+        "있",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "배달 알바 해봄?",
+      "tokens": [
+        "배달",
+        "알",
+        "바",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "배달은 안해봄;",
+      "tokens": [
+        "배달",
+        "은",
+        "안",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 조만간 오토바이 한 대 사서 할려구...",
+      "tokens": [
+        "나",
+        "조만간",
+        "오토바이",
+        "한",
+        "ETM",
+        "대사",
+        "서",
+        "할려구",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그거는 하지 말자",
+      "tokens": [
+        "그거",
+        "는",
+        "하",
+        "지",
+        "말",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "너무 위험하다",
+      "tokens": [
+        "너무",
+        "위험",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오토바이는 솔직히 무서움",
+      "tokens": [
+        "오토바이",
+        "는",
+        "솔직히",
+        "무서움"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "먹고 살기 너무 힘들어 ...",
+      "tokens": [
+        "먹",
+        "고",
+        "살",
+        "기",
+        "너무",
+        "힘들",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "배달 알바는 넘 위험하잖아",
+      "tokens": [
+        "배달",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "넘",
+        "위험",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "제주도 은근히 배달하시는 분들 많음",
+      "tokens": [
+        "제주",
+        "도",
+        "은근히",
+        "배달",
+        "하",
+        "시",
+        "는",
+        "분",
+        "들",
+        "많",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래도 체력될 때 돈 벌어야 하니까 ㅜㅜ",
+      "tokens": [
+        "그래도",
+        "체력",
+        "될",
+        "ETM",
+        "때",
+        "돈",
+        "벌",
+        "어야",
+        "하",
+        "니까",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오토바이 사서 한다구?",
+      "tokens": [
+        "오토바이",
+        "사",
+        "서",
+        "한다구",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 그게 페이가 괜찮나봐",
+      "tokens": [
+        "근데",
+        "그게",
+        "JKS",
+        "페이",
+        "가",
+        "괜찮",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "웅 ... 한대 사서 하는 게 낫대 ...",
+      "tokens": [
+        "웅",
+        ".",
+        "한",
+        "대",
+        "사서",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "낫",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "빌리는 거보단",
+      "tokens": [
+        "빌리",
+        "는",
+        "거",
+        "보단",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "요즘은 아줌마들이 차 타고 많이 하던디!",
+      "tokens": [
+        "요즘",
+        "은",
+        "아줌마",
+        "들",
+        "이",
+        "차",
+        "타",
+        "고",
+        "많이",
+        "하",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "차는 효율이 떨어져",
+      "tokens": [
+        "차",
+        "는",
+        "효율",
+        "이",
+        "떨어져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 배달효율 진짜 별로겠다",
+      "tokens": [
+        "키",
+        "키",
+        "배달",
+        "효율",
+        "진짜",
+        "별로",
+        "겠",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "홍스퍼로 하면 안되냐?",
+      "tokens": [
+        "홍",
+        "스퍼",
+        "로",
+        "하",
+        "면",
+        "안",
+        "되",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오토바이 괜찮은 거 싸게 사서 하면 괜찮긴 할 듯",
+      "tokens": [
+        "오토바이",
+        "괜찮",
+        "은",
+        "거",
+        "싸",
+        "게",
+        "사서",
+        "하",
+        "면",
+        "괜찮",
+        "긴",
+        "JX",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "차문 닫았다 열었다 하면서 로스 심하잖어",
+      "tokens": [
+        "차문",
+        "닫",
+        "았",
+        "다",
+        "열",
+        "었",
+        "다",
+        "하",
+        "면서",
+        "로스",
+        "심하",
+        "잖어",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

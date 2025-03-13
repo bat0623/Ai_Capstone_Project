@@ -1,0 +1,461 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 집에 누구누구 있어?",
+      "tokens": [
+        "언니",
+        "는",
+        "집",
+        "에",
+        "누구",
+        "누구",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 나 혼자 자취하지~",
+      "tokens": [
+        "나",
+        "는",
+        "나",
+        "혼자",
+        "자취",
+        "하",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "언제부터 자취하고  있었어?",
+      "tokens": [
+        "언제",
+        "부터",
+        "자취",
+        "하",
+        "고",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 자취한 지 1년 조금 넘었어",
+      "tokens": [
+        "나",
+        "는",
+        "자취",
+        "한지",
+        "EC",
+        "1",
+        "년",
+        "조금",
+        "넘",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 이제 10개월 됐어!",
+      "tokens": [
+        "나",
+        "는",
+        "이제",
+        "10",
+        "개월",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "자취하는 거 좀 어렵지 않아?",
+      "tokens": [
+        "자취",
+        "하",
+        "는",
+        "거",
+        "좀",
+        "어렵",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 맞아, 특히 먹는 게 진짜 힘든 거 같아!",
+      "tokens": [
+        "아",
+        "맞아",
+        ",",
+        "특히",
+        "먹",
+        "는",
+        "게",
+        "JKS",
+        "진짜",
+        "힘든",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "먹는 거 맨날 배달 시켜서 돈 많이 들어ㅠㅠ",
+      "tokens": [
+        "먹",
+        "는",
+        "거",
+        "맨날",
+        "배달",
+        "시켜서",
+        "EC",
+        "돈",
+        "많이",
+        "들",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 최근에 배달료만 한 만 원 정도 들인 거 같아!",
+      "tokens": [
+        "나",
+        "최근",
+        "에",
+        "배",
+        "달료",
+        "만",
+        "한",
+        "만",
+        "원",
+        "정도",
+        "들",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "배달료만?",
+      "tokens": [
+        "배",
+        "달료",
+        "만"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그리고 배달비도 너무 아까워ㅠ",
+      "tokens": [
+        "그리고",
+        "배",
+        "달비",
+        "도",
+        "너무",
+        "아까",
+        "워ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아!",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래서 나는 되도록  근처는 포장해 오려고 해!",
+      "tokens": [
+        "그래서",
+        "나",
+        "는",
+        "되",
+        "도록",
+        "근처",
+        "는",
+        "포장",
+        "해",
+        "EC",
+        "오",
+        "려고",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "포장이 제일 좋지, 아니면 해먹거나",
+      "tokens": [
+        "포장",
+        "이",
+        "제일",
+        "좋",
+        "지",
+        ",",
+        "아니",
+        "면",
+        "해",
+        "EC",
+        "먹",
+        "거나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나는 해 먹는 건 이제 끝났어,  귀찮아,",
+      "tokens": [
+        "나",
+        "는",
+        "해",
+        "EC",
+        "먹",
+        "는",
+        "건",
+        "JX",
+        "이제",
+        "끝",
+        "났",
+        "EP",
+        "어",
+        ",",
+        "귀찮",
+        "아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "해 먹는 거 요즘 재미 들려서 큰일이야",
+      "tokens": [
+        "해",
+        "EC",
+        "먹",
+        "는",
+        "거",
+        "요즘",
+        "재미",
+        "들려서",
+        "EC",
+        "큰일",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜?",
+      "tokens": [
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나는 초반에만 그랬는데 지금은 배달이 짱임!",
+      "tokens": [
+        "나",
+        "는",
+        "초반",
+        "에",
+        "만",
+        "그랬",
+        "EP",
+        "는데",
+        "지금",
+        "은",
+        "배달",
+        "이",
+        "짱",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "배달 시켜 먹는 것도 일이지 키키",
+      "tokens": [
+        "배달",
+        "시켜",
+        "EC",
+        "먹",
+        "는",
+        "것",
+        "도",
+        "일",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

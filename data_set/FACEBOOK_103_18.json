@@ -1,0 +1,463 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 이번에 필터 하나 올영에서 샀어!",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "필터",
+        "하",
+        "나올",
+        "VV",
+        "ETM",
+        "영",
+        "에서",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어때?",
+      "tokens": [
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "좋은 거 같아?",
+      "tokens": [
+        "좋",
+        "은",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "응 친구가 카카오톡으로 선물해 줘서 써 봤는데 좋아!",
+      "tokens": [
+        "응",
+        "친구",
+        "가",
+        "카카오톡",
+        "으로",
+        "선물",
+        "해",
+        "EC",
+        "줘서",
+        "EC",
+        "써",
+        "EC",
+        "봤",
+        "EP",
+        "는데",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "예전에 베트남 갈 때 사서 써봤는데 색이 충격적이더라",
+      "tokens": [
+        "예전",
+        "에",
+        "베트남",
+        "갈",
+        "ETM",
+        "때",
+        "사",
+        "서",
+        "써",
+        "EC",
+        "봤",
+        "EP",
+        "는데",
+        "색",
+        "이",
+        "충격",
+        "적",
+        "이",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 헐 대박 나도 나중에 베트남 가면 그거 사용해야겠다!",
+      "tokens": [
+        "키",
+        "키",
+        "헐",
+        "ETM",
+        "대박",
+        "나",
+        "도",
+        "나중",
+        "에",
+        "베트남",
+        "가",
+        "면",
+        "그거",
+        "사용",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "여기서 사용해도 색 많이 변해?",
+      "tokens": [
+        "여기",
+        "서",
+        "사용",
+        "해도",
+        "EC",
+        "색",
+        "많이",
+        "변해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어 3달 정도 쓰면 노랗게 변하더라!",
+      "tokens": [
+        "어",
+        "3",
+        "달",
+        "정도",
+        "쓰",
+        "면",
+        "노랗",
+        "게",
+        "변하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 하나 장만해야 하나",
+      "tokens": [
+        "나",
+        "도",
+        "하나",
+        "장",
+        "만",
+        "해야",
+        "EC",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어 올영 꺼 진짜 괜찮아 지금 할인하고 있어?",
+      "tokens": [
+        "어",
+        "올",
+        "영",
+        "꺼",
+        "EF",
+        "진짜",
+        "괜찮",
+        "아",
+        "지금",
+        "할인",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "20%인가?",
+      "tokens": [
+        "20",
+        "%",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그럼 빨리 가서 사야겠어 품절 되기 전에",
+      "tokens": [
+        "그럼",
+        "빨리",
+        "가",
+        "서",
+        "사",
+        "야",
+        "VX",
+        "겠",
+        "어",
+        "품절",
+        "되",
+        "기",
+        "전",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "어 그리고  지금 2만 원 이상 구매하면 쿠폰도 줘!",
+      "tokens": [
+        "어",
+        "그리고",
+        "지금",
+        "2",
+        "만",
+        "원",
+        "이상",
+        "구매",
+        "하",
+        "면",
+        "쿠폰",
+        "도",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 그래?",
+      "tokens": [
+        "아",
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "올영은 세일이랑 쿠폰이 많아서 좋아",
+      "tokens": [
+        "올",
+        "영",
+        "은",
+        "세일",
+        "이랑",
+        "쿠폰",
+        "이",
+        "많",
+        "아서",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "매월 첫째 주에 제일 많이 하잖아!",
+      "tokens": [
+        "매월",
+        "첫째",
+        "주",
+        "에",
+        "제일",
+        "많이",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "가서 한 달 치 화장품 다 사 와야지",
+      "tokens": [
+        "가서한",
+        "달치",
+        "화장품",
+        "다사",
+        "와",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나도 그래 올영은 세일 안 하는 날 가서 사면 손해 보는 느낌이야!",
+      "tokens": [
+        "나",
+        "도",
+        "그래",
+        "EC",
+        "올",
+        "영",
+        "은",
+        "세일",
+        "안",
+        "하",
+        "는",
+        "날",
+        "가",
+        "서",
+        "사면",
+        "손",
+        "해",
+        "EC",
+        "보",
+        "는",
+        "느낌",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "꼭 세일 하는 날 쿠폰 가지고 가야지",
+      "tokens": [
+        "꼭",
+        "세일",
+        "하",
+        "는",
+        "날",
+        "쿠폰",
+        "가지",
+        "고",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_103_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

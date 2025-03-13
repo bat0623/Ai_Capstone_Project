@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 날씨 대박이더라구",
+      "tokens": [
+        "오늘",
+        "날씨",
+        "대박",
+        "이",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 날씨가 오락가락 하는 거 같아",
+      "tokens": [
+        "요즘",
+        "날씨",
+        "가",
+        "오락가락",
+        "하",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 더위를 잘 타 너무 더워",
+      "tokens": [
+        "나",
+        "는",
+        "더위",
+        "를",
+        "잘",
+        "타",
+        "EC",
+        "너무",
+        "더워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아주 좋아 이런 날씨는 키키",
+      "tokens": [
+        "아주",
+        "좋",
+        "아",
+        "이런",
+        "날씨",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이런 날씨에는 피크닉이지 키키",
+      "tokens": [
+        "이런",
+        "날씨",
+        "에",
+        "는",
+        "피크닉",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "추위보다 더위가 항상 문제야",
+      "tokens": [
+        "추위",
+        "보다",
+        "더위",
+        "가",
+        "항상",
+        "문제",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "더위를 안타서 나도 여름이 좋아",
+      "tokens": [
+        "더위",
+        "를",
+        "안",
+        "타",
+        "서",
+        "나",
+        "도",
+        "여름",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "피크닉 가자 내가 도시락 준비할게",
+      "tokens": [
+        "피크닉",
+        "가",
+        "자내",
+        "가",
+        "도시락",
+        "준비",
+        "할",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "피크닉 가서 햄 먹고 싶다 어서 가자",
+      "tokens": [
+        "피크닉",
+        "가",
+        "서",
+        "햄",
+        "먹",
+        "고",
+        "싶",
+        "다",
+        "어서",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "추운 거는 너무 싫어 ㅠㅠ",
+      "tokens": [
+        "추운",
+        "ETM",
+        "거",
+        "는",
+        "너무",
+        "싫",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "너희는 여자친구들만 준비해줘",
+      "tokens": [
+        "너희",
+        "는",
+        "여자",
+        "친구",
+        "들",
+        "만",
+        "준비",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "도시락 준비하지만 내가 준비할게",
+      "tokens": [
+        "도시락",
+        "준비",
+        "하",
+        "지만",
+        "내",
+        "가",
+        "준비",
+        "할",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 난 겨울이 너무 싫어 ㅠㅠ",
+      "tokens": [
+        "그래서",
+        "난",
+        "JX",
+        "겨울",
+        "이",
+        "너무",
+        "싫",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "추운 것도 추운 거만의 매력이 있더라",
+      "tokens": [
+        "추운",
+        "ETM",
+        "것",
+        "도",
+        "추운거",
+        "ETM",
+        "NNB",
+        "만",
+        "의",
+        "매력",
+        "이",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래서 난 겨울이 좋아",
+      "tokens": [
+        "그래서",
+        "난",
+        "JX",
+        "겨울",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "여자친구도 준비할게 여군 어때",
+      "tokens": [
+        "여자",
+        "친구",
+        "도",
+        "준비",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "여군",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "얼른 여름이 되었으면 좋겠어 키키",
+      "tokens": [
+        "얼른",
+        "여름",
+        "이",
+        "되",
+        "었",
+        "으면",
+        "좋",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "여름이 되면 비키니 입은 여자들 보고 싶어",
+      "tokens": [
+        "여름",
+        "이",
+        "되",
+        "면",
+        "비키",
+        "니",
+        "입",
+        "은",
+        "여자",
+        "들",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "여군들이 여자친구로 좋더라고 다들 그러더라",
+      "tokens": [
+        "여군",
+        "들",
+        "이",
+        "여자",
+        "친구",
+        "로",
+        "좋",
+        "더라고",
+        "다",
+        "들",
+        "그러",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

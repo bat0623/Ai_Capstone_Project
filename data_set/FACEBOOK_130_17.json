@@ -1,0 +1,415 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**야 아프면 곧바로 병원 가야 해",
+      "tokens": [
+        "*",
+        "*",
+        "야아프면곧바로병원가야해"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "참지 말고 가야 해 하하",
+      "tokens": [
+        "참",
+        "지",
+        "말",
+        "고",
+        "가",
+        "야",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "마스크 끼고 아픈 적이 없는 것 같아욥",
+      "tokens": [
+        "마스크",
+        "끼",
+        "고",
+        "아픈",
+        "ETM",
+        "적",
+        "이",
+        "없",
+        "는",
+        "것",
+        "같",
+        "아",
+        "욥"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "미련하게 참고 그러면 안된당",
+      "tokens": [
+        "미련",
+        "하",
+        "게",
+        "참",
+        "고",
+        "그러",
+        "면",
+        "안",
+        "된",
+        "ETM",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "참다가 더 큰 병이 와",
+      "tokens": [
+        "참",
+        "다가",
+        "더",
+        "큰",
+        "ETM",
+        "병",
+        "이",
+        "와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아요 ㅜㅜ",
+      "tokens": [
+        "맞아요ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "참으면 병이죠",
+      "tokens": [
+        "참으",
+        "면",
+        "병",
+        "이",
+        "죠"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "무조건 병원은 빨리 가야 해",
+      "tokens": [
+        "무조건",
+        "병원",
+        "은",
+        "빨리",
+        "가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "혼자 살 땐 더더욱 ㅠ",
+      "tokens": [
+        "혼자살땐더더욱ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아요",
+      "tokens": [
+        "맞",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "건강 잘 챙겨야조\\",
+      "tokens": [
+        "건강",
+        "잘",
+        "챙겨",
+        "EC",
+        "야조",
+        "\\"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마스크 끼고 감기는 안 걸림 하하",
+      "tokens": [
+        "마스크",
+        "끼",
+        "고",
+        "감기",
+        "는",
+        "안",
+        "걸림",
+        "ETN",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "얼마나 서럽다고 혼자 있을 때 아프면",
+      "tokens": [
+        "얼마나",
+        "서럽",
+        "다고",
+        "혼자",
+        "있",
+        "을",
+        "때",
+        "아프",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아요",
+      "tokens": [
+        "맞",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마스크 끼면 감기 안 걸려용",
+      "tokens": [
+        "마스크",
+        "끼",
+        "면",
+        "감기",
+        "안",
+        "걸려",
+        "EC",
+        "용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "혼자 있을 때는 자기가 챙겨야 해",
+      "tokens": [
+        "혼자",
+        "있",
+        "을",
+        "때",
+        "는",
+        "자기",
+        "가",
+        "챙겨야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "감기 안 걸려 요새 하하",
+      "tokens": [
+        "감기",
+        "안",
+        "걸려",
+        "EC",
+        "요새",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "영양제 먹을려구용 하하",
+      "tokens": [
+        "영양제",
+        "먹",
+        "을려구",
+        "용하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "손도 자주 씻어서 그런 듯 하하",
+      "tokens": [
+        "손",
+        "도",
+        "자주",
+        "씻",
+        "어서",
+        "그런",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "이건 짱인 듯 정말",
+      "tokens": [
+        "이건",
+        "JX",
+        "짱",
+        "인",
+        "ETM",
+        "듯",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "영양제 추천 해주세여ㅛ",
+      "tokens": [
+        "영양제",
+        "추천",
+        "해",
+        "EC",
+        "주",
+        "세여",
+        "EF",
+        "ㅛ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "작은엄마는 중고거래 해본 적 있어?",
+      "tokens": [
+        "작",
+        "은",
+        "엄마",
+        "는",
+        "중고",
+        "거래",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "당근마켓~ 해봤지 키키",
+      "tokens": [
+        "당근",
+        "마켓",
+        "~",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "집에 안 쓰는 거 팔았어",
+      "tokens": [
+        "집",
+        "에",
+        "안",
+        "쓰",
+        "는",
+        "거",
+        "팔",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거 결제는 어떻게 해?",
+      "tokens": [
+        "그거",
+        "결제",
+        "는",
+        "어떻",
+        "게",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아줌마들은 현금 주거나 카카오페이로 송금 받지",
+      "tokens": [
+        "아줌마",
+        "들",
+        "은",
+        "현금",
+        "주",
+        "거나",
+        "카카오",
+        "페이",
+        "로",
+        "송금",
+        "받",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 그러면 최근에도 당근거래 했었어?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러",
+        "면",
+        "최근",
+        "에",
+        "도",
+        "당근",
+        "거래",
+        "했었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "응 새 요가복 있는 거 팔았어~",
+      "tokens": [
+        "응",
+        "새요",
+        "가",
+        "복",
+        "있",
+        "는",
+        "거",
+        "팔",
+        "았",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 진짜 그거 원래 얼마짜리였는데 얼마에 팔았어?",
+      "tokens": [
+        "아",
+        "진짜",
+        "그거",
+        "원래",
+        "얼마",
+        "짜리",
+        "였",
+        "EP",
+        "는데",
+        "얼마",
+        "에",
+        "팔",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "4만 원인데 그냥 3만 원에 팔았지 키키",
+      "tokens": [
+        "4",
+        "만",
+        "원",
+        "인데",
+        "EC",
+        "그냥",
+        "3",
+        "만",
+        "원",
+        "에",
+        "팔",
+        "았",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나중에 나 필테 할 건데 팔 거면 나한테 팔아라!",
+      "tokens": [
+        "나중",
+        "에",
+        "나",
+        "필",
+        "ETM",
+        "테",
+        "할",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC",
+        "팔",
+        "ETM",
+        "거",
+        "면",
+        "EC",
+        "나",
+        "한테",
+        "팔",
+        "아라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "에이~ 조카한테 돈을 왜 받아 그냥 줘야지",
+      "tokens": [
+        "에이",
+        "~",
+        "조카",
+        "한테",
+        "돈",
+        "을",
+        "왜",
+        "받",
+        "아",
+        "그냥",
+        "줘야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오 나이따~ 너무 좋은 걸",
+      "tokens": [
+        "오",
+        "나",
+        "이따",
+        "~",
+        "너무",
+        "좋",
+        "은",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 당근마켓에서 필테복 보고 있었거든!",
+      "tokens": [
+        "나",
+        "당근",
+        "마켓",
+        "에서",
+        "필",
+        "ETM",
+        "테",
+        "복보",
+        "고",
+        "EC",
+        "있",
+        "었",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "필테복이 따로 있어?",
+      "tokens": [
+        "필",
+        "ETM",
+        "테",
+        "복",
+        "이",
+        "따로",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "요가랑 달라?",
+      "tokens": [
+        "요가",
+        "랑",
+        "달라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "필테복이나 요가복이나 딱 달라붙는 거 아니야?",
+      "tokens": [
+        "필",
+        "ETM",
+        "테",
+        "복",
+        "이나",
+        "요가",
+        "복",
+        "이나",
+        "딱",
+        "달라붙",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "응 맞어",
+      "tokens": [
+        "응",
+        "맞",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "레깅스 같은 거",
+      "tokens": [
+        "레깅스",
+        "같",
+        "은",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 그치 그거,",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그치",
+        "그거",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "당근은 기본 4만 원에 팔더라고",
+      "tokens": [
+        "당근",
+        "은",
+        "기본",
+        "4",
+        "만",
+        "원",
+        "에",
+        "팔",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "아니면 작은 엄마 강사 할인으로 사던가 해~",
+      "tokens": [
+        "아니면",
+        "작",
+        "은",
+        "엄마",
+        "강사",
+        "할인",
+        "으로",
+        "사",
+        "던가",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

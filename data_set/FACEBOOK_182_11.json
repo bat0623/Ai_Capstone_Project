@@ -1,0 +1,438 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "왜에에",
+      "tokens": [
+        "왜",
+        "에",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 게임 중이야",
+      "tokens": [
+        "나",
+        "게임",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "뭔 게임 중이야",
+      "tokens": [
+        "뭔",
+        "게임",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "니는 방에 틀어 박혀서 게임만 하냐",
+      "tokens": [
+        "니",
+        "는",
+        "방",
+        "에",
+        "틀어박혀서",
+        "EC",
+        "게임",
+        "만",
+        "하",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 나는 방에 박혀서 게임 하는 거 좋아해",
+      "tokens": [
+        "응",
+        "나",
+        "는",
+        "방",
+        "에",
+        "박혀서",
+        "EC",
+        "게임",
+        "하",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "딸 나갔다 오자",
+      "tokens": [
+        "딸",
+        "나갔",
+        "EP",
+        "다",
+        "오",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엄마랑 같이 나가서 반찬거리 좀 사와라",
+      "tokens": [
+        "엄마",
+        "랑",
+        "같이",
+        "나가",
+        "서",
+        "반찬거리",
+        "좀",
+        "사",
+        "와라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "귀찮아",
+      "tokens": [
+        "귀찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아빠가 엄마랑 같이 나가",
+      "tokens": [
+        "아빠",
+        "가",
+        "엄마",
+        "랑",
+        "같이",
+        "나가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "게임만 하지 말고 엄마랑 좀 가자~?",
+      "tokens": [
+        "게임",
+        "만",
+        "하",
+        "지",
+        "말",
+        "고",
+        "엄마",
+        "랑",
+        "좀",
+        "가",
+        "자",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "너가 원하는 거 하나 사줄게",
+      "tokens": [
+        "너",
+        "가",
+        "원",
+        "하",
+        "는",
+        "거",
+        "하나",
+        "사",
+        "줄",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "게임은 갔다 와서도 하면 되냐",
+      "tokens": [
+        "게임",
+        "은",
+        "갔",
+        "EP",
+        "다",
+        "와서",
+        "EC",
+        "도",
+        "하",
+        "면",
+        "되",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 왜!",
+      "tokens": [
+        "아",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아빠는 귀찮아서 가지도 않으면서",
+      "tokens": [
+        "아빠",
+        "는",
+        "귀찮",
+        "아서",
+        "가지",
+        "도",
+        "않",
+        "으면서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아빠가 돈 줬어",
+      "tokens": [
+        "아빠",
+        "가",
+        "돈",
+        "줬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그럼 니가 돈 줘라 내가 사올게",
+      "tokens": [
+        "그럼",
+        "니",
+        "가",
+        "돈",
+        "줘라",
+        "EC",
+        "내",
+        "가",
+        "사",
+        "올",
+        "VX",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "와 어이없어",
+      "tokens": [
+        "와",
+        "어이없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 그럼 이 판만 끝나고",
+      "tokens": [
+        "아",
+        "그럼",
+        "이판",
+        "만",
+        "끝나",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "게임 언제 끝나는데?",
+      "tokens": [
+        "게임",
+        "언제",
+        "끝나",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그거 게임은 일시정지가 안 되냐?",
+      "tokens": [
+        "그거",
+        "게임",
+        "은",
+        "일시",
+        "정지",
+        "가",
+        "안",
+        "되",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "엉 이거 일시정지 안 됨",
+      "tokens": [
+        "엉",
+        "이거",
+        "일시",
+        "EC",
+        "정지",
+        "안",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "알겠어",
+      "tokens": [
+        "알",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그럼 10분 후에 가자",
+      "tokens": [
+        "그럼",
+        "10",
+        "분",
+        "후",
+        "에",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "저거 아주 게임 중독이여",
+      "tokens": [
+        "저거",
+        "아주",
+        "게임",
+        "중독",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

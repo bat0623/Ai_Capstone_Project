@@ -1,0 +1,499 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 경기장에서 직접 관람했던 운동 있어?",
+      "tokens": [
+        "너",
+        "는",
+        "경기장",
+        "에서",
+        "직접",
+        "관람",
+        "했",
+        "EP",
+        "던",
+        "운동",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "축구는 직접 관람해 봤었어",
+      "tokens": [
+        "축구",
+        "는",
+        "직접",
+        "관람",
+        "해",
+        "EC",
+        "봤었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오 그 수원 월드컵 경기장에서?",
+      "tokens": [
+        "오그",
+        "수원",
+        "월드컵",
+        "경기장",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어 맞아 !",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "바로 근처가 월드컵 경기장이라서",
+      "tokens": [
+        "바로",
+        "근처",
+        "가",
+        "월드컵",
+        "경기장",
+        "이",
+        "라서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "부럽다 키키",
+      "tokens": [
+        "부럽",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그때 누구랑 누구랑 경기했었어?",
+      "tokens": [
+        "그때",
+        "누구",
+        "랑",
+        "누구",
+        "랑",
+        "경기",
+        "했었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "축구 선수들은 기억 잘 안 나는데 연예인들 왔을 때 보러 많이 갔었어",
+      "tokens": [
+        "축구",
+        "선수",
+        "들",
+        "은",
+        "기억",
+        "잘",
+        "안",
+        "나",
+        "는데",
+        "연예인",
+        "들",
+        "왔",
+        "EP",
+        "을",
+        "때",
+        "보러",
+        "많이",
+        "갔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "연예인 누구 왔었어?",
+      "tokens": [
+        "연예",
+        "인",
+        "ETM",
+        "누구",
+        "왔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이기광이랑 윤두준은 기억나 둘 다 축구 좋아하잖아!",
+      "tokens": [
+        "이기광",
+        "이랑",
+        "윤두준",
+        "은",
+        "기억나",
+        "EC",
+        "둘",
+        "ETM",
+        "다",
+        "축구",
+        "좋",
+        "아",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "윤두준 진짜 잘생기지 않았어?",
+      "tokens": [
+        "윤두준",
+        "진짜",
+        "잘",
+        "생기",
+        "지",
+        "않",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 잘생겼더라 ㅠㅠ 또 만나 보고 싶어 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "잘",
+        "생겼",
+        "EP",
+        "더라",
+        "ㅠㅠ",
+        "또",
+        "만나",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 그러게 윤두준 거기서 관람하고 있었던 거야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러",
+        "게",
+        "윤두준",
+        "거기",
+        "서",
+        "관람",
+        "하",
+        "고",
+        "있",
+        "었",
+        "던",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아니 아니",
+      "tokens": [
+        "아니",
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "축구 선수로 나오는 거였어 그래서 보러 간거야",
+      "tokens": [
+        "축구",
+        "선수",
+        "로",
+        "나오",
+        "는",
+        "거",
+        "였",
+        "EP",
+        "어",
+        "그래서",
+        "EC",
+        "보",
+        "러",
+        "간",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그때 윤두준이 축구 선수로 활약했던 tv 프로그램에 나왔던 건가?",
+      "tokens": [
+        "그때",
+        "윤두준",
+        "이",
+        "축구",
+        "선수",
+        "로",
+        "활약",
+        "했",
+        "EP",
+        "던",
+        "tv",
+        "프로그램",
+        "에",
+        "나왔",
+        "EP",
+        "던",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그런건 모르겠는데 아마 이벤트로 연예인들 부르고 그런 거 같아",
+      "tokens": [
+        "그런",
+        "건",
+        "JX",
+        "모르",
+        "겠",
+        "는데",
+        "아마",
+        "이벤트",
+        "로",
+        "연예인",
+        "들",
+        "부르",
+        "고",
+        "그런",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "야구도 그런 시구 할 때 연예인 쓰잖아 축구도 그렇구나!",
+      "tokens": [
+        "야구",
+        "도",
+        "그런",
+        "시구",
+        "할",
+        "ETM",
+        "때",
+        "연예인",
+        "쓰",
+        "잖아",
+        "축구",
+        "도",
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "약간 그런 거 같아!",
+      "tokens": [
+        "약간",
+        "그런",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_104_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "스크린 가서 게임만 해도 그렇게 즐겁대 키키",
+      "tokens": [
+        "스크린",
+        "가",
+        "서",
+        "게임",
+        "만",
+        "해도",
+        "EC",
+        "그렇게",
+        "즐겁",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 스크린 가고 싶음 키키",
+      "tokens": [
+        "나",
+        "도",
+        "스크린",
+        "가",
+        "고",
+        "싶",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "스크린 재밌대!",
+      "tokens": [
+        "스크린",
+        "재밌",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "골프로 게임 많이 하던뎅...!",
+      "tokens": [
+        "골프",
+        "로",
+        "게임",
+        "많이",
+        "하",
+        "던",
+        "뎅",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "셋이 가면 재밌을 듯 키키",
+      "tokens": [
+        "셋",
+        "이",
+        "가",
+        "면",
+        "재밌",
+        "을",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 아직 난 실력이...",
+      "tokens": [
+        "근데",
+        "아직",
+        "난",
+        "JX",
+        "실력",
+        "이",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 스크린은 그냥 핵 초보도 가더만",
+      "tokens": [
+        "키",
+        "키",
+        "스크린",
+        "은",
+        "그냥",
+        "핵",
+        "초보",
+        "도",
+        "가",
+        "더만"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "다 같이 배워서 가자 키키",
+      "tokens": [
+        "다",
+        "같이",
+        "배워서",
+        "EC",
+        "가",
+        "자키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "얼른 배워보자 칭구들아 키키",
+      "tokens": [
+        "얼른",
+        "배워",
+        "EC",
+        "보",
+        "자",
+        "칭",
+        "구들",
+        "아키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그렇게 비싸지 않으니까",
+      "tokens": [
+        "그렇게",
+        "비싸",
+        "지",
+        "않",
+        "으니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 다 가더라 키키",
+      "tokens": [
+        "그거",
+        "다가",
+        "더",
+        "라키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "친구들이랑 라운딩 가면 그렇게 재밌대",
+      "tokens": [
+        "친구",
+        "들",
+        "이랑",
+        "라운",
+        "딩",
+        "가",
+        "면",
+        "그렇게",
+        "재밌",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "필드는 넘 비싸서 좀 쳐야 가구",
+      "tokens": [
+        "필드",
+        "는",
+        "넘",
+        "비싸",
+        "서",
+        "좀",
+        "쳐야",
+        "EC",
+        "가",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그렇게 부담 안 될 거구만 키키",
+      "tokens": [
+        "그렇게",
+        "부담",
+        "안",
+        "될",
+        "ETM",
+        "거",
+        "구만",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "요즘은 많이 안 비싸대",
+      "tokens": [
+        "요즘",
+        "은",
+        "많이",
+        "안",
+        "비싸",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "라운딩은 못 치면 왕 화날 듯 공도 날리구...",
+      "tokens": [
+        "라운딩은못치면왕화날듯공도날리구",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그럼 다시 만나는 날까지 배워두기 키키",
+      "tokens": [
+        "그럼",
+        "다시",
+        "만나",
+        "는",
+        "날",
+        "까지",
+        "배워",
+        "EC",
+        "두",
+        "기",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "여기저기 하니까 저렴할 듯",
+      "tokens": [
+        "여기저기",
+        "하",
+        "니까",
+        "저렴",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

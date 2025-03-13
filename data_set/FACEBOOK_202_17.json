@@ -1,0 +1,387 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠 맹장 수술 해봄?",
+      "tokens": [
+        "오빠",
+        "맹장",
+        "수술",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엇 행님 저도 맹장수술 했어요",
+      "tokens": [
+        "엇",
+        "행",
+        "님",
+        "저",
+        "도",
+        "맹장",
+        "수술",
+        "했어요",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "웅 나 맹장 터질 뻔했는디",
+      "tokens": [
+        "웅",
+        "나",
+        "맹장",
+        "터질",
+        "ETM",
+        "뻔",
+        "했",
+        "EP",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "혼자 응급실 감",
+      "tokens": [
+        "혼자",
+        "응급",
+        "실감"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맹장 터지면 어떤 느낌이야?",
+      "tokens": [
+        "맹장",
+        "터지",
+        "면",
+        "어떤",
+        "느낌",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맹장염으로 입원해서 수술했어요",
+      "tokens": [
+        "맹장염",
+        "으로",
+        "입원",
+        "해서",
+        "EC",
+        "수술",
+        "했어요",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그냥 겁나 아파...",
+      "tokens": [
+        "그냥",
+        "겁나",
+        "EC",
+        "아파",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "식은땀이 줄줄해",
+      "tokens": [
+        "식은땀",
+        "이",
+        "줄줄",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헉 그러다가 죽기도 한대",
+      "tokens": [
+        "헉",
+        "그러",
+        "다가",
+        "죽",
+        "기",
+        "도",
+        "한대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진짜 식은땀에 아파서 데굴",
+      "tokens": [
+        "진짜",
+        "식은땀",
+        "에",
+        "아파서",
+        "EC",
+        "데굴"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "옆에 학교후배 자고 있었는데 아무리 깨워도 안 깨드라 ...",
+      "tokens": [
+        "옆",
+        "에",
+        "학교",
+        "후배",
+        "자",
+        "고",
+        "있",
+        "었",
+        "는데",
+        "아무리",
+        "깨워",
+        "EC",
+        "도",
+        "안",
+        "깨",
+        "드라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어떻게 아픈 느낌인디?",
+      "tokens": [
+        "어떻게",
+        "아픈",
+        "ETM",
+        "느낌",
+        "인디",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "엄청 그냥 걍 아파",
+      "tokens": [
+        "엄청그냥걍아파"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응급실까지 걸어서 5분 거린데 나 택시 타고 갔잖아 ...",
+      "tokens": [
+        "응급실",
+        "까지",
+        "걸어서",
+        "EC",
+        "5",
+        "분",
+        "거린데",
+        "VCP",
+        "EC",
+        "나",
+        "택시",
+        "타",
+        "고",
+        "갔",
+        "EP",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "배를 누가 들고 참?",
+      "tokens": [
+        "배",
+        "를",
+        "누가",
+        "JKS",
+        "들",
+        "고",
+        "참"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응급실 갔는데 코로나 검사부터 함;",
+      "tokens": [
+        "응급실",
+        "갔",
+        "EP",
+        "는데",
+        "코로나",
+        "검사",
+        "부터",
+        "함",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "음 그런 거랑 비교를 못한다 진짜",
+      "tokens": [
+        "음",
+        "그런",
+        "거",
+        "랑",
+        "비교",
+        "를",
+        "못",
+        "한다",
+        "EF",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "와 택시를 불러서 갔어?",
+      "tokens": [
+        "와",
+        "택시",
+        "를",
+        "불러서",
+        "EC",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래서 시간 엄청 오래걸림",
+      "tokens": [
+        "그래서",
+        "시간",
+        "엄청",
+        "오래",
+        "걸림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "택시 기사 아저씨가 어이없어 하더라 키키",
+      "tokens": [
+        "택시",
+        "기사",
+        "아저씨",
+        "가",
+        "어이없",
+        "어",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

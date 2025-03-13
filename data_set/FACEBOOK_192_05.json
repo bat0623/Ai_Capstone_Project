@@ -1,0 +1,448 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대 안 가려고 전신에 문신한 사람도 있네",
+      "tokens": [
+        "군대",
+        "안",
+        "가",
+        "려고",
+        "전신",
+        "에",
+        "문신",
+        "한",
+        "ETM",
+        "사람",
+        "도",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 그런 사람이 있어?",
+      "tokens": [
+        "헐",
+        "그런",
+        "사람",
+        "이",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜 그렇게까지 하는 거지?",
+      "tokens": [
+        "왜",
+        "그렇",
+        "게",
+        "까지",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "군대 안 가려고 진짜 별 짓을 다 하는 듯",
+      "tokens": [
+        "군대",
+        "안",
+        "가",
+        "려고",
+        "진짜",
+        "별",
+        "짓",
+        "을",
+        "다",
+        "하",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "군대 요즘 진짜 좋아졌다던데",
+      "tokens": [
+        "군대",
+        "요즘",
+        "진짜",
+        "좋",
+        "아",
+        "졌",
+        "EP",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "군대 복무 기간도 엄청 짧아",
+      "tokens": [
+        "군대",
+        "복무",
+        "기간",
+        "도",
+        "엄청",
+        "짧",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그래도 군대는 안 가고 싶기는 한데 전신에 문신은 하고 싶지 않아 ㅠㅠ",
+      "tokens": [
+        "그래도",
+        "군대",
+        "는",
+        "안",
+        "가",
+        "고",
+        "싶",
+        "기",
+        "는",
+        "한데",
+        "EC",
+        "전신",
+        "에",
+        "문신",
+        "은",
+        "하",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그냥 여행 갔다 온다고 생각하면 되지 키키",
+      "tokens": [
+        "그냥",
+        "여행",
+        "갔",
+        "EP",
+        "다",
+        "온다고",
+        "EC",
+        "생각",
+        "하",
+        "면",
+        "되",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "바깥이랑 연락도 잘 되고",
+      "tokens": [
+        "바깥",
+        "이랑",
+        "연락",
+        "도",
+        "잘",
+        "되",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘 군대 많이 풀려서 외출도 가능하다고 하던데",
+      "tokens": [
+        "요즘",
+        "군대",
+        "많이",
+        "풀려서",
+        "EC",
+        "외출",
+        "도",
+        "가능",
+        "하",
+        "다고",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래 밥도 제때 나오고~",
+      "tokens": [
+        "그래",
+        "밥",
+        "도",
+        "제때",
+        "나오",
+        "고",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 은근 편한 거 많은데 군대",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "은",
+        "근",
+        "JX",
+        "편한",
+        "ETM",
+        "거",
+        "많",
+        "은데",
+        "군대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "군대에서 나는 살 쪄서 나왔어 키키",
+      "tokens": [
+        "군대",
+        "에서",
+        "나",
+        "는",
+        "살",
+        "쪄서",
+        "EC",
+        "나왔",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그래도 전신 문신해서라도 가기 싫나 봐",
+      "tokens": [
+        "그래도",
+        "전신",
+        "문신",
+        "해서라도",
+        "EC",
+        "가",
+        "기",
+        "싫",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나는 전혀 이해 못하겠다 키키",
+      "tokens": [
+        "나",
+        "는",
+        "전혀",
+        "이해",
+        "못",
+        "하",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜 그렇게 군대가 가기 싫을까 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "그렇게",
+        "군대",
+        "가",
+        "가",
+        "기",
+        "싫",
+        "을까",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 응 그건 나도 이해 안된다...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "응",
+        "그건",
+        "JX",
+        "나",
+        "도",
+        "이해",
+        "안",
+        "된다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "어떻게 저렇게까지 할까",
+      "tokens": [
+        "어떻게",
+        "저렇",
+        "게",
+        "까지",
+        "할까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "대박이네",
+      "tokens": [
+        "대박",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_192_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내일 여친이랑 1년이야 벌써",
+      "tokens": [
+        "내일",
+        "여친",
+        "이랑",
+        "1",
+        "년",
+        "이",
+        "야",
+        "벌써"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "결혼이 너무 하고싶어",
+      "tokens": [
+        "결혼",
+        "이",
+        "너무",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "여친이 있구나",
+      "tokens": [
+        "여친",
+        "이",
+        "있",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "넌 성공한 인생이네?",
+      "tokens": [
+        "넌",
+        "JX",
+        "성공",
+        "한",
+        "ETM",
+        "인생",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "시간 너무 빨라 진짜 키키",
+      "tokens": [
+        "시간",
+        "너무",
+        "빨라",
+        "EC",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "여자친구랑 1년이면 정말 부럽다",
+      "tokens": [
+        "여자",
+        "친구",
+        "랑",
+        "1",
+        "년",
+        "이",
+        "면",
+        "정말",
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 실패한 인생이야...",
+      "tokens": [
+        "난",
+        "JX",
+        "실패",
+        "한",
+        "ETM",
+        "인생",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "4년째 여친이 없어",
+      "tokens": [
+        "4",
+        "년",
+        "째",
+        "여친",
+        "이",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "기념일 챙기는 것도 힘들어 이젠",
+      "tokens": [
+        "기념일",
+        "챙기",
+        "는",
+        "것",
+        "도",
+        "힘들",
+        "어",
+        "이젠",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 26년째 여자친구가 없어",
+      "tokens": [
+        "나",
+        "는",
+        "26",
+        "년",
+        "째",
+        "여자",
+        "친구",
+        "가",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "여자친구는 어디서 만나는지 물어봐도 돼?",
+      "tokens": [
+        "여자",
+        "친구",
+        "는",
+        "어디",
+        "서",
+        "만나",
+        "는지",
+        "물어봐도",
+        "EC",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아하 키키",
+      "tokens": [
+        "아",
+        "하키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "다들 결혼 하자구 얼른",
+      "tokens": [
+        "다",
+        "들",
+        "결혼",
+        "하",
+        "자구",
+        "얼른"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "결혼은 내 인생의 목표야",
+      "tokens": [
+        "결혼",
+        "은",
+        "내인생의",
+        "JKG",
+        "NNG",
+        "JKG",
+        "목표",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "도대체 어떻게 해야 여자를 만날 수 있을까?",
+      "tokens": [
+        "도대체",
+        "어떻게",
+        "해야",
+        "EC",
+        "여자",
+        "를",
+        "만날",
+        "ETM",
+        "수",
+        "있",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "좋은 남편이 되자 우리",
+      "tokens": [
+        "좋",
+        "은",
+        "남편",
+        "이",
+        "되",
+        "자",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "좋은 여자는 다 어디에 있을까",
+      "tokens": [
+        "좋",
+        "은",
+        "여자",
+        "는",
+        "다",
+        "어디",
+        "에",
+        "있",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 좋은 남편보단 좋은 아빠가 되고 싶어",
+      "tokens": [
+        "난",
+        "JX",
+        "좋",
+        "은",
+        "남편",
+        "보단",
+        "JX",
+        "좋",
+        "은",
+        "아빠",
+        "가",
+        "되",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "여자를 잘 만나야 해 무조건",
+      "tokens": [
+        "여자",
+        "를",
+        "잘",
+        "만나",
+        "야",
+        "해",
+        "EC",
+        "무조건"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나를 만나면 축복을 받은 건데",
+      "tokens": [
+        "나",
+        "를",
+        "만나",
+        "면",
+        "축복",
+        "을",
+        "받",
+        "은",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "내 게임 닉네임도 여자를 잘 만나려면 이야",
+      "tokens": [
+        "내",
+        "JKG",
+        "게임",
+        "닉네임",
+        "도",
+        "여자",
+        "를",
+        "잘",
+        "만나",
+        "려면",
+        "이야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_191_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘은 어제보다 날씨가 좀 풀린 거 같아!",
+      "tokens": [
+        "오늘",
+        "은",
+        "어제",
+        "보다",
+        "날씨",
+        "가",
+        "좀",
+        "풀린",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "날이 점점 추워져서 더 흐린 거 같아 키키",
+      "tokens": [
+        "날",
+        "이",
+        "점점",
+        "추워져서",
+        "EC",
+        "VX",
+        "EC",
+        "더",
+        "흐린",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 거기는 또 추워졌을 수도 있겠다!",
+      "tokens": [
+        "아",
+        "거기",
+        "는",
+        "또",
+        "추워졌",
+        "EC",
+        "VX",
+        "EP",
+        "을",
+        "수",
+        "도",
+        "있",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "응 바람이 부는 게 장난 아니야 진짜",
+      "tokens": [
+        "응",
+        "바람",
+        "이",
+        "부",
+        "는",
+        "게",
+        "JKS",
+        "장난",
+        "아니",
+        "야",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "할 ㅜㅜ 바닷가 쪽이라 바람 부는 게 진짜 장난 아니지?",
+      "tokens": [
+        "할",
+        "ETM",
+        "ㅜㅜ",
+        "바닷가",
+        "쪽",
+        "이",
+        "라",
+        "바람",
+        "부",
+        "는",
+        "게",
+        "JKS",
+        "진짜",
+        "장난",
+        "아니",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "응 비까지 같이 오면 답이 없어 키키",
+      "tokens": [
+        "응비",
+        "까지",
+        "같이",
+        "오",
+        "면",
+        "답",
+        "이",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "홀 ㅜㅜ 그렇구나 어제 비 오지 않았어?",
+      "tokens": [
+        "홀",
+        "ㅜㅜ",
+        "그렇",
+        "구나",
+        "어",
+        "제비",
+        "오",
+        "지",
+        "않",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "응 비 오는데 바람도 살벌하게 불더라ㅠㅠ",
+      "tokens": [
+        "응비",
+        "오",
+        "는데",
+        "바람",
+        "도",
+        "살벌",
+        "하",
+        "게",
+        "불",
+        "더라",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "헐 ㅜㅜ 그런 날씨에는 어디 돌아다니면 안 돼!",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅜㅜ",
+        "그런",
+        "날씨",
+        "에",
+        "는",
+        "어디",
+        "돌아다니",
+        "면",
+        "안",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "응 그런 날에는 집에만 있어야지 키키",
+      "tokens": [
+        "응",
+        "그런",
+        "날",
+        "에",
+        "는",
+        "집",
+        "에",
+        "만",
+        "있",
+        "어야지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어제 집에만 있었겠지?",
+      "tokens": [
+        "어제",
+        "집",
+        "에",
+        "만",
+        "있",
+        "었",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "응~ 어디 안 나가고 집에 있었지!",
+      "tokens": [
+        "응",
+        "~",
+        "어디",
+        "안",
+        "나가",
+        "고",
+        "집",
+        "에",
+        "있",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 나는 다행히도 아침에 비가 그쳐서 괜찮았어!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "다행히",
+        "도",
+        "아침",
+        "에",
+        "비",
+        "가",
+        "그쳐서",
+        "EC",
+        "괜찮",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "다행이다 하하",
+      "tokens": [
+        "다행",
+        "이",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "비 오는 날은 항상 조심해야 돼",
+      "tokens": [
+        "비오",
+        "는",
+        "날",
+        "은",
+        "항상",
+        "조심",
+        "해야",
+        "EC",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "엊그제 저녁부터 계속 내리더라고!",
+      "tokens": [
+        "엊그제",
+        "저녁",
+        "부터",
+        "계속",
+        "내리",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 다음주에는 비 안온데!",
+      "tokens": [
+        "응",
+        "다음",
+        "주",
+        "에",
+        "는",
+        "비",
+        "안",
+        "온데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

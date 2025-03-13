@@ -1,0 +1,351 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "캠핑 족들 너무 많더라",
+      "tokens": [
+        "캠핑",
+        "족",
+        "들",
+        "너무",
+        "많",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 핫 하다 아니가",
+      "tokens": [
+        "요즘",
+        "핫",
+        "하",
+        "다아",
+        "니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "캠핑 진짜 부지런해야...",
+      "tokens": [
+        "캠핑",
+        "진짜",
+        "부지런",
+        "해야",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "캠핑 하는 애들 쓰레기 넘 버려 ㅠㅠ",
+      "tokens": [
+        "캠핑",
+        "하",
+        "는",
+        "애",
+        "들",
+        "쓰레기",
+        "넘",
+        "버려",
+        "VX",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 캠핑 안 좋아한다...",
+      "tokens": [
+        "나",
+        "는",
+        "캠핑",
+        "안",
+        "좋아한다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "저희는 진ㅉ ㅏ 게을러서",
+      "tokens": [
+        "저희",
+        "는",
+        "진",
+        "ETM",
+        "ㅉㅏ",
+        "게을러서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "캠핑 족들 왔다가면 완전",
+      "tokens": [
+        "캠핑",
+        "족",
+        "들",
+        "왔",
+        "EP",
+        "다",
+        "가",
+        "면",
+        "완전"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "왜냠 일단 화장실이 불편...",
+      "tokens": [
+        "왜",
+        "냠",
+        "일단",
+        "화장실",
+        "이",
+        "불편",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "캠핑은... 절대 못해여...",
+      "tokens": [
+        "캠핑",
+        "은",
+        ".",
+        ".",
+        "절대",
+        "못",
+        "해",
+        "EF",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "쓰레기 천지더라... 세상에나",
+      "tokens": [
+        "쓰레기",
+        "천지",
+        "더라",
+        "EF",
+        ".",
+        "세상",
+        "에",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그리고 씻고 신발 신는 거 싫어함",
+      "tokens": [
+        "그리고",
+        "씻",
+        "고",
+        "신발",
+        "신",
+        "는",
+        "거",
+        "싫",
+        "어",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "쓰레기도 다 챙겨가야지 ㅠㅠ",
+      "tokens": [
+        "쓰레기",
+        "도",
+        "다",
+        "챙겨",
+        "EC",
+        "가",
+        "야지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그리고 난로 켜놓고 많이 죽는 거 알제",
+      "tokens": [
+        "그리고",
+        "난로",
+        "켜",
+        "EC",
+        "놓",
+        "고",
+        "많이",
+        "죽",
+        "는",
+        "거",
+        "알제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래서 캠핑은 못갈듯~",
+      "tokens": [
+        "그래서",
+        "캠핑",
+        "은",
+        "못",
+        "갈",
+        "ETM",
+        "듯",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "매너가 없네 ㅠㅠ 사람들이",
+      "tokens": [
+        "매너",
+        "가",
+        "없",
+        "네",
+        "ㅠㅠ",
+        "사람",
+        "들",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "캠핑 겨울에 넘 위험해!",
+      "tokens": [
+        "캠핑",
+        "겨울",
+        "에",
+        "넘",
+        "위험",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난로 켜서 죽는다고?",
+      "tokens": [
+        "난로",
+        "켜",
+        "서",
+        "죽",
+        "는다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "텐트 안에서 난로키면 ㅠㅠ 죽고 하던데",
+      "tokens": [
+        "텐트",
+        "안",
+        "에서",
+        "난로",
+        "키",
+        "면",
+        "ㅠㅠ",
+        "죽",
+        "고",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 해외 여행가자",
+      "tokens": [
+        "우리",
+        "해외여행",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "해외보단 국내가 어때?",
+      "tokens": [
+        "해외",
+        "보단",
+        "JX",
+        "국내",
+        "가",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "일본으로 여행하고 싶어",
+      "tokens": [
+        "일본",
+        "으로",
+        "여행",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 스위스가 너무 좋아",
+      "tokens": [
+        "난",
+        "JX",
+        "스위스",
+        "가",
+        "너무",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요즘에 김해로 놀러 가고 싶어",
+      "tokens": [
+        "요즘",
+        "에",
+        "김해",
+        "로",
+        "놀",
+        "러",
+        "가",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "부산으로 놀러 가자",
+      "tokens": [
+        "부산",
+        "으로",
+        "놀",
+        "러",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "일본 또한 스시 너무 맛있지",
+      "tokens": [
+        "일본",
+        "또한",
+        "스",
+        "시",
+        "너무",
+        "맛있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "김해에는 유명한 마을이 있잖아",
+      "tokens": [
+        "김해",
+        "에",
+        "는",
+        "유명",
+        "한",
+        "ETM",
+        "마을",
+        "이",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "부산에  놀러가서 바닷가에서 회를 먹자",
+      "tokens": [
+        "부산",
+        "에",
+        "놀",
+        "러",
+        "가",
+        "서",
+        "바닷가",
+        "에",
+        "서회",
+        "를",
+        "먹",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "바다를 보러가자 부산으로 키키",
+      "tokens": [
+        "바다",
+        "를",
+        "보",
+        "러",
+        "가",
+        "자",
+        "부산",
+        "으로",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "장난이고 요즘에 통영이 대세야",
+      "tokens": [
+        "장난",
+        "이",
+        "고",
+        "요즘",
+        "에",
+        "통영",
+        "이",
+        "대세",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘은 제주도도 좋아",
+      "tokens": [
+        "요즘",
+        "은",
+        "제주도",
+        "도",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "김해에는 마을이 많긴 하지 키키",
+      "tokens": [
+        "김해",
+        "에",
+        "는",
+        "마을",
+        "이",
+        "많",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "부산은 너무 많이 가서 지려",
+      "tokens": [
+        "부산",
+        "은",
+        "너무",
+        "많이",
+        "가",
+        "서",
+        "지려"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "제주도에 맛있는 게 많아",
+      "tokens": [
+        "제주도",
+        "에",
+        "맛있",
+        "는",
+        "게",
+        "JKS",
+        "많",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "제주도를 가자 그럼 키키",
+      "tokens": [
+        "제주도",
+        "를",
+        "가",
+        "자",
+        "그럼",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "제주도는 덤탱이를 많이 하는 것 같아",
+      "tokens": [
+        "제주도",
+        "는",
+        "덤",
+        "탱이",
+        "를",
+        "많이",
+        "하",
+        "는",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "겨울에 부산 가면 너무 추워",
+      "tokens": [
+        "겨울",
+        "에",
+        "부산",
+        "가",
+        "면",
+        "너무",
+        "추워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

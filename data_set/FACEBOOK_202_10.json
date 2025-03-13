@@ -1,0 +1,522 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "필라테스 같이 갈래",
+      "tokens": [
+        "필라테스",
+        "같이",
+        "갈래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오 급 거기에 관심생겼어?",
+      "tokens": [
+        "오",
+        "급",
+        "거기",
+        "에",
+        "관심",
+        "생겼",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 유연성 떨어져서 할 수 있을려나",
+      "tokens": [
+        "나",
+        "유연",
+        "성",
+        "떨어져서",
+        "EC",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "을려나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "요즘 남성들도 많이 한대",
+      "tokens": [
+        "요즘",
+        "남성",
+        "들",
+        "도",
+        "많이",
+        "한대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요즘은 남자도 많이 간다고?",
+      "tokens": [
+        "요즘",
+        "은",
+        "남자",
+        "도",
+        "많이",
+        "간다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "여자들 쫄쫄이 입고 있을 건데 ...",
+      "tokens": [
+        "여자",
+        "들",
+        "쫄쫄이",
+        "입",
+        "고",
+        "있",
+        "을",
+        "건데",
+        "VCP",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "눈둘 데가 없을 거 같음",
+      "tokens": [
+        "눈",
+        "둘",
+        "데",
+        "가",
+        "없",
+        "을",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "유연성 떨어지니까 해야지!",
+      "tokens": [
+        "유연",
+        "성",
+        "떨어지",
+        "니까",
+        "해야지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "전혀 몰랐네",
+      "tokens": [
+        "전혀",
+        "몰랐",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그럼 고민좀 해봐야겠다 키키",
+      "tokens": [
+        "그럼",
+        "고민",
+        "좀",
+        "해",
+        "EC",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "힝 ... 그것보다 ... 거기서 ... 눈이 ... 눈...내눈 ...",
+      "tokens": [
+        "힝",
+        ".",
+        "그것",
+        "보다",
+        ".",
+        "거기",
+        "서",
+        ".",
+        "눈",
+        "이",
+        ".",
+        ".",
+        "눈",
+        ".",
+        ".",
+        "내",
+        "JKG",
+        "눈",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "엉 남성들 많이 한대!",
+      "tokens": [
+        "엉",
+        "남성",
+        "들",
+        "많이",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아는 오빠도 하심!",
+      "tokens": [
+        "아",
+        "는",
+        "오빠",
+        "도",
+        "하",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 옷이 편한 거 입어도 되나? 키키",
+      "tokens": [
+        "근데",
+        "옷",
+        "이",
+        "편한",
+        "ETM",
+        "거",
+        "입",
+        "어도",
+        "되",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 눈요기는 되겠다 으허허",
+      "tokens": [
+        "키",
+        "키",
+        "눈요기",
+        "는",
+        "되",
+        "겠",
+        "다",
+        "으허허"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "여자들 쫄쫄이 입은 거 어때서 키키",
+      "tokens": [
+        "여자",
+        "들",
+        "쫄쫄이",
+        "입",
+        "은",
+        "거",
+        "어때서",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "뭔가 편견이 쫄쫄이 입어야 될 거 같아 키키",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "편견",
+        "이",
+        "쫄쫄이",
+        "입",
+        "어야",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그냥 뭔가 보고 있기 부끄럽잖아",
+      "tokens": [
+        "키",
+        "키",
+        "그냥",
+        "뭔가",
+        "VCP",
+        "EC",
+        "보",
+        "고",
+        "있",
+        "기",
+        "부끄럽",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "으허허 뭐임 키키",
+      "tokens": [
+        "으허허",
+        "뭐",
+        "임",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "쫄쫄이 입고 산에 가는 거 어떰?",
+      "tokens": [
+        "쫄쫄",
+        "이입",
+        "고산",
+        "에",
+        "가",
+        "는",
+        "거",
+        "어떰"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그럴 수 있지",
+      "tokens": [
+        "그럴",
+        "ETM",
+        "수",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "암요 키키",
+      "tokens": [
+        "암요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나 그럼 그 뒤에 딱 붙어서 산 탈 자신 있음",
+      "tokens": [
+        "나",
+        "그럼",
+        "그",
+        "뒤",
+        "에",
+        "딱",
+        "붙",
+        "어서",
+        "산탈",
+        "자신",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그거 왜 기사거리 되는지 모르겠음 키키",
+      "tokens": [
+        "그거",
+        "왜",
+        "기사",
+        "거리",
+        "되",
+        "는지",
+        "모르",
+        "겠",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "산에 가는 것도 좋은데? 키키",
+      "tokens": [
+        "산",
+        "에",
+        "가",
+        "는",
+        "것",
+        "도",
+        "좋",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "후후 ... 보기 좋아 ...",
+      "tokens": [
+        "후후",
+        ".",
+        "보",
+        "기",
+        "좋",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "* 오빠 결혼 넘넘 축하해...",
+      "tokens": [
+        "*",
+        "오빠결혼넘넘축하해",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 키키 고마워",
+      "tokens": [
+        "아키",
+        "키",
+        "고마워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "축가도 해줄 거면서 하하",
+      "tokens": [
+        "축가",
+        "도",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "거",
+        "면서",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "진심 부럽다 ...",
+      "tokens": [
+        "진심",
+        "부럽",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 결혼해야 하는데 ...",
+      "tokens": [
+        "나",
+        "도",
+        "결혼",
+        "해야",
+        "EC",
+        "하",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우리 남편이 자꾸 자기 사회 시켜 달래",
+      "tokens": [
+        "우리",
+        "남편",
+        "이",
+        "자꾸",
+        "자기",
+        "사회",
+        "시켜",
+        "EC",
+        "달래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "기대하고 있다구 키키",
+      "tokens": [
+        "기대",
+        "하",
+        "고",
+        "있",
+        "다구",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엄청",
+      "tokens": [
+        "엄청"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 나는 그럼 하객1할게",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "그럼",
+        "하객",
+        "1",
+        "할",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오빠는 언제 할 건데",
+      "tokens": [
+        "오빠",
+        "는",
+        "언제",
+        "할",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 그래...",
+      "tokens": [
+        "아",
+        "그래",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사회는 제발 ... 자제해줘 키키",
+      "tokens": [
+        "사회",
+        "는",
+        "제발",
+        ".",
+        "자제",
+        "해",
+        "EC",
+        "줘",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 모르겠어 ...",
+      "tokens": [
+        "나",
+        "모르",
+        "겠",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "계획만 있음",
+      "tokens": [
+        "계획",
+        "만",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "사회는 전문 사회 쓸 거임?",
+      "tokens": [
+        "사회",
+        "는",
+        "전문",
+        "사회",
+        "쓸",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "행님은 언제 결혼합니까 하하",
+      "tokens": [
+        "행",
+        "님",
+        "은",
+        "언제",
+        "결혼",
+        "합니까",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내 친구가 봐주기로 했어...",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "가",
+        "봐",
+        "EC",
+        "주",
+        "기",
+        "로",
+        "했",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "축가랑 할 사람은 다 있는데 ...",
+      "tokens": [
+        "축가",
+        "랑",
+        "할",
+        "ETM",
+        "사람",
+        "은",
+        "다",
+        "있",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "전문 사회 돈 아까워...",
+      "tokens": [
+        "전문",
+        "사회",
+        "돈",
+        "아까워",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "응응",
+      "tokens": [
+        "응",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "사회는 전문사회 쓸 거야 키키",
+      "tokens": [
+        "사회",
+        "는",
+        "전문",
+        "사회",
+        "쓸",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "진짜 가격이 싼 거도 아니잖아",
+      "tokens": [
+        "진짜",
+        "가격",
+        "이",
+        "싼",
+        "ETM",
+        "거",
+        "도",
+        "아니",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 이미 계획은 완벽하군",
+      "tokens": [
+        "키",
+        "키",
+        "이미",
+        "계획",
+        "은",
+        "완벽",
+        "하군",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "에이",
+      "tokens": [
+        "에이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "그래도 그게 뭔가 속 편해 키키",
+      "tokens": [
+        "그래도",
+        "그게",
+        "JKS",
+        "뭔가",
+        "VCP",
+        "EC",
+        "속편",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "주변에서 다 해준다는데 ...",
+      "tokens": [
+        "주변",
+        "에서",
+        "다",
+        "해",
+        "EC",
+        "준다는데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "어찌 거절헤",
+      "tokens": [
+        "어찌",
+        "거절",
+        "헤",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

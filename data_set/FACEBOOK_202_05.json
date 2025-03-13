@@ -1,0 +1,432 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "* 오빠는 군대 안갔대",
+      "tokens": [
+        "*",
+        "오빠",
+        "는",
+        "군대",
+        "안",
+        "갔",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 산업체라고 키키",
+      "tokens": [
+        "나",
+        "는",
+        "산업체",
+        "라고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어디 아파서?",
+      "tokens": [
+        "어디",
+        "아파서",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "산업체 다녀왔대",
+      "tokens": [
+        "산업체",
+        "다녀왔",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "신기",
+      "tokens": [
+        "신기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "훈련은 받으러 갔어...",
+      "tokens": [
+        "훈련",
+        "은",
+        "받",
+        "으러",
+        "갔",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오 산업체 힘들지 않나 ...",
+      "tokens": [
+        "오",
+        "산업체",
+        "힘들",
+        "지",
+        "않",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "산업체는 군대 아니지 않음...?",
+      "tokens": [
+        "산업체",
+        "는",
+        "군대",
+        "아니",
+        "지",
+        "않",
+        "음",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "주변에 별로 없더라 키키",
+      "tokens": [
+        "주변",
+        "에",
+        "별로",
+        "없",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기 중간에 그만두면 처음부터 해야되잖아",
+      "tokens": [
+        "거기",
+        "중간",
+        "에",
+        "그만두",
+        "면",
+        "처음",
+        "부터",
+        "해야",
+        "EC",
+        "되",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "군복 만들고 하는 건가...",
+      "tokens": [
+        "군복",
+        "만들",
+        "고",
+        "하",
+        "는",
+        "건가",
+        "VCP",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아냐",
+      "tokens": [
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그냥 일반 산업체야 키키",
+      "tokens": [
+        "그냥",
+        "일반",
+        "산업",
+        "체야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 총 만드는 회사도 있고 ...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "총",
+        "만드",
+        "는",
+        "회사",
+        "도",
+        "있",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "막 그렇지 않나 ...",
+      "tokens": [
+        "막",
+        "그렇",
+        "지",
+        "않",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "중간에 그만둘 수도 있어?",
+      "tokens": [
+        "중간",
+        "에",
+        "그만둘",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "군복을 왜 만들어 키키",
+      "tokens": [
+        "군복",
+        "을",
+        "왜",
+        "만들",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "중간에 그만두면 뭐 기간 인정이 안된다고 나 들은 거 같은데",
+      "tokens": [
+        "중간",
+        "에",
+        "그만두",
+        "면",
+        "뭐",
+        "기간",
+        "인정",
+        "이",
+        "안",
+        "된다고",
+        "EC",
+        "나들",
+        "은",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "군대 중간에 그만두기 가능?",
+      "tokens": [
+        "군대",
+        "중간",
+        "에",
+        "그만두",
+        "기",
+        "가능"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나도 다른 산업체는 잘 모르겠다...",
+      "tokens": [
+        "나",
+        "도",
+        "다른",
+        "산업체",
+        "는",
+        "잘",
+        "모르",
+        "겠",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "군대 말고 ... 방산체 말이여 ...",
+      "tokens": [
+        "군대",
+        "말",
+        "고",
+        ".",
+        ".",
+        "방산",
+        "체말",
+        "이여",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

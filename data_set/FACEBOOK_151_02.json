@@ -1,0 +1,558 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "고층 아파트 사는 거 안 불편해?",
+      "tokens": [
+        "고층",
+        "아파트",
+        "사",
+        "는",
+        "거",
+        "안",
+        "불편",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엘리베이터 있어서 괜찮지 않을까?!",
+      "tokens": [
+        "엘리베이터",
+        "있",
+        "어서",
+        "괜찮",
+        "지",
+        "않",
+        "을까",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 18층인데 엘베 두개라 괜찮아 키키",
+      "tokens": [
+        "나",
+        "18",
+        "층인데엘베두개라괜찮아키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그런가?",
+      "tokens": [
+        "그런가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "엘베 기다리기 짜증 날 것 같아 키키",
+      "tokens": [
+        "엘베",
+        "기다리",
+        "기",
+        "짜증",
+        "날",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "엘베 1곳인데는 진짜 불편하긴 하겠다 ㅠㅠ",
+      "tokens": [
+        "엘베",
+        "1",
+        "곳인데는진짜불편하긴하겠다ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "응 근데 두개라 편한데 둘다 높이 있음 짜증나 ㅠ",
+      "tokens": [
+        "응",
+        "근데",
+        "두",
+        "개",
+        "라",
+        "EC",
+        "편한데",
+        "EC",
+        "둘",
+        "ETM",
+        "다",
+        "높이",
+        "있",
+        "음",
+        "짜증",
+        "나ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니깐 키키",
+      "tokens": [
+        "그니깐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그리고 올라 갔다 내려오기 힘들 것 같아",
+      "tokens": [
+        "그리고",
+        "올라갔",
+        "EP",
+        "다",
+        "내려오",
+        "기",
+        "힘들",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그렇긴 해",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그냥 저층 아파트가 최고야!",
+      "tokens": [
+        "그냥",
+        "저층",
+        "아파트",
+        "가",
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "엘베 점검 할 때 무서움 키키",
+      "tokens": [
+        "엘베",
+        "점검",
+        "할",
+        "ETM",
+        "때",
+        "무서움",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래도 번갈아 하더라고 키키",
+      "tokens": [
+        "그래도",
+        "번갈",
+        "아",
+        "하",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그러게 키키",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "너무 낮으면 아파트 뷰 별로 안 이쁠 것 같아",
+      "tokens": [
+        "너무",
+        "낮",
+        "으면",
+        "아파트",
+        "뷰",
+        "별로",
+        "안",
+        "이쁠",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그건 맞지 ㅠㅠ",
+      "tokens": [
+        "그건맞지ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "뷰 보려면 고층이 최고긴 해",
+      "tokens": [
+        "뷰",
+        "보",
+        "려면",
+        "고층",
+        "이",
+        "최고",
+        "긴",
+        "ETN",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "근데 방에만 있어서 뷰 볼일도 없어 키키",
+      "tokens": [
+        "근데",
+        "방",
+        "에",
+        "만",
+        "있",
+        "어서",
+        "뷰",
+        "볼일",
+        "도",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "18층 뷰는 어때? 키키",
+      "tokens": [
+        "18",
+        "층",
+        "뷰",
+        "는",
+        "어때",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나도 18층 뷰 궁금하다!",
+      "tokens": [
+        "나",
+        "도",
+        "18",
+        "층",
+        "뷰",
+        "궁금",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "앞에 가려진 게 없어서 그래도 뻥 뚫려있어 키키",
+      "tokens": [
+        "앞",
+        "에",
+        "가려진",
+        "EC",
+        "VX",
+        "ETM",
+        "게",
+        "JKS",
+        "없",
+        "어서",
+        "그래도",
+        "EC",
+        "뻥",
+        "뚫려",
+        "EC",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "난 고소공포증 있어서 조금 무서울 것 같아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "고소공포증",
+        "있",
+        "어서",
+        "조금",
+        "무서울",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "그러면 그럴 수 있지",
+      "tokens": [
+        "그러면",
+        "그럴",
+        "ETM",
+        "수",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "누난 저층이 낫겠다~",
+      "tokens": [
+        "누난",
+        "JX",
+        "저층",
+        "이",
+        "낫",
+        "겠",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "그럼 누나는 고층 살면 안될 듯 키키",
+      "tokens": [
+        "그럼",
+        "누나",
+        "는",
+        "고층",
+        "살",
+        "면",
+        "안",
+        "될",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "엘베 탈 때도 좀 그런 느낌 들 수 있잖아",
+      "tokens": [
+        "엘베",
+        "탈",
+        "때",
+        "도",
+        "좀",
+        "그런",
+        "느낌",
+        "들",
+        "수",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_151_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "겨울은 다들 별로야?",
+      "tokens": [
+        "겨울",
+        "은",
+        "다",
+        "들",
+        "별로",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "겨울 나는 좋아해",
+      "tokens": [
+        "겨울",
+        "나",
+        "는",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "겨울은 뼈가시려...ㅋ",
+      "tokens": [
+        "겨울",
+        "은",
+        "뼈",
+        "가",
+        "시려",
+        "EF",
+        ".",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "눈 오는 거 어때?",
+      "tokens": [
+        "눈",
+        "오",
+        "는",
+        "거",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "일단 땀이 안나잖아",
+      "tokens": [
+        "일단",
+        "땀",
+        "이",
+        "안",
+        "나",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "눈 보는건 좋던데",
+      "tokens": [
+        "눈",
+        "보",
+        "는",
+        "건",
+        "JX",
+        "좋",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "겨울 스포츠는 싫어하지?",
+      "tokens": [
+        "겨울",
+        "스포츠",
+        "는",
+        "싫",
+        "어",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "눈은 좀 찝찝",
+      "tokens": [
+        "눈",
+        "은",
+        "좀",
+        "찝찝"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "스노우보드는 타러다녀!",
+      "tokens": [
+        "스노우",
+        "보드",
+        "는",
+        "타",
+        "러",
+        "다녀",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "진주는 눈이 안와...",
+      "tokens": [
+        "진주",
+        "는",
+        "눈",
+        "이",
+        "안",
+        "와",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "겨울 스포츠 나 좋아해",
+      "tokens": [
+        "겨울",
+        "스포츠",
+        "나",
+        "좋아해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진주는 따뜻한 편이지",
+      "tokens": [
+        "진주",
+        "는",
+        "따뜻",
+        "한",
+        "ETM",
+        "편",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "스노우보드 너 못타잖아!",
+      "tokens": [
+        "스노우",
+        "보드너",
+        "못",
+        "타",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "스피드스키 타러 다님",
+      "tokens": [
+        "스피드",
+        "스키",
+        "타",
+        "러",
+        "다님"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나 진짜잘타는데",
+      "tokens": [
+        "나",
+        "진짜",
+        "잘",
+        "타",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진주는 눈이 안오는데 왜 제주도는 온데?",
+      "tokens": [
+        "진주",
+        "는",
+        "눈",
+        "이",
+        "안",
+        "오",
+        "는데",
+        "왜",
+        "제주도",
+        "는",
+        "온데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까... 미스테리다 진짜",
+      "tokens": [
+        "그니까",
+        ".",
+        "미스테리",
+        "다",
+        "EF",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "제주가 온다구? 설마",
+      "tokens": [
+        "제주",
+        "가",
+        "온다구",
+        "EF",
+        "설마"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 그거 진짜 궁금해...",
+      "tokens": [
+        "나",
+        "그거",
+        "진짜",
+        "궁금",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "진주도 눈 좀 많이 왔음 좋겠다",
+      "tokens": [
+        "진주",
+        "도",
+        "눈",
+        "좀",
+        "많이",
+        "왔음",
+        "EP",
+        "EC",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "제주도가 더 따뜻하지않나?",
+      "tokens": [
+        "제주도",
+        "가",
+        "더",
+        "따뜻",
+        "하",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_159_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

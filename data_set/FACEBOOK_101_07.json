@@ -1,0 +1,481 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아버지는 어떤 직업을 가지고 계셔?",
+      "tokens": [
+        "아버지",
+        "는",
+        "어떤",
+        "직업",
+        "을",
+        "가지",
+        "고",
+        "계셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우리 아빠는 공인중개사야 사무직",
+      "tokens": [
+        "우리",
+        "아빠",
+        "는",
+        "공인",
+        "중개사",
+        "야사",
+        "무직"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "와 대박",
+      "tokens": [
+        "와",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "진짜 돈 잘 버시지 않아?",
+      "tokens": [
+        "진짜",
+        "돈",
+        "잘",
+        "버",
+        "시",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 그것도 벌이가 왔다갔다 하지?",
+      "tokens": [
+        "근데",
+        "그것",
+        "도",
+        "벌이",
+        "가",
+        "왔다갔다",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 맞아 ㅜㅜ",
+      "tokens": [
+        "아맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요즘에는 부동산업 어떻다셔?",
+      "tokens": [
+        "요즘",
+        "에",
+        "는",
+        "부동산업",
+        "어떻",
+        "다",
+        "셔",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "몰라",
+      "tokens": [
+        "몰라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "말 안 해줘",
+      "tokens": [
+        "말",
+        "안",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "매일 돈 없대 키키",
+      "tokens": [
+        "매일",
+        "돈",
+        "없",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "언니 공인중개사 공부할 생각은 없어?",
+      "tokens": [
+        "언니",
+        "공인",
+        "중개사",
+        "공부",
+        "할",
+        "ETM",
+        "생각",
+        "은",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나 그거 공부하려고 했는데 아빠가 아빠꺼 쓰래 키키",
+      "tokens": [
+        "나",
+        "그거",
+        "공부",
+        "하",
+        "려고",
+        "했",
+        "EP",
+        "는데",
+        "아빠",
+        "가",
+        "아빠",
+        "꺼",
+        "EC",
+        "쓰래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 와 대박",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "와",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러면 언니 부동산에 대해서 좀 알아?",
+      "tokens": [
+        "그러면",
+        "언니",
+        "부동산",
+        "에",
+        "대해서",
+        "EC",
+        "좀",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 잘 모르는 거 같은데 그냥 조금씩 듣지?",
+      "tokens": [
+        "나",
+        "는",
+        "잘",
+        "모르",
+        "는",
+        "거",
+        "같",
+        "은데",
+        "그냥",
+        "조금",
+        "씩",
+        "듣",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그렇구나 키키",
+      "tokens": [
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아버지 퇴근은 언제쯤 하셔?",
+      "tokens": [
+        "아버지",
+        "퇴근",
+        "은",
+        "언제",
+        "쯤",
+        "하",
+        "셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 우리아빠 완전 프리렌서야 그런 거 없어",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "우리",
+        "아빠",
+        "완전",
+        "프리",
+        "렌",
+        "서",
+        "야",
+        "그런",
+        "거",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "손님이 늦게 오면 늦게 끝나고 그래?",
+      "tokens": [
+        "손",
+        "님",
+        "이",
+        "늦",
+        "게",
+        "오",
+        "면",
+        "늦",
+        "게",
+        "끝나",
+        "고",
+        "그래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "뭐 가끔 사람들 만난다곤 하는데 늦진 않아",
+      "tokens": [
+        "뭐",
+        "가끔",
+        "사람",
+        "들",
+        "만난다",
+        "EC",
+        "곤",
+        "하",
+        "는",
+        "데",
+        "늦",
+        "진",
+        "JX",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "ㅜㅜ 그렇구나",
+      "tokens": [
+        "ㅜㅜ그렇구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "사무실은 대전에 있는 거야?",
+      "tokens": [
+        "사무실",
+        "은",
+        "대전",
+        "에",
+        "있",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "아니 세종이랑 논산",
+      "tokens": [
+        "아니",
+        "세종",
+        "이랑",
+        "논산"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "나중에 놀러왕",
+      "tokens": [
+        "나중",
+        "에",
+        "놀",
+        "러",
+        "왕"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 논산 토박이라고 했지?",
+      "tokens": [
+        "언니",
+        "는",
+        "논산",
+        "토박이",
+        "라고",
+        "EC",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 나 토박이",
+      "tokens": [
+        "웅",
+        "나",
+        "토박이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 오래 살았지",
+      "tokens": [
+        "키",
+        "키",
+        "오래",
+        "살",
+        "았",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그러면 충남권으로 여행 갈만한 곳 있을까?",
+      "tokens": [
+        "그러면",
+        "충남",
+        "권",
+        "으로",
+        "여행",
+        "갈만",
+        "한",
+        "ETM",
+        "곳",
+        "있",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "충남권 진짜 없지 않아?",
+      "tokens": [
+        "충남",
+        "권",
+        "진짜",
+        "없",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내가 알기론 천안 아산 덕산 이 정도?",
+      "tokens": [
+        "내",
+        "가",
+        "알",
+        "기",
+        "론",
+        "JX",
+        "천안",
+        "아",
+        "산덕",
+        "산",
+        "이",
+        "정도"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "덕산은 리조트고 아산은 온천이고 키키 군산?",
+      "tokens": [
+        "덕산",
+        "은",
+        "리조트",
+        "고아산",
+        "은",
+        "온천",
+        "이",
+        "고",
+        "키",
+        "키",
+        "군산"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "거기 기찻길 되게 잘 꾸며 놨잖아!",
+      "tokens": [
+        "거기",
+        "기찻길",
+        "되게",
+        "잘",
+        "꾸며놨",
+        "EC",
+        "VX",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아 나 짜장면은 먹으러 가봤는데 기찻길은 안 가봄 키키",
+      "tokens": [
+        "맞",
+        "아나",
+        "짜장면",
+        "은",
+        "먹",
+        "으러",
+        "가",
+        "봤",
+        "EP",
+        "는데",
+        "기찻길",
+        "은",
+        "안",
+        "가",
+        "EC",
+        "봄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 거기 군산 고추 짜장면 얘기하는 건가?",
+      "tokens": [
+        "아",
+        "거기",
+        "군산",
+        "고추",
+        "짜장면",
+        "얘기",
+        "하",
+        "는",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "웅 너 먹어봤어? 맛집",
+      "tokens": [
+        "웅",
+        "너",
+        "먹",
+        "어",
+        "봤",
+        "EP",
+        "어",
+        "맛집"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니 나는 고추 별로 안 좋아해서,",
+      "tokens": [
+        "아니",
+        "나",
+        "는",
+        "고추",
+        "별로",
+        "안",
+        "좋",
+        "아",
+        "해서",
+        "EC",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그거 맛이 어때!?",
+      "tokens": [
+        "그거",
+        "맛",
+        "이",
+        "어때",
+        "EC",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "웅 나 줄서서 기다렸거든? 근데 아깝더라...",
+      "tokens": [
+        "웅",
+        "나",
+        "줄서",
+        "서",
+        "기다렸",
+        "EP",
+        "거든",
+        "근데",
+        "아깝",
+        "더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "돈이 아까웠어? 그렇게 맛이 없었어?",
+      "tokens": [
+        "돈",
+        "이",
+        "아까웠",
+        "EP",
+        "어",
+        "그렇게",
+        "맛",
+        "이",
+        "없",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 사람들은 그거 왜 좋아하지?",
+      "tokens": [
+        "근데",
+        "사람",
+        "들",
+        "은",
+        "그거",
+        "왜",
+        "좋",
+        "아",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "진짜 입도 못댈 정도로 매워 키키 먹질 못해",
+      "tokens": [
+        "진짜",
+        "입",
+        "도",
+        "못",
+        "댈",
+        "ETM",
+        "정도",
+        "로",
+        "매워",
+        "EC",
+        "키",
+        "키",
+        "ETN",
+        "먹",
+        "질",
+        "JX",
+        "못해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 진짜? 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "매운 맛 좋아하는 한국인은 거기 좋아하겠네~",
+      "tokens": [
+        "매운맛",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "한국인",
+        "은",
+        "거기",
+        "좋",
+        "아",
+        "하",
+        "겠",
+        "네",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아 근데 지금 배고파서 근가 먹고 싶다",
+      "tokens": [
+        "아",
+        "근데",
+        "지금",
+        "배고파서",
+        "EC",
+        "근가",
+        "먹",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 요즘에 핸드폰으로 게임 안 해?",
+      "tokens": [
+        "언니",
+        "는",
+        "요즘",
+        "에",
+        "핸드폰",
+        "으로",
+        "게임",
+        "안",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 안 해",
+      "tokens": [
+        "나",
+        "안",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "너 해?",
+      "tokens": [
+        "너",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 지금 한 면이 게임 앱으로 차 있지!",
+      "tokens": [
+        "나",
+        "지금",
+        "한",
+        "면",
+        "이",
+        "게임",
+        "앱",
+        "으로",
+        "차",
+        "EC",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요새 뭐가 재밌어?",
+      "tokens": [
+        "요새",
+        "뭐",
+        "가",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뭐해?",
+      "tokens": [
+        "뭐",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 개인적으로 다시 쿠키런을 시작했어!",
+      "tokens": [
+        "나",
+        "는",
+        "개인",
+        "적",
+        "으로",
+        "다시",
+        "쿠키",
+        "런",
+        "을",
+        "시작",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 쿠키런 한번 빠지면 미치지",
+      "tokens": [
+        "키키",
+        "쿠",
+        "키런",
+        "한",
+        "번",
+        "빠지",
+        "면",
+        "미치",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "와 진짜 나 이거 때문에 다크써클 늘었잖아!",
+      "tokens": [
+        "와",
+        "진짜",
+        "나",
+        "이거",
+        "때문",
+        "에",
+        "다크",
+        "써",
+        "EC",
+        "클",
+        "늘",
+        "었",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 요새 근데 나는 게임 안 하게 되더라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "요새",
+        "근데",
+        "나",
+        "는",
+        "게임",
+        "안",
+        "하",
+        "게",
+        "되",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "왜? 언니는 밖에 나가서 노는 걸 더 좋아해?",
+      "tokens": [
+        "왜",
+        "언니",
+        "는",
+        "밖",
+        "에",
+        "나가",
+        "서",
+        "노",
+        "는",
+        "걸",
+        "JKO",
+        "더",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "요새는 그냥 집에만 있고 눈팅만 해",
+      "tokens": [
+        "요새",
+        "는",
+        "그냥",
+        "집",
+        "에",
+        "만",
+        "있",
+        "고",
+        "눈",
+        "팅",
+        "만",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 유튜브랑 페북으로 하루종일 보낼 수 있어 나는!",
+      "tokens": [
+        "근데",
+        "유튜브",
+        "랑",
+        "페북",
+        "으로",
+        "하루",
+        "종일",
+        "보낼",
+        "ETM",
+        "수",
+        "있",
+        "어",
+        "나",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 나도",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 매일 새벽까지 봐",
+      "tokens": [
+        "나",
+        "매일",
+        "새벽",
+        "까지",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 와 대박 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "와",
+        "대박",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "거기다 넷플까지 봐 줘야지!",
+      "tokens": [
+        "거기",
+        "다",
+        "넷",
+        "플",
+        "까지",
+        "봐",
+        "EC",
+        "줘야지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "넷플 오징어 게임 봄?",
+      "tokens": [
+        "넷플오징어게임봄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "당연하지!",
+      "tokens": [
+        "당연",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오겜 안 보면 간첩이잖아!",
+      "tokens": [
+        "오",
+        "겜",
+        "안",
+        "보",
+        "면",
+        "간첩",
+        "이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "진짜 존잼",
+      "tokens": [
+        "진짜",
+        "존",
+        "잼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "빨리 투 나왔음 좋겠다",
+      "tokens": [
+        "빨리",
+        "투",
+        "나왔",
+        "EP",
+        "음",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

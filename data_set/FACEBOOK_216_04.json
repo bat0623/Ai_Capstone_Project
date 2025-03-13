@@ -1,0 +1,357 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 오늘 휴무임?",
+      "tokens": [
+        "*",
+        "*",
+        "오늘",
+        "휴무",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 매주 화요일 휴무임",
+      "tokens": [
+        "웅매",
+        "주",
+        "화요일",
+        "휴무",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘은 기본 3잡이지 쉬는 날 없어",
+      "tokens": [
+        "요즘",
+        "은",
+        "기본",
+        "3",
+        "잡",
+        "이",
+        "지",
+        "쉬",
+        "는",
+        "날",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 매주 화요일 휴무 괜찮네",
+      "tokens": [
+        "오",
+        "매주",
+        "화요일",
+        "휴무",
+        "괜찮",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "평일에 쉬는 거도 좋긴 하겠다",
+      "tokens": [
+        "평일",
+        "에",
+        "쉬",
+        "는",
+        "거",
+        "도",
+        "좋",
+        "긴",
+        "JX",
+        "하",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "주식도 해야 하구 바뻐",
+      "tokens": [
+        "주식",
+        "도",
+        "해야",
+        "EC",
+        "하",
+        "구",
+        "바뻐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 휴무가 없어서 힘들어...",
+      "tokens": [
+        "난",
+        "JX",
+        "휴무",
+        "가",
+        "없",
+        "어서",
+        "힘들",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "은행 일이나 이런 거 보기도 편하고",
+      "tokens": [
+        "은행",
+        "일",
+        "이나",
+        "이런",
+        "거",
+        "보",
+        "기",
+        "도",
+        "편하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "말이 휴무지...",
+      "tokens": [
+        "말",
+        "이",
+        "휴무",
+        "지",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어디 회사 다니고 싶어",
+      "tokens": [
+        "어디",
+        "회사",
+        "다니",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "프리랜서는 벌 수 있을 때 불어야지",
+      "tokens": [
+        "프리랜서",
+        "는",
+        "벌",
+        "ETM",
+        "수",
+        "있",
+        "을",
+        "때",
+        "불",
+        "어야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 애플!",
+      "tokens": [
+        "나",
+        "는",
+        "애플"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "은행 시간 너무 짧아",
+      "tokens": [
+        "은행",
+        "시간",
+        "너무",
+        "짧",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 쉬는 날 없이 일하고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "쉬",
+        "는",
+        "날",
+        "없이",
+        "일",
+        "하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "은행 시간 좀 늘려야 됨 인정",
+      "tokens": [
+        "은행",
+        "시간",
+        "좀",
+        "늘려야",
+        "EC",
+        "됨",
+        "ETN",
+        "인정"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "애플 다니고 싶다고?",
+      "tokens": [
+        "애플",
+        "다니",
+        "고",
+        "싶",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "애플 한국 지사 좋지",
+      "tokens": [
+        "애플",
+        "한국",
+        "지사",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "애플 좋잖아",
+      "tokens": [
+        "애플",
+        "좋",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "머싯어 보여",
+      "tokens": [
+        "머싯어보여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

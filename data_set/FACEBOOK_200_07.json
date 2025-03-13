@@ -1,0 +1,474 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 니 내 친구 *이 아나?",
+      "tokens": [
+        "*",
+        "*",
+        "니",
+        "EC",
+        "내",
+        "JKG",
+        "친구",
+        "*",
+        "이",
+        "아나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "귀여운데 좀 모자란 친구",
+      "tokens": [
+        "귀여운데",
+        "EC",
+        "좀",
+        "모자란",
+        "ETM",
+        "친구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "누구지",
+      "tokens": [
+        "누구",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "여자가 남자가",
+      "tokens": [
+        "여자",
+        "가",
+        "남자",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 잘 안다 ...",
+      "tokens": [
+        "나",
+        "잘",
+        "안다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오늘도 아침에 같이 밥 먹음",
+      "tokens": [
+        "오늘",
+        "도",
+        "아침",
+        "에",
+        "같이",
+        "밥",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "*이랑 저 오빠랑 가족인디...",
+      "tokens": [
+        "*",
+        "이랑",
+        "저",
+        "오빠",
+        "랑",
+        "가족",
+        "인디",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "*이는 내 *이뿐이 모름 키키",
+      "tokens": [
+        "*",
+        "이",
+        "는",
+        "내",
+        "*",
+        "이뿐이모름키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 내 *이는 누구야?",
+      "tokens": [
+        "키",
+        "키",
+        "내",
+        "*",
+        "이",
+        "는",
+        "누구",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 니 *이 말구 내 *이",
+      "tokens": [
+        "아니",
+        "*",
+        "이",
+        "말",
+        "구내",
+        "*",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아아 홍이 키키",
+      "tokens": [
+        "아아",
+        "홍",
+        "이",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아아 진짜 키키",
+      "tokens": [
+        "아아",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 키키 그 *이 저 *이",
+      "tokens": [
+        "아키",
+        "키",
+        "그",
+        "*",
+        "이",
+        "저",
+        "*",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "*이 많네",
+      "tokens": [
+        "*",
+        "이",
+        "많",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "니도 *이 있네",
+      "tokens": [
+        "니",
+        "도",
+        "*",
+        "이",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그 *이가 그 *이구나 키키",
+      "tokens": [
+        "그",
+        "*",
+        "이",
+        "가",
+        "그",
+        "*",
+        "이",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "소름",
+      "tokens": [
+        "소름"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "*이 좀 모자람 ...",
+      "tokens": [
+        "*",
+        "이",
+        "좀",
+        "모자람",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "진짜로 ...",
+      "tokens": [
+        "진짜로",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "엉엉 그분이랑 저분이랑 가족이야",
+      "tokens": [
+        "엉엉",
+        "그분",
+        "이랑",
+        "저분",
+        "이랑",
+        "가족",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오빠 동생이구나",
+      "tokens": [
+        "오빠",
+        "동생",
+        "이",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "소름 키키",
+      "tokens": [
+        "소름",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 아침에 진짜 안 일어나더라",
+      "tokens": [
+        "키",
+        "키",
+        "아침",
+        "에",
+        "진짜",
+        "안",
+        "일어나",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "...? 형 동생 사인데...?",
+      "tokens": [
+        ".",
+        ".",
+        "형",
+        "동생",
+        "사인데",
+        "VCP",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "가만히 있는 *이 욕 먹음 아침부터 키키",
+      "tokens": [
+        "가만히",
+        "있",
+        "는",
+        "*",
+        "이",
+        "욕먹",
+        "음",
+        "아침",
+        "부터",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "한대 패고 싶었어 ...",
+      "tokens": [
+        "한",
+        "대",
+        "패",
+        "고",
+        "싶",
+        "었",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "그래서 걷어참",
+      "tokens": [
+        "그래서",
+        "걷",
+        "어",
+        "참"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_200_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

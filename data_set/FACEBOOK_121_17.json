@@ -1,0 +1,378 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요새 어디 아픈 곳 없지?",
+      "tokens": [
+        "요새",
+        "어디",
+        "아픈",
+        "ETM",
+        "곳",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 나 요즘에 이빨 아파 ㅠㅠ",
+      "tokens": [
+        "웅",
+        "나",
+        "요즘",
+        "에",
+        "이빨",
+        "아파",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "이빨은 왜?",
+      "tokens": [
+        "이빨",
+        "은",
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "충치 때문에 그래?",
+      "tokens": [
+        "충치",
+        "때문",
+        "에",
+        "그래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "양치를 하는데 자꾸 이빨이 아프네",
+      "tokens": [
+        "양치",
+        "를",
+        "하",
+        "는데",
+        "자꾸",
+        "이빨",
+        "이",
+        "아프",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그러면 치과 얼른 가봐야지",
+      "tokens": [
+        "그러면",
+        "치과",
+        "얼른",
+        "가",
+        "봐야지",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "충치 때문인 거 같아 아무래도 ㅠㅠ",
+      "tokens": [
+        "충치",
+        "때문",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "아무래도",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 그러면 신경 치료 받을 수 있겠다",
+      "tokens": [
+        "아",
+        "그러면",
+        "신경",
+        "치료",
+        "받",
+        "을",
+        "수",
+        "있",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "치과 가야지 ㅠㅠ",
+      "tokens": [
+        "치과가야지ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "너는 아픈곳 없어?",
+      "tokens": [
+        "너",
+        "는",
+        "아픈",
+        "ETM",
+        "곳",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 요즘 어깨가 너무 아파",
+      "tokens": [
+        "나",
+        "는",
+        "요즘",
+        "어깨",
+        "가",
+        "너무",
+        "아파",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 진짜 어깨가 왜 아파",
+      "tokens": [
+        "아",
+        "진짜",
+        "어깨",
+        "가",
+        "왜",
+        "아파",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "앉아서 일 하다 보니 그래 키키",
+      "tokens": [
+        "앉",
+        "아서",
+        "일",
+        "하",
+        "다",
+        "보",
+        "니",
+        "그래",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 허리는 안 아파? 허리도 아플 텐데",
+      "tokens": [
+        "진짜",
+        "허리",
+        "는",
+        "안",
+        "아파",
+        "EF",
+        "허리",
+        "도",
+        "아플",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "허리는 괜찮은데 등이 굽어서 그런가 봐",
+      "tokens": [
+        "허리",
+        "는",
+        "괜찮",
+        "은",
+        "데",
+        "등",
+        "이",
+        "굽",
+        "어서",
+        "그런가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 고생이 많다 키키",
+      "tokens": [
+        "진짜",
+        "고생",
+        "이",
+        "많",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "스트레칭 좀 하면서 해",
+      "tokens": [
+        "스트레칭",
+        "좀",
+        "하",
+        "면서",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그러게 키키 파스 붙이고 자야지 ㅠㅠ",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "파스",
+        "붙이",
+        "고",
+        "자",
+        "야지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러다 곱등이 된다 너 키키",
+      "tokens": [
+        "그러",
+        "다",
+        "곱",
+        "등",
+        "이",
+        "된다",
+        "EF",
+        "너",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "등 굽어",
+      "tokens": [
+        "등",
+        "굽",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

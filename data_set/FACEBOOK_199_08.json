@@ -1,0 +1,480 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**는 거의 남편이던데...",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "거의",
+        "남편",
+        "이",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 그니까",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "밥 차려주고",
+      "tokens": [
+        "밥",
+        "차려",
+        "EC",
+        "주",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "네? 제가요? 키키",
+      "tokens": [
+        "네",
+        "제",
+        "가",
+        "요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어떤 면에서요 키키",
+      "tokens": [
+        "어떤",
+        "면",
+        "에서",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "와이프 퇴근할 때까지 집안일 싹 해 놓고...",
+      "tokens": [
+        "와이프",
+        "퇴근",
+        "할",
+        "ETM",
+        "때",
+        "까지",
+        "집안일",
+        "싹",
+        "해",
+        "EC",
+        "놓",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "지극정성이더만 키키",
+      "tokens": [
+        "지극정성",
+        "이",
+        "더만",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "여친이 지극정성",
+      "tokens": [
+        "여친",
+        "이",
+        "지극정성"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 그건 내가 여자친구 집에 있으니까 하는 거고",
+      "tokens": [
+        "아",
+        "그건",
+        "JX",
+        "내",
+        "가",
+        "여자",
+        "친구",
+        "집",
+        "에",
+        "있",
+        "으니까",
+        "하",
+        "는",
+        "거",
+        "고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그런 거 완전 남편 수준",
+      "tokens": [
+        "그런",
+        "거",
+        "완전",
+        "남편",
+        "수준"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "콩쥐 남편",
+      "tokens": [
+        "콩",
+        "쥐",
+        "남편"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그니까 키키",
+      "tokens": [
+        "그니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아아 진짜",
+      "tokens": [
+        "아아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "집안일도 하나",
+      "tokens": [
+        "집안일",
+        "도",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "여자친구가 내 챙겨준다고 힘들지",
+      "tokens": [
+        "여자",
+        "친구",
+        "가",
+        "내",
+        "챙겨",
+        "EC",
+        "준다고",
+        "EC",
+        "힘들",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 집안일 엄청 열심히 한다",
+      "tokens": [
+        "키",
+        "키",
+        "집안일",
+        "엄청",
+        "열심히",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그맘 변치 말고 쭉 가라 키키",
+      "tokens": [
+        "그",
+        "맘",
+        "변치",
+        "EC",
+        "말",
+        "고",
+        "쭉",
+        "가",
+        "라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아니 청소 빨래 분리수거 설거지 이런 건 하잖아",
+      "tokens": [
+        "아니",
+        "청소",
+        "빨래",
+        "분리수거",
+        "설거지",
+        "이런",
+        "건",
+        "JX",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 여자친구가 엄청 밥을 잘하더라...",
+      "tokens": [
+        "키",
+        "키",
+        "여자",
+        "친구",
+        "가",
+        "엄청",
+        "밥",
+        "을",
+        "잘",
+        "하",
+        "더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "청소는 남자가 해야지 키키",
+      "tokens": [
+        "청소",
+        "는",
+        "남자",
+        "가",
+        "해야지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "쉬운 거다 그런 건 키키",
+      "tokens": [
+        "쉬운",
+        "ETM",
+        "거",
+        "다",
+        "EF",
+        "그런",
+        "건",
+        "JX",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그리고 내가 못 견딤 키키",
+      "tokens": [
+        "그리고",
+        "내",
+        "가",
+        "못",
+        "견딤",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "거의 식당 수준이심...",
+      "tokens": [
+        "거의",
+        "식당",
+        "수준",
+        "이",
+        "심",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "메뉴가 상당하던데",
+      "tokens": [
+        "메뉴",
+        "가",
+        "상당",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "뭔가 어지러져 있는 거 싫다",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "어지러져",
+        "EC",
+        "VX",
+        "EC",
+        "있",
+        "는",
+        "거",
+        "싫",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

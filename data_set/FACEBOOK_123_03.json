@@ -1,0 +1,436 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "경기도 빨간 버스 얼마 하게",
+      "tokens": [
+        "경기",
+        "도",
+        "빨간",
+        "ETM",
+        "버스",
+        "얼마",
+        "하",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "얼마 하는데? 빨간 버스는?",
+      "tokens": [
+        "얼마",
+        "하",
+        "는데",
+        "빨간",
+        "ETM",
+        "버스",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "비싸?",
+      "tokens": [
+        "비싸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왕복 6천 원이야",
+      "tokens": [
+        "왕복",
+        "6",
+        "천",
+        "원",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거 일주일 타면 진짜 돈 순삭 키키",
+      "tokens": [
+        "그거",
+        "일",
+        "주일",
+        "타",
+        "면",
+        "진짜",
+        "돈",
+        "순삭",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 진짜 대박",
+      "tokens": [
+        "아",
+        "진짜",
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 자가용 타고 다녀",
+      "tokens": [
+        "나",
+        "는",
+        "자가용",
+        "타",
+        "고",
+        "다녀",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "예전에 수원에서 출퇴근 할 때 진짜 버스비 엄청 나왔어",
+      "tokens": [
+        "예전",
+        "에",
+        "수원",
+        "에서",
+        "출퇴근",
+        "할",
+        "ETM",
+        "때",
+        "진짜",
+        "버스비",
+        "엄청",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "차비로 돈 다 깨지겠네 키키 비싸다",
+      "tokens": [
+        "차비",
+        "로",
+        "돈다",
+        "EC",
+        "깨지",
+        "겠",
+        "네",
+        "키",
+        "키",
+        "ETN",
+        "비싸",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "수원에서 서울 가려면 빨간 버스 타야 해",
+      "tokens": [
+        "수원",
+        "에서",
+        "서울",
+        "가",
+        "려면",
+        "빨간",
+        "ETM",
+        "버스",
+        "타",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "월급을 죄다 버스비로 쓰는구만",
+      "tokens": [
+        "월급",
+        "을",
+        "죄다",
+        "버스비",
+        "로",
+        "쓰",
+        "는",
+        "구만"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래서 난 자취를 선택 했지 키키",
+      "tokens": [
+        "그래서",
+        "난",
+        "JX",
+        "자취",
+        "를",
+        "선택",
+        "했",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 나도 그랬었는데 택시비",
+      "tokens": [
+        "진짜",
+        "나",
+        "도",
+        "그랬었",
+        "EP",
+        "는데",
+        "택시",
+        "비"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "택시비도 무시 못해 키키",
+      "tokens": [
+        "택시",
+        "비",
+        "도",
+        "무시",
+        "못",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 여기 있으니 부지런해져",
+      "tokens": [
+        "근데",
+        "여기",
+        "있",
+        "으니",
+        "부지런",
+        "해져",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 순삭이야 월급 택시비로 키키",
+      "tokens": [
+        "진짜",
+        "순삭",
+        "이",
+        "야",
+        "월급",
+        "택시",
+        "비",
+        "로키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "당연하지 키키",
+      "tokens": [
+        "당연",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 택시비 아껴서 방세 내야 해",
+      "tokens": [
+        "난",
+        "JX",
+        "택시",
+        "비아",
+        "껴서",
+        "EC",
+        "방세",
+        "내야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 그래서 직장이 바로 앞이라 이제는 걸어 다녀 키키",
+      "tokens": [
+        "나",
+        "그래서",
+        "직장",
+        "이",
+        "바로",
+        "앞",
+        "이",
+        "라",
+        "이제",
+        "는",
+        "걸",
+        "어",
+        "다녀",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "부럽다 키키",
+      "tokens": [
+        "부럽",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그러면 교통비 많이 아끼겠다",
+      "tokens": [
+        "그러면",
+        "교통비",
+        "많이",
+        "아끼",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "웅 나는 좀 많이 아끼긴 해",
+      "tokens": [
+        "웅",
+        "나",
+        "는",
+        "좀",
+        "많이",
+        "아끼",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_123_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

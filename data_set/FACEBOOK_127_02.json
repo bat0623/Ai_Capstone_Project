@@ -1,0 +1,359 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 우리 아파트 이사 와~",
+      "tokens": [
+        "*",
+        "*",
+        "우리",
+        "아파트",
+        "이사",
+        "와",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 여기로 이사 와 하하",
+      "tokens": [
+        "그니까",
+        "여기",
+        "로",
+        "이사",
+        "와",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 가고 싶다",
+      "tokens": [
+        "나가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "일단 너네 집부터 구경 가도 돼?",
+      "tokens": [
+        "일단",
+        "너",
+        "네",
+        "집",
+        "부터",
+        "구경",
+        "가",
+        "도",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "여기 꽤나 살 만해",
+      "tokens": [
+        "여기",
+        "꽤",
+        "나살",
+        "만",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이웃 주민 하면 좋을 듯?",
+      "tokens": [
+        "이웃",
+        "주민",
+        "하",
+        "면",
+        "좋",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 진짜 조용하지 않아?",
+      "tokens": [
+        "근데",
+        "진짜",
+        "조용",
+        "하",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아파트에서 할로윈 파티도 하더라",
+      "tokens": [
+        "아파트",
+        "에서",
+        "할로윈",
+        "파티",
+        "도",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아직 안 와 봤니?",
+      "tokens": [
+        "아직",
+        "안",
+        "와",
+        "EC",
+        "봤",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "얼른 와 하하",
+      "tokens": [
+        "얼른",
+        "와하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "인테리어도 따로 했어?",
+      "tokens": [
+        "인테리어",
+        "도",
+        "따로",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너 그런 거 엄청 좋아하잖아",
+      "tokens": [
+        "너그런",
+        "ETM",
+        "거",
+        "엄청",
+        "좋",
+        "아",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 초대 안 했노 ** 하하",
+      "tokens": [
+        "왜",
+        "초",
+        "대안",
+        "했",
+        "EP",
+        "노",
+        "*",
+        "*",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우와 요즘 그런 데 많더라",
+      "tokens": [
+        "우와",
+        "요즘",
+        "그런데",
+        "많",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리 집이 조용하냐구?",
+      "tokens": [
+        "우리",
+        "집",
+        "이",
+        "조용",
+        "하",
+        "냐구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "초대 한번 해야겠군 하하",
+      "tokens": [
+        "초대",
+        "한",
+        "번",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "군하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "좋은 아파트 사네 ㅠㅠ",
+      "tokens": [
+        "좋",
+        "은",
+        "아파트",
+        "사",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "인테리어 따로 안 했어 키키",
+      "tokens": [
+        "인테리어",
+        "따로",
+        "안",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "집 조용하지 괘나",
+      "tokens": [
+        "집",
+        "조용",
+        "하",
+        "지",
+        "괘",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "우리 아파트는 오래돼서 쩜쩜쩜",
+      "tokens": [
+        "우리",
+        "아파트",
+        "는",
+        "오래",
+        "돼서",
+        "EC",
+        "쩜",
+        "쩜쩜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_127_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

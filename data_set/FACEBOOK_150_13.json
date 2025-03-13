@@ -1,0 +1,514 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 동네 지금 비 오는 듯",
+      "tokens": [
+        "우리",
+        "동네",
+        "지금",
+        "비오",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "우리 동네는 너무 조용하다...",
+      "tokens": [
+        "우리",
+        "동네",
+        "는",
+        "너무",
+        "조용",
+        "하",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 동네도 지금 조용해 키키",
+      "tokens": [
+        "우리",
+        "동네",
+        "도",
+        "지금",
+        "조용",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 정말?",
+      "tokens": [
+        "아",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "여긴 보슬비 내려 키키",
+      "tokens": [
+        "여긴",
+        "JX",
+        "보슬비",
+        "내려",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우산은 챙겼어 누나?",
+      "tokens": [
+        "우산",
+        "은",
+        "챙겼",
+        "EP",
+        "어",
+        "누나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "보슬비는 기분 나빠",
+      "tokens": [
+        "보슬비",
+        "는",
+        "기분",
+        "나빠",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너 맨날 비를 부른다며...",
+      "tokens": [
+        "너",
+        "맨날",
+        "비",
+        "를",
+        "부른",
+        "ETM",
+        "다며",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 지금 집에 있어~",
+      "tokens": [
+        "나",
+        "지금",
+        "집",
+        "에",
+        "있",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 그러면 상관 없겠네",
+      "tokens": [
+        "아",
+        "그러면",
+        "상관없",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 지금 완전 방콕",
+      "tokens": [
+        "나",
+        "도",
+        "지금",
+        "완전",
+        "방콕"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나도 오늘은 집에서 완전 방콕 키키",
+      "tokens": [
+        "나",
+        "도",
+        "오늘",
+        "은",
+        "집",
+        "에서",
+        "완전",
+        "방콕",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이 야밤에 어딜 가 키키",
+      "tokens": [
+        "이",
+        "야밤",
+        "에",
+        "어딜",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그치",
+      "tokens": [
+        "그치"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "비 안 와도 방콕이 최고잖아~",
+      "tokens": [
+        "비안",
+        "와",
+        "도",
+        "방콕",
+        "이",
+        "최고",
+        "잖아",
+        "EC",
+        "VX",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "집에 있을 땐 비 좀 내려도 괜찮은데 키키",
+      "tokens": [
+        "집",
+        "에",
+        "있",
+        "을",
+        "땐",
+        "JX",
+        "비",
+        "좀",
+        "내려도",
+        "EC",
+        "괜찮",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그렇긴 해 키키",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난 일 갈 때 비 오는 거 너무 싫어",
+      "tokens": [
+        "난",
+        "JX",
+        "일갈",
+        "때",
+        "비오",
+        "는",
+        "거",
+        "너무",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "일 갈 때 비 오면 난 그냥 안 가고 싶더라",
+      "tokens": [
+        "일갈",
+        "때",
+        "비오",
+        "면",
+        "난",
+        "JX",
+        "그냥",
+        "안",
+        "가",
+        "고",
+        "싶",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아 맞아",
+      "tokens": [
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "출근하기 너무 싫어 키키",
+      "tokens": [
+        "출근",
+        "하",
+        "기",
+        "너무",
+        "싫",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그치 키키",
+      "tokens": [
+        "그치",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "화요일에 비 안 왔으면 좋겠어",
+      "tokens": [
+        "화요일",
+        "에",
+        "비",
+        "안",
+        "왔",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "누나 화요일 출근 때 비 안 오게 내가 기도 정도는 해 줄게 키키",
+      "tokens": [
+        "누나",
+        "화요일",
+        "출근",
+        "때",
+        "비",
+        "안",
+        "오",
+        "게",
+        "내",
+        "EC",
+        "가",
+        "기",
+        "도",
+        "정도",
+        "는",
+        "해",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "그날 비 안 올 거야",
+      "tokens": [
+        "그",
+        "날비",
+        "안",
+        "올",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "오늘 비 내려서 키키",
+      "tokens": [
+        "오늘",
+        "비",
+        "내려서",
+        "VV",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_150_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

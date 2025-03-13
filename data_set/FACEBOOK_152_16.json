@@ -1,0 +1,442 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "미용실 같이 갈래?",
+      "tokens": [
+        "미용실",
+        "같이",
+        "갈래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 이번에 머리 어떻게 하지...",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "머리",
+        "어떻게",
+        "하",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "음 뭐 하러 갈 건데?",
+      "tokens": [
+        "음",
+        "뭐",
+        "하",
+        "러",
+        "갈",
+        "ETM",
+        "건데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "미용실 혼자 가면 넘 심심해",
+      "tokens": [
+        "미용실",
+        "혼자",
+        "가",
+        "면",
+        "넘",
+        "심심",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "파마 풀고 싶은데",
+      "tokens": [
+        "파마",
+        "풀",
+        "고",
+        "싶",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 레게머리 하고 싶음",
+      "tokens": [
+        "나",
+        "레게",
+        "머리",
+        "하",
+        "고",
+        "싶",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나 염색 하고  파마",
+      "tokens": [
+        "나",
+        "염색",
+        "하",
+        "고",
+        "파마"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "혼자 1시간 넘게 앉아있기 힘듦",
+      "tokens": [
+        "혼자",
+        "1",
+        "시간",
+        "넘",
+        "게",
+        "앉",
+        "아",
+        "있",
+        "기",
+        "힘듦"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그럼 너 하고 나 10시간 기다려줘",
+      "tokens": [
+        "그럼",
+        "너",
+        "하고",
+        "나",
+        "10",
+        "시간",
+        "기다려줘",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "** 머리 더 할 꺼 있음...?",
+      "tokens": [
+        "*",
+        "*",
+        "머리",
+        "더",
+        "할꺼",
+        "EF",
+        "있",
+        "음",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나도 염색이나 해 볼까 키키",
+      "tokens": [
+        "나",
+        "도",
+        "염색",
+        "이나",
+        "해볼까",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 탈색 해 봐봐",
+      "tokens": [
+        "키",
+        "키",
+        "탈색",
+        "해",
+        "EC",
+        "봐",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "너 지금 바가지 머리 했잖아 ㅠ",
+      "tokens": [
+        "너",
+        "지금",
+        "바가지",
+        "머리",
+        "했잖아",
+        "EP",
+        "EC",
+        "VX",
+        "EF",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "탈색은... 무서워요 키키",
+      "tokens": [
+        "탈색",
+        "은",
+        ".",
+        ".",
+        "무서워요",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이잉... 나이 40에 바가지 머리는 심했다",
+      "tokens": [
+        "이잉",
+        ".",
+        "나이",
+        "40",
+        "에",
+        "바가지",
+        "머리",
+        "는",
+        "심했",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "레게 10시간 걸림?",
+      "tokens": [
+        "레게",
+        "10",
+        "시간",
+        "걸림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "머리 개털 될 까봐 키키",
+      "tokens": [
+        "머리",
+        "개털",
+        "될까봐",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "하나하나 땋아야 되니까 그렇대",
+      "tokens": [
+        "하나하나",
+        "땋",
+        "아야",
+        "되",
+        "니까",
+        "그렇",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "탈모 올 듯 레게하면 ㅠ",
+      "tokens": [
+        "탈모",
+        "올",
+        "ETM",
+        "듯",
+        "레게",
+        "하",
+        "면",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "예? 제 나이가 40이라뇨... 키키",
+      "tokens": [
+        "예",
+        "제",
+        "JKG",
+        "나이",
+        "가",
+        "40",
+        "이",
+        "라뇨",
+        "EF",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "서른입니다",
+      "tokens": [
+        "서른",
+        "입니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "웅... 그래서 사실 무섭다...",
+      "tokens": [
+        "웅",
+        ".",
+        "그래서",
+        "사실",
+        "무섭",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나 약 먹거둔...",
+      "tokens": [
+        "나약",
+        "먹",
+        "거",
+        "둔",
+        "ETM",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

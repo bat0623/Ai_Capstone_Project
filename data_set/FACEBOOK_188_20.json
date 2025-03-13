@@ -1,0 +1,425 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번 주 도라에몽 볼 꺼야 키키",
+      "tokens": [
+        "이번",
+        "주",
+        "도라에몽",
+        "볼꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 영화 재미난 거 뭐 있어?",
+      "tokens": [
+        "요즘",
+        "영화",
+        "재미난",
+        "ETM",
+        "거",
+        "뭐",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 짱구가 엄청 재밌어",
+      "tokens": [
+        "나",
+        "는",
+        "짱구",
+        "가",
+        "엄청",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "진구 너무 귀여워 키키",
+      "tokens": [
+        "진구",
+        "너무",
+        "귀여워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "짱구 재밌지 키키",
+      "tokens": [
+        "짱구",
+        "재밌",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "코난은 어때",
+      "tokens": [
+        "코난",
+        "은",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "짱구 보러 가자 다들 내가 보여줄게",
+      "tokens": [
+        "짱구",
+        "보",
+        "러",
+        "가",
+        "자",
+        "다",
+        "들내",
+        "가",
+        "보여",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "퉁퉁이랑 맨날 싸우는 게 웃겨 키키",
+      "tokens": [
+        "퉁퉁",
+        "이",
+        "랑",
+        "맨날",
+        "싸우",
+        "는",
+        "게",
+        "JKS",
+        "웃겨",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "도라에몽 키키 이슬이 진짜 귀여워",
+      "tokens": [
+        "도라에몽",
+        "키키",
+        "이슬",
+        "이",
+        "진짜",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "코난보다 짱구가 더 재밌어",
+      "tokens": [
+        "코난",
+        "보다",
+        "짱구",
+        "가",
+        "더",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "짱구는 너무 말썽꾸러기야 키키",
+      "tokens": [
+        "짱구",
+        "는",
+        "너무",
+        "말썽꾸러기",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "도라에몽이 내 친구였으면 좋겠어 키키",
+      "tokens": [
+        "도라에몽",
+        "이",
+        "내",
+        "JKG",
+        "친구",
+        "였",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 코난도 내 친구였으면 좋겠어",
+      "tokens": [
+        "근데",
+        "코난",
+        "도",
+        "내",
+        "JKG",
+        "친구",
+        "였",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나도 짱구가 더 재밌는 것 같아 키키",
+      "tokens": [
+        "나",
+        "도",
+        "짱구",
+        "가",
+        "더",
+        "재밌",
+        "는",
+        "것",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "짱구는 그 정도면 살아 있는 게 신기해",
+      "tokens": [
+        "짱구",
+        "는",
+        "그",
+        "정도",
+        "면",
+        "EC",
+        "살",
+        "아",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "신기",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "코난이 내 친구면 무서울 것 같아",
+      "tokens": [
+        "코난",
+        "이",
+        "내",
+        "JKG",
+        "친구",
+        "면",
+        "EC",
+        "무서울",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "짱구 없인 못살아 이젠 키키 매일 봐",
+      "tokens": [
+        "짱구",
+        "없인",
+        "JX",
+        "못",
+        "살",
+        "아",
+        "이젠",
+        "JX",
+        "키",
+        "키",
+        "매일",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "코난이 니 친구면 근처에 살인 사건 많을 거야 키키",
+      "tokens": [
+        "코난",
+        "이",
+        "니",
+        "친구",
+        "면",
+        "EC",
+        "근처",
+        "에",
+        "살인",
+        "사건",
+        "많",
+        "을",
+        "거",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "코난 보러 가자",
+      "tokens": [
+        "코난",
+        "보",
+        "러",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나는 코난이 좋아",
+      "tokens": [
+        "나",
+        "는",
+        "코난",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "커피값 치솟는 거 봤음...?",
+      "tokens": [
+        "커피",
+        "값",
+        "치솟",
+        "는",
+        "거",
+        "봤",
+        "EP",
+        "음",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 그게 왜 오름?",
+      "tokens": [
+        "헐",
+        "그게",
+        "JKS",
+        "왜",
+        "오름",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜죠?",
+      "tokens": [
+        "왜",
+        "죠",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "커피값은 안돼요 ㅠ",
+      "tokens": [
+        "커피",
+        "값",
+        "은",
+        "안",
+        "돼요",
+        "EF",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "내 식량 커피...",
+      "tokens": [
+        "내",
+        "JKG",
+        "식량",
+        "커피",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "커피는 왜 갑자기 오름?",
+      "tokens": [
+        "커피",
+        "는",
+        "왜",
+        "갑자기",
+        "오름",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "원두 저렴할 텐데 ㅠㅠ 모야",
+      "tokens": [
+        "원두",
+        "저렴",
+        "할",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EC",
+        "ㅠㅠ",
+        "모야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "커피 원산지가 가뭄이래...",
+      "tokens": [
+        "커피",
+        "원산지",
+        "가",
+        "가뭄",
+        "이",
+        "래",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 헐 별일이 다 있네 ㄷㄷ",
+      "tokens": [
+        "아",
+        "헐",
+        "별일",
+        "이",
+        "다",
+        "있",
+        "네",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그러니까",
+      "tokens": [
+        "그러니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아 헐 가뭄... 원두...",
+      "tokens": [
+        "아",
+        "헐",
+        "가뭄",
+        ".",
+        ".",
+        "원두",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "커피값이 오를 수밖에 없대",
+      "tokens": [
+        "커피",
+        "값",
+        "이",
+        "오를",
+        "ETM",
+        "수",
+        "밖에",
+        "없",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그런 건 어찌 알았슠 키키",
+      "tokens": [
+        "그런",
+        "건",
+        "JX",
+        "어찌",
+        "알",
+        "았",
+        "슠키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 별일 다 있네",
+      "tokens": [
+        "진짜",
+        "별일",
+        "다",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "커피 사무야 되는뎅 ㅠㅠ",
+      "tokens": [
+        "커피",
+        "사무",
+        "야",
+        "EF",
+        "되",
+        "는",
+        "뎅",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "세상에나... 내 커피 ㅠㅠ",
+      "tokens": [
+        "세상",
+        "에",
+        "나",
+        "EF",
+        ".",
+        "내커피ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "지금도 비싼데",
+      "tokens": [
+        "지금",
+        "도",
+        "비싼데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "하여튼 내 정보통은 **",
+      "tokens": [
+        "하여튼",
+        "내정",
+        "보통",
+        "은",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "알바 더 열심히 해야 하네 ㅠㅠ",
+      "tokens": [
+        "알",
+        "ETM",
+        "바",
+        "더",
+        "열심히",
+        "해야",
+        "EC",
+        "하",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "기사를 통해 보았쥬...",
+      "tokens": [
+        "기사",
+        "를",
+        "통해",
+        "EC",
+        "보",
+        "았",
+        "쥬",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 커피 아껴 마셔야징",
+      "tokens": [
+        "나",
+        "도",
+        "커피",
+        "아껴",
+        "EC",
+        "마셔야",
+        "EC",
+        "징"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "* 정보력 대박이얌...",
+      "tokens": [
+        "*",
+        "정보력",
+        "대박",
+        "이얌",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

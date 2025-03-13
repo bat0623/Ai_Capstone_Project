@@ -1,0 +1,524 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "트위터로 그런 걸 막사는 갑데?",
+      "tokens": [
+        "트위터",
+        "로",
+        "그런",
+        "걸",
+        "JKO",
+        "막사",
+        "는",
+        "갑",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "트위터 진짜 만악의 근원지다",
+      "tokens": [
+        "트위터",
+        "진짜",
+        "만악",
+        "의",
+        "근원지",
+        "다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그니까 트위터 진짜 문제임",
+      "tokens": [
+        "그니까",
+        "트위터",
+        "진짜",
+        "문제",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "전자 담배 팔아요 이러면서",
+      "tokens": [
+        "전자",
+        "담배",
+        "팔",
+        "아요",
+        "이러",
+        "면서"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "다른 sns는그러녀니 해도 트위터는 거름",
+      "tokens": [
+        "다른",
+        "sns",
+        "는",
+        "그러",
+        "녀",
+        "니",
+        "해도",
+        "EC",
+        "트위터",
+        "는",
+        "거름"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "트위터가 제일 악질임",
+      "tokens": [
+        "트위터",
+        "가",
+        "제일",
+        "악질",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 성에 대해서도 그렇고",
+      "tokens": [
+        "진짜",
+        "성",
+        "에",
+        "대해서",
+        "EC",
+        "도",
+        "그렇",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "트위터 해봤음?",
+      "tokens": [
+        "트위터",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 안 해봄",
+      "tokens": [
+        "난",
+        "JX",
+        "안",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 참내…. 무섭다… 그",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "참내",
+        "…",
+        "무섭",
+        "다",
+        "…",
+        "그"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "런 거 다 잡아 넣어야 함 키키",
+      "tokens": [
+        "런",
+        "거",
+        "다",
+        "잡",
+        "아",
+        "넣",
+        "어야",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "보면 토악질 나온다",
+      "tokens": [
+        "보",
+        "면",
+        "토악",
+        "질",
+        "나온다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 해본 적은 없음",
+      "tokens": [
+        "난",
+        "JX",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "은",
+        "없",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "거기서 성매매도 하고 그런갑데",
+      "tokens": [
+        "거기",
+        "서",
+        "성매매",
+        "도",
+        "하",
+        "고",
+        "그런",
+        "갑",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 안 해보긴 했는데 너무 안 좋은 썰들이 들림",
+      "tokens": [
+        "나",
+        "도",
+        "안",
+        "해",
+        "EC",
+        "보",
+        "긴",
+        "JX",
+        "했",
+        "EP",
+        "는데",
+        "너무",
+        "안",
+        "좋",
+        "은",
+        "썰",
+        "ETM",
+        "들",
+        "이",
+        "들림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "심하다",
+      "tokens": [
+        "심하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "매매도 있고 뭐 상상을 초월하는 거도 많다",
+      "tokens": [
+        "매매",
+        "도",
+        "있",
+        "고",
+        "뭐",
+        "상상",
+        "을",
+        "초월",
+        "하",
+        "는",
+        "거",
+        "도",
+        "많",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "트위터가 추적이 어렵나?",
+      "tokens": [
+        "트위터",
+        "가",
+        "추적",
+        "이",
+        "어렵",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "진짜,…. 거기 완전 익명 아닌가?",
+      "tokens": [
+        "진짜",
+        ",",
+        "…",
+        "거기",
+        "완전",
+        "익명",
+        "아닌가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그렇지 않나?",
+      "tokens": [
+        "그렇",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그리고 해외 사이트는 정보 제공 의무 아니지 않나?",
+      "tokens": [
+        "그리고",
+        "해외",
+        "사이트",
+        "는",
+        "정보",
+        "제공",
+        "의",
+        "무",
+        "아니",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "트위터를 이용하더라?",
+      "tokens": [
+        "트위터",
+        "를",
+        "이용",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "왜 그런 거지?",
+      "tokens": [
+        "왜",
+        "그런",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "아 익명이구나 헐",
+      "tokens": [
+        "아",
+        "익명",
+        "이",
+        "구나",
+        "헐",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "나도 안 해봐서 크게 잘 모르겠네 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "안",
+        "해",
+        "EC",
+        "봐서",
+        "EC",
+        "크",
+        "게",
+        "잘",
+        "모르",
+        "겠",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "수사할 때 막 요구해도 안 해주던데",
+      "tokens": [
+        "수사",
+        "할",
+        "ETM",
+        "때",
+        "막",
+        "요구",
+        "해도",
+        "EC",
+        "안",
+        "해",
+        "EC",
+        "주",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

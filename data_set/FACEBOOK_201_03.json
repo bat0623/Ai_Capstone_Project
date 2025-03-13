@@ -1,0 +1,405 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "얌 *이 그래서 골랐냐고 선물",
+      "tokens": [
+        "얌",
+        "*",
+        "이",
+        "그래서",
+        "골랐",
+        "EP",
+        "냐고",
+        "선물"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "무슨 선물?",
+      "tokens": [
+        "무슨",
+        "선물"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "결혼?",
+      "tokens": [
+        "결혼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "음 딱히 뭐 필요한 게 없는데 ...",
+      "tokens": [
+        "음",
+        "딱히",
+        "뭐",
+        "필요",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "없",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "새차 선물 왜 안 고름?",
+      "tokens": [
+        "새차선물왜안고름"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "막걸리 어떰",
+      "tokens": [
+        "막걸리어떰"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "막걸리가 왜 필요해?",
+      "tokens": [
+        "막걸리",
+        "가",
+        "왜",
+        "필요",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 알았어",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "알",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "비싼 막걸리 바퀴에 뿌려줘",
+      "tokens": [
+        "비싼",
+        "ETM",
+        "막걸리",
+        "바퀴",
+        "에",
+        "뿌려",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "차에 막걸리 좀 뿌려야지",
+      "tokens": [
+        "차",
+        "에",
+        "막걸리",
+        "좀",
+        "뿌려야",
+        "EC",
+        "VX",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "뭐 고사 지내는 거임?",
+      "tokens": [
+        "뭐",
+        "고사",
+        "지내",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "고사 지내자고 키키",
+      "tokens": [
+        "고사",
+        "지내",
+        "자고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "고사 지내야지 당근 키키",
+      "tokens": [
+        "고사",
+        "지내",
+        "야지",
+        "당근",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 키키 그런 거 안 해봤어 키키",
+      "tokens": [
+        "아키",
+        "키",
+        "그런",
+        "거",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래야 사고 안 나지 않겠어?",
+      "tokens": [
+        "그래야",
+        "사고",
+        "안",
+        "나",
+        "지",
+        "않",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "돼지 머리 사주까?",
+      "tokens": [
+        "돼지",
+        "머리",
+        "사",
+        "EC",
+        "주",
+        "까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "헐헐",
+      "tokens": [
+        "헐헐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그런 거 어디서 팔아 ㄷㄷ",
+      "tokens": [
+        "그런",
+        "거",
+        "어디",
+        "서",
+        "팔",
+        "아",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "음 ... 그건 ... 흠...말 아낄게 ...",
+      "tokens": [
+        "음",
+        ".",
+        "그건",
+        "JX",
+        ".",
+        "흠",
+        ".",
+        "말",
+        "아낄",
+        "ETM",
+        "게",
+        "JKS",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "돼지 머리 어때!",
+      "tokens": [
+        "돼지",
+        "머리",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도 돼지 머리에 한 표",
+      "tokens": [
+        "나",
+        "도",
+        "돼지",
+        "머리",
+        "에",
+        "한",
+        "표"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "말날이 있다대 ...",
+      "tokens": [
+        "말날",
+        "이",
+        "있",
+        "다",
+        "대",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그날에 고사 지내야 된대",
+      "tokens": [
+        "그날",
+        "에",
+        "고사",
+        "지내",
+        "야",
+        "된대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

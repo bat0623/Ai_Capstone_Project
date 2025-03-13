@@ -1,0 +1,340 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아파트 만정 떨어인자다",
+      "tokens": [
+        "아파트",
+        "만정",
+        "떨",
+        "ETM",
+        "어인",
+        "자다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아파트 왜 정 떨지누",
+      "tokens": [
+        "아파트왜정떨지누"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 아파트 왜 만정떨어져",
+      "tokens": [
+        "키",
+        "키",
+        "아파트",
+        "왜",
+        "만정",
+        "떨어져",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "***집 역류해서 만정 떨어짐",
+      "tokens": [
+        "*",
+        "*",
+        "*",
+        "집역류해서만정떨어짐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 그 사건 들었다 ㅋ",
+      "tokens": [
+        "아그사건들었다ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "와...그거 사 진봤는데...",
+      "tokens": [
+        "와",
+        ".",
+        "그거",
+        "사진",
+        "봤",
+        "EP",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "주택 사는 게 답이다",
+      "tokens": [
+        "주택",
+        "사",
+        "는",
+        "게",
+        "JKS",
+        "답",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "황소가 말해 주더라 키키",
+      "tokens": [
+        "황소",
+        "가",
+        "말",
+        "해",
+        "EC",
+        "주",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜... 아니 근데",
+      "tokens": [
+        "진짜",
+        ".",
+        "아니",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아무도 책임 안지려고 해 ㅠㅠ",
+      "tokens": [
+        "아무",
+        "도",
+        "책임",
+        "안",
+        "지",
+        "려고",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "사진 보여주데? ㄷㄷ 장난아 니던데",
+      "tokens": [
+        "사진",
+        "보여",
+        "EC",
+        "주",
+        "데",
+        "ㄷ",
+        "ㄷ",
+        "장난",
+        "아니",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "범인은 못 잡으면 또...",
+      "tokens": [
+        "범인",
+        "은",
+        "못",
+        "잡",
+        "으면",
+        "또",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "주택은 이런 일은 없을듯...",
+      "tokens": [
+        "주택",
+        "은",
+        "이런",
+        "일",
+        "은",
+        "없",
+        "을",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 황소 그 사진보고 카레 나옴 밥 키키",
+      "tokens": [
+        "근데",
+        "황소",
+        "그",
+        "사진",
+        "보고",
+        "카레",
+        "나옴",
+        "EC",
+        "밥",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그런 일이 일어나겠는데?...",
+      "tokens": [
+        "그런",
+        "일",
+        "이",
+        "일어나",
+        "겠",
+        "는데",
+        "?",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그니까 먼 이런 일이 다 있냐고 키키",
+      "tokens": [
+        "그니까",
+        "먼",
+        "ETM",
+        "이런",
+        "일",
+        "이",
+        "다",
+        "있",
+        "냐고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "불쌍 불쌍 핵 불쌍 아니가 키키",
+      "tokens": [
+        "불",
+        "쌍불",
+        "쌍",
+        "핵",
+        "불",
+        "쌍아",
+        "니",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 아니 진짜 무서워서 살겠나",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "진짜",
+        "무서워서",
+        "EC",
+        "살",
+        "겠",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_156_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

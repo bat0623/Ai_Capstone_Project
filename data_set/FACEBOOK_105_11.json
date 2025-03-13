@@ -1,0 +1,512 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠 마피아 게임 해봤어?",
+      "tokens": [
+        "오빠",
+        "마피아",
+        "게임",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 예전에 고개 숙이고 친구들이랑 했었지",
+      "tokens": [
+        "응",
+        "예전",
+        "에",
+        "고개",
+        "숙이",
+        "고",
+        "친구",
+        "들",
+        "이랑",
+        "했었",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 그거 사회자가 제일 꿀잼인 거 알지?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그거",
+        "사회",
+        "자",
+        "가",
+        "제일",
+        "꿀",
+        "ETM",
+        "잼",
+        "인",
+        "ETM",
+        "거",
+        "알",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 나는 시민이 꿀잼인데 키키",
+      "tokens": [
+        "근데",
+        "나",
+        "는",
+        "시민",
+        "이",
+        "꿀",
+        "ETM",
+        "잼",
+        "인데",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "시민 울화통 터져서 죽잖아 키키",
+      "tokens": [
+        "시민",
+        "울화통",
+        "터져서",
+        "EC",
+        "죽",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "시민인데 마피아인 척하면서 하는 거지 키키",
+      "tokens": [
+        "시민",
+        "인데",
+        "EC",
+        "마피아",
+        "인척",
+        "하",
+        "면서",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "웃겨",
+      "tokens": [
+        "웃겨",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 진짜? 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "마피아인 척하면 바로 죽을 텐데?",
+      "tokens": [
+        "마피아",
+        "인척",
+        "하",
+        "면",
+        "바로",
+        "죽",
+        "을",
+        "텐데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그니까 혼동을 주면서 하는 거지",
+      "tokens": [
+        "그니까",
+        "혼동",
+        "을",
+        "주",
+        "면서",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "시민인 척 마피아 인 척",
+      "tokens": [
+        "시민",
+        "인척",
+        "마피아",
+        "인척"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그러면 오빠는 마피아 게임 빌런이었네 키키",
+      "tokens": [
+        "그러면",
+        "오빠",
+        "는",
+        "마피아",
+        "게임빌",
+        "런",
+        "이",
+        "었",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래야 마피아들도 헷갈려서 나를 살릴 거 아니야 키키",
+      "tokens": [
+        "그래야",
+        "마피아",
+        "들",
+        "도",
+        "헷갈려서",
+        "EC",
+        "나",
+        "를",
+        "살릴",
+        "ETM",
+        "거",
+        "아니",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 아 그렇겠다",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "그렇",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "고도의 전술이 있었네!",
+      "tokens": [
+        "고도",
+        "의",
+        "전술",
+        "이",
+        "있",
+        "었",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 근데 항상 지더라고 키키",
+      "tokens": [
+        "응",
+        "근데",
+        "항상",
+        "지",
+        "더라고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나랑은 안 맞아",
+      "tokens": [
+        "나",
+        "랑",
+        "은",
+        "안",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 이유를 알겠다~",
+      "tokens": [
+        "키",
+        "키",
+        "이유",
+        "를",
+        "알",
+        "겠",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오빠 때도 의사 있었어?",
+      "tokens": [
+        "오빠",
+        "때",
+        "도",
+        "의사",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 그거 껴서 하는 애들도 있는데 그건 우리 나중에 나온 거라 우린 안 했어 키키",
+      "tokens": [
+        "아",
+        "그거",
+        "껴서",
+        "EC",
+        "하",
+        "는",
+        "애",
+        "들",
+        "도",
+        "있",
+        "는데",
+        "그건",
+        "JX",
+        "우리",
+        "나중",
+        "에",
+        "나온",
+        "ETM",
+        "거",
+        "라",
+        "EC",
+        "우린",
+        "JX",
+        "안",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "라떼는 마피아 시민 의사 간호사도 있었음 키키",
+      "tokens": [
+        "라떼",
+        "는",
+        "마피아",
+        "시민",
+        "의사",
+        "간호사",
+        "도",
+        "있",
+        "었",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "와 그거 하려면 굉장히 사람 많이 필요하겠다 키키",
+      "tokens": [
+        "와",
+        "그거",
+        "하",
+        "려면",
+        "굉장히",
+        "사람",
+        "많이",
+        "필요",
+        "하",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

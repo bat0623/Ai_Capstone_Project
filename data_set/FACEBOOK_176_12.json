@@ -1,0 +1,392 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 부산 여행 가자",
+      "tokens": [
+        "우리",
+        "부산",
+        "여행",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "부산보다 통영을 가자",
+      "tokens": [
+        "부산",
+        "보다",
+        "통영",
+        "을",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "부산 놀러 와",
+      "tokens": [
+        "부산",
+        "놀러",
+        "와"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "애들아 내가 풀코스로 쏠게",
+      "tokens": [
+        "애",
+        "들",
+        "아내",
+        "가",
+        "풀코스",
+        "로",
+        "쏠",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 부산이 너무 좋아",
+      "tokens": [
+        "난",
+        "JX",
+        "부산",
+        "이",
+        "너무",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "부산은 너무 많이 갔어",
+      "tokens": [
+        "부산",
+        "은",
+        "너무",
+        "많이",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "통영은 바다 냄새 오지더라 시골이야",
+      "tokens": [
+        "통영",
+        "은",
+        "바다",
+        "냄새",
+        "오지",
+        "더라",
+        "시골",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "바다 보고 싶어 난",
+      "tokens": [
+        "바다",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "난",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "부산은 정말 무서운 도시야",
+      "tokens": [
+        "부산",
+        "은",
+        "정말",
+        "무서운",
+        "ETM",
+        "도시",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "부산 말고 영도 어때 그럼?",
+      "tokens": [
+        "부산",
+        "말",
+        "고영",
+        "도",
+        "어때",
+        "EF",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "거긴 섬나라야",
+      "tokens": [
+        "거긴",
+        "JX",
+        "섬나라",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "부산 국밥이 너무 그리워",
+      "tokens": [
+        "부산",
+        "국밥",
+        "이",
+        "너무",
+        "그리워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "통영은 굴 원툴이긴 해",
+      "tokens": [
+        "통영",
+        "은",
+        "굴원",
+        "툴",
+        "이",
+        "긴",
+        "JX",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "부산 국밥 죽이지...",
+      "tokens": [
+        "부산",
+        "국밥",
+        "죽이",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "통영은 충무김밥이 맛있지",
+      "tokens": [
+        "통영",
+        "은",
+        "충무김밥",
+        "이",
+        "맛있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "부산 국밥은 정말 달라?",
+      "tokens": [
+        "부산",
+        "국밥",
+        "은",
+        "정말",
+        "달라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "정말 달라",
+      "tokens": [
+        "정말",
+        "달라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "둘이 먹다 둘 다 죽어도 몰라",
+      "tokens": [
+        "둘",
+        "이",
+        "먹",
+        "다",
+        "둘",
+        "다",
+        "죽",
+        "어도",
+        "몰라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "부산 여자들도 죽인다던데 사실이야,,?",
+      "tokens": [
+        "부산",
+        "여자",
+        "들",
+        "도",
+        "죽인다",
+        "EC",
+        "던데",
+        "EC",
+        "사실",
+        "이",
+        "야",
+        ",",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "개인적으로 충무김밥 싫어해",
+      "tokens": [
+        "개인",
+        "적",
+        "으로",
+        "충무김밥",
+        "싫",
+        "어",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "여자들도 말 안들으면 삼일에 한대씩 정도는 손봐줘",
+      "tokens": [
+        "여자",
+        "들",
+        "도",
+        "말",
+        "안",
+        "들으면",
+        "EC",
+        "삼",
+        "일",
+        "에",
+        "한",
+        "대",
+        "씩",
+        "정도",
+        "는",
+        "손봐",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_176_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

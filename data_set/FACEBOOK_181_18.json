@@ -1,0 +1,474 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너네 편의점 자주 가?",
+      "tokens": [
+        "너",
+        "네",
+        "편의점",
+        "자주",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "당연하지 난 편의점 매니아잖아",
+      "tokens": [
+        "당연",
+        "하",
+        "지난",
+        "ETM",
+        "편의점",
+        "매니아",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 편의점 자주 가지 매일 가는 듯 키키",
+      "tokens": [
+        "나",
+        "편의점",
+        "자주",
+        "가지",
+        "매일",
+        "가",
+        "는",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "편의점 요새 할인 많이 해주더라",
+      "tokens": [
+        "편의점",
+        "요새",
+        "할인",
+        "많이",
+        "해",
+        "EC",
+        "주",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "맞아 그래서 난 바코드 맨날 보여주잖아~",
+      "tokens": [
+        "맞아",
+        "그래서",
+        "난",
+        "JX",
+        "바코드",
+        "맨날",
+        "보여",
+        "EC",
+        "주",
+        "잖아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "할인 귀찮아서 안 해",
+      "tokens": [
+        "할인",
+        "귀찮",
+        "아서",
+        "안",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 편의점이 많이 있어서 좋아",
+      "tokens": [
+        "근데",
+        "편의점",
+        "이",
+        "많이",
+        "있",
+        "어서",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 할인해도 가격 똑같다?",
+      "tokens": [
+        "근데",
+        "할인",
+        "해도",
+        "EC",
+        "가격",
+        "똑같",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래? 그건 몰랐네",
+      "tokens": [
+        "그래",
+        "그건",
+        "JX",
+        "몰랐",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "할인 적혀있어서 맨날 산 건데 키키",
+      "tokens": [
+        "할인",
+        "적혀",
+        "EC",
+        "있",
+        "어서",
+        "맨날",
+        "산",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "편의점은 진짜 조금만 가도 있어서 편해",
+      "tokens": [
+        "편의점",
+        "은",
+        "진짜",
+        "조금",
+        "만",
+        "가",
+        "도",
+        "있",
+        "어서",
+        "편해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사실 알게 모르게 물가를 확 올렸거든 키키",
+      "tokens": [
+        "사실",
+        "알",
+        "게",
+        "모르",
+        "게",
+        "물가",
+        "를",
+        "확",
+        "올렸",
+        "EP",
+        "거든",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그러면 갑자기 편의점 말고 마트 가고 싶어지는데~?",
+      "tokens": [
+        "그러면",
+        "갑자기",
+        "편의점",
+        "말",
+        "고",
+        "마트",
+        "가",
+        "고",
+        "싶",
+        "어",
+        "지",
+        "는데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "편의점이 솔직히 비싸긴 한 것 같아",
+      "tokens": [
+        "편의점",
+        "이",
+        "솔직히",
+        "비싸",
+        "긴",
+        "JX",
+        "한",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 담배 사면서 가는 듯",
+      "tokens": [
+        "근데",
+        "담배",
+        "사",
+        "면서",
+        "가",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 내가 알바생이라서 그런지 확 체감 하더라",
+      "tokens": [
+        "나",
+        "는",
+        "내",
+        "가",
+        "알",
+        "ETM",
+        "바",
+        "생",
+        "이",
+        "라서",
+        "그런지",
+        "EC",
+        "확",
+        "체감",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "알바하면 편의점 비싼 거 확 느껴진다고 하더라 키키",
+      "tokens": [
+        "알",
+        "ETM",
+        "바",
+        "하",
+        "면",
+        "편의점",
+        "비싼",
+        "ETM",
+        "거",
+        "확",
+        "느껴진다고",
+        "EC",
+        "VX",
+        "EC",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 그렇구나 키키",
+      "tokens": [
+        "아",
+        "그렇",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래도 행사도 많이 하잖아 원플원 투플원",
+      "tokens": [
+        "그래도",
+        "행사",
+        "도",
+        "많이",
+        "하",
+        "잖",
+        "아원",
+        "플",
+        "원투",
+        "플",
+        "원"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래서 나는 요즘 마트 가는 것 같아",
+      "tokens": [
+        "그래서",
+        "나",
+        "는",
+        "요즘",
+        "마트",
+        "가",
+        "는",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "마트에서 한꺼번에 장 보는 게 이득이야~",
+      "tokens": [
+        "마트",
+        "에서",
+        "한꺼번에",
+        "장보",
+        "는",
+        "게",
+        "JKS",
+        "이득",
+        "이",
+        "야",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "장을 내가 보지 않아서 공감 못하네 ㅠㅠ",
+      "tokens": [
+        "장",
+        "을",
+        "내",
+        "가",
+        "보",
+        "지",
+        "않",
+        "아서",
+        "공감",
+        "못",
+        "하",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "엇 군대에서 일과 중에도 폰 사용 검토한대",
+      "tokens": [
+        "엇",
+        "군대",
+        "에서",
+        "일과",
+        "중",
+        "에",
+        "도",
+        "폰",
+        "사용",
+        "검토",
+        "한대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 헐",
+      "tokens": [
+        "아",
+        "헐",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜 하지 말라고?",
+      "tokens": [
+        "왜",
+        "하",
+        "지",
+        "말",
+        "라고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "안된다니까 키키",
+      "tokens": [
+        "안",
+        "된다니까",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그거 하면",
+      "tokens": [
+        "그거",
+        "하",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 폰 사용 검토!",
+      "tokens": [
+        "아니",
+        "폰",
+        "사용",
+        "검토"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "군인들도 궁금할 듯",
+      "tokens": [
+        "군인",
+        "들",
+        "도",
+        "궁금",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "폰 보고 싶어서 키키",
+      "tokens": [
+        "폰",
+        "보",
+        "고",
+        "싶",
+        "어서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "다들 중간중간 휴대폰 보고 싶어서 난리 난다",
+      "tokens": [
+        "다",
+        "들",
+        "중간중간",
+        "휴대폰",
+        "보",
+        "고",
+        "싶",
+        "어서",
+        "난리",
+        "난다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "왜 하면 안되는데",
+      "tokens": [
+        "왜",
+        "하",
+        "면",
+        "안",
+        "되",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아아 사용 자체를 못하게 키키",
+      "tokens": [
+        "아아",
+        "사용",
+        "자체",
+        "를",
+        "못",
+        "하",
+        "게",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나라를 지켜야지",
+      "tokens": [
+        "나라",
+        "를",
+        "지켜야",
+        "EC",
+        "VX",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "폰 지킬 거 ?",
+      "tokens": [
+        "폰",
+        "지킬",
+        "ETM",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아니... ** 난독증인가...",
+      "tokens": [
+        "아니",
+        ".",
+        "*",
+        "*",
+        "난독증",
+        "인가",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 약간 난 안 했으면 키키",
+      "tokens": [
+        "근데",
+        "약간",
+        "난",
+        "JX",
+        "안",
+        "했",
+        "EP",
+        "으면",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "간 김에 좀 생각도 하고",
+      "tokens": [
+        "간",
+        "ETM",
+        "김",
+        "에",
+        "좀",
+        "생각",
+        "도",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "뭐하러 휴대폰 쥐어주는데",
+      "tokens": [
+        "뭐",
+        "하",
+        "러",
+        "휴대폰",
+        "쥐",
+        "어",
+        "주",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 사용 검토를 한다니까",
+      "tokens": [
+        "키",
+        "키",
+        "사용",
+        "검토",
+        "를",
+        "한다니까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "잠이 덜 깼나보다 키키",
+      "tokens": [
+        "잠",
+        "이",
+        "덜",
+        "깼",
+        "EP",
+        "나",
+        "보다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "검토도 하지마!",
+      "tokens": [
+        "검토",
+        "도",
+        "하",
+        "지",
+        "마",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "상당히 말이 안 통하는 중",
+      "tokens": [
+        "상당히",
+        "말",
+        "이",
+        "안",
+        "통하",
+        "는",
+        "중"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "아아 그니까",
+      "tokens": [
+        "아아",
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "아까도 난독증이래",
+      "tokens": [
+        "아까",
+        "도",
+        "난독증",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "키키 잠 깨자 다들",
+      "tokens": [
+        "키키잠깨자다들"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_199_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

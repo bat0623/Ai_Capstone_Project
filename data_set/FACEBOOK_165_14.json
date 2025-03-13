@@ -1,0 +1,333 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이야... 중국  쌍칼 부림 한거봄?",
+      "tokens": [
+        "이",
+        "야",
+        "EF",
+        ".",
+        ".",
+        "중국",
+        "쌍",
+        "칼부림",
+        "한",
+        "ETM",
+        "거",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "앵 그건 뭐야 하하",
+      "tokens": [
+        "앵",
+        "그건",
+        "JX",
+        "뭐",
+        "야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "? 아니 또 어디서 쌍칼부림을 한건데;",
+      "tokens": [
+        "?",
+        "아니",
+        "또",
+        "어디",
+        "서",
+        "쌍",
+        "칼부림",
+        "을",
+        "한",
+        "ETM",
+        "건데",
+        "VCP",
+        "EC",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "경찰이 테이저건 2방이나 쐈는데!",
+      "tokens": [
+        "경찰",
+        "이",
+        "테이저",
+        "건",
+        "JX",
+        "2",
+        "방",
+        "이나",
+        "쐈",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "무슨 ㅋ 그런 일이?",
+      "tokens": [
+        "무슨ㅋ그런일이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "테이저건 2방을 버틴다고?",
+      "tokens": [
+        "테이저",
+        "건",
+        "JX",
+        "2",
+        "방",
+        "을",
+        "버틴다고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아도 끄덕 없더래",
+      "tokens": [
+        "맞",
+        "아도",
+        "끄덕",
+        "없",
+        "더래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "미쳐따 인천 아니가 거기",
+      "tokens": [
+        "미쳐",
+        "EC",
+        "따",
+        "EC",
+        "인천",
+        "아",
+        "니",
+        "가",
+        "거기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그거 1방만 맞아도 지릴 거 같던데",
+      "tokens": [
+        "그거",
+        "1",
+        "방만맞아도지릴거같던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래서 실탄 4발 쐈음",
+      "tokens": [
+        "그래서",
+        "실탄",
+        "4",
+        "발",
+        "쐈",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "왠지 인천일 것 같아 하하",
+      "tokens": [
+        "왠지",
+        "인천",
+        "일",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "; 실탄까지 쐈나;",
+      "tokens": [
+        ";",
+        "실탄",
+        "까지",
+        "쐈",
+        "EP",
+        "나",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "인천 맞는 듯 덜덜덜덜;",
+      "tokens": [
+        "인천",
+        "맞",
+        "는",
+        "듯",
+        "덜덜덜덜",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "인천 차이나 타운에서 하하 그랬을듯",
+      "tokens": [
+        "인천",
+        "차이나타운",
+        "에서",
+        "하하",
+        "그랬",
+        "EP",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "역시 마계 인천... 클라스...",
+      "tokens": [
+        "역시",
+        "마계",
+        "인천",
+        ".",
+        ".",
+        "클라스",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "실탄 다리에 쐈데!",
+      "tokens": [
+        "실탄",
+        "다리",
+        "에",
+        "쐈",
+        "EP",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 진짜 클라스 지린다",
+      "tokens": [
+        "그니까",
+        "진짜",
+        "클라스",
+        "지",
+        "린다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래도 4발이나 쏴서;",
+      "tokens": [
+        "그래도",
+        "4",
+        "발",
+        "이나",
+        "쏴서",
+        "EC",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

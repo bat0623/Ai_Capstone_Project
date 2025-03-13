@@ -1,0 +1,431 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다이어트 약은 정말 해롭데",
+      "tokens": [
+        "다이어트",
+        "약",
+        "은",
+        "정말",
+        "해롭",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아... 막 탈모오고 그런다매",
+      "tokens": [
+        "맞",
+        "아",
+        ".",
+        "막",
+        "탈모",
+        "오",
+        "고",
+        "그런",
+        "다매"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "뇌를 건드는 거니까 ㅜㅜ 나중에 사람 맛간다",
+      "tokens": [
+        "뇌",
+        "를",
+        "건",
+        "EC",
+        "드",
+        "는",
+        "거",
+        "니까",
+        "EC",
+        "ㅜㅜ",
+        "나중",
+        "에",
+        "사람",
+        "맛",
+        "간다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "다이어트 약 먹고 조현병 온 거 봤음?",
+      "tokens": [
+        "다이어트",
+        "약",
+        "먹",
+        "고",
+        "조현",
+        "병",
+        "온",
+        "ETM",
+        "거",
+        "봤",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "약은 항상 조심해서 복용…",
+      "tokens": [
+        "약",
+        "은",
+        "항상",
+        "조심",
+        "해서",
+        "EC",
+        "복용",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "안그래도 상태 안 조은데...",
+      "tokens": [
+        "안",
+        "그래도",
+        "EC",
+        "상태",
+        "안",
+        "조",
+        "은데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "탈모는 양반인듯 집에  불지르고 그럼",
+      "tokens": [
+        "탈모",
+        "는",
+        "양반",
+        "인",
+        "ETM",
+        "듯",
+        "집",
+        "에",
+        "불지르",
+        "고",
+        "그럼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "미쳤다 진짜 ㅠㅠ 뭔 일이냐",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "다",
+        "진짜",
+        "ㅠㅠ",
+        "뭔",
+        "일",
+        "이",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "박쥐 다이어트약 절대 안된다 알찡?",
+      "tokens": [
+        "박쥐",
+        "다이어트",
+        "약절",
+        "대안",
+        "된다",
+        "EC",
+        "알",
+        "찡"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "부모님 칼로 찌르고 소름이얌",
+      "tokens": [
+        "부모",
+        "님",
+        "칼",
+        "로",
+        "찌르",
+        "고",
+        "소름",
+        "이얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "다이어트는 그냥 운동해…",
+      "tokens": [
+        "다이어트",
+        "는",
+        "그냥",
+        "운동",
+        "해",
+        "EC",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 그럼 경찰에 바로 신고 할거야",
+      "tokens": [
+        "나",
+        "그럼",
+        "경찰",
+        "에",
+        "바로",
+        "신고",
+        "할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "당근이지 약은 절대 네버",
+      "tokens": [
+        "당근",
+        "이",
+        "지약",
+        "은",
+        "절대",
+        "네버"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 맞아 안돼 안돼 ㅠㅠ 큰일남",
+      "tokens": [
+        "맞",
+        "아",
+        "맞",
+        "아",
+        "안",
+        "돼",
+        "EC",
+        "안",
+        "돼",
+        "EF",
+        "ㅠㅠ",
+        "큰",
+        "ETM",
+        "일남"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래 약은 절대 안된다...",
+      "tokens": [
+        "그래",
+        "약",
+        "은",
+        "절대",
+        "안",
+        "된다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "건강하게 살 빼자",
+      "tokens": [
+        "건강",
+        "하",
+        "게",
+        "살빼",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나 바로 신고해줘 정신병원에 가둬도 좋아",
+      "tokens": [
+        "나",
+        "바로",
+        "신고",
+        "해",
+        "EC",
+        "줘",
+        "EC",
+        "정신",
+        "병원",
+        "에",
+        "가둬",
+        "EC",
+        "도",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "다들 조심하자…",
+      "tokens": [
+        "다",
+        "들",
+        "조심",
+        "하",
+        "자",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나도 신고할께... ㅎ키키",
+      "tokens": [
+        "나",
+        "도",
+        "신고",
+        "할께",
+        "EF",
+        ".",
+        "ㅎ",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "알써 내가 책임지고 가둬줄게...",
+      "tokens": [
+        "알",
+        "써",
+        "EC",
+        "내",
+        "가",
+        "책임지",
+        "고",
+        "가둬",
+        "EC",
+        "줄게",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "우리집 지하실은 어떰?",
+      "tokens": [
+        "우리",
+        "집",
+        "지하실",
+        "은",
+        "어떰"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_161_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

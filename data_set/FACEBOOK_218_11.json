@@ -1,0 +1,358 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "자신 있는 게임 있어?",
+      "tokens": [
+        "자신",
+        "있",
+        "는",
+        "게임",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 피파 자신 있음 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "피파",
+        "자신",
+        "있",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 사천성 게임 정도?",
+      "tokens": [
+        "난",
+        "JX",
+        "사천성",
+        "게임",
+        "정도"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 테트리스가 젤 자신 있었는디...",
+      "tokens": [
+        "난",
+        "JX",
+        "테트리스",
+        "가",
+        "젤",
+        "자신",
+        "있",
+        "었",
+        "는디",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "저번에 잠깐 했는데 죽지 않았더군 하하",
+      "tokens": [
+        "저번",
+        "에",
+        "잠깐",
+        "했",
+        "EP",
+        "는데",
+        "죽",
+        "지",
+        "않",
+        "았",
+        "더군",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 나도 테트리스 신이였어",
+      "tokens": [
+        "아",
+        "나",
+        "도",
+        "테트리스",
+        "신이",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "테트리스 없어졌어 ㅠㅠ",
+      "tokens": [
+        "테트리스",
+        "없",
+        "어",
+        "졌",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "테트리스 너 나한테 안될껄”?",
+      "tokens": [
+        "테트리스",
+        "너",
+        "나",
+        "한테",
+        "안",
+        "될",
+        "ETM",
+        "껄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너무 슬펐어 없어져서",
+      "tokens": [
+        "너무",
+        "슬펐",
+        "EP",
+        "어",
+        "없",
+        "어",
+        "져서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 틀그도 자신 있음!",
+      "tokens": [
+        "나틀",
+        "그",
+        "도",
+        "자신",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 넷마블 테트리스 씹어 먹음",
+      "tokens": [
+        "나",
+        "넷마블",
+        "테트리스",
+        "씹",
+        "어",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "틀그 좋아 나도 한번씩 하는데",
+      "tokens": [
+        "틀",
+        "그",
+        "좋",
+        "아",
+        "나",
+        "도",
+        "한",
+        "번",
+        "씩",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아냐",
+      "tokens": [
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 테트 진짜 잘함",
+      "tokens": [
+        "나테트진짜잘함"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "틀그는 뭐임?",
+      "tokens": [
+        "틀",
+        "그",
+        "는",
+        "뭐",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 틀린그림찾기 게임 아냐?",
+      "tokens": [
+        "진짜",
+        "틀린",
+        "ETM",
+        "그림",
+        "찾",
+        "기",
+        "게임",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "틀린 그림 찾기!",
+      "tokens": [
+        "틀린",
+        "ETM",
+        "그림",
+        "찾",
+        "기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "별걸 다 줄이네 하하",
+      "tokens": [
+        "별",
+        "걸",
+        "JKO",
+        "다",
+        "줄이",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "악 너무 웃기다 하하",
+      "tokens": [
+        "악",
+        "너무",
+        "웃기",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나 알아들었다",
+      "tokens": [
+        "나",
+        "알아들",
+        "었",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "작은엄마는 기념일 어떻게 챙겨?",
+      "tokens": [
+        "작",
+        "은",
+        "엄마",
+        "는",
+        "기념일",
+        "어떻게",
+        "챙겨",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "우린 쿨하게 그런 거 없는디",
+      "tokens": [
+        "우린",
+        "JX",
+        "쿨",
+        "하",
+        "게",
+        "그런",
+        "거",
+        "없",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 헐 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "헐",
+        "JKO",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리는 아까 전화 왔어",
+      "tokens": [
+        "우리",
+        "는",
+        "아까",
+        "전화",
+        "왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "자기들 다음 달에 기념일이라고",
+      "tokens": [
+        "자기",
+        "들",
+        "다음",
+        "달",
+        "에",
+        "기념일",
+        "이",
+        "라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 ~ 너는 엄마 아빠 뭐 해드리게?",
+      "tokens": [
+        "아",
+        "~",
+        "너",
+        "는",
+        "엄마",
+        "아빠",
+        "뭐",
+        "해",
+        "EC",
+        "드리",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니!",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "예전에는 해줬는데 이제는 안 해줌",
+      "tokens": [
+        "예전",
+        "에",
+        "는",
+        "해",
+        "EC",
+        "줬",
+        "EP",
+        "는데",
+        "이제",
+        "는",
+        "안",
+        "해줌",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 왜 그래도 잘 챙겨 드리지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "그래도",
+        "잘",
+        "챙겨",
+        "EC",
+        "드리",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아니 키키 본인 결혼기념일은 본인들이 알아서 챙겨야 하는 거 아니야",
+      "tokens": [
+        "아니키",
+        "키본",
+        "인",
+        "ETM",
+        "결혼기념일",
+        "은",
+        "본인",
+        "들",
+        "이",
+        "알",
+        "아서",
+        "챙겨야",
+        "EC",
+        "하",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이런~ 딸래미 키워 놔도 소용이 없어요~",
+      "tokens": [
+        "이런",
+        "~",
+        "딸래미",
+        "키워",
+        "EC",
+        "놔도",
+        "EC",
+        "소용",
+        "이",
+        "없",
+        "어요",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니 우리는 엄빠 생일은 챙겨줄 수 있는데 기념일까지는 좀,",
+      "tokens": [
+        "아니",
+        "우리",
+        "는",
+        "엄빠",
+        "생일",
+        "은",
+        "챙겨",
+        "EC",
+        "줄",
+        "ETM",
+        "수",
+        "있",
+        "는데",
+        "기념일",
+        "까지",
+        "는",
+        "좀",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 이제 각자 챙기는 건가~",
+      "tokens": [
+        "아",
+        "이제",
+        "각자",
+        "챙기",
+        "는",
+        "건가",
+        "VCP",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 어 그거는 당연히 둘이서만 챙기는 거지!",
+      "tokens": [
+        "키",
+        "키",
+        "어",
+        "그거",
+        "는",
+        "당연히",
+        "둘",
+        "이",
+        "서",
+        "만",
+        "챙기",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이제 우리는 손 뗐어!",
+      "tokens": [
+        "이제",
+        "우리",
+        "는",
+        "손",
+        "뗐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래~",
+      "tokens": [
+        "그래",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "생일만 잘 챙겨드리면 되지 뭐~",
+      "tokens": [
+        "생일",
+        "만",
+        "잘",
+        "챙겨",
+        "EC",
+        "드리",
+        "면",
+        "되",
+        "지",
+        "뭐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "둘이 11월 8일에 기념일이라는데 알아서 나가라고 했으!",
+      "tokens": [
+        "둘",
+        "이",
+        "11",
+        "월",
+        "8",
+        "일",
+        "에",
+        "기념일",
+        "이",
+        "라는",
+        "데",
+        "알",
+        "아서",
+        "나가",
+        "라고",
+        "했",
+        "EP",
+        "으"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어디 좀 나가서 시간 보내고 오라 하셔!",
+      "tokens": [
+        "어디",
+        "좀",
+        "나가",
+        "서",
+        "시간",
+        "보내",
+        "고",
+        "오라",
+        "하",
+        "셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "저기 탑정호나 가서 분위기 좀 내라고 해야쥐~",
+      "tokens": [
+        "저기탑정호나가서분위기좀내라고해야쥐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "응~ 추석에 가니깐 아주 좋더라 분위기",
+      "tokens": [
+        "응",
+        "~",
+        "추석",
+        "에",
+        "가",
+        "니깐",
+        "아주",
+        "좋",
+        "더라",
+        "분위기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_102_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

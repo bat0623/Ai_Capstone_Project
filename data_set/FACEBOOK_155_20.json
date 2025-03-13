@@ -1,0 +1,386 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아이고 듄 보러 안 가길 다행이라고 해야 할지...",
+      "tokens": [
+        "아이고",
+        "듄",
+        "보",
+        "러",
+        "안",
+        "가",
+        "길",
+        "JKO",
+        "다행",
+        "이",
+        "라고",
+        "해야",
+        "EC",
+        "할지",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 진짜... 문자 보고",
+      "tokens": [
+        "아",
+        "진짜",
+        ".",
+        "문자",
+        "보",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜? 재미없어?",
+      "tokens": [
+        "왜",
+        "재미없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "방금 재난 문자 받았제?",
+      "tokens": [
+        "방금",
+        "재난",
+        "문자",
+        "받",
+        "았",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어제 영화 보러 가자 했는데",
+      "tokens": [
+        "어제",
+        "영화",
+        "보",
+        "러",
+        "가",
+        "자",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "문자 뭐야?",
+      "tokens": [
+        "문자",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "뭐야?",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "듄 보러 간 사람 신고 하래",
+      "tokens": [
+        "듄",
+        "보",
+        "러",
+        "간",
+        "ETM",
+        "사람",
+        "신고",
+        "하",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "문자 보고 깜짝 놀란...",
+      "tokens": [
+        "문자",
+        "보",
+        "고",
+        "깜짝",
+        "놀란",
+        "ETM",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헐 대박 ㄷㄷ",
+      "tokens": [
+        "헐대박ㄷㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "큰일 날뻔했네",
+      "tokens": [
+        "큰일날",
+        "ETM",
+        "뻔",
+        "했",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "언제 였지?",
+      "tokens": [
+        "언제",
+        "였",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "롯데 시네마!",
+      "tokens": [
+        "롯데시네마"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "코로나 터졌나바여 ㅠㅠ",
+      "tokens": [
+        "코로나",
+        "터졌",
+        "EP",
+        "나바",
+        "여",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "롯시에서...",
+      "tokens": [
+        "롯시",
+        "에서",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 듄 보러갈랬는데",
+      "tokens": [
+        "나",
+        "도",
+        "듄",
+        "보",
+        "러",
+        "갈",
+        "랬",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "역시 영화관은 잠시 중단",
+      "tokens": [
+        "역시",
+        "영화관",
+        "은",
+        "잠시",
+        "중단"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "가좌...?",
+      "tokens": [
+        "가좌",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "거기 있져 ㅠㅠ?",
+      "tokens": [
+        "거기",
+        "있",
+        "져",
+        "VX",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "ㄷㄷ 무서워",
+      "tokens": [
+        "ㄷ",
+        "ㄷ",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "마자 마자",
+      "tokens": [
+        "마",
+        "자마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "문자 보고 놀랬엉",
+      "tokens": [
+        "문자",
+        "보",
+        "고",
+        "놀랬",
+        "EP",
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "와 진짜 안 가길 잘한 ㅠㅠ",
+      "tokens": [
+        "와",
+        "진짜",
+        "안",
+        "가",
+        "길",
+        "JKO",
+        "잘",
+        "한",
+        "ETM",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

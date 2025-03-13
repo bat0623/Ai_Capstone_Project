@@ -1,0 +1,350 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "게임 박람회 가봤냐",
+      "tokens": [
+        "게임",
+        "박람회",
+        "가",
+        "봤",
+        "EP",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 난 가봄 하하",
+      "tokens": [
+        "응",
+        "난가",
+        "봄",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니 박람회도 있어?",
+      "tokens": [
+        "아니",
+        "박람회",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그거 게임 안해도 재밌더라",
+      "tokens": [
+        "그거",
+        "게임",
+        "안",
+        "해도",
+        "EC",
+        "재밌",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "가서 피파쿠폰도 받아옴 하하",
+      "tokens": [
+        "가",
+        "서",
+        "피파",
+        "쿠폰",
+        "도",
+        "받",
+        "아",
+        "옴",
+        "ETN",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 거기 가면 머해?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "거기",
+        "가",
+        "면",
+        "머",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "신작 체험하고 존잼임",
+      "tokens": [
+        "신작",
+        "체험",
+        "하",
+        "고",
+        "존",
+        "잼",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "부산서 하는건데 재밌음 하하",
+      "tokens": [
+        "부산",
+        "서",
+        "하",
+        "는",
+        "건데",
+        "VCP",
+        "EC",
+        "재밌",
+        "음",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 가보고 싶긴해 키키",
+      "tokens": [
+        "나",
+        "도",
+        "가",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "긴",
+        "JX",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "거기 가면 별거 다 있음",
+      "tokens": [
+        "거기",
+        "가",
+        "면",
+        "별거",
+        "VCP",
+        "다",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요새은 안하더라 근데",
+      "tokens": [
+        "요새",
+        "은",
+        "안",
+        "하",
+        "더라",
+        "근데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오 신작 체험 좋을듯",
+      "tokens": [
+        "오",
+        "신작",
+        "체험",
+        "좋",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "새로운 게임 먼저 해볼 수 있음 키키",
+      "tokens": [
+        "새로운",
+        "ETM",
+        "게임",
+        "먼저",
+        "해",
+        "EC",
+        "볼",
+        "ETM",
+        "수",
+        "있",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "코로나 때메 안하는듯 하하",
+      "tokens": [
+        "코로나",
+        "때메",
+        "JKB",
+        "안",
+        "하",
+        "는",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 다음에 다 봐야겠어",
+      "tokens": [
+        "나",
+        "도",
+        "다음",
+        "에다",
+        "봐야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오타쿠들 겁나 많이 옴 키키",
+      "tokens": [
+        "오타쿠",
+        "들",
+        "겁나",
+        "많이",
+        "옴",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그기 줄서서 해야돼",
+      "tokens": [
+        "그기",
+        "줄서",
+        "서",
+        "해야",
+        "EC",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "신작 체험 하고 싶어",
+      "tokens": [
+        "신작",
+        "체험",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

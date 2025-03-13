@@ -1,0 +1,423 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "정촌에서 진짜 5분임",
+      "tokens": [
+        "정촌",
+        "에서",
+        "진짜",
+        "5",
+        "분임"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아요 행님",
+      "tokens": [
+        "맞",
+        "아",
+        "요행",
+        "님"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "가까워요 키키",
+      "tokens": [
+        "가까워",
+        "EC",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "100키로로 밟아서? 키키",
+      "tokens": [
+        "100",
+        "키로",
+        "ETN",
+        "JKB",
+        "로",
+        "밟",
+        "아서",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "거기 가는 길이 뚫렸다구...!",
+      "tokens": [
+        "거기",
+        "가",
+        "는",
+        "길",
+        "이",
+        "뚫렸",
+        "EP",
+        "다구",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "길이 뚫려서 금방입니더",
+      "tokens": [
+        "길",
+        "이",
+        "뚫려서",
+        "EC",
+        "금방",
+        "입",
+        "니더"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 맞다",
+      "tokens": [
+        "아",
+        "맞",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "스트레이트로 뚫렸지.",
+      "tokens": [
+        "스트레이트",
+        "로",
+        "뚫렸",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "새길 나도 봐따",
+      "tokens": [
+        "새길",
+        "ETM",
+        "나",
+        "도",
+        "봐",
+        "EC",
+        "따",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "오빠 진짜임",
+      "tokens": [
+        "오",
+        "빠진",
+        "ETM",
+        "짜임"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "진지함",
+      "tokens": [
+        "진지",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "홍스퍼 타고 와보셈",
+      "tokens": [
+        "홍스퍼타고와보셈"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "진짜 한번 가보세요 키키",
+      "tokens": [
+        "진짜",
+        "한",
+        "번",
+        "가보세요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "거기 한번 지나가봤는데 안에서 헷갈리던데",
+      "tokens": [
+        "거기",
+        "한번",
+        "지나가",
+        "EC",
+        "봤",
+        "EP",
+        "는데",
+        "안",
+        "에서",
+        "헷갈리",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "정촌면민 분노 분노",
+      "tokens": [
+        "정촌면민분노분노"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 키키 분노까지야 키키",
+      "tokens": [
+        "아키",
+        "키",
+        "분노",
+        "까지",
+        "야키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 정촌면 ...",
+      "tokens": [
+        "키키",
+        "정촌면",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "시골이었어",
+      "tokens": [
+        "시골",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "안에서 엄청 헷갈림 하하",
+      "tokens": [
+        "안",
+        "에서",
+        "엄청",
+        "헷갈림",
+        "ETN",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "안에서 헷갈린다고?",
+      "tokens": [
+        "안",
+        "에서",
+        "헷갈린다고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "정촌에 맛있는거 뭐 있나 ...",
+      "tokens": [
+        "정촌",
+        "에",
+        "맛있",
+        "는",
+        "거",
+        "뭐",
+        "있",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 나 면민이잖아 키키",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "면민",
+        "이",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "정촌에 순두부집 맛있어요 키키",
+      "tokens": [
+        "정촌",
+        "에",
+        "순두부",
+        "집",
+        "맛있",
+        "어요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 그 새로 뚫린 길 진주역에서 정촌 방향 갈 때 나 되게 헷갈리더라구",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그",
+        "새로",
+        "뚫린",
+        "ETM",
+        "길",
+        "진주역",
+        "에서",
+        "정촌",
+        "방향",
+        "갈",
+        "ETM",
+        "때",
+        "나",
+        "되게",
+        "헷갈리",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

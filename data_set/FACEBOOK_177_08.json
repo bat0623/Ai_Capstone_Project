@@ -1,0 +1,608 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "연애 잘 하네~",
+      "tokens": [
+        "연애",
+        "잘",
+        "하네",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 연애 잘 하네~",
+      "tokens": [
+        "키",
+        "키",
+        "연애",
+        "잘",
+        "하네",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 둘 다 나한테 얘기하는 거야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "둘",
+        "다",
+        "나",
+        "한테",
+        "얘기",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "웅! **이 연애 잘해서 보기 좋던데?",
+      "tokens": [
+        "웅",
+        "*",
+        "*",
+        "이",
+        "연애",
+        "잘",
+        "해서",
+        "EC",
+        "보",
+        "기",
+        "좋",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 그니까 **이 잘 놀러다니더라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "*",
+        "*",
+        "이",
+        "잘",
+        "놀",
+        "러",
+        "다니",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "간 만에 맛있는 거 많이 먹구 왔다",
+      "tokens": [
+        "간만에",
+        "맛있",
+        "는",
+        "거",
+        "많이",
+        "먹",
+        "구",
+        "왔",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이제 12월 22일까지 또 못먹어ㅠㅠ",
+      "tokens": [
+        "이제",
+        "12",
+        "월",
+        "22",
+        "일",
+        "까지",
+        "또",
+        "못",
+        "먹",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그래도 크리스마스는 잘 즐길 수 있겠네!",
+      "tokens": [
+        "그래도",
+        "크리스마스",
+        "는",
+        "잘",
+        "즐길",
+        "ETM",
+        "수",
+        "있",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 그러겡",
+      "tokens": [
+        "키",
+        "키",
+        "그러",
+        "겡"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아쉽진 않겠다!",
+      "tokens": [
+        "아쉽",
+        "진",
+        "JX",
+        "않",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "즐겁게 놀겠네",
+      "tokens": [
+        "즐겁",
+        "게",
+        "놀",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 맞아",
+      "tokens": [
+        "맞",
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 일부러 그때로 잡았어 키키",
+      "tokens": [
+        "그래서",
+        "일부러",
+        "그때",
+        "로",
+        "잡",
+        "았",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "너희는 데이트할 때 머해?",
+      "tokens": [
+        "너희",
+        "는",
+        "데이트",
+        "할",
+        "ETM",
+        "때",
+        "머",
+        "EC",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러게 뭐해?",
+      "tokens": [
+        "그러게",
+        "뭐",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우리는 술먹엉",
+      "tokens": [
+        "우리",
+        "는",
+        "술",
+        "먹",
+        "엉"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "와 안주 뭐에 먹어?",
+      "tokens": [
+        "와",
+        "안주",
+        "뭐",
+        "에",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리는 데이트할 때 매일 다른 안주를 택하지...",
+      "tokens": [
+        "우리",
+        "는",
+        "데이트",
+        "할",
+        "ETM",
+        "때",
+        "매일",
+        "다른",
+        "안주",
+        "를",
+        "택하",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "너희는 데이트할 때 머하냐구!",
+      "tokens": [
+        "너희",
+        "는",
+        "데이트",
+        "할",
+        "ETM",
+        "때",
+        "머",
+        "EC",
+        "하",
+        "냐구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 데이트할 때마다 술 먹는 다구 ㅎ",
+      "tokens": [
+        "키",
+        "키",
+        "데이트",
+        "할",
+        "ETM",
+        "때",
+        "마다",
+        "술",
+        "먹",
+        "는",
+        "다구",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "너넨 뭐해",
+      "tokens": [
+        "너",
+        "넨",
+        "JX",
+        "뭐",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아아 키키 뭔 소린가했네 키키",
+      "tokens": [
+        "아아",
+        "키키",
+        "뭔",
+        "소린가",
+        "VCP",
+        "EC",
+        "했",
+        "EP",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "우리도 술 먹어 키키",
+      "tokens": [
+        "우리",
+        "도",
+        "술",
+        "먹",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "근데 요즘은 주로 카페 가ㅎ",
+      "tokens": [
+        "근데",
+        "요즘",
+        "은",
+        "주로",
+        "카페",
+        "가",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "이색 데이트 하고 싶땅",
+      "tokens": [
+        "이색",
+        "데이트",
+        "하",
+        "고",
+        "싶",
+        "땅"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "번지점프 할래?",
+      "tokens": [
+        "번지",
+        "점프",
+        "할래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "키키 누구세요...?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "누구",
+        "세요",
+        "EP",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "말 잘못 하신 거 같은 데여",
+      "tokens": [
+        "말",
+        "잘못",
+        "하",
+        "신",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "키키 완전 좋아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "완전",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "나 오늘 가평에서 왔는데 번지점프 너무 재밌어 보이더라",
+      "tokens": [
+        "나",
+        "오늘",
+        "가평",
+        "에서",
+        "왔",
+        "EP",
+        "는데",
+        "번지",
+        "점프",
+        "너무",
+        "재밌",
+        "어",
+        "보이",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 32,
+      "text": "하자",
+      "tokens": [
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_177_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

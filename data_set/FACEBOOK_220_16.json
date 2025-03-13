@@ -1,0 +1,355 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 부럽다 아무튼",
+      "tokens": [
+        "*",
+        "*",
+        "부럽",
+        "다",
+        "아무튼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "피부 좋은 거 부럽 ㅠㅠ",
+      "tokens": [
+        "피부",
+        "좋",
+        "은",
+        "거",
+        "부럽",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "인정 피부는 타고나야",
+      "tokens": [
+        "인정",
+        "피부",
+        "는",
+        "타",
+        "고",
+        "나",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나도 매번 제모 진짜 귀찮",
+      "tokens": [
+        "나",
+        "도",
+        "매번",
+        "제모",
+        "진짜",
+        "귀찮"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 피부 하얗고 싶다 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "피부",
+        "하얗",
+        "고",
+        "싶",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "관리하기 나름이긴 한데 ㅠ",
+      "tokens": [
+        "관리",
+        "하",
+        "기",
+        "나름",
+        "이",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "쟤는 피부가 완전 애기임;",
+      "tokens": [
+        "쟤",
+        "는",
+        "피부",
+        "가",
+        "완전",
+        "애기",
+        "임",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 30년째 까만색이야 피부가",
+      "tokens": [
+        "난",
+        "JX",
+        "30",
+        "년",
+        "째",
+        "까만색",
+        "이",
+        "야",
+        "피부",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나도 이제 나이 먹어가니",
+      "tokens": [
+        "나",
+        "도",
+        "이제",
+        "나이",
+        "먹",
+        "어",
+        "가",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "피부는 까만색이야 쟤도 키키",
+      "tokens": [
+        "피부",
+        "는",
+        "까만색",
+        "이",
+        "야",
+        "쟤",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나도 하얀 사람이고 싶다 ㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "하얀",
+        "ETM",
+        "사람",
+        "이",
+        "고",
+        "싶",
+        "다",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "점점 피부가 상하긴 합니다",
+      "tokens": [
+        "점점",
+        "피부",
+        "가",
+        "상하",
+        "긴",
+        "JX",
+        "합니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 모공 이런 게 전혀 없음",
+      "tokens": [
+        "근데",
+        "모공",
+        "이런",
+        "게",
+        "JKS",
+        "전혀",
+        "없",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 까만색인데 좋은 거야?",
+      "tokens": [
+        "아까",
+        "만색",
+        "인데",
+        "EC",
+        "좋",
+        "은",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래도 모공 이런 거 없는 거 좋습니다",
+      "tokens": [
+        "그래도",
+        "모공",
+        "이런",
+        "거",
+        "없",
+        "는",
+        "거",
+        "좋",
+        "습니다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "완전 신기하다 응",
+      "tokens": [
+        "완전",
+        "신기",
+        "하",
+        "다",
+        "응"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "흑진주 스타일임",
+      "tokens": [
+        "흑진주",
+        "스타일",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 하얀 피부를 원해 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "하얀",
+        "ETM",
+        "피부",
+        "를",
+        "원해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "저도 하얀 피부 ㅍ",
+      "tokens": [
+        "저도하얀피부ㅍ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대 같이 가실 분 ~",
+      "tokens": [
+        "군대",
+        "같이",
+        "가실",
+        "ETM",
+        "분",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 안 갈래요 하하 갔다 와서",
+      "tokens": [
+        "난",
+        "JX",
+        "안",
+        "갈래요",
+        "EC",
+        "하하",
+        "갔",
+        "EP",
+        "다",
+        "와서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "저요 저요!",
+      "tokens": [
+        "저",
+        "요",
+        "저",
+        "요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "저도 군대 가보고 싶어요",
+      "tokens": [
+        "저",
+        "도",
+        "군대",
+        "가",
+        "보",
+        "고",
+        "싶",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리 군대에서 새 사람이 되는 거야!",
+      "tokens": [
+        "우리",
+        "군대",
+        "에서",
+        "새",
+        "사람",
+        "이",
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "다시는 가고 싶지 않아요 하하",
+      "tokens": [
+        "다시",
+        "는",
+        "가",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아요",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 새 사람이 될 수 있겠지",
+      "tokens": [
+        "진짜",
+        "새",
+        "사람",
+        "이",
+        "될",
+        "ETM",
+        "수",
+        "있",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그럼 **이랑 같이 갈게!",
+      "tokens": [
+        "그럼",
+        "*",
+        "*",
+        "이랑",
+        "같이",
+        "갈게",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "둘이 손잡고 가라 그럼 하하",
+      "tokens": [
+        "둘",
+        "이",
+        "손잡",
+        "고",
+        "가",
+        "라",
+        "그럼",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그럼 친구들 다 데리고 가자",
+      "tokens": [
+        "그럼",
+        "친구",
+        "들",
+        "다",
+        "데리",
+        "고",
+        "가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 정신 수련을 하고 오겠어!",
+      "tokens": [
+        "난",
+        "JX",
+        "정신",
+        "수련",
+        "을",
+        "하",
+        "고",
+        "오",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "하루 만에 울면서 나온다에 한표 하하",
+      "tokens": [
+        "하루",
+        "만",
+        "에",
+        "울",
+        "면서",
+        "나온다",
+        "EF",
+        "에",
+        "한",
+        "표",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 좋아",
+      "tokens": [
+        "아",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "살도 빠지겠다?",
+      "tokens": [
+        "살",
+        "도",
+        "빠지",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "특전사 가자 그럼 하하",
+      "tokens": [
+        "특전",
+        "사",
+        "가",
+        "자",
+        "그럼",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "담날 아침에 나올 듯 하하",
+      "tokens": [
+        "담날",
+        "아침",
+        "에",
+        "나올",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "해병대는 어때? 친구야?",
+      "tokens": [
+        "해병대",
+        "는",
+        "어때",
+        "EF",
+        "친구",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래도 면회는 꼭 와!",
+      "tokens": [
+        "그래도",
+        "면회",
+        "는",
+        "꼭",
+        "와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "집에 가고 싶은 사람 손들라고 함 군대 가면 키키",
+      "tokens": [
+        "집",
+        "에",
+        "가",
+        "고",
+        "싶",
+        "은",
+        "사람",
+        "손들",
+        "라고",
+        "함",
+        "ETN",
+        "군대",
+        "가",
+        "면키",
+        "ETN",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "면회 누가 와줄까 과연?",
+      "tokens": [
+        "면회",
+        "누가",
+        "JKS",
+        "와줄까",
+        "EC",
+        "VX",
+        "EF",
+        "과연"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

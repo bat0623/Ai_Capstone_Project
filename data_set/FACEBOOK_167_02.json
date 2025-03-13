@@ -1,0 +1,319 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "월세 넘 아깝당",
+      "tokens": [
+        "월세넘아깝당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 얼른 전세로 옴겨",
+      "tokens": [
+        "그니까",
+        "얼른",
+        "전세",
+        "로",
+        "옴",
+        "겨"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "월세 진짜 버리는 돈 ㅠㅠ",
+      "tokens": [
+        "월세",
+        "진짜",
+        "버리",
+        "는",
+        "돈",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "제발 청년 임대 아파트 알아봐 키키",
+      "tokens": [
+        "제발",
+        "청년",
+        "임대",
+        "아파트",
+        "알아봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "여기 올리움으로 와",
+      "tokens": [
+        "여기",
+        "올리",
+        "움",
+        "으로",
+        "와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 진짜 청년임대 알아볼래요...",
+      "tokens": [
+        "근데",
+        "진짜",
+        "청년",
+        "임대",
+        "알",
+        "아",
+        "볼래요",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "내 친구 **이 집!",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "*",
+        "*",
+        "이",
+        "집"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "여기 엄청 싸데",
+      "tokens": [
+        "여기",
+        "엄청",
+        "싸",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "올리움도 진짜 좋다던데?",
+      "tokens": [
+        "올리",
+        "움",
+        "도",
+        "진짜",
+        "좋",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "올리움 완전 싼뎅",
+      "tokens": [
+        "올리움완전싼뎅"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그니까 좋은듯 에법",
+      "tokens": [
+        "그니까",
+        "좋",
+        "은",
+        "듯",
+        "에",
+        "법"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "주변에도 간 사람 있는데",
+      "tokens": [
+        "주변",
+        "에",
+        "도",
+        "간",
+        "ETM",
+        "사람",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기 월세 8이야!",
+      "tokens": [
+        "거기",
+        "월세",
+        "8",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "여기 한번 알아봐 하하",
+      "tokens": [
+        "여기",
+        "한번",
+        "알아봐",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "안에도 진짜 좋다더라구요~",
+      "tokens": [
+        "안",
+        "에",
+        "도",
+        "진짜",
+        "좋",
+        "다더라구요",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "40이 머선 일이구...",
+      "tokens": [
+        "40",
+        "이",
+        "머",
+        "선일",
+        "이",
+        "구",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그니까 그 돈 모아서 집아사야지",
+      "tokens": [
+        "그니까",
+        "그",
+        "돈",
+        "모아서",
+        "EC",
+        "집",
+        "아",
+        "사",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어떻게 월세가 8...5배네...저는...",
+      "tokens": [
+        "어떻게",
+        "월세",
+        "가",
+        "8",
+        ".",
+        ".",
+        "5",
+        "배",
+        "네",
+        "EF",
+        ".",
+        "저",
+        "는",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_167_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

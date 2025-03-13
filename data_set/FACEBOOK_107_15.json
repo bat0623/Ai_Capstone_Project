@@ -1,0 +1,455 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "미국은 지금 생필품 대란이 일어났대!",
+      "tokens": [
+        "미국",
+        "은",
+        "지금",
+        "생필품",
+        "대란",
+        "이",
+        "일어났",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "뭐 때문에?",
+      "tokens": [
+        "뭐",
+        "때문",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "코로나?",
+      "tokens": [
+        "코로나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어 그 영향인 거 같은데 평균적으로 생필품 비용이 20%나 올랐대!",
+      "tokens": [
+        "어",
+        "그",
+        "영향",
+        "인",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "평균",
+        "적",
+        "으로",
+        "생필품",
+        "비용",
+        "이",
+        "20",
+        "%",
+        "나",
+        "올랐",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "미국은 위드 코로나 아니야?",
+      "tokens": [
+        "미국",
+        "은",
+        "위드",
+        "코로나",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 근데 그거랑 별개로 이제 생산 쪽이나 그런 쪽에 문제가 있나 봐!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "그거",
+        "랑",
+        "별개",
+        "로",
+        "이제",
+        "생산",
+        "쪽",
+        "이나",
+        "그런",
+        "쪽",
+        "에",
+        "문제",
+        "가",
+        "있",
+        "나",
+        "봐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "우리도 그렇게 되면 어떡해?ㅠ",
+      "tokens": [
+        "우리",
+        "도",
+        "그렇게",
+        "되",
+        "면",
+        "어떡",
+        "해",
+        "EF",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "한국처럼 미국도 지금 취업난이 장난이 아니래!",
+      "tokens": [
+        "한국",
+        "처럼",
+        "미국",
+        "도",
+        "지금",
+        "취업",
+        "난이",
+        "장난",
+        "이",
+        "아니",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "왜 그렇지 망했나?",
+      "tokens": [
+        "왜",
+        "그렇",
+        "지",
+        "망했",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "코로나 때문에  생산이 위축되고 그래서 그렇지!",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "생산",
+        "이",
+        "위축",
+        "되",
+        "고",
+        "그래서",
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "고용 문제가 장난이 아니래!",
+      "tokens": [
+        "고용",
+        "문제",
+        "가",
+        "장난",
+        "이",
+        "아니",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "코로나 진짜 짜증나 언제 끝나...",
+      "tokens": [
+        "코로나진짜짜증나언제끝나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "ㅜㅜ 그러니까 아니 연봉은 5%가 올랐는데 생필품 비용은 20%나 오르면 뭐야?",
+      "tokens": [
+        "ㅜㅜ그러니까아니연봉은",
+        "5",
+        "%",
+        "가",
+        "올랐",
+        "EP",
+        "는데",
+        "생필품",
+        "비용",
+        "은",
+        "20",
+        "%",
+        "나",
+        "오르",
+        "면",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "진짜 장난하나 거지 되라는 거지",
+      "tokens": [
+        "진짜",
+        "장난",
+        "하나",
+        "거지",
+        "되",
+        "라는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 그러니까, 진짜 생필품은 솔직히 가격 올리면 안 되는 거 아니야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그러니까",
+        ",",
+        "진짜",
+        "생필품",
+        "은",
+        "솔직히",
+        "가격",
+        "올리",
+        "면",
+        "안",
+        "되",
+        "는",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "생필품은 진짜 오르면 안된다고 생각해 나도",
+      "tokens": [
+        "생필품",
+        "은",
+        "진짜",
+        "오르",
+        "면",
+        "안",
+        "된다고",
+        "EC",
+        "생각",
+        "해",
+        "EC",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "이게 악순환이래 가격 올리면 임금 올리고 임금 올리면 가격 올리고!",
+      "tokens": [
+        "이게",
+        "JKS",
+        "악순환",
+        "이래",
+        "가격",
+        "올리",
+        "면",
+        "임금",
+        "올리",
+        "고",
+        "임금",
+        "올리",
+        "면",
+        "가격",
+        "올리",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "우리 지금 미리 사 놓자 키키",
+      "tokens": [
+        "우리",
+        "지금",
+        "미리",
+        "사놓",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

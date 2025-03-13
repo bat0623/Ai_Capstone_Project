@@ -1,0 +1,587 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 중국에서 살았으면 진짜 힘들었을 것 같아...",
+      "tokens": [
+        "난",
+        "JX",
+        "중국",
+        "에서",
+        "살",
+        "았",
+        "으면",
+        "진짜",
+        "힘들",
+        "었",
+        "을",
+        "것",
+        "같",
+        "아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나도... 한국에 태어난 게 감사해",
+      "tokens": [
+        "나",
+        "도",
+        ".",
+        ".",
+        "한국",
+        "에",
+        "태어난",
+        "ETM",
+        "게",
+        "JKS",
+        "감사",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 한국이 다른 어디보다 제일 좋은 거 같아",
+      "tokens": [
+        "키키",
+        "한국",
+        "이",
+        "다른",
+        "어디",
+        "보다",
+        "제일",
+        "좋",
+        "은",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "진짜 중국이나 북한처럼 공산주의에서 태어나면 넘 힘들어...",
+      "tokens": [
+        "진짜",
+        "중국",
+        "이나",
+        "북한",
+        "처럼",
+        "공산주의",
+        "에서",
+        "태어나",
+        "면",
+        "넘",
+        "힘들",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그니까 그리고 어릴 때부터 세뇌교육 넘 심해",
+      "tokens": [
+        "그니까",
+        "그리고",
+        "어릴",
+        "ETM",
+        "때",
+        "부터",
+        "세뇌",
+        "교육",
+        "넘",
+        "심해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "무서웡",
+      "tokens": [
+        "무서",
+        "EF",
+        "웡"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니까 ㅠㅠ 공산주의는 막 사람들 앞에서 죽인데자나",
+      "tokens": [
+        "그니까",
+        "ㅠㅠ",
+        "공산주의",
+        "는",
+        "막",
+        "사람",
+        "들",
+        "앞",
+        "에서",
+        "죽인",
+        "ETM",
+        "데",
+        "자나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 말도 안돼 그건...",
+      "tokens": [
+        "진짜",
+        "말",
+        "도",
+        "안",
+        "돼",
+        "EF",
+        "그건",
+        "JX",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "넘 무서워",
+      "tokens": [
+        "넘",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그니까 나 유튜브로 그 북한 수용소 다녀온 사람 영상 봤는데 넘 무서워",
+      "tokens": [
+        "그니까",
+        "나",
+        "유튜브",
+        "로",
+        "그",
+        "북한",
+        "수용소",
+        "다녀온",
+        "ETM",
+        "사람",
+        "영상",
+        "봤",
+        "EP",
+        "는데",
+        "넘",
+        "무서워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "앵?",
+      "tokens": [
+        "앵"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그런 영상도 있어?",
+      "tokens": [
+        "그런",
+        "영상",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "헐 그니까 근데 북한 사람들도 유튜브 많이 하드라",
+      "tokens": [
+        "헐",
+        "그니까",
+        "근데",
+        "북한",
+        "사람",
+        "들",
+        "도",
+        "유튜브",
+        "많이",
+        "하",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리나라 와서",
+      "tokens": [
+        "우리",
+        "나라",
+        "와서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그니까 진짜 유튜브가 대세인가",
+      "tokens": [
+        "그니까",
+        "진짜",
+        "유튜브",
+        "가",
+        "대세",
+        "인가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "요새 초딩들 꿈도 유튜브가 압도적으로 많다나",
+      "tokens": [
+        "요새",
+        "초딩",
+        "들",
+        "꿈",
+        "도",
+        "유튜브",
+        "가",
+        "압도",
+        "적",
+        "으로",
+        "많",
+        "다나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 유튜브하면 유명해질까 바 부러운 건가?",
+      "tokens": [
+        "키키",
+        "유튜브",
+        "하",
+        "면",
+        "유명",
+        "해질까",
+        "EC",
+        "VX",
+        "EC",
+        "바",
+        "부러운",
+        "ETM",
+        "건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그니까 진짜 외국인들도 많고... 참 좋아",
+      "tokens": [
+        "그니까",
+        "진짜",
+        "외국인",
+        "들",
+        "도",
+        "많",
+        "고",
+        ".",
+        ".",
+        "참",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아 맞아",
+      "tokens": [
+        "맞",
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "미국 어디 제약서에서 코로나 치료제 만들었자나",
+      "tokens": [
+        "미국",
+        "어디",
+        "제",
+        "JKG",
+        "약서",
+        "에서",
+        "코로나",
+        "치료제",
+        "만들",
+        "었",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "얼른 풀렸으면 좋겠다",
+      "tokens": [
+        "얼른",
+        "풀렸으면",
+        "EP",
+        "EC",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "근데 마스크 벗으면 뭔가 그럴 듯 키키",
+      "tokens": [
+        "근데",
+        "마스크",
+        "벗",
+        "으면",
+        "뭔가",
+        "VCP",
+        "EC",
+        "그럴",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "오 빨리 풀려라 진짜ㅜ",
+      "tokens": [
+        "오",
+        "빨리",
+        "풀려",
+        "EC",
+        "라진",
+        "짜ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "마스크 벗기 싫어...",
+      "tokens": [
+        "마스크",
+        "벗",
+        "기",
+        "싫",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "추워 겨울에",
+      "tokens": [
+        "추워",
+        "EC",
+        "겨울",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "앜 키키 난 마스크 싫어ㅠㅠ",
+      "tokens": [
+        "앜키",
+        "키난",
+        "마스크",
+        "싫",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "벗고 싶어!",
+      "tokens": [
+        "벗",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "답답해",
+      "tokens": [
+        "답답",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "키키 이제는 난 익숙하던데...",
+      "tokens": [
+        "키",
+        "키",
+        "이제",
+        "는",
+        "난",
+        "JX",
+        "익숙",
+        "하",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_172_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

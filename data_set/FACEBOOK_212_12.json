@@ -1,0 +1,392 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "서해 쪽 여행 가보신 분",
+      "tokens": [
+        "서해",
+        "쪽",
+        "여행",
+        "가보",
+        "신분"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "대학생 때 가본 듯?",
+      "tokens": [
+        "대학생",
+        "때",
+        "가",
+        "본",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "감성 캠핑이 요새 여행 트렌드래",
+      "tokens": [
+        "감성",
+        "캠핑",
+        "이",
+        "요새",
+        "여행",
+        "트렌드",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "서해안은 나 안 가본 거 같아",
+      "tokens": [
+        "서해안",
+        "은",
+        "나",
+        "안",
+        "가",
+        "EC",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "대청 바다로 놀러 갔음 키키",
+      "tokens": [
+        "대청",
+        "바다",
+        "로",
+        "놀러갔",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "서해 너무 별로임",
+      "tokens": [
+        "서해",
+        "너무",
+        "별로",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "넌 트렌드에 관심이 많구나?",
+      "tokens": [
+        "넌",
+        "JX",
+        "트렌드",
+        "에",
+        "관심",
+        "이",
+        "많",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 바다는 별로임",
+      "tokens": [
+        "근데",
+        "바다",
+        "는",
+        "별로",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그냥 그래 키키",
+      "tokens": [
+        "그냥",
+        "그래",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "서해 조개구이 절대 먹지 마라",
+      "tokens": [
+        "서해",
+        "조개",
+        "구이",
+        "절대",
+        "먹",
+        "지",
+        "마",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "난 나만의 길을 간다",
+      "tokens": [
+        "난",
+        "JX",
+        "나",
+        "만",
+        "의",
+        "길",
+        "을",
+        "간다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "근데 조개구이는 먹었지 키키",
+      "tokens": [
+        "근데",
+        "조개",
+        "구이",
+        "는",
+        "먹",
+        "었",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "트렌드 세터로써 역할을 다하는 거지 뭐",
+      "tokens": [
+        "트렌드",
+        "세터",
+        "로써",
+        "역할",
+        "을",
+        "다",
+        "하",
+        "는",
+        "거",
+        "지",
+        "EF",
+        "뭐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나의 길은 낚시다 키키",
+      "tokens": [
+        "나",
+        "의",
+        "길",
+        "은",
+        "낚시",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그게 유명했나 보네 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "유명",
+        "했",
+        "EP",
+        "나",
+        "보",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "핫한 남자란다 나는",
+      "tokens": [
+        "핫",
+        "한",
+        "ETM",
+        "남자",
+        "란",
+        "다",
+        "나",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "상당히 트렌드에  민감하에",
+      "tokens": [
+        "상당히",
+        "트렌드",
+        "에",
+        "민감",
+        "하",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "낚시로 서해 한번 가봐 키키",
+      "tokens": [
+        "낚시",
+        "로",
+        "서해",
+        "한",
+        "번",
+        "가",
+        "봐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "트렌디한 남자라고도 하지",
+      "tokens": [
+        "트렌디",
+        "한",
+        "남자",
+        "라고",
+        "EC",
+        "도",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "여행 트렌드 전문가",
+      "tokens": [
+        "여행",
+        "트렌드",
+        "전문가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

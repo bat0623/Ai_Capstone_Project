@@ -1,0 +1,379 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "혁신에 무슨 아파트 분양 한대?",
+      "tokens": [
+        "혁신",
+        "에",
+        "무슨",
+        "아파트",
+        "분양",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 원룸을 시골에 짓고 싶어",
+      "tokens": [
+        "난",
+        "JX",
+        "원룸",
+        "을",
+        "시골",
+        "에",
+        "짓",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 혁신에 끝남",
+      "tokens": [
+        "키",
+        "키",
+        "혁신",
+        "에",
+        "끝남",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "또 한다고?",
+      "tokens": [
+        "또",
+        "한다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이름 모야",
+      "tokens": [
+        "이름",
+        "모야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "혁신에 힐스테이트라는 거 같던데",
+      "tokens": [
+        "혁신",
+        "에",
+        "힐",
+        "스테이트",
+        "라는",
+        "ETM",
+        "거",
+        "같",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "분양 더샵 말하는 거 아니가 키키",
+      "tokens": [
+        "분양",
+        "더샵",
+        "말",
+        "하",
+        "는",
+        "거",
+        "아니",
+        "가",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "더샵은 초전이잖아",
+      "tokens": [
+        "더샵",
+        "은",
+        "초전",
+        "이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "또 다른 거 하나 있음 분양",
+      "tokens": [
+        "또",
+        "다른",
+        "거",
+        "하",
+        "나",
+        "있",
+        "음",
+        "분양"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아아 힐스테이트가 생기는 거가 초전에 있자나 키키",
+      "tokens": [
+        "아아",
+        "힐",
+        "스테이트",
+        "가",
+        "생기",
+        "는",
+        "거",
+        "가",
+        "초전",
+        "에",
+        "있",
+        "자",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "힐스테이트를 분양한다고?",
+      "tokens": [
+        "힐",
+        "스테이트",
+        "를",
+        "분양",
+        "한다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 이번에 하려고 청약",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "하",
+        "려고",
+        "청약"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아아 혁신 맞네 맞네 키키",
+      "tokens": [
+        "아아",
+        "혁신",
+        "맞",
+        "네",
+        "맞",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까... 어디 넣냐고",
+      "tokens": [
+        "그니까",
+        ".",
+        "어디",
+        "넣",
+        "냐고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 신혼집 마련해야지",
+      "tokens": [
+        "나",
+        "도",
+        "신혼집",
+        "마련",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이번에도 도전해봐야지 키키",
+      "tokens": [
+        "이번",
+        "에",
+        "도",
+        "도전",
+        "해봐야",
+        "EC",
+        "VX",
+        "EC",
+        "VX",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 알려줘 키키",
+      "tokens": [
+        "나",
+        "도",
+        "알려줘",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "궁금쓰",
+      "tokens": [
+        "궁금",
+        "쓰"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 꼭 성공해라 로또임",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "꼭",
+        "성공",
+        "해라",
+        "EC",
+        "로또",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "거기 난 가좌 확인 안 했네 키키",
+      "tokens": [
+        "거기",
+        "난",
+        "JX",
+        "가좌",
+        "확인",
+        "안",
+        "했",
+        "EP",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

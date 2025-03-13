@@ -1,0 +1,362 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 사회이슈가 뭐있을까?",
+      "tokens": [
+        "요즘",
+        "사회",
+        "이슈",
+        "가",
+        "뭐",
+        "있",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 부산행이 인기라더라",
+      "tokens": [
+        "요즘",
+        "에",
+        "부",
+        "산행",
+        "이",
+        "인기",
+        "라더라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "내년에 대통령선거 한대",
+      "tokens": [
+        "내년",
+        "에",
+        "대통령",
+        "선거",
+        "한대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아 키키 대선 때문에 난리더라구",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "대선",
+        "때문",
+        "에",
+        "난리",
+        "더라구",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "기차를 타보니 너무 공감이 되더라",
+      "tokens": [
+        "기차",
+        "를",
+        "타",
+        "EC",
+        "보",
+        "니",
+        "너무",
+        "공감",
+        "이",
+        "되",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "대선 때 노래 때문에 시끄러ㅏ워 죽겠어",
+      "tokens": [
+        "대선",
+        "때",
+        "노래",
+        "때문",
+        "에",
+        "시끄러",
+        "EC",
+        "ㅏ워",
+        "죽",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "투표는 민주주의 의 꽃이야 하하",
+      "tokens": [
+        "투표",
+        "는",
+        "민주주의",
+        "의",
+        "꽃",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "누가되든 잘 했으면 좋겠어",
+      "tokens": [
+        "누가",
+        "JKS",
+        "되",
+        "든",
+        "잘",
+        "했",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "비밀투표는 꼭 지켜야 되더라",
+      "tokens": [
+        "비밀",
+        "투표",
+        "는",
+        "꼭",
+        "지켜야",
+        "EC",
+        "되",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "다들 투표는 꼭하자구 하하",
+      "tokens": [
+        "다",
+        "들",
+        "투표",
+        "는",
+        "꼭",
+        "하",
+        "자",
+        "구하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "다들 투표권을 꼭 행사하자",
+      "tokens": [
+        "다",
+        "들",
+        "투표",
+        "권",
+        "을",
+        "꼭",
+        "행사",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "투표는 무조건 해야해",
+      "tokens": [
+        "투표",
+        "는",
+        "무조건",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "비밀 투표는 당연한거야 21세기에 하하",
+      "tokens": [
+        "비밀",
+        "투표",
+        "는",
+        "당연",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "21",
+        "세기",
+        "에",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "요즘에 지진도 많이 난다더라",
+      "tokens": [
+        "요즘",
+        "에",
+        "지진",
+        "도",
+        "많이",
+        "난다더라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "지진때문에 피해가 크지",
+      "tokens": [
+        "지진",
+        "때문",
+        "에",
+        "피해",
+        "가",
+        "크",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "무슨 일이있어도 난 투표를 할꺼야 하하",
+      "tokens": [
+        "무슨",
+        "일",
+        "이",
+        "있",
+        "어도",
+        "난",
+        "ETM",
+        "투표",
+        "를",
+        "할꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "법 제도가 잘 되었으면 좋겠어",
+      "tokens": [
+        "법제도",
+        "가",
+        "잘",
+        "되",
+        "었",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "지진은 어디가 많이 나?",
+      "tokens": [
+        "지진",
+        "은",
+        "어디",
+        "가",
+        "많이",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

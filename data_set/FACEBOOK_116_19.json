@@ -1,0 +1,473 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 실제로 봤던 연예인 있었어?",
+      "tokens": [
+        "언니",
+        "는",
+        "실제로",
+        "봤",
+        "EP",
+        "던",
+        "연예인",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 공항에서 많이 봤던 거 같어",
+      "tokens": [
+        "나",
+        "공항",
+        "에서",
+        "많이",
+        "봤",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "오 진짜?",
+      "tokens": [
+        "오",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "공항에서 어떤 사람 봤어?",
+      "tokens": [
+        "공항",
+        "에서",
+        "어떤",
+        "사람",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 저번에 유노윤호 봤던 거 같은데",
+      "tokens": [
+        "나",
+        "저번",
+        "에",
+        "유노윤호",
+        "봤",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "유노윤호?",
+      "tokens": [
+        "유노윤호"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그 사람 얼굴 진짜 작대!",
+      "tokens": [
+        "그",
+        "사람",
+        "얼굴",
+        "진짜",
+        "작",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "연예인들은 다 얼굴이 작아 ㅠ",
+      "tokens": [
+        "연예인",
+        "들",
+        "은",
+        "다",
+        "얼굴",
+        "이",
+        "작",
+        "아",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 일본 갔을 때 촬영을 하는 거야",
+      "tokens": [
+        "나",
+        "는",
+        "일본",
+        "갔",
+        "EP",
+        "을",
+        "때",
+        "촬영",
+        "을",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 한국말을 하는 거야!",
+      "tokens": [
+        "근데",
+        "한국",
+        "말",
+        "을",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 설마 연예인 봤어?",
+      "tokens": [
+        "헐",
+        "설마",
+        "연예인",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "어 근데 딱 보니까 아이돌 같았거든?",
+      "tokens": [
+        "어",
+        "근데",
+        "딱",
+        "보",
+        "니까",
+        "아이돌",
+        "같",
+        "았",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 내 친구들도 그렇고 나도 그렇고 아이돌에 관심이 없어서 누구인지 몰랐어!",
+      "tokens": [
+        "근데",
+        "내",
+        "친구",
+        "들",
+        "도",
+        "그렇",
+        "고",
+        "나",
+        "도",
+        "그렇",
+        "고",
+        "아이돌",
+        "에",
+        "관심",
+        "이",
+        "없",
+        "어서",
+        "누구",
+        "인지",
+        "EC",
+        "몰랐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아이돌이면 무조건 사인 해달라고 해야지!",
+      "tokens": [
+        "아이돌",
+        "이",
+        "면",
+        "무조건",
+        "사인",
+        "해",
+        "EC",
+        "달",
+        "라고",
+        "해야지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 근데 촬영 중이라 그냥 얼굴만 봤거든?",
+      "tokens": [
+        "아",
+        "근데",
+        "촬영",
+        "중",
+        "이",
+        "라",
+        "그냥",
+        "얼굴",
+        "만",
+        "봤",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "다 귀엽게 생겼더라!",
+      "tokens": [
+        "다",
+        "귀엽",
+        "게",
+        "생겼",
+        "EP",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 아 사인 못 받은 거 너무 아쉽다",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "사인",
+        "JX",
+        "못",
+        "받",
+        "은",
+        "거",
+        "너무",
+        "아쉽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어 키키 근데 대충 들어보니까 어떤 프로그램인지 이름을 알아냈던 거야!",
+      "tokens": [
+        "어",
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "대충",
+        "들",
+        "어",
+        "보",
+        "니까",
+        "어떤",
+        "프로그램",
+        "인지",
+        "EC",
+        "이름",
+        "을",
+        "알아냈",
+        "EP",
+        "던",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "연예인 누군지도 알아 냈어?",
+      "tokens": [
+        "연예",
+        "인",
+        "ETM",
+        "누군지",
+        "VCP",
+        "EC",
+        "도",
+        "알아냈",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "어 그때 세븐틴!?",
+      "tokens": [
+        "어",
+        "그때",
+        "세븐",
+        "틴",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그 친구들 완전 신인이었을 때!",
+      "tokens": [
+        "그",
+        "친구",
+        "들",
+        "완전",
+        "신인",
+        "이",
+        "었",
+        "을",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "헐... 내 동생이 진짜 좋아하는데!",
+      "tokens": [
+        "헐",
+        ".",
+        "내",
+        "JKG",
+        "동생",
+        "이",
+        "진짜",
+        "좋",
+        "아",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

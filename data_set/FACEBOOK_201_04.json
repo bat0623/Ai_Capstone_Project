@@ -1,0 +1,429 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "회사에서 고사 안 지냄?",
+      "tokens": [
+        "회사",
+        "에서",
+        "고사",
+        "안",
+        "지냄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어 나는 잘 기억이 안 나...",
+      "tokens": [
+        "어",
+        "나",
+        "는",
+        "잘",
+        "기억",
+        "이",
+        "안",
+        "나",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "회사에서 요즘 고사 지낼 일이 잘 있나 ...",
+      "tokens": [
+        "회사",
+        "에서",
+        "요즘",
+        "고사",
+        "지낼",
+        "ETM",
+        "일",
+        "이",
+        "잘",
+        "있",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 남편 회사는 매달 고사 지낸대",
+      "tokens": [
+        "우리",
+        "남편",
+        "회사",
+        "는",
+        "매달",
+        "고",
+        "사",
+        "지",
+        "낸",
+        "ETM",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이상하게 기억이 안 나네...",
+      "tokens": [
+        "이상",
+        "하",
+        "게",
+        "기억",
+        "이",
+        "안",
+        "나",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오잉 안전 관련된 회산가",
+      "tokens": [
+        "오잉",
+        "안전",
+        "관련",
+        "된",
+        "ETM",
+        "회산",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "매달 지내야 회사가 잘된다며",
+      "tokens": [
+        "매달",
+        "지내",
+        "야",
+        "회사",
+        "가",
+        "잘",
+        "된다며",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그런 게 또 있구나 키키",
+      "tokens": [
+        "그런",
+        "게",
+        "JKS",
+        "또",
+        "있",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그런 게 어딨어 ...",
+      "tokens": [
+        "그런",
+        "게",
+        "JKS",
+        "어딨",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "고사 비용이 더 나오겠다",
+      "tokens": [
+        "고사",
+        "비용",
+        "이",
+        "더",
+        "나오",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 사장님이 미신 덩어리신듯 키키",
+      "tokens": [
+        "키",
+        "키",
+        "사장",
+        "님",
+        "이",
+        "미신",
+        "덩어리",
+        "신",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 그런 거 잘 믿으시나 보다 키키",
+      "tokens": [
+        "키키",
+        "그런",
+        "거",
+        "잘",
+        "믿",
+        "으시",
+        "나",
+        "보다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 진짜 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "반도체 회사도 부지선정 무당이 한다드니",
+      "tokens": [
+        "반도체",
+        "회사",
+        "도",
+        "부지",
+        "선정",
+        "무당",
+        "이",
+        "한다드니",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리 회사도 고사 지내야겠어",
+      "tokens": [
+        "우리",
+        "회사",
+        "도",
+        "고사",
+        "지내",
+        "야",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 잘 신경을 안 써 키키",
+      "tokens": [
+        "나",
+        "는",
+        "잘",
+        "신경",
+        "을",
+        "안",
+        "써",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "웅 ...",
+      "tokens": [
+        "웅",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "박쥐컴퍼니 고사 한번 지내자",
+      "tokens": [
+        "박쥐",
+        "컴퍼니",
+        "고사",
+        "한",
+        "번",
+        "지내",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 봤음 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "봤",
+        "EP",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "개 소름 끼친다",
+      "tokens": [
+        "개",
+        "소름",
+        "끼친다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "박사장님 돼지머리 준비할까요? 키키",
+      "tokens": [
+        "박사장",
+        "님",
+        "돼지",
+        "머리",
+        "준비",
+        "할까요",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "연매출 확 끌어올려야지",
+      "tokens": [
+        "연",
+        "매출",
+        "확",
+        "끌어올려야",
+        "EC",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

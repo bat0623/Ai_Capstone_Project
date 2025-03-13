@@ -1,0 +1,393 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "향수 사려고 했는데...",
+      "tokens": [
+        "향수",
+        "사",
+        "려고",
+        "했",
+        "EP",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "무서워서 못 사는거아냐 키키",
+      "tokens": [
+        "무서워서",
+        "EC",
+        "못사",
+        "는",
+        "거",
+        "아냐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 향수값 너무 들쭉날쭉하지 않아?",
+      "tokens": [
+        "키",
+        "키",
+        "향수",
+        "값",
+        "너무",
+        "들쭉날쭉",
+        "하",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "유튜브 보고 마음 접었잖아 하하",
+      "tokens": [
+        "유튜브",
+        "보고",
+        "마음",
+        "접",
+        "었잖",
+        "VX",
+        "아",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "좋은 향 있으면 추천해쥬 !",
+      "tokens": [
+        "좋",
+        "은",
+        "향",
+        "있",
+        "으면",
+        "추천",
+        "해",
+        "EC",
+        "쥬",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "인터넷에 짝퉁도 많다던데 ...",
+      "tokens": [
+        "인터넷",
+        "에",
+        "짝퉁",
+        "도",
+        "많",
+        "다던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "향수 넘 싼거는 의심의심",
+      "tokens": [
+        "향수",
+        "넘",
+        "싼",
+        "ETM",
+        "거",
+        "는",
+        "의심",
+        "의심"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "요즘 워낙 안써서 모름 ㅠ",
+      "tokens": [
+        "요즘",
+        "워낙",
+        "안",
+        "써서",
+        "EC",
+        "모름",
+        "ETN",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "마찌...",
+      "tokens": [
+        "마",
+        "찌",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거 짝퉁일수도이써",
+      "tokens": [
+        "그거",
+        "짝퉁",
+        "일",
+        "ETM",
+        "수",
+        "도",
+        "이",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "인터넷에 싼거는 거의 짝퉁이래...!",
+      "tokens": [
+        "인터넷",
+        "에",
+        "싼",
+        "ETM",
+        "거",
+        "는",
+        "거의",
+        "짝퉁",
+        "이",
+        "래",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어릴 땐 뿌리고 댕기고 했는데",
+      "tokens": [
+        "어릴",
+        "ETM",
+        "땐",
+        "JX",
+        "뿌리",
+        "고",
+        "댕기",
+        "고",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 요즘 만날사람도 없고 ...",
+      "tokens": [
+        "키",
+        "키",
+        "요즘",
+        "만날",
+        "ETM",
+        "사람",
+        "도",
+        "없",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아 그거 짝퉁이라 했어...!",
+      "tokens": [
+        "맞",
+        "아",
+        "그거",
+        "짝퉁",
+        "이",
+        "라",
+        "했",
+        "EP",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그거 물타는 건가 그럼 ?",
+      "tokens": [
+        "그거",
+        "물",
+        "타",
+        "는",
+        "건가",
+        "VCP",
+        "EF",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "조향만 비슷하게하지 않을까?",
+      "tokens": [
+        "조향",
+        "만",
+        "비슷",
+        "하",
+        "게",
+        "하",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "정가는 세상 비싸당",
+      "tokens": [
+        "정가",
+        "는",
+        "세상",
+        "비싸",
+        "EC",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그니까 생각보다 비쌈 !",
+      "tokens": [
+        "그니까",
+        "생각",
+        "보다",
+        "비",
+        "쌈"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "원가 얼마나 하게써 ...",
+      "tokens": [
+        "원가",
+        "얼마나",
+        "하",
+        "게",
+        "써",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "향조합이 힘든거지",
+      "tokens": [
+        "향조",
+        "합",
+        "이",
+        "힘든",
+        "ETM",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

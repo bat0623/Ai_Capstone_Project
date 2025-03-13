@@ -1,0 +1,371 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나 어제 알바 구했어",
+      "tokens": [
+        "나",
+        "어제",
+        "알",
+        "ETM",
+        "바",
+        "구했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 취직하기가 너무 힘들어",
+      "tokens": [
+        "요즘",
+        "에",
+        "취직",
+        "하",
+        "기",
+        "가",
+        "너무",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "알바 자리 구하기도 힘들어",
+      "tokens": [
+        "알바",
+        "자리",
+        "구하",
+        "기",
+        "도",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "술집 알바를 구했어 난 키키",
+      "tokens": [
+        "술집",
+        "알",
+        "ETM",
+        "바",
+        "를",
+        "구했",
+        "EP",
+        "어",
+        "난키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "무슨 알바를 구했니?",
+      "tokens": [
+        "무슨",
+        "알",
+        "ETM",
+        "바",
+        "를",
+        "구했",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "술집 알바 바쁘지 않니?",
+      "tokens": [
+        "술집",
+        "알",
+        "ETM",
+        "바",
+        "바쁘",
+        "지",
+        "않",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아 알바 진짜 겨우 구했어",
+      "tokens": [
+        "맞",
+        "아",
+        "알",
+        "바",
+        "진짜",
+        "겨우",
+        "구했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "요즘에 술집 알바 위험하잖아",
+      "tokens": [
+        "요즘",
+        "에",
+        "술집",
+        "알바",
+        "위험",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "낮에 알바 할려면 시간이 없어",
+      "tokens": [
+        "낮",
+        "에",
+        "알",
+        "ETM",
+        "바",
+        "할려면",
+        "EC",
+        "시간",
+        "이",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "요즘 공고에 너무 없더라구 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "공고",
+        "에",
+        "너무",
+        "없",
+        "더라구",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "알바를 구하다니 대단하구나",
+      "tokens": [
+        "알바",
+        "를",
+        "구하",
+        "다니",
+        "대단",
+        "하",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "요즘 시기에 알바 자리가 없어 나도 하고 싶은데",
+      "tokens": [
+        "요즘",
+        "시기",
+        "에",
+        "알",
+        "ETM",
+        "바",
+        "자리",
+        "가",
+        "없",
+        "어",
+        "나",
+        "도",
+        "하",
+        "고",
+        "싶",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "술집 알바는 팁이 많잖아 키키",
+      "tokens": [
+        "술집",
+        "알",
+        "ETM",
+        "바",
+        "는",
+        "팁",
+        "이",
+        "많",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "알바는 밤에 해야지 제 맛이지",
+      "tokens": [
+        "알바",
+        "는",
+        "밤",
+        "에",
+        "해야지",
+        "EF",
+        "제",
+        "JKG",
+        "맛",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "술집알바가 재미가 있지",
+      "tokens": [
+        "술집",
+        "알",
+        "ETM",
+        "바",
+        "가",
+        "재미",
+        "가",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "낮에는 거의 없더라구 ㅠㅠ",
+      "tokens": [
+        "낮",
+        "에",
+        "는",
+        "거의",
+        "없",
+        "더라구",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 카페 알바를 하고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "카페",
+        "알",
+        "ETM",
+        "바",
+        "를",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 카페 알바 해보고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "카페",
+        "알",
+        "ETM",
+        "바",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

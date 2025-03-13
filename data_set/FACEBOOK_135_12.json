@@ -1,0 +1,415 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "제주도 여행 가 봤어?",
+      "tokens": [
+        "제주도",
+        "여행가",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "제주도는 많이 가 봤지 키키",
+      "tokens": [
+        "제주도",
+        "는",
+        "많이",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "제주도 여행은 가 봤지!",
+      "tokens": [
+        "제주도",
+        "여행",
+        "은",
+        "가",
+        "EC",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "한라산 올라가 봤어?",
+      "tokens": [
+        "한라산",
+        "올라가",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "올라가 봤지? 키키",
+      "tokens": [
+        "올라가",
+        "EC",
+        "봤",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "고딩 때 수학여행",
+      "tokens": [
+        "고딩",
+        "때",
+        "수학여행"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어디가 좋았어",
+      "tokens": [
+        "어디",
+        "가",
+        "좋",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "여행 갔을 때?",
+      "tokens": [
+        "여행",
+        "갔",
+        "EP",
+        "을",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "한라산이 우리나라에서 제일 높대...",
+      "tokens": [
+        "한라산",
+        "이",
+        "우리",
+        "나라",
+        "에서",
+        "제일",
+        "높",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그건 알았어?",
+      "tokens": [
+        "그건",
+        "JX",
+        "알",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 강릉 제주가 좋더라",
+      "tokens": [
+        "나",
+        "는",
+        "강릉",
+        "제주",
+        "가",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 고딩 수학여행 때...",
+      "tokens": [
+        "나",
+        "도",
+        "고딩",
+        "수학여행",
+        "때",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 얼마 전에 알았어",
+      "tokens": [
+        "난",
+        "JX",
+        "얼마",
+        "전",
+        "에",
+        "알",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "바다가 좋나 봐 키키",
+      "tokens": [
+        "바다",
+        "가",
+        "좋",
+        "나",
+        "봐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 응응",
+      "tokens": [
+        "키",
+        "키",
+        "응응"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "제일 높아서 너무 싫었어",
+      "tokens": [
+        "제일",
+        "높",
+        "아서",
+        "너무",
+        "싫",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "강릉 제주가 뭐야?",
+      "tokens": [
+        "강릉",
+        "제주",
+        "가",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아 강릉이랑 제주",
+      "tokens": [
+        "아",
+        "강릉",
+        "이랑",
+        "제주"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "지리산보다 높아 한라산이?",
+      "tokens": [
+        "지리산",
+        "보다",
+        "높",
+        "아",
+        "한",
+        "라산",
+        "이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "등산 진짜 너무 힘듦...",
+      "tokens": [
+        "등산진짜너무힘듦",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "엉 지리산보다 조금 높다던디?",
+      "tokens": [
+        "엉",
+        "지리산",
+        "보다",
+        "조금",
+        "높",
+        "다던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "고건 또 몰랐네 키키 등산 힘들긴 함 키키",
+      "tokens": [
+        "고건",
+        "JX",
+        "또",
+        "몰랐",
+        "EP",
+        "네",
+        "키키",
+        "등산",
+        "힘들",
+        "긴",
+        "JX",
+        "함",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 지리산이랑 비교하니까 높긴 높네",
+      "tokens": [
+        "키키",
+        "지리산",
+        "이랑",
+        "비교",
+        "하",
+        "니까",
+        "높",
+        "긴",
+        "JX",
+        "높",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

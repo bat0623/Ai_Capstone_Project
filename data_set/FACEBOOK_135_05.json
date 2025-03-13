@@ -1,0 +1,494 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "간첩 잡으면 휴가 주지?",
+      "tokens": [
+        "간첩",
+        "잡",
+        "으면",
+        "휴가",
+        "주",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "주지 않을까? 키키",
+      "tokens": [
+        "주",
+        "지",
+        "않",
+        "을까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "포상휴가",
+      "tokens": [
+        "포상",
+        "휴가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "간첩 잡으면 휴가도 줘?",
+      "tokens": [
+        "간첩",
+        "잡",
+        "으면",
+        "휴가",
+        "도",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "옛날에는 종종 간첩 잡았는데",
+      "tokens": [
+        "옛날",
+        "에",
+        "는",
+        "종종",
+        "간첩",
+        "잡",
+        "았",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 간첩 잡은 거는 진짜 크지",
+      "tokens": [
+        "근데",
+        "간첩",
+        "잡",
+        "은",
+        "거",
+        "는",
+        "진짜",
+        "크",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "포상금도 주지 않나...?",
+      "tokens": [
+        "포상금",
+        "도",
+        "주",
+        "지",
+        "않",
+        "나",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아닌가 키키",
+      "tokens": [
+        "아닌가",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "요즘엔 간첩 소식이 없넹",
+      "tokens": [
+        "요즘",
+        "엔",
+        "JX",
+        "간첩",
+        "소식",
+        "이",
+        "없",
+        "넹"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "줄껄 줄껄? 키키",
+      "tokens": [
+        "줄껄줄껄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 못 잡아 봄",
+      "tokens": [
+        "나",
+        "는",
+        "못",
+        "잡",
+        "아",
+        "봄"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 간첩이 아직도 있긴 하겠지?",
+      "tokens": [
+        "진짜",
+        "간첩",
+        "이",
+        "아직",
+        "도",
+        "있",
+        "긴",
+        "JX",
+        "하",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "포상금도 줄 듯 키키",
+      "tokens": [
+        "포상금",
+        "도",
+        "줄",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그런 이야기 못 들어 봤지?",
+      "tokens": [
+        "그런",
+        "이야기",
+        "못",
+        "들",
+        "어",
+        "봤",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "있겠지 키키",
+      "tokens": [
+        "있",
+        "겠",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이론상으론 엄청 많다던데",
+      "tokens": [
+        "이론",
+        "상",
+        "으론",
+        "JX",
+        "엄청",
+        "많",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "포상금 예전에 준다고 들어 봤는데 키키",
+      "tokens": [
+        "포상금",
+        "예전",
+        "에",
+        "준다고",
+        "EC",
+        "들",
+        "어",
+        "봤",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리 오빠 군대 갔을 때는 잡고 그랬다는 이야기 들었는데 키키",
+      "tokens": [
+        "우리",
+        "오빠",
+        "군대",
+        "갔",
+        "EP",
+        "을",
+        "때",
+        "는",
+        "잡",
+        "고",
+        "그랬",
+        "EP",
+        "다는",
+        "이야기",
+        "들",
+        "었",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 요즘은 그런 얘기 안 들린다",
+      "tokens": [
+        "키",
+        "키",
+        "요즘",
+        "은",
+        "그런",
+        "얘기",
+        "안",
+        "들린다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 잡고 그랬다는 얘기가 있었다니...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "잡",
+        "고",
+        "그랬",
+        "EP",
+        "다는",
+        "얘기",
+        "가",
+        "있",
+        "었",
+        "다니",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "잡히긴 하나 보네",
+      "tokens": [
+        "잡히",
+        "긴",
+        "JX",
+        "하나",
+        "보네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "간첩은 와서  뭐 하는 거ㅇ?",
+      "tokens": [
+        "간첩",
+        "은",
+        "와서",
+        "EC",
+        "뭐",
+        "하",
+        "는",
+        "거",
+        "ㅇ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "잡히는 것도 대단해 키키",
+      "tokens": [
+        "잡히",
+        "는",
+        "것",
+        "도",
+        "대단",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "있긴 있나 봐 정말 키키",
+      "tokens": [
+        "있",
+        "긴",
+        "JX",
+        "있",
+        "나",
+        "봐",
+        "EF",
+        "정말",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

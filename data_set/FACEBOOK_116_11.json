@@ -1,0 +1,490 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 다트 던져본 적 있어?",
+      "tokens": [
+        "언니",
+        "는",
+        "다트",
+        "던져본",
+        "EC",
+        "VX",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "다트 술집에서 많이 해본 거 같은데 키키",
+      "tokens": [
+        "다트",
+        "술집",
+        "에서",
+        "많이",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "요즘에는 다트 기계가 있더라?",
+      "tokens": [
+        "요즘",
+        "에",
+        "는",
+        "다트",
+        "기계",
+        "가",
+        "있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "다트 기계?",
+      "tokens": [
+        "다트",
+        "기계"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내가 했던 거랑 다른 건가",
+      "tokens": [
+        "내",
+        "가",
+        "했",
+        "EP",
+        "던",
+        "거",
+        "랑",
+        "다른",
+        "건가",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "언니는 그냥 다트판만 있었지?",
+      "tokens": [
+        "언니",
+        "는",
+        "그냥",
+        "다트",
+        "판",
+        "만",
+        "있",
+        "었",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "응 키키 판만 있었던 거 같은데",
+      "tokens": [
+        "응",
+        "키",
+        "키",
+        "판",
+        "만",
+        "있",
+        "었",
+        "던",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "요즘에는 다트 기계가 있어서 내가 던진 부분 숫자도 나와!",
+      "tokens": [
+        "요즘",
+        "에",
+        "는",
+        "다트",
+        "기계",
+        "가",
+        "있",
+        "어서",
+        "내",
+        "가",
+        "던진",
+        "ETM",
+        "부분",
+        "숫자",
+        "도",
+        "나와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "와, 요즘엔 진짜 다 좋아졌다",
+      "tokens": [
+        "와",
+        ",",
+        "요즘",
+        "엔",
+        "JX",
+        "진짜",
+        "다",
+        "좋",
+        "아",
+        "졌",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그거 다 던져서 어떤 숫자를 맞추면 경품을 줌!",
+      "tokens": [
+        "그거",
+        "다",
+        "던져서",
+        "EC",
+        "어떤",
+        "숫자",
+        "를",
+        "맞추",
+        "면",
+        "경품",
+        "을",
+        "줌",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "최신으로 나온 게 더 재밌겠다 키키",
+      "tokens": [
+        "최신",
+        "으로",
+        "나온",
+        "ETM",
+        "게",
+        "JKS",
+        "더",
+        "재밌",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어 맞아 키키",
+      "tokens": [
+        "어",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "내가 아는 술집이 그거 하거든?",
+      "tokens": [
+        "내",
+        "가",
+        "아",
+        "는",
+        "술집",
+        "이",
+        "그거",
+        "하",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "숫자 맞추면 맥주 꽁짜로 줌!",
+      "tokens": [
+        "숫자",
+        "맞추",
+        "면",
+        "맥주",
+        "꽁짜",
+        "로",
+        "줌",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맥주 공짜로 먹기 위해서 해야겠다 키키",
+      "tokens": [
+        "맥주",
+        "공짜",
+        "로",
+        "먹",
+        "기",
+        "위해서",
+        "EC",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "어 맞아 키키",
+      "tokens": [
+        "어",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그리고 애들이랑 그거 해서 술값 내기도 하고!",
+      "tokens": [
+        "그리고",
+        "애",
+        "들",
+        "이랑",
+        "그거",
+        "해서",
+        "EC",
+        "술값",
+        "내",
+        "기",
+        "도",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "술값 내기면 또 못지지 키키",
+      "tokens": [
+        "술값",
+        "내기",
+        "면",
+        "EC",
+        "또",
+        "못",
+        "지",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "이겨야지",
+      "tokens": [
+        "이겨야",
+        "EC",
+        "VX",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그러니까",
+      "tokens": [
+        "그러니까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "정신이 혼미한 친구들도 정신을 다 잡고 던짐 키키",
+      "tokens": [
+        "정신",
+        "이",
+        "혼미",
+        "한",
+        "ETM",
+        "친구",
+        "들",
+        "도",
+        "정신",
+        "을",
+        "다",
+        "잡",
+        "고",
+        "던짐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "져서 내가 낼 수는 없으니까~",
+      "tokens": [
+        "져서",
+        "EC",
+        "내",
+        "가",
+        "낼",
+        "ETM",
+        "수",
+        "는",
+        "없",
+        "으니까",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

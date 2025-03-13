@@ -1,0 +1,429 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 패디큐어 하는 거 좋아해?",
+      "tokens": [
+        "언니",
+        "패디",
+        "큐어",
+        "하",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 발톱에는 잘 안 해 하하",
+      "tokens": [
+        "나",
+        "는",
+        "발톱",
+        "에",
+        "는",
+        "잘",
+        "안",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "근데 여름에 샌달 신으면 하게 되지 않아?",
+      "tokens": [
+        "근데",
+        "여름",
+        "에",
+        "샌",
+        "ETM",
+        "달",
+        "신",
+        "으면",
+        "하",
+        "게",
+        "되",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그렇긴 한데 내가 계속 신경 쓰여서!",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "한데",
+        "EC",
+        "내",
+        "가",
+        "계속",
+        "신경",
+        "쓰여서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 나는 발톱 뜯는 버릇 있어서 절대 하면 안 돼!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "발톱",
+        "뜯",
+        "는",
+        "버릇",
+        "있",
+        "어서",
+        "절대",
+        "하",
+        "면",
+        "안",
+        "돼",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 나는 매니큐어만 하는데 하하",
+      "tokens": [
+        "아",
+        "나",
+        "는",
+        "매니큐어",
+        "만",
+        "하",
+        "는데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "언니가 직접 발라?",
+      "tokens": [
+        "언니",
+        "가",
+        "직접",
+        "발라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 요즘 셀프로 많이 하니까~",
+      "tokens": [
+        "응",
+        "요즘",
+        "셀프",
+        "로",
+        "많이",
+        "하",
+        "니까",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그 붙이는 것도 이쁘게 많이 나오잖아~",
+      "tokens": [
+        "그",
+        "붙이",
+        "는",
+        "것",
+        "도",
+        "이쁘",
+        "게",
+        "많이",
+        "나오",
+        "잖아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "얼마 전에 동생이 오호라 사줬어~",
+      "tokens": [
+        "얼마",
+        "전",
+        "에",
+        "동생",
+        "이",
+        "오호라",
+        "사",
+        "EC",
+        "줬",
+        "EP",
+        "어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 맞아",
+      "tokens": [
+        "아",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그 브랜드 진짜 인기잖아!",
+      "tokens": [
+        "그",
+        "브랜드",
+        "진짜",
+        "인기",
+        "잖아",
+        "EC",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "맞아 ㅠㅠ",
+      "tokens": [
+        "맞아ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "모양도 진짜 다양해",
+      "tokens": [
+        "모양",
+        "도",
+        "진짜",
+        "다양",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그거 잘 안 떨어진대!",
+      "tokens": [
+        "그거",
+        "잘",
+        "안",
+        "떨어진대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 하하 그래서 진짜 샵에서 한 거 같아",
+      "tokens": [
+        "응",
+        "하하",
+        "그래서",
+        "진짜",
+        "샵",
+        "에서",
+        "한",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나 손톱이 진짜 작은데 우리 언니가 나 해주다가 자기 손톱에 하더라 키키",
+      "tokens": [
+        "나",
+        "손톱",
+        "이",
+        "진짜",
+        "작",
+        "은데",
+        "우리",
+        "언니",
+        "가",
+        "나",
+        "해",
+        "EC",
+        "주",
+        "다가",
+        "자기",
+        "손톱",
+        "에",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 아 너무 작아도 곤욕이다",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "너무",
+        "작",
+        "아도",
+        "곤욕",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

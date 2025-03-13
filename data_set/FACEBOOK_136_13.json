@@ -1,0 +1,358 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "산 타니까 여름 이더제",
+      "tokens": [
+        "산타",
+        "니까",
+        "EC",
+        "여름",
+        "이",
+        "더",
+        "제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 엄청 더울 듯",
+      "tokens": [
+        "그니까",
+        "엄청",
+        "더울",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "산 타니까 땀나던데여 ㅠㅠ",
+      "tokens": [
+        "산타",
+        "니까",
+        "EC",
+        "땀나",
+        "던",
+        "데여",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "**는 반팔 입었대",
+      "tokens": [
+        "*",
+        "*",
+        "는반팔입었대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "억새가 좋았겠네 황매산 키키",
+      "tokens": [
+        "억새",
+        "가",
+        "좋",
+        "았",
+        "겠",
+        "네",
+        "황매산",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "바람은 차가운데 키키",
+      "tokens": [
+        "바람",
+        "은",
+        "차가운",
+        "ETM",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "쉬면 추워요",
+      "tokens": [
+        "쉬",
+        "면",
+        "추워",
+        "EC",
+        "요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "날씨가 안이 더 춥당",
+      "tokens": [
+        "날씨",
+        "가",
+        "안",
+        "이",
+        "더",
+        "춥",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아주 사람도 많았겠다",
+      "tokens": [
+        "아주",
+        "사람",
+        "도",
+        "많",
+        "았",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "억새도 이쁜데 ㅠㅠ",
+      "tokens": [
+        "억새도이쁜데ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "단풍",
+      "tokens": [
+        "단풍"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "바깥은 많이  따뜻한 듯",
+      "tokens": [
+        "바깥",
+        "은",
+        "많이",
+        "따뜻",
+        "한",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "차 많아서 우찌 올라갔어?",
+      "tokens": [
+        "차",
+        "많",
+        "아서",
+        "우찌",
+        "올라갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "황매산 단풍이 장난 아니더라구요",
+      "tokens": [
+        "황매",
+        "산단풍",
+        "이",
+        "장난",
+        "아니",
+        "더라구요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리도 황매산 가자 ㅠ",
+      "tokens": [
+        "우리",
+        "도",
+        "황매",
+        "산가",
+        "VCP",
+        "EF",
+        "자ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "거기 줄 서서 올라가던데",
+      "tokens": [
+        "거기",
+        "줄서",
+        "서",
+        "올라가",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "저희 중간에 세워서 걸어서...",
+      "tokens": [
+        "저희",
+        "중간",
+        "에",
+        "세워서",
+        "EC",
+        "걸어서",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "거기 차 장난 아니?",
+      "tokens": [
+        "거기",
+        "차장",
+        "난",
+        "JX",
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "오 좋은 선택이야",
+      "tokens": [
+        "오",
+        "좋",
+        "은",
+        "선택",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 맞아요",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "줄 서서 가더라구요~",
+      "tokens": [
+        "줄서",
+        "서",
+        "가",
+        "더라구요",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_136_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

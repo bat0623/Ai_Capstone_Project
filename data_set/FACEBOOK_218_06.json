@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "제일 잘 친 시험이 몇 등이야?",
+      "tokens": [
+        "제일",
+        "잘",
+        "친",
+        "ETM",
+        "시험",
+        "이",
+        "몇",
+        "등",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 4등 해봤어 전교에서",
+      "tokens": [
+        "난",
+        "JX",
+        "4",
+        "등",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어",
+        "전교",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 국사 1등급 시험 점수!",
+      "tokens": [
+        "나",
+        "국사",
+        "1",
+        "등급",
+        "시험",
+        "점수"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 전교 1등 해봄",
+      "tokens": [
+        "난",
+        "JX",
+        "전교",
+        "1",
+        "등",
+        "해봄",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오 대단하네 전교1등 하하",
+      "tokens": [
+        "오",
+        "대",
+        "단하",
+        "네",
+        "전교",
+        "1",
+        "등하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 쩐다 **",
+      "tokens": [
+        "헐",
+        "JKO",
+        "쩐",
+        "다",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "멋있어 넌 역시 하하",
+      "tokens": [
+        "멋있",
+        "어",
+        "넌",
+        "JX",
+        "역시",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "초딩 때 난 항상 전교 1등이었어",
+      "tokens": [
+        "초딩",
+        "때",
+        "난",
+        "JX",
+        "항상",
+        "전교",
+        "1",
+        "등",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "전교 4등 초딩 떄 나도 하하",
+      "tokens": [
+        "전교",
+        "4",
+        "등초딩떄나도하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "헐 뭐야",
+      "tokens": [
+        "헐",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "넌 머리가 너무 좋은 거 같아",
+      "tokens": [
+        "넌",
+        "JX",
+        "머리",
+        "가",
+        "너무",
+        "좋",
+        "은",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "우리 초등학교 최고의 인재였지",
+      "tokens": [
+        "우리",
+        "초등",
+        "학교",
+        "최고",
+        "의",
+        "인재",
+        "였",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "근데 총원이 28명이었어 하하",
+      "tokens": [
+        "근데",
+        "총원",
+        "이",
+        "28",
+        "명",
+        "이",
+        "었",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 부부끼리 너무 똑똑해 하하",
+      "tokens": [
+        "진짜",
+        "부부",
+        "끼리",
+        "너무",
+        "똑똑",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 오빠도 초딩 때였어?",
+      "tokens": [
+        "키",
+        "키",
+        "오빠",
+        "도",
+        "초딩",
+        "때",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "예하초는 꽤나 상위권에서 놀 수 있어",
+      "tokens": [
+        "예하",
+        "초",
+        "는",
+        "꽤",
+        "나상",
+        "위",
+        "권",
+        "에서",
+        "놀",
+        "ETM",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우와 천생연분~ 내사랑~ 노래 생각나",
+      "tokens": [
+        "우와",
+        "천생연분",
+        "~",
+        "내사",
+        "랑",
+        "~",
+        "노래",
+        "생각나",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 **는 전교 몇 등이었어?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "는",
+        "전교",
+        "몇",
+        "등",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "몇 등 했을까나",
+      "tokens": [
+        "몇",
+        "등",
+        "했을까",
+        "EP",
+        "EC",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나 고등학교 때? 잘 모르겠네",
+      "tokens": [
+        "나",
+        "고등",
+        "학교",
+        "때",
+        "잘",
+        "모르",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

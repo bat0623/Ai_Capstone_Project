@@ -1,0 +1,470 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "엄마 돌아오는 기차는 예매 했어?",
+      "tokens": [
+        "엄마",
+        "돌아오",
+        "는",
+        "기차",
+        "는",
+        "예매",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "너가 해줬으면 했고 안 해줬으면 안 했지",
+      "tokens": [
+        "너",
+        "가",
+        "해",
+        "EC",
+        "줬",
+        "EP",
+        "으면",
+        "했",
+        "EP",
+        "고",
+        "안",
+        "해",
+        "EC",
+        "줬",
+        "EP",
+        "으면",
+        "안",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "니네 엄마가 그런 걸 할 줄 알겠냐",
+      "tokens": [
+        "니",
+        "네",
+        "엄마",
+        "가",
+        "그런",
+        "걸",
+        "JKO",
+        "할",
+        "ETM",
+        "줄",
+        "알",
+        "겠",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 그런가?",
+      "tokens": [
+        "아",
+        "그런가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "올 때 기차는 몇 시 걸로 해줘?",
+      "tokens": [
+        "올",
+        "때기",
+        "차",
+        "는",
+        "몇",
+        "시",
+        "걸로",
+        "JKB",
+        "해",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그러게...",
+      "tokens": [
+        "그러게",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "흠... 점심 먹고 헤어지려나",
+      "tokens": [
+        "흠",
+        ".",
+        "점심",
+        "먹",
+        "고",
+        "헤어지",
+        "려나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "점심 먹고 바로 내려와",
+      "tokens": [
+        "점심",
+        "먹",
+        "고",
+        "바로",
+        "내려와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "11시 42분꺼 있고 1시 56분꺼 있는데 뭘로 해?",
+      "tokens": [
+        "11",
+        "시",
+        "42",
+        "분",
+        "꺼",
+        "EC",
+        "있",
+        "고",
+        "1",
+        "시",
+        "56",
+        "분",
+        "꺼",
+        "EC",
+        "있",
+        "는데",
+        "뭘로",
+        "JKB",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "시간이 애매하네",
+      "tokens": [
+        "시간",
+        "이",
+        "애매",
+        "하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "12시껀 없어?",
+      "tokens": [
+        "12",
+        "시",
+        "껀",
+        "JX",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "11시 42분꺼 타고 와",
+      "tokens": [
+        "11",
+        "시",
+        "42",
+        "분",
+        "꺼",
+        "EC",
+        "타",
+        "고",
+        "와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "11시 42분꺼는 무궁화호고 1시 56분꺼는 새마을호야",
+      "tokens": [
+        "11",
+        "시",
+        "42",
+        "분",
+        "꺼",
+        "는",
+        "무궁화",
+        "호고",
+        "1",
+        "시",
+        "56",
+        "분",
+        "꺼",
+        "는",
+        "새마을호",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "새마을호가 더 비싸?",
+      "tokens": [
+        "새마을호",
+        "가",
+        "더",
+        "비싸",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그럼 얼마나 더 빨라?",
+      "tokens": [
+        "그럼",
+        "얼마나",
+        "더",
+        "빨라",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "새마을호가 더 비싸고 빠르지",
+      "tokens": [
+        "새마을호",
+        "가",
+        "더",
+        "비싸",
+        "고",
+        "빠르",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 가격은 거즘 만원 차이나는데 시간은 25분?",
+      "tokens": [
+        "' 근데가격은거즘만원차이나는데시간은",
+        "25",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그럼 11시 42분꺼 타고 올까~?",
+      "tokens": [
+        "그럼",
+        "11",
+        "시",
+        "42",
+        "분",
+        "꺼",
+        "EC",
+        "타",
+        "고",
+        "올까",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그럼 장성에 한 3시에나 도착하냐",
+      "tokens": [
+        "그럼",
+        "장성",
+        "에",
+        "한",
+        "3",
+        "시",
+        "에",
+        "나",
+        "도착",
+        "하",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "3시 14분에 장성역에 내리는데?",
+      "tokens": [
+        "3",
+        "시",
+        "14",
+        "분",
+        "에",
+        "장성역",
+        "에",
+        "내리",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "오키",
+      "tokens": [
+        "오키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그럼 그걸로 예매 해줘",
+      "tokens": [
+        "그럼",
+        "그걸로",
+        "JKB",
+        "예매",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "난 그때 아직 광주니까 알아서 가라",
+      "tokens": [
+        "난",
+        "JX",
+        "그때",
+        "아직",
+        "광주",
+        "니까",
+        "EC",
+        "알",
+        "아서",
+        "가",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

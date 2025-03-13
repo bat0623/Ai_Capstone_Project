@@ -1,0 +1,385 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 우리 아파트 놀러 오면  수달 보여 줄게",
+      "tokens": [
+        "*",
+        "*",
+        "우리",
+        "아파트",
+        "놀러오",
+        "면",
+        "수달",
+        "보여",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 수달도 있고 고라니도 있음",
+      "tokens": [
+        "응",
+        "수달",
+        "도",
+        "있",
+        "고",
+        "고라니",
+        "도",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니 집에 수달이 있다고? 키키",
+      "tokens": [
+        "아니",
+        "집",
+        "에",
+        "수달",
+        "이",
+        "있",
+        "다고",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "여기 완전 촌이라서 수달 있어...!",
+      "tokens": [
+        "여기",
+        "완",
+        "JX",
+        "전촌",
+        "이",
+        "라서",
+        "수달",
+        "있",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "여긴 자연 친화적 공간이야 하하",
+      "tokens": [
+        "여긴",
+        "JX",
+        "자연",
+        "친화",
+        "적",
+        "공간",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아니 거기 도대체 어디임 키키",
+      "tokens": [
+        "아니",
+        "거기",
+        "도대체",
+        "어디",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "엉 아파트 산책로에 수달 있음...!",
+      "tokens": [
+        "엉",
+        "아파트",
+        "산책로",
+        "에",
+        "수달",
+        "있",
+        "음",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "여기 아주 좋은 곳이야 하하",
+      "tokens": [
+        "여기",
+        "아주",
+        "좋",
+        "은",
+        "곳",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "와 근데 개귀엽겠다 ㅜㅜ 키키",
+      "tokens": [
+        "와",
+        "근데",
+        "개",
+        "귀엽",
+        "겠",
+        "다",
+        "ㅜㅜ",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "고라니 가족도 살구... 너구리도 있어",
+      "tokens": [
+        "고라니",
+        "가족",
+        "도",
+        "살",
+        "구",
+        ".",
+        ".",
+        "너구리",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "자연적으로 체험학습 하하",
+      "tokens": [
+        "자연",
+        "적",
+        "으로",
+        "체험",
+        "학습",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "수벅이가 잡으러 다닐 듯?",
+      "tokens": [
+        "수",
+        "벅",
+        "이",
+        "가",
+        "잡",
+        "으러",
+        "다닐",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "응 두꺼비는 그냥 보여",
+      "tokens": [
+        "응",
+        "두꺼비",
+        "는",
+        "그냥",
+        "보여",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "두꺼비 많지 비 오는 날 하하",
+      "tokens": [
+        "두꺼비",
+        "많",
+        "지비",
+        "오",
+        "는",
+        "날",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 두꺼비는 기본이여?",
+      "tokens": [
+        "키",
+        "키",
+        "두꺼비",
+        "는",
+        "기본",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 거기 갈게 결혼하면",
+      "tokens": [
+        "나",
+        "도",
+        "거기",
+        "갈",
+        "ETM",
+        "게",
+        "JKS",
+        "결혼",
+        "하",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "수벅이는 벅수야? 혹시? 키키",
+      "tokens": [
+        "수",
+        "벅",
+        "이",
+        "는",
+        "벅수",
+        "야",
+        "EF",
+        "혹시",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "수벅이는 혹시 벅수?",
+      "tokens": [
+        "수벅이는혹시벅수"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "수벅이랰 키키",
+      "tokens": [
+        "수벅이랰키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아니 그래 벅수",
+      "tokens": [
+        "아니",
+        "그래",
+        "벅수"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_02.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

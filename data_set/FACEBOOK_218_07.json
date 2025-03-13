@@ -1,0 +1,382 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "가족끼리 왜 이래? 알아?",
+      "tokens": [
+        "가족",
+        "끼리",
+        "왜",
+        "이래",
+        "EF",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그건 뭐야 도대체",
+      "tokens": [
+        "그건",
+        "JX",
+        "뭐",
+        "야",
+        "EF",
+        "도대체"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어? 드라마야 그거?",
+      "tokens": [
+        "어",
+        "드라마",
+        "야",
+        "EF",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그런 드라마 있지 않냐?",
+      "tokens": [
+        "그런",
+        "드라마",
+        "있",
+        "지",
+        "않",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "뭐지",
+      "tokens": [
+        "뭐",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 첨 들어봄 하하",
+      "tokens": [
+        "난첨들어봄하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 나 본 거 같아 ** 하하",
+      "tokens": [
+        "아",
+        "나",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "*",
+        "*",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 그 드라마 존잼이라던데 키키",
+      "tokens": [
+        "키키",
+        "그",
+        "드라마",
+        "존",
+        "잼",
+        "이",
+        "라던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭐지",
+      "tokens": [
+        "뭐",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나도 볼래",
+      "tokens": [
+        "나",
+        "도",
+        "볼래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니 누구 나오는 거였지?",
+      "tokens": [
+        "아니",
+        "누구",
+        "나오",
+        "는",
+        "거",
+        "였",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "지금은 끝났어 키키",
+      "tokens": [
+        "지금",
+        "은",
+        "끝",
+        "났",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "기억 안 남",
+      "tokens": [
+        "기억",
+        "안",
+        "남",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어디서 하는 건지 정보 봄 하하",
+      "tokens": [
+        "어디",
+        "서",
+        "하",
+        "는",
+        "건지",
+        "VCP",
+        "EC",
+        "정보",
+        "봄",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "부모님 얘기 그런 거 아냐?",
+      "tokens": [
+        "부모",
+        "님",
+        "얘기",
+        "그런",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "가족끼리 왜 이래 인기였어",
+      "tokens": [
+        "가족",
+        "끼리",
+        "왜",
+        "이래",
+        "인기",
+        "였",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "언제 했던 거지?",
+      "tokens": [
+        "언제",
+        "했",
+        "EP",
+        "던",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "가족끼리 싸우고 지지고 볶고",
+      "tokens": [
+        "가족",
+        "끼리",
+        "싸우",
+        "고",
+        "지지",
+        "고",
+        "볶",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 부모님 얘기였던 듯!",
+      "tokens": [
+        "키",
+        "키",
+        "부모",
+        "님",
+        "얘기",
+        "였",
+        "EP",
+        "던",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "한번 찾아봐야겠군 하하",
+      "tokens": [
+        "한",
+        "번",
+        "찾",
+        "아",
+        "봐야",
+        "EC",
+        "VV",
+        "겠",
+        "군하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오늘 엄마가 부대찌개 끓여줘서 엄마 생각남",
+      "tokens": [
+        "오늘",
+        "엄마",
+        "가",
+        "부대찌개",
+        "끓여",
+        "EC",
+        "줘서",
+        "EC",
+        "엄마",
+        "생각",
+        "남"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

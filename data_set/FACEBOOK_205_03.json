@@ -1,0 +1,404 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내 친구랑 가까이 살아서 좋았는데 ㅠㅠ",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "랑",
+        "가까이",
+        "살",
+        "아서",
+        "좋",
+        "았",
+        "는데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 떨어져서 우짜네",
+      "tokens": [
+        "그니까",
+        "떨어져서",
+        "EC",
+        "우짜",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그니까 마음에 위안이 되자너",
+      "tokens": [
+        "그니까",
+        "마음",
+        "에",
+        "위안",
+        "이",
+        "되",
+        "자",
+        "너"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "걔는 여기 떠날 듯 흑흑",
+      "tokens": [
+        "걔",
+        "는",
+        "여기",
+        "떠날",
+        "ETM",
+        "듯",
+        "흑흑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "**이는 어데로 간다눙",
+      "tokens": [
+        "*",
+        "*",
+        "이는어데로간다눙"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "한번씩 만나기도 좋고",
+      "tokens": [
+        "한",
+        "번",
+        "씩",
+        "만나",
+        "기",
+        "도",
+        "좋",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "가까이 사는 친구 짱이야",
+      "tokens": [
+        "가까이",
+        "사",
+        "는",
+        "친구",
+        "짱",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 결혼해",
+      "tokens": [
+        "근데",
+        "결혼",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "집도 알아봐야 하고",
+      "tokens": [
+        "집",
+        "도",
+        "알",
+        "아",
+        "봐야",
+        "EC",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나도 친구 가까이 있는 게 좋다",
+      "tokens": [
+        "나",
+        "도",
+        "친구",
+        "가까이",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래도 여기 어디 살 듯... ㅠㅠ",
+      "tokens": [
+        "그래도",
+        "여기",
+        "어디",
+        "살",
+        "듯",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "되게 바쁘겠네 ㅠㅠ",
+      "tokens": [
+        "되게",
+        "바쁘",
+        "겠",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "힘내라 해라",
+      "tokens": [
+        "힘내",
+        "라",
+        "해라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이 동네 벗어나기가 싫어",
+      "tokens": [
+        "이",
+        "동네",
+        "벗어나",
+        "기",
+        "가",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "정촌이 교통이 별로라서",
+      "tokens": [
+        "정촌",
+        "이",
+        "교통",
+        "이",
+        "별로",
+        "라서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내는 친구 **뿐임...",
+      "tokens": [
+        "내",
+        "는",
+        "친구",
+        "*",
+        "*",
+        "뿐",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "마찌...",
+      "tokens": [
+        "마",
+        "찌",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "움직이기 진짜 힘들어",
+      "tokens": [
+        "움직이",
+        "기",
+        "진짜",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "교통 좋은 동네로 갈 수도...",
+      "tokens": [
+        "교통",
+        "좋",
+        "은",
+        "동네",
+        "로",
+        "갈",
+        "ETM",
+        "수",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "교통이 중요하다 ㅠ",
+      "tokens": [
+        "교통",
+        "이",
+        "중요",
+        "하",
+        "다",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "**동 와라 **동 조음",
+      "tokens": [
+        "*",
+        "*",
+        "동와",
+        "라",
+        "EC",
+        "*",
+        "*",
+        "동조",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

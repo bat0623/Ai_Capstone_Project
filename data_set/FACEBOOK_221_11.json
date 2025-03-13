@@ -1,0 +1,381 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오락실 가고 싶다",
+      "tokens": [
+        "오락실",
+        "가",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오락실 재밌지 하하",
+      "tokens": [
+        "오락실",
+        "재밌",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 어제 갔다 옴 키키 진짜",
+      "tokens": [
+        "나",
+        "어제",
+        "갔",
+        "EP",
+        "다",
+        "옴",
+        "ETN",
+        "키",
+        "키",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 오락실에 재밌는 거 졸 많이 생김",
+      "tokens": [
+        "아",
+        "오락실",
+        "에",
+        "재밌",
+        "는",
+        "거",
+        "졸",
+        "ETM",
+        "많이",
+        "생김"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오래방 가고 싶지 않니?",
+      "tokens": [
+        "오래",
+        "방",
+        "가",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "존잼이던데 오랜만에 함 가바 키키",
+      "tokens": [
+        "존",
+        "잼",
+        "이",
+        "던데",
+        "EC",
+        "오랜만",
+        "에",
+        "함",
+        "ETN",
+        "가",
+        "바키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어제 어느 오락실 갔음?",
+      "tokens": [
+        "어제",
+        "어느",
+        "오락실",
+        "갔",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "노래 부르고 싶어 하하",
+      "tokens": [
+        "노래",
+        "부르",
+        "고",
+        "싶",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오래방 꿀이지 키키",
+      "tokens": [
+        "오래방꿀이지키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "게임기가 신박한 게 진짜 많음",
+      "tokens": [
+        "게임기",
+        "가",
+        "신박",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "진짜",
+        "많",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "개양에 오락실 좋은데 하하",
+      "tokens": [
+        "개양",
+        "에",
+        "오락실",
+        "좋",
+        "은데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "오래방에 펌프에 재밌음 키키",
+      "tokens": [
+        "오래",
+        "방",
+        "에",
+        "펌프",
+        "에",
+        "재밌",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "별 이상한 게임기 다 생김",
+      "tokens": [
+        "별",
+        "이상",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "임기",
+        "다",
+        "생김"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "펌프도 할줄 아심?",
+      "tokens": [
+        "펌프",
+        "도",
+        "할",
+        "ETM",
+        "줄",
+        "아",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 개양 갔음 키키",
+      "tokens": [
+        "나개양갔음키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "기존에 많이 없어졌던데",
+      "tokens": [
+        "기존",
+        "에",
+        "많이",
+        "없",
+        "어",
+        "졌",
+        "EP",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "펌프 니 잘하잖아 키키 웃겨",
+      "tokens": [
+        "펌프",
+        "니",
+        "EC",
+        "잘",
+        "하",
+        "잖아",
+        "키",
+        "키",
+        "ETN",
+        "웃겨",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 펌프왕인데 함 뜰래?",
+      "tokens": [
+        "나",
+        "펌프",
+        "왕",
+        "인데",
+        "EC",
+        "함",
+        "ETN",
+        "뜰래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "원래 있던 거 ㅜㅜ",
+      "tokens": [
+        "원래",
+        "있",
+        "던",
+        "거",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나 펌프짱인데",
+      "tokens": [
+        "나",
+        "펌프",
+        "짱",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_221_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

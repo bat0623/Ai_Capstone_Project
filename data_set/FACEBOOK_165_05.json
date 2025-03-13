@@ -1,0 +1,368 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "제주도에 군대 있어?",
+      "tokens": [
+        "제주도",
+        "에",
+        "군대",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "제주에도 군대 있쥫ㅎ",
+      "tokens": [
+        "제주",
+        "에",
+        "도",
+        "군대",
+        "있",
+        "쥫ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "제주에도 군대가 있지 않을까?",
+      "tokens": [
+        "제주",
+        "에",
+        "도",
+        "군대",
+        "가",
+        "있",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "제주도에도 당근 군대 있겠지?",
+      "tokens": [
+        "제주도",
+        "에",
+        "도",
+        "당근",
+        "군대",
+        "있",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "해군도 있고 공군도 있고 ㅎ",
+      "tokens": [
+        "해군",
+        "도",
+        "있",
+        "고",
+        "공군",
+        "도",
+        "있",
+        "고",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "지나가면서 군 부대는 한 두번 보긴 함",
+      "tokens": [
+        "지나가",
+        "면서",
+        "군부대",
+        "는",
+        "한두",
+        "번",
+        "보",
+        "긴",
+        "JX",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "제주도도 누군가는 지키겠지?",
+      "tokens": [
+        "제주도",
+        "도",
+        "누군가",
+        "VCP",
+        "EC",
+        "는",
+        "지키",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "제주도 은근 가고싶었는데 자대배치 할때",
+      "tokens": [
+        "제주도",
+        "은근",
+        "가",
+        "고",
+        "싶",
+        "었",
+        "는데",
+        "자대",
+        "배치",
+        "할",
+        "ETM",
+        "때"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "지켜야지 국토 방위 해야한다 키키",
+      "tokens": [
+        "지켜야",
+        "EC",
+        "VX",
+        "지",
+        "국토방위",
+        "해야",
+        "EC",
+        "한",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "군 부대가 있긴 있군...",
+      "tokens": [
+        "군부대",
+        "가",
+        "있",
+        "긴",
+        "JX",
+        "있",
+        "군",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "제주도는 일본에서 최전방이야",
+      "tokens": [
+        "제주도",
+        "는",
+        "일본",
+        "에서",
+        "최전방",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "제주 배치 받으면 집 안갈듯...",
+      "tokens": [
+        "제주",
+        "배치",
+        "받",
+        "으면",
+        "집",
+        "안",
+        "갈",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마자 은근 제주도 살고 싶다...",
+      "tokens": [
+        "마자",
+        "은",
+        "근제",
+        "주도",
+        "살",
+        "고",
+        "싶",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "일본한테서 우리나라를 지켜야해",
+      "tokens": [
+        "일본",
+        "한테서",
+        "우리",
+        "나라",
+        "를",
+        "지켜야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "휴가 나오면 제주에서 놀기 바쁠 거 같아요 키키",
+      "tokens": [
+        "휴가",
+        "나오",
+        "면",
+        "제주",
+        "에서",
+        "놀",
+        "기",
+        "바쁠",
+        "ETM",
+        "거",
+        "같",
+        "아요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 일본은 못 쳐들어오잖아 걔네는",
+      "tokens": [
+        "근데",
+        "일본",
+        "은",
+        "못",
+        "쳐들어오",
+        "잖아",
+        "걔",
+        "네",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "비행기표도 주는 갑던데 제주서 근무하면",
+      "tokens": [
+        "비행기",
+        "표",
+        "도",
+        "주",
+        "는",
+        "갑",
+        "던데",
+        "EC",
+        "제주",
+        "서",
+        "근무",
+        "하",
+        "면"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "교통비 지원 좋습니다 키키",
+      "tokens": [
+        "교통비",
+        "지원",
+        "좋",
+        "습니다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 낚시 한번 가 본 적 있어?",
+      "tokens": [
+        "다",
+        "들낚시",
+        "한",
+        "번",
+        "가본",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 나 옛날에 거제도에서 해 봤어!",
+      "tokens": [
+        "응",
+        "나",
+        "옛날",
+        "에",
+        "거제도",
+        "에서",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 베스 낚시 좋아해 키키",
+      "tokens": [
+        "나",
+        "베스",
+        "낚시",
+        "좋",
+        "아",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "민물 고기 잡는 거 좋아하구나",
+      "tokens": [
+        "민물고기",
+        "잡",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "하",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나는 바다 낚시 좋아해 손맛 대박이더라고~",
+      "tokens": [
+        "나는바다낚시좋아해손맛대박이더라고",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "바다 낚시 한 번도 안 해봤어",
+      "tokens": [
+        "바다낚시",
+        "한",
+        "번",
+        "도",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "하고 싶은데 멀미 걱정돼 키키",
+      "tokens": [
+        "하",
+        "고",
+        "싶",
+        "은데",
+        "멀미",
+        "걱정",
+        "돼",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 바다 낚시 해보고 싶더라 ㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "바다낚시",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "더라",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "뭐 잡아봤어?",
+      "tokens": [
+        "뭐",
+        "잡",
+        "아",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 이름 모를 그냥 물고기... 잘 몰라 키키",
+      "tokens": [
+        "나",
+        "는",
+        "이름",
+        "모를",
+        "ETM",
+        "그냥",
+        "물고기",
+        ".",
+        ".",
+        "잘",
+        "몰라",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 저번에 삼촌이 갑오징어랑 주꾸미 잡아와서 먹었는데 맛있더라",
+      "tokens": [
+        "키",
+        "키",
+        "저번",
+        "에",
+        "삼촌",
+        "이",
+        "갑오징어",
+        "랑",
+        "주꾸미",
+        "잡",
+        "아",
+        "와서",
+        "EC",
+        "먹",
+        "었",
+        "는데",
+        "맛있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래? 나 최근에 도시어부 재밌게 봤어 키키",
+      "tokens": [
+        "그래",
+        "나",
+        "최근",
+        "에",
+        "도시",
+        "어부",
+        "재밌",
+        "게",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 그거 낚시 프로그램이야? 키키",
+      "tokens": [
+        "아",
+        "그거",
+        "낚시",
+        "프로그램",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나도 한 두 번 본 거 같아 키키",
+      "tokens": [
+        "나",
+        "도",
+        "한두",
+        "번",
+        "본",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "베스 낚시 재밌어 걸어 다니면서 하는 거야",
+      "tokens": [
+        "베스",
+        "낚시",
+        "재밌",
+        "어",
+        "걸어다니",
+        "면서",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "응 맞아 연옌들 나와서 낚시 하더라 키키",
+      "tokens": [
+        "응",
+        "맞",
+        "아",
+        "연옌",
+        "들",
+        "나와서",
+        "EC",
+        "낚시",
+        "하",
+        "더라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "연예인 중에도 낚시 취미인 사람 많다더라",
+      "tokens": [
+        "연예인",
+        "중",
+        "에",
+        "도",
+        "낚시",
+        "취미",
+        "인",
+        "ETM",
+        "사람",
+        "많",
+        "다더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "낚시도 돈 많이 드는 취미야 키키",
+      "tokens": [
+        "낚시",
+        "도",
+        "돈",
+        "많이",
+        "드",
+        "는",
+        "취미",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러게 키키 장비가 좋아야 잘 잡힌대",
+      "tokens": [
+        "그러",
+        "게",
+        "키",
+        "키",
+        "장비",
+        "가",
+        "좋",
+        "아야",
+        "잘",
+        "잡힌",
+        "ETM",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그치 뭐든지 다 장비빨이잖아!",
+      "tokens": [
+        "그치",
+        "뭐",
+        "든지",
+        "다",
+        "장비",
+        "빨",
+        "ETM",
+        "이",
+        "잖아",
+        "EC",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 맞아 아 취미도 돈 많아야 해",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아아",
+        "취미",
+        "도",
+        "돈",
+        "많",
+        "아야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_181_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

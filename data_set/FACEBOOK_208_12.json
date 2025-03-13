@@ -1,0 +1,390 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "휴양지 좋아하는 편?",
+      "tokens": [
+        "휴양지",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "편"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나에게로 떠나는 여행 키키",
+      "tokens": [
+        "나",
+        "에게",
+        "로",
+        "떠나",
+        "는",
+        "여행",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 떠나볼래 이번엔",
+      "tokens": [
+        "진짜",
+        "떠나",
+        "EC",
+        "볼래",
+        "EC",
+        "이번",
+        "엔",
+        "JX"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "휴양지가 최고지",
+      "tokens": [
+        "휴양지",
+        "가",
+        "최고",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그냥 쉬는 게 짱이여",
+      "tokens": [
+        "그냥",
+        "쉬",
+        "는",
+        "게",
+        "JKS",
+        "짱",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 도심이 좋아",
+      "tokens": [
+        "난",
+        "JX",
+        "도심",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "이번 여행 컨셉은 자발적 고립!",
+      "tokens": [
+        "이번",
+        "여행",
+        "컨셉",
+        "은",
+        "자발",
+        "적",
+        "고립"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "어디 리조트 같은 데 한 2주 푹 쉬다 오고 싶다",
+      "tokens": [
+        "어디",
+        "리조트",
+        "같",
+        "은데",
+        "한",
+        "ETM",
+        "2",
+        "주",
+        "푹",
+        "쉬",
+        "다",
+        "오",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나에게로 떠나는 여행 좋지 ~",
+      "tokens": [
+        "나",
+        "에게",
+        "로",
+        "떠나",
+        "는",
+        "여행",
+        "좋",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 도심 별로 ㅠ",
+      "tokens": [
+        "난도심별로ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "냄새 싫어",
+      "tokens": [
+        "냄새",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "자발적 고립 넘모 외롭고 힘들겠는데",
+      "tokens": [
+        "자발",
+        "적",
+        "고립",
+        "넘",
+        "모",
+        "외롭",
+        "고",
+        "힘들",
+        "겠",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "우리는 다 여행 중이야",
+      "tokens": [
+        "우리",
+        "는",
+        "다",
+        "여행",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "신라호텔 너무 많이 가서 질림",
+      "tokens": [
+        "신라호텔",
+        "너무",
+        "많이",
+        "가",
+        "서",
+        "질림"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "무슨 여행 중인데... 인생여행?",
+      "tokens": [
+        "무슨",
+        "여행",
+        "중",
+        "인데",
+        "EC",
+        ".",
+        ".",
+        "인생",
+        "여행"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "우리는 지구별 여행자!",
+      "tokens": [
+        "우리",
+        "는",
+        "지구",
+        "별",
+        "여행자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "거기 망고빙수 너무 많이 먹음 키키",
+      "tokens": [
+        "거기",
+        "망고",
+        "빙수",
+        "너무",
+        "많이",
+        "먹",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "지구별 여행자라니 키키 어휴",
+      "tokens": [
+        "지구",
+        "별",
+        "여행자",
+        "라니",
+        "EC",
+        "키",
+        "키",
+        "ETN",
+        "어휴"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "매일을 여행처럼 신난당",
+      "tokens": [
+        "매일",
+        "을",
+        "여행",
+        "처럼",
+        "신",
+        "난당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "응 잠시 지구에 놀러 온 여행자임 ㅠ",
+      "tokens": [
+        "응",
+        "잠시",
+        "지구",
+        "에",
+        "놀",
+        "러",
+        "온",
+        "ETM",
+        "여행자",
+        "임ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "망고빙수 진짜 비싸잖오",
+      "tokens": [
+        "망고",
+        "빙수",
+        "진짜",
+        "비싸",
+        "잖",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_208_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

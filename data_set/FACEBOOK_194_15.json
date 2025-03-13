@@ -1,0 +1,389 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 코로나 치료제 나와서 다행이다",
+      "tokens": [
+        "아",
+        "코로나",
+        "치료제",
+        "나와서",
+        "EC",
+        "다행",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "드디어 먹는 치료제",
+      "tokens": [
+        "드디어",
+        "먹",
+        "는",
+        "치료제"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "경구약이 입으로 먹는거지?",
+      "tokens": [
+        "경구",
+        "약",
+        "이",
+        "입",
+        "으로",
+        "먹",
+        "는",
+        "거",
+        "지",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "** 우리 넘 다행이야",
+      "tokens": [
+        "*",
+        "*",
+        "우리",
+        "넘",
+        "다행",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "백신 안 맞은 우리는 승자 !",
+      "tokens": [
+        "백신",
+        "안",
+        "맞",
+        "은",
+        "우리",
+        "는",
+        "승자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "80만 원은 너무 비싼데",
+      "tokens": [
+        "80",
+        "만",
+        "원",
+        "은",
+        "너무",
+        "비싼데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엉 알약이던데!",
+      "tokens": [
+        "엉",
+        "알약",
+        "이",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그 정도는 아니래",
+      "tokens": [
+        "그",
+        "정도",
+        "는",
+        "아니",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "역시 존버가 답이지 키키",
+      "tokens": [
+        "역시",
+        "존",
+        "버",
+        "가",
+        "답",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 백신 2차 어떻게 할까",
+      "tokens": [
+        "나",
+        "백신",
+        "2",
+        "차",
+        "어떻게",
+        "할까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞을까",
+      "tokens": [
+        "맞",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "80 넘 반발 심해서",
+      "tokens": [
+        "80",
+        "넘",
+        "반발심",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "80만 원 뭐야",
+      "tokens": [
+        "80",
+        "만",
+        "원",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "넘 심하다 키키",
+      "tokens": [
+        "넘",
+        "심하",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "너희들이랑 함께 노백신 할까",
+      "tokens": [
+        "너희",
+        "들",
+        "이랑",
+        "함께",
+        "노백",
+        "신",
+        "할까",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "가격을 내렸다고 합니다",
+      "tokens": [
+        "가격",
+        "을",
+        "내렸",
+        "EP",
+        "다고",
+        "합니다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그냥 마스크쓰고 살자",
+      "tokens": [
+        "그냥",
+        "마스크",
+        "쓰",
+        "고",
+        "살",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아빠가 안 맞으면 쫓아낸대",
+      "tokens": [
+        "아빠",
+        "가",
+        "안",
+        "맞",
+        "으면",
+        "쫓아낸",
+        "ETM",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "노백신 가자",
+      "tokens": [
+        "노백",
+        "신가",
+        "VCP",
+        "EC",
+        "자",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "80이면 타자를 몇 판 쳐야 해 ㅠㅠ",
+      "tokens": [
+        "80",
+        "이면타자를몇판쳐야해ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "모더나 엄청 아프다던데 ㅠㅠ",
+      "tokens": [
+        "모더",
+        "나",
+        "엄청",
+        "아프",
+        "다던데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

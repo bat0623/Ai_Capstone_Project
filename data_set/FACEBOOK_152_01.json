@@ -1,0 +1,406 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아침 식사 했어?",
+      "tokens": [
+        "아침",
+        "식사",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "방금 먹고 치웠어요",
+      "tokens": [
+        "방금",
+        "먹",
+        "고",
+        "치웠",
+        "EP",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 엄마가 차려주는 아침밥 먹었오",
+      "tokens": [
+        "나",
+        "엄마",
+        "가",
+        "차려",
+        "EC",
+        "주",
+        "는",
+        "아침밥",
+        "먹",
+        "었",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 아침은 샌드위치에 아아 ~",
+      "tokens": [
+        "난",
+        "JX",
+        "아침",
+        "은",
+        "샌드위치",
+        "에",
+        "아",
+        "아",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "저는 냉동 볶음밥...",
+      "tokens": [
+        "저",
+        "는",
+        "냉동",
+        "볶음밥",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오 미국식 아침식산데",
+      "tokens": [
+        "오",
+        "미국식",
+        "NNB",
+        "아침",
+        "식산",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "** 뭐 먹었어 하하",
+      "tokens": [
+        "*",
+        "*",
+        "뭐",
+        "먹",
+        "었",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "냉동실에 있는 거 데워 먹었어요",
+      "tokens": [
+        "냉동실",
+        "에",
+        "있",
+        "는",
+        "거",
+        "데워",
+        "EC",
+        "먹",
+        "었",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나눈 두부조림 먹었는데 진짜 맛있두라",
+      "tokens": [
+        "나눈",
+        "ETM",
+        "두부조림",
+        "먹",
+        "었",
+        "는데",
+        "진짜",
+        "맛있",
+        "두라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "냉볶 맛있?",
+      "tokens": [
+        "냉볶맛있"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나도 엄마 ㅠㅠ",
+      "tokens": [
+        "나도엄마ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어제 너무 많이 먹어서... ㅠ",
+      "tokens": [
+        "어제",
+        "너무",
+        "많이",
+        "먹",
+        "어서",
+        ".",
+        ".",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "볶음밥 다이어트 할 때 많이 먹었는데",
+      "tokens": [
+        "볶음밥",
+        "다이어트",
+        "할",
+        "ETM",
+        "때",
+        "많이",
+        "먹",
+        "었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "두부 조림 윽... 두부 노맛...",
+      "tokens": [
+        "두부조림",
+        "윽",
+        ".",
+        "두부",
+        "노",
+        "맛",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "두부 세상 맛있는데",
+      "tokens": [
+        "두부",
+        "세상",
+        "맛있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "두부조림 무시하지마...",
+      "tokens": [
+        "두부조림",
+        "무시",
+        "하",
+        "지",
+        "마",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "고소하니 짭짤하니",
+      "tokens": [
+        "고소",
+        "하",
+        "니",
+        "짭짤",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "다이어트에 볶음밥 괜춘?",
+      "tokens": [
+        "다이어트",
+        "에",
+        "볶음밥",
+        "괜춘"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "다이어트에 볶음밥 낟 배드",
+      "tokens": [
+        "다이어트",
+        "에",
+        "볶음밥",
+        "낟",
+        "배드"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "닭가슴살 볶음밥 이런 거 칼로리 낮은 거",
+      "tokens": [
+        "닭",
+        "가슴살",
+        "볶음밥",
+        "이런",
+        "거",
+        "칼로리",
+        "낮",
+        "은",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오늘 점심은 뭐 먹지...",
+      "tokens": [
+        "오늘",
+        "점심",
+        "은",
+        "뭐",
+        "먹",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나도 점심 뭐 먹지,",
+      "tokens": [
+        "나",
+        "도",
+        "점심",
+        "뭐",
+        "먹",
+        "지",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나는 샐러드 거여",
+      "tokens": [
+        "나",
+        "는",
+        "샐러드",
+        "거여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

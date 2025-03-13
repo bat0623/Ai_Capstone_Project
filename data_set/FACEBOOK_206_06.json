@@ -1,0 +1,449 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "학교 다닐 때 맞아 본 적 있음?",
+      "tokens": [
+        "학교",
+        "다닐",
+        "ETM",
+        "때맞",
+        "아",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "학교 다닐 때 맞은 적은...?",
+      "tokens": [
+        "학교",
+        "다닐",
+        "ETM",
+        "때맞",
+        "은",
+        "적",
+        "은",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 맨날 맞고 다녔어...",
+      "tokens": [
+        "나",
+        "맨날",
+        "맞",
+        "고",
+        "다녔",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 때는 머리도 박았는골",
+      "tokens": [
+        "우리",
+        "때",
+        "는",
+        "머리",
+        "도",
+        "박",
+        "았",
+        "는",
+        "골"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "선생님이 많이 때렸지 않냐?",
+      "tokens": [
+        "선생",
+        "님",
+        "이",
+        "많이",
+        "때렸",
+        "EP",
+        "지",
+        "않",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "선생님들한테 좀 맞았네 생각해보니까",
+      "tokens": [
+        "선생",
+        "님",
+        "들",
+        "한테",
+        "좀",
+        "맞",
+        "았",
+        "네",
+        "생각",
+        "해",
+        "EC",
+        "보",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "마자...",
+      "tokens": [
+        "마자",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "뭐 핸드폰도 잘 없을 때였으니까...",
+      "tokens": [
+        "뭐",
+        "핸드폰",
+        "도",
+        "잘",
+        "없",
+        "을",
+        "때",
+        "였",
+        "EP",
+        "으니까",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "증거가 안 남자나",
+      "tokens": [
+        "증거",
+        "가",
+        "안",
+        "남",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 학원에서도 맞아 봤는데 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "학원",
+        "에서",
+        "도",
+        "맞",
+        "아",
+        "봤",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근데 선생님들보다 행님들한테 더 맞은 듯",
+      "tokens": [
+        "근데",
+        "선생",
+        "님",
+        "들",
+        "보다",
+        "행",
+        "님",
+        "들",
+        "한테",
+        "더",
+        "맞",
+        "은",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나 빳다도 맞았었는뎀...",
+      "tokens": [
+        "나빳다도맞았었는뎀",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "학교나 학원이나 선생님은 다 때렸어...",
+      "tokens": [
+        "학교",
+        "나",
+        "학원",
+        "이나",
+        "선생",
+        "님",
+        "은",
+        "다",
+        "때렸",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "행님들이 맨날 뒷산 불러서 뚜까팸 ㅠㅠ",
+      "tokens": [
+        "행",
+        "님",
+        "들",
+        "이",
+        "맨날",
+        "뒷산",
+        "불러서",
+        "EC",
+        "뚜",
+        "까",
+        "EC",
+        "팸",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 뒷산 키키 어디 시골이야",
+      "tokens": [
+        "키",
+        "키",
+        "뒷산",
+        "키",
+        "키",
+        "ETN",
+        "어디",
+        "시골",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "선생님들이 발바닥 겁나 때림",
+      "tokens": [
+        "선생",
+        "님",
+        "들",
+        "이",
+        "발바닥",
+        "겁나",
+        "EC",
+        "때",
+        "림"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "진짜 시골은 맨날 팸 키키",
+      "tokens": [
+        "진짜",
+        "시골",
+        "은",
+        "맨날",
+        "팸",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나 중1 때 뒷산 한번 끌려는 가봈다",
+      "tokens": [
+        "나중",
+        "1",
+        "때뒷산한번끌려는가봈다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 **는 거기얌 ㅠㅠ 덕산",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "는거기얌ㅠㅠ덕산"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "덕산은 뭐만 하면 뒷산 끌려감",
+      "tokens": [
+        "덕산",
+        "은",
+        "뭐",
+        "만",
+        "하",
+        "면",
+        "뒷산",
+        "끌려감",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 뒷산 키키",
+      "tokens": [
+        "키키뒷산키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "산도 엄청 많고 키키 맞기 딱 좋네",
+      "tokens": [
+        "산",
+        "도",
+        "엄청",
+        "많",
+        "고",
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "기",
+        "딱",
+        "좋",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

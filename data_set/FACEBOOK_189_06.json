@@ -1,0 +1,361 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 회계 공부 중이야 키키",
+      "tokens": [
+        "요즘",
+        "회계",
+        "공부",
+        "중",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 아랍어를 공부중이야",
+      "tokens": [
+        "요즘",
+        "에",
+        "아랍어",
+        "를",
+        "공부",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "요즘에 사회복지를 배우는 중이야",
+      "tokens": [
+        "요즘",
+        "에",
+        "사회",
+        "복지",
+        "를",
+        "배우",
+        "는",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "회계학은 너무 어려워 ㅠㅠ",
+      "tokens": [
+        "회계학",
+        "은",
+        "너무",
+        "어려워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "탈레반 처럼 중동을 정복하고 싶어",
+      "tokens": [
+        "탈레반",
+        "처럼",
+        "중동",
+        "을",
+        "정복",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "회계공부는 너무 머리아파",
+      "tokens": [
+        "회계",
+        "공부",
+        "는",
+        "너무",
+        "머리",
+        "아파",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "경제학이랑 같이 공부중이야 키키",
+      "tokens": [
+        "경제학",
+        "이랑",
+        "같이",
+        "공부",
+        "중",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "일부다체제를 꼭 경험하고 싶어",
+      "tokens": [
+        "일부",
+        "다",
+        "체제",
+        "를",
+        "꼭",
+        "경험",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "해외갈려고 나는 영어공부중이야",
+      "tokens": [
+        "해외",
+        "갈려고",
+        "EC",
+        "나",
+        "는",
+        "영어",
+        "공부",
+        "중",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "수학은 너무 어려운것 같아 ㅜㅜ",
+      "tokens": [
+        "수학",
+        "은",
+        "너무",
+        "어려운",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "경제학은 어렵지 않아?",
+      "tokens": [
+        "경제학",
+        "은",
+        "어렵",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "영어공부하다가 러시아어도 배우고 싶어",
+      "tokens": [
+        "영어",
+        "공부",
+        "하",
+        "다가",
+        "러시아어",
+        "도",
+        "배우",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "해외는 무조건 영어지 키키",
+      "tokens": [
+        "해외",
+        "는",
+        "무조건",
+        "영어",
+        "지키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "수학은 내가 가르쳐줄게",
+      "tokens": [
+        "수학",
+        "은",
+        "내",
+        "가",
+        "가르쳐",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "수학좀 잘 가르쳐줄수 있니",
+      "tokens": [
+        "수학",
+        "좀",
+        "잘",
+        "가르쳐",
+        "EC",
+        "줄",
+        "ETM",
+        "수",
+        "있",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "수학 좀 가르켜줘 고마워 키키",
+      "tokens": [
+        "수학",
+        "좀",
+        "가르켜",
+        "EC",
+        "줘",
+        "EC",
+        "고마워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "러시아어는 너무 섹시한것 같아",
+      "tokens": [
+        "러시아어",
+        "는",
+        "너무",
+        "섹시",
+        "한",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "수학은 해도해도 너무 어렵더라",
+      "tokens": [
+        "수학",
+        "은",
+        "해도",
+        "EC",
+        "해도",
+        "EC",
+        "너무",
+        "어렵",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

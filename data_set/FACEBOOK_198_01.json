@@ -1,0 +1,406 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 점심 식사 했는교 하하",
+      "tokens": [
+        "다",
+        "들",
+        "점심",
+        "식사",
+        "했",
+        "EP",
+        "는교",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "저는 아침 먹고 안 먹었습니다",
+      "tokens": [
+        "저",
+        "는",
+        "아침",
+        "먹",
+        "고",
+        "안",
+        "먹",
+        "었",
+        "습니다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 프로틴바로 대충 때웠어...",
+      "tokens": [
+        "나프",
+        "로틴",
+        "바로",
+        "대충",
+        "때웠",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "밥먹기 귀찮아",
+      "tokens": [
+        "밥",
+        "먹",
+        "기",
+        "귀찮",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "난 오늘 마파 두부 먹었어",
+      "tokens": [
+        "난",
+        "JX",
+        "오늘",
+        "마파두부",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "대신 아아 한잔 하고 끝",
+      "tokens": [
+        "대신",
+        "아아",
+        "한잔",
+        "하",
+        "고",
+        "끝"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "마파 두부!",
+      "tokens": [
+        "마파두부"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맛있었겠다",
+      "tokens": [
+        "맛있",
+        "었",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아침 먹고 안 먹어?",
+      "tokens": [
+        "아침",
+        "먹",
+        "고",
+        "안",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마파두부 좋습니다",
+      "tokens": [
+        "마파두부",
+        "좋",
+        "습니다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "얼얼하니",
+      "tokens": [
+        "얼얼",
+        "하",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어디서 시켜먹었어?",
+      "tokens": [
+        "어디",
+        "서",
+        "시켜",
+        "EC",
+        "먹",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "사해방 마파두부 맛있는디",
+      "tokens": [
+        "사",
+        "해방",
+        "마파두부",
+        "맛있",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "우왕 살 빼는 거야?",
+      "tokens": [
+        "우왕",
+        "살빼",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나중에 여자친구 3시에 마치면 그때 먹으려구요",
+      "tokens": [
+        "나중",
+        "에",
+        "여자",
+        "친구",
+        "3",
+        "시",
+        "에",
+        "마치",
+        "면",
+        "그때",
+        "먹",
+        "으려구요"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "웅...나 이번엔 꼭 뺄 거야",
+      "tokens": [
+        "웅",
+        ".",
+        "나",
+        "이번",
+        "엔",
+        "JX",
+        "꼭",
+        "뺄",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "우리 엄마 마파두부임...!",
+      "tokens": [
+        "우리",
+        "엄마",
+        "마파두부",
+        "임",
+        "ETN",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "굳이 빼는 건 아닌데",
+      "tokens": [
+        "굳이",
+        "빼",
+        "는",
+        "건",
+        "JX",
+        "아닌데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "후 집에서 만든 마파두부 맛나겠다",
+      "tokens": [
+        "후집",
+        "에서",
+        "만든",
+        "ETM",
+        "마파두부",
+        "맛나",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "엄마표 마파두부 지림 하하",
+      "tokens": [
+        "엄마",
+        "표마",
+        "파두",
+        "부지",
+        "림",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "엄마표 음식은 인정",
+      "tokens": [
+        "엄마",
+        "표",
+        "음식",
+        "은",
+        "인정"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "포장 좀 해놔",
+      "tokens": [
+        "포장",
+        "좀",
+        "해",
+        "EC",
+        "놔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나중에 가지러가겠음",
+      "tokens": [
+        "나중",
+        "에",
+        "가지",
+        "러",
+        "가",
+        "겠",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_198_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠는 게임도 야구 게임 했음...",
+      "tokens": [
+        "오빠",
+        "는",
+        "게임",
+        "도",
+        "야구",
+        "게임",
+        "했",
+        "EP",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 난 야구 게임 했어",
+      "tokens": [
+        "맞",
+        "아",
+        "난",
+        "ETM",
+        "야구",
+        "게임",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 진짜 게임은 재밌나 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "게임",
+        "은",
+        "재밌",
+        "나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "야구 보면서 야구 게임 하기",
+      "tokens": [
+        "야구",
+        "보",
+        "면서",
+        "야구",
+        "게임",
+        "하",
+        "기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 요새 그것도 잘 안함 하하",
+      "tokens": [
+        "근데",
+        "요새",
+        "그것",
+        "도",
+        "잘",
+        "안",
+        "함하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그냥 보는게 재밌는 거 아냐 키키",
+      "tokens": [
+        "그냥",
+        "보",
+        "는",
+        "게",
+        "JKS",
+        "재밌",
+        "는",
+        "거",
+        "아냐",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "게임 완전 재미 없지",
+      "tokens": [
+        "게임",
+        "완전",
+        "재미",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "*** 10카 만들었는데 ㅠㅠ 사고침",
+      "tokens": [
+        "*",
+        "*",
+        "*",
+        "10",
+        "카만들었는데ㅠㅠ사고침"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 야구를 하러 가진 않지 키키?",
+      "tokens": [
+        "근데",
+        "야구",
+        "를",
+        "하",
+        "러",
+        "가진",
+        "ETM",
+        "않",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마자 보는 게 재밌지",
+      "tokens": [
+        "마자",
+        "보",
+        "는",
+        "게",
+        "JKS",
+        "재밌",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요새 안 나와 아주 짜증 하하",
+      "tokens": [
+        "요새",
+        "안",
+        "나와",
+        "EC",
+        "아주",
+        "짜증",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 보는 걸 좋아하는구나 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "보",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "하",
+        "는구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "야구 게임는 난 노잼이더라",
+      "tokens": [
+        "야구",
+        "게임",
+        "는",
+        "난",
+        "JX",
+        "노",
+        "잼",
+        "이",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "꽤 재밌는데 헐헐",
+      "tokens": [
+        "꽤",
+        "재밌",
+        "는데",
+        "헐헐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 그전에 차 막혀서 나오는데 마지막에 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "그",
+        "전",
+        "에",
+        "차",
+        "막혀서",
+        "EC",
+        "나오",
+        "는데",
+        "마지막",
+        "에",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "실제 야구는 안가심 키키",
+      "tokens": [
+        "실제",
+        "야구",
+        "는",
+        "안",
+        "가",
+        "심",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "담에 도전해보렴 하하 다시",
+      "tokens": [
+        "담",
+        "에",
+        "도",
+        "전해",
+        "EC",
+        "보",
+        "렴",
+        "하하",
+        "다시"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그니까 다 야구를 직접하던데",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까",
+        "다",
+        "야구",
+        "를",
+        "직접",
+        "하",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

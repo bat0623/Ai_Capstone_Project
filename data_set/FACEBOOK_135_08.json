@@ -1,0 +1,427 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "둘은 종교가 있어?",
+      "tokens": [
+        "둘",
+        "은",
+        "종교",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 무교?",
+      "tokens": [
+        "나",
+        "는",
+        "무교"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "집안은 불교",
+      "tokens": [
+        "집안",
+        "은",
+        "불교"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 종교가 없는 편인데 불교!",
+      "tokens": [
+        "나",
+        "는",
+        "종교",
+        "가",
+        "없",
+        "는",
+        "편",
+        "인데",
+        "EC",
+        "불교"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "부모님은 기독교 어떻게 생각하셔?",
+      "tokens": [
+        "부모",
+        "님",
+        "은",
+        "기독교",
+        "어떻게",
+        "생각",
+        "하",
+        "셔",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "누난 어때 키키",
+      "tokens": [
+        "누난",
+        "JX",
+        "어때",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "종교 있어?",
+      "tokens": [
+        "종교",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "집이 불교라서 절에도 가고 키키",
+      "tokens": [
+        "집",
+        "이",
+        "불교",
+        "라서",
+        "EC",
+        "절",
+        "에",
+        "도",
+        "가",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "결혼할 때 종교 문제가 크다...?",
+      "tokens": [
+        "결혼",
+        "할",
+        "ETM",
+        "때",
+        "종교",
+        "문제",
+        "가",
+        "크",
+        "다",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "우리 부모님은 첨에 싫어하셨어 ㅠㅠ",
+      "tokens": [
+        "우리",
+        "부모",
+        "님",
+        "은",
+        "첨",
+        "에",
+        "싫",
+        "어",
+        "하",
+        "셨",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "요즘은 쏘쏘",
+      "tokens": [
+        "요즘",
+        "은",
+        "쏘",
+        "쏘"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "우리 집은 기독교를... 좋아하지 않는 듯... 해",
+      "tokens": [
+        "우리",
+        "집",
+        "은",
+        "기독교",
+        "를",
+        ".",
+        "좋",
+        "아",
+        "하",
+        "지",
+        "않",
+        "는",
+        "듯",
+        ".",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 종교가 없어 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "종교",
+        "가",
+        "없",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 호불호 확실하다 종교도 키키",
+      "tokens": [
+        "진짜",
+        "호불호",
+        "확실",
+        "하",
+        "다",
+        "종교",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "너무 문화가 다르지 않아?...",
+      "tokens": [
+        "너무",
+        "문화",
+        "가",
+        "다르",
+        "지",
+        "않",
+        "아",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그니까 기독교인 여자친구 어때?",
+      "tokens": [
+        "그니까",
+        "기독교",
+        "인",
+        "ETM",
+        "여자",
+        "친구",
+        "어때",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나는 뭐 너무 강요만 안 하면…",
+      "tokens": [
+        "나",
+        "는",
+        "뭐",
+        "너무",
+        "강요",
+        "만",
+        "안",
+        "하",
+        "면",
+        "…"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "여자친구는 괜찮은데... 부모님이 싫어하실 듯 ㅠㅠ",
+      "tokens": [
+        "여자",
+        "친구",
+        "는",
+        "괜찮",
+        "은데",
+        ".",
+        "부모님이싫어하실듯ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "꼭 같이 교회를 가야 해",
+      "tokens": [
+        "꼭",
+        "같이",
+        "교회",
+        "를",
+        "가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "무조건 일요일마다.",
+      "tokens": [
+        "무조건",
+        "일요일",
+        "마다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그게 믿는 건 상관없는데 강요가 싫어 ㅠㅠ",
+      "tokens": [
+        "그게",
+        "JKS",
+        "믿",
+        "는",
+        "건",
+        "JX",
+        "상관없",
+        "는데",
+        "강요",
+        "가",
+        "싫",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그건 진짜... 싫다",
+      "tokens": [
+        "그건",
+        "JX",
+        "진짜",
+        ".",
+        "싫",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_135_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

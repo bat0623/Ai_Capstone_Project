@@ -1,0 +1,471 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아이돌들이 문제라고 본다",
+      "tokens": [
+        "아이",
+        "돌",
+        "들",
+        "이",
+        "문제",
+        "라고",
+        "EC",
+        "본다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아이돌들을 무지성으로 따라 하려는 게 문제지 ㅠㅠ",
+      "tokens": [
+        "아이",
+        "돌",
+        "들",
+        "을",
+        "무지",
+        "성",
+        "으로",
+        "따라",
+        "EC",
+        "하",
+        "려는",
+        "게",
+        "JKS",
+        "문제지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "적당한 선에서 미를 추구해야 하는데",
+      "tokens": [
+        "적당",
+        "한",
+        "ETM",
+        "선",
+        "에서",
+        "미",
+        "를",
+        "추구",
+        "해야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "대중이 넘 마름을 요구해",
+      "tokens": [
+        "대중",
+        "이",
+        "넘",
+        "마름",
+        "을",
+        "요구",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그렇긴 하지 ㅠㅠ",
+      "tokens": [
+        "그렇긴하지ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "건강돌 이런 거 나와야 함",
+      "tokens": [
+        "건강",
+        "돌",
+        "이런",
+        "거",
+        "나와야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그니까 마름이 곧 예쁨이 되어 버렸잖아",
+      "tokens": [
+        "그니까",
+        "마름",
+        "이",
+        "곧",
+        "예쁨",
+        "ETN",
+        "이",
+        "되",
+        "어",
+        "버렸",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "얌 좀만 통통한 애들 악플 주루루루루륵 달림;",
+      "tokens": [
+        "얌좀만통통한애들악플주루루루루륵달림",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "다행히 남돌들은 요즘 근육 애들 나와서",
+      "tokens": [
+        "다행히",
+        "남",
+        "돌",
+        "들",
+        "은",
+        "요즘",
+        "근육",
+        "애",
+        "들",
+        "나와서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그니까; 불편하다 그런 거",
+      "tokens": [
+        "그니까",
+        ";",
+        "불편",
+        "하",
+        "다",
+        "그런",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "근육돌이 지배해야 한다",
+      "tokens": [
+        "근육",
+        "돌",
+        "이",
+        "지배",
+        "해야",
+        "EC",
+        "한다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "통통도 아니다 진짜",
+      "tokens": [
+        "통통",
+        "도",
+        "아니",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거 보고 좀 운동하려는 사람도 많다는 게 나는 좀 마른 것보단 나음",
+      "tokens": [
+        "그거",
+        "보고",
+        "좀",
+        "운동",
+        "하",
+        "려는",
+        "사람",
+        "도",
+        "많",
+        "다는",
+        "게",
+        "JKS",
+        "나",
+        "는",
+        "좀",
+        "마른",
+        "ETM",
+        "것",
+        "보단",
+        "JX",
+        "나",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "방송 화면에서도 말라 보이는데 실제로 보면 더 말라서 불쌍해 보이던데;",
+      "tokens": [
+        "방송",
+        "화면",
+        "에서",
+        "도",
+        "말라",
+        "EC",
+        "보이",
+        "는데",
+        "실제로",
+        "보",
+        "면",
+        "더",
+        "말라서",
+        "EC",
+        "불쌍",
+        "해",
+        "EC",
+        "보이",
+        "던데",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그니까 근육돌이 지배 해야 한다 키키",
+      "tokens": [
+        "그니까",
+        "근육",
+        "돌",
+        "이",
+        "지배",
+        "해야",
+        "EC",
+        "한",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "뼈말라 노노!",
+      "tokens": [
+        "뼈",
+        "말라",
+        "EC",
+        "노노"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근육돌도 사실 적폐임...",
+      "tokens": [
+        "근육",
+        "돌",
+        "도",
+        "사실",
+        "적폐",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "ㅇㅈ ... 사실상 불가능함...",
+      "tokens": [
+        "ㅇㅈ",
+        ".",
+        "사실상",
+        "불",
+        "가능",
+        "함",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "얌 그래서 어디 패션쇼는 bmi 얼마 이하는 쇼에서 뺀대 넘 이게 심각해서",
+      "tokens": [
+        "얌",
+        "그래서",
+        "어디",
+        "패션쇼",
+        "는",
+        "bmi",
+        "얼마",
+        "이하",
+        "는",
+        "쇼",
+        "에서",
+        "뺀대",
+        "EF",
+        "넘",
+        "이게",
+        "JKS",
+        "심각",
+        "해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "바디 프로필 찍으면 사람 죽어 난다...",
+      "tokens": [
+        "바디",
+        "프로필",
+        "찍",
+        "으면",
+        "사람",
+        "죽어난다",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "몸 진짜 안 좋아짐",
+      "tokens": [
+        "몸",
+        "진짜",
+        "안",
+        "좋",
+        "아",
+        "짐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "모델 건강도 걱정해야 한다 진짜",
+      "tokens": [
+        "모델",
+        "건강",
+        "도",
+        "걱정",
+        "해야",
+        "EC",
+        "한다",
+        "EF",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

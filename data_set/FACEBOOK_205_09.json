@@ -1,0 +1,369 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "벅수 개껌도 한번 안 사 주구",
+      "tokens": [
+        "벅",
+        "수개",
+        "껌",
+        "도",
+        "한번",
+        "안",
+        "사",
+        "EC",
+        "주",
+        "구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "개껌 내가 사줄게~",
+      "tokens": [
+        "개",
+        "껌",
+        "내",
+        "가",
+        "사",
+        "EC",
+        "줄",
+        "ETM",
+        "게",
+        "JKS",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "벅수 알러지 때문에 내가 그러지",
+      "tokens": [
+        "벅수",
+        "알",
+        "러지",
+        "때문",
+        "에",
+        "내",
+        "가",
+        "그러",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벅수는 개껌 웜지스? 그거 먹음",
+      "tokens": [
+        "벅수는개껌웜지스",
+        "그거",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "웜지스 그것만 먹나 벅수는",
+      "tokens": [
+        "웜",
+        "지스",
+        "그것",
+        "만",
+        "먹",
+        "나",
+        "벅수",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "벅수 알러지 없으면 박스떼기로 사다 줬다",
+      "tokens": [
+        "벅수",
+        "알",
+        "러지",
+        "없",
+        "으면",
+        "박스",
+        "떼",
+        "기",
+        "로",
+        "사",
+        "다",
+        "줬",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "개껌은 먹거든? 어이 없넹",
+      "tokens": [
+        "개",
+        "껌",
+        "은",
+        "먹",
+        "거든",
+        "어이없",
+        "넹"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "벅수는 입이 까다로운 강아지야",
+      "tokens": [
+        "벅수",
+        "는",
+        "입",
+        "이",
+        "까다로운",
+        "ETM",
+        "강아지",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "하하... 안 사주기 실패...^^",
+      "tokens": [
+        "하하",
+        ".",
+        "안",
+        "사",
+        "EC",
+        "주",
+        "기",
+        "실패",
+        ".",
+        ".",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "웜지스는 먹음 키키",
+      "tokens": [
+        "웜지스는먹음키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래서 물어보고 사야 해!",
+      "tokens": [
+        "그래서",
+        "물",
+        "어",
+        "보",
+        "고",
+        "사",
+        "야",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 알따... 다음 주나 한 박스 보내께",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "알",
+        "따",
+        ".",
+        "다음",
+        "주",
+        "나",
+        "한",
+        "박스",
+        "보내",
+        "께"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "지금 미용실 갔어 ㅠㅠ",
+      "tokens": [
+        "지금",
+        "미용실",
+        "갔",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "웜지스 메모장에 적어둔다!",
+      "tokens": [
+        "웜",
+        "지스",
+        "메모장",
+        "에",
+        "적",
+        "어",
+        "둔다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오 미용 결국 보냈네?",
+      "tokens": [
+        "오미",
+        "용",
+        "결국",
+        "보냈",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "벅수니 스트레스 받을 듯...!",
+      "tokens": [
+        "벅",
+        "수니",
+        "스트레스",
+        "받",
+        "을",
+        "듯",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "미용실 갔네 벅수 드디어",
+      "tokens": [
+        "미용실",
+        "갔",
+        "EP",
+        "네",
+        "벅수",
+        "드디어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "집에 왔을 때 간식 주면서 잘해줘",
+      "tokens": [
+        "집",
+        "에",
+        "왔",
+        "EP",
+        "을",
+        "때",
+        "간식",
+        "주",
+        "면서",
+        "잘",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_205_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

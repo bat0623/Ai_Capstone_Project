@@ -1,0 +1,492 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠는 아빠 회사에서 일행...!",
+      "tokens": [
+        "오빠",
+        "는",
+        "아빠",
+        "회사",
+        "에서",
+        "일행",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아! 거기서 일하시는구나",
+      "tokens": [
+        "아",
+        "거기",
+        "서",
+        "일",
+        "하",
+        "시",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "엥 모라고?",
+      "tokens": [
+        "엥",
+        "모",
+        "라고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이직함?",
+      "tokens": [
+        "이직",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아버지가 회사 사장님이셔... ㄷㄷ",
+      "tokens": [
+        "아버지",
+        "가",
+        "회사",
+        "사장",
+        "님",
+        "이",
+        "셔",
+        "EF",
+        ".",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아 정말?",
+      "tokens": [
+        "아",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "대박이다...",
+      "tokens": [
+        "대박",
+        "이",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 나 말한 거였어? 키키",
+      "tokens": [
+        "아",
+        "나말",
+        "한",
+        "ETM",
+        "거",
+        "였",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "당연히 남편 말하는 줄 키키",
+      "tokens": [
+        "당연히",
+        "남편",
+        "말",
+        "하",
+        "는",
+        "줄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "당신 말한거여...",
+      "tokens": [
+        "당신",
+        "말",
+        "한",
+        "ETM",
+        "거",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "유... you",
+      "tokens": [
+        "유",
+        ".",
+        ".",
+        "you"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "와 멋있다...",
+      "tokens": [
+        "와",
+        "멋있",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "금수저인가여",
+      "tokens": [
+        "금수",
+        "저인",
+        "VCP",
+        "ETM",
+        "가여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "깜짝 놀랬네 키키",
+      "tokens": [
+        "깜짝",
+        "놀랬",
+        "EP",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이직한 줄 키키",
+      "tokens": [
+        "이직",
+        "한",
+        "ETM",
+        "줄",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나중에 오빠가 사장님이 되는 거지",
+      "tokens": [
+        "나중",
+        "에",
+        "오빠",
+        "가",
+        "사장",
+        "님",
+        "이",
+        "되",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "행님 멋있어요...",
+      "tokens": [
+        "행",
+        "님",
+        "멋있",
+        "어요",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아빠 사장이면...",
+      "tokens": [
+        "아빠",
+        "사장",
+        "이",
+        "면",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "금수저 아니구 노예...ㅜㅜ",
+      "tokens": [
+        "금",
+        "수저",
+        "아니",
+        "구",
+        "노예",
+        ".",
+        ".",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "간지...",
+      "tokens": [
+        "간지",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나도 한자리 주면 안되니?",
+      "tokens": [
+        "나",
+        "도",
+        "한",
+        "자리",
+        "주",
+        "면",
+        "안",
+        "되",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나중에 행님이 사장...",
+      "tokens": [
+        "나중",
+        "에",
+        "행",
+        "님",
+        "이사장",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "사장님 안된다고 키키",
+      "tokens": [
+        "사장",
+        "님",
+        "안",
+        "된다고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "무슨...",
+      "tokens": [
+        "무슨",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "나중에 오빠가 사장...",
+      "tokens": [
+        "나중",
+        "에",
+        "오빠",
+        "가",
+        "사장",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "저도 한자리 어디 안 될까여...",
+      "tokens": [
+        "저",
+        "도",
+        "한",
+        "자리",
+        "어디",
+        "안",
+        "될까",
+        "EF",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "나는 그냥 직원이야...",
+      "tokens": [
+        "나",
+        "는",
+        "그냥",
+        "직원",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_154_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

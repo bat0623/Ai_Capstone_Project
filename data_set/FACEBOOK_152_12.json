@@ -1,0 +1,401 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**는 성지 순례를 다녀 왔어...",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "성지",
+        "순례",
+        "를",
+        "다녀왔",
+        "EP",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "하하하... 800키로미터 시원하게 걷고 왔죠",
+      "tokens": [
+        "하하하",
+        ".",
+        ".",
+        "800",
+        "키로",
+        "ETN",
+        "JKB",
+        "미터",
+        "시원",
+        "하",
+        "게",
+        "걷",
+        "고",
+        "왔",
+        "EP",
+        "죠"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "산티아고 성지순례?",
+      "tokens": [
+        "산티아고",
+        "성지",
+        "순례"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오우...",
+      "tokens": [
+        "오우",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "산티아고 성지 순례 대단하지?",
+      "tokens": [
+        "산티아고",
+        "성지",
+        "순례",
+        "대단",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "배낭 10키로짜리 메고 키키",
+      "tokens": [
+        "배낭",
+        "10",
+        "키로짜리메고키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나 아는 동생은 시간 없다고 자전거 타고 순례갈기던데",
+      "tokens": [
+        "나아",
+        "는",
+        "동생",
+        "은",
+        "시간",
+        "없",
+        "다고",
+        "자전거",
+        "타",
+        "고",
+        "순례",
+        "갈기",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "엉 완전 대단한 친구임",
+      "tokens": [
+        "엉",
+        "완전",
+        "대단",
+        "한",
+        "ETM",
+        "친구",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "쫄래 쫄래 다녀왔습니다 키키",
+      "tokens": [
+        "쫄래쫄래",
+        "다녀왔",
+        "EP",
+        "습니다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "30일 걸렸어요 키키",
+      "tokens": [
+        "30",
+        "일",
+        "걸렸",
+        "EP",
+        "어요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그거도 순례 완주 인정하는 부분?",
+      "tokens": [
+        "그거",
+        "도",
+        "순례",
+        "완주",
+        "인정",
+        "하",
+        "는",
+        "부분"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "자전거 타고 가도 됨?",
+      "tokens": [
+        "자전거",
+        "타",
+        "고",
+        "가도",
+        "됨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "자전거도 엄청 많이 타요 키키",
+      "tokens": [
+        "자전거",
+        "도",
+        "엄청",
+        "많이",
+        "타",
+        "요",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "MTB하나 빌려서 그렇게 하대",
+      "tokens": [
+        "MTB",
+        "하나",
+        "빌려서",
+        "EC",
+        "그렇게",
+        "하대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "30일 걸렸어?...",
+      "tokens": [
+        "30",
+        "일",
+        "걸렸",
+        "EP",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "힘들면 중간에 버스도 타고 하던데 사람들은",
+      "tokens": [
+        "힘들",
+        "면",
+        "중간",
+        "에",
+        "버스",
+        "도",
+        "타",
+        "고",
+        "하",
+        "던데",
+        "사람",
+        "들",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 진짜 고행의 길이네",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "진짜",
+        "고행",
+        "의",
+        "길",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "자전거 타고 가면 얼마 걸림?",
+      "tokens": [
+        "자전거",
+        "타",
+        "고",
+        "가",
+        "면",
+        "얼마",
+        "걸림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "꼭 다 걸으라는 법은 없으니까 키키",
+      "tokens": [
+        "꼭",
+        "다",
+        "걸으",
+        "EP",
+        "라는",
+        "법",
+        "은",
+        "없",
+        "으니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "몰게써",
+      "tokens": [
+        "몰",
+        "게",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "시간이 촉박하다고 자전거 타더라구",
+      "tokens": [
+        "시간",
+        "이",
+        "촉박",
+        "하",
+        "다고",
+        "자전거",
+        "타",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_152_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

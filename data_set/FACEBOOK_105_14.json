@@ -1,0 +1,498 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠 이번에 로또 샀어?",
+      "tokens": [
+        "오빠",
+        "이번",
+        "에",
+        "로또",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 매주에 항상 만 원씩 사",
+      "tokens": [
+        "나",
+        "매주",
+        "에",
+        "항상",
+        "만",
+        "원",
+        "씩",
+        "사",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 지금 시간이면 당첨번호 나왔을 텐데?",
+      "tokens": [
+        "키",
+        "키",
+        "지금",
+        "시간",
+        "이",
+        "면",
+        "당첨",
+        "번호",
+        "나왔",
+        "EP",
+        "을",
+        "텐데",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "근데 항상 다음날 확인해 나는 ^^",
+      "tokens": [
+        "근데",
+        "항상",
+        "다음",
+        "날",
+        "확인",
+        "해",
+        "EC",
+        "나",
+        "는",
+        "^",
+        "^"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "내가 지금 알려줄까?",
+      "tokens": [
+        "내",
+        "가",
+        "지금",
+        "알려줄까",
+        "EC",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "당첨되면 토요일 일요일 2틀 못 자는데 일요일 날 확인하면 하루만 새면 되잖아 키키",
+      "tokens": [
+        "당첨",
+        "되",
+        "면",
+        "토요일",
+        "일요일",
+        "2",
+        "틀못자는데일요일날확인하면하루만새면되잖아키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 나는 오늘 샀으면 5천 원 당첨됐었어!",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "오늘",
+        "샀으면",
+        "EP",
+        "EC",
+        "5",
+        "천",
+        "원",
+        "당첨",
+        "됐었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "5천 원?",
+      "tokens": [
+        "5",
+        "천",
+        "원"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그냥 본전 아니야?",
+      "tokens": [
+        "그냥",
+        "본전",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "냅둬 걍",
+      "tokens": [
+        "냅둬걍"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 그래도 5천 원 당첨된 게 어디야!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그래도",
+        "EC",
+        "5",
+        "천",
+        "원",
+        "당첨",
+        "된",
+        "ETM",
+        "게",
+        "JKS",
+        "어디",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래 맞아",
+      "tokens": [
+        "그래",
+        "EC",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나는 맨날 그렇게 사는데도 천 원도 안된다 키키",
+      "tokens": [
+        "나",
+        "는",
+        "맨날",
+        "그렇게",
+        "사",
+        "는데도",
+        "천",
+        "원",
+        "도",
+        "안",
+        "된",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 근데 이번에 당첨자 10명 나왔대!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "이번",
+        "에",
+        "당첨자",
+        "10",
+        "명",
+        "나왔",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "대박",
+      "tokens": [
+        "대박"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그럼 나눠 갖는 사람이 많아서 당첨금 적겠네~",
+      "tokens": [
+        "그럼",
+        "나눠",
+        "EC",
+        "갖",
+        "는",
+        "사람",
+        "이",
+        "많",
+        "아서",
+        "당첨금",
+        "적",
+        "겠",
+        "EP",
+        "네",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그래서 이번에 24억씩 가져간다더라~",
+      "tokens": [
+        "그래서",
+        "이번",
+        "에",
+        "24",
+        "억",
+        "씩",
+        "가져",
+        "EC",
+        "간다더라",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "오? 생각보다는 많은데?",
+      "tokens": [
+        "오",
+        "생각",
+        "보다",
+        "는",
+        "많",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "평균 당첨자들이 몇 명인 거지...",
+      "tokens": [
+        "평균",
+        "당첨자",
+        "들",
+        "이",
+        "몇",
+        "명",
+        "인",
+        "ETM",
+        "거",
+        "지",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "오빠 세금 뗄 생각 안 해~?  키키",
+      "tokens": [
+        "오빠",
+        "세금",
+        "뗄",
+        "ETM",
+        "생각",
+        "안",
+        "해",
+        "EC",
+        "~",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "세금 당연히 드려야죠...",
+      "tokens": [
+        "세금",
+        "당연히",
+        "드려야",
+        "EC",
+        "VX",
+        "죠",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "꽁돈인데 그거 못 주겠니 ㅎ",
+      "tokens": [
+        "꽁",
+        "돈",
+        "인데",
+        "EC",
+        "그거",
+        "못",
+        "주",
+        "겠",
+        "니",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_105_14.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

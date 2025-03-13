@@ -1,0 +1,474 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아빠 생일 선물 어떤 거 갖고 싶으소",
+      "tokens": [
+        "아빠",
+        "생일",
+        "선물",
+        "어떤",
+        "거",
+        "갖",
+        "고",
+        "싶",
+        "으소"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "딸이 사주려나 봐 어서 골라요",
+      "tokens": [
+        "딸",
+        "이",
+        "사",
+        "EC",
+        "주",
+        "려나",
+        "봐",
+        "어서",
+        "골라요",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "이런 기회가 또 없지",
+      "tokens": [
+        "이런",
+        "기회",
+        "가",
+        "또",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "누가 보면 평생 아무것도 안 사줬다고 생각하겠어",
+      "tokens": [
+        "누가",
+        "JKS",
+        "보",
+        "면",
+        "평생",
+        "아무것",
+        "도",
+        "안",
+        "사",
+        "EC",
+        "줬",
+        "EP",
+        "다고",
+        "생각",
+        "하",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아냐",
+      "tokens": [
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리 딸이 맛있는 것도 많이 해 주잖아",
+      "tokens": [
+        "우리",
+        "딸",
+        "이",
+        "맛있",
+        "는",
+        "것",
+        "도",
+        "많이",
+        "해",
+        "EC",
+        "주",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그럼 딴 선물보다 그게 크지",
+      "tokens": [
+        "그럼",
+        "딴",
+        "선물",
+        "보다",
+        "그게",
+        "JKS",
+        "크",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "요즘 뭐 필요한 거 없어",
+      "tokens": [
+        "요즘",
+        "뭐",
+        "필요",
+        "한",
+        "ETM",
+        "거",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "선물로 사 드릴게",
+      "tokens": [
+        "선물",
+        "로",
+        "사",
+        "EC",
+        "드릴",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아빠 화장품도 아직 남아 있는데",
+      "tokens": [
+        "아빠",
+        "화장품",
+        "도",
+        "아직",
+        "남",
+        "아",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "겨울 모자 필요해",
+      "tokens": [
+        "겨울",
+        "모자",
+        "필요",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "모자 사 줘",
+      "tokens": [
+        "모자",
+        "사",
+        "줘",
+        "VV",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "오 좋아",
+      "tokens": [
+        "오",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "골프 모자 같은 거?",
+      "tokens": [
+        "골프",
+        "모자",
+        "같",
+        "은",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그런 거는 평소에 쓰기 그렇지 않나?",
+      "tokens": [
+        "그런",
+        "거",
+        "는",
+        "평소",
+        "에",
+        "쓰",
+        "기",
+        "그렇",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그냥 등산 갈 때나 산책 갈 때 쓰고 싶어",
+      "tokens": [
+        "그냥",
+        "등산",
+        "갈",
+        "ETM",
+        "때",
+        "나",
+        "산책",
+        "갈",
+        "ETM",
+        "때",
+        "쓰",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그럼 그냥 골프 모자 아닌 걸로 사야겠네",
+      "tokens": [
+        "그럼",
+        "그냥",
+        "골프",
+        "모자",
+        "아닌",
+        "ETM",
+        "걸로",
+        "JKB",
+        "사",
+        "야",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어디 가서 사면 좋을까?",
+      "tokens": [
+        "어디",
+        "가",
+        "서사",
+        "면",
+        "EC",
+        "좋",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아울렛에 가 볼까?",
+      "tokens": [
+        "아울렛",
+        "에",
+        "가",
+        "EC",
+        "볼까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "거기 많잖아",
+      "tokens": [
+        "거기",
+        "많",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그러자",
+      "tokens": [
+        "그러",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아울렛에 스포츠 브랜드도 있고",
+      "tokens": [
+        "아울렛",
+        "에",
+        "스포츠",
+        "브랜드",
+        "도",
+        "있",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "와 딸이 아빠 선물도 사주고 부럽다",
+      "tokens": [
+        "와",
+        "딸",
+        "이",
+        "아빠",
+        "선물",
+        "도",
+        "사",
+        "EC",
+        "주",
+        "고",
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "엄마 생일은 다음 달이니까 기대해 보자고",
+      "tokens": [
+        "엄마",
+        "생일",
+        "은",
+        "다음",
+        "달",
+        "이",
+        "니까",
+        "기대",
+        "해",
+        "EC",
+        "보",
+        "자고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 지금 호감 가는 사람 있어?",
+      "tokens": [
+        "언니",
+        "는",
+        "지금",
+        "호감",
+        "가",
+        "는",
+        "사람",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "호감 가는 사람은 딱히 없어ㅠㅠ",
+      "tokens": [
+        "호감",
+        "가",
+        "는",
+        "사람",
+        "은",
+        "딱히",
+        "없",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그러면 중국에 있었을 때 사귀던 남자친구 있었어?",
+      "tokens": [
+        "그러면",
+        "중국",
+        "에",
+        "있",
+        "었",
+        "을",
+        "때",
+        "사귀",
+        "던",
+        "남자",
+        "친구",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 있었는데 연락 문제로 많이 싸웠어 하하",
+      "tokens": [
+        "응",
+        "있",
+        "었",
+        "는데",
+        "연락",
+        "문제",
+        "로",
+        "많이",
+        "싸웠",
+        "EP",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그렇구나 ㅜㅜ",
+      "tokens": [
+        "그렇구나ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그 사람은 중국 사람이었어?",
+      "tokens": [
+        "그",
+        "사람",
+        "은",
+        "중국",
+        "사람",
+        "이",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아니~ 한국에서 사귀던 사람이야 하하",
+      "tokens": [
+        "아니",
+        "~",
+        "한국",
+        "에서",
+        "사귀",
+        "던",
+        "사람",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "아 한국에서 사귀다가 같이 중국으로 간 거야?",
+      "tokens": [
+        "아",
+        "한국",
+        "에서",
+        "사귀",
+        "다가",
+        "같이",
+        "중국",
+        "으로",
+        "간",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그 사람은 한국에 있었어",
+      "tokens": [
+        "그",
+        "사람",
+        "은",
+        "한국",
+        "에",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "멀리 있으니까 연락이 잘 안 됐구나 ㅜㅜ",
+      "tokens": [
+        "멀리",
+        "있",
+        "으니까",
+        "연락",
+        "이",
+        "잘",
+        "안",
+        "됐",
+        "EP",
+        "구나",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "응 하하 그래서 좀 힘들었지~",
+      "tokens": [
+        "응",
+        "하하",
+        "그래서",
+        "좀",
+        "힘들",
+        "었",
+        "지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "언니는 타지에 있어서 더 힘들었겠다 ㅜㅜ",
+      "tokens": [
+        "언니",
+        "는",
+        "타지",
+        "에",
+        "있",
+        "어서",
+        "더",
+        "힘들",
+        "었",
+        "겠",
+        "다",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "응 타지 생활이 그래서 힘든가 봐~",
+      "tokens": [
+        "응",
+        "타지",
+        "생활",
+        "이",
+        "그래서",
+        "힘든가",
+        "EC",
+        "봐",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "중국에서는 썸 타던 사람은 없었고?",
+      "tokens": [
+        "중국",
+        "에서",
+        "는",
+        "썸",
+        "타",
+        "던",
+        "사람",
+        "은",
+        "없",
+        "었",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "썸 타고 싶었지만 잘 참았지 키키",
+      "tokens": [
+        "썸",
+        "타",
+        "고",
+        "싶",
+        "었",
+        "지만",
+        "잘",
+        "참",
+        "았",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "흙 ㅜㅜ 맴찢이다",
+      "tokens": [
+        "흙ㅜㅜ맴찢이다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그냥 중국에서는 심심하게 놀다 왔겠구먼!",
+      "tokens": [
+        "그냥",
+        "중국",
+        "에서",
+        "는",
+        "심심",
+        "하",
+        "게",
+        "놀",
+        "다",
+        "왔",
+        "EP",
+        "겠",
+        "구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "다음에 가면 꼭 썸 타야지 키키",
+      "tokens": [
+        "다음",
+        "에",
+        "가",
+        "면",
+        "꼭",
+        "썸",
+        "타",
+        "야지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_109_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

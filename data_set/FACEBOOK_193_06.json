@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 대학생들 엄청 불쌍 하더라...",
+      "tokens": [
+        "요즘",
+        "대학생",
+        "들",
+        "엄청",
+        "불쌍",
+        "하",
+        "더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그래 ㅠㅠ",
+      "tokens": [
+        "그래ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "코로나 때문에 불쌍 ㅠ",
+      "tokens": [
+        "코로나",
+        "때문",
+        "에",
+        "불",
+        "ETM",
+        "쌍ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "학교 생활이...있는 거가 ㅠㅠ",
+      "tokens": [
+        "학교",
+        "생활",
+        "이",
+        ".",
+        ".",
+        "있",
+        "는",
+        "거",
+        "가",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "불쌍",
+      "tokens": [
+        "불쌍"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아... 엠티도 안간다데...",
+      "tokens": [
+        "아",
+        ".",
+        "엠티",
+        "도",
+        "안",
+        "간다데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "체육 대회도...",
+      "tokens": [
+        "체육",
+        "대회",
+        "도",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그게 존잼인데 ㅠ",
+      "tokens": [
+        "그게존잼인데ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "대학교의 추억이 있는데 ~",
+      "tokens": [
+        "대학교",
+        "의",
+        "추억",
+        "이",
+        "있",
+        "는데",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그냥 모든 학교 생활 삭제래",
+      "tokens": [
+        "그냥",
+        "모든",
+        "학교",
+        "생활",
+        "삭제",
+        "래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "술도 퍼먹고 토도 하고 해야 대학 생활이지",
+      "tokens": [
+        "술",
+        "도",
+        "퍼먹",
+        "고",
+        "토도",
+        "하고",
+        "해야",
+        "EC",
+        "대학",
+        "생활",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그런 게 한 개도 못해서 불쌍",
+      "tokens": [
+        "그런",
+        "게",
+        "JKS",
+        "한",
+        "개",
+        "도",
+        "못",
+        "해서",
+        "EC",
+        "불쌍"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "동기들이 누군지 잘 모른대",
+      "tokens": [
+        "동기",
+        "들",
+        "이",
+        "누군지",
+        "VCP",
+        "EC",
+        "잘",
+        "모른대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "동기가 누군지도 모르겠다",
+      "tokens": [
+        "동기",
+        "가",
+        "누군지",
+        "VCP",
+        "EC",
+        "도",
+        "모르",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "축제도 하면 다른 학교 술 먹으러 가고 했는데",
+      "tokens": [
+        "축제",
+        "도",
+        "하",
+        "면",
+        "다른",
+        "학교",
+        "술",
+        "먹",
+        "으러",
+        "가",
+        "고",
+        "했",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "대학 생활의 로망이 있는데",
+      "tokens": [
+        "대학",
+        "생활",
+        "의",
+        "로망",
+        "이",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그냥 그렇게 졸업하겠네 ㅠㅠ",
+      "tokens": [
+        "그냥",
+        "그렇게",
+        "졸업",
+        "하",
+        "겠",
+        "네",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "이제 그런 것도 없고 아쉽네",
+      "tokens": [
+        "이제",
+        "그런",
+        "것",
+        "도",
+        "없",
+        "고",
+        "아쉽",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "불쌍하더리",
+      "tokens": [
+        "불쌍",
+        "하",
+        "더리"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "코로나 무엇 ㅠㅠ",
+      "tokens": [
+        "코로나무엇ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "애들 스펙만 높아진다던데 ;",
+      "tokens": [
+        "애들스펙만높아진다던데",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "공부해서 ;",
+      "tokens": [
+        "공부",
+        "해서",
+        "EC",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "진짜 그냥...아무도 모르고 졸업이네",
+      "tokens": [
+        "진짜",
+        "그냥",
+        ".",
+        "아무",
+        "도",
+        "모르",
+        "고",
+        "졸업",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_193_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

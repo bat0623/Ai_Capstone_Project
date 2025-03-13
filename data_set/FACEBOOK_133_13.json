@@ -1,0 +1,334 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "지금 바깥 온도 중계 좀",
+      "tokens": [
+        "지금",
+        "바깥",
+        "온도",
+        "중계",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "지금 바깥 엄청 추울 듯",
+      "tokens": [
+        "지금",
+        "바깥",
+        "엄청",
+        "추울",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 추우니까 우리 연탄 봉사하자 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "추우",
+        "니까",
+        "우리",
+        "연탄",
+        "봉사",
+        "하",
+        "자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 연탄 봉사 완전 좋다",
+      "tokens": [
+        "오",
+        "연탄",
+        "봉사",
+        "완전",
+        "좋",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나가기 두렵구나 정말 ...",
+      "tokens": [
+        "나가",
+        "기",
+        "두렵",
+        "구나",
+        "정말",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거 나 한 번도 안 해봤엌 키키",
+      "tokens": [
+        "그거",
+        "나",
+        "한",
+        "번",
+        "도",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "엌키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "따뜻한 겨울 나기",
+      "tokens": [
+        "따뜻",
+        "한",
+        "ETM",
+        "겨울나기"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "연탄 나 잘 나를 듯",
+      "tokens": [
+        "연탄",
+        "나",
+        "잘",
+        "나를",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그거 근데 핵뿌듯할 듯 키키",
+      "tokens": [
+        "그거",
+        "근데",
+        "핵",
+        "뿌듯",
+        "할",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 그거 힘들껄...?",
+      "tokens": [
+        "근데",
+        "그거",
+        "힘",
+        "들",
+        "껄",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "봉사하는 마음 좋다 하하",
+      "tokens": [
+        "봉사",
+        "하",
+        "는",
+        "마음",
+        "좋",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "도움의 손길은 전하자고 키키",
+      "tokens": [
+        "도움",
+        "의",
+        "손길",
+        "은",
+        "전하",
+        "자고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "완전 허리 뽀사진대",
+      "tokens": [
+        "완전허리뽀사진대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아마 엄청 힘들겠지 ?",
+      "tokens": [
+        "아마",
+        "엄청",
+        "힘들",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "힘들긴 오지게 힘들 듯",
+      "tokens": [
+        "힘들",
+        "긴",
+        "JX",
+        "오지",
+        "게",
+        "힘들",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "어르신들의 따뜻한 겨울을 위해 하하",
+      "tokens": [
+        "어르신",
+        "들",
+        "의",
+        "따뜻",
+        "한",
+        "ETM",
+        "겨울",
+        "을",
+        "위해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "내 또 누구보다 빠르게 나르기 할 듯",
+      "tokens": [
+        "내",
+        "또",
+        "누구",
+        "보다",
+        "빠르",
+        "게",
+        "나르",
+        "기",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그거 무게가 엄청나다 함",
+      "tokens": [
+        "그거",
+        "무게",
+        "가",
+        "엄청나",
+        "다",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

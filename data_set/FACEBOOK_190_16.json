@@ -1,0 +1,450 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 여드름이 너무 심해졋어",
+      "tokens": [
+        "요즘",
+        "여드름",
+        "이",
+        "너무",
+        "심해",
+        "EC",
+        "졋어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나도 진짜 여드름이 많아졋어",
+      "tokens": [
+        "나",
+        "도",
+        "진짜",
+        "여드름",
+        "이",
+        "많",
+        "아",
+        "졋어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 노량진에 미용실을 알아보려고 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "노량진",
+        "에",
+        "미용실",
+        "을",
+        "알아보",
+        "려고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "내일 피부과 가봐야겠어",
+      "tokens": [
+        "내일",
+        "피부과",
+        "가",
+        "봐야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "삭제된 메시지입니다.",
+      "tokens": [
+        "삭제",
+        "된",
+        "ETM",
+        "메시지",
+        "입니다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "삭제된 메시지입니다.",
+      "tokens": [
+        "삭제",
+        "된",
+        "ETM",
+        "메시지",
+        "입니다",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 우울해서 피부가 더 안좋아졌어",
+      "tokens": [
+        "나",
+        "는",
+        "우울",
+        "해서",
+        "EC",
+        "피부",
+        "가",
+        "더",
+        "안",
+        "좋",
+        "아",
+        "졌",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "여의도 회사근처에 미용실을 갔는데 이상해서 노량진으로 옮기려고 키키",
+      "tokens": [
+        "여의도",
+        "회사",
+        "근처",
+        "에",
+        "미용실",
+        "을",
+        "갔",
+        "EP",
+        "는데",
+        "이상",
+        "해서",
+        "EC",
+        "노량진",
+        "으로",
+        "옮기",
+        "려고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "피부관리는 너무 어려워 ㅠㅠ",
+      "tokens": [
+        "피부",
+        "관리",
+        "는",
+        "너무",
+        "어려워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나는 피부가 원래 좋은데 늙으면서 변하는 것 같아",
+      "tokens": [
+        "나",
+        "는",
+        "피부",
+        "가",
+        "원래",
+        "좋",
+        "은",
+        "데",
+        "늙",
+        "으면서",
+        "변하",
+        "는",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "노량진이 가격이 싸더라고",
+      "tokens": [
+        "노량진",
+        "이",
+        "가격",
+        "이",
+        "싸",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "실력은 아직 모르지만 키키",
+      "tokens": [
+        "실력",
+        "은",
+        "아직",
+        "모르",
+        "지만",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이제 크림이랑 스킨까지 다발라야겠어",
+      "tokens": [
+        "이제",
+        "크림",
+        "이랑",
+        "스킨",
+        "까지",
+        "다",
+        "발라야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "화장품은 다 비슷비슷해",
+      "tokens": [
+        "화장품",
+        "은",
+        "다",
+        "비슷비슷",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "잠자는것도 피부에 영향을 많이줘",
+      "tokens": [
+        "잠자",
+        "는",
+        "것",
+        "도",
+        "피부",
+        "에",
+        "영향",
+        "을",
+        "많이",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "노량진 가격 많이 싸구나? 키키",
+      "tokens": [
+        "노량진",
+        "가격",
+        "많이",
+        "싸",
+        "구나",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "화장품의 성능 차이는 거의 없어",
+      "tokens": [
+        "화장품",
+        "의",
+        "성능",
+        "차이",
+        "는",
+        "거의",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 학생들이 많아서 가격이 싼가봐",
+      "tokens": [
+        "응",
+        "학생",
+        "들",
+        "이",
+        "많",
+        "아서",
+        "가격",
+        "이",
+        "싼가",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "수분 보충도 매일 해야겠어",
+      "tokens": [
+        "수분",
+        "보충",
+        "도",
+        "매일",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아이크림도 진짜 아이크림이 아닌거아니?",
+      "tokens": [
+        "아이",
+        "크림",
+        "도",
+        "진짜",
+        "아이",
+        "크림",
+        "이",
+        "아닌",
+        "ETM",
+        "거",
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "화장품은 정말 어려워 키키",
+      "tokens": [
+        "화장품",
+        "은",
+        "정말",
+        "어려워",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "너무 많아 종류가",
+      "tokens": [
+        "너무",
+        "많",
+        "아",
+        "종류",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

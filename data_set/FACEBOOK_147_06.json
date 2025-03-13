@@ -1,0 +1,424 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "엘리베이터 기다릴 때 인사하는 아이들 보면 예뻐",
+      "tokens": [
+        "엘리베이터",
+        "기다릴",
+        "ETM",
+        "때",
+        "인사",
+        "하",
+        "는",
+        "아이",
+        "들",
+        "보",
+        "면",
+        "예뻐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "가정 교육을 잘 받은 거지",
+      "tokens": [
+        "가정",
+        "교육",
+        "을",
+        "잘",
+        "받",
+        "은",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "학교에서도 잘 받았고",
+      "tokens": [
+        "학교",
+        "에서",
+        "도",
+        "잘",
+        "받",
+        "았",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "초등학교 교장 선생님이 잘 가르치셨나 봐여",
+      "tokens": [
+        "초등",
+        "학교",
+        "교장",
+        "선생",
+        "님",
+        "이",
+        "잘",
+        "가르치",
+        "셨",
+        "EP",
+        "나",
+        "봐",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 그런가? 하하",
+      "tokens": [
+        "아",
+        "그런가",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "학교에서도 물론 가르치지",
+      "tokens": [
+        "학교",
+        "에서",
+        "도",
+        "물론",
+        "가르치",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오히려 어른들이 더 인사를 안 하는 거 같아",
+      "tokens": [
+        "오히려",
+        "어른",
+        "들",
+        "이",
+        "더",
+        "인사",
+        "를",
+        "안",
+        "하",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "사실 나도 낯 가리는 편이라 아주 조그만 목소리로 해",
+      "tokens": [
+        "사실",
+        "나",
+        "도",
+        "낯가리",
+        "는",
+        "편",
+        "이",
+        "라",
+        "아주",
+        "조그만",
+        "ETM",
+        "목소리",
+        "로",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "목소리가 작으면 목례라도 해",
+      "tokens": [
+        "목소리",
+        "가",
+        "작",
+        "으면",
+        "목례",
+        "라도",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아무래도 안 하는 거랑은 다르니까",
+      "tokens": [
+        "아무래도",
+        "안",
+        "하",
+        "는",
+        "거",
+        "랑",
+        "은",
+        "다르",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "인성 교육은 꼭 필요한 거 같아",
+      "tokens": [
+        "인성",
+        "교육",
+        "은",
+        "꼭",
+        "필요",
+        "한",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 학교에서 인성 교육하고 있어",
+      "tokens": [
+        "그럼",
+        "학교",
+        "에서",
+        "인성",
+        "교육",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "학업도 물론 중요하지만 일단 사람이 되어야지",
+      "tokens": [
+        "학업",
+        "도",
+        "물론",
+        "중요",
+        "하",
+        "지만",
+        "일단",
+        "사람",
+        "이",
+        "되",
+        "어야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그러고 보니 난 가정 교육을 잘 받았네",
+      "tokens": [
+        "그러",
+        "고",
+        "보",
+        "니난",
+        "가정",
+        "교육",
+        "을",
+        "잘",
+        "받",
+        "았",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그럼 누가 가르쳤는데 하하",
+      "tokens": [
+        "그럼",
+        "누가",
+        "JKS",
+        "가르쳤",
+        "EP",
+        "는데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "밖에서 잘해야 부모님 욕 안 먹는 거야",
+      "tokens": [
+        "밖",
+        "에서",
+        "잘",
+        "해야",
+        "EC",
+        "부모",
+        "님",
+        "욕",
+        "안",
+        "먹",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "요즘은 선생님들이 학생들 교육하는 게 힘들 거 같아",
+      "tokens": [
+        "요즘",
+        "은",
+        "선생",
+        "님",
+        "들",
+        "이",
+        "학생",
+        "들",
+        "교육",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "힘들",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아무래도 체벌도 없어지고 하니까",
+      "tokens": [
+        "아무래도",
+        "체벌",
+        "도",
+        "없",
+        "어",
+        "지",
+        "고",
+        "하",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "예전만큼 교육하기가 쉽지는 않아",
+      "tokens": [
+        "예전",
+        "만큼",
+        "교육",
+        "하",
+        "기",
+        "가",
+        "쉽",
+        "지",
+        "는",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_147_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

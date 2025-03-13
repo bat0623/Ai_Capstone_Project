@@ -1,0 +1,339 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 점심 뭐 먹지...",
+      "tokens": [
+        "오늘",
+        "점심",
+        "뭐",
+        "먹",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 아마 미역국에 밥 호로록",
+      "tokens": [
+        "난",
+        "JX",
+        "아마",
+        "미역국",
+        "에",
+        "밥",
+        "호로록"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "프로틴바 하나 먹고 치울려구...",
+      "tokens": [
+        "프로틴바하나먹고치울려구",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 넘 공복에 커피 마셨나 봐",
+      "tokens": [
+        "아넘",
+        "공복",
+        "에",
+        "커피",
+        "마셨",
+        "EP",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "피자 남은 거 먹을까...",
+      "tokens": [
+        "피자",
+        "남",
+        "은",
+        "거",
+        "먹",
+        "을까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "밥 먹는 거도 이제 귀찮음",
+      "tokens": [
+        "밥",
+        "먹",
+        "는",
+        "거",
+        "도",
+        "이제",
+        "귀찮",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "속이 니글니글 울렁울렁 하심",
+      "tokens": [
+        "속",
+        "이",
+        "니글니글",
+        "울렁울렁",
+        "하",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아아도 일단 마셔야 하는데",
+      "tokens": [
+        "아",
+        "아도",
+        "일단",
+        "마셔야",
+        "EC",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "콜라는 좀 있오?",
+      "tokens": [
+        "콜라",
+        "는",
+        "좀",
+        "있",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "피자는 콜라 있어야지",
+      "tokens": [
+        "피자",
+        "는",
+        "콜라",
+        "있",
+        "어야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "피자가 왜 남아 있지",
+      "tokens": [
+        "피자",
+        "가",
+        "왜",
+        "남",
+        "아",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어제 여자친구가 피자 사 들고 옴",
+      "tokens": [
+        "어제",
+        "여자",
+        "친구",
+        "가",
+        "피자",
+        "사",
+        "EC",
+        "들",
+        "고",
+        "옴",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 역시...프로 피자 이터",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "역시",
+        ".",
+        "프로",
+        "피자",
+        "이터"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "난 콜라 싫어함",
+      "tokens": [
+        "난",
+        "JX",
+        "콜라",
+        "싫어함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "새벽 2시에;",
+      "tokens": [
+        "새벽",
+        "2",
+        "시",
+        "에",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 요즘 늙어서 소화가 잘 안대",
+      "tokens": [
+        "나",
+        "요즘",
+        "늙",
+        "어서",
+        "소화",
+        "가",
+        "잘",
+        "안대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "탄산수가 맛있어 크",
+      "tokens": [
+        "탄산수",
+        "가",
+        "맛있",
+        "어",
+        "크"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "진짜 사육 당하는 중이다",
+      "tokens": [
+        "진짜",
+        "사육",
+        "당하",
+        "는",
+        "중",
+        "이",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "피자 두 조각 먹으면 끝남",
+      "tokens": [
+        "피자",
+        "두",
+        "조각",
+        "먹",
+        "으면",
+        "끝남",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_153_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

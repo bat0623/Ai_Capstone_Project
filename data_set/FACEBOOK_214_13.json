@@ -1,0 +1,383 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오늘 이거 스모그래...!",
+      "tokens": [
+        "오늘",
+        "이거",
+        "스모그",
+        "래",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 어쩐지 너무 하늘 안 좋더라",
+      "tokens": [
+        "헐",
+        "어쩐지",
+        "너무",
+        "하늘",
+        "안",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "스모그... 중국발 스모그겠지...",
+      "tokens": [
+        "스모그",
+        ".",
+        ".",
+        "중국",
+        "발",
+        "스모그",
+        "겠",
+        "EP",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "흐린 게 아니구... 스모그 현상이래",
+      "tokens": [
+        "흐린",
+        "ETM",
+        "게",
+        "JKC",
+        "아니",
+        "구",
+        ".",
+        ".",
+        "스모그",
+        "현상",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "완전 뿌옇고 이상했어",
+      "tokens": [
+        "완전",
+        "뿌옇",
+        "고",
+        "이상",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "ㅜㅜ 매연 이런 거 좀 없어져야 대",
+      "tokens": [
+        "ㅜㅜ",
+        "매연",
+        "이런",
+        "거",
+        "좀",
+        "없",
+        "어",
+        "져야",
+        "EC",
+        "대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "중국발 스모그인 듯... ㅡㅡ",
+      "tokens": [
+        "중국",
+        "발",
+        "스모그",
+        "인듯",
+        "EF",
+        ".",
+        "ㅡㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그럼 건강에 나쁜 거 아냐?",
+      "tokens": [
+        "그럼",
+        "건강",
+        "에",
+        "나쁜",
+        "ETM",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞지...",
+      "tokens": [
+        "맞",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이제 마스크 코로나 끝나도 필수야",
+      "tokens": [
+        "이제",
+        "마스크",
+        "코로나",
+        "끝",
+        "나",
+        "도",
+        "필수",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "공청기가 수치가 안 좋아!",
+      "tokens": [
+        "공청",
+        "기",
+        "가",
+        "수치",
+        "가",
+        "안",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "문 완전 열여뒀는데 짱나...",
+      "tokens": [
+        "문완전열여뒀는데짱나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "환기도 함부로 못 시킨다니뀨",
+      "tokens": [
+        "환기",
+        "도",
+        "함부로",
+        "못",
+        "시킨다",
+        "EC",
+        "니뀨"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "미세 먼지보다 더 안 좋을껄?",
+      "tokens": [
+        "미세먼지",
+        "보다",
+        "더",
+        "안",
+        "좋",
+        "을껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "윽... 내 수건들 ㅜㅜ 다시 빨아야 하나...",
+      "tokens": [
+        "윽",
+        ".",
+        "내수건들ㅜㅜ다시빨아야하나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "으....어쩐지 요새 몸에 두드러기가 엄청 올라오드라",
+      "tokens": [
+        "으",
+        ".",
+        ".",
+        "어쩐지",
+        "요새",
+        "몸",
+        "에",
+        "두드러기",
+        "가",
+        "엄청",
+        "올라오",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그 집은 문 못 닫을 듯... 우짜냐...",
+      "tokens": [
+        "그",
+        "집",
+        "은",
+        "문",
+        "못",
+        "닫",
+        "을",
+        "듯",
+        ".",
+        "우짜",
+        "냐",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "미쳤넹... 어쩐담 ㅜㅜ",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "넹",
+        ".",
+        ".",
+        "어쩐담ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "미쳤넹...어쩐담 ㅜㅜ건조기 필요행..",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "넹",
+        ".",
+        ".",
+        "어쩐담",
+        "EC",
+        "ㅜㅜ",
+        "건조",
+        "기필",
+        "요행",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "건조기 진짜 만족스럽다..한대놔",
+      "tokens": [
+        "건조기",
+        "진짜",
+        "만족",
+        "스럽",
+        "다",
+        ".",
+        "한대",
+        "EC",
+        "놔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

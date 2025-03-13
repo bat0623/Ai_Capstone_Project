@@ -1,0 +1,354 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 해병대 출신이야 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "해병대",
+        "출신",
+        "이야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 특전사를 나왔어",
+      "tokens": [
+        "나",
+        "는",
+        "특전",
+        "사",
+        "를",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 육군을 나왔어",
+      "tokens": [
+        "나",
+        "는",
+        "육군",
+        "을",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "특전사 엄청 부러워 하하",
+      "tokens": [
+        "특전",
+        "사",
+        "엄청",
+        "부러워",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "대한민국 간첩은 내가 다 잡을꺼야",
+      "tokens": [
+        "대한민국",
+        "간첩",
+        "은",
+        "내",
+        "가",
+        "다",
+        "잡",
+        "을",
+        "꺼야",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "특전사하면 엄청 힘들 거 같아",
+      "tokens": [
+        "특전",
+        "사",
+        "하",
+        "면",
+        "엄청",
+        "힘들",
+        "ETM",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "육군은 너무 시시 하잖아",
+      "tokens": [
+        "육군",
+        "은",
+        "너무",
+        "시시",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 지뢰찾기를 정말 잘해",
+      "tokens": [
+        "나",
+        "는",
+        "지뢰",
+        "찾",
+        "기",
+        "를",
+        "정말",
+        "잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "공군부대에 가서 군무해 보고 싶어",
+      "tokens": [
+        "공군",
+        "부대",
+        "에",
+        "가",
+        "서",
+        "군무",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "사실 난 공익이야...하하",
+      "tokens": [
+        "사실",
+        "난",
+        "JX",
+        "공익",
+        "이",
+        "야",
+        ".",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "가끔 군대로 다시 돌아가고 싶어",
+      "tokens": [
+        "가끔",
+        "군대",
+        "로",
+        "다시",
+        "돌아가",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "군대로 돌아가려면 돈을 줘도 안 가",
+      "tokens": [
+        "군대",
+        "로",
+        "돌아가",
+        "려면",
+        "돈",
+        "을",
+        "줘도",
+        "EC",
+        "안",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 실제로 지뢰를 찾아봤어 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "실제로",
+        "지뢰",
+        "를",
+        "찾",
+        "아",
+        "봤",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "사실 난 면제야 키키",
+      "tokens": [
+        "사실",
+        "난면",
+        "제야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "면제되기 힘드렁 요즘",
+      "tokens": [
+        "면제",
+        "되",
+        "기",
+        "힘",
+        "드렁",
+        "요즘"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "군대 다시는 가고 싶지 않아",
+      "tokens": [
+        "군대",
+        "다시",
+        "는",
+        "가",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "강철부대가 정말 멋있더라",
+      "tokens": [
+        "강철",
+        "부대",
+        "가",
+        "정말",
+        "멋있",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나도 군대는 다시는 가기 싫어",
+      "tokens": [
+        "나",
+        "도",
+        "군대",
+        "는",
+        "다시",
+        "는",
+        "가",
+        "기",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

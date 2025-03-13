@@ -1,0 +1,360 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "나도 레게 간다",
+      "tokens": [
+        "나",
+        "도",
+        "레게",
+        "간다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "레게 쩐다",
+      "tokens": [
+        "레게",
+        "쩐",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "해보고싶다",
+      "tokens": [
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 ... 나도 이번에 새로 손질해야 되는데",
+      "tokens": [
+        "오",
+        ".",
+        "나",
+        "도",
+        "이번",
+        "에",
+        "새로",
+        "손질",
+        "해야",
+        "EC",
+        "되",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "핑크 넣어서 레게 하려구",
+      "tokens": [
+        "핑크",
+        "넣",
+        "어서",
+        "레게",
+        "하",
+        "려구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 그거 머리 어찌 감어",
+      "tokens": [
+        "근데",
+        "그거",
+        "머리",
+        "어찌",
+        "감어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "같이 가자 ...",
+      "tokens": [
+        "같이",
+        "가",
+        "자",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "이태원에 잘하는데 있어",
+      "tokens": [
+        "이태원",
+        "에",
+        "잘",
+        "하",
+        "는데",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "근데 엠자 탈모라서...",
+      "tokens": [
+        "근데",
+        "엠",
+        "자",
+        "탈모",
+        "라서",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "머리 감을 수 있어 ?",
+      "tokens": [
+        "머리",
+        "감",
+        "을",
+        "수",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "세수대야에 샴푸 풀어서 빨아야대",
+      "tokens": [
+        "세수",
+        "대야",
+        "에",
+        "샴푸",
+        "풀",
+        "어서",
+        "빨",
+        "아야",
+        "대",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "엠자 넘 티날듯 ㅠ",
+      "tokens": [
+        "엠자넘티날듯ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그거 예전에 누가 칫솔로 감아야 한다핸쓴데 ...",
+      "tokens": [
+        "그거예전에누가칫솔로감아야한다핸쓴데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "감는건 못함 ...",
+      "tokens": [
+        "감",
+        "는",
+        "건",
+        "JX",
+        "못함",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "머리 감을 수 있대?",
+      "tokens": [
+        "머리",
+        "감",
+        "을",
+        "수",
+        "있",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아놔 어째 그럼 키키",
+      "tokens": [
+        "아놔어째그럼키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그리고 냄새나면 향수뿌리고 키키",
+      "tokens": [
+        "그리고",
+        "냄새나",
+        "면",
+        "향수",
+        "뿌리",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "뭐야...",
+      "tokens": [
+        "뭐",
+        "야",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그럼 냄새 날듯",
+      "tokens": [
+        "그럼",
+        "냄새",
+        "날",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "냄시 나잖아 머리에서 !",
+      "tokens": [
+        "냄",
+        "시",
+        "나",
+        "잖아",
+        "EC",
+        "VX",
+        "EC",
+        "머리",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "향수란게 있자너 ...",
+      "tokens": [
+        "향수",
+        "란",
+        "ETM",
+        "게",
+        "JKS",
+        "있",
+        "자",
+        "너",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_195_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

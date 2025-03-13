@@ -1,0 +1,361 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 제주도 날씨 엄청 나잖아...",
+      "tokens": [
+        "*",
+        "*",
+        "제주도",
+        "날씨",
+        "엄청나",
+        "잖아",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "눈도 많이 오고 하하",
+      "tokens": [
+        "눈",
+        "도",
+        "많이",
+        "오",
+        "고",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "날씨 진짜 좋다... 그건 인정",
+      "tokens": [
+        "날씨",
+        "진짜",
+        "좋",
+        "다",
+        ".",
+        "그건",
+        "JX",
+        "인정"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "태풍 이런 거 오면 ㄷㄷ",
+      "tokens": [
+        "태풍",
+        "이런",
+        "거",
+        "오",
+        "면",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "비도 많이 오고 하하 완젼",
+      "tokens": [
+        "비",
+        "도",
+        "많이",
+        "오",
+        "고",
+        "하하",
+        "완",
+        "EF",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "진짜 해질 때 바다 가면 ...",
+      "tokens": [
+        "진짜",
+        "해질",
+        "EC",
+        "VX",
+        "ETM",
+        "때",
+        "바다",
+        "가",
+        "면",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "자연 재해를 경험 하겠군",
+      "tokens": [
+        "자연재해",
+        "를",
+        "경험",
+        "하",
+        "겠",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 날씨가 극과 극 하하",
+      "tokens": [
+        "진짜",
+        "날씨",
+        "가",
+        "극",
+        "과",
+        "극하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "수채화가 촤악 펼쳐진다",
+      "tokens": [
+        "수채화",
+        "가",
+        "촤악",
+        "펼쳐",
+        "EC",
+        "진다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "해질 때 바다 나가면 지릴 듯...",
+      "tokens": [
+        "해질때바다나가면지릴듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "갑자기 막 비 오고 그러던데 하하",
+      "tokens": [
+        "갑자기",
+        "막비",
+        "오",
+        "고",
+        "그러",
+        "던데",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "매번 지림...",
+      "tokens": [
+        "매",
+        "번지",
+        "림",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "서쪽으로 가면 노을 맛집",
+      "tokens": [
+        "서쪽",
+        "으로",
+        "가",
+        "면",
+        "노",
+        "을",
+        "맛집"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그 맛에  제주도 살지",
+      "tokens": [
+        "그",
+        "맛",
+        "에",
+        "제주",
+        "도",
+        "살",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그니까 티비 보니 쩔더랑",
+      "tokens": [
+        "그니까",
+        "티비",
+        "보",
+        "니",
+        "쩔",
+        "더",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "근데 태풍 오면 다 날아감",
+      "tokens": [
+        "근데",
+        "태풍",
+        "오",
+        "면",
+        "다날",
+        "아감"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "풍속이 다르던데 제주는 키키",
+      "tokens": [
+        "풍속",
+        "이",
+        "다르",
+        "던데",
+        "제주",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "우리도 제주 가자 **",
+      "tokens": [
+        "우리",
+        "도",
+        "제주",
+        "가자",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "바람이 감당이 안된다 진짜 키키",
+      "tokens": [
+        "바람",
+        "이",
+        "감당",
+        "이",
+        "안",
+        "된다",
+        "EF",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

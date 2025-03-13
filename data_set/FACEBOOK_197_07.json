@@ -1,0 +1,418 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부모님들도 짱 귀찮겠다",
+      "tokens": [
+        "부모",
+        "님",
+        "들",
+        "도",
+        "짱",
+        "귀찮",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "차라리 애들 어디 보내는 게 좋음",
+      "tokens": [
+        "차라리",
+        "애",
+        "들",
+        "어디",
+        "보내",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그니까 키키",
+      "tokens": [
+        "그니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "지 일은 지가 제깍제깍 해야지",
+      "tokens": [
+        "지일",
+        "은지",
+        "가",
+        "제깍",
+        "제깍",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 부모님이 컴퓨터 못 사줄 형편이면 우짜냐?",
+      "tokens": [
+        "근데",
+        "부모",
+        "님",
+        "이",
+        "컴퓨터",
+        "못",
+        "사",
+        "EC",
+        "줄",
+        "ETM",
+        "형편",
+        "이",
+        "면",
+        "우짜",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "집에 있으면 밥 챙겨줘야 하고",
+      "tokens": [
+        "집",
+        "에",
+        "있",
+        "으면",
+        "밥",
+        "챙겨",
+        "EC",
+        "줘야",
+        "EC",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그런 애들은 나라에서 태블릿 나오지 않나",
+      "tokens": [
+        "그런",
+        "애",
+        "들",
+        "은",
+        "나라",
+        "에서",
+        "태블릿",
+        "나오",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "할머니 할아버지랑 사는 애들은?",
+      "tokens": [
+        "할머니",
+        "할아버지",
+        "랑",
+        "사",
+        "는",
+        "애",
+        "들",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "해줘야할 게 산더미임 ... 키키",
+      "tokens": [
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "산더미",
+        "임",
+        "ETN",
+        ".",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "흠 ... 컴퓨터를 나라에서 한 대 줘야지 그럼",
+      "tokens": [
+        "흠",
+        ".",
+        "컴퓨터",
+        "를",
+        "나라",
+        "에서",
+        "한대",
+        "EC",
+        "줘야지",
+        "EF",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "집에 인터넷이 안 달려 있는 집은?",
+      "tokens": [
+        "집",
+        "에",
+        "인터넷",
+        "이",
+        "안",
+        "달려",
+        "EC",
+        "있",
+        "는",
+        "집",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그런 가정들도 생각해야 하는구나, ...",
+      "tokens": [
+        "그런",
+        "가정",
+        "들",
+        "도",
+        "생각",
+        "해야",
+        "EC",
+        "하",
+        "는구나",
+        ",",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 그 비용도 보통은 아니니까",
+      "tokens": [
+        "키키",
+        "그",
+        "비용",
+        "도",
+        "보통",
+        "은",
+        "아니",
+        "니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그런 애들도 많을껄?",
+      "tokens": [
+        "그런",
+        "애",
+        "들",
+        "도",
+        "많",
+        "을껄"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "내가 생각이 짧았구나;",
+      "tokens": [
+        "내",
+        "가",
+        "생각",
+        "이",
+        "짧",
+        "았",
+        "구나",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "한둘이 아니겠지 ...",
+      "tokens": [
+        "한",
+        "둘",
+        "이",
+        "아니",
+        "겠",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "기초생활수급자 이런 사람들도 있고",
+      "tokens": [
+        "기초",
+        "생활",
+        "수급",
+        "자",
+        "이런",
+        "사람",
+        "들",
+        "도",
+        "있",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "급식 못 먹는 애들도 많은데 ㅠㅠ",
+      "tokens": [
+        "급식",
+        "못",
+        "먹",
+        "는",
+        "애",
+        "들",
+        "도",
+        "많",
+        "은데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "무상급식 요즘 하지 않나 ?",
+      "tokens": [
+        "무상급식",
+        "요즘",
+        "하",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "요즘 무상급식 아니얌?",
+      "tokens": [
+        "요즘",
+        "무상급식",
+        "아니",
+        "얌"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_197_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

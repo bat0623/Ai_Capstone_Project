@@ -1,0 +1,349 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "우리 롤 한겜 하자구",
+      "tokens": [
+        "우리",
+        "롤",
+        "한겜",
+        "하",
+        "자구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 배그를 정말 잘해",
+      "tokens": [
+        "나",
+        "는",
+        "배",
+        "그",
+        "를",
+        "정말",
+        "잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "롤 하면 스트레스 받아",
+      "tokens": [
+        "롤",
+        "하",
+        "면",
+        "스트레스",
+        "받",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "사실 어제부터 메이플 시작했어",
+      "tokens": [
+        "사실",
+        "어제",
+        "부터",
+        "메이플",
+        "시작",
+        "했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나 어제 챌린져를 찍었어",
+      "tokens": [
+        "나",
+        "어제",
+        "챌",
+        "ETM",
+        "린",
+        "져",
+        "를",
+        "찍",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "카트라이더를 같이 하자",
+      "tokens": [
+        "카트라이더",
+        "를",
+        "같이",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "메이플 커닝시티 에서 만나자",
+      "tokens": [
+        "메이플",
+        "커닝",
+        "시티",
+        "에서",
+        "만나",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나는 항상 던파를 하고 있어",
+      "tokens": [
+        "나",
+        "는",
+        "항상",
+        "던",
+        "파",
+        "를",
+        "하",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "롤 티어 올라서 기분 좋아",
+      "tokens": [
+        "롤",
+        "티어",
+        "올라서",
+        "EC",
+        "기분",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "던파는 너무 어려워 게임이 ㅠㅠ",
+      "tokens": [
+        "던",
+        "파",
+        "는",
+        "너무",
+        "어려워",
+        "EC",
+        "게임",
+        "이",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "귀검사로 레벨 300을 찍었어",
+      "tokens": [
+        "귀",
+        "검사",
+        "로",
+        "레벨",
+        "300",
+        "을",
+        "찍",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "던파는 너무 질려",
+      "tokens": [
+        "던",
+        "파",
+        "는",
+        "너무",
+        "질려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "귀검사 제일 약한 케릭이잖아",
+      "tokens": [
+        "귀",
+        "검사제",
+        "일약",
+        "한",
+        "ETM",
+        "케릭",
+        "이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "사람들이 내 검만 봐도 도망을 가",
+      "tokens": [
+        "사람",
+        "들",
+        "이",
+        "내",
+        "JKG",
+        "검",
+        "만",
+        "봐도",
+        "EC",
+        "도망",
+        "을",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "차라리 다같이 스타크래프트하자",
+      "tokens": [
+        "차라리",
+        "다",
+        "같이",
+        "스타",
+        "크래프트",
+        "하",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "난 아쥬 센 케릭터 좋아해",
+      "tokens": [
+        "난",
+        "JX",
+        "아쥬",
+        "센",
+        "케릭",
+        "터",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "소드 오러라고 들어봤니?",
+      "tokens": [
+        "소드",
+        "오",
+        "러",
+        "라고",
+        "들",
+        "어",
+        "봤",
+        "EP",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "던파ㅏ면 나는 마법사 키울래",
+      "tokens": [
+        "던",
+        "파ㅏ",
+        "면",
+        "나",
+        "는",
+        "마법사",
+        "키",
+        "ETN",
+        "울",
+        "래"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

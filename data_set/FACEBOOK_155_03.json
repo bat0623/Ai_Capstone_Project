@@ -1,0 +1,378 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "내 친구 캐스퍼 나왔는데 존귀더라...?",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "캐스퍼",
+        "나왔",
+        "EP",
+        "는데",
+        "존귀",
+        "더라",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 어디에 나왔어?",
+      "tokens": [
+        "헐",
+        "어디",
+        "에",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "실물 봤음? ㅜㅜ",
+      "tokens": [
+        "실물",
+        "봤",
+        "EP",
+        "음",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "부럽다",
+      "tokens": [
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "경차 주제에 차박도 가능하데 키키",
+      "tokens": [
+        "경차",
+        "주제",
+        "에",
+        "차",
+        "박도",
+        "가능",
+        "하",
+        "데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아! 자동차 ㅠㅠ 대박",
+      "tokens": [
+        "아",
+        "자동차ㅠㅠ대박"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "오 차박 진짜? 키키",
+      "tokens": [
+        "오",
+        "차",
+        "박진",
+        "짜",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 어디에 나오다니 그게 무슨 말이야 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "어디",
+        "에",
+        "나오",
+        "다니",
+        "그게",
+        "JKS",
+        "무슨",
+        "말",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그거 진짜 귀엽던데...",
+      "tokens": [
+        "그거",
+        "진짜",
+        "귀엽",
+        "던데",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "너무 좁을 거 같은뎈 키키",
+      "tokens": [
+        "너무",
+        "좁",
+        "을",
+        "거",
+        "같",
+        "은",
+        "뎈키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엉 차박 가능 하더랑",
+      "tokens": [
+        "엉차박가능하더랑"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "사이즈가 무슨 차박까지...",
+      "tokens": [
+        "사이즈",
+        "가",
+        "무슨",
+        "차",
+        "박",
+        "까지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 얼릉 사자 키키",
+      "tokens": [
+        "그럼",
+        "얼릉",
+        "사자",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "인스타에 벌써 차박하고 난리 키키",
+      "tokens": [
+        "인",
+        "스타",
+        "에",
+        "벌써",
+        "차",
+        "박하",
+        "고",
+        "난리",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 대박이네...",
+      "tokens": [
+        "진짜",
+        "대박",
+        "이",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "실물 보고 싶다",
+      "tokens": [
+        "실물",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 카키 넘나 원해 ㅜㅜ",
+      "tokens": [
+        "나",
+        "도",
+        "카키",
+        "넘",
+        "나",
+        "원해",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "전기차 나오면 살 꺼야...!",
+      "tokens": [
+        "전기차",
+        "나오",
+        "면",
+        "살",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "**누나 살껀가여?",
+      "tokens": [
+        "*",
+        "*",
+        "누나",
+        "살",
+        "ETM",
+        "껀",
+        "JX",
+        "가여"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "캐스퍼 하하",
+      "tokens": [
+        "캐스퍼",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "전기차로 언제 나와?",
+      "tokens": [
+        "전기차",
+        "로",
+        "언제나",
+        "와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_155_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

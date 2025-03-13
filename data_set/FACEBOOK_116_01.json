@@ -1,0 +1,417 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "아 오늘 점심은 뭘 먹을까?",
+      "tokens": [
+        "아",
+        "오늘",
+        "점심",
+        "은",
+        "뭘",
+        "JKO",
+        "먹",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "간단하게 쌀국수 시켜 먹는 거 어때",
+      "tokens": [
+        "간단",
+        "하",
+        "게",
+        "쌀국수",
+        "시켜",
+        "EC",
+        "먹",
+        "는",
+        "거",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "쌀국수?",
+      "tokens": [
+        "쌀국수"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "일단 나 배달 시킬 거임!",
+      "tokens": [
+        "일단",
+        "나",
+        "배달",
+        "시킬",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "배달이면 다 시켜 먹을 수 있네!",
+      "tokens": [
+        "배달",
+        "이",
+        "면",
+        "다시",
+        "켜",
+        "EC",
+        "먹",
+        "을",
+        "수",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "웅 맞아 키키",
+      "tokens": [
+        "웅",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 항상 새로운 거 시켜 먹으려고 노력함!",
+      "tokens": [
+        "근데",
+        "항상",
+        "새로운",
+        "ETM",
+        "거",
+        "시켜",
+        "EC",
+        "먹",
+        "으려고",
+        "노력",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "음 오늘은 어떤 새로운 걸로?",
+      "tokens": [
+        "음",
+        "오늘",
+        "은",
+        "어떤",
+        "새로운",
+        "ETM",
+        "걸로",
+        "JKB"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "흠, 그래서 고민이야!",
+      "tokens": [
+        "흠",
+        ",",
+        "그래서",
+        "고민",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "일단 한식이 땡기거든! ?",
+      "tokens": [
+        "일단",
+        "한식",
+        "이",
+        "땡기",
+        "거든",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "한식이면 김치찌개 시켜 먹는 거 어때",
+      "tokens": [
+        "한식",
+        "이",
+        "면",
+        "김치찌개",
+        "시켜",
+        "EC",
+        "먹",
+        "는",
+        "거",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "흠, 김치찌개라",
+      "tokens": [
+        "흠",
+        ",",
+        "김치찌개",
+        "라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "저번에 삼겹 묵은지찜을 먹음!",
+      "tokens": [
+        "저번",
+        "에",
+        "삼",
+        "겹",
+        "묵",
+        "은지",
+        "찜",
+        "을",
+        "먹",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아니면 찜닭?",
+      "tokens": [
+        "아니면",
+        "찜",
+        "닭"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그거 맛있지",
+      "tokens": [
+        "그거",
+        "맛있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "아 찜닭!",
+      "tokens": [
+        "아",
+        "찜",
+        "닭"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "닭도리탕만 먹었는데 그거 시켜볼까?",
+      "tokens": [
+        "닭도리탕",
+        "만",
+        "먹",
+        "었",
+        "는데",
+        "그거",
+        "시켜",
+        "EC",
+        "볼까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 키키 나 두찜 먹었는데 진짜 쩔어",
+      "tokens": [
+        "응",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "두",
+        "찜",
+        "먹",
+        "었",
+        "는데",
+        "진짜",
+        "쩔",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "두찜에 반 마리도 파나?",
+      "tokens": [
+        "두",
+        "찜",
+        "에",
+        "반",
+        "마리",
+        "도",
+        "파",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "반마리는 간장이랑 고추장만 있지 않나?",
+      "tokens": [
+        "반",
+        "마리",
+        "는",
+        "간장",
+        "이랑",
+        "고추장",
+        "만",
+        "있",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "흙 ㅜㅜ 한 마리는 너무 많어 ㅜㅜ",
+      "tokens": [
+        "흙",
+        "ㅜㅜ",
+        "한",
+        "마리",
+        "는",
+        "너무",
+        "많",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그럼 그냥 반마리만 시켜~",
+      "tokens": [
+        "그럼",
+        "그냥",
+        "반",
+        "마리",
+        "만",
+        "시켜",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

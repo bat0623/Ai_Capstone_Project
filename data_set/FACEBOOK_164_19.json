@@ -1,0 +1,363 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 재미난고 뭐 있지...",
+      "tokens": [
+        "요즘",
+        "재미",
+        "난고",
+        "뭐",
+        "있",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "음 스우파 끝나고 하는 거",
+      "tokens": [
+        "음",
+        "스",
+        "우파",
+        "끝",
+        "나",
+        "고",
+        "하",
+        "는",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "스우파 끝나고 뭐함?",
+      "tokens": [
+        "스우파끝나고뭐함"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "드라마 완전 볼 거 없어",
+      "tokens": [
+        "드라마",
+        "완전",
+        "볼",
+        "ETM",
+        "거",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "고딩 스우파 기대중이야 아주 하하",
+      "tokens": [
+        "고딩",
+        "스",
+        "우파",
+        "기대",
+        "중",
+        "이",
+        "야",
+        "아주",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "이영애 나오는거 본다맼 키키",
+      "tokens": [
+        "이영애",
+        "나오",
+        "는",
+        "거",
+        "본다",
+        "EC",
+        "맼키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "스우파 끝나고 고딩 스우파 한다 키키",
+      "tokens": [
+        "스",
+        "우파",
+        "끝",
+        "나",
+        "고",
+        "고딩",
+        "스",
+        "우파",
+        "한",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "고딩 스우파에  져지로 나온다던데 하하 모니카랑",
+      "tokens": [
+        "고딩",
+        "스",
+        "우파",
+        "에",
+        "져지",
+        "로",
+        "나온다",
+        "EC",
+        "던데",
+        "EC",
+        "하하",
+        "모니카",
+        "랑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "고딩 스우파는 또 뭐얔 키키 연속이네",
+      "tokens": [
+        "고딩",
+        "스",
+        "우파",
+        "는",
+        "또",
+        "뭐",
+        "얔키",
+        "키",
+        "연속",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 꼬꼬무 ㅠㅠ 꼬꼬무 못봤다",
+      "tokens": [
+        "아",
+        "꼬꼬",
+        "무",
+        "ㅠㅠ",
+        "꼬꼬",
+        "무",
+        "못",
+        "봤",
+        "EP",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "허니제이 이런분들이 져지야",
+      "tokens": [
+        "허니",
+        "제이",
+        "이런",
+        "분",
+        "들",
+        "이",
+        "져",
+        "EC",
+        "지",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "헐 낼모레 꼬꼬무 하는 날임!",
+      "tokens": [
+        "헐",
+        "낼모레",
+        "꼬꼬",
+        "무",
+        "하",
+        "는",
+        "날",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아꼬꼬무 볼 시간이 없네...",
+      "tokens": [
+        "아",
+        "꼬꼬",
+        "무",
+        "볼",
+        "시간",
+        "이",
+        "없",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "꼬꼬무 그리 재밌음?>?",
+      "tokens": [
+        "꼬꼬",
+        "무",
+        "그리",
+        "재밌",
+        "음",
+        ">"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "꼬꼬무 근데 그알에서 했던거임!",
+      "tokens": [
+        "꼬꼬",
+        "무",
+        "근데",
+        "그",
+        "알",
+        "에서",
+        "했",
+        "EP",
+        "던",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "헐! 아직 저번주꺼 못 봤는데...",
+      "tokens": [
+        "헐",
+        "아직",
+        "저번",
+        "주",
+        "꺼",
+        "못",
+        "봤",
+        "EP",
+        "는데",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "이번주에 몰아보자 우리",
+      "tokens": [
+        "이번",
+        "주",
+        "에",
+        "몰",
+        "아",
+        "보",
+        "자",
+        "우리"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "난 둘 다 봈음 키키 재밌어!",
+      "tokens": [
+        "난",
+        "JX",
+        "둘",
+        "다봈",
+        "음",
+        "키",
+        "키",
+        "ETN",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여행 갈까 이번 주...",
+      "tokens": [
+        "여행",
+        "갈까",
+        "EC",
+        "이번",
+        "주",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "웅 고고! 떠나자 어디로 각ㅔ",
+      "tokens": [
+        "웅고",
+        "고",
+        "EC",
+        "!",
+        "떠나자어디로각ㅔ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 굉장히 즉흥적이네",
+      "tokens": [
+        "키",
+        "키",
+        "굉장히",
+        "즉흥",
+        "적",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 우리 12일에 어디루 강?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "우리",
+        "12",
+        "일",
+        "에",
+        "어디",
+        "루강"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리? 강원도! 공기 좋고 물 좋은 곳",
+      "tokens": [
+        "우리",
+        "강원도",
+        "!",
+        "공기",
+        "좋",
+        "고",
+        "물",
+        "좋",
+        "은",
+        "곳"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 퇴사 파티 한다며?",
+      "tokens": [
+        "키",
+        "키",
+        "퇴사",
+        "파티",
+        "한다며",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞앙!",
+      "tokens": [
+        "맞",
+        "앙"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 여행 가고 싶어 강원도 ㅜ",
+      "tokens": [
+        "나",
+        "여행",
+        "가",
+        "고",
+        "싶",
+        "어",
+        "강원도",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "강원도 가자앙 너무 좋지 않니",
+      "tokens": [
+        "강원도",
+        "가",
+        "자",
+        "앙",
+        "너무",
+        "좋",
+        "지",
+        "않",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 감자 먹으려고 그러지!",
+      "tokens": [
+        "키",
+        "키",
+        "감자",
+        "먹",
+        "으려고",
+        "그러",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "진짜 강원도 넘 좋아 ㅜ",
+      "tokens": [
+        "진짜",
+        "강원도",
+        "넘",
+        "좋",
+        "아",
+        "ㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 진짜 강원도 가서 감자도 먹고 싶따... 구운 감쟈...",
+      "tokens": [
+        "아",
+        "진짜",
+        "강원도",
+        "가",
+        "서감",
+        "자",
+        "도",
+        "먹",
+        "고",
+        "싶",
+        "따",
+        ".",
+        "구운",
+        "ETM",
+        "감",
+        "쟈",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 아나 감자 감자보다 맛있는 게 얼마나 많은데!",
+      "tokens": [
+        "키",
+        "키아나",
+        "감자",
+        "감자",
+        "보다",
+        "맛있",
+        "는",
+        "게",
+        "JKS",
+        "얼마나",
+        "많",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 감자쟁이 난 감자칩이 맛있더라~",
+      "tokens": [
+        "키키감자쟁이난감자칩이맛있더라",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 힝 일단 강원도로 여행 가자...감자라도 먹게...",
+      "tokens": [
+        "키키힝일단강원도로여행가자",
+        ".",
+        "감자",
+        "라도",
+        "EC",
+        "먹",
+        "게",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "강원도 여행 목적이 감자라닠 키키",
+      "tokens": [
+        "강원도",
+        "여행",
+        "목적",
+        "이",
+        "감자",
+        "라",
+        "EC",
+        "닠키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "주말에 다녀 왕",
+      "tokens": [
+        "주말",
+        "에",
+        "다녀",
+        "EC",
+        "왕"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 1박 2일로 갔다 온 거야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "1",
+        "박",
+        "2",
+        "일",
+        "로",
+        "갔다온",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "근데 우리 12일에 어디가?!",
+      "tokens": [
+        "근데",
+        "우리",
+        "12",
+        "일",
+        "에",
+        "어디",
+        "가",
+        "?"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "아닝 2박 3일!",
+      "tokens": [
+        "아닝",
+        "2",
+        "박",
+        "3",
+        "일"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "내일 용인 가 ㅠㅠ",
+      "tokens": [
+        "내일용인가ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "12일?! 너 퇴근하면 몇 시징",
+      "tokens": [
+        "12",
+        "일",
+        "!",
+        "너",
+        "퇴근",
+        "하",
+        "면",
+        "몇",
+        "시",
+        "징"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "오 재밌겠다",
+      "tokens": [
+        "오",
+        "재밌",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "1박 2일은 너무 짧긴 하지 ㅠㅠ",
+      "tokens": [
+        "1",
+        "박",
+        "2",
+        "일",
+        "은",
+        "너무",
+        "짧",
+        "긴",
+        "JX",
+        "하",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_184_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

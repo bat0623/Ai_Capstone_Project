@@ -1,0 +1,330 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "어느 지역으로 취직 하려고?",
+      "tokens": [
+        "어느",
+        "지역",
+        "으로",
+        "취직",
+        "하",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 요기 있을거니 하하",
+      "tokens": [
+        "그니까",
+        "요기",
+        "있",
+        "을",
+        "거",
+        "니",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 경남에 있고싶어",
+      "tokens": [
+        "난",
+        "JX",
+        "경남",
+        "에",
+        "있",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "집 가까운데가 회사는 최고임...",
+      "tokens": [
+        "집",
+        "가까운",
+        "ETM",
+        "데",
+        "가",
+        "회사",
+        "는",
+        "최고",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "다른 지역 갈꺼야?",
+      "tokens": [
+        "다른",
+        "지역",
+        "갈",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "서울은 너무 살기 힘들어",
+      "tokens": [
+        "서울",
+        "은",
+        "너무",
+        "살",
+        "기",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그래 넘 멀리가면 별로당",
+      "tokens": [
+        "그래",
+        "넘",
+        "멀리",
+        "가",
+        "면",
+        "별로",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그래 부모님 곁에 있는게 좋지",
+      "tokens": [
+        "그래",
+        "부모",
+        "님",
+        "곁",
+        "에",
+        "있",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "집값도 비싸고 ㅠㅠ",
+      "tokens": [
+        "집값도비싸고ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "엄마 가까이 취직 해야해",
+      "tokens": [
+        "엄마",
+        "가까이",
+        "취직",
+        "해야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "좋은 선택이야 하하 완젼",
+      "tokens": [
+        "좋",
+        "은",
+        "선택",
+        "이",
+        "야",
+        "하",
+        "하완",
+        "젼"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "부모님 근처가 좋은듯 해",
+      "tokens": [
+        "부모",
+        "님",
+        "근처",
+        "가",
+        "좋",
+        "은",
+        "듯",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마자 경남이 딱임",
+      "tokens": [
+        "마자경남이딱임"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래 그게 효도지",
+      "tokens": [
+        "그래",
+        "그게",
+        "JKS",
+        "효도",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "타지 가면 너무 외로울듯해",
+      "tokens": [
+        "타",
+        "지",
+        "가",
+        "면",
+        "너무",
+        "외로울",
+        "ETM",
+        "듯",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "집 가깝고 마음 편하고",
+      "tokens": [
+        "집",
+        "가깝",
+        "고",
+        "마음",
+        "편하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "창원이런데 좋은데 많으니",
+      "tokens": [
+        "창원",
+        "이런",
+        "데",
+        "좋",
+        "은",
+        "데",
+        "많",
+        "으니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "경남이 너무 좋아 난",
+      "tokens": [
+        "경남",
+        "이",
+        "너무",
+        "좋",
+        "아",
+        "난",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

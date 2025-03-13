@@ -1,0 +1,389 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "결혼하면 가족이 겁나 애틋해짐",
+      "tokens": [
+        "결혼",
+        "하",
+        "면",
+        "가족",
+        "이",
+        "겁나",
+        "EC",
+        "애틋",
+        "해짐",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까",
+      "tokens": [
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "가족이 짱임 ㅠ",
+      "tokens": [
+        "가족이짱임ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "다들 결혼하면서 부모님 역지사지 되나?",
+      "tokens": [
+        "다",
+        "들",
+        "결혼",
+        "하",
+        "면서",
+        "부모",
+        "님",
+        "역지사지",
+        "되",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그게 진짜 신기하단 말이지?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "진짜",
+        "신기",
+        "하",
+        "단",
+        "말",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뭔가 남이랑 다른 게 있음",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "남",
+        "이랑",
+        "다른",
+        "게",
+        "JKS",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 연애랑 결혼은 다른 거 같음",
+      "tokens": [
+        "근데",
+        "연애",
+        "랑",
+        "결혼",
+        "은",
+        "다른",
+        "ETM",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "부모님까지는 모르겠는데",
+      "tokens": [
+        "부모",
+        "님",
+        "까지",
+        "는",
+        "모르",
+        "겠",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "가족이 짱이야 그냥 ~",
+      "tokens": [
+        "가족",
+        "이",
+        "짱",
+        "이야",
+        "그냥",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "확실히 연애는 걍 남이고",
+      "tokens": [
+        "확실히",
+        "연애",
+        "는",
+        "걍남",
+        "이",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "연애랑 결혼은 완전 다른 듯",
+      "tokens": [
+        "연애",
+        "랑",
+        "결혼",
+        "은",
+        "완전",
+        "다른",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "동생들도 너무 소중해짐!",
+      "tokens": [
+        "동생",
+        "들",
+        "도",
+        "너무",
+        "소중",
+        "해짐",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "결혼은 한 가족이 되는 걸까",
+      "tokens": [
+        "결혼",
+        "은",
+        "한",
+        "가족",
+        "이",
+        "되",
+        "는",
+        "걸까",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "결혼은 가족이 되는 거지",
+      "tokens": [
+        "결혼",
+        "은",
+        "가족",
+        "이",
+        "되",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "**는 그냥 자식 같은 느낌 키키",
+      "tokens": [
+        "*",
+        "*",
+        "는",
+        "그냥",
+        "자식",
+        "같",
+        "은",
+        "느낌",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "**이는 잘 지내나",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "는",
+        "잘",
+        "지내",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "평생 나의 친구가 생김",
+      "tokens": [
+        "평생",
+        "나",
+        "의",
+        "친구",
+        "가",
+        "생김"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "**은 아주 잘지내지",
+      "tokens": [
+        "*",
+        "*",
+        "은",
+        "아주",
+        "잘",
+        "지내",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "** 키키",
+      "tokens": [
+        "*",
+        "*",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아들 키우는 거 같은 건가",
+      "tokens": [
+        "아들",
+        "키우",
+        "는",
+        "거",
+        "같",
+        "은",
+        "건가",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_194_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

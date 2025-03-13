@@ -1,0 +1,362 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이번주 비온대 애들아 ㅠㅠ",
+      "tokens": [
+        "이번",
+        "주비",
+        "온대",
+        "애",
+        "들",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "올해는 비가 쏟아지네",
+      "tokens": [
+        "올해",
+        "는",
+        "비",
+        "가",
+        "쏟",
+        "아",
+        "지네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "비오면 너무 추울거 같은데 이제? 키키",
+      "tokens": [
+        "비오",
+        "면",
+        "너무",
+        "추울",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "이제",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "비는 너무 싫어 정말",
+      "tokens": [
+        "비",
+        "는",
+        "너무",
+        "싫",
+        "어",
+        "정말"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이럴 때는 감기 조심해야겠다",
+      "tokens": [
+        "이럴",
+        "ETM",
+        "때",
+        "는",
+        "감기",
+        "조심",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "비가 오면 깡을 틀어봐 얘들아",
+      "tokens": [
+        "비",
+        "가",
+        "오",
+        "면",
+        "깡",
+        "을",
+        "틀",
+        "어",
+        "봐",
+        "EF",
+        "얘",
+        "들",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 눈이 훨씬 좋아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "눈",
+        "이",
+        "훨씬",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "일교차가 너무 커서 문제야",
+      "tokens": [
+        "일교차",
+        "가",
+        "너무",
+        "커서",
+        "EC",
+        "문제",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "너희는 어떤 계절을 좋아해?",
+      "tokens": [
+        "너희",
+        "는",
+        "어떤",
+        "계절",
+        "을",
+        "좋아해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아 다들 감기 조심해",
+      "tokens": [
+        "맞",
+        "아다",
+        "들",
+        "감기",
+        "조심",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 봄이 제일 좋아",
+      "tokens": [
+        "나",
+        "는",
+        "봄",
+        "이",
+        "제일",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "난 가을이 길었으면 좋겠어",
+      "tokens": [
+        "난",
+        "JX",
+        "가을",
+        "이",
+        "길",
+        "었",
+        "으면",
+        "좋",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "난 여름이 너무 좋아 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "여름",
+        "이",
+        "너무",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "여름이 점점 더워지고 있어",
+      "tokens": [
+        "여름",
+        "이",
+        "점점",
+        "더워",
+        "EC",
+        "지",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "우리 다 다른 계절을 좋아하는구나",
+      "tokens": [
+        "우리",
+        "다",
+        "다른",
+        "계절",
+        "을",
+        "좋아하",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "여름에는 수영을 할수 있잖아 키키",
+      "tokens": [
+        "여름",
+        "에",
+        "는",
+        "수영",
+        "을",
+        "할",
+        "ETM",
+        "수",
+        "있",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "여름은 그래도 너무 더워 ㅠㅠ",
+      "tokens": [
+        "여름",
+        "은",
+        "그래도",
+        "너무",
+        "더워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우리는 진짜 너무 다른것 같아",
+      "tokens": [
+        "우리",
+        "는",
+        "진짜",
+        "너무",
+        "다른",
+        "ETM",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_190_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

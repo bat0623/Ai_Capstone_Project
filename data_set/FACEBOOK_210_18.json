@@ -1,0 +1,431 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "운동화도 점점 비싸지지 않냐...",
+      "tokens": [
+        "운동",
+        "화",
+        "도",
+        "점점",
+        "비싸",
+        "EC",
+        "지",
+        "지",
+        "않",
+        "냐",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 진짜 물가 뭐냐...",
+      "tokens": [
+        "응",
+        "진짜",
+        "물가",
+        "뭐",
+        "냐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "마즘...",
+      "tokens": [
+        "마",
+        "즘",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "20이 기본이여",
+      "tokens": [
+        "20",
+        "이기본",
+        "이",
+        "여"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "옛날에 생각해봐...",
+      "tokens": [
+        "옛날",
+        "에",
+        "생각",
+        "해",
+        "EC",
+        "봐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "점점 오름",
+      "tokens": [
+        "점점",
+        "오름"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "운동화 옷 뭐든 다 비싸 ㅠㅠ",
+      "tokens": [
+        "운동",
+        "화",
+        "옷",
+        "뭐",
+        "든다",
+        "EC",
+        "비싸",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "좀 신을 만한 건 20 줘야 대고...",
+      "tokens": [
+        "좀",
+        "신",
+        "을",
+        "만",
+        "한",
+        "ETM",
+        "건",
+        "JX",
+        "20",
+        "줘야",
+        "EC",
+        "대",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "20 기본",
+      "tokens": [
+        "20",
+        "기본"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "소름이야",
+      "tokens": [
+        "소름",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아기 운동화도 어른이랑 맞먹어 ㅠ",
+      "tokens": [
+        "아기",
+        "운동",
+        "화",
+        "도",
+        "어른",
+        "이랑",
+        "맞먹",
+        "어",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "10만대는 너무 싼티 나고...",
+      "tokens": [
+        "10",
+        "만",
+        "대",
+        "는",
+        "너무",
+        "싼",
+        "ETM",
+        "티나",
+        "고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "옛날에 는 10만 원대였는데",
+      "tokens": [
+        "옛날",
+        "에",
+        "는",
+        "10",
+        "만",
+        "원",
+        "대",
+        "였",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "패딩은 어떻고 또...",
+      "tokens": [
+        "패딩",
+        "은",
+        "어떻",
+        "고",
+        "또",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "애기 꺼는 재질이 좋아서 비싼 거 아니었어?",
+      "tokens": [
+        "애기",
+        "꺼",
+        "는",
+        "재질",
+        "이",
+        "좋",
+        "아서",
+        "비싼",
+        "ETM",
+        "거",
+        "아니",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "패딩 진짜 개 비쌈 키키",
+      "tokens": [
+        "패딩",
+        "진짜",
+        "개비",
+        "쌈",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "애기 꺼는 작게 만들어야 돼서 비싸대 ㅠ",
+      "tokens": [
+        "애기",
+        "꺼",
+        "는",
+        "작",
+        "게",
+        "만들",
+        "어야",
+        "돼서",
+        "EC",
+        "비싸",
+        "EF",
+        "대ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나는 그리 생각하고 있어씀...",
+      "tokens": [
+        "나",
+        "는",
+        "그리",
+        "생각",
+        "하",
+        "고",
+        "있",
+        "어",
+        "씀",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "뭐 유기농 이런 재질...",
+      "tokens": [
+        "뭐",
+        "유기농",
+        "이런",
+        "재질",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "패딩 자주 못 사...",
+      "tokens": [
+        "패딩",
+        "자주",
+        "못",
+        "사",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "응 패딩은 몇 년 입어야지 모...",
+      "tokens": [
+        "응",
+        "패딩",
+        "은",
+        "몇",
+        "년",
+        "입",
+        "어야",
+        "지모",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아 키키 뭐 원단 얼마 들어간다고 ㅜㅜ",
+      "tokens": [
+        "아키",
+        "키",
+        "뭐",
+        "원단",
+        "얼마",
+        "들어간다고",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_210_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

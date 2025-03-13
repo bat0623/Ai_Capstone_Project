@@ -1,0 +1,428 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 트렌스포머 영화 본 적 있어?",
+      "tokens": [
+        "다",
+        "들",
+        "트",
+        "렌스",
+        "포머",
+        "영화",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아니",
+      "tokens": [
+        "아니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 그거 장난감만 봤어",
+      "tokens": [
+        "나",
+        "그거",
+        "장난감",
+        "만",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 예고편만 봤던 거 같아",
+      "tokens": [
+        "나",
+        "는",
+        "예고편",
+        "만",
+        "봤",
+        "EP",
+        "던",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "헐 ㅠㅠ 트렌스포머 진짜 재미있는 영화인데 ㅠㅠ",
+      "tokens": [
+        "헐",
+        "JKO",
+        "ㅠㅠ",
+        "트",
+        "렌스",
+        "포머",
+        "진짜",
+        "재미있",
+        "는",
+        "영화",
+        "인데",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그거 어린이 만화 아니야?",
+      "tokens": [
+        "그거",
+        "어린이",
+        "만화",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "야 무슨 어린이 만화야 키키",
+      "tokens": [
+        "야",
+        "무슨",
+        "어린이",
+        "만화",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 키키 아니야",
+      "tokens": [
+        "헐",
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "트렌스포머 영화야 ㅠㅠ",
+      "tokens": [
+        "트",
+        "렌스",
+        "포머",
+        "영화",
+        "야",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 미안",
+      "tokens": [
+        "아",
+        "미안"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나 진짜 몰라 가지고 키키",
+      "tokens": [
+        "나",
+        "진짜",
+        "몰라",
+        "EC",
+        "가지",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그거 좀 유명한 영화야",
+      "tokens": [
+        "그거",
+        "좀",
+        "유명",
+        "한",
+        "ETM",
+        "영화",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "트렌스포머 영화 인기 엄청 많은데 ㅠㅠ",
+      "tokens": [
+        "트",
+        "렌스",
+        "포머",
+        "영화",
+        "인기",
+        "엄청",
+        "많",
+        "은데",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 자동차 변신하는 그거?",
+      "tokens": [
+        "아",
+        "자동차",
+        "변신",
+        "하",
+        "는",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그거 레고로도 나왔었어",
+      "tokens": [
+        "그거",
+        "레고",
+        "로",
+        "도",
+        "나왔었",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그게 트렌스포머야 키키",
+      "tokens": [
+        "그게",
+        "JKS",
+        "트",
+        "렌스",
+        "포머",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "한번 봐봐",
+      "tokens": [
+        "한",
+        "번",
+        "봐",
+        "EC",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "오... 진짜 유명한 거구나 그거",
+      "tokens": [
+        "오",
+        ".",
+        "진짜",
+        "유명",
+        "한",
+        "ETM",
+        "거",
+        "구나",
+        "EF",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "응 다음에 다운 받아서 봐라",
+      "tokens": [
+        "응",
+        "다음",
+        "에",
+        "다운",
+        "받",
+        "아서",
+        "봐라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "응 ㅠㅠ 범블리는 따로 영화도 찍었어 ㅠㅠ",
+      "tokens": [
+        "응",
+        "ㅠㅠ",
+        "범",
+        "블리",
+        "는",
+        "따로",
+        "영화",
+        "도",
+        "찍",
+        "었",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "응 오늘 다운 받아서 볼께 하하",
+      "tokens": [
+        "응",
+        "오늘",
+        "다운",
+        "ETM",
+        "받",
+        "아서",
+        "볼께",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

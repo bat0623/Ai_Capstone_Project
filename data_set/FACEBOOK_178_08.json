@@ -1,0 +1,471 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "연애 하면 애인 자주 만나는 편이야?",
+      "tokens": [
+        "연애",
+        "하",
+        "면",
+        "애인",
+        "자주",
+        "만나",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 거의 일주일에 한번?",
+      "tokens": [
+        "나",
+        "는",
+        "거의",
+        "일",
+        "주일",
+        "에",
+        "한",
+        "번"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나도 자주 만나는 건 싫더라",
+      "tokens": [
+        "나",
+        "도",
+        "자주",
+        "만나",
+        "는",
+        "건",
+        "JX",
+        "싫",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오 나도 여자친구 일주일에 한번 보는데 키키 서로 바빠서 그런가?",
+      "tokens": [
+        "오",
+        "나",
+        "도",
+        "여자",
+        "친구",
+        "일",
+        "주일",
+        "에",
+        "한",
+        "번",
+        "보",
+        "는데",
+        "키",
+        "키",
+        "서로",
+        "바빠서",
+        "EC",
+        "그런가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "자주 만나면 뭔가 질려",
+      "tokens": [
+        "자주",
+        "만나",
+        "면",
+        "뭔가",
+        "VCP",
+        "EC",
+        "질려",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그리고 데이트도 뻔해져 키키 루트가",
+      "tokens": [
+        "그리고",
+        "데이트",
+        "도",
+        "뻔",
+        "해져",
+        "EC",
+        "VX",
+        "EC",
+        "키",
+        "키",
+        "루트",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그렇긴 하지",
+      "tokens": [
+        "그렇",
+        "긴",
+        "JX",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "학생 때는 여친 매일 보고 싶어 했는데 키키",
+      "tokens": [
+        "학생",
+        "때",
+        "는",
+        "여친",
+        "매일",
+        "보",
+        "고",
+        "싶",
+        "어",
+        "했",
+        "EP",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "주로 여자친구랑 만나면 뭐해?",
+      "tokens": [
+        "주로",
+        "여자",
+        "친구",
+        "랑",
+        "만나",
+        "면",
+        "뭐",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 주로 영화 보고 밥 먹고?",
+      "tokens": [
+        "나",
+        "는",
+        "주로",
+        "영화",
+        "보고",
+        "밥",
+        "먹",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너는?",
+      "tokens": [
+        "너",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나는 여친 집에서 주로 쉬는 편 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "여친",
+        "집",
+        "에서",
+        "주로",
+        "쉬",
+        "는",
+        "편",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 거의 모든 커플들 루트가 비슷하네 키키",
+      "tokens": [
+        "근데",
+        "거의",
+        "모든",
+        "커플",
+        "들",
+        "루트",
+        "가",
+        "비슷",
+        "하",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "다 비슷한 곳에서 사니까 키키",
+      "tokens": [
+        "다",
+        "비슷",
+        "한",
+        "ETM",
+        "곳",
+        "에서",
+        "사",
+        "니까",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "할만 한 게 한정적이라 데이트 할게 별로 없더라고 ㅠㅠ",
+      "tokens": [
+        "할",
+        "ETM",
+        "만",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "한정",
+        "적",
+        "이",
+        "라",
+        "데이트",
+        "할",
+        "ETM",
+        "게",
+        "JKS",
+        "별로",
+        "없",
+        "더라고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "데이트는 역시 편하게 해야지",
+      "tokens": [
+        "데이트",
+        "는",
+        "역시",
+        "편하",
+        "게",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 편한 커플이 오래가~",
+      "tokens": [
+        "응",
+        "편한",
+        "ETM",
+        "커플",
+        "이",
+        "오래가",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그래서 여친이랑 방귀 다 텄어 키키",
+      "tokens": [
+        "그래서",
+        "여친",
+        "이랑",
+        "방귀",
+        "다",
+        "텄",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 다들 여친들이랑 오래 가~",
+      "tokens": [
+        "키키다들여친들이랑오래가",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "우리 둘 다 오래 가자!",
+      "tokens": [
+        "우리",
+        "둘",
+        "다",
+        "오래가",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_178_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

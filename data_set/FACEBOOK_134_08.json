@@ -1,0 +1,420 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "*** 결혼식 가는 사람",
+      "tokens": [
+        "*",
+        "*",
+        "*",
+        "결혼식",
+        "가",
+        "는",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "며칠이야?",
+      "tokens": [
+        "며칠",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "며칠 나왔어?",
+      "tokens": [
+        "며칠",
+        "나왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 가는데 같이 갈 사람?",
+      "tokens": [
+        "나가",
+        "는데",
+        "같이",
+        "갈",
+        "ETM",
+        "사람"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오빠 친구들도 다 가니까 다 만나겠어 거기서 키키",
+      "tokens": [
+        "오빠",
+        "친구",
+        "들",
+        "도",
+        "다",
+        "가",
+        "니까",
+        "다",
+        "만나",
+        "겠",
+        "어",
+        "거기",
+        "서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 4월에 아가씨도 결혼해 ㅠㅠ",
+      "tokens": [
+        "나",
+        "4",
+        "월에아가씨도결혼해ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리 축가 하기로 함",
+      "tokens": [
+        "우리",
+        "축가",
+        "하",
+        "기",
+        "로",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "둘이서 하하",
+      "tokens": [
+        "둘",
+        "이",
+        "서",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "4월 23일인가 그랬지 않나?",
+      "tokens": [
+        "4",
+        "월",
+        "23",
+        "일",
+        "인가",
+        "EC",
+        "그랬",
+        "EP",
+        "지",
+        "않",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "확정 났음",
+      "tokens": [
+        "확정",
+        "났",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "축가 보러 꼭 갈래!",
+      "tokens": [
+        "축가",
+        "보러",
+        "꼭",
+        "갈래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그때야 한 시야 하하",
+      "tokens": [
+        "그때",
+        "야",
+        "EF",
+        "한",
+        "시",
+        "야",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "내일 계약서 도장 찍는다던데!",
+      "tokens": [
+        "내일",
+        "계약서",
+        "도장",
+        "찍",
+        "는다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "23일로 정해졌구나 우와",
+      "tokens": [
+        "23",
+        "일",
+        "로",
+        "정해졌",
+        "EC",
+        "VX",
+        "EP",
+        "구나",
+        "우와"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "*는 또 내려오기 힘들겠다 ㅠㅠ",
+      "tokens": [
+        "*",
+        "는또내려오기힘들겠다ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아가씨 결혼은 안 잡혔어?",
+      "tokens": [
+        "아가씨",
+        "결혼",
+        "은",
+        "안",
+        "잡혔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아가씨 날짜 얼른 물어봐야겠군",
+      "tokens": [
+        "아가씨",
+        "날짜",
+        "얼른",
+        "물어봐야",
+        "EC",
+        "VX",
+        "겠",
+        "군"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "넘 멀어서 힘들 듯 ㅠㅠ",
+      "tokens": [
+        "넘",
+        "멀",
+        "어서",
+        "힘들",
+        "듯",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "상견례는 이미 한 거야?",
+      "tokens": [
+        "상견례",
+        "는",
+        "이미",
+        "한",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "응 했어!",
+      "tokens": [
+        "응했",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "4월로 정했는데 거기도 식장에 따라...",
+      "tokens": [
+        "4",
+        "월",
+        "로",
+        "정했",
+        "EP",
+        "는데",
+        "거기",
+        "도",
+        "식장",
+        "에",
+        "따라",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아가씨 결혼 하하",
+      "tokens": [
+        "아가씨",
+        "결혼",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "서울서 하는 거 아냐",
+      "tokens": [
+        "서울",
+        "서",
+        "하",
+        "는",
+        "거",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_134_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**도 골프 친다더라...",
+      "tokens": [
+        "*",
+        "*",
+        "도골프친다더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "오 골프 재밌낭 하하",
+      "tokens": [
+        "오골프재밌낭하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "재미로... 진짜 못 치지만",
+      "tokens": [
+        "재미",
+        "로",
+        ".",
+        ".",
+        "진짜",
+        "못",
+        "치",
+        "지만"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리 빼고 다 골프 치는 듯",
+      "tokens": [
+        "우리",
+        "빼",
+        "고",
+        "다",
+        "골프",
+        "치",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "골프 요새 많이 치네 하하",
+      "tokens": [
+        "골프",
+        "요새",
+        "많이",
+        "치",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "다들 치니까 저도 칩니다 키키",
+      "tokens": [
+        "다",
+        "들치",
+        "니까",
+        "저",
+        "도",
+        "칩",
+        "니",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "하지만 우리는 낚시가...",
+      "tokens": [
+        "하지만",
+        "우리",
+        "는",
+        "낚시",
+        "가",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그니까 대세긴 대세다 하하",
+      "tokens": [
+        "그니까",
+        "대세",
+        "긴",
+        "ETM",
+        "대세",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "골프도 좋지만 저도 낚시 배우고 싶어요",
+      "tokens": [
+        "골프",
+        "도",
+        "좋",
+        "지만",
+        "저",
+        "도",
+        "낚시",
+        "배우",
+        "고",
+        "싶",
+        "어요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "낚시 진짜 재밌는데",
+      "tokens": [
+        "낚시",
+        "진짜",
+        "재밌",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "낚시왕 박쥐 하하 쩔어",
+      "tokens": [
+        "낚시왕",
+        "박쥐",
+        "하하",
+        "쩔",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "낚시 세상 재밌을듯",
+      "tokens": [
+        "낚시",
+        "세상",
+        "재밌",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 낚린이들은 안생기냐 하하",
+      "tokens": [
+        "왜",
+        "낚",
+        "린",
+        "이",
+        "들",
+        "은",
+        "안",
+        "생기",
+        "냐",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까 하하 맞아 하하 진짜",
+      "tokens": [
+        "그니까",
+        "하하",
+        "맞",
+        "아",
+        "하하",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "대물 한 번 낚아보고 싶다 진짜",
+      "tokens": [
+        "대물",
+        "한",
+        "번",
+        "낚",
+        "아",
+        "보",
+        "고",
+        "싶",
+        "다",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "**도 낚시 시작해...",
+      "tokens": [
+        "*",
+        "*",
+        "도",
+        "낚시",
+        "시작",
+        "해",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "박쥐는 대물문어 잡았어 하하",
+      "tokens": [
+        "박쥐",
+        "는",
+        "대물",
+        "문어",
+        "잡",
+        "았",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "하나 사서 걸어서 10분이면 바다니까 키키",
+      "tokens": [
+        "하나",
+        "사",
+        "서",
+        "걸어서",
+        "EC",
+        "10",
+        "분",
+        "이",
+        "면",
+        "바다",
+        "니까",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_165_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

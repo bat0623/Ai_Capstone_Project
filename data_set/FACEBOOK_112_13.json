@@ -1,0 +1,363 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "와 어제 저녁에 비온 거 알아?",
+      "tokens": [
+        "와",
+        "어제",
+        "저녁",
+        "에",
+        "비",
+        "EC",
+        "온",
+        "ETM",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "맞아 아침에 여기는 축축하더라",
+      "tokens": [
+        "맞",
+        "아",
+        "아침",
+        "에",
+        "여기",
+        "는",
+        "축축",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 맞아 나 어제 비 떨어지는 소리 들었는데 설마 했거든!?",
+      "tokens": [
+        "키키맞아나어제비떨어지는소리들었는데설마했거든",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왜 비 많이 왔어?",
+      "tokens": [
+        "왜",
+        "비",
+        "많이",
+        "왔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오늘 아침에 나왔는데 진짜 웅덩이 져있던데?",
+      "tokens": [
+        "오늘",
+        "아침",
+        "에",
+        "나왔",
+        "EP",
+        "는데",
+        "진짜",
+        "웅",
+        "덩이져",
+        "EC",
+        "있",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "근데 오늘은 어제보다 덜 추웠지?",
+      "tokens": [
+        "근데",
+        "오늘",
+        "은",
+        "어제",
+        "보다",
+        "덜",
+        "추웠",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니,",
+      "tokens": [
+        "아니",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 조끼패딩 걸치고 갔어!",
+      "tokens": [
+        "나",
+        "조끼",
+        "패딩",
+        "걸치",
+        "고",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "조끼 패딩 입어야 됌 키키",
+      "tokens": [
+        "조끼",
+        "패딩",
+        "입",
+        "어야",
+        "됌키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 인정 그래도 춥긴 춥더라!",
+      "tokens": [
+        "키",
+        "키",
+        "인정",
+        "그래도",
+        "EC",
+        "춥",
+        "긴",
+        "JX",
+        "춥",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "맞아 난 겨울이 싫어ㅜㅜ",
+      "tokens": [
+        "맞",
+        "아",
+        "난",
+        "ETM",
+        "겨울",
+        "이",
+        "싫",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "ㅜㅜ 아니 10월 중순인데 무슨 겨울날씨야!",
+      "tokens": [
+        "ㅜㅜ아니",
+        "10",
+        "월",
+        "중순",
+        "인데",
+        "EC",
+        "무슨",
+        "겨울",
+        "날씨",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "미쳤지 날씨가 진짜 키키",
+      "tokens": [
+        "미쳤",
+        "EP",
+        "지",
+        "날씨",
+        "가",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "여름이 좋아 난",
+      "tokens": [
+        "여름",
+        "이",
+        "좋",
+        "아",
+        "난",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 나는 그래도 여름은 좀,",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "그래도",
+        "여름",
+        "은",
+        "좀",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 왜 여름은 휴가라도 가지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "왜",
+        "여름",
+        "은",
+        "휴가",
+        "라도",
+        "EC",
+        "가지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 언니 월차 12월에 다 써버려 그래서 휴가 느낌 내!",
+      "tokens": [
+        "키",
+        "키",
+        "언니",
+        "월차",
+        "12",
+        "월",
+        "에",
+        "다",
+        "써",
+        "EC",
+        "버려",
+        "EF",
+        "그래서",
+        "휴가",
+        "느낌",
+        "내"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "우린 12월에 못써 11월에 다 써야함",
+      "tokens": [
+        "우린",
+        "JX",
+        "12",
+        "월",
+        "에",
+        "못써",
+        "EC",
+        "11",
+        "월",
+        "에",
+        "다",
+        "써야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

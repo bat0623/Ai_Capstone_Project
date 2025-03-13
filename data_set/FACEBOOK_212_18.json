@@ -1,0 +1,395 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "한우가 싸긴 사드라",
+      "tokens": [
+        "한우",
+        "가",
+        "싸",
+        "긴",
+        "JX",
+        "사",
+        "드라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "얼마 돈디 ㄷㄷ",
+      "tokens": [
+        "얼마돈디ㄷㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 수입 샀다규",
+      "tokens": [
+        "난",
+        "JX",
+        "수입",
+        "샀",
+        "EP",
+        "다",
+        "규"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "한우 주문은 나에게로 하세요",
+      "tokens": [
+        "한우",
+        "주문",
+        "은",
+        "나",
+        "에게",
+        "로",
+        "하",
+        "세요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "투플인데 어쩌고 해서 25만 원!",
+      "tokens": [
+        "투",
+        "플",
+        "인데",
+        "EC",
+        "어쩌",
+        "고",
+        "해서",
+        "EC",
+        "25",
+        "만",
+        "원"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "오 그래서 너도 샀다고?",
+      "tokens": [
+        "오",
+        "그래서",
+        "너",
+        "도",
+        "샀",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "야 수입 노노 맛없어",
+      "tokens": [
+        "야",
+        "수입",
+        "노노",
+        "맛없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "온 가족 먹을 수 있대",
+      "tokens": [
+        "온",
+        "가족",
+        "먹",
+        "을",
+        "수",
+        "있",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그 정도 양이면 괜춘은데",
+      "tokens": [
+        "그",
+        "정도",
+        "양",
+        "이",
+        "면",
+        "괜춘",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "쓰리플로 반값 내가 해준다",
+      "tokens": [
+        "쓰리",
+        "플로",
+        "반값",
+        "내",
+        "가",
+        "해준다",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니? 엄마가 샀다고...",
+      "tokens": [
+        "아니",
+        "엄마",
+        "가",
+        "샀",
+        "EP",
+        "다고",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "우리 집으로 보냈다네",
+      "tokens": [
+        "우리",
+        "집",
+        "으로",
+        "보냈",
+        "EP",
+        "다네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아하 역시 엄마 사랑 키키",
+      "tokens": [
+        "아하",
+        "역시",
+        "엄마",
+        "사랑",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "근데 우리나라만 소고기가 귀해서 맛있다고 느끼는 거임",
+      "tokens": [
+        "근데",
+        "우리",
+        "나라",
+        "만",
+        "소고기",
+        "가",
+        "귀",
+        "해서",
+        "EC",
+        "맛있",
+        "다고",
+        "느끼",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오면 초대 한다 키키",
+      "tokens": [
+        "오",
+        "면",
+        "초대",
+        "한",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "오늘도 사랑한다고 말해드려 키키",
+      "tokens": [
+        "오늘",
+        "도",
+        "사랑",
+        "한다고",
+        "EC",
+        "말",
+        "해",
+        "EC",
+        "드려",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "엄마 사랑은 자식 사랑 대단해",
+      "tokens": [
+        "엄마",
+        "사랑",
+        "은",
+        "자식",
+        "사랑",
+        "대단",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 당근 오늘도 사랑해",
+      "tokens": [
+        "키",
+        "키",
+        "당근",
+        "오늘",
+        "도",
+        "사랑",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "소고기 파티야? ㄷㄷ",
+      "tokens": [
+        "소고기",
+        "파티",
+        "야",
+        "EF",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "좋아 키키",
+      "tokens": [
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "소고기 파티에 빠지면 안되지",
+      "tokens": [
+        "소고기",
+        "파티",
+        "에",
+        "빠지",
+        "면",
+        "안",
+        "되",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_212_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

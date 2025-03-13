@@ -1,0 +1,428 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "얌 구경이 개 재밌대...",
+      "tokens": [
+        "얌",
+        "구경",
+        "이",
+        "개",
+        "재밌",
+        "대",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 진짜 개잼있음",
+      "tokens": [
+        "아",
+        "진짜",
+        "개",
+        "잼",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래삿대...",
+      "tokens": [
+        "그래",
+        "삿대",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 나 드라마 요새 몬 보게씀",
+      "tokens": [
+        "근데",
+        "나",
+        "드라마",
+        "요",
+        "EC",
+        "새",
+        "몬",
+        "보",
+        "게",
+        "씀",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "이번 주말에 보려고 했는디 ㅠㅠ",
+      "tokens": [
+        "이번",
+        "주말",
+        "에",
+        "보",
+        "려고",
+        "했",
+        "EP",
+        "는디",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내가 또 챙겨봤지 키키",
+      "tokens": [
+        "내",
+        "가",
+        "또",
+        "챙겨",
+        "EC",
+        "봤",
+        "EP",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "주말에 나도 몰아서 한번 봐보까",
+      "tokens": [
+        "주말",
+        "에",
+        "나",
+        "도",
+        "몰",
+        "아서",
+        "한",
+        "번",
+        "봐",
+        "EC",
+        "보",
+        "까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "주말에도 글렀어 휴...",
+      "tokens": [
+        "주말",
+        "에",
+        "도",
+        "글렀",
+        "EP",
+        "어",
+        "휴",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "언제 봐",
+      "tokens": [
+        "언제",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거는 꼭 보라구 신선해 키키",
+      "tokens": [
+        "그거",
+        "는",
+        "꼭",
+        "보",
+        "라구",
+        "신선",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "넷플릭스도 볼려고 미뤄 논 거 엄청 많은데",
+      "tokens": [
+        "넷플릭스",
+        "도",
+        "볼려고",
+        "EC",
+        "미뤄",
+        "EC",
+        "논",
+        "ETM",
+        "거",
+        "엄청",
+        "많",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그거 누가 무섭다던데?",
+      "tokens": [
+        "그거",
+        "누가",
+        "JKS",
+        "무섭",
+        "다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "이영애 나오는 줄 몰라서 깜놀 키키",
+      "tokens": [
+        "이영애",
+        "나오",
+        "는",
+        "줄",
+        "몰라서",
+        "EC",
+        "깜놀",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나 슬의생도 아직 1, 2 다 아껴 놓고 있단 말이야...",
+      "tokens": [
+        "나",
+        "슬",
+        "ETM",
+        "의생",
+        "도",
+        "아직",
+        "1",
+        ",",
+        "2",
+        "다",
+        "아껴",
+        "EC",
+        "놓",
+        "고",
+        "있",
+        "단",
+        "말",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 마이네임도 봐야 함...",
+      "tokens": [
+        "나",
+        "도",
+        "마이네임",
+        "도",
+        "봐야",
+        "EC",
+        "함",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그것도 안 봤다고?",
+      "tokens": [
+        "그것",
+        "도",
+        "안",
+        "봤",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "마이네임 보면 깡패하고 싶어진다던데",
+      "tokens": [
+        "마이네임",
+        "보",
+        "면",
+        "깡패",
+        "하",
+        "고",
+        "싶",
+        "어",
+        "진다던",
+        "ETM",
+        "데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "슬의생 왜 아직 안 봄 키키",
+      "tokens": [
+        "슬",
+        "의",
+        "생",
+        "왜",
+        "아직",
+        "안",
+        "봄",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "얼른 보라고...",
+      "tokens": [
+        "얼른",
+        "보",
+        "라고",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "볼 거 많네 키키",
+      "tokens": [
+        "볼",
+        "ETM",
+        "거",
+        "많",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "진짜 세상살이 힘들 때 그거 보면서 힐링할라구...",
+      "tokens": [
+        "진짜",
+        "세상",
+        "살",
+        "이",
+        "힘들",
+        "ETM",
+        "때",
+        "그거",
+        "보",
+        "면서",
+        "힐링",
+        "할라구",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_214_19.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

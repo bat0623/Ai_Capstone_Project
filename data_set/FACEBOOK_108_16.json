@@ -1,0 +1,477 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 눈썹펌 해본 적 있어?",
+      "tokens": [
+        "너",
+        "는",
+        "눈썹",
+        "펌",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "속눈썹 펌?",
+      "tokens": [
+        "속눈썹",
+        "펌"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아니 해본 적 없어 ㅠㅠ",
+      "tokens": [
+        "아니",
+        "해",
+        "EC",
+        "본",
+        "ETM",
+        "적",
+        "없",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "속눈썹 키키 나는 해보고 싶은데 이거 셀프키트 나왔다더라!?",
+      "tokens": [
+        "속눈썹",
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "은데",
+        "이거",
+        "셀프",
+        "키트",
+        "나왔",
+        "EP",
+        "다더라",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "헐 진짜?",
+      "tokens": [
+        "헐",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "근데 내가 하면 잘 안될 거 같아 ㅠㅠ",
+      "tokens": [
+        "근데",
+        "내",
+        "가",
+        "하",
+        "면",
+        "잘",
+        "안",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나도 똥손이라 그게 무섭긴 해!",
+      "tokens": [
+        "나",
+        "도",
+        "똥",
+        "손",
+        "이",
+        "라",
+        "그게",
+        "JKS",
+        "무섭",
+        "긴",
+        "JX",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "키키 그리고 난 무쌍이라서 펌하면 이상할 까봐 못하겠어...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그리고",
+        "난무",
+        "쌍",
+        "이",
+        "라서",
+        "펌",
+        "하",
+        "면",
+        "이상",
+        "할까봐",
+        "EC",
+        "VX",
+        "EC",
+        "못하",
+        "겠",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "무쌍이 더 잘 어울리지 않아?",
+      "tokens": [
+        "무",
+        "쌍",
+        "이",
+        "더",
+        "잘",
+        "어울리",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 그런 거야?",
+      "tokens": [
+        "아",
+        "그런",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럼 한 번 해볼까?",
+      "tokens": [
+        "그럼",
+        "한",
+        "번",
+        "해",
+        "EC",
+        "볼까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "왜냐하면 눈썹이 올라가 있으면 눈이 더 커 보이잖아!",
+      "tokens": [
+        "왜냐하면",
+        "눈썹",
+        "이",
+        "올라가",
+        "EC",
+        "있",
+        "으면",
+        "눈",
+        "이",
+        "더",
+        "커",
+        "EC",
+        "보이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "오케이",
+      "tokens": [
+        "오케이"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나 이번 주에 받으러 가볼게",
+      "tokens": [
+        "나",
+        "이번",
+        "주",
+        "에",
+        "받",
+        "으러",
+        "가",
+        "볼",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 근데 가격대는 얼마인 줄 알고 가는 거야!?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "가격",
+        "대",
+        "는",
+        "얼마",
+        "인",
+        "ETM",
+        "줄",
+        "알",
+        "고",
+        "가",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "!"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그럼 그럼 친구가 속눈썹 펌을 해서 거기로 가보려고!",
+      "tokens": [
+        "그럼",
+        "그럼",
+        "친구",
+        "가",
+        "속눈썹",
+        "펌",
+        "을",
+        "해서",
+        "EC",
+        "거기",
+        "로",
+        "가",
+        "EC",
+        "보",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나도 내 친구가 잘하는 곳 있다고 해서 가보려고!",
+      "tokens": [
+        "나",
+        "도",
+        "내",
+        "JKG",
+        "친구",
+        "가",
+        "잘",
+        "하",
+        "는",
+        "곳",
+        "있",
+        "다고",
+        "해서",
+        "EC",
+        "가",
+        "보",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 둘 다 속눈썹 펌 성공하고 만나는 거야 하하",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "둘",
+        "다",
+        "속눈썹",
+        "펌",
+        "성공",
+        "하",
+        "고",
+        "만나",
+        "는",
+        "거",
+        "야",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 오 좋지 망하면 둘 다 우는 거야!",
+      "tokens": [
+        "키",
+        "키",
+        "오",
+        "좋",
+        "지",
+        "망하",
+        "면",
+        "둘",
+        "다우",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "나 그냥 속눈썹 뽑아버리고 자숙할게...",
+      "tokens": [
+        "나",
+        "그냥",
+        "속눈썹",
+        "뽑",
+        "아",
+        "버리",
+        "고",
+        "자숙",
+        "할게",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "**은 한식을 자주 먹는 듯",
+      "tokens": [
+        "*",
+        "*",
+        "은",
+        "한식",
+        "을",
+        "자주",
+        "먹",
+        "는",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "한식 파냐 **”?",
+      "tokens": [
+        "한식",
+        "파",
+        "냐",
+        "*",
+        "*",
+        "”"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞아 한국인은 한식이지!",
+      "tokens": [
+        "맞",
+        "아",
+        "한국인",
+        "은",
+        "한식",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "우리도 건강식 먹어야 하는데",
+      "tokens": [
+        "우리",
+        "도",
+        "건강식",
+        "먹",
+        "어야",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "한식 나도 좋아해 하하",
+      "tokens": [
+        "한식",
+        "나",
+        "도",
+        "좋",
+        "아",
+        "해하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "정크푸드 좋아한다몈 키키",
+      "tokens": [
+        "정크푸드",
+        "좋아한다",
+        "EC",
+        "몈키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "**은 완전 한식 파인듯",
+      "tokens": [
+        "*",
+        "*",
+        "은",
+        "완전",
+        "한식",
+        "파인",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "한식은 언제나 맛있지 하하",
+      "tokens": [
+        "한식",
+        "은",
+        "언제나",
+        "맛있",
+        "지",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "한식 진짜 마싯움",
+      "tokens": [
+        "한식진짜마싯움"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 근데 일식도 좋아해",
+      "tokens": [
+        "난",
+        "JX",
+        "근데",
+        "일식",
+        "도",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "대전에 한식집 잘해",
+      "tokens": [
+        "대전",
+        "에",
+        "한식집",
+        "잘",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "가끔 양식을 즐기지!",
+      "tokens": [
+        "가끔",
+        "양식",
+        "을",
+        "즐기",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "중식은 좀 별로인듯...",
+      "tokens": [
+        "중식",
+        "은",
+        "좀",
+        "별로",
+        "인듯",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "한식집 추천좀 해줘",
+      "tokens": [
+        "한식집",
+        "추천",
+        "좀",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "난 거의 집밥 먹엌 키키",
+      "tokens": [
+        "난",
+        "JX",
+        "거의",
+        "집",
+        "밥",
+        "먹엌",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "대전에 한식집을 잘해?",
+      "tokens": [
+        "대전",
+        "에",
+        "한식집",
+        "을",
+        "잘",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "대전에 유명한 곳 있어?",
+      "tokens": [
+        "대전",
+        "에",
+        "유명",
+        "한",
+        "ETM",
+        "곳",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아니 나도 모르는데? 키키 쿠 ㅜㅜ",
+      "tokens": [
+        "아니",
+        "나",
+        "도",
+        "모르",
+        "는데",
+        "?",
+        "키키쿠ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_164_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

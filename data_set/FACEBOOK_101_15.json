@@ -1,0 +1,588 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "지금 세계 기아 위험 1위가 어느 나라인 줄 알아?",
+      "tokens": [
+        "지금",
+        "세계",
+        "기아",
+        "위험",
+        "1",
+        "위",
+        "가",
+        "어느",
+        "나라",
+        "인",
+        "ETM",
+        "줄",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그게 뭐야?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 모르지",
+      "tokens": [
+        "난",
+        "JX",
+        "모르",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "언니 그러면 소말리아라는 나라 들어봤어?",
+      "tokens": [
+        "언니",
+        "그러",
+        "면",
+        "소말리아",
+        "라는",
+        "ETM",
+        "나라",
+        "들",
+        "어",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "소말리아?",
+      "tokens": [
+        "소말리아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "아프리카 아냐?",
+      "tokens": [
+        "아프리카",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "몰라",
+      "tokens": [
+        "몰라",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그 소말리아라는 나라의 애기들이 진짜 말랐잖아",
+      "tokens": [
+        "그",
+        "소말리아",
+        "라는",
+        "ETM",
+        "나라",
+        "의",
+        "애기",
+        "들",
+        "이",
+        "진짜",
+        "말랐",
+        "EP",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "사진 못 봤어?",
+      "tokens": [
+        "사진",
+        "못",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "매일 티비에 나오는 애들?",
+      "tokens": [
+        "매일",
+        "티비",
+        "에",
+        "나오",
+        "는",
+        "애",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 ㅜㅜ",
+      "tokens": [
+        "맞아ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "여기가 지금 1위래,",
+      "tokens": [
+        "여기",
+        "가",
+        "지금",
+        "1",
+        "위",
+        "래",
+        "EF",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "왜 그런 줄 알아?",
+      "tokens": [
+        "왜",
+        "그런",
+        "줄",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "왜 그런데 ?",
+      "tokens": [
+        "왜",
+        "그런데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "걔네 전쟁해?",
+      "tokens": [
+        "걔",
+        "네",
+        "전쟁",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "어 맞아!",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "내전이 몇십년 동안 이어져서 아직도 안 끝났대!",
+      "tokens": [
+        "내전",
+        "이",
+        "몇",
+        "십",
+        "년",
+        "동안",
+        "이",
+        "어",
+        "져서",
+        "EC",
+        "아직",
+        "도",
+        "안",
+        "끝났",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그럼 전쟁 그만 하면 되잖아",
+      "tokens": [
+        "그럼",
+        "전쟁",
+        "그만",
+        "하",
+        "면",
+        "되",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 근데 또 걔네는 걔네들만의 문제가 있지!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "또",
+        "걔",
+        "네",
+        "는",
+        "걔",
+        "네",
+        "들",
+        "만",
+        "의",
+        "문제",
+        "가",
+        "있",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 북한은 몇 위인 줄 알아?",
+      "tokens": [
+        "근데",
+        "북한",
+        "은",
+        "몇",
+        "위",
+        "인",
+        "ETM",
+        "줄",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "불쌍해",
+      "tokens": [
+        "불쌍",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "북한 몇위야?",
+      "tokens": [
+        "북한",
+        "몇",
+        "위",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "거지",
+      "tokens": [
+        "거지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "북한은 21위 생각보다 위 순위에 없더라고",
+      "tokens": [
+        "북한",
+        "은",
+        "21",
+        "위",
+        "생각",
+        "보다",
+        "위",
+        "순위",
+        "에",
+        "없",
+        "더라고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "북한은 꽃거지가 있잖아!",
+      "tokens": [
+        "북한",
+        "은",
+        "꽃",
+        "거지",
+        "가",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 27,
+      "text": "나는 상위일 줄 알았는데!",
+      "tokens": [
+        "나",
+        "는",
+        "상위",
+        "일",
+        "ETM",
+        "줄",
+        "알",
+        "았",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 28,
+      "text": "북한보다 더 못사는 나라가 많은가 보네",
+      "tokens": [
+        "북한",
+        "보다",
+        "더",
+        "못",
+        "사",
+        "는",
+        "나라",
+        "가",
+        "많",
+        "은가",
+        "보",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 29,
+      "text": "어 맞아",
+      "tokens": [
+        "어",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 30,
+      "text": "일단 아프리카에 있는 작은 나라들이 있어!",
+      "tokens": [
+        "일단",
+        "아프리카",
+        "에",
+        "있",
+        "는",
+        "작",
+        "은",
+        "나라",
+        "들",
+        "이",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 31,
+      "text": "불쌍해",
+      "tokens": [
+        "불쌍",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 32,
+      "text": "걔네는 뭐 먹고 살지?",
+      "tokens": [
+        "걔",
+        "네",
+        "는",
+        "뭐",
+        "먹",
+        "고",
+        "살",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 33,
+      "text": "우리나 잘살자",
+      "tokens": [
+        "우리",
+        "나",
+        "잘",
+        "살",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_101_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

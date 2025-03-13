@@ -1,0 +1,394 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "술 좋아하시는 분~",
+      "tokens": [
+        "술",
+        "좋",
+        "아",
+        "하",
+        "시",
+        "는",
+        "분",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 술 없인 못 살어",
+      "tokens": [
+        "나",
+        "술",
+        "없인",
+        "JX",
+        "못",
+        "살",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "술 헉헉 나 진짜 조아함",
+      "tokens": [
+        "술",
+        "헉헉",
+        "나",
+        "진짜",
+        "조아",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "어떤 술 좋아하십니까 하하",
+      "tokens": [
+        "어떤",
+        "술",
+        "좋",
+        "아",
+        "하",
+        "십니까",
+        "EF",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "좀 줄여야 할 텐데 ㅜㅜ",
+      "tokens": [
+        "좀",
+        "줄여야",
+        "EC",
+        "할",
+        "ETM",
+        "텐데",
+        "VCP",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 주종 안 가림",
+      "tokens": [
+        "나",
+        "는",
+        "주종",
+        "안",
+        "가림",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "남자는 위스키지",
+      "tokens": [
+        "남자",
+        "는",
+        "위스키",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "안주는 어떤 거 최애임?",
+      "tokens": [
+        "안",
+        "주",
+        "는",
+        "어떤",
+        "거",
+        "최애",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "요즘 간수치 진짜 높아졌어",
+      "tokens": [
+        "요즘",
+        "간수",
+        "치",
+        "EC",
+        "진짜",
+        "높",
+        "아",
+        "졌",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "안주는 올리브!",
+      "tokens": [
+        "안",
+        "주",
+        "는",
+        "올리브"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "주종 안 가린다고?",
+      "tokens": [
+        "주종",
+        "안",
+        "가린다고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "캡틴큐 마셔봄?",
+      "tokens": [
+        "캡틴",
+        "큐",
+        "마셔",
+        "EC",
+        "봄",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "나는 캐비어에 소주 좋아함",
+      "tokens": [
+        "나",
+        "는",
+        "캐",
+        "ETM",
+        "비어",
+        "에",
+        "소주",
+        "좋",
+        "아함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "캡틴큐 먹고 일어나면 다다음날 깨어난대",
+      "tokens": [
+        "캡틴",
+        "큐",
+        "먹",
+        "고",
+        "일어나",
+        "면",
+        "다",
+        "다음",
+        "날",
+        "깨",
+        "어",
+        "난대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "캡틴큐 우리 집에 있어...!",
+      "tokens": [
+        "캡틴",
+        "큐",
+        "우리",
+        "집",
+        "에",
+        "있",
+        "어",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "캡틴큐 중학교 때 수학여행 가서 무거봤는데",
+      "tokens": [
+        "캡틴",
+        "큐",
+        "중학교",
+        "때",
+        "수학여행",
+        "가",
+        "서",
+        "무거",
+        "봤",
+        "EP",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그거 나주라",
+      "tokens": [
+        "그거",
+        "나",
+        "주",
+        "라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "먹고 다다음날 일어나게",
+      "tokens": [
+        "먹",
+        "고",
+        "다",
+        "다음",
+        "날",
+        "일어나",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그니까 키키 무서워서 못 땄음",
+      "tokens": [
+        "그니까",
+        "키",
+        "키",
+        "ETN",
+        "무서워서",
+        "EC",
+        "못",
+        "땄",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그때는 젊어서 그런지 타격 없더라",
+      "tokens": [
+        "그때",
+        "는",
+        "젊",
+        "어서",
+        "그런지",
+        "EC",
+        "타격",
+        "없",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "같이 먹어보자",
+      "tokens": [
+        "같이",
+        "먹",
+        "어",
+        "보",
+        "자"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_216_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

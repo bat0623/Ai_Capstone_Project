@@ -1,0 +1,486 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "알았어...",
+      "tokens": [
+        "알",
+        "았",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그럼 너 수술한 거도 비밀이지?",
+      "tokens": [
+        "그럼",
+        "너",
+        "수술",
+        "한",
+        "ETM",
+        "거",
+        "도",
+        "비밀",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "비밀 맞아? 키키",
+      "tokens": [
+        "비밀",
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아 웃겨 키키",
+      "tokens": [
+        "아",
+        "웃겨",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "응 ... 비밀이지 ...",
+      "tokens": [
+        "응",
+        ".",
+        "비밀",
+        "이",
+        "지",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내 똥꼬 얘기할랬지?",
+      "tokens": [
+        "내",
+        "JKG",
+        "똥",
+        "꼬",
+        "EC",
+        "얘기",
+        "할",
+        "ETM",
+        "랬",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "걍 내가 자폭하께",
+      "tokens": [
+        "걍내가자폭하께"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "프라이버시 지켜줄게",
+      "tokens": [
+        "프라이버시",
+        "지켜줄",
+        "EC",
+        "VX",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오케이!",
+      "tokens": [
+        "오케이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "이게 무슨 비밀이야 키키",
+      "tokens": [
+        "이게",
+        "JKS",
+        "무슨",
+        "비밀",
+        "이",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "내 똥꼬 너무 뭐라 하지마 ... 또 치질 올라올 거 같어 ...",
+      "tokens": [
+        "내똥꼬너무뭐라하지마",
+        ".",
+        "또",
+        "치",
+        "질",
+        "JKO",
+        "올라올",
+        "ETM",
+        "거",
+        "같",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아니 난 너 지켜 주려구...",
+      "tokens": [
+        "아니",
+        "난",
+        "JX",
+        "너",
+        "지켜",
+        "EC",
+        "주",
+        "려구",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "똥꼬라고? 키키",
+      "tokens": [
+        "똥",
+        "꼬",
+        "라고",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 키키 미쳐",
+      "tokens": [
+        "아키",
+        "키",
+        "미쳐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "휴 ... ** 때문에 내가 계속 치질이 온다 야",
+      "tokens": [
+        "휴",
+        ".",
+        "*",
+        "*",
+        "때문",
+        "에",
+        "내",
+        "가",
+        "계속",
+        "치질",
+        "이온",
+        "다야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "근데 그게 나쁜 일은 아니잖아?",
+      "tokens": [
+        "근데",
+        "그게",
+        "JKS",
+        "나쁜",
+        "ETM",
+        "일",
+        "은",
+        "아니",
+        "잖아",
+        "VX",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아 키키",
+      "tokens": [
+        "아키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 너무 웃겨서 키키",
+      "tokens": [
+        "근데",
+        "너무",
+        "웃겨서",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "나쁜 짜식...",
+      "tokens": [
+        "나쁜",
+        "ETM",
+        "짜식",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "스트레스가 원인인데 ...",
+      "tokens": [
+        "스트레스",
+        "가",
+        "원인",
+        "인데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그게 니 잘못은 아니잖아 ㅠㅠ",
+      "tokens": [
+        "그게",
+        "JKS",
+        "니",
+        "잘못",
+        "은",
+        "아니",
+        "잖아",
+        "VX",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 튼 아프지 말라고 *이 키키",
+      "tokens": [
+        "아",
+        "튼",
+        "ETM",
+        "아프",
+        "지",
+        "말",
+        "라고",
+        "*",
+        "이키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나도 남들처럼 건강한 항문 갖고싶다 ...",
+      "tokens": [
+        "나",
+        "도",
+        "남",
+        "들",
+        "처럼",
+        "건강",
+        "한",
+        "ETM",
+        "항문",
+        "갖",
+        "고",
+        "싶",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "다른 사람에게는 알리고 싶지 않아 ?",
+      "tokens": [
+        "다른",
+        "사람",
+        "에게",
+        "는",
+        "알리",
+        "고",
+        "싶",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "나는 항문은 건강해 키키",
+      "tokens": [
+        "나",
+        "는",
+        "항문",
+        "은",
+        "건강",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 26,
+      "text": "웅 ... 항문 질환 수치스러워",
+      "tokens": [
+        "웅",
+        ".",
+        "항문",
+        "질환",
+        "수치",
+        "스러워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_201_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

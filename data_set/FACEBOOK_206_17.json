@@ -1,0 +1,397 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "물을 많이 마시면 좀 낫나...",
+      "tokens": [
+        "물",
+        "을",
+        "많이",
+        "마시",
+        "면",
+        "좀",
+        "낫",
+        "나",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "물 근데 하루에 1리터 이상 무야 함",
+      "tokens": [
+        "물",
+        "근데",
+        "하루",
+        "에",
+        "1",
+        "리터",
+        "이상",
+        "무야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "음... 조금... 아주 조금 나은 듯...",
+      "tokens": [
+        "음",
+        ".",
+        "조금",
+        ".",
+        "아주",
+        "조금",
+        "나",
+        "은",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 매일 커피를 때려 넣어서 더 건조한 듯",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "커피",
+        "를",
+        "때려",
+        "EC",
+        "넣",
+        "어서",
+        "더",
+        "건조",
+        "한",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "계속 무야 한다 물",
+      "tokens": [
+        "계속",
+        "무야",
+        "한",
+        "ETM",
+        "다물"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나 3리터는 마신다규",
+      "tokens": [
+        "나",
+        "3",
+        "리터",
+        "는",
+        "마신다",
+        "EC",
+        "규"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "1리터 넘 작은 거 아냐?",
+      "tokens": [
+        "1",
+        "리터",
+        "넘",
+        "작",
+        "은",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "커피 말고 물 먹는 습관 기르셈",
+      "tokens": [
+        "커피",
+        "말",
+        "고",
+        "물먹",
+        "는",
+        "습관",
+        "기르",
+        "셈"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "사람이 계속해서 늙는 게 아닌 거 알어?",
+      "tokens": [
+        "사람",
+        "이",
+        "계속",
+        "해서",
+        "EC",
+        "늙",
+        "는",
+        "게",
+        "JKC",
+        "아닌",
+        "ETM",
+        "거",
+        "알",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "2리터가 적당한 거 같아 키키",
+      "tokens": [
+        "2",
+        "리터",
+        "가",
+        "적당",
+        "한",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "2리터였나 봐",
+      "tokens": [
+        "2",
+        "리터",
+        "였",
+        "EP",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "수정할게여 키키 악",
+      "tokens": [
+        "수정할게여키키악"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "확 늙을 때가 있대",
+      "tokens": [
+        "확",
+        "늙",
+        "을",
+        "때",
+        "가",
+        "있",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그럼",
+      "tokens": [
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "사람은 익어가는 거야?",
+      "tokens": [
+        "사람",
+        "은",
+        "익",
+        "어",
+        "가",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "자기 전에 물 먹고 자야 함",
+      "tokens": [
+        "자기",
+        "전",
+        "에",
+        "물먹",
+        "고",
+        "자야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그때를 대비해서 나는 물 많이 마심",
+      "tokens": [
+        "그때",
+        "를",
+        "대비",
+        "해서",
+        "EC",
+        "나",
+        "는",
+        "물",
+        "많이",
+        "마심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아... 확 늙는다고 그런 듯!",
+      "tokens": [
+        "아",
+        ".",
+        "확",
+        "늙",
+        "는다고",
+        "그런",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그리고 일어나서 물 무야 함",
+      "tokens": [
+        "그리고",
+        "일어나",
+        "서",
+        "물",
+        "무야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "혹시나 확 늙는 타이밍이 수분 없어서 쪼골쪼골해질까 바",
+      "tokens": [
+        "혹시나",
+        "확",
+        "늙",
+        "는",
+        "타이밍",
+        "이",
+        "수분",
+        "없",
+        "어서",
+        "쪼",
+        "골",
+        "쪼",
+        "골",
+        "해질까",
+        "EC",
+        "VX",
+        "EC",
+        "바"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_206_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 미용실 졸 자주 가제",
+      "tokens": [
+        "*",
+        "*",
+        "미용실졸자주가제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 자주 안가 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "자주",
+        "안",
+        "가",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어 나는 주기적으로 감 ㅠㅠ",
+      "tokens": [
+        "어",
+        "나",
+        "는",
+        "주기",
+        "적",
+        "으로",
+        "감",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "스트레이트 하러 얼마만에 가심?",
+      "tokens": [
+        "스트레이트",
+        "하",
+        "러",
+        "얼마",
+        "만",
+        "에",
+        "가",
+        "심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "남자가 미장원 같은데 자주 들락거림 안돼",
+      "tokens": [
+        "남자",
+        "가",
+        "미장원",
+        "같",
+        "은데",
+        "자주",
+        "들락거림",
+        "ETN",
+        "안",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "저는 행님 필수입니더 ㅠㅠ",
+      "tokens": [
+        "저",
+        "는",
+        "행",
+        "님",
+        "필수",
+        "입니더",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그럼 가는데만 가나?",
+      "tokens": [
+        "그럼",
+        "가",
+        "는",
+        "데",
+        "만",
+        "가",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "** 좀 상남자 아니가?",
+      "tokens": [
+        "*",
+        "*",
+        "좀",
+        "상",
+        "남자",
+        "아니",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "머리가 꼬불 거려서 ㅠㅠ",
+      "tokens": [
+        "머리",
+        "가",
+        "꼬불",
+        "거려서",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "덕산에 있는 미용실임?",
+      "tokens": [
+        "덕산",
+        "에",
+        "있",
+        "는",
+        "미용실",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "좀 실망이네 **",
+      "tokens": [
+        "좀",
+        "실망",
+        "이",
+        "네",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "시내에 있는 남자 미용실 ㅋ",
+      "tokens": [
+        "시내",
+        "에",
+        "있",
+        "는",
+        "남자",
+        "미용실",
+        "ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "거기 몇 년 단골임? 키키",
+      "tokens": [
+        "거기",
+        "몇",
+        "년",
+        "단골",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진주 나와야지 미장원은 키키",
+      "tokens": [
+        "진주",
+        "나와야지",
+        "EC",
+        "미장원",
+        "은",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "내 20살 때부터 갔따 키키",
+      "tokens": [
+        "내",
+        "20",
+        "살",
+        "때",
+        "부터",
+        "갔",
+        "EP",
+        "따",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그럼... 12년 단골이가...?",
+      "tokens": [
+        "그럼",
+        ".",
+        ".",
+        "12",
+        "년",
+        "단골",
+        "이",
+        "가",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나도 함 가야되는데 귀찮",
+      "tokens": [
+        "나",
+        "도",
+        "함가",
+        "야",
+        "EF",
+        "되",
+        "는",
+        "데",
+        "귀찮"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 행님이 이제 40대가 넘음 ㅋ",
+      "tokens": [
+        "응",
+        "행",
+        "님",
+        "이",
+        "이제",
+        "40",
+        "대가넘음ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_168_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

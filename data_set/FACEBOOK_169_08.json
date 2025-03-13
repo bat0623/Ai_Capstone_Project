@@ -1,0 +1,340 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "누나도 아직 결혼하려면 멀었네...",
+      "tokens": [
+        "누나",
+        "도",
+        "아직",
+        "결혼",
+        "하",
+        "려면",
+        "멀",
+        "었",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 누나 몇 살이야?",
+      "tokens": [
+        "그니까",
+        "누나",
+        "몇",
+        "살",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아직 멀었어 당연",
+      "tokens": [
+        "아직",
+        "멀",
+        "었",
+        "어",
+        "당연"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "둘 중에 하나 빨리 나가야함",
+      "tokens": [
+        "둘",
+        "중",
+        "에",
+        "하나",
+        "빨리",
+        "나가",
+        "야",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "누나는 남친 있니?",
+      "tokens": [
+        "누나",
+        "는",
+        "남친",
+        "있",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "늦게 할꺼래 결혼",
+      "tokens": [
+        "늦",
+        "게",
+        "할꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "래",
+        "결혼"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "보통 결혼하면 안싸움",
+      "tokens": [
+        "보통",
+        "결혼",
+        "하",
+        "면",
+        "안",
+        "싸움",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "너도 얼른 여친 만들어 하하",
+      "tokens": [
+        "너",
+        "도",
+        "얼른",
+        "여친",
+        "만들",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "남친있어 누나는 하하",
+      "tokens": [
+        "남친",
+        "있",
+        "어",
+        "누나",
+        "는",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아... 그렇구나 멀었네 그럼",
+      "tokens": [
+        "아",
+        ".",
+        "그렇",
+        "구나",
+        "멀",
+        "었",
+        "네",
+        "그럼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오 그렇네 아직 멀었네",
+      "tokens": [
+        "오",
+        "그렇",
+        "네",
+        "아직",
+        "멀",
+        "었",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나도 결혼 늦게 하고 싶어",
+      "tokens": [
+        "나",
+        "도",
+        "결혼",
+        "늦",
+        "게",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아하 아니 아까 만들었잖아 여친",
+      "tokens": [
+        "아하",
+        "아니",
+        "아까",
+        "만들",
+        "었잖",
+        "VX",
+        "아",
+        "여친"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "빨리해도 좋고 늦게해도 좋아",
+      "tokens": [
+        "빨리",
+        "해도",
+        "EC",
+        "좋",
+        "고",
+        "늦",
+        "게",
+        "해도",
+        "EC",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "결혼은 아직 생각 안해봤어",
+      "tokens": [
+        "결혼",
+        "은",
+        "아직",
+        "생각",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "여친 있다니까 왜그랭",
+      "tokens": [
+        "여친",
+        "있",
+        "다니까",
+        "왜",
+        "그",
+        "랭"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "잘 생각해보고 결정해 하하",
+      "tokens": [
+        "잘",
+        "생각",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "결정",
+        "해",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "결혼은 늘 신중해야지",
+      "tokens": [
+        "결혼",
+        "은",
+        "늘",
+        "신중",
+        "해야지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_169_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

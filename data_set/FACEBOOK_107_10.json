@@ -1,0 +1,459 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 볼링 잘 쳐?",
+      "tokens": [
+        "언니",
+        "는",
+        "볼링",
+        "잘",
+        "쳐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "몇 나와?",
+      "tokens": [
+        "몇",
+        "나와",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 볼링 좋아해 근데 못 쳐...",
+      "tokens": [
+        "나",
+        "볼",
+        "ETM",
+        "링",
+        "좋",
+        "아",
+        "해",
+        "EF",
+        "근데",
+        "못",
+        "쳐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "진짜 점수 몇 점인데?",
+      "tokens": [
+        "진짜",
+        "점수",
+        "몇",
+        "점",
+        "인데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나랑 붙자~",
+      "tokens": [
+        "나",
+        "랑",
+        "붙",
+        "자",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 그 점수도 잘 몰라 너 잘치지",
+      "tokens": [
+        "난",
+        "JX",
+        "그",
+        "점수",
+        "도",
+        "잘",
+        "몰라",
+        "EF",
+        "너",
+        "잘",
+        "치",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나 이번에 오랜만에 쳤는데 100 나와버렸지 뭐야~",
+      "tokens": [
+        "나",
+        "이번",
+        "에",
+        "오랜만",
+        "에",
+        "쳤",
+        "EP",
+        "는데",
+        "100",
+        "나와",
+        "EC",
+        "버렸",
+        "EP",
+        "지",
+        "뭐",
+        "야",
+        "EF",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "백 나오면 잘 치는 거야?",
+      "tokens": [
+        "백",
+        "나오",
+        "면",
+        "잘",
+        "치",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "음 그냥 뽀록이지, 어쩌다 걸린,?",
+      "tokens": [
+        "음",
+        "그냥",
+        "뽀",
+        "록",
+        "이",
+        "지",
+        ",",
+        "어쩌다",
+        "걸린",
+        "ETM",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 나도 이번에 애들 만나면 치러가야지",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "이번",
+        "에",
+        "애",
+        "들",
+        "만나",
+        "면",
+        "치러",
+        "EC",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 요즘에 술 마시고 노래 들을 수 있는 락볼링장이 진짜 재밌는 거 같아!",
+      "tokens": [
+        "키",
+        "키",
+        "요즘",
+        "에",
+        "술",
+        "마시",
+        "고",
+        "노래",
+        "들",
+        "을",
+        "수",
+        "있",
+        "는",
+        "락",
+        "볼링장",
+        "이",
+        "진짜",
+        "재밌",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "논산에도 생긴 거 알아?",
+      "tokens": [
+        "논산",
+        "에",
+        "도",
+        "생긴",
+        "ETM",
+        "거",
+        "알",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어 봤어!",
+      "tokens": [
+        "어",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 조명이 약간 정육점집 같아!",
+      "tokens": [
+        "근데",
+        "조명",
+        "이",
+        "약간",
+        "정육점",
+        "집",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 그런가?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그런가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "난 제대로 기억이 없음",
+      "tokens": [
+        "난",
+        "JX",
+        "제대로",
+        "기억",
+        "이",
+        "없",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 그때 술 아주 얼큰하게 먹고 갔구나?",
+      "tokens": [
+        "키",
+        "키",
+        "그때",
+        "술",
+        "아주",
+        "얼큰하",
+        "게",
+        "먹",
+        "고",
+        "갔",
+        "EP",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 그랬나?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그랬",
+        "EP",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "볼링 배우고 싶어 나도",
+      "tokens": [
+        "볼링",
+        "배우",
+        "고",
+        "싶",
+        "어",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "나도, 근데 그 볼링 던질 때 그 자세, 나는 평생 못할 거 같아,",
+      "tokens": [
+        "나",
+        "도",
+        ",",
+        "근데",
+        "그",
+        "볼링",
+        "던질",
+        "ETM",
+        "때",
+        "그",
+        "자세",
+        ",",
+        "나",
+        "는",
+        "평생",
+        "못",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 나도야 나 그 자세가 안 나와",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도야",
+        "나",
+        "그",
+        "자세",
+        "가",
+        "안",
+        "나와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "** 취직하면 꼭 말해줘",
+      "tokens": [
+        "*",
+        "*",
+        "취직",
+        "하",
+        "면",
+        "꼭",
+        "말",
+        "해",
+        "EC",
+        "줘",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 꼭 말해줘 ㅎ",
+      "tokens": [
+        "응",
+        "꼭",
+        "말",
+        "해",
+        "EC",
+        "줘",
+        "EF",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 당연하지",
+      "tokens": [
+        "아",
+        "당연",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "기쁜 소식 바로 간다",
+      "tokens": [
+        "기쁜",
+        "ETM",
+        "소식",
+        "바로",
+        "간다",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "엄청 축하해줘야징 축하 축하!",
+      "tokens": [
+        "엄청",
+        "축하",
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "징축",
+        "하",
+        "축하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "완전 축하해줘야지 나도",
+      "tokens": [
+        "완전",
+        "축하",
+        "해",
+        "EC",
+        "줘야지",
+        "EF",
+        "나",
+        "도"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "후 제발... 자리 잡고 싶다",
+      "tokens": [
+        "후",
+        "제발",
+        ".",
+        "자리",
+        "잡",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "기쁜 소식은 빨리빨리 하하",
+      "tokens": [
+        "기쁜",
+        "ETM",
+        "소식",
+        "은",
+        "빨리빨리",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "얼른 될 거야 걱정 마 ㅎ",
+      "tokens": [
+        "얼른",
+        "될",
+        "ETM",
+        "거",
+        "야",
+        "EF",
+        "걱정",
+        "마",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "안정감이 필요하다 정말 키키",
+      "tokens": [
+        "안정",
+        "감",
+        "이",
+        "필요",
+        "하",
+        "다",
+        "정말",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "** 제주 공항 직원 갠지 키키",
+      "tokens": [
+        "*",
+        "*",
+        "제주공항직원갠지키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그건 공항 소속인가?",
+      "tokens": [
+        "그건",
+        "JX",
+        "공항",
+        "소속",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "꼭 잘 될 거니까 하하 스트레스 받지 말고",
+      "tokens": [
+        "꼭",
+        "잘",
+        "될",
+        "ETM",
+        "거",
+        "니까",
+        "EC",
+        "하하",
+        "스트레스",
+        "받",
+        "지",
+        "말",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "공항 소속은 아니고 키키 회사 소속이지 키키",
+      "tokens": [
+        "공항",
+        "소속",
+        "은",
+        "아니",
+        "고",
+        "키",
+        "키",
+        "회사",
+        "소속",
+        "이",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그럼 다른 공항은 발령 안 남?",
+      "tokens": [
+        "그럼",
+        "다른",
+        "공항",
+        "은",
+        "발령",
+        "안",
+        "남",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그러게",
+      "tokens": [
+        "그러",
+        "게"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "다른 데 이동 가능한가?",
+      "tokens": [
+        "다른",
+        "데",
+        "이동",
+        "가능",
+        "한가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "제주에만 있지 키키",
+      "tokens": [
+        "제주",
+        "에",
+        "만",
+        "있",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "스트레스 받지 말고!",
+      "tokens": [
+        "스트레스",
+        "받",
+        "지",
+        "말",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "오 평생 제주 사람 ㅎ",
+      "tokens": [
+        "오평생",
+        "제주",
+        "사람",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "진짜 메이저 아시아나 제주항공에 취직하면 다른 공항 갈 수 있고 키키",
+      "tokens": [
+        "진짜",
+        "메이저",
+        "아시아",
+        "나",
+        "제주",
+        "항공",
+        "에",
+        "취직",
+        "하",
+        "면",
+        "다른",
+        "공항",
+        "갈",
+        "ETM",
+        "수",
+        "있",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_220_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

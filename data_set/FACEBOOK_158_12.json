@@ -1,0 +1,374 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "여행 갈 계획 있는교",
+      "tokens": [
+        "여행",
+        "갈",
+        "ETM",
+        "계획",
+        "있",
+        "는교"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "난 북스테이 가려고 숙박으로 이번여행",
+      "tokens": [
+        "난",
+        "JX",
+        "북",
+        "스테이",
+        "가",
+        "려고",
+        "숙박",
+        "으로",
+        "이번",
+        "여행"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나 조만간 사우디아라비아 갈 거 같음",
+      "tokens": [
+        "나",
+        "조만간",
+        "사우디아라비아",
+        "갈",
+        "ETM",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "여행 계획 짜는 거 넘 싫어...",
+      "tokens": [
+        "여행",
+        "계획",
+        "짜",
+        "는",
+        "거",
+        "넘",
+        "싫",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "북스테이 하는 곳들이 조용하고 세련된 거 같음",
+      "tokens": [
+        "북",
+        "스테이",
+        "하",
+        "는",
+        "곳",
+        "들",
+        "이",
+        "조용",
+        "하",
+        "고",
+        "세련",
+        "된",
+        "ETM",
+        "거",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "친구 누나네가 초대했오",
+      "tokens": [
+        "친구",
+        "누나",
+        "네",
+        "가",
+        "초대",
+        "했",
+        "EP",
+        "오"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "사우디 아라비아 좋지 언제?",
+      "tokens": [
+        "사우디아라비아",
+        "좋",
+        "지",
+        "언제"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "즉흥 여행이 재밌긴 한데",
+      "tokens": [
+        "즉흥",
+        "여행",
+        "이",
+        "재밌",
+        "긴",
+        "JX",
+        "한데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "사우디아라비아에서 한식집 하시거든",
+      "tokens": [
+        "사우디아라비아",
+        "에서",
+        "한식집",
+        "하",
+        "시",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "북스테이가 모야?",
+      "tokens": [
+        "북",
+        "스테이",
+        "가",
+        "모",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "처음 들어",
+      "tokens": [
+        "처음",
+        "들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "중동지역은 너무 건조해서 ㅠ 싫다",
+      "tokens": [
+        "중동",
+        "지역",
+        "은",
+        "너무",
+        "건조",
+        "해서",
+        "EC",
+        "ㅠ",
+        "싫",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "조카랑 좀 놀다와야겠따",
+      "tokens": [
+        "조카",
+        "랑",
+        "좀",
+        "놀",
+        "다",
+        "와야",
+        "EC",
+        "VX",
+        "겠",
+        "따"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아... 간지 지리구염",
+      "tokens": [
+        "아",
+        ".",
+        "간",
+        "지지리",
+        "구염"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "북스테이는 책으로 꾸며놓은 곳",
+      "tokens": [
+        "북",
+        "스테이",
+        "는",
+        "책",
+        "으로",
+        "꾸며",
+        "EC",
+        "놓",
+        "은",
+        "곳"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "책 보면서 놀다 오는 거 아니얌?",
+      "tokens": [
+        "책",
+        "보",
+        "면서",
+        "놀",
+        "다",
+        "오",
+        "는",
+        "거",
+        "아니",
+        "얌"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "중동은 엄청 건조할듯",
+      "tokens": [
+        "중동",
+        "은",
+        "엄청",
+        "건조",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "남해에 몽도라고 좋은곳 있음",
+      "tokens": [
+        "남해",
+        "에",
+        "몽",
+        "도",
+        "라고",
+        "좋",
+        "은",
+        "곳",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "아 작은 서재 같은데서 놀다 오는 거 같네",
+      "tokens": [
+        "아",
+        "작",
+        "은",
+        "서재",
+        "같",
+        "은",
+        "데",
+        "서",
+        "놀",
+        "다",
+        "오",
+        "는",
+        "거",
+        "같",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

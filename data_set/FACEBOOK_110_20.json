@@ -1,0 +1,447 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니 이번 주에 영화보러는 안 가?",
+      "tokens": [
+        "언니",
+        "이번",
+        "주",
+        "에",
+        "영화",
+        "보러",
+        "는",
+        "안",
+        "가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 안 가",
+      "tokens": [
+        "나",
+        "안",
+        "가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "볼 영화가 없어...",
+      "tokens": [
+        "볼",
+        "ETM",
+        "영화",
+        "가",
+        "없",
+        "어",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "그렇지?",
+      "tokens": [
+        "그렇",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "요즘에 코로나라 영화사도 지금 개봉하면 다 적자니까 안 내보내는 거래!",
+      "tokens": [
+        "요즘",
+        "에",
+        "코",
+        "로",
+        "나라",
+        "영화사",
+        "도",
+        "지금",
+        "개봉",
+        "하",
+        "면",
+        "다",
+        "적자",
+        "니까",
+        "EC",
+        "안",
+        "내보내",
+        "는",
+        "거",
+        "래",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "보이스 봤어? 보이스 재밌어!",
+      "tokens": [
+        "보이스",
+        "봤",
+        "EP",
+        "어",
+        "보이스",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아 진짜? 나 그거는 아직 못 봤어 ㅜㅜ",
+      "tokens": [
+        "아",
+        "진짜",
+        "나",
+        "그거",
+        "는",
+        "아직",
+        "못",
+        "봤",
+        "EP",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "베놈인가? 그것도 뜨던데 돈 아깝데 키키",
+      "tokens": [
+        "베",
+        "놈",
+        "인가",
+        "EF",
+        "그것도뜨던데돈아깝데키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "맞아 키키 다들 그러더라",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "다",
+        "들",
+        "그러",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "보이스는 그거 보면 링크 같은 거 못 누르게 된다던데?",
+      "tokens": [
+        "보이스",
+        "는",
+        "그거",
+        "보",
+        "면",
+        "링크",
+        "같",
+        "은",
+        "거",
+        "못",
+        "누르",
+        "게",
+        "된다던데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "보이스 진짜 재밌 어 봐바",
+      "tokens": [
+        "보이스",
+        "진짜",
+        "재밌",
+        "어",
+        "봐",
+        "바"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "남친 언제 만나?",
+      "tokens": [
+        "남친",
+        "언제",
+        "만나",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "흠 일단 이번 달은 못 만날 거 같고 그냥 혼자 보러 가야지!",
+      "tokens": [
+        "흠",
+        "일단",
+        "이번",
+        "달",
+        "은",
+        "못",
+        "만날",
+        "ETM",
+        "거",
+        "같",
+        "고",
+        "그냥",
+        "혼자",
+        "보",
+        "러",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "웅 봐 바 혼자도 볼만해",
+      "tokens": [
+        "웅",
+        "봐",
+        "바",
+        "혼자",
+        "도",
+        "볼",
+        "만",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 오키 주말에 심야 영화로 봐야겠다!",
+      "tokens": [
+        "키키",
+        "오키",
+        "주말",
+        "에",
+        "심야",
+        "영화",
+        "로",
+        "봐야겠다",
+        "EC",
+        "VX",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "가서 핫도그 먹어야 되는데 키키",
+      "tokens": [
+        "가",
+        "서",
+        "핫도그",
+        "먹",
+        "어야",
+        "되",
+        "는데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 나는 가면 무조건 오징어~",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "는",
+        "가",
+        "면",
+        "무조건",
+        "오징어",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 요새 못 먹게 하잖아 음료만 가능 ㅜㅜ",
+      "tokens": [
+        "근데",
+        "요새",
+        "못",
+        "먹",
+        "게",
+        "하",
+        "잖아",
+        "음료",
+        "만",
+        "가능",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 ㅜㅜ 어쩔 수 없지",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅜㅜ",
+        "어쩔",
+        "ETM",
+        "수",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "차라리 집에서 편하게 먹는 게 나아 그런 거는!",
+      "tokens": [
+        "차라리",
+        "집",
+        "에서",
+        "편하",
+        "게",
+        "먹",
+        "는",
+        "게",
+        "JKS",
+        "나아",
+        "EF",
+        "그런",
+        "거",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "하여튼 봐 바 꿀잼이다~",
+      "tokens": [
+        "하여튼",
+        "봐",
+        "EC",
+        "바꿀",
+        "ETM",
+        "잼",
+        "이",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_110_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

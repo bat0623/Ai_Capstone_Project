@@ -1,0 +1,353 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다들 버스 타고 다니니?",
+      "tokens": [
+        "다",
+        "들",
+        "버스",
+        "타",
+        "고",
+        "다니",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 버스 운전기사들 너무 난폭해",
+      "tokens": [
+        "요즘",
+        "버스",
+        "운전기사",
+        "들",
+        "너무",
+        "난폭",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 버스보다 벤츠가 더 좋더라",
+      "tokens": [
+        "나",
+        "는",
+        "버스",
+        "보다",
+        "벤츠",
+        "가",
+        "더",
+        "좋",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 매일 대중교통 이용해 ㅠㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "매일",
+        "대중교통",
+        "이용",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그래서 나는 버스는 싫어",
+      "tokens": [
+        "그래서",
+        "나",
+        "는",
+        "버스",
+        "는",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "내가 요새 버스 모는데 안 그러던데",
+      "tokens": [
+        "내",
+        "가",
+        "요새",
+        "버스",
+        "모는",
+        "ETM",
+        "데",
+        "안",
+        "그러",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "지하철도 이젠 지겨워 ㅠㅠ",
+      "tokens": [
+        "지하철",
+        "도",
+        "이젠",
+        "JX",
+        "지겨워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "대중교통 나는 택시가 좋아 키키",
+      "tokens": [
+        "대중교통",
+        "나",
+        "는",
+        "택시",
+        "가",
+        "좋",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "사실 택시가 훨씬 좋아",
+      "tokens": [
+        "사실",
+        "택시",
+        "가",
+        "훨씬",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "얼른 차를 사야겠어 ㅜㅜ",
+      "tokens": [
+        "얼른",
+        "차",
+        "를",
+        "사",
+        "야",
+        "VX",
+        "겠",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "어떤 차 사고 싶어?",
+      "tokens": [
+        "어떤",
+        "차사",
+        "고",
+        "EC",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "택시기사나 해야겠어",
+      "tokens": [
+        "택시",
+        "기사",
+        "나",
+        "해야",
+        "EC",
+        "VX",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "택시는 너무 비싸 ㅠㅠ",
+      "tokens": [
+        "택시",
+        "는",
+        "너무",
+        "비싸",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "나는 벤틀리 타구 싶어 ㅠㅠ",
+      "tokens": [
+        "나",
+        "는",
+        "벤틀리",
+        "타",
+        "구",
+        "싶",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "벤츠 택시 어때",
+      "tokens": [
+        "벤츠",
+        "택시",
+        "어때",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "모닝이라도 사고 싶어 난 ㅠㅠ",
+      "tokens": [
+        "모닝",
+        "이",
+        "라도",
+        "사",
+        "고",
+        "싶",
+        "어",
+        "난",
+        "JX",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "마장",
+      "tokens": [
+        "마장"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "택시 기본 요금이 너무 높아",
+      "tokens": [
+        "택시",
+        "기본요금",
+        "이",
+        "너무",
+        "높",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "택시요금 내가 낮춰줄게",
+      "tokens": [
+        "택시",
+        "요금",
+        "내",
+        "가",
+        "낮춰줄",
+        "EC",
+        "VX",
+        "ETM",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_173_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

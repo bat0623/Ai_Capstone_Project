@@ -1,0 +1,344 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "성형 미인 어떰?",
+      "tokens": [
+        "성형미인어떰"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 나 배에 주름 생긴듯...",
+      "tokens": [
+        "요즘",
+        "나배",
+        "에",
+        "주름",
+        "생긴",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "성형해서 이뻐지는게 어디야",
+      "tokens": [
+        "성형",
+        "해서",
+        "EC",
+        "이뻐",
+        "EC",
+        "지",
+        "는",
+        "게",
+        "JKS",
+        "어디",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 해서 이쁘면 오케이",
+      "tokens": [
+        "난",
+        "JX",
+        "해서",
+        "EC",
+        "이쁘",
+        "면",
+        "오케이"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "살이 접혀서 주름이 3개 생김 삼겹살 같음",
+      "tokens": [
+        "살",
+        "이",
+        "접혀서",
+        "EC",
+        "주름",
+        "이",
+        "3",
+        "개",
+        "생김",
+        "삼겹살",
+        "같",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "성형해도 못 생긴 얘들도 많은데",
+      "tokens": [
+        "성형",
+        "해도",
+        "EC",
+        "못생긴",
+        "ETM",
+        "얘",
+        "들",
+        "도",
+        "많",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "입꼬리 성형 어떰?",
+      "tokens": [
+        "입꼬리성형어떰"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 성형미인 별로 늙을 수록 이상해짐",
+      "tokens": [
+        "난성",
+        "형",
+        "미인",
+        "별",
+        "로",
+        "늙",
+        "을수록",
+        "이상",
+        "해짐",
+        "EC",
+        "VX",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "삼겹살이 합쳐지면 심각한 수준 되는 거야",
+      "tokens": [
+        "삼겹살",
+        "이",
+        "합쳐",
+        "EC",
+        "지",
+        "면",
+        "심각",
+        "한",
+        "ETM",
+        "수준",
+        "되",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "입꼬리 성형은 난 별루 ㅠㅠ",
+      "tokens": [
+        "입꼬리",
+        "성형",
+        "은",
+        "난",
+        "JX",
+        "별루",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "입꼬리 그거 한 사람 봄 자연스럽던데",
+      "tokens": [
+        "입꼬리",
+        "그거",
+        "한",
+        "사람",
+        "봄",
+        "자연",
+        "스럽",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "입꼬리 성형 나는 좀 징그럽더라",
+      "tokens": [
+        "입꼬리",
+        "성형",
+        "나",
+        "는",
+        "좀",
+        "징그럽",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "조커 같아서 무섭던디",
+      "tokens": [
+        "조커",
+        "같",
+        "아서",
+        "무섭",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "보조개 수술도 있던데",
+      "tokens": [
+        "보조개",
+        "수술",
+        "도",
+        "있",
+        "던데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "좀 인위적인 느낌이 너무 강함",
+      "tokens": [
+        "좀",
+        "인위",
+        "적",
+        "인",
+        "ETM",
+        "느낌",
+        "이",
+        "너무",
+        "강함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "보조개 수술은 귀여워",
+      "tokens": [
+        "보조개",
+        "수술",
+        "은",
+        "귀여워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아랫입술 두툼하게 하는 것도 봤음",
+      "tokens": [
+        "아랫입술",
+        "두툼",
+        "하",
+        "게",
+        "하",
+        "는",
+        "것",
+        "도",
+        "봤",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "보조개 수술을 왜 한대",
+      "tokens": [
+        "보조개",
+        "수술",
+        "을",
+        "왜",
+        "한",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_158_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

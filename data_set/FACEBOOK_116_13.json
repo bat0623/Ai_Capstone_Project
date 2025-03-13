@@ -1,0 +1,486 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "12월에 결혼식 있는데 그때는 뭘 입고 가야 할까?",
+      "tokens": [
+        "12",
+        "월",
+        "에",
+        "결혼식",
+        "있",
+        "는데",
+        "그때",
+        "는",
+        "뭘",
+        "JKO",
+        "입",
+        "고",
+        "가",
+        "야",
+        "할까",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "12월에는 코트가 낫지 않아?",
+      "tokens": [
+        "12",
+        "월",
+        "에",
+        "는",
+        "코트",
+        "가",
+        "낫",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 코트 같은 거 잘 안 입는데 추우니까 ㅜㅜ",
+      "tokens": [
+        "나",
+        "는",
+        "코트",
+        "같",
+        "은",
+        "거",
+        "잘",
+        "안",
+        "입",
+        "는데",
+        "추우",
+        "니까",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니면 라인 있는 롱패딩은?",
+      "tokens": [
+        "아니면",
+        "라인",
+        "있",
+        "는",
+        "롱",
+        "패딩",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그래 그게 낫겠다!",
+      "tokens": [
+        "그래",
+        "그게",
+        "JKS",
+        "낫",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "안에는 뭐 입지",
+      "tokens": [
+        "안",
+        "에",
+        "는",
+        "뭐",
+        "입지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "역시 따뜻한 게 낫겠지?",
+      "tokens": [
+        "역시",
+        "따뜻",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "낫",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "안에는 그냥 니트 입으면 될 거 같은데?",
+      "tokens": [
+        "안",
+        "에",
+        "는",
+        "그냥",
+        "니트",
+        "입",
+        "으면",
+        "될",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오 좋은 생각이야!",
+      "tokens": [
+        "오",
+        "좋",
+        "은",
+        "생각",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "서울보다는 논산이 좀 따뜻하겠지?",
+      "tokens": [
+        "서울",
+        "보다",
+        "는",
+        "논산",
+        "이",
+        "좀",
+        "따뜻",
+        "하",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "서울이 더 따뜻할 거 같은데?",
+      "tokens": [
+        "서울",
+        "이",
+        "더",
+        "따뜻",
+        "할",
+        "ETM",
+        "거",
+        "같",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "논산 결혼식인데 ㅜㅜ",
+      "tokens": [
+        "논산",
+        "결혼식",
+        "인데",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "안타깝구먼",
+      "tokens": [
+        "안타깝",
+        "구먼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "논산이면 단단히 마음먹고 가야겠네",
+      "tokens": [
+        "논산",
+        "이",
+        "면",
+        "단단히",
+        "마음먹",
+        "고",
+        "가",
+        "야",
+        "VX",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 어우 ㅜㅜ 추운 거 진짜 싫어하는데!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "어우",
+        "ㅜㅜ",
+        "추운",
+        "ETM",
+        "거",
+        "진짜",
+        "싫",
+        "어",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "핫팩 꼭 챙겨가도록 해~",
+      "tokens": [
+        "핫",
+        "팩",
+        "꼭",
+        "챙겨",
+        "EC",
+        "가",
+        "도록",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "오 진짜 핫팩 챙겨가야겠다!",
+      "tokens": [
+        "오",
+        "진짜",
+        "핫",
+        "팩",
+        "챙겨",
+        "EC",
+        "가",
+        "야겠다",
+        "VX",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "좋은 정보 감사요~",
+      "tokens": [
+        "좋",
+        "은",
+        "정보",
+        "감사",
+        "요",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "손만 따뜻해도 다 따뜻해~",
+      "tokens": [
+        "손",
+        "만",
+        "따뜻",
+        "해도",
+        "EC",
+        "다",
+        "따뜻",
+        "해",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "키키 아 인정",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "인정"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그리고 목도리도 하고 가야겠다",
+      "tokens": [
+        "그리고",
+        "목도리",
+        "도",
+        "하",
+        "고",
+        "가",
+        "야겠다",
+        "VX",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그때 눈 왔으면 좋겠다!",
+      "tokens": [
+        "그때",
+        "눈",
+        "왔",
+        "EP",
+        "으면",
+        "좋",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "양말도 두꺼운 거 신고~",
+      "tokens": [
+        "양말",
+        "도",
+        "두꺼운",
+        "ETM",
+        "거",
+        "신고",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_116_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

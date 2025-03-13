@@ -1,0 +1,373 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "커피값이 치솟는다던데?",
+      "tokens": [
+        "커피",
+        "값",
+        "이",
+        "치솟",
+        "는다던데"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "커피값 그럴만하지",
+      "tokens": [
+        "커피",
+        "값",
+        "그럴",
+        "ETM",
+        "만",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 헐 무슨 일인데",
+      "tokens": [
+        "아",
+        "헐",
+        "무슨",
+        "일",
+        "인데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "젤 큰일이고",
+      "tokens": [
+        "젤",
+        "큰일",
+        "이",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "미국 아침 밥상 물가가 60% 올랐대",
+      "tokens": [
+        "미국",
+        "아침",
+        "밥상",
+        "물가",
+        "가",
+        "60",
+        "%",
+        "올랐",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "에티오피아에서 요즘 일 많대",
+      "tokens": [
+        "에티오피아",
+        "에서",
+        "요즘",
+        "일",
+        "ETM",
+        "많",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "안댄다구 ㅜㅜ",
+      "tokens": [
+        "안댄다구ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "난 무조건 안대",
+      "tokens": [
+        "난",
+        "JX",
+        "무조건",
+        "안대"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "엇 어디 나라가 가뭄이래",
+      "tokens": [
+        "엇",
+        "어디",
+        "나라",
+        "가",
+        "가뭄",
+        "이래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "베트남에서도 커피 수확이 안된다네",
+      "tokens": [
+        "베트남",
+        "에서",
+        "도",
+        "커피",
+        "수확",
+        "이",
+        "안",
+        "된다",
+        "EF",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "안대 ㅜㅜ",
+      "tokens": [
+        "안대ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "커피를 못 먹다니",
+      "tokens": [
+        "커피",
+        "를",
+        "못",
+        "먹",
+        "다니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "커피 나는 어느 곳...",
+      "tokens": [
+        "커피",
+        "나",
+        "는",
+        "어느",
+        "곳",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "가뭄이 커피 원산지에서 일어남",
+      "tokens": [
+        "가뭄",
+        "이",
+        "커피",
+        "원산지",
+        "에서",
+        "일어남",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니 비싸지면 어떻해 ㅜㅜ",
+      "tokens": [
+        "아니",
+        "비싸",
+        "지면",
+        "VX",
+        "EC",
+        "어떻",
+        "해",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "커피값 지금도 비싼데",
+      "tokens": [
+        "커피",
+        "값",
+        "지금",
+        "도",
+        "비싼데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "동시다발적으로 에티오피아 베트남 콜롬비아",
+      "tokens": [
+        "동시",
+        "다발",
+        "적",
+        "으로",
+        "에티오피아",
+        "베트남",
+        "콜롬비아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아아 가문스 ㅜㅜ",
+      "tokens": [
+        "아아가문스ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그래 지금도 비싼데",
+      "tokens": [
+        "그래",
+        "지금",
+        "도",
+        "비싼데",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "더 비싸지면 어떡해 ㅠㅠ",
+      "tokens": [
+        "더",
+        "비싸",
+        "지면",
+        "VX",
+        "EC",
+        "어떡",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "스벅은 돈 좀 내려라",
+      "tokens": [
+        "스벅은돈좀내려라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "믹스 커피 타 먹어야 대나 ㅜㅜ",
+      "tokens": [
+        "믹스",
+        "커피",
+        "타",
+        "EC",
+        "먹",
+        "어야",
+        "대",
+        "나",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_207_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

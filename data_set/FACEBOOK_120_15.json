@@ -1,0 +1,466 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이제 진짜 아마존이 사라진대 ㅜㅜ",
+      "tokens": [
+        "이제",
+        "진짜",
+        "아마존",
+        "이",
+        "사",
+        "라",
+        "진대",
+        "EF",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아마존?",
+      "tokens": [
+        "아마존"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "거기는 왜 사라진대? ㅠㅠ",
+      "tokens": [
+        "거기",
+        "는",
+        "왜",
+        "사",
+        "라",
+        "진대",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "여기 지금 나무 엄청 베고 있잖아!",
+      "tokens": [
+        "여기",
+        "지금",
+        "나무",
+        "엄청",
+        "베",
+        "고",
+        "있",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 그래서 환경이 무너져서 사라지는 거야?",
+      "tokens": [
+        "아",
+        "그래서",
+        "환경",
+        "이",
+        "무너져서",
+        "EC",
+        "사라지",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "지구의 허파 같은 곳이잖아 여기가!",
+      "tokens": [
+        "지구",
+        "의",
+        "허파",
+        "같",
+        "은",
+        "곳",
+        "이",
+        "잖아",
+        "여기",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "거기는 동물들도 많이 살고 그러지 않아?",
+      "tokens": [
+        "거기",
+        "는",
+        "동물",
+        "들",
+        "도",
+        "많이",
+        "살",
+        "고",
+        "그러",
+        "지",
+        "않",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그렇지,",
+      "tokens": [
+        "그렇",
+        "지",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "근데 파괴 속도가 이전보다 6배나 빨라졌대!",
+      "tokens": [
+        "근데",
+        "파괴",
+        "속도",
+        "가",
+        "이전",
+        "보다",
+        "6",
+        "배",
+        "나",
+        "빨라졌",
+        "EC",
+        "VX",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아마존이면 라이언킹 이런 거 같은 곳 맞지?",
+      "tokens": [
+        "아마존",
+        "이",
+        "면",
+        "라이언",
+        "킹",
+        "이런",
+        "거",
+        "같",
+        "은",
+        "곳",
+        "맞",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "여기가 여의도 면적에 422배나 되는 곳이었대!",
+      "tokens": [
+        "여기",
+        "가",
+        "여의도",
+        "면적",
+        "에",
+        "422",
+        "배",
+        "나",
+        "되",
+        "는",
+        "곳",
+        "이",
+        "었",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그 정도 면적이면 얼마나 되는지 가늠이 안 간다 키키",
+      "tokens": [
+        "그",
+        "정도",
+        "면적",
+        "이",
+        "면",
+        "얼마나",
+        "되",
+        "는지",
+        "가늠",
+        "이",
+        "안",
+        "간",
+        "ETM",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그니까,",
+      "tokens": [
+        "그니까",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "이런 곳을 파괴하다니, 진짜 생각이 있는 건가,?",
+      "tokens": [
+        "이런",
+        "곳",
+        "을",
+        "파괴",
+        "하",
+        "다니",
+        ",",
+        "진짜",
+        "생각",
+        "이",
+        "있",
+        "는",
+        "건가",
+        "VCP",
+        "EC",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그럼 다시 나무를 심으면 되지 않을까?",
+      "tokens": [
+        "그럼",
+        "다시",
+        "나무",
+        "를",
+        "심",
+        "으면",
+        "되",
+        "지",
+        "않",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "근데 이 나무도 최소 몇 십 년이나 자랐던 나무인데,",
+      "tokens": [
+        "근데",
+        "이",
+        "나무",
+        "도",
+        "최소",
+        "몇",
+        "십",
+        "년",
+        "이나",
+        "자랐",
+        "EP",
+        "던",
+        "나무",
+        "인데",
+        "EC",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그럼 나무를 베는 걸 멈추면 안 되는 건가...",
+      "tokens": [
+        "그럼",
+        "나무",
+        "를",
+        "베",
+        "는",
+        "걸",
+        "JKO",
+        "멈추",
+        "면",
+        "안",
+        "되",
+        "는",
+        "건가",
+        "VCP",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "이게 브라질이잖아",
+      "tokens": [
+        "이게",
+        "JKS",
+        "브라질",
+        "이",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "거기서 막무가내로 베는 거라,",
+      "tokens": [
+        "거기",
+        "서",
+        "막무가내",
+        "로",
+        "베",
+        "는",
+        "거",
+        "라",
+        "EC",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "아 제발",
+      "tokens": [
+        "아",
+        "제발"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "자연 좀 잘 지켜 줬으면 좋겠다 ㅠㅠ",
+      "tokens": [
+        "자연",
+        "좀",
+        "잘",
+        "지켜줬으면",
+        "EC",
+        "VX",
+        "EP",
+        "EC",
+        "좋",
+        "겠",
+        "다",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_120_15.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

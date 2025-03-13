@@ -1,0 +1,397 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "자취 하면 부모님 완전 자주 전화 온다...?",
+      "tokens": [
+        "자취",
+        "하",
+        "면",
+        "부모",
+        "님",
+        "완전",
+        "자주",
+        "전화",
+        "온다",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "자주 전화와? 하하",
+      "tokens": [
+        "자주",
+        "전화",
+        "와",
+        "?",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 그래요?",
+      "tokens": [
+        "아",
+        "그래요",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "아니요",
+      "tokens": [
+        "아니",
+        "요"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "자주 전화 안 와요",
+      "tokens": [
+        "자주",
+        "전화",
+        "안",
+        "와요",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "난 엄마 전화 받는 거 일이었음... 하하하하하",
+      "tokens": [
+        "난",
+        "JX",
+        "엄마",
+        "전화",
+        "받",
+        "는",
+        "거일",
+        "이",
+        "었",
+        "음",
+        ".",
+        "하하하하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "난 자취 안 해봐서 모르겠다 ㅠ",
+      "tokens": [
+        "난",
+        "JX",
+        "자취",
+        "안",
+        "해",
+        "EC",
+        "봐서",
+        "EC",
+        "모르",
+        "겠",
+        "다ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 제가 자주 전화 합니당",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "제",
+        "가",
+        "자주",
+        "전화",
+        "합",
+        "니",
+        "EC",
+        "당"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "자취 하면 엄청 걱정 되시나 봐",
+      "tokens": [
+        "자취",
+        "하",
+        "면",
+        "엄청",
+        "걱정",
+        "되",
+        "시",
+        "나",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "난 군대서 자취했네 하하",
+      "tokens": [
+        "난",
+        "JX",
+        "군대",
+        "서",
+        "자취",
+        "했",
+        "EP",
+        "네",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "엄마랑 통화하면 재밌어용",
+      "tokens": [
+        "엄마",
+        "랑",
+        "통화",
+        "하",
+        "면",
+        "재밌",
+        "어용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "너 엄마 바라기 구나...?",
+      "tokens": [
+        "너",
+        "엄마",
+        "바라기",
+        "구나",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "전화를 못함 하하 덜덜",
+      "tokens": [
+        "전화",
+        "를",
+        "못함",
+        "ETN",
+        "하하",
+        "덜",
+        "덜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "넵 하하 어릴 때부터",
+      "tokens": [
+        "넵",
+        "하하",
+        "어릴",
+        "ETM",
+        "때",
+        "부터"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "와우 키키 엄마가 잔소리 안 하시나 봐...",
+      "tokens": [
+        "와우",
+        "키",
+        "키",
+        "엄마",
+        "가",
+        "잔소리",
+        "안",
+        "하",
+        "시",
+        "나",
+        "봐",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "엄마 잔소리 많이 하실 듯 하하",
+      "tokens": [
+        "엄마",
+        "잔소리",
+        "많이",
+        "하",
+        "실",
+        "ETM",
+        "듯",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "완전 엄마 바라기 하하",
+      "tokens": [
+        "완전",
+        "엄마",
+        "바라기",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "시시콜콜한 얘기 해용",
+      "tokens": [
+        "시시콜콜",
+        "한",
+        "ETM",
+        "얘기",
+        "해용",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "우리 엄마는 잔소리 폭격기셔서 하하",
+      "tokens": [
+        "우리",
+        "엄마",
+        "는",
+        "잔소리",
+        "폭격기",
+        "셔서",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래도 엄마는 언제나 사랑 하하",
+      "tokens": [
+        "그래도",
+        "엄마",
+        "는",
+        "언제나",
+        "사랑",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "아잌 키키 잔소리 힘들겠어용",
+      "tokens": [
+        "아",
+        "잌키",
+        "키",
+        "잔소리",
+        "힘들",
+        "겠",
+        "어용"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_130_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

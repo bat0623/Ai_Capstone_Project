@@ -1,0 +1,381 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "얌 칸쵸 왜케 커!",
+      "tokens": [
+        "얌",
+        "칸쵸",
+        "왜",
+        "케",
+        "EC",
+        "커",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "칸쵸 뭐 하고 있니 지금 하하",
+      "tokens": [
+        "칸쵸",
+        "뭐",
+        "하",
+        "고",
+        "있",
+        "니",
+        "지금",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "우리 애기 사진 봤어?",
+      "tokens": [
+        "우리",
+        "애기",
+        "사진",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "완전 귀여운딩",
+      "tokens": [
+        "완전",
+        "귀여운",
+        "ETM",
+        "딩"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "칸쵸는 무려 11키로래 키키",
+      "tokens": [
+        "칸쵸",
+        "는",
+        "무려",
+        "11",
+        "키로",
+        "ETN",
+        "JKB",
+        "래키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "벅토니는 뭐 하고 있을까 하하",
+      "tokens": [
+        "벅",
+        "토니",
+        "는",
+        "뭐",
+        "하",
+        "고",
+        "있",
+        "을까",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "칸쵸는 지금 남자친구 집에 있어 벅수는?",
+      "tokens": [
+        "칸쵸",
+        "는",
+        "지금",
+        "남자",
+        "친구",
+        "집",
+        "에",
+        "있",
+        "어",
+        "벅수",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "벅수보다 더 큰 강아지야 키키",
+      "tokens": [
+        "벅수",
+        "보다",
+        "더",
+        "큰",
+        "ETM",
+        "강아지",
+        "야",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "칸쵸 왕 크네 하하",
+      "tokens": [
+        "칸쵸왕크네하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "하긴 야멍이도 크더라",
+      "tokens": [
+        "하긴",
+        "야",
+        "멍이",
+        "도",
+        "크",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "벅수랑 다이다이 뜨자궁",
+      "tokens": [
+        "벅수",
+        "랑",
+        "다",
+        "이",
+        "다",
+        "이",
+        "뜨",
+        "자",
+        "궁"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "벅수도 개 무거운데 왕 칸쵸",
+      "tokens": [
+        "벅수",
+        "도개",
+        "무거운데",
+        "EC",
+        "왕",
+        "칸쵸"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "야멍이는 근데 입이 더러워",
+      "tokens": [
+        "야",
+        "멍이",
+        "는",
+        "근데",
+        "입",
+        "이",
+        "더러워",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "야멍이랑 거의 비슷할걸 칸쵸",
+      "tokens": [
+        "야",
+        "멍",
+        "이랑",
+        "거의",
+        "비슷",
+        "할걸",
+        "EC",
+        "칸쵸"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그럼 벅수가 질듯... ㅠㅠ",
+      "tokens": [
+        "그럼",
+        "벅수",
+        "가질",
+        "ETM",
+        "듯",
+        ".",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "칸쵸도 입이. 혹시 더럽니?",
+      "tokens": [
+        "칸쵸",
+        "도입",
+        "이",
+        "혹시",
+        "더럽",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "야멍이 털이 길어서 그런 거 아냐?",
+      "tokens": [
+        "야",
+        "멍",
+        "이",
+        "털",
+        "이",
+        "길",
+        "어서",
+        "그런",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "야멍이도 진짜 크더라...",
+      "tokens": [
+        "야",
+        "멍이",
+        "도",
+        "진짜",
+        "크",
+        "더라",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "야멍이는 입가가 시커매 항상 키키",
+      "tokens": [
+        "야",
+        "멍이",
+        "는",
+        "입가",
+        "가",
+        "시커매",
+        "EC",
+        "항상",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "응 우리 칸쵸도 입이 좀... 털 땜에 헤헤",
+      "tokens": [
+        "응",
+        "우리",
+        "칸쵸",
+        "도입",
+        "이",
+        "좀",
+        ".",
+        "털",
+        "ETM",
+        "땜",
+        "에",
+        "헤헤"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_218_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

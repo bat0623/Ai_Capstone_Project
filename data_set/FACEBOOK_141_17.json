@@ -1,0 +1,507 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "요즘 시력이 너무 안 좋아진 것 같아 ㅠㅠ",
+      "tokens": [
+        "요즘",
+        "시력",
+        "이",
+        "너무",
+        "안",
+        "좋",
+        "아",
+        "진",
+        "ETM",
+        "것",
+        "같",
+        "아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "언니도? 나도 시력이 떨어진 것 같더라",
+      "tokens": [
+        "언니",
+        "도",
+        "나",
+        "도",
+        "시력",
+        "이",
+        "떨어진",
+        "ETM",
+        "것",
+        "같",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "왜에 시력이 떨어졌대? ㅠㅠ",
+      "tokens": [
+        "왜에",
+        "시력",
+        "이",
+        "떨어졌",
+        "EP",
+        "대",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "벌써 노안은 아닐 테고 눈이 흐릿해 ㅠㅠ",
+      "tokens": [
+        "벌써",
+        "노안",
+        "은",
+        "아닐",
+        "ETM",
+        "테",
+        "VCP",
+        "고",
+        "눈",
+        "이",
+        "흐릿",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 눈이 침침하고 뻑뻑하더라",
+      "tokens": [
+        "나",
+        "도",
+        "눈",
+        "이",
+        "침침",
+        "하",
+        "고",
+        "뻑뻑",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "노안 키키 벌써 걱정하냐고 ㅠㅠ",
+      "tokens": [
+        "노안",
+        "키",
+        "키",
+        "ETN",
+        "벌써",
+        "걱정",
+        "하",
+        "냐고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어두운 데서 핸드폰 많이 한 거 아니야?",
+      "tokens": [
+        "어두운",
+        "ETM",
+        "데",
+        "서",
+        "핸드폰",
+        "많이",
+        "한",
+        "ETM",
+        "거",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아 헐 귀신 어떻게 알았지 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "헐",
+        "ETM",
+        "귀신",
+        "어떻게",
+        "알",
+        "았",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그렇기도 한데 최근에 좀 더 심해졌어",
+      "tokens": [
+        "그렇",
+        "기",
+        "도",
+        "한데",
+        "EC",
+        "최근",
+        "에",
+        "좀",
+        "더",
+        "심해졌",
+        "EC",
+        "VX",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 어두운 데서 빛 보면 그러잖아 ㅠㅠ",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "어두운",
+        "ETM",
+        "데",
+        "서",
+        "빛",
+        "보",
+        "면",
+        "그러",
+        "잖아",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "이제 눈 신경 써야 돼",
+      "tokens": [
+        "이제",
+        "눈신경",
+        "써야",
+        "EC",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "진짜 눈에 이물질이 낀 것 같이 흐릿해 ㅠㅠ",
+      "tokens": [
+        "진짜",
+        "눈",
+        "에",
+        "이",
+        "물질",
+        "이",
+        "낀",
+        "ETM",
+        "것",
+        "같이",
+        "흐릿",
+        "해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "언니 루테인 자주 챙겨 먹어야겠다",
+      "tokens": [
+        "언니",
+        "루테인",
+        "자주",
+        "챙겨",
+        "EC",
+        "먹",
+        "어야",
+        "겠다",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그게 눈 영양제야?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "눈",
+        "영양제",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "이물감 느껴지면 병원 가야지!",
+      "tokens": [
+        "이",
+        "물감",
+        "느껴",
+        "EC",
+        "지",
+        "면",
+        "병원",
+        "가",
+        "야지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그래서 내일 안과 가 보려고 ㅠㅠ",
+      "tokens": [
+        "그래서",
+        "내일",
+        "안과",
+        "가",
+        "보",
+        "려고",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "언니는 한번 가 보는 게 좋을 것 같아",
+      "tokens": [
+        "언니",
+        "는",
+        "한",
+        "번",
+        "가",
+        "보",
+        "는",
+        "게",
+        "JKS",
+        "좋",
+        "을",
+        "것",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "응 눈은 놔두면 안 돼",
+      "tokens": [
+        "응",
+        "눈",
+        "은",
+        "놔두",
+        "면",
+        "안",
+        "돼",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "안 좋을 때 바로바로 가야지 ㅠㅠ",
+      "tokens": [
+        "안",
+        "좋",
+        "을",
+        "때",
+        "바로",
+        "바로",
+        "가",
+        "야지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아 ㅠㅠ 설마 노안은 아니겠지 ㅠㅠ",
+      "tokens": [
+        "맞",
+        "아",
+        "ㅠㅠ",
+        "설마",
+        "노안",
+        "은",
+        "아니",
+        "겠",
+        "지",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "무섭다 키키",
+      "tokens": [
+        "무섭",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "헉 설마 아니겠지 낼 한번 가봐",
+      "tokens": [
+        "헉",
+        "설마",
+        "아니",
+        "겠",
+        "지",
+        "낼",
+        "ETM",
+        "한",
+        "번",
+        "가",
+        "봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "아 벌써 그럴 리가 없잖아 키키",
+      "tokens": [
+        "아",
+        "벌써",
+        "그럴",
+        "ETM",
+        "리",
+        "가",
+        "없",
+        "잖아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "그래도 혹시 모르니 가봐 ㅠㅠ",
+      "tokens": [
+        "그래도",
+        "혹시",
+        "모르",
+        "니가",
+        "봐",
+        "EF",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_141_17.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

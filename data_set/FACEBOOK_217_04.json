@@ -1,0 +1,424 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "희귀 알바 있네!",
+      "tokens": [
+        "희귀",
+        "알",
+        "바",
+        "있",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "키키 어떤 알바 있는데?",
+      "tokens": [
+        "키키",
+        "어떤",
+        "알",
+        "바",
+        "있",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어떤 알바? 키키",
+      "tokens": [
+        "어떤",
+        "알바",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "분리수거 상주 알바!",
+      "tokens": [
+        "분리수거상주알바"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키키 그것도 알바로 쳐야 하나?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그것",
+        "도",
+        "알",
+        "바로",
+        "쳐야",
+        "EC",
+        "하나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 그거 대부분 나이 드신 분들이 하고 계시더라",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그거",
+        "대부분",
+        "나이",
+        "드신",
+        "EP",
+        "ETM",
+        "분",
+        "들",
+        "이",
+        "하",
+        "고",
+        "계시",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "제주도에만 있는 거잖아",
+      "tokens": [
+        "제주도",
+        "에",
+        "만",
+        "있",
+        "는",
+        "거",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "뭔가 정규직일 거 같은데 키키",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "정규",
+        "직일",
+        "ETM",
+        "거",
+        "같",
+        "은데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "페이가 어떻게 되는지는 모르겠는데",
+      "tokens": [
+        "페이",
+        "가",
+        "어떻게",
+        "되",
+        "는지",
+        "는",
+        "모르",
+        "겠",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "그거 알바 아닐까?  노인 근로?",
+      "tokens": [
+        "그거",
+        "알",
+        "ETM",
+        "바",
+        "아닐까",
+        "EF",
+        "노인",
+        "근로"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "그런가? 그럴 수도 있겠네",
+      "tokens": [
+        "그런가",
+        "EF",
+        "그럴",
+        "ETM",
+        "수",
+        "도",
+        "있",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그럴 거 같더라",
+      "tokens": [
+        "그럴",
+        "ETM",
+        "거",
+        "같",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "어느 분리 수거장을 가도 다 계심",
+      "tokens": [
+        "어느",
+        "분리수거",
+        "장",
+        "을",
+        "가",
+        "도다",
+        "계심",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그런 거 일 듯",
+      "tokens": [
+        "그런",
+        "거",
+        "일",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "진짜 신기하다 제주도는 키키",
+      "tokens": [
+        "진짜",
+        "신기",
+        "하",
+        "다",
+        "제주도",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "관광객들이 너무 환경 파괴 해 놔서 그럼 ㅠㅠ",
+      "tokens": [
+        "관광객",
+        "들",
+        "이",
+        "너무",
+        "환경",
+        "파괴",
+        "해놔서",
+        "EC",
+        "VX",
+        "EC",
+        "그럼",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "환경도 지키고 노인 일자리도 창출하고",
+      "tokens": [
+        "환경",
+        "도",
+        "지키",
+        "고",
+        "노인",
+        "일자리",
+        "도",
+        "창출",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "24시간 지켜 보시는 거야?",
+      "tokens": [
+        "24",
+        "시간",
+        "지켜보",
+        "시",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "그래도 잠궈놓고 퇴근하지 않으까?",
+      "tokens": [
+        "그래도",
+        "잠궈",
+        "EC",
+        "놓",
+        "고",
+        "퇴근",
+        "하",
+        "지",
+        "않",
+        "으까"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "24시간인지는 모르겠음",
+      "tokens": [
+        "24",
+        "시간",
+        "인지",
+        "EC",
+        "는",
+        "모르",
+        "겠",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "근데 밤 늦게 가도 계심;",
+      "tokens": [
+        "근데",
+        "밤늦",
+        "게",
+        "가",
+        "도",
+        "계심",
+        "ETN",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_217_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

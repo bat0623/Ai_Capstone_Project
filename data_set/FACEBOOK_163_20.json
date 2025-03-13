@@ -1,0 +1,326 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "좋아하는 캐릭터 있냥",
+      "tokens": [
+        "좋",
+        "아",
+        "하",
+        "는",
+        "캐릭터",
+        "있",
+        "냥"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "응 난 키티 좋아해",
+      "tokens": [
+        "응",
+        "난키",
+        "티",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "엇 나도 키티 완전 좋아해",
+      "tokens": [
+        "엇",
+        "나",
+        "도",
+        "키티",
+        "완전",
+        "좋",
+        "아",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나 옛날에 키티!",
+      "tokens": [
+        "나",
+        "옛날",
+        "에",
+        "키티"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "키티가 너무 귀여워 하하",
+      "tokens": [
+        "키티",
+        "가",
+        "너무",
+        "귀여워",
+        "EC",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "박지도 키티 완전 좋아하자나",
+      "tokens": [
+        "박지도",
+        "키티",
+        "완전",
+        "좋",
+        "아",
+        "하",
+        "자",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "요새는 걔가 좋더라 루피!",
+      "tokens": [
+        "요새",
+        "는",
+        "걔",
+        "가",
+        "좋",
+        "더라",
+        "루피"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "루피 누군데 원피스?",
+      "tokens": [
+        "루피",
+        "누군데",
+        "VCP",
+        "EC",
+        "원피스"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "루피 너무 좋아 약간 내 닮은 거 같지 않니?",
+      "tokens": [
+        "루피",
+        "너무",
+        "좋",
+        "아",
+        "약간",
+        "내",
+        "닮",
+        "은",
+        "거",
+        "같",
+        "지",
+        "않",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "나 옛날에... 지금은 꼴도 보기 싫어",
+      "tokens": [
+        "나",
+        "옛날",
+        "에",
+        ".",
+        "지금",
+        "은",
+        "꼴",
+        "도",
+        "보",
+        "기",
+        "싫",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "루피는 뭐야 몰라 난 하하",
+      "tokens": [
+        "루피",
+        "는",
+        "뭐",
+        "야",
+        "EF",
+        "몰라",
+        "EF",
+        "난",
+        "JX",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "루피 뽀로로에 나오는거요 ㅎ,ㅎ",
+      "tokens": [
+        "루피",
+        "뽀로로",
+        "에",
+        "나오",
+        "는",
+        "거",
+        "요",
+        "EP",
+        "ㅎ",
+        ",",
+        "ㅎ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아니?  뽀로로 친구 루피",
+      "tokens": [
+        "아니",
+        "뽀로로",
+        "친구",
+        "루피"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아 그 아이 귀여운 아이 하하",
+      "tokens": [
+        "아",
+        "그",
+        "아이",
+        "귀여운",
+        "ETM",
+        "아이",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "진짜 핵귀 핑크색에",
+      "tokens": [
+        "진짜",
+        "핵",
+        "귀",
+        "핑크",
+        "색",
+        "에"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "루피 빵상이랑 닮았네 키키",
+      "tokens": [
+        "루피",
+        "빵",
+        "상",
+        "이랑",
+        "닮",
+        "았",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "룹히 귀엽지 완젼 하하",
+      "tokens": [
+        "룹",
+        "히귀",
+        "엽지",
+        "완",
+        "JX",
+        "젼",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_163_20.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

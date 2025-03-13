@@ -1,0 +1,431 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 친구랑 여행 가는 거 좋아해?",
+      "tokens": [
+        "언니",
+        "는",
+        "친구",
+        "랑",
+        "여행",
+        "가",
+        "는",
+        "거",
+        "좋",
+        "아",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 진짜 너무 좋아",
+      "tokens": [
+        "나",
+        "는",
+        "진짜",
+        "너무",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "최근에 친구랑 어디 놀러 갔어?",
+      "tokens": [
+        "최근",
+        "에",
+        "친구",
+        "랑",
+        "어디",
+        "놀러갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "최근에 캠핑 간 거 밖에 없어ㅜㅜ",
+      "tokens": [
+        "최근",
+        "에",
+        "캠핑",
+        "간",
+        "ETM",
+        "거",
+        "밖에",
+        "없",
+        "어",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "홀! 캠핑 도구 다 가져가서 갔어?",
+      "tokens": [
+        "홀",
+        "!",
+        "캠핑",
+        "도",
+        "구",
+        "다가",
+        "져",
+        "EC",
+        "가",
+        "서",
+        "갔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "웅 친구가 캠핑 장비가 있었어",
+      "tokens": [
+        "웅",
+        "친구",
+        "가",
+        "캠핑",
+        "장비",
+        "가",
+        "있",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 이번에 친구들이랑 가는데 따뜻하게 입고 가야겠지?",
+      "tokens": [
+        "나",
+        "도",
+        "이번",
+        "에",
+        "친구",
+        "들",
+        "이랑",
+        "가",
+        "는데",
+        "따뜻",
+        "하",
+        "게",
+        "입",
+        "고",
+        "가",
+        "야",
+        "겠지",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "어디가?",
+      "tokens": [
+        "어디",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "캠핑?",
+      "tokens": [
+        "캠핑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "글램핑?",
+      "tokens": [
+        "글램",
+        "핑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "캠핑이야!",
+      "tokens": [
+        "캠핑",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "내 친구도 장비가 다 있다고 같이 가재!",
+      "tokens": [
+        "내",
+        "JKG",
+        "친구",
+        "도",
+        "장비",
+        "가",
+        "다",
+        "있",
+        "다고",
+        "같이",
+        "가",
+        "재"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "추울 거 같은 데 괜찮겠어?",
+      "tokens": [
+        "추울",
+        "ETM",
+        "거",
+        "같",
+        "은",
+        "데",
+        "괜찮",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래서 얘가 장판을 샀대 우리를 위해서!",
+      "tokens": [
+        "그래서",
+        "얘",
+        "가",
+        "장판",
+        "을",
+        "샀",
+        "EP",
+        "대",
+        "우리",
+        "를",
+        "위해서",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 근데 가서 놀면 재밌어",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "가",
+        "서",
+        "놀",
+        "면",
+        "재밌",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "나 한 번도 안 해봤거든!",
+      "tokens": [
+        "나",
+        "한",
+        "번",
+        "도",
+        "안",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "밖에서 고기 구워 먹는 재미로 가는 거지",
+      "tokens": [
+        "밖",
+        "에서",
+        "고기",
+        "구워",
+        "EC",
+        "먹",
+        "는",
+        "재미",
+        "로",
+        "가",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "우리 4명인데 일단  라면부터 15봉 가져갈 거임!",
+      "tokens": [
+        "우리",
+        "4",
+        "명",
+        "인데",
+        "EC",
+        "일단",
+        "라면",
+        "부터",
+        "15",
+        "봉",
+        "가져갈",
+        "ETM",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "와 고기부터 먹고 술도 진탕 먹어라",
+      "tokens": [
+        "와",
+        "고기",
+        "부터",
+        "먹",
+        "고",
+        "술",
+        "도",
+        "진탕",
+        "먹",
+        "어라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_106_12.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

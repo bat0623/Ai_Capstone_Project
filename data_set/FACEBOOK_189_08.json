@@ -1,0 +1,347 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "다음주 친구 결혼식이더라구",
+      "tokens": [
+        "다음",
+        "주",
+        "친구",
+        "결혼식",
+        "이",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘 육아가 너무 힘들어",
+      "tokens": [
+        "요즘",
+        "육아",
+        "가",
+        "너무",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "결혼식 가기싫은 친구가 있어",
+      "tokens": [
+        "결혼식",
+        "가",
+        "기",
+        "싫",
+        "은",
+        "친구",
+        "가",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "하나 둘씩 결혼을 하더라구",
+      "tokens": [
+        "하나",
+        "둘",
+        "씩",
+        "결혼",
+        "을",
+        "하",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "우리 아기가 밥을 잘 안먹어",
+      "tokens": [
+        "우리",
+        "아기",
+        "가",
+        "밥",
+        "을",
+        "잘",
+        "안",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "축의금 돈 너무 아깝더라",
+      "tokens": [
+        "축",
+        "의",
+        "금돈",
+        "너무",
+        "아깝",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "육아는 진짜 힘들다더라구",
+      "tokens": [
+        "육아",
+        "는",
+        "진짜",
+        "힘들",
+        "다",
+        "더라구",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "축의금은 정말 사치인것 같애",
+      "tokens": [
+        "축의금",
+        "은",
+        "정말",
+        "사치",
+        "인",
+        "ETM",
+        "것",
+        "같",
+        "애"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "육아는 보통일이 아니지",
+      "tokens": [
+        "육아",
+        "는",
+        "보통",
+        "일",
+        "이",
+        "아니",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아이 키우는건 돈도 많이 들어간대",
+      "tokens": [
+        "아이",
+        "키우",
+        "는",
+        "건",
+        "JX",
+        "돈",
+        "도",
+        "많이",
+        "들어간대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "육아 떄문에 이혼도 하더라",
+      "tokens": [
+        "육아",
+        "떄문",
+        "에",
+        "이혼",
+        "도",
+        "하",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "육아하는데 힘들 너무 많이 써",
+      "tokens": [
+        "육아",
+        "하",
+        "는",
+        "데",
+        "힘",
+        "들",
+        "너무",
+        "많이",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "축의금은 얼마가 좋을까...",
+      "tokens": [
+        "축의금",
+        "은",
+        "얼마",
+        "가",
+        "좋",
+        "을까",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "3명 낳으니까 너무 힘들어ㅠㅠ",
+      "tokens": [
+        "3",
+        "명",
+        "낳",
+        "으니까",
+        "너무",
+        "힘들",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 육아는 해낼수 있을까",
+      "tokens": [
+        "나",
+        "도",
+        "육아",
+        "는",
+        "해낼",
+        "ETM",
+        "수",
+        "있",
+        "을까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 나중에는 결혼을 하겟지?",
+      "tokens": [
+        "나",
+        "도",
+        "나중",
+        "에",
+        "는",
+        "결혼",
+        "을",
+        "하",
+        "겟",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "축의금은 15000원이 적당해",
+      "tokens": [
+        "축의금",
+        "은",
+        "15000",
+        "원",
+        "이",
+        "적당",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "3명은 괜찮은데 5명부터 힘들더라",
+      "tokens": [
+        "3",
+        "명",
+        "은",
+        "괜찮",
+        "은데",
+        "5",
+        "명",
+        "부터",
+        "힘들",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_189_08.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "역시 닭발은 통닭발이 최고여~",
+      "tokens": [
+        "역시닭발은통닭발이최고여",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "너는 통 먹어?",
+      "tokens": [
+        "너",
+        "는",
+        "통",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "나는 무뼈",
+      "tokens": [
+        "나",
+        "는",
+        "무",
+        "뼈"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "키키 아 근데 나도 자취하면서 무뼈파로 바뀜 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아",
+        "근데",
+        "나",
+        "도",
+        "자취",
+        "하",
+        "면서",
+        "무",
+        "뼈",
+        "파",
+        "로",
+        "바뀜",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그럼 무뼈로 먹어야 해 키키",
+      "tokens": [
+        "그럼",
+        "무",
+        "뼈",
+        "로",
+        "먹",
+        "어야",
+        "해",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "키키 근데 오랜만에 통닭발 먹으니까 맛있다!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "근데",
+        "오랜만",
+        "에",
+        "통닭",
+        "발",
+        "먹",
+        "으니까",
+        "맛있",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "그거 먹을 땐 국물로 먹어줘야 함",
+      "tokens": [
+        "그거",
+        "먹",
+        "을",
+        "땐",
+        "JX",
+        "국물",
+        "로",
+        "먹",
+        "어",
+        "줘야",
+        "EC",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 아 당연하지~ 콩나물도 있다구으~",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "당연",
+        "하",
+        "지",
+        "~",
+        "콩나물",
+        "도",
+        "있",
+        "다구",
+        "으",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 그렇게 먹어야 맛있음 주먹밥은?",
+      "tokens": [
+        "응",
+        "그렇게",
+        "먹",
+        "어야",
+        "맛있",
+        "음",
+        "주먹밥",
+        "은"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 당연히 마요네즈 들어간 밥이었지~",
+      "tokens": [
+        "키키당연히마요네즈들어간밥이었지",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "계란찜 시켰어 안 시켰어",
+      "tokens": [
+        "계란찜",
+        "시켰",
+        "EP",
+        "어",
+        "안",
+        "시켰",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "키키 어떤 거? 계란찜? 계란찜은 서비스~",
+      "tokens": [
+        "키키",
+        "어떤",
+        "거",
+        "계란찜",
+        "?",
+        "계란찜",
+        "은",
+        "서비스",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "오 거기 좋다? 리뷰 서비스 그건가?",
+      "tokens": [
+        "오",
+        "거기",
+        "좋",
+        "다",
+        "리뷰",
+        "서비스",
+        "그건가",
+        "VCP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "키키 몰라 아 지금 물어보니까 계란찜도 추가했대 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "몰라",
+        "EF",
+        "아",
+        "지금",
+        "물",
+        "어",
+        "보",
+        "니까",
+        "계란찜",
+        "도",
+        "추가",
+        "했",
+        "EP",
+        "대",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 그게 뭐야 결국 너 돈으로 먹었네 키키",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그게",
+        "JKS",
+        "뭐",
+        "야",
+        "EF",
+        "결국",
+        "너",
+        "돈",
+        "으로",
+        "먹",
+        "었",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 아 주먹밥이 서비스였나 봐~",
+      "tokens": [
+        "키키아주먹밥이서비스였나봐",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그렇담 엄청난 개 이득 키키",
+      "tokens": [
+        "그렇",
+        "담",
+        "엄청난",
+        "ETM",
+        "개",
+        "이득",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_119_01.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

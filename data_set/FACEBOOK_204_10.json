@@ -1,0 +1,435 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "지금 그거 한당",
+      "tokens": [
+        "지금",
+        "그거",
+        "한당"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "골 때리는 그녀들",
+      "tokens": [
+        "골",
+        "때리",
+        "는",
+        "그녀",
+        "들"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그거 뭐하는 거야",
+      "tokens": [
+        "그거",
+        "뭐",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "골프 프로그램인가",
+      "tokens": [
+        "골프",
+        "프로그램",
+        "인가",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "오 골 때리는 그녀들 누구 나와",
+      "tokens": [
+        "오",
+        "골",
+        "때리",
+        "는",
+        "그녀",
+        "들",
+        "누구",
+        "나와",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "저기 나오는 언니들 진짜 열정...",
+      "tokens": [
+        "저기",
+        "나오",
+        "는",
+        "언니",
+        "들",
+        "진짜",
+        "열정",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "무슨 프로그램인지 설명해주실 분",
+      "tokens": [
+        "무슨",
+        "프로그램",
+        "인지",
+        "EC",
+        "설명",
+        "해",
+        "EC",
+        "주",
+        "실",
+        "ETM",
+        "분"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "골프 치는 건가? 키키",
+      "tokens": [
+        "골프",
+        "치",
+        "는",
+        "건가",
+        "VCP",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "진짜 요즘 다시 골프채널",
+      "tokens": [
+        "진짜",
+        "요즘",
+        "다시",
+        "골프",
+        "채널"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "축구에 엄청 진심임...",
+      "tokens": [
+        "축구",
+        "에",
+        "엄청",
+        "진심",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "티비 안 봐서 아무것도 모르네",
+      "tokens": [
+        "티비",
+        "안",
+        "봐서",
+        "EC",
+        "아무것",
+        "도",
+        "모르",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "아 키키 골프 아니네 키키",
+      "tokens": [
+        "아키",
+        "키",
+        "골프",
+        "아니",
+        "네",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "여자 축구 하는 거라고 키키",
+      "tokens": [
+        "여자",
+        "축구",
+        "하",
+        "는",
+        "거",
+        "라고",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "축구 하는 프로가 볼까 키키",
+      "tokens": [
+        "축구",
+        "하",
+        "는",
+        "프로",
+        "가",
+        "볼까",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "골프 인 줄 알았 ...",
+      "tokens": [
+        "골프",
+        "인",
+        "ETM",
+        "줄",
+        "알",
+        "았",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "여자 연예인들 축구 하는데 진짜 진심으로 함",
+      "tokens": [
+        "여자",
+        "연예인",
+        "들",
+        "축구",
+        "하",
+        "는데",
+        "진짜",
+        "진심",
+        "으로",
+        "함",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "** 축구 시키면 잘할 듯",
+      "tokens": [
+        "*",
+        "*",
+        "축구",
+        "시키",
+        "면",
+        "잘",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "골키퍼 키키",
+      "tokens": [
+        "골키퍼",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "축구하는 거구나...",
+      "tokens": [
+        "축구",
+        "하",
+        "는",
+        "거",
+        "구나",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "티비 너무 안 보네",
+      "tokens": [
+        "티비",
+        "너무",
+        "안",
+        "보",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "완전 훈련 열심히 하고 키키",
+      "tokens": [
+        "완전",
+        "훈련",
+        "열심히",
+        "하",
+        "고",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "골키퍼 하면 아주 든든할 듯 키키",
+      "tokens": [
+        "골키퍼",
+        "하",
+        "면",
+        "아주",
+        "든든",
+        "할",
+        "ETM",
+        "듯",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "키키 열정적인 사람들이네",
+      "tokens": [
+        "키",
+        "키",
+        "열정",
+        "적",
+        "인",
+        "ETM",
+        "사람",
+        "들",
+        "이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

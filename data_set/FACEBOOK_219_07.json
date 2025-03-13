@@ -1,0 +1,418 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "부모님이 성실하시니?",
+      "tokens": [
+        "부모",
+        "님",
+        "이",
+        "성실",
+        "하",
+        "시",
+        "니"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그니까 말이 안된다 대학 개근은 하하",
+      "tokens": [
+        "그니까",
+        "말",
+        "이",
+        "안",
+        "된다",
+        "EC",
+        "대학",
+        "개근",
+        "은",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "키키 아니 우리 부모님 성실하시지",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "아니",
+        "우리",
+        "부모",
+        "님",
+        "성실",
+        "하",
+        "시",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "너네는 키키",
+      "tokens": [
+        "너",
+        "네",
+        "는",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "보통 그런 집 애들이 성실하던디",
+      "tokens": [
+        "보통",
+        "그런",
+        "집",
+        "애",
+        "들",
+        "이",
+        "성실",
+        "하",
+        "던디"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "진짜 웃기다 **",
+      "tokens": [
+        "진짜",
+        "웃기",
+        "다",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "아니 진짜얔 키키",
+      "tokens": [
+        "아니진짜얔키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "**이한테 물어봐",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "한테",
+        "물어봐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "우리 엄마는 성실한데 아빠가 좀...",
+      "tokens": [
+        "우리",
+        "엄마",
+        "는",
+        "성실",
+        "한데",
+        "EC",
+        "아빠",
+        "가",
+        "좀",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "**이한테 물어봐야겠어 하하",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "한테",
+        "물어봐야",
+        "EC",
+        "VX",
+        "겠",
+        "어",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "아니 난 팩트만 얘기한다곸 키키",
+      "tokens": [
+        "아니",
+        "난",
+        "JX",
+        "팩",
+        "트",
+        "만",
+        "얘기",
+        "한다",
+        "EF",
+        "곸키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "대박 진짜 대단하다 ** 키키",
+      "tokens": [
+        "대박",
+        "진짜",
+        "대단",
+        "하",
+        "다",
+        "*",
+        "*",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "**이는 근데 개근 안 했지?",
+      "tokens": [
+        "*",
+        "*",
+        "이",
+        "는",
+        "근데",
+        "개근",
+        "안",
+        "했",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "**이는 술 먹고 안 햇짘 키키",
+      "tokens": [
+        "*",
+        "*",
+        "이는술먹고안햇짘키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "근데 **은 나랑 한 시간 약속도 다 지켰어!",
+      "tokens": [
+        "근데",
+        "*",
+        "*",
+        "은",
+        "나",
+        "랑",
+        "한",
+        "시간",
+        "약속",
+        "도",
+        "다",
+        "지켰",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "그 아이는 몇 번 쩃을 듯....",
+      "tokens": [
+        "그아이는몇번쩃을듯",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 나 약속 잘 지킨닥큨 키키",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "약속",
+        "잘",
+        "지킨",
+        "ETM",
+        "닥큨",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "한번도 펑크 낸 적 없어!",
+      "tokens": [
+        "한",
+        "번",
+        "도",
+        "펑",
+        "크",
+        "낸",
+        "VX",
+        "ETM",
+        "적",
+        "없",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "대단한 **!",
+      "tokens": [
+        "대단",
+        "한",
+        "ETM",
+        "*",
+        "*"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "역시 ** 대단하다 정말 하하",
+      "tokens": [
+        "역시",
+        "*",
+        "*",
+        "대단",
+        "하",
+        "다",
+        "정말",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "성실하지? 키키",
+      "tokens": [
+        "성실",
+        "하",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "성실하다니꼐",
+      "tokens": [
+        "성실",
+        "하",
+        "다니",
+        "꼐"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_219_07.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

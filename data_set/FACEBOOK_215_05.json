@@ -1,0 +1,392 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "군대에서 이제 24시간 폰 추진한대",
+      "tokens": [
+        "군대",
+        "에서",
+        "이제",
+        "24",
+        "시간",
+        "폰",
+        "추진",
+        "한대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "와 그럼 대박인데?",
+      "tokens": [
+        "와",
+        "그럼",
+        "대박",
+        "인데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "헐 나도 지금 군대 갈걸",
+      "tokens": [
+        "헐",
+        "나",
+        "도",
+        "지금",
+        "군대",
+        "갈",
+        "ETM",
+        "걸",
+        "JKO"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왕왕 갈만한 듯 ㅎ 애들 코인한",
+      "tokens": [
+        "왕왕",
+        "갈만",
+        "한",
+        "ETM",
+        "듯",
+        "ㅎ",
+        "애",
+        "들",
+        "코인",
+        "한",
+        "ETM"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "군대 갈만하겠는데? 키키",
+      "tokens": [
+        "군대",
+        "갈만",
+        "하",
+        "겠",
+        "는데",
+        "?",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "왜 하필 14년 전에 군대를 가서...",
+      "tokens": [
+        "왜",
+        "하필",
+        "14",
+        "년",
+        "전",
+        "에",
+        "군대",
+        "를",
+        "가",
+        "서",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "군대에서 코인하고 주식하고",
+      "tokens": [
+        "군대",
+        "에서",
+        "코인",
+        "하",
+        "고",
+        "주식",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나도 여군 들어가고 싶다 키키",
+      "tokens": [
+        "나",
+        "도",
+        "여군",
+        "들어가",
+        "고",
+        "싶",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그거는 심각하다...",
+      "tokens": [
+        "그거",
+        "는",
+        "심각",
+        "하",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "얘들 월급 다 꼬라박을 거 아녀",
+      "tokens": [
+        "얘",
+        "들",
+        "월급",
+        "다",
+        "꼬라박",
+        "을",
+        "거",
+        "아녀",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "오빠 14년 전에 갔음?  헐랭구",
+      "tokens": [
+        "오빠",
+        "14",
+        "년",
+        "전",
+        "에",
+        "갔",
+        "EP",
+        "음",
+        "?",
+        "헐랭",
+        "구",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "와 진짜 오래된 거 같은 느낌 키키",
+      "tokens": [
+        "와",
+        "진짜",
+        "오래",
+        "된",
+        "ETM",
+        "거",
+        "같",
+        "은",
+        "느낌",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "웅... 나 07군번이자너...",
+      "tokens": [
+        "웅",
+        ".",
+        ".",
+        "나",
+        "07",
+        "군번",
+        "이",
+        "자",
+        "너",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그니까 지들끼리 이상한 거 많이 할 듯",
+      "tokens": [
+        "그니까",
+        "지",
+        "들",
+        "끼리",
+        "이상",
+        "한",
+        "ETM",
+        "거",
+        "많이",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "와우 그때는 군대 어땠쥬? 키키",
+      "tokens": [
+        "와우",
+        "그때",
+        "는",
+        "군대",
+        "어땠",
+        "EP",
+        "쥬",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "07년생 이제 몇 살이지?",
+      "tokens": [
+        "07",
+        "년",
+        "생",
+        "이제",
+        "몇",
+        "살",
+        "이",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "와... 07군번...? 세상에나",
+      "tokens": [
+        "와",
+        ".",
+        ".",
+        "07",
+        "군번",
+        ".",
+        ".",
+        "세상",
+        "에",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그러니까 세상 오래된 느낌 키키",
+      "tokens": [
+        "그러니까",
+        "세상",
+        "오래",
+        "된",
+        "ETM",
+        "느낌",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 아직 군번도 생각난다... 077202XXXX",
+      "tokens": [
+        "키",
+        "키",
+        "아직",
+        "군번",
+        "도",
+        "생각",
+        "난다",
+        "EF",
+        ".",
+        ".",
+        "077202",
+        "XXXX"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_215_05.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

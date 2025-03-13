@@ -1,0 +1,426 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "언니는 어떤 파마 해봤어?",
+      "tokens": [
+        "언니",
+        "는",
+        "어떤",
+        "파마",
+        "해",
+        "EC",
+        "봤",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나는 셋팅? 열펌이라 하나 뭐였지",
+      "tokens": [
+        "나",
+        "는",
+        "셋",
+        "팅",
+        "열",
+        "펌",
+        "이",
+        "라",
+        "하나",
+        "뭐",
+        "였",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "언니는 언니가 파마 잘 어울린다고 생각해?",
+      "tokens": [
+        "언니",
+        "는",
+        "언니",
+        "가",
+        "파마",
+        "잘",
+        "어울린다고",
+        "EC",
+        "생각",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "나는 친구가 미용해 가지고 알아서 해줘",
+      "tokens": [
+        "나",
+        "는",
+        "친구",
+        "가",
+        "미용",
+        "해",
+        "EC",
+        "가지",
+        "고",
+        "알",
+        "아서",
+        "해줘",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "아 진짜? 키키",
+      "tokens": [
+        "아",
+        "진짜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "부럽다!",
+      "tokens": [
+        "부럽",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 지금 안 한지 5년이 넘었어!",
+      "tokens": [
+        "나",
+        "는",
+        "지금",
+        "안",
+        "한지",
+        "EC",
+        "5",
+        "년",
+        "이",
+        "넘",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "너 머리 지금 뭐야?",
+      "tokens": [
+        "너",
+        "머리",
+        "지금",
+        "뭐",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "나 지금 그냥 기르고 있어,",
+      "tokens": [
+        "나",
+        "지금",
+        "그냥",
+        "기르",
+        "고",
+        "있",
+        "어",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 나도 많이 길렀다가 이번에 많이 자름",
+      "tokens": [
+        "키",
+        "키나",
+        "ETN",
+        "JX",
+        "도",
+        "많이",
+        "길렀",
+        "EP",
+        "다가",
+        "이번",
+        "에",
+        "많이",
+        "자름"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "키키 아 진짜?",
+      "tokens": [
+        "키",
+        "키",
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "나는 옛날 사람들이 왜 머리 상투를 틀었는지 알겠더라",
+      "tokens": [
+        "나",
+        "는",
+        "옛날",
+        "사람",
+        "들",
+        "이",
+        "왜",
+        "머리",
+        "상투",
+        "를",
+        "틀",
+        "었",
+        "는지",
+        "알",
+        "겠",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "왜 키키",
+      "tokens": [
+        "왜",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "귀찮아? 뭐 하기?",
+      "tokens": [
+        "귀찮",
+        "아",
+        "뭐",
+        "하",
+        "기"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "아니 머리가 너무 무거워 이게 중력의 법칙인가?",
+      "tokens": [
+        "아니",
+        "머리",
+        "가",
+        "너무",
+        "무거워",
+        "EC",
+        "이게",
+        "JKS",
+        "중력",
+        "의",
+        "법칙",
+        "인가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 숯 좀 쳐야 되는 거 아냐?",
+      "tokens": [
+        "키",
+        "키",
+        "숯",
+        "좀",
+        "쳐야",
+        "EC",
+        "되",
+        "는",
+        "거",
+        "아냐",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "키키 맞아 쳐야 해 지금 미용실 안 간지 6개월 됐어!",
+      "tokens": [
+        "키키맞아쳐야해지금미용실안간지",
+        "6",
+        "개월",
+        "됐",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "키키 머리 기르면 근데 갈 일이 없지",
+      "tokens": [
+        "키",
+        "키",
+        "머리",
+        "기르",
+        "면",
+        "근데",
+        "갈일",
+        "이",
+        "없",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "맞아 키키",
+      "tokens": [
+        "맞",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "근데 12월에 가긴 가야 해!",
+      "tokens": [
+        "근데",
+        "12",
+        "월",
+        "에",
+        "가",
+        "긴",
+        "JX",
+        "가",
+        "야",
+        "해",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "기분 전환엔 머리 바꾸는 게 최고야",
+      "tokens": [
+        "기분",
+        "전환",
+        "엔",
+        "JX",
+        "머리",
+        "바꾸",
+        "는",
+        "게",
+        "JKS",
+        "최고",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_112_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

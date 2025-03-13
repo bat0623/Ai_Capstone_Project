@@ -1,0 +1,424 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "어렸을 때 무슨 게임 하고  놀았음?",
+      "tokens": [
+        "어렸",
+        "EP",
+        "을",
+        "때",
+        "무슨",
+        "게임",
+        "하",
+        "고",
+        "놀",
+        "았",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "게임... 기억도 가물 가물이야",
+      "tokens": [
+        "게임",
+        ".",
+        ".",
+        "기억",
+        "도",
+        "가물가물",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "숨바꼭질 개인적으로 좋아해씀",
+      "tokens": [
+        "숨바꼭질",
+        "개인",
+        "적",
+        "으로",
+        "좋아해",
+        "EC",
+        "씀",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "난 공기 놀이 많이 했음",
+      "tokens": [
+        "난",
+        "JX",
+        "공기",
+        "놀이",
+        "많이",
+        "했",
+        "EP",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "깔래라고 하죠",
+      "tokens": [
+        "깔",
+        "래",
+        "라고",
+        "하",
+        "죠"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "우리 무슨 게임 했더라",
+      "tokens": [
+        "우리",
+        "무슨",
+        "게임",
+        "했",
+        "EP",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 그나마 테트리스...",
+      "tokens": [
+        "나",
+        "는",
+        "그나마",
+        "테트리스",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "나 뛰는 거 싫어하거든...",
+      "tokens": [
+        "나",
+        "뛰",
+        "는",
+        "거",
+        "싫",
+        "어",
+        "하",
+        "거든",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "숨바꼭질하면 가만히 있어도 댐",
+      "tokens": [
+        "숨바꼭질",
+        "하",
+        "면",
+        "가만히",
+        "있",
+        "어도",
+        "댐",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아 숨바꼭질 엄청 재밌음",
+      "tokens": [
+        "아",
+        "숨바꼭질",
+        "엄청",
+        "재밌",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "없어져서 넘 슬펑",
+      "tokens": [
+        "없어져서넘슬펑"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "숨만 쉬고 있어도 대자나...",
+      "tokens": [
+        "숨",
+        "만",
+        "쉬",
+        "고",
+        "있",
+        "어도",
+        "대",
+        "자",
+        "나",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 좋아해씀",
+      "tokens": [
+        "그래서",
+        "좋",
+        "아",
+        "해",
+        "EC",
+        "씀",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "테트리스 왜 없어졌어 ㅠㅠ",
+      "tokens": [
+        "테트리스",
+        "왜",
+        "없",
+        "어",
+        "졌",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "숨바꼭질 키키 지금도 재밌을 듯",
+      "tokens": [
+        "숨바꼭질",
+        "키",
+        "키",
+        "지금",
+        "도",
+        "재밌",
+        "을",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "술래잡기 이런 거 뛰어야 대서 싫어해씀",
+      "tokens": [
+        "술래잡기",
+        "이런",
+        "거",
+        "뛰",
+        "어야",
+        "대",
+        "서",
+        "싫",
+        "어",
+        "해",
+        "EC",
+        "씀",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "숨바꼭질 아기들이 진짜 좋아하잖아",
+      "tokens": [
+        "숨바꼭질",
+        "아기",
+        "들",
+        "이",
+        "진짜",
+        "좋",
+        "아",
+        "하",
+        "잖아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "테트리스 없어졌다 핸 거 같은데 ㅠ",
+      "tokens": [
+        "테트리스",
+        "없",
+        "어",
+        "졌",
+        "EP",
+        "다",
+        "핸",
+        "ETM",
+        "거",
+        "같",
+        "은",
+        "데ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "억지로 억지로 숨바꼭질로 몰았었는데",
+      "tokens": [
+        "억지로",
+        "억지로",
+        "숨바꼭질",
+        "로",
+        "몰",
+        "았었",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 테트리스 없어졌어 ㅠㅠ",
+      "tokens": [
+        "키키",
+        "테트리스",
+        "없",
+        "어",
+        "졌",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "응 아기들 진짜 좋아해 놀이터에서",
+      "tokens": [
+        "응",
+        "아기",
+        "들",
+        "진짜",
+        "좋",
+        "아",
+        "해",
+        "EC",
+        "놀이터",
+        "에서"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "저작권 때미 없어져따며",
+      "tokens": [
+        "저작",
+        "권",
+        "때",
+        "미",
+        "없",
+        "어",
+        "져",
+        "EC",
+        "따",
+        "며"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_211_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

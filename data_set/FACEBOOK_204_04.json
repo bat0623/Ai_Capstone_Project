@@ -1,0 +1,407 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "소주 2병이면 출근 하기 힘들지 않냐 키키",
+      "tokens": [
+        "소주",
+        "2",
+        "병",
+        "이",
+        "면",
+        "출근",
+        "하",
+        "기",
+        "힘들",
+        "지",
+        "않",
+        "냐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "소주 두 병이면 애매해",
+      "tokens": [
+        "소주",
+        "두병",
+        "이",
+        "면",
+        "애매",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "어떻게 매일 먹지 키키",
+      "tokens": [
+        "어떻게",
+        "매일",
+        "먹",
+        "지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "직장인들은 평일은 에바임...",
+      "tokens": [
+        "직장인",
+        "들",
+        "은",
+        "평일",
+        "은",
+        "에바",
+        "임",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "안 취해서 잠이 안 온다고",
+      "tokens": [
+        "안",
+        "취해서",
+        "EC",
+        "잠",
+        "이",
+        "안",
+        "온다고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "너무 신기해여...",
+      "tokens": [
+        "너무",
+        "신기",
+        "해",
+        "EF",
+        "여",
+        "EF",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "알쓰로서 키키",
+      "tokens": [
+        "알",
+        "쓰",
+        "로서",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "키키 **는 거의 매일 드심 ... ?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "*",
+        "*",
+        "는",
+        "거의",
+        "매일",
+        "드",
+        "심",
+        "ETN",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "이런 날에 **한테 말걸면 죽음",
+      "tokens": [
+        "이런",
+        "날",
+        "에",
+        "*",
+        "*",
+        "한테",
+        "말",
+        "걸",
+        "면",
+        "죽음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "직장인 일 때도 키키",
+      "tokens": [
+        "직장인",
+        "일",
+        "ETM",
+        "때",
+        "도",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "매일 먹기...",
+      "tokens": [
+        "매일",
+        "먹",
+        "기",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "**한테 말 걸면 죽이나?",
+      "tokens": [
+        "*",
+        "*",
+        "한테",
+        "말",
+        "걸",
+        "면",
+        "죽이",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "내 술 덜 먹으면 말이 많아짐",
+      "tokens": [
+        "내",
+        "JKG",
+        "술",
+        "덜",
+        "먹",
+        "으면",
+        "말",
+        "이",
+        "많",
+        "아",
+        "짐"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "진짜 매일 먹던데 키키",
+      "tokens": [
+        "진짜",
+        "매일",
+        "먹",
+        "던데",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "출근만 제때 하면 뭐 키키",
+      "tokens": [
+        "출근",
+        "만",
+        "제때",
+        "하",
+        "면",
+        "뭐",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "**가 말 걸지 말라고 욕함 키키",
+      "tokens": [
+        "*",
+        "*",
+        "가말걸지말라고욕함키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진짜 출근도 안 늦고 키키 잘하고",
+      "tokens": [
+        "진짜",
+        "출근",
+        "도",
+        "안",
+        "늦",
+        "고",
+        "키",
+        "키",
+        "ETN",
+        "잘",
+        "하",
+        "고"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "그니까 지각은 안 하지?",
+      "tokens": [
+        "그니까",
+        "지각",
+        "은",
+        "안",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "응 당연하지",
+      "tokens": [
+        "응",
+        "당연",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나는 회사에서 잔 적도 있음",
+      "tokens": [
+        "나",
+        "는",
+        "회사",
+        "에서",
+        "잔적",
+        "도",
+        "있",
+        "음"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "지각도 안하고 잘 가시는 듯 ...",
+      "tokens": [
+        "지각",
+        "도",
+        "안",
+        "하",
+        "고",
+        "잘",
+        "가시",
+        "는",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_04.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

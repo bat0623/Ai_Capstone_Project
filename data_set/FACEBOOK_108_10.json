@@ -1,0 +1,439 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "너는 자전거 타는 걸 좋아하는 편이야?",
+      "tokens": [
+        "너",
+        "는",
+        "자전거",
+        "타",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "하",
+        "는",
+        "편",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "어 나 자전거 잘타!",
+      "tokens": [
+        "어",
+        "나",
+        "자전거",
+        "잘",
+        "타",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "그래?",
+      "tokens": [
+        "그래"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "수원에서는 자전거 탈 곳이 있어?",
+      "tokens": [
+        "수원",
+        "에서",
+        "는",
+        "자전거",
+        "탈",
+        "곳",
+        "이",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "어 월드컵 경기장도 있고 앞에 문화 센터도 있어!",
+      "tokens": [
+        "어",
+        "월드컵",
+        "경기장",
+        "도",
+        "있",
+        "고",
+        "앞",
+        "에",
+        "문화",
+        "센터",
+        "도",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그렇구나",
+      "tokens": [
+        "그렇",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나는 한강으로 자전거 타러 자주 가!",
+      "tokens": [
+        "나",
+        "는",
+        "한강",
+        "으로",
+        "자전거",
+        "타",
+        "러",
+        "자주",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "헐 진짜?",
+      "tokens": [
+        "헐",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "한강이랑 가까운 가보네",
+      "tokens": [
+        "한강",
+        "이랑",
+        "가까운가",
+        "EC",
+        "보",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "아니 키키 !",
+      "tokens": [
+        "아니",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "우리 집에서 자전거로 한강까지 40분 정도 걸리거든",
+      "tokens": [
+        "우리",
+        "집",
+        "에서",
+        "자전거",
+        "로",
+        "한강",
+        "까지",
+        "40",
+        "분",
+        "정도",
+        "걸리",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "어? 엄청 먼데?",
+      "tokens": [
+        "어",
+        "엄청",
+        "먼데",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그게 한강에서 자전거를 타는 거야?",
+      "tokens": [
+        "그게",
+        "JKS",
+        "한강",
+        "에서",
+        "자전거",
+        "를",
+        "타",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "한강으로 가는 거야...?",
+      "tokens": [
+        "한강",
+        "으로",
+        "가",
+        "는",
+        "거",
+        "야",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "키키 겸사겸사 나는 노을 보는 걸 좋아해서 시간 맞춰서 가!",
+      "tokens": [
+        "키",
+        "키",
+        "겸사겸사",
+        "나",
+        "는",
+        "노",
+        "을",
+        "보",
+        "는",
+        "걸",
+        "JKO",
+        "좋",
+        "아",
+        "해서",
+        "EC",
+        "시간",
+        "맞춰서",
+        "EC",
+        "가",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "와 자전거 엄청 오래 타는구나?",
+      "tokens": [
+        "와",
+        "자전거",
+        "엄청",
+        "오래",
+        "타",
+        "는구나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "나 기본 두 시간은 타는 거 같아!",
+      "tokens": [
+        "나",
+        "기본",
+        "두",
+        "시간",
+        "은",
+        "타",
+        "는",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "헐 그렇게 타면 허벅지 터지겠다...",
+      "tokens": [
+        "헐",
+        "그렇게",
+        "타",
+        "면",
+        "허벅지",
+        "터지",
+        "겠",
+        "다",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "나 초반에 허벅지 터졌잖아,",
+      "tokens": [
+        "나",
+        "초반",
+        "에",
+        "허벅지",
+        "터졌",
+        "EP",
+        "잖아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "헐 뭐야 진짜 터졌었어? ㅠㅠ",
+      "tokens": [
+        "헐",
+        "뭐",
+        "야",
+        "EF",
+        "진짜",
+        "터졌었",
+        "EP",
+        "어",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "엌 키키 나 2주 정도는 제대로 못 걸었어!",
+      "tokens": [
+        "엌키키나",
+        "2",
+        "주",
+        "정도",
+        "는",
+        "제대로",
+        "못",
+        "걸",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "와... 조심해서 자전거 타 ㅠㅠ",
+      "tokens": [
+        "와",
+        ".",
+        "조심해서자전거타ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_108_10.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

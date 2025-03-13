@@ -1,0 +1,358 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "하와이 비행기 몇 시간이얌?",
+      "tokens": [
+        "하와이",
+        "비행기",
+        "몇",
+        "시간",
+        "이얌"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "헐 얼마나 걸리지?",
+      "tokens": [
+        "헐",
+        "얼마나",
+        "걸리",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "8시간으로 알고 있어 키키",
+      "tokens": [
+        "8",
+        "시간",
+        "으로",
+        "알",
+        "고",
+        "있",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "제주도는 40분이면 가제? 키키",
+      "tokens": [
+        "제주도",
+        "는",
+        "40",
+        "분",
+        "이",
+        "면",
+        "가",
+        "제",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "진짜 머네 으악 !",
+      "tokens": [
+        "진짜",
+        "머",
+        "네",
+        "으악"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "생각보단 얼마 안 됨 키키",
+      "tokens": [
+        "생각",
+        "보단",
+        "JX",
+        "얼마",
+        "안",
+        "됨",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "제주도 진짜 가깝네...",
+      "tokens": [
+        "제주",
+        "도",
+        "진짜",
+        "가깝",
+        "네",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "제주도는 사십 분 컷이지 ㅋ",
+      "tokens": [
+        "제주도",
+        "는",
+        "사",
+        "십",
+        "분",
+        "컷",
+        "이",
+        "지ㅋ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "시차가 엄청 난다규",
+      "tokens": [
+        "시차",
+        "가",
+        "엄청난",
+        "ETM",
+        "다",
+        "규"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "하와이 8시간 좀 가긴 가네",
+      "tokens": [
+        "하와이",
+        "8",
+        "시간",
+        "좀",
+        "가",
+        "긴",
+        "JX",
+        "가",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "제주도 가고 싶지만 ㅠㅠ",
+      "tokens": [
+        "제주",
+        "도",
+        "가",
+        "고",
+        "싶",
+        "지만",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "17시간 시차 남 키키",
+      "tokens": [
+        "17",
+        "시간",
+        "시",
+        "차남",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 8시간이면 자야 할 듯...",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "8",
+        "시간",
+        "이",
+        "면",
+        "자야",
+        "할",
+        "ETM",
+        "듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "비행기 타기가 무섭구나 ㅠㅠ",
+      "tokens": [
+        "비행기",
+        "타",
+        "기",
+        "가",
+        "무섭",
+        "구나",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "그래서 도착하면 다시 하루 시작임 키키",
+      "tokens": [
+        "그래서",
+        "도착",
+        "하",
+        "면",
+        "다시",
+        "하루",
+        "시작",
+        "임",
+        "ETN",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "영화 볼 꺼야?",
+      "tokens": [
+        "영화",
+        "볼꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "뭐 할 꺼야",
+      "tokens": [
+        "뭐",
+        "할꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "자고 일어나면 도착!",
+      "tokens": [
+        "자",
+        "고",
+        "일어나",
+        "면",
+        "도착"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "어어 자야지 자야지 키키",
+      "tokens": [
+        "어",
+        "어",
+        "자",
+        "야",
+        "지",
+        "자",
+        "야지",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_133_03.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

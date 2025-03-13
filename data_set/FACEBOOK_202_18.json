@@ -1,0 +1,450 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "혼수 사고 할 때 존잼인데...",
+      "tokens": [
+        "혼수",
+        "사고",
+        "할",
+        "ETM",
+        "때",
+        "존",
+        "잼",
+        "인데",
+        "EC",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 키키 다 돈이던데 ㅜㅜ",
+      "tokens": [
+        "아키",
+        "키다",
+        "돈",
+        "이",
+        "던데",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "혼수 어디서 샀어?",
+      "tokens": [
+        "혼수",
+        "어디",
+        "서",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "오프라인?",
+      "tokens": [
+        "오프라인"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "나도 다시 싹 사고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "다시",
+        "싹",
+        "사",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "생각보다 돈돈 거리니까 안 즐거움 ㅜㅜ",
+      "tokens": [
+        "생각",
+        "보다",
+        "돈돈",
+        "거리",
+        "니까",
+        "안",
+        "즐거움",
+        "ETN",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "또 뭐 새로 살라구 ...",
+      "tokens": [
+        "또",
+        "뭐",
+        "새로",
+        "살",
+        "라구",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "이사갈 때 바꿔",
+      "tokens": [
+        "이",
+        "사갈",
+        "때",
+        "바꿔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "난 오프라인에서 샀어",
+      "tokens": [
+        "난",
+        "JX",
+        "오프라인",
+        "에서",
+        "샀",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "가전도 유행이 있음...",
+      "tokens": [
+        "가전",
+        "도",
+        "유행",
+        "이",
+        "있",
+        "음",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "에이 왜 싹 다 사 키키",
+      "tokens": [
+        "에이",
+        "왜",
+        "싹",
+        "다사키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "산 지 얼마나 됐다고",
+      "tokens": [
+        "산지",
+        "얼마나",
+        "됐",
+        "EP",
+        "다고"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "아 진짜?",
+      "tokens": [
+        "아",
+        "진짜"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그냥 대충 색깔 맞춰서 사면 안되나",
+      "tokens": [
+        "그냥",
+        "대충",
+        "색깔",
+        "맞춰서",
+        "EC",
+        "사",
+        "면",
+        "안",
+        "되",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "2-3년 지나니까 유행 다 지남...",
+      "tokens": [
+        "2",
+        "-",
+        "3",
+        "년",
+        "지나",
+        "니까",
+        "유행",
+        "다",
+        "지남",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "가구도 은근 유행을 타더라",
+      "tokens": [
+        "가구",
+        "도",
+        "은근",
+        "유행",
+        "을",
+        "타",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그런 거도 유행이 있었구만 ...",
+      "tokens": [
+        "그런",
+        "거",
+        "도",
+        "유행",
+        "이",
+        "있",
+        "었",
+        "구만",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "엉 그냥 엄청 후져 보임...",
+      "tokens": [
+        "엉그냥엄청후져보임",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그런 거 있는지도 몰랐음;",
+      "tokens": [
+        "그런",
+        "거",
+        "있",
+        "는지",
+        "도",
+        "몰랐",
+        "EP",
+        "음",
+        ";"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "키키 후져 보인다니 ㅜㅜ",
+      "tokens": [
+        "키",
+        "키",
+        "후",
+        "져",
+        "EF",
+        "보인다니",
+        "EC",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "너무하다",
+      "tokens": [
+        "너무",
+        "하",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "요새 나오는 애들은 깔끔하더라구",
+      "tokens": [
+        "요새",
+        "나오",
+        "는",
+        "애",
+        "들",
+        "은",
+        "깔끔",
+        "하",
+        "더라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "그냥 너 눈에 질린 거 아냐? 키키",
+      "tokens": [
+        "그냥",
+        "너",
+        "눈",
+        "에",
+        "질린",
+        "ETM",
+        "거",
+        "아냐",
+        "EF",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "키키 그니까",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "그니까"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 25,
+      "text": "익숙한 게 최곤데",
+      "tokens": [
+        "익숙",
+        "한",
+        "ETM",
+        "게",
+        "JKS",
+        "최곤데",
+        "VCP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_202_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

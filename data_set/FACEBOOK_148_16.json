@@ -1,0 +1,361 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 내일 파마를 할꺼야",
+      "tokens": [
+        "난",
+        "JX",
+        "내일",
+        "파마",
+        "를",
+        "할꺼",
+        "ETM",
+        "NNB",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "요즘에 피부가 너무 안 좋아 ㅠ",
+      "tokens": [
+        "요즘",
+        "에",
+        "피부",
+        "가",
+        "너무",
+        "안",
+        "좋",
+        "아",
+        "ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "파마하는 시간이 오래 걸려서 안 좋아",
+      "tokens": [
+        "파마",
+        "하",
+        "는",
+        "시간",
+        "이",
+        "오래",
+        "걸려서",
+        "EC",
+        "안",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "요즘 파마가 너무 하고 싶어",
+      "tokens": [
+        "요즘",
+        "파마",
+        "가",
+        "너무",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "발에 각질도 생기고 있어",
+      "tokens": [
+        "발",
+        "에",
+        "각질",
+        "도",
+        "생기",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "나는 내일 이발 할거야",
+      "tokens": [
+        "나",
+        "는",
+        "내일",
+        "이",
+        "발할",
+        "ETM",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "나도 여드름 너무 심해 ㅠㅠ",
+      "tokens": [
+        "나",
+        "도",
+        "여드름",
+        "너무",
+        "심해",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "파마하면 이상한 냄새가 나",
+      "tokens": [
+        "파마",
+        "하",
+        "면",
+        "이상",
+        "한",
+        "ETM",
+        "냄새",
+        "가",
+        "나"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "머리를 짧게 짤라야겠어",
+      "tokens": [
+        "머리",
+        "를",
+        "짧",
+        "게",
+        "짤라야",
+        "EC",
+        "겠어",
+        "EP",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "무좀도 생기고 미치겠어",
+      "tokens": [
+        "무좀",
+        "도",
+        "생기",
+        "고",
+        "미치",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "나는 염색을 하고 싶어",
+      "tokens": [
+        "나",
+        "는",
+        "염색",
+        "을",
+        "하",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "염색하면 빨강색이 좋아",
+      "tokens": [
+        "염색",
+        "하",
+        "면",
+        "빨",
+        "ETM",
+        "강색",
+        "이",
+        "좋",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "얼른 치료 해야지 ㅠㅠ",
+      "tokens": [
+        "얼른",
+        "치료",
+        "해야지",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "화장하고 머리를 자르고 싶어",
+      "tokens": [
+        "화장",
+        "하",
+        "고",
+        "머리",
+        "를",
+        "자르",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "나도 갈색으로 머리하고 싶다",
+      "tokens": [
+        "나",
+        "도",
+        "갈색",
+        "으로",
+        "머리",
+        "하",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "나도 회색으로 염색할꺼야 키키",
+      "tokens": [
+        "나",
+        "도",
+        "회색",
+        "으로",
+        "염색",
+        "할",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "멋진 남자로 다시 태어날 꺼야",
+      "tokens": [
+        "멋진",
+        "ETM",
+        "남자",
+        "로",
+        "다시",
+        "태어날",
+        "ETM",
+        "꺼",
+        "VCP",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "여드름 나면 많이 아픈데 힘내",
+      "tokens": [
+        "여드름",
+        "나",
+        "면",
+        "많이",
+        "아픈",
+        "ETM",
+        "데",
+        "힘내",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_148_16.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "난 요즘 햄스터 키우고 싶어",
+      "tokens": [
+        "난",
+        "JX",
+        "요즘",
+        "햄스터",
+        "키우",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 고양이가 너무 키우고 싶어",
+      "tokens": [
+        "나",
+        "고양이",
+        "가",
+        "너무",
+        "키우",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "난 예전에 햄스터를 키웠어",
+      "tokens": [
+        "난",
+        "JX",
+        "예전",
+        "에",
+        "햄스터",
+        "를",
+        "키웠",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "너무 귀엽더라구 햄스터가",
+      "tokens": [
+        "너무",
+        "귀엽",
+        "더라구",
+        "햄스터",
+        "가"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "햄스터는 성격이 안 좋대",
+      "tokens": [
+        "햄스터",
+        "는",
+        "성격",
+        "이",
+        "안",
+        "좋",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "햄스터는 너무 예민해서 그래",
+      "tokens": [
+        "햄스터",
+        "는",
+        "너무",
+        "예민",
+        "해서",
+        "EC",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "헐 햄스터도 쥐 종류잖아",
+      "tokens": [
+        "헐",
+        "햄스터",
+        "도",
+        "쥐",
+        "종류",
+        "잖아",
+        "EC",
+        "VX",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "다음에는 거북이를 키워보고 싶어",
+      "tokens": [
+        "다음",
+        "에",
+        "는",
+        "거북이",
+        "를",
+        "키워",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "거북이 자라 차이점이 먼지 모르겠어",
+      "tokens": [
+        "거북",
+        "이",
+        "자라",
+        "EC",
+        "차이점",
+        "이",
+        "먼지",
+        "모르",
+        "겠",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "반려동물은 완젼 사랑이라구",
+      "tokens": [
+        "반려",
+        "동물",
+        "은",
+        "완",
+        "젼",
+        "사랑",
+        "이",
+        "라구"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "반려동물은 애정으로 키우는 거야",
+      "tokens": [
+        "반려",
+        "동물",
+        "은",
+        "애정",
+        "으로",
+        "키우",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "맞아 반려동물은 다 귀엽고 이뻐",
+      "tokens": [
+        "맞",
+        "아",
+        "반려",
+        "동물",
+        "은",
+        "다",
+        "귀엽",
+        "고",
+        "이뻐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그래서 작고 소중해 아쥬 다 키키",
+      "tokens": [
+        "그래서",
+        "작",
+        "고",
+        "소중",
+        "해",
+        "EC",
+        "아쥬",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "사료비가 많이 들어도 그것도 다 애정인 거지",
+      "tokens": [
+        "사료",
+        "비",
+        "가",
+        "많이",
+        "들어도",
+        "EC",
+        "그것",
+        "도",
+        "다",
+        "애정",
+        "인",
+        "ETM",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "돈은 많이 들어도 가족같이 생각해",
+      "tokens": [
+        "돈",
+        "은",
+        "많이",
+        "들어도",
+        "EC",
+        "가족",
+        "같이",
+        "생각",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "사료비 엄청 들지 당연 ㅠㅠ",
+      "tokens": [
+        "사료",
+        "비",
+        "엄청",
+        "들",
+        "지",
+        "당연",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "그럴 바엔 밖에서 돼지고기 구워 먹어",
+      "tokens": [
+        "그럴",
+        "ETM",
+        "바",
+        "엔",
+        "JX",
+        "밖",
+        "에서",
+        "돼지고기",
+        "구워",
+        "EC",
+        "먹",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "돈 생각하면 반려동물 못 키워 ㅠㅠ",
+      "tokens": [
+        "돈",
+        "생각",
+        "하",
+        "면",
+        "반려",
+        "동물",
+        "못",
+        "키워",
+        "EC",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_188_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

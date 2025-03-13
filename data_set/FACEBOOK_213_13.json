@@ -1,0 +1,379 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "이야 요즘 날씨에 딱인 듯...?",
+      "tokens": [
+        "이야",
+        "요즘",
+        "날씨",
+        "에",
+        "딱",
+        "인듯",
+        "EF",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "아 여행 가기에? 키키",
+      "tokens": [
+        "아",
+        "여행",
+        "가",
+        "기",
+        "에",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 딱이야...",
+      "tokens": [
+        "진짜",
+        "딱",
+        "이",
+        "야",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "가을 넘 예쁘다구",
+      "tokens": [
+        "가을",
+        "넘",
+        "예쁘",
+        "다구"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "캠낚 가면 지릴 듯...",
+      "tokens": [
+        "캠낚가면지릴듯",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "어떤데 친구들아",
+      "tokens": [
+        "어떤",
+        "데",
+        "친구",
+        "들",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "지금 날씨면 죽이는딩",
+      "tokens": [
+        "지금",
+        "날씨",
+        "면",
+        "EC",
+        "죽이",
+        "는",
+        "딩"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "응 단풍도 진짜 예뿜 ㅠㅠ",
+      "tokens": [
+        "응",
+        "단풍",
+        "도",
+        "진짜",
+        "예",
+        "뿜",
+        "ㅠㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "여행 가기 너무 좋다~",
+      "tokens": [
+        "여행",
+        "가",
+        "기",
+        "너무",
+        "좋",
+        "다",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "지금 가야 막차 타는 거임",
+      "tokens": [
+        "지금",
+        "가",
+        "야",
+        "막차",
+        "타",
+        "는",
+        "거",
+        "임",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "** 사진 찍기도 딱 좋네",
+      "tokens": [
+        "*",
+        "*",
+        "사진",
+        "찍",
+        "기",
+        "도",
+        "딱",
+        "좋",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "황매산 완전 좋더라...?",
+      "tokens": [
+        "황매산",
+        "완전",
+        "좋",
+        "더라",
+        ".",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "이제 곧 겨울이라서 ㅜㅜ",
+      "tokens": [
+        "이제",
+        "곧",
+        "겨울",
+        "이",
+        "라서",
+        "ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "캠낚? 우리 텐트 있냥",
+      "tokens": [
+        "캠",
+        "낚",
+        "우리텐트있냥"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "***는 사진만 찍어 주면 모...",
+      "tokens": [
+        "*",
+        "*",
+        "*",
+        "는",
+        "사진",
+        "만",
+        "찍",
+        "어",
+        "주",
+        "면",
+        "모",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "황매산도 진짜 이쁨",
+      "tokens": [
+        "황매산",
+        "도",
+        "진짜",
+        "이쁨",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "거기 가야 됨 ㅜㅜ",
+      "tokens": [
+        "거기가야됨ㅜㅜ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "황매산 넘 예쁘드라",
+      "tokens": [
+        "황매산넘예쁘드라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "마자",
+      "tokens": [
+        "마자"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "겨울은 넘 에바임",
+      "tokens": [
+        "겨울은넘에바임"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "진짜 또 가고 싶은 황매산 키키",
+      "tokens": [
+        "진짜",
+        "또",
+        "가",
+        "고",
+        "싶",
+        "은",
+        "황매산",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "겨울 넘 추웡...",
+      "tokens": [
+        "겨울넘추웡",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_213_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

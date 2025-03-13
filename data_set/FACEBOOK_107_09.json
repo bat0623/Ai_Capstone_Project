@@ -1,0 +1,488 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "진봉이 산책은 자주 시켜줘?",
+      "tokens": [
+        "진봉",
+        "이",
+        "산책",
+        "은",
+        "자주",
+        "시켜",
+        "EC",
+        "줘",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "진봉이 산책 못 시키는데 추워서 이제 더 못 시켜",
+      "tokens": [
+        "진봉",
+        "이",
+        "산책",
+        "못",
+        "시키",
+        "는",
+        "데",
+        "추워서",
+        "EC",
+        "이제",
+        "더",
+        "못",
+        "시켜",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "아 ㅜㅜ 내 친구네 강아지는 비가 와도 눈이 와도 나가야 해",
+      "tokens": [
+        "아",
+        "ㅜㅜ",
+        "내",
+        "JKG",
+        "친구",
+        "네",
+        "강아지",
+        "는",
+        "비",
+        "가",
+        "와도",
+        "EC",
+        "눈",
+        "이",
+        "와도",
+        "EC",
+        "나가",
+        "야",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "왜 그런 줄 알아,?",
+      "tokens": [
+        "왜",
+        "그런",
+        "줄",
+        "알",
+        "아",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "왜?",
+      "tokens": [
+        "왜"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "강아지들은 다 나가고 싶어하지",
+      "tokens": [
+        "강아지",
+        "들",
+        "은",
+        "다",
+        "나가",
+        "고",
+        "싶",
+        "어",
+        "하",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "걔는 산책 외로 밖에서만 배변을 해",
+      "tokens": [
+        "걔",
+        "는",
+        "산책",
+        "외",
+        "로",
+        "밖",
+        "에서",
+        "만",
+        "배변",
+        "을",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그런 애들 있어 일부러 그러는 거 같아 키키",
+      "tokens": [
+        "그런",
+        "애",
+        "들",
+        "있",
+        "어",
+        "일부러",
+        "그러",
+        "는",
+        "거",
+        "같",
+        "아",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "키키 그런 거 같아",
+      "tokens": [
+        "키키",
+        "그런",
+        "거",
+        "같",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "소변은 집에서 하는데 대변은 밖에서 해야 한대!",
+      "tokens": [
+        "소변",
+        "은",
+        "집",
+        "에서",
+        "하",
+        "는데",
+        "대변",
+        "은",
+        "밖",
+        "에서",
+        "해야",
+        "EC",
+        "한대",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "까다로워 예민하네 까칠이 그래도 행복하겠다",
+      "tokens": [
+        "까다로워",
+        "EC",
+        "예민",
+        "하",
+        "네",
+        "까",
+        "칠",
+        "이",
+        "그래도",
+        "EC",
+        "행복",
+        "하",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 맞아",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래서 애기 전용 우비도 있대!",
+      "tokens": [
+        "그래서",
+        "애기",
+        "전용",
+        "우비",
+        "도",
+        "있",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "귀여워 나도 진봉이 그거 사주고 싶은데",
+      "tokens": [
+        "귀여워",
+        "EC",
+        "나",
+        "도",
+        "진봉",
+        "이",
+        "그거",
+        "사",
+        "EC",
+        "주",
+        "고",
+        "싶",
+        "은데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "키키 사주면 되지 진봉이 지금 몇 키로야?",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "사",
+        "EC",
+        "주",
+        "면",
+        "되",
+        "지",
+        "진봉",
+        "이",
+        "지금",
+        "몇",
+        "키",
+        "로",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "진봉이 삼키로 조금 넘었어!",
+      "tokens": [
+        "진봉",
+        "이",
+        "삼",
+        "키로",
+        "ETN",
+        "JKB",
+        "조금",
+        "넘",
+        "었",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "삼키로?",
+      "tokens": [
+        "삼",
+        "키로",
+        "ETN",
+        "JKB"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그러면 딱 전형적인 말티즈 몸무게 아니야?",
+      "tokens": [
+        "그러면",
+        "딱",
+        "전형",
+        "적",
+        "인",
+        "ETM",
+        "말",
+        "티즈",
+        "몸무게",
+        "아니",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "맞아",
+      "tokens": [
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "얼굴도 전형적인 이쁜 말티즈 키키",
+      "tokens": [
+        "얼굴",
+        "도",
+        "전형",
+        "적",
+        "인",
+        "ETM",
+        "이쁜",
+        "ETM",
+        "말",
+        "티즈",
+        "키키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "키키 졸귀겠다 애기 나중에 보러 가야겠다!",
+      "tokens": [
+        "키",
+        "키",
+        "ETN",
+        "졸",
+        "ETM",
+        "귀",
+        "겠",
+        "EP",
+        "다",
+        "애기",
+        "나중",
+        "에",
+        "보",
+        "러",
+        "가",
+        "야겠다",
+        "VX",
+        "EP",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "나중에 보여줄게 보러 놀러 와~!",
+      "tokens": [
+        "나중",
+        "에",
+        "보여",
+        "EC",
+        "줄게",
+        "EC",
+        "보",
+        "러",
+        "놀러",
+        "와",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_107_09.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

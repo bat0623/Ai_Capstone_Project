@@ -1,0 +1,374 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "간호 조무사 얼마나 공부하고 딴 거?",
+      "tokens": [
+        "간호조무사",
+        "얼마나",
+        "공부",
+        "하",
+        "고",
+        "딴",
+        "거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "나 일 년 공부하고 땄어",
+      "tokens": [
+        "나",
+        "일",
+        "년",
+        "공부",
+        "하",
+        "고",
+        "땄",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "진짜 빨리 땄다 키키",
+      "tokens": [
+        "진짜",
+        "빨리",
+        "땄",
+        "EP",
+        "다키키"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "잘했네",
+      "tokens": [
+        "잘",
+        "했",
+        "EP",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "진짜 노력 많이 했어 키키",
+      "tokens": [
+        "진짜",
+        "노력",
+        "많이",
+        "했",
+        "EP",
+        "어",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "그러게~",
+      "tokens": [
+        "그러",
+        "게",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어디 학원 다니고 그랬어?",
+      "tokens": [
+        "어디",
+        "학원",
+        "다니",
+        "고",
+        "그랬",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "근데 여자들이랑 일하느라 좀 힘들어",
+      "tokens": [
+        "근데",
+        "여자",
+        "들",
+        "이랑",
+        "일",
+        "하",
+        "느라",
+        "좀",
+        "힘들",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그치 힘든 거 다 오빠 시키지?",
+      "tokens": [
+        "그치",
+        "힘든",
+        "ETM",
+        "거",
+        "다",
+        "오빠",
+        "시키",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "학원 다녔지 난 국비 지원해서 다녔어",
+      "tokens": [
+        "학원",
+        "다녔",
+        "EP",
+        "지난",
+        "ETM",
+        "국비",
+        "지원",
+        "해서",
+        "EC",
+        "다녔",
+        "EP",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "국비 지원이면 돈 얼마 안 들겠네",
+      "tokens": [
+        "국비",
+        "지원",
+        "이",
+        "면",
+        "돈",
+        "얼마",
+        "안",
+        "들",
+        "겠",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "웅 힘든 일은 다 나한테 시켜 남자니까 키키",
+      "tokens": [
+        "웅",
+        "힘든",
+        "ETM",
+        "일",
+        "은",
+        "다",
+        "나",
+        "한테",
+        "시켜",
+        "EC",
+        "남자",
+        "니까",
+        "EC",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "그러게,",
+      "tokens": [
+        "그러게",
+        ","
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "그래도 잘해서 다행이야",
+      "tokens": [
+        "그래도",
+        "잘",
+        "해서",
+        "EC",
+        "다행",
+        "이",
+        "야"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "웅 돈 얼마 안 들고 열심히 다녔지",
+      "tokens": [
+        "웅",
+        "돈",
+        "얼마",
+        "안",
+        "들",
+        "고",
+        "열심히",
+        "다녔",
+        "EP",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "실기 시험도 봐 그거?",
+      "tokens": [
+        "실기",
+        "시험",
+        "도",
+        "봐",
+        "EF",
+        "그거"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "아니 실기 시험은 없고 실습 기간 있어",
+      "tokens": [
+        "아니",
+        "실기",
+        "시험",
+        "은",
+        "없",
+        "고",
+        "실습",
+        "기간",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "아하 실습 기간만 이수하면 자격증 주구나",
+      "tokens": [
+        "아하",
+        "실습",
+        "기간",
+        "만",
+        "이수",
+        "하",
+        "면",
+        "자격증",
+        "주",
+        "구나"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "실습 나가면 돈 안주고 그냥 4개월 동안 하는 거야",
+      "tokens": [
+        "실습",
+        "나가",
+        "면",
+        "돈",
+        "안",
+        "주",
+        "고",
+        "그냥",
+        "4",
+        "개월",
+        "동안",
+        "하",
+        "는",
+        "거",
+        "야",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_121_06.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "오빠는 진짜 스윗하거든?",
+      "tokens": [
+        "오빠",
+        "는",
+        "진짜",
+        "스윗",
+        "하",
+        "거든"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "엄청 스윗해 보이시더라 행님",
+      "tokens": [
+        "엄청",
+        "스윗",
+        "해",
+        "EC",
+        "보이",
+        "시",
+        "더라",
+        "행",
+        "님"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "행님은 봐도 스윗해보여...",
+      "tokens": [
+        "행님은봐도스윗해보여",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "근데 게임에서 지면 진심 싸움",
+      "tokens": [
+        "근데",
+        "게임",
+        "에서",
+        "지",
+        "면",
+        "진심",
+        "싸움"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "행님한테 한 수 배워야겠다",
+      "tokens": [
+        "행",
+        "님",
+        "한테",
+        "한",
+        "ETM",
+        "수",
+        "배워야",
+        "EC",
+        "VX",
+        "겠",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "뭔가 누나한테 하는 게 느껴짐...",
+      "tokens": [
+        "뭔가",
+        "VCP",
+        "EC",
+        "누나",
+        "한테",
+        "하",
+        "는",
+        "게",
+        "JKS",
+        "느껴짐",
+        "EC",
+        "VX",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "우리 집은 루미큐브 하다가 이혼할 뻔",
+      "tokens": [
+        "우리",
+        "집",
+        "은",
+        "루미큐브",
+        "하",
+        "다가",
+        "이혼",
+        "할",
+        "ETM",
+        "뻔"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "현피 바로 가나요 키키",
+      "tokens": [
+        "현피",
+        "바로",
+        "가",
+        "나",
+        "요키",
+        "키"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "악...승부욕은 또 키키",
+      "tokens": [
+        "악",
+        ".",
+        "승부욕은또키키"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "마누라라고",
+      "tokens": [
+        "마누라",
+        "라고",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "승부욕이 어마어마하심...",
+      "tokens": [
+        "승부",
+        "욕",
+        "이",
+        "어마어마",
+        "하",
+        "심",
+        "ETN",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "루미큐브 때문에 이혼이라니 키키",
+      "tokens": [
+        "루미큐브",
+        "때문",
+        "에",
+        "이혼",
+        "이",
+        "라니",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "안 져주는 건가여 키키",
+      "tokens": [
+        "안",
+        "져",
+        "EC",
+        "주",
+        "는",
+        "건가",
+        "VCP",
+        "EC",
+        "VCP",
+        "여",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "아놔",
+      "tokens": [
+        "아",
+        "놔",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "엉 루미큐브 그래서 펜트리행...",
+      "tokens": [
+        "엉루미큐브그래서펜트리행",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "야 **도 똑같다 ... ㄷㄷ",
+      "tokens": [
+        "야",
+        "*",
+        "*",
+        "도",
+        "똑같",
+        "다",
+        ".",
+        "ㄷ",
+        "ㄷ"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "야 황소도 똑같다 ... ㄷㄷ 소름",
+      "tokens": [
+        "야",
+        "황소",
+        "도",
+        "똑같",
+        "다",
+        ".",
+        "ㄷ",
+        "ㄷ",
+        "소름"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "루미큐브는 하면 안되겠는데? ...",
+      "tokens": [
+        "루미큐브",
+        "는",
+        "하",
+        "면",
+        "안",
+        "되",
+        "겠",
+        "는데",
+        "?",
+        "."
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "거기서 못 나오고 있어",
+      "tokens": [
+        "거기",
+        "서",
+        "못",
+        "나오",
+        "고",
+        "있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "**랑 행님이랑 비슷함 무서움",
+      "tokens": [
+        "*",
+        "*",
+        "랑행님이랑비슷함무서움"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "근데 저희도 맨날...게임하면 싸우는",
+      "tokens": [
+        "근데",
+        "저희",
+        "도",
+        "맨날",
+        ".",
+        "게임",
+        "하",
+        "면",
+        "싸우",
+        "는"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_204_11.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

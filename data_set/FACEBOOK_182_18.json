@@ -1,0 +1,498 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "쿠팡에서 새벽배송으로 꾸미꺼 미끄럼 방지 패드 삼",
+      "tokens": [
+        "쿠팡",
+        "에서",
+        "새벽",
+        "배송",
+        "으로",
+        "꾸미",
+        "꺼",
+        "EC",
+        "미끄럼",
+        "방지",
+        "패드",
+        "삼"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "그걸 왜 사?",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "왜",
+        "사",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "니는 꼭 헛거에다 돈 쓰더라",
+      "tokens": [
+        "니",
+        "는",
+        "꼭",
+        "헛",
+        "거",
+        "에다",
+        "돈",
+        "쓰",
+        "더라"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "원래 집에 강아지 키우면 바닥에 깔아둬야 해",
+      "tokens": [
+        "원래",
+        "집",
+        "에",
+        "강아지",
+        "키우",
+        "면",
+        "바닥",
+        "에",
+        "깔",
+        "아",
+        "둬야",
+        "EC",
+        "해",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "그걸 왜 사야 하는데?",
+      "tokens": [
+        "그걸",
+        "JKO",
+        "왜",
+        "사야",
+        "하",
+        "는데"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "꾸미 잘만 걸어댕기는디",
+      "tokens": [
+        "꾸미",
+        "잘",
+        "만",
+        "걸",
+        "어",
+        "댕기",
+        "는디"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "미리미리 쓸개골 관리 해줘야 한다고.",
+      "tokens": [
+        "미리미리",
+        "쓸",
+        "ETM",
+        "개골",
+        "관리",
+        "해",
+        "EC",
+        "줘야",
+        "EC",
+        "한다고",
+        "EF"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "이번에 한 개 샀는데 괜찮으면 더 주문하려고",
+      "tokens": [
+        "이번",
+        "에",
+        "한",
+        "개",
+        "샀",
+        "EP",
+        "는데",
+        "괜찮",
+        "으면",
+        "더",
+        "주문",
+        "하",
+        "려고"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "그래",
+      "tokens": [
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "뭐 너가 어련히 알아서 샀겠지",
+      "tokens": [
+        "뭐",
+        "너",
+        "가",
+        "어련히",
+        "알",
+        "아서",
+        "샀",
+        "EP",
+        "겠",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "인터넷에 돈 좀 그만써",
+      "tokens": [
+        "인터넷",
+        "에",
+        "돈",
+        "좀",
+        "그만",
+        "써",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "글고 친구가 귤 배송해줬으니까 그거 오면 주말에 대전 가져가소",
+      "tokens": [
+        "글고",
+        "친구",
+        "가",
+        "귤",
+        "배송",
+        "해",
+        "EC",
+        "줬",
+        "EP",
+        "으니까",
+        "그거",
+        "오",
+        "면",
+        "주말",
+        "에",
+        "대전",
+        "가져",
+        "EC",
+        "가소"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "친구가 왜 귤을 사줬대?",
+      "tokens": [
+        "친구",
+        "가",
+        "왜",
+        "귤",
+        "을",
+        "사",
+        "EC",
+        "줬",
+        "EP",
+        "대"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "인터넷에서 파는 귤 괜찮은 거 맞아?",
+      "tokens": [
+        "인터넷",
+        "에서",
+        "파",
+        "는",
+        "귤",
+        "괜찮",
+        "은",
+        "거",
+        "맞",
+        "아"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "왤케 조선 시대 사람이야ㅡㅡ",
+      "tokens": [
+        "왤케",
+        "조선",
+        "시대",
+        "사람",
+        "이",
+        "야",
+        "ㅡㅡ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "요즘엔 집 앞 마트보다 인터넷이 훨씬 맛있어",
+      "tokens": [
+        "요즘",
+        "엔",
+        "JX",
+        "집",
+        "앞",
+        "마트",
+        "보다",
+        "인터넷",
+        "이",
+        "훨씬",
+        "맛있",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "친구한테 고맙다구 전해줘~",
+      "tokens": [
+        "친구",
+        "한테",
+        "고맙",
+        "다구",
+        "전해줘",
+        "EC",
+        "VX",
+        "EC",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "직접 하나 맛 보면서 사는 거지",
+      "tokens": [
+        "직접",
+        "하나",
+        "맛보",
+        "면서",
+        "사",
+        "는",
+        "거",
+        "지",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "그 귤이 달지 안 달지 어떻게 아냐",
+      "tokens": [
+        "그",
+        "귤",
+        "이",
+        "달",
+        "지",
+        "안",
+        "달",
+        "지",
+        "어떻게",
+        "아냐",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 20,
+      "text": "거기서 다 당도 높은 거만 팔지.",
+      "tokens": [
+        "거기",
+        "서",
+        "다당",
+        "도",
+        "높",
+        "은",
+        "거",
+        "만",
+        "팔",
+        "지"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 21,
+      "text": "그리고 후기도 좋았어",
+      "tokens": [
+        "그리고",
+        "후기",
+        "도",
+        "좋",
+        "았",
+        "어"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 22,
+      "text": "그래 그래",
+      "tokens": [
+        "그래",
+        "그래",
+        "EC"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 23,
+      "text": "엄마가 수원 가져가서 할아버지랑 큰외삼촌이랑 맛나게 먹을게",
+      "tokens": [
+        "엄마",
+        "가",
+        "수원",
+        "가져가",
+        "서",
+        "할아버지",
+        "랑",
+        "큰",
+        "ETM",
+        "외삼촌",
+        "이랑",
+        "맛나",
+        "게",
+        "먹",
+        "을",
+        "게",
+        "JKS"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 24,
+      "text": "뭐여 그럼 난 먹지도 못하네",
+      "tokens": [
+        "뭐",
+        "여",
+        "EF",
+        "그럼",
+        "난",
+        "JX",
+        "먹",
+        "지",
+        "도",
+        "못하",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_182_18.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "text": "날씨가 딱 캠낚이네",
+      "tokens": [
+        "날씨",
+        "가",
+        "딱",
+        "캠",
+        "낚이",
+        "네"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 2,
+      "text": "구러게 캠핑 좋겠다 하하",
+      "tokens": [
+        "구",
+        "러",
+        "게",
+        "캠핑",
+        "좋",
+        "겠",
+        "다",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 3,
+      "text": "맞지 진짜 바로 앞바다라 넘 좋음 키키",
+      "tokens": [
+        "맞",
+        "지",
+        "진짜",
+        "바로",
+        "앞바다",
+        "라",
+        "EC",
+        "넘",
+        "좋",
+        "음",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 4,
+      "text": "캠낚 하기 좋은 날씨 ~",
+      "tokens": [
+        "캠",
+        "낚",
+        "하",
+        "기",
+        "좋",
+        "은",
+        "날씨",
+        "~"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 5,
+      "text": "불멍 때리면서 오로라 보기 하하",
+      "tokens": [
+        "불",
+        "멍",
+        "때리",
+        "면서",
+        "오",
+        "로라",
+        "보",
+        "기",
+        "하하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 6,
+      "text": "캠낚 추천이다 키키 근데 밤에 좀 추움",
+      "tokens": [
+        "캠낚",
+        "추천",
+        "이",
+        "다키키",
+        "근데",
+        "밤",
+        "에",
+        "좀",
+        "추움",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 7,
+      "text": "어디로 갔었음? 삼천포?",
+      "tokens": [
+        "어디",
+        "로",
+        "갔었",
+        "EP",
+        "음",
+        "삼",
+        "천",
+        "포"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 8,
+      "text": "그거 불에다가 그거 해보고싶다",
+      "tokens": [
+        "그거",
+        "불",
+        "에다가",
+        "그거",
+        "해",
+        "EC",
+        "보",
+        "고",
+        "싶",
+        "다"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 9,
+      "text": "오로라 키키 어디에 오로라 키키",
+      "tokens": [
+        "오로라",
+        "키키",
+        "어디",
+        "에",
+        "오",
+        "로라",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 10,
+      "text": "통영 갔었냐?",
+      "tokens": [
+        "통영",
+        "갔었",
+        "EP",
+        "냐"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 11,
+      "text": "추천 좀!",
+      "tokens": [
+        "추천",
+        "좀"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 12,
+      "text": "밤에는 불멍이지 완젼 하하",
+      "tokens": [
+        "밤",
+        "에",
+        "는",
+        "불",
+        "멍",
+        "이지완",
+        "젼",
+        "하",
+        "하"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 13,
+      "text": "키키 아아 남해갔지 캠낚은 키키",
+      "tokens": [
+        "키키",
+        "아아",
+        "남",
+        "해",
+        "EC",
+        "갔",
+        "EP",
+        "지",
+        "캠",
+        "낚",
+        "은",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 14,
+      "text": "밤에 좀 춥긴 할듯 ㅠ",
+      "tokens": [
+        "밤에좀춥긴할듯ㅠ"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 15,
+      "text": "핫팩 챙겨야 할듯",
+      "tokens": [
+        "핫",
+        "팩",
+        "챙겨야",
+        "EC",
+        "할",
+        "ETM",
+        "듯"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 16,
+      "text": "불멍 때매 가지 ㅜ 넘 좋다 불멍",
+      "tokens": [
+        "불",
+        "멍",
+        "때",
+        "매",
+        "EC",
+        "가지",
+        "ㅜ넘",
+        "좋",
+        "다",
+        "불",
+        "멍"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 17,
+      "text": "불에다가 오로라 하는 거 있더만...! 존예",
+      "tokens": [
+        "불",
+        "에다가",
+        "오로라",
+        "하",
+        "는",
+        "거",
+        "있",
+        "더만",
+        ".",
+        "!",
+        "존",
+        "예"
+      ],
+      "metadata": {
+        "speaker": "화자_1",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 18,
+      "text": "고기 구워먹고 최고닷",
+      "tokens": [
+        "고기",
+        "구워",
+        "EC",
+        "먹",
+        "고",
+        "최고",
+        "닷"
+      ],
+      "metadata": {
+        "speaker": "화자_2",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    },
+    {
+      "id": 19,
+      "text": "난로도 있고 안춥다 생각보다 키키",
+      "tokens": [
+        "난로",
+        "도",
+        "있",
+        "고",
+        "안",
+        "춥",
+        "다",
+        "생각",
+        "보다",
+        "키",
+        "키",
+        "ETN"
+      ],
+      "metadata": {
+        "speaker": "화자_3",
+        "source_file": "FACEBOOK_166_13.json",
+        "category": "일상대화"
+      }
+    }
+  ]
+}
