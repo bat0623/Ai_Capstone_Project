@@ -1,0 +1,22 @@
+# PyTorch (CUDA 12.1 지원)
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+-f https://download.pytorch.org/whl/cu121
+
+# 한국어 자연어처리 (형태소 분석기)
+konlpy==0.6.0
+eunjeon==0.4.0  # Mecab 대체용 (Windows용)
+
+# 머신러닝 (KNN 및 기타 알고리즘)
+scikit-learn==1.2.2
+numpy==1.23.5
+pandas==1.5.3
+
+# NLP 및 생성형 AI 관련
+transformers==4.36.0
+
+# 기타 유틸리티
+tqdm==4.66.1
+matplotlib==3.7.1
+seaborn==0.12.2
