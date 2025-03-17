@@ -4,7 +4,7 @@ from glob import glob
 from eunjeon import Mecab
 
 # 데이터셋 폴더 경로
-dataset_folder = "./dataset"
+dataset_folder = "./data_set"
 output_json = "merged_dataset.json"
 
 # 형태소 분석기 초기화
