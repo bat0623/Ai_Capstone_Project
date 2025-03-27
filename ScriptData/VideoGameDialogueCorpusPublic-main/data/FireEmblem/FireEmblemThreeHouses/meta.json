@@ -1,0 +1,76 @@
+{
+	"game": "Fire Emblem: Three Houses",
+	"series": "Fire Emblem",
+	"year": 2019,
+	"status": "in progress",
+	"alternativeMeasure": true,
+	"source": "https://houses.fedatamine.com",
+	"sourceFeatures": {
+		"type": "game data",
+		"completeness": "high",
+		"dialogueOrder": true,
+		"choices": "complete"
+	},
+	"parserParameters": {
+		"parser": "FireEmblem3HParser",
+		"fileType": ".html"
+	},
+	"mainPlayerCharacters": ["Byleth"],
+	"characterGroups": {
+		"male": [
+			"Byleth",
+			"Dimitri",
+			"Hanneman",
+			"Raphael",
+			"Lorenz",
+			"Yuri",
+			"Gilbert",
+			"Linhardt",
+			"Balthus",
+			"Jeritza",
+			"Hubert",
+			"Ashe",
+			"Seteth",
+			"Cyril",
+			"Felix",
+			"Dedue",
+			"Ignatz",
+			"Sylvain",
+			"Caspar",
+			"Claude",
+			"Ferdinand",
+			"Alois",
+			"Jeralt"
+		],
+		"female": [
+			"Annette",
+			"Anna",
+			"Flame Emperor",
+			"Flayn",
+			"Judith",
+			"Shamir",
+			"Hapi",
+			"Leonie",
+			"Edelgard",
+			"Cornelia",
+			"Ingrid",
+			"Rhea",
+			"Sothis",
+			"Catherine",
+			"Monica",
+			"Kronya",
+			"Mercedes",
+			"Marianne",
+			"Hilda",
+			"Manuela",
+			"Constance",
+			"Lysithea",
+			"Dorothea",
+			"Petra",
+			"Bernadetta"
+		]
+	},
+	"aliases": {
+		
+	}
+}

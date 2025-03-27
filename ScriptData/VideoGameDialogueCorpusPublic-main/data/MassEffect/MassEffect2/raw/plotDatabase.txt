@@ -1,0 +1,2076 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plot_database game="me3">
+  <conditionals_database>
+    <descriptions>
+      <conditional id="11">
+        <description>Shepard is male</description>
+      </conditional>
+      <conditional id="12">
+        <description>Shepard is female</description>
+      </conditional>
+      <conditional id="17">
+        <description>Liara was acquired (completing Priority: Mars)</description>
+      </conditional>
+      <conditional id="18">
+        <description>Kaidan was acquired (not sure if by completing Earth prologue or getting her on board after Citadel coup)</description>
+      </conditional>
+      <conditional id="19">
+        <description>Ashley was acquired (not sure if by completing Earth prologue or getting her on board after Citadel coup)</description>
+      </conditional>
+      <conditional id="20">
+        <description>Garrus was acquired (completed Priority: Palaven)</description>
+      </conditional>
+      <conditional id="21">
+        <description>EDI was acquired (completed Priority: Palaven and watched her "acquisiton/recruitment" cutscene)</description>
+      </conditional>
+      <conditional id="22">
+        <description>Javik was acquired (completed Priority: Eden Prime [From Ashes DLC])</description>
+      </conditional>
+      <conditional id="114">
+        <description>Speaker is in party</description>
+      </conditional>
+      <conditional id="115">
+        <description>Checks for party members acquisition. Javik: 5, EDI: 4, Tali: 7, James: 6, Kaidan: 1, Liara: 8, Garrus: 3, Ashley: 2</description>
+      </conditional>
+      <conditional id="116">
+        <description>Checks for party members in current squad. Javik: 5, EDI: 4, Tali: 7, James: 6, Kaidan: 1, Liara: 8, Garrus: 3, Ashley: 2</description>
+      </conditional>
+      <conditional id="155">
+        <description>Romancing Tali</description>
+      </conditional>
+      <conditional id="164">
+        <description>Tali has talked to Legion about possible peace ? [Tali's intro dialog on Normandy]</description>
+      </conditional>
+      <conditional id="172">
+        <description>Jacob survived Suicide Mission in ME2</description>
+      </conditional>
+      <conditional id="180">
+        <description>Grunt was recruited in ME2</description>
+      </conditional>
+      <conditional id="184">
+        <description>Tali's in squad</description>
+      </conditional>
+      <conditional id="185">
+        <description>Tali was acquired (completed Priority: Rannoch, but not destroying the Migrant Fleet)</description>
+      </conditional>
+      <conditional id="190">
+        <description>Kaidan was NOT rescued on Virmire</description>
+      </conditional>
+      <conditional id="193">
+        <description>Romanced Liara in ME1</description>
+      </conditional>
+      <conditional id="194">
+        <description>Wrex was recruited but was killed on Virmire; thus Wreav is in ME2/3 as Urdnot's clan chief</description>
+      </conditional>
+      <conditional id="216">
+        <description>Tali is an admiral (not Fleet's dirty little secret)</description>
+      </conditional>
+      <conditional id="228">
+        <description>Arrival DLC was completed</description>
+      </conditional>
+      <conditional id="232">
+        <description>Romancing Miranda</description>
+      </conditional>
+      <conditional id="235">
+        <description>Jack was romanced in ME2</description>
+      </conditional>
+      <conditional id="422">
+        <description>Adams at EDI reveal?</description>
+      </conditional>
+      <conditional id="515">
+        <description>Bring Down the Sky DLC for ME1 was completed; Terra Nova was saved</description>
+      </conditional>
+      <conditional id="522">
+        <description>Something to do with James' stunt back on Mars</description>
+      </conditional>
+      <conditional id="545">
+        <description>Has something to do with Liara romance</description>
+      </conditional>
+      <conditional id="550">
+        <description>Garrus and Tali didn't fight the rachni queen (ME1 or ME3) (?)</description>
+      </conditional>
+      <conditional id="564">
+        <description>Ken On Board?</description>
+      </conditional>
+      <conditional id="565">
+        <description>Something to do with Kenneth and Gabby</description>
+      </conditional>
+      <conditional id="607">
+        <description>Garrus, Tali or Liara are in squad</description>
+      </conditional>
+      <conditional id="610">
+        <description>Number of medigel dispensers fixed is greater than argument</description>
+      </conditional>
+      <conditional id="612">
+        <description>[UNC: Asari Writings] Assignment completed</description>
+      </conditional>
+      <conditional id="846">
+        <description>Tali at core?</description>
+      </conditional>
+      <conditional id="847">
+        <description>Time for Tali'srelationship dialog 2?</description>
+      </conditional>
+      <conditional id="848">
+        <description>Tali in engine room?</description>
+      </conditional>
+      <conditional id="855">
+        <description>Romancing only Tali in ME3 (not sure, not all variables known)</description>
+      </conditional>
+      <conditional id="863">
+        <description>Friends with Ashley ?</description>
+      </conditional>
+      <conditional id="905">
+        <description>GX12 thermal pipe is available for purchase</description>
+      </conditional>
+      <conditional id="910">
+        <description>Seems like a check for Shepard not romancing Tali and Garrus [depends on the unknown variables], so those two can get together</description>
+      </conditional>
+      <conditional id="915">
+        <description>James is in Cargo hold?</description>
+      </conditional>
+      <conditional id="917">
+        <description>Is Cortez allowed to play video with his ex ???</description>
+      </conditional>
+      <conditional id="918">
+        <description>Cortez: "Time for shuttle dialog?"</description>
+      </conditional>
+      <conditional id="930">
+        <description>Time for James' relationship 1 dialog?</description>
+      </conditional>
+      <conditional id="1035">
+        <description>Completed mission A in Lair of the Shadow Broker (?)</description>
+      </conditional>
+      <conditional id="1113">
+        <description>Is Jenna (Rita's sister) present?</description>
+      </conditional>
+      <conditional id="1128">
+        <description>Is Cortez playing video of his ex?</description>
+      </conditional>
+      <conditional id="1129">
+        <description>Is Cortez working at shuttle area?</description>
+      </conditional>
+      <conditional id="1155">
+        <description>Cortez: "Time for Intro?"</description>
+      </conditional>
+      <conditional id="1256">
+        <description>Ken/Gabby had lovers spat [or Time for Gth001 ambient choice?]</description>
+      </conditional>
+      <conditional id="1265">
+        <description>Full decision mode is disabled</description>
+      </conditional>
+      <conditional id="1294">
+        <description>EMS at least 3250</description>
+      </conditional>
+      <conditional id="1295">
+        <description>EMS at least 2500 but lower than 3250</description>
+      </conditional>
+      <conditional id="1296">
+        <description>EMS less than 2500</description>
+      </conditional>
+      <conditional id="1317">
+        <description>Is Engineer Adams (or Gabby ?) allowed to inform Shepard that GX12 thermal pipe has arrived</description>
+      </conditional>
+      <conditional id="1318">
+        <description>Second install notify? [GX12 thermal pipe installation]</description>
+      </conditional>
+      <conditional id="1319">
+        <description>Time for reward? (after installing GX12 thermal pipe)</description>
+      </conditional>
+      <conditional id="1365">
+        <description>Cortez is at the armory</description>
+      </conditional>
+      <conditional id="1433">
+        <description>Are Kenneth and Gabby allowed to talk about death of Kelly Chambers</description>
+      </conditional>
+      <conditional id="1434">
+        <description>Ken comments EDI's new body</description>
+      </conditional>
+      <conditional id="1435">
+        <description>Ken comments mech dog</description>
+      </conditional>
+      <conditional id="1436">
+        <description>Ken comments Traynor</description>
+      </conditional>
+      <conditional id="1437">
+        <description>Ken comments EDI repair</description>
+      </conditional>
+      <conditional id="1438">
+        <description>Ken comments Illusive Man's choice of bourbon</description>
+      </conditional>
+      <conditional id="1439">
+        <description>Ken comments older asari</description>
+      </conditional>
+      <conditional id="1440">
+        <description>Gabby comments abduction</description>
+      </conditional>
+      <conditional id="1441">
+        <description>Gabby comments poker</description>
+      </conditional>
+      <conditional id="1445">
+        <description>Down in sub space??? [probably Ken/Gabby in engineering subspace]</description>
+      </conditional>
+      <conditional id="1449">
+        <description>Are Kenneth and Gabby allowed to talk about Quarians destruction</description>
+      </conditional>
+      <conditional id="1450">
+        <description>Is Kenneth/Gabby allowed to tell Shepard that the FBA couplings are still holding up</description>
+      </conditional>
+      <conditional id="1451">
+        <description>Is Kenneth allowed to whine about keeping the grid balanced</description>
+      </conditional>
+      <conditional id="1452">
+        <description>Is allowed Kenneth to express a wish that Gabby could be on the Normandy to see all this [probably Quarian destruction]</description>
+      </conditional>
+      <conditional id="1453">
+        <description>Checks if Kenneth's starter dialog counter is equal to argument</description>
+      </conditional>
+      <conditional id="1575">
+        <description>EMS more than 0</description>
+      </conditional>
+      <conditional id="1585">
+        <description>Is allowed Traynor to ask Allers, if all war reporters look so feminine</description>
+      </conditional>
+      <conditional id="1586">
+        <description>Is Allers allowed to talk about Second Star Broadcasting offering her a job</description>
+      </conditional>
+      <conditional id="1587">
+        <description>Is Allers allowed to chat about makeup, cameras and the old days</description>
+      </conditional>
+      <conditional id="1590">
+        <description>Is Allers allowed to talk about Williams or Kaidan</description>
+      </conditional>
+      <conditional id="1591">
+        <description>Is Allers allowed to talk about "Cerberus stealthily striking star system Sheol..."</description>
+      </conditional>
+      <conditional id="1592">
+        <description>Is Allers allowed to complain about Liara not allowing her to Liara's office</description>
+      </conditional>
+      <conditional id="1871">
+        <description>Time for James' Gth001 MR dialog ???</description>
+      </conditional>
+      <conditional id="1872">
+        <description>Shepard has agreed that James may call him/her Loco/Lola</description>
+      </conditional>
+      <conditional id="1903">
+        <description>Time for James' investigate dialog</description>
+      </conditional>
+      <conditional id="1956">
+        <description>Legion died in Suicide Mission and he was never "recruited" (e.g. he was sent to Cerberus or he was never reactivated)</description>
+      </conditional>
+      <conditional id="1975">
+        <description>Tali's dialog counter 2 [when the geth are destroyed (?)] equals arg</description>
+      </conditional>
+      <conditional id="1976">
+        <description>Tali's dialog counter equals arg</description>
+      </conditional>
+      <conditional id="1980">
+        <description>Is Tali allowed to ask Garrus if he feel awkward, being the only turian on the Normandy</description>
+      </conditional>
+      <conditional id="1981">
+        <description>Are Garrus and Tali allowed to talk about the toughest mission (and creepiest thing they fought)</description>
+      </conditional>
+      <conditional id="1992">
+        <description>James' investigate dialog starting/ending reply counter equals to argument</description>
+      </conditional>
+      <conditional id="1996">
+        <description>Is Allers allowed to make story: [Cerberus] "Cerberus betrays its principles--with gunfire." or [Earth] "A city of four million, blasted from orbit. Adelaide, Australia is no more."</description>
+      </conditional>
+      <conditional id="1997">
+        <description>Is Allers allowed to tell Shepard, she can't speak with him/her, because she's about to voice her intro</description>
+      </conditional>
+      <conditional id="1998">
+        <description>Is Traynor allowed to talk with Allers about the rachni</description>
+      </conditional>
+      <conditional id="1999">
+        <description>Is Allers allowed to make story: [Cerberus] "Assassinations, fixed elections, and drug money--tonight we look at the true face of Cerberus." or [Earth] "Off the radar, reaping begins in rural areas."</description>
+      </conditional>
+      <conditional id="2000">
+        <description>Is Allers allowed to make story: "The Arcturus Station destroyed, and the Alliance Parliament, feared dead."</description>
+      </conditional>
+      <conditional id="2001">
+        <description>Is Traynor allowed to talk with Allers about the Genophage cure</description>
+      </conditional>
+      <conditional id="2002">
+        <description>Is Allers allowed to make story: "The Citadel in flames. A brazen attack by Cerberus, repelled by C-SEC."</description>
+      </conditional>
+      <conditional id="2003">
+        <description>Is Traynor allowed to talk with Allers about Javik</description>
+      </conditional>
+      <conditional id="2004">
+        <description>Is Traynor allowed to talk with Allers about the Ardat-Yakshi</description>
+      </conditional>
+      <conditional id="2005">
+        <description>Is Allers allowed to make story: [Cerberus] About salarian Councilor or [Earth] A nightmare on Earth. Human leaders using military force on their own people."</description>
+      </conditional>
+      <conditional id="2006">
+        <description>Is Allers allowed to make story: "The Exodus Cluster, under heavy attack. Eden Prime and Terra Nova about to fall."</description>
+      </conditional>
+      <conditional id="2009">
+        <description>Is Traynor allowed to ask Allers, if she had filed her story on Thessia yet</description>
+      </conditional>
+      <conditional id="2010">
+        <description>Is Allers allowed to say that she's tired and needs a folding chair (or something)</description>
+      </conditional>
+      <conditional id="2011">
+        <description>Is Allers allowed to make story: "Alliance marines uncover the worst Cerberus war crimes to date."</description>
+      </conditional>
+      <conditional id="2073">
+        <description>Cortez talks about stealth in Cargo hold with James</description>
+      </conditional>
+      <conditional id="2074">
+        <description>Is Cortez allowed to argue with James about Mako?</description>
+      </conditional>
+      <conditional id="2075">
+        <description>Is Cortez allowed to talk about Tequilla?</description>
+      </conditional>
+      <conditional id="2076">
+        <description>Cortez is always in Cargo hold</description>
+      </conditional>
+      <conditional id="2078">
+        <description>Friends with Ashley?</description>
+      </conditional>
+      <conditional id="2152">
+        <description>Kaidan in engineering?</description>
+      </conditional>
+      <conditional id="2163">
+        <description>Time for Cat002? [Kaidan in engineering]</description>
+      </conditional>
+      <conditional id="2227">
+        <description>Adams up in crew quarters with doctor?</description>
+      </conditional>
+      <conditional id="2243">
+        <description>Adams up in mess with doctor?</description>
+      </conditional>
+      <conditional id="2622">
+        <description>Boo available to grab?</description>
+      </conditional>
+      <conditional id="2708">
+        <description>Missions with Ashley ? + her conversation counter is less than argument</description>
+      </conditional>
+    </descriptions>
+    <files>
+      <filename>H:\Games\Mass Effect 3\App\Mass Effect 3\BIOGame\CookedPCConsole\Conditionals.cnd</filename>
+      <filename>H:\Games\Mass Effect 3\App\Mass Effect 3\BIOGame\DLC\DLC_EXP_Pack001\CookedPCConsole\Default\BIOGame\DLC\DLC_EXP_Pack001\CookedPCConsole\ConditionalsDLC_EXP_Pack001.cnd</filename>
+      <filename>H:\Games\Mass Effect 3\App\Mass Effect 3\BIOGame\DLC\DLC_EXP_Pack001\CookedPCConsole\Default\BIOGame\DLC\DLC_EXP_Pack001\CookedPCConsole\ConditionalsDLC_Shared.cnd</filename>
+    </files>
+  </conditionals_database>
+  <state_transition_database>
+    <descriptions>
+      <state_transition id="28">
+        <description>Removes all party members from squad</description>
+      </state_transition>
+      <state_transition id="56">
+        <description>Sets all party members acquisition to true, but some other flags (probably one for each party member)</description>
+      </state_transition>
+      <state_transition id="126">
+        <description>Increments generic ambients in engineering?</description>
+      </state_transition>
+      <state_transition id="205">
+        <description>Shepard asks Tali about "us" (romance) [Tali intro dialog on Normandy]</description>
+      </state_transition>
+      <state_transition id="235">
+        <description>Started Tali intro dialog on Normandy</description>
+      </state_transition>
+      <state_transition id="247">
+        <description>Adds Tali to squad</description>
+      </state_transition>
+      <state_transition id="248">
+        <description>Removes Tali from squad</description>
+      </state_transition>
+      <state_transition id="250">
+        <description>Acquires Tali, but sets some special for her</description>
+      </state_transition>
+      <state_transition id="251">
+        <description>Removes Tali from party</description>
+      </state_transition>
+      <state_transition id="578">
+        <description>Admiral Koris is saved</description>
+      </state_transition>
+      <state_transition id="776">
+        <description>Break-up with Miranda</description>
+      </state_transition>
+      <state_transition id="777">
+        <description>Break-up with Jack (not confirmed)</description>
+      </state_transition>
+      <state_transition id="778">
+        <description>Break-up with Tali (not confirmed)</description>
+      </state_transition>
+      <state_transition id="1522">
+        <description>Put Kenneth onto Normandy</description>
+      </state_transition>
+      <state_transition id="1524">
+        <description>Put Gabby/Ken onboard of Normandy???</description>
+      </state_transition>
+      <state_transition id="1631">
+        <description>Increment number of medigel dispensers fixed</description>
+      </state_transition>
+      <state_transition id="1801">
+        <description>Shepard considers bringing engineers aboard Normandy [conversation in Purgatory]</description>
+      </state_transition>
+      <state_transition id="1918">
+        <description>[no idea, but James' dialog prior to the "dance" uses this to choose whether to go "easy" on Shepard or not, ALSO after the dance whether he says "Next time more hitting, less talking"]</description>
+      </state_transition>
+      <state_transition id="1919">
+        <description>Shepard agrees that James may call him Loco</description>
+      </state_transition>
+      <state_transition id="1920">
+        <description>Shepard agrees that James may call her Lola</description>
+      </state_transition>
+      <state_transition id="2048">
+        <description>Jack wants to know if there's new way off Grissom Academy (Grissom Academy, meeting Jack)</description>
+      </state_transition>
+      <state_transition id="2049">
+        <description>Shepard's sorry that he left Jack (Grissom Academy, meeting with Jack)</description>
+      </state_transition>
+      <state_transition id="2050">
+        <description>Shepard asks Jack about biotic artillery strikes [Grissom Academy, talking with Jack]</description>
+      </state_transition>
+      <state_transition id="2074">
+        <description>Shepard would've liked Liara visiting him/her on Earth, but understands that she didn't [Priority: Mars, meeting with Liara]</description>
+      </state_transition>
+      <state_transition id="2097">
+        <description>Tali wants to keep romance with Shepard quiet [Tali's intro dialog on Normandy]</description>
+      </state_transition>
+      <state_transition id="2100">
+        <description>Increase Ashley's conversation counter</description>
+      </state_transition>
+      <state_transition id="2195">
+        <description>Acquire Adams quest - buy GX12 thermal pipe on Citadel</description>
+      </state_transition>
+      <state_transition id="2197">
+        <description>Engineer Adams informs Shepard on finishing the installation of GX12 thermal pipe</description>
+      </state_transition>
+      <state_transition id="2228">
+        <description>Shepard goes "straight to business" when he/she meets Esteban for the first time</description>
+      </state_transition>
+      <state_transition id="2229">
+        <description>Shepard asks Esteban about the Kodiak shuttle</description>
+      </state_transition>
+      <state_transition id="2230">
+        <description>Shepard asks Esteban about his service record</description>
+      </state_transition>
+      <state_transition id="2231">
+        <description>Shepard asks Esteban about his family (back on Earth)</description>
+      </state_transition>
+      <state_transition id="2274">
+        <description>Shepard asks Esteban about the Hammerhead</description>
+      </state_transition>
+      <state_transition id="2560">
+        <description>Increase paragon points by 2</description>
+      </state_transition>
+      <state_transition id="2561">
+        <description>Increase paragon points by 5</description>
+      </state_transition>
+      <state_transition id="2562">
+        <description>Increase paragon points by 15</description>
+      </state_transition>
+      <state_transition id="2563">
+        <description>Increase renegade points by 2</description>
+      </state_transition>
+      <state_transition id="2564">
+        <description>Increase renegade points by 5</description>
+      </state_transition>
+      <state_transition id="2565">
+        <description>Increase renegade points by 15</description>
+      </state_transition>
+      <state_transition id="2566">
+        <description>Increase reputation points by 2</description>
+      </state_transition>
+      <state_transition id="2567">
+        <description>Increase reputation points by 5</description>
+      </state_transition>
+      <state_transition id="2568">
+        <description>Increase reputation points by 15</description>
+      </state_transition>
+      <state_transition id="2737">
+        <description>[no idea, but it's reset when Shepard starts talking to Esteban for the first time]
+[it's also reset when Shepard asks Esteban if everything is OK with the shuttle]
+[it's also reset when Esteban plays the recording of Robert]</description>
+      </state_transition>
+      <state_transition id="2757">
+        <description>Shepard says that he/she is there anytime Esteban needs him [seems there's no check on gender]</description>
+      </state_transition>
+      <state_transition id="2776">
+        <description>Traynor asks Allers, if all war reporters look so feminine</description>
+      </state_transition>
+      <state_transition id="2777">
+        <description>Allers can't talk with Shepard, because she's about to voice her intro</description>
+      </state_transition>
+      <state_transition id="2778">
+        <description>Traynor talks with Allers about the rachni</description>
+      </state_transition>
+      <state_transition id="2779">
+        <description>Allers' story: [Cerberus] "Assassinations, fixed elections, and drug money--tonight we look at the true face of Cerberus." or [Earth] "Off the radar, reaping begins in rural areas."</description>
+      </state_transition>
+      <state_transition id="2780">
+        <description>Allers' story: "The Arcturus Station destroyed, and the Alliance Parliament, feared dead."</description>
+      </state_transition>
+      <state_transition id="2781">
+        <description>Allers' story: [Cerberus] "Cerberus betrays its principles--with gunfire." or [Earth] "A city of four million, blasted from orbit. Adelaide, Australia is no more."</description>
+      </state_transition>
+      <state_transition id="2782">
+        <description>Traynor talks with Allers about the Genophage cure</description>
+      </state_transition>
+      <state_transition id="2783">
+        <description>Allers' story: "The Citadel in flames. A brazen attack by Cerberus, repelled by C-SEC."</description>
+      </state_transition>
+      <state_transition id="2784">
+        <description>Traynor talks with Allers about Javik</description>
+      </state_transition>
+      <state_transition id="2785">
+        <description>Traynor talks with Allers about the Ardat-Yakshi</description>
+      </state_transition>
+      <state_transition id="2787">
+        <description>Allers' story: [Cerberus] About salarian Councilor or [Earth] A nightmare on Earth. Human leaders using military force on their own people."</description>
+      </state_transition>
+      <state_transition id="2788">
+        <description>Allers' story: "The Exodus Cluster, under heavy attack. Eden Prime and Terra Nova about to fall."</description>
+      </state_transition>
+      <state_transition id="2791">
+        <description>Traynor asks Allers, if she had filed her story on Thessia yet</description>
+      </state_transition>
+      <state_transition id="2792">
+        <description>Allers is tired and needs a folding chair (or something)</description>
+      </state_transition>
+      <state_transition id="2793">
+        <description>Allers' story: "Alliance marines uncover the worst Cerberus war crimes to date."</description>
+      </state_transition>
+      <state_transition id="2795">
+        <description>Allers doesn't need face time from Earth, just a data upload
+ALSO Allers wants Shepard to remind her to tell him/her about the time Allers made an elcor cry</description>
+      </state_transition>
+      <state_transition id="2796">
+        <description>Allers says Cerberus are traitors to Earth and the galaxy [Allers relationship dialog 1]</description>
+      </state_transition>
+      <state_transition id="2825">
+        <description>Shepard kicks Allers off Normandy. Hell Yeah! Scr*w War Assets!</description>
+      </state_transition>
+      <state_transition id="2826">
+        <description>Allers relationship 1 ???</description>
+      </state_transition>
+      <state_transition id="2827">
+        <description>Allers relationship dialog 2</description>
+      </state_transition>
+      <state_transition id="2846">
+        <description>Shepard says that curing genophage is krogan redemption [friendly reply] [Allers relationship dialog 2]</description>
+      </state_transition>
+      <state_transition id="2849">
+        <description>Shepard believes that krogan won't rebel after the war is over [hostile reply] [Allers relationship dialog 2]</description>
+      </state_transition>
+      <state_transition id="3033">
+        <description>Convince Donnely to join Shepard in the fight against Reapers through Charm</description>
+      </state_transition>
+      <state_transition id="3034">
+        <description>Tell Donnely to sober up and "get out of here"</description>
+      </state_transition>
+      <state_transition id="3038">
+        <description>Gabby/Ken argument scene happened ?</description>
+      </state_transition>
+      <state_transition id="3039">
+        <description>Supported Gabby in Gabby/Kenneth argument</description>
+      </state_transition>
+      <state_transition id="3040">
+        <description>Supported Kenneth in Gabby/Kenneth argument</description>
+      </state_transition>
+      <state_transition id="3048">
+        <description>James Vega argues Shepard decision to fall back when battle begins on Mars (switches with Liara) (Priority: Mars, meeting Liara)</description>
+      </state_transition>
+      <state_transition id="3162">
+        <description>Shepard asks Engineer Adams what does he think of EDI</description>
+      </state_transition>
+      <state_transition id="3163">
+        <description>Shepard asks Engineer Adams if his family is okay</description>
+      </state_transition>
+      <state_transition id="3164">
+        <description>Shepard asks Engineer Adams if the new Normandy stack up to the old SR-1</description>
+      </state_transition>
+      <state_transition id="3167">
+        <description>Engineer Adams informs Shepard that GX12 thermal pipe has arrived</description>
+      </state_transition>
+      <state_transition id="3173">
+        <description>Shepard agrees to look for GX12 thermal pipe on Citadel</description>
+      </state_transition>
+      <state_transition id="3195">
+        <description>Got boo!</description>
+      </state_transition>
+      <state_transition id="3235">
+        <description>Inc generic counter [Cortez stuff]</description>
+      </state_transition>
+      <state_transition id="3236">
+        <description>Use relationship ambient [Cortez stuff]</description>
+      </state_transition>
+      <state_transition id="3237">
+        <description>Don't use relationship ambient [Cortez stuff]</description>
+      </state_transition>
+      <state_transition id="3244">
+        <description>Inc one shot counter [Cortez stuff]</description>
+      </state_transition>
+      <state_transition id="3246">
+        <description>Clear one shot</description>
+      </state_transition>
+      <state_transition id="3250">
+        <description>Make Cortez stand at console</description>
+      </state_transition>
+      <state_transition id="3251">
+        <description>Make Cortez to work on shuttle</description>
+      </state_transition>
+      <state_transition id="3252">
+        <description>Make Cortez to work in the armory</description>
+      </state_transition>
+      <state_transition id="3254">
+        <description>Make Cortez sit on crates ???</description>
+      </state_transition>
+      <state_transition id="3328">
+        <description>Kenneth is glad Shepard didn't forget about Kenneth and Gabby down in the engineering</description>
+      </state_transition>
+      <state_transition id="3329">
+        <description>Kenneth and Gabby talks about death of Kelly Chambers</description>
+      </state_transition>
+      <state_transition id="3330">
+        <description>Ken asks Gabby if she had seen EDI's new body</description>
+      </state_transition>
+      <state_transition id="3331">
+        <description>Ken talks about the little mech dog roaming the ship [Collector's Edition special in-game item]</description>
+      </state_transition>
+      <state_transition id="3332">
+        <description>Ken asks Gabby what did she think about the new yeoman, Ms. Traynor</description>
+      </state_transition>
+      <state_transition id="3333">
+        <description>Ken asks Gabby if she had helped repair EDI's mobile frame after the last mission</description>
+      </state_transition>
+      <state_transition id="3334">
+        <description>Ken talks with Gabby about Illusive Man's (poor) choice of liquor</description>
+      </state_transition>
+      <state_transition id="3335">
+        <description>Ken asks Gabby if she had ever seen recordings of Matriarch Benezia</description>
+      </state_transition>
+      <state_transition id="3336">
+        <description>Gabby asks Ken if he ever thought about the time being abducted by the Collectors</description>
+      </state_transition>
+      <state_transition id="3337">
+        <description>Gabby tells Ken that new poker table up in the lounge is going to waste</description>
+      </state_transition>
+      <state_transition id="3338">
+        <description>Shepard caught Kenneth and Gabby "in action"</description>
+      </state_transition>
+      <state_transition id="3339">
+        <description>Gabby asks Kenneth if he thinks Shepard had noticed them together "in action"</description>
+      </state_transition>
+      <state_transition id="3344">
+        <description>Kenneth (and Gabby) talk about Quarian destruction</description>
+      </state_transition>
+      <state_transition id="3345">
+        <description>Kenneth/Gabby tells Shepard the FBA couplings are still holding up</description>
+      </state_transition>
+      <state_transition id="3346">
+        <description>Kenneth whines about keeping the grid balanced</description>
+      </state_transition>
+      <state_transition id="3347">
+        <description>Kenneth wishes Gabby could be on the Normandy to see all this [probably Quarian destruction]</description>
+      </state_transition>
+      <state_transition id="3349">
+        <description>Increases Kenneth's and Gabby's starter dialog counter</description>
+      </state_transition>
+      <state_transition id="3350">
+        <description>Resets Kenneth's and Gabby's starter dialog counter</description>
+      </state_transition>
+      <state_transition id="3412">
+        <description>Allers is talking about Second Star Broadcasting offering her a job</description>
+      </state_transition>
+      <state_transition id="3413">
+        <description>Allers chats about makeup, cameras and the old days</description>
+      </state_transition>
+      <state_transition id="3416">
+        <description>Allers talks about Williams or Kaidan</description>
+      </state_transition>
+      <state_transition id="3417">
+        <description>Allers talks about "Cerberus stealthily striking star system Sheol..."</description>
+      </state_transition>
+      <state_transition id="3418">
+        <description>Allers is complaining about Liara not allowing her to Liara's office</description>
+      </state_transition>
+      <state_transition id="3468">
+        <description>Allers comments on EDI new body</description>
+      </state_transition>
+      <state_transition id="3789">
+        <description>Tali's glad she's on Normandy [Tali's intro dialog on Normandy]</description>
+      </state_transition>
+      <state_transition id="3792">
+        <description>Increment James' generic counter</description>
+      </state_transition>
+      <state_transition id="3793">
+        <description>Reset James' generic counter</description>
+      </state_transition>
+      <state_transition id="3825">
+        <description>Shepard asks James about his family</description>
+      </state_transition>
+      <state_transition id="3826">
+        <description>Shepard asks James about his mission against the Collectors</description>
+      </state_transition>
+      <state_transition id="3827">
+        <description>Shepard asks James if he still wants to head back to Earth</description>
+      </state_transition>
+      <state_transition id="3828">
+        <description>Shepard asks James about Esteban Cortez</description>
+      </state_transition>
+      <state_transition id="3829">
+        <description>Shepard asks James what's up with his nicknames</description>
+      </state_transition>
+      <state_transition id="3861">
+        <description>Increase Tali's dialog counter 1</description>
+      </state_transition>
+      <state_transition id="3862">
+        <description>Resets Tali's dialog counter 1</description>
+      </state_transition>
+      <state_transition id="3863">
+        <description>Increase Tali's dialog counter 2</description>
+      </state_transition>
+      <state_transition id="3885">
+        <description>Set James' investigate dialog done</description>
+      </state_transition>
+      <state_transition id="3886">
+        <description>Resets James' investigate dialog starter counter</description>
+      </state_transition>
+      <state_transition id="3887">
+        <description>Increment James' investigate dialog starting/ending reply counter</description>
+      </state_transition>
+      <state_transition id="3981">
+        <description>Mark had ambient ??? [Ken/Gabby]</description>
+      </state_transition>
+      <state_transition id="3984">
+        <description>Set "Something to with Donelly getting drunk in Purgatory" to true</description>
+      </state_transition>
+      <state_transition id="4099">
+        <description>Mark Kaidan's Cat002 dialog in engineering as done</description>
+      </state_transition>
+      <state_transition id="4161">
+        <description>Initialize Normandy's deck 5</description>
+      </state_transition>
+      <state_transition id="4162">
+        <description>Clear decks on Normandy???</description>
+      </state_transition>
+      <state_transition id="4163">
+        <description>Mark the amb choice active ??? [Gabby/Ken argument]</description>
+      </state_transition>
+      <state_transition id="4164">
+        <description>Mark the amb choice inactive ??? [Gabby/Ken argument]</description>
+      </state_transition>
+      <state_transition id="4165">
+        <description>Resets ambient ??? [Ken/Gabby argument]</description>
+      </state_transition>
+      <state_transition id="4215">
+        <description>Mark ambient choice active [Adams/Donelly argument]</description>
+      </state_transition>
+      <state_transition id="4216">
+        <description>Mark ambient choice inactive [Adams/Donelly argument]</description>
+      </state_transition>
+      <state_transition id="4217">
+        <description>Adams/Donnely argument - support Donelly</description>
+      </state_transition>
+      <state_transition id="4218">
+        <description>Adams/Donnely argument - support Adams</description>
+      </state_transition>
+      <state_transition id="4492">
+        <description>Liara believes she's discovered plans for a Prothean device [Priority: Mars, meeting with Liara]</description>
+      </state_transition>
+      <state_transition id="4627">
+        <description>Reasurring Tali of romance ("Sure thing Miss vas Normandy") [Tali's intro dialog on Normandy]</description>
+      </state_transition>
+      <state_transition id="4661">
+        <description>Shepard denies James calling him/her Loco/Lola</description>
+      </state_transition>
+      <state_transition id="4815">
+        <description>Allers non-text response to Shepard telling her to focus on telling people what's really happening on Earth [Allers relationship dialog 1]</description>
+      </state_transition>
+      <state_transition id="4816">
+        <description>Allers says Shepard has inside track on Cerberus and wants him/her to feed him info [Allers relationship dialog 1]</description>
+      </state_transition>
+      <state_transition id="5556">
+        <description>[Leviathan] Grab husk from Dr. Bryson lab</description>
+      </state_transition>
+    </descriptions>
+    <files>
+      <filename>H:\Games\Mass Effect 3\App\Mass Effect 3\BIOGame\CookedPCConsole\SFXGameInfoSP_SF.pcc</filename>
+      <filename>H:\Games\Mass Effect 3\App\Mass Effect 3\BIOGame\DLC\DLC_EXP_Pack001\CookedPCConsole\Default\BIOGame\DLC\DLC_EXP_Pack001\CookedPCConsole\Startup_EXP_Pack001_INT.pcc</filename>
+    </files>
+  </state_transition_database>
+  <plot_values_descriptions>
+    <bool_values>
+      <value id="33">
+        <description>[ME2] Miranda recruited</description>
+      </value>
+      <value id="34">
+        <description>[ME2] Jacob recruited</description>
+      </value>
+      <value id="35">
+        <description>[ME2] Jack recruited</description>
+      </value>
+      <value id="36">
+        <description>[ME2] Legion recruited</description>
+      </value>
+      <value id="37">
+        <description>[ME2] Kasumi recruited</description>
+      </value>
+      <value id="38">
+        <description>[ME2] Garrus recruited</description>
+      </value>
+      <value id="39">
+        <description>[ME2] Thane recruited</description>
+      </value>
+      <value id="40">
+        <description>[ME2] Tali recruited</description>
+      </value>
+      <value id="41">
+        <description>[ME2] Mordin recruited</description>
+      </value>
+      <value id="42">
+        <description>[ME2] Grunt recruited</description>
+      </value>
+      <value id="43">
+        <description>[ME2] Samara recruited</description>
+      </value>
+      <value id="44">
+        <description>[ME2] Zaeed recruited</description>
+      </value>
+      <value id="177">
+        <description>[ME2] Miranda is loyal</description>
+      </value>
+      <value id="178">
+        <description>[ME2] Jacob is loyal</description>
+      </value>
+      <value id="179">
+        <description>[ME2] Jack is loyal</description>
+      </value>
+      <value id="180">
+        <description>[ME2] Legion is loyal</description>
+      </value>
+      <value id="182">
+        <description>[ME2] Kasumi is loyal</description>
+      </value>
+      <value id="183">
+        <description>[ME2] Garrus is loyal</description>
+      </value>
+      <value id="185">
+        <description>[ME2] Thane is loyal</description>
+      </value>
+      <value id="186">
+        <description>[ME2] Tali is loyal</description>
+      </value>
+      <value id="188">
+        <description>[ME2] Mordin is loyal</description>
+      </value>
+      <value id="189">
+        <description>[ME2] Grunt is loyal</description>
+      </value>
+      <value id="191">
+        <description>[ME2] Samara is loyal</description>
+      </value>
+      <value id="192">
+        <description>[ME2] Zaeed is loyal</description>
+      </value>
+      <value id="195">
+        <description>[ME2] Miranda dead</description>
+      </value>
+      <value id="196">
+        <description>[ME2] Jacob dead</description>
+      </value>
+      <value id="197">
+        <description>[ME2] Jack dead</description>
+      </value>
+      <value id="198">
+        <description>[ME2] Legion dead</description>
+      </value>
+      <value id="199">
+        <description>[ME2] Kasumi dead</description>
+      </value>
+      <value id="200">
+        <description>[ME2] Garrus dead</description>
+      </value>
+      <value id="201">
+        <description>[ME2] Thane dead</description>
+      </value>
+      <value id="202">
+        <description>[ME2] Tali dead</description>
+      </value>
+      <value id="203">
+        <description>[ME2] Mordin dead</description>
+      </value>
+      <value id="204">
+        <description>[ME2] Grunt dead</description>
+      </value>
+      <value id="205">
+        <description>[ME2] Samara/Morinth dead</description>
+      </value>
+      <value id="206">
+        <description>[ME2] Zaeed dead</description>
+      </value>
+      <value id="213">
+        <description>[ME2] Romanced Jack</description>
+      </value>
+      <value id="236">
+        <description>[ME2] Lost a team member during Suicide Mission due to plasma venting into engineering (?)</description>
+      </value>
+      <value id="266">
+        <description>[ME2] Romanced Miranda</description>
+      </value>
+      <value id="267">
+        <description>[ME2] Romanced Jacob</description>
+      </value>
+      <value id="270">
+        <description>[ME2] Romanced Garrus</description>
+      </value>
+      <value id="271">
+        <description>[ME2] Romanced Thane</description>
+      </value>
+      <value id="272">
+        <description>[ME2] Romanced Tali</description>
+      </value>
+      <value id="360">
+        <description>[ME2] [Jacob: The Gift of Greatness] Dad marooned</description>
+      </value>
+      <value id="361">
+        <description>[ME2] [Jacob: The Gift of Greatness] Dad arrested</description>
+      </value>
+      <value id="362">
+        <description>[ME2] [Jacob: The Gift of Greatness] Dad suicide</description>
+      </value>
+      <value id="757">
+        <description>[ME2] Heretics destroyed</description>
+      </value>
+      <value id="759">
+        <description>[ME2] Heretics rewritten</description>
+      </value>
+      <value id="1456">
+        <description>[ME2] Game Completed ???</description>
+      </value>
+      <value id="1497">
+        <description>[ME2] [Jacob: The Gift of Greatness] Completed mission</description>
+      </value>
+      <value id="1498">
+        <description>[ME2/3] Something to do with Jack loyalty mission (biotic potential)</description>
+      </value>
+      <value id="1500">
+        <description>[ME2] [Legion: A House Divided] Completed Mission ???</description>
+      </value>
+      <value id="1503">
+        <description>[ME2] [Tali: Treason] Completed mission (likely due to Shala'Raan dialog branch in ME3)</description>
+      </value>
+      <value id="1664">
+        <description>[ME2] [Samara: The Ardat-Yakshi] Killed Samara</description>
+      </value>
+      <value id="1831">
+        <description>[ME2] Collector base destroyed</description>
+      </value>
+      <value id="1832">
+        <description>[ME2] Collector base saved</description>
+      </value>
+      <value id="2168">
+        <description>[ME2] [Citadel: The Council] Declined reinstatement as Spectre</description>
+      </value>
+      <value id="2169">
+        <description>[ME2] [Citadel: The Council] Accepted reinstatement as Spectre</description>
+      </value>
+      <value id="2676">
+        <description>[ME2] [Mordin: Old Blood] Saved Maelon data</description>
+      </value>
+      <value id="2677">
+        <description>[ME2] [Mordin: Old Blood] Destroyed Maelon data</description>
+      </value>
+      <value id="2851">
+        <description>[ME2] Probably Jack holding the barrier during Suicide Mission</description>
+      </value>
+      <value id="2933">
+        <description>[ME2] [Tali: Treason] Father posthumously exiled</description>
+      </value>
+      <value id="2934">
+        <description>[ME2] [Tali: Treason] Tali exiled</description>
+      </value>
+      <value id="2935">
+        <description>[ME2] [Tali: Treason] Tali found not guilty</description>
+      </value>
+      <value id="2936">
+        <description>[ME2] [Tali: Treason] Tali exonerated</description>
+      </value>
+      <value id="3132">
+        <description>[ME2] [Illium: Conrad Verner] Shot him in the foot</description>
+      </value>
+      <value id="3304">
+        <description>[ME3] Broke up with Miranda</description>
+      </value>
+      <value id="3321">
+        <description>[ME2] Obtained Space Hamster</description>
+      </value>
+      <value id="3322">
+        <description>[ME2] Obtained Illium Skald Fish</description>
+      </value>
+      <value id="3323">
+        <description>[ME2] Obtained Thessian Sunfish</description>
+      </value>
+      <value id="3324">
+        <description>[ME2] Obtained Prejek Paddle Fish</description>
+      </value>
+      <value id="3349">
+        <description>[ME2] Cerberus crew dead</description>
+      </value>
+      <value id="3350">
+        <description>[ME2] Something to do with Cerberus crew (not) surviving Suicide Mission</description>
+      </value>
+      <value id="3351">
+        <description>[ME2] Cerberus crew alive</description>
+      </value>
+      <value id="3629">
+        <description>[ME2] Kelly Chambers dead</description>
+      </value>
+      <value id="3630">
+        <description>[ME2] Chakwas dead</description>
+      </value>
+      <value id="3631">
+        <description>[ME2] Kenneth Donnely dead</description>
+      </value>
+      <value id="3632">
+        <description>[ME2] Gabby Daniels dead</description>
+      </value>
+      <value id="3743">
+        <description>[ME2/3] Probably punching Khalisah Bint Sinan al-Jilani in ME2/3 [used in Allers kicking-out-of-Normandy dialog]</description>
+      </value>
+      <value id="3914">
+        <description>[ME2] Bought FBA couplings (?)</description>
+      </value>
+      <value id="4424">
+        <description>[ME2/3] Probably punching Khalisah Bint Sinan al-Jilani in ME2/3 [used in Allers kicking-out-of-Normandy dialog]</description>
+      </value>
+      <value id="5616">
+        <description>[ME2] Changed difficulty</description>
+      </value>
+      <value id="5978">
+        <description>[ME2] Shepard had a cosmetic surgery [in ME2]</description>
+      </value>
+      <value id="6512">
+        <description>[ME2] [Project Overlord] Completed mission</description>
+      </value>
+      <value id="6561">
+        <description>[ME2] [Project Overlord] David sent to Grissom Academy</description>
+      </value>
+      <value id="6562">
+        <description>[ME2] [Project Overlord] David handed over to Cerberus/Gavin</description>
+      </value>
+      <value id="6637">
+        <description>[ME2] [Kasumi: Stealing Memory] Destroyed graybox</description>
+      </value>
+      <value id="6638">
+        <description>[ME2] [Kasumi: Stealing Memory] Kept graybox</description>
+      </value>
+      <value id="6815">
+        <description>[ME2] [Lair of the Shadow Broker] Completed mission (A) (?)</description>
+      </value>
+      <value id="6941">
+        <description>[ME2] [Lair of the Shadow Broker] Liara toured the Normandy</description>
+      </value>
+      <value id="7035">
+        <description>[ME2] [Lair of the Shadow Broker] Completed mission (B) (?)</description>
+      </value>
+      <value id="7051">
+        <description>[ME2] [Lair of the Shadow Broker] Completed mission (C) (?)</description>
+      </value>
+      <value id="7151">
+        <description>[ME2] [Lair of the Shadow Broker] Completed mission (D) (?)</description>
+      </value>
+      <value id="7200">
+        <description>[ME2] [Lair of the Shadow Broker] Completed mission (E) (?)</description>
+      </value>
+      <value id="7447">
+        <description>[ME2] "Played" Dark Horse ME1 interactive backstory comic aka "Genesis"</description>
+      </value>
+      <value id="7451">
+        <description>[ME2] [Arrival] Completed assignment</description>
+      </value>
+      <value id="7500">
+        <description>[ME2] [Arrival] Tried to warn batarian colony (not sure - from ME2 state transitions)</description>
+      </value>
+      <value id="10174">
+        <description>[ME3] [Rannoch: Admiral Koris] Dialogue state</description>
+      </value>
+      <value id="10176">
+        <description>[ME3] [Rannoch: Geth Fighter Squadrons] Dialogue state</description>
+      </value>
+      <value id="12587">
+        <description>[ME1] [Noveria: Peak 15] Queen released</description>
+      </value>
+      <value id="12588">
+        <description>[ME1] [Noveria: Peak 15] Rachni queen eliminated</description>
+      </value>
+      <value id="12883">
+        <description>[ME1] [Feros: Data Recovery] Retrieved data</description>
+      </value>
+      <value id="13001">
+        <description>[ME1] [Race Against Time: Final Battle] Council saved</description>
+      </value>
+      <value id="13002">
+        <description>[ME1] [Race Against Time: Final Battle] Council killed</description>
+      </value>
+      <value id="13021">
+        <description>[ME1] Wrex dead</description>
+      </value>
+      <value id="13028">
+        <description>[ME1] [Virmire: Wrex and the Genophage] Wrex killed by Ashley</description>
+      </value>
+      <value id="13029">
+        <description>[ME1] [Virmire: Wrex and the Genophage] Wrex killed by Shepard</description>
+      </value>
+      <value id="13046">
+        <description>[ME1] [Feros: The Thorian] Zhu's Hope saved</description>
+      </value>
+      <value id="13197">
+        <description>[ME1] [Feros: The Thorian] Shiala survived</description>
+      </value>
+      <value id="13827">
+        <description>[ME1] [Virmire: Assault] Rescued Ashley</description>
+      </value>
+      <value id="13828">
+        <description>[ME1] [Virmire: Assault] Rescued Kaidan</description>
+      </value>
+      <value id="13899">
+        <description>[ME1] [Citadel: Rita's Sister] Completed assignment</description>
+      </value>
+      <value id="13939">
+        <description>[ME1] Kaidan in party</description>
+      </value>
+      <value id="13940">
+        <description>[ME1] Ashley in party</description>
+      </value>
+      <value id="13941">
+        <description>[ME1/3] Garrus didn't fought the krogan battlemaster on Therum [ME1] (he waited on the Citadel), while Tali did (?), ALSO check for Garrus picking the Thorian as the creepiest thing they fought (?), ALSO chastising Tali for quarians losing Rannoch to the geth</description>
+      </value>
+      <value id="13942">
+        <description>[ME1] Wrex in party</description>
+      </value>
+      <value id="13960">
+        <description>[ME1] Romancing Kaidan</description>
+      </value>
+      <value id="14169">
+        <description>[ME1] Romancing Liara</description>
+      </value>
+      <value id="14281">
+        <description>[ME1] Romancing Ashley</description>
+      </value>
+      <value id="14459">
+        <description>[ME1] [Virmire: Assisting Kirrahe's Team] Geth flyers reported</description>
+      </value>
+      <value id="14464">
+        <description>[ME1] [Virmire: Assisting Kirrahe's Team] Geth flyers disabled</description>
+      </value>
+      <value id="14682">
+        <description>[ME1] [UNC: Rogue VI] Completed assignment</description>
+      </value>
+      <value id="14731">
+        <description>[ME1] [Citadel: The Fan] Met him (Conrad Verner)</description>
+      </value>
+      <value id="14768">
+        <description>[ME1] [Citadel: The Fourth Estate] Punched her (Khalisah al-Jilani)</description>
+      </value>
+      <value id="14913">
+        <description>[ME1] [Citadel: The Fan] Intimidated him (Conrad Verner)</description>
+      </value>
+      <value id="14914">
+        <description>[ME1] [Citadel: The Fan] Charmed him (Conrad Verner)</description>
+      </value>
+      <value id="14915">
+        <description>[ME1] [Citadel: The Fan] Got him killed (Conrad Verner)</description>
+      </value>
+      <value id="15336">
+        <description>[ME1] [Wrex: Family Armor] Completed assignment</description>
+      </value>
+      <value id="15434">
+        <description>[ME1] [Race Against Time: Final Battle] Udina chosed as Councilor</description>
+      </value>
+      <value id="15435">
+        <description>[ME1] [Race Against Time: Final Battle] Anderson chosed as Councilor</description>
+      </value>
+      <value id="15543">
+        <description>[ME1] [Virmire: Wrex and the Genophage] Ashley killed Wrex without permission</description>
+      </value>
+      <value id="16058">
+        <description>[ME1] [Virmire: Assault] Killed Rana Thanoptis</description>
+      </value>
+      <value id="16530">
+        <description>[ME1] Completed ME1</description>
+      </value>
+      <value id="17164">
+        <description>[ME1] [General] Purchased Elkoss Combine license</description>
+      </value>
+      <value id="17291">
+        <description>[ME1] [Bring Down the Sky] Completed assignment</description>
+      </value>
+      <value id="17662">
+        <description>[ME3] Shepard is female</description>
+      </value>
+      <value id="17663">
+        <description>[ME3] Liara in squad</description>
+      </value>
+      <value id="17664">
+        <description>[ME3] Kaidan in squad</description>
+      </value>
+      <value id="17665">
+        <description>[ME3] Ashley in squad</description>
+      </value>
+      <value id="17666">
+        <description>[ME3] Garrus in squad</description>
+      </value>
+      <value id="17667">
+        <description>[ME3] EDI in squad</description>
+      </value>
+      <value id="17668">
+        <description>[ME3] Javik in squad</description>
+      </value>
+      <value id="17678">
+        <description>[ME3] Liara acquired</description>
+      </value>
+      <value id="17679">
+        <description>[ME3] Kaidan acquired</description>
+      </value>
+      <value id="17680">
+        <description>[ME3] Ashley acquired</description>
+      </value>
+      <value id="17681">
+        <description>[ME3] Garrus acquired</description>
+      </value>
+      <value id="17682">
+        <description>[ME3] EDI acquired</description>
+      </value>
+      <value id="17683">
+        <description>[ME3] Javik acquired</description>
+      </value>
+      <value id="17692">
+        <description>[ME3] James in squad</description>
+      </value>
+      <value id="17694">
+        <description>[ME3] James acquired</description>
+      </value>
+      <value id="17787">
+        <description>[ME3] Geth dead</description>
+      </value>
+      <value id="17788">
+        <description>[ME3] Quarians are dead</description>
+      </value>
+      <value id="17789">
+        <description>[ME3] Peace between the geth and quarians</description>
+      </value>
+      <value id="17795">
+        <description>[ME2] Pushing quarians to war with the geth (not sure but likely)</description>
+      </value>
+      <value id="17796">
+        <description>[ME3] Shepard asks Tali about "us" (romance) [Tali intro dialog on Normandy]</description>
+      </value>
+      <value id="17823">
+        <description>[ME3] Started Tali intro dialog on Normandy</description>
+      </value>
+      <value id="17836">
+        <description>[ME3] Tali in squad</description>
+      </value>
+      <value id="17838">
+        <description>[ME3] Tali acquired</description>
+      </value>
+      <value id="18184">
+        <description>[ME3] [Rannoch: Admiral Koris] Saved Admiral Koris</description>
+      </value>
+      <value id="18245">
+        <description>[ME3] Probably James was in squad in the last mission</description>
+      </value>
+      <value id="18913">
+        <description>[ME3] Grunt died in [Attican Traverse: Krogan Team] mission</description>
+      </value>
+      <value id="19186">
+        <description>[ME3] Kai Leng kills salarian Councilor [Esheel] ???</description>
+      </value>
+      <value id="19197">
+        <description>[ME3] Ken is on Normandy</description>
+      </value>
+      <value id="19198">
+        <description>[ME3] Something to do with Kenneth volunteering to crawl through the ducts (OR Ken/Gabby got on board of Normandy??)</description>
+      </value>
+      <value id="19199">
+        <description>[ME3] Convinced Donnely to join Shepard in the fight against Reapers through Charm</description>
+      </value>
+      <value id="19200">
+        <description>[ME3] Something to do with Kenneth volunteering to crawl through the ducts</description>
+      </value>
+      <value id="19448">
+        <description>[ME3] Shepard considers bringing engineers aboard Normandy [conversation in Purgatory]</description>
+      </value>
+      <value id="19577">
+        <description>[ME3] [no idea, but James' dialog prior to the "dance" uses this to choose whether to go "easy" on Shepard or not, ALSO after the dance whether he says "Next time more hitting, less talking"]</description>
+      </value>
+      <value id="19578">
+        <description>[ME3] Shepard agrees that James may call him Loco</description>
+      </value>
+      <value id="19579">
+        <description>[ME3] Shepard agrees that James may call her Lola</description>
+      </value>
+      <value id="19580">
+        <description>[ME3] James' relationship dialog 1 ???</description>
+      </value>
+      <value id="19705">
+        <description>[ME3] Jack wants to know if there's new way off Grissom Academy (Grissom Academy, meeting Jack)</description>
+      </value>
+      <value id="19706">
+        <description>[ME3] Shepard's sorry that he left Jack (Grissom Academy, meeting with Jack)</description>
+      </value>
+      <value id="19707">
+        <description>[ME3] Shepard asks Jack about biotic artillery strikes [Grissom Academy, talking with Jack]</description>
+      </value>
+      <value id="19722">
+        <description>[ME3] Romancing Liara</description>
+      </value>
+      <value id="19723">
+        <description>[ME3] Romancing Kaidan</description>
+      </value>
+      <value id="19724">
+        <description>[ME3] Romancing Ashley</description>
+      </value>
+      <value id="19725">
+        <description>[ME3] Romancing Garrus</description>
+      </value>
+      <value id="19726">
+        <description>[ME3] Romancing Tali</description>
+      </value>
+      <value id="19835">
+        <description>[ME3] Romancing Samantha Traynor</description>
+      </value>
+      <value id="19838">
+        <description>[ME3] Romancing Steve/Esteban Cortez</description>
+      </value>
+      <value id="19912">
+        <description>[ME3] Acquired Adams quest - buy GX12 thermal pipe on Citadel</description>
+      </value>
+      <value id="19913">
+        <description>[ME3] Purchased GX12 thermal pipe [Adams quest]</description>
+      </value>
+      <value id="19914">
+        <description>[ME3] Engineer Adams informs Shepard on finishing the installation of GX12 thermal pipe</description>
+      </value>
+      <value id="19945">
+        <description>[ME3] Shepard goes "straight to business" when he/she meets Esteban for the first time</description>
+      </value>
+      <value id="19946">
+        <description>[ME3] Shepard asks Esteban about the Kodiak shuttle</description>
+      </value>
+      <value id="19947">
+        <description>[ME3] Shepard asks Esteban about his service record</description>
+      </value>
+      <value id="19948">
+        <description>[ME3] Shepard asks Esteban about his family (back on Earth)</description>
+      </value>
+      <value id="19995">
+        <description>[ME3] Shepard asks Esteban about the Hammerhead</description>
+      </value>
+      <value id="20045">
+        <description>[ME3] Something to do with Aria/Shepard/Omega</description>
+      </value>
+      <value id="20184">
+        <description>[ME3] Warned Miranda about Kai Leng (not sure)</description>
+      </value>
+      <value id="20278">
+        <description>[ME3] Miranda killed (by Kai Leng) (not sure)</description>
+      </value>
+      <value id="20347">
+        <description>[ME3] Probably Kaidan acquired</description>
+      </value>
+      <value id="20496">
+        <description>[ME3] [no idea, but it's reset when Shepard starts talking to Esteban for the first time] [it's also reset when Shepard asks Esteban if everything is OK with the shuttle] [it's also reset when Esteban plays the recording of Robert]</description>
+      </value>
+      <value id="20557">
+        <description>[ME3] Shepard "knows" that the downtime between missions is hard [after talking with Esteban]</description>
+      </value>
+      <value id="20577">
+        <description>[ME3] Allers can't talk with Shepard, because she's about to voice her intro</description>
+      </value>
+      <value id="20578">
+        <description>[ME3] Traynor asks Allers, if all war reporters look so feminine</description>
+      </value>
+      <value id="20579">
+        <description>[ME3] Traynor talks with Allers about the rachni</description>
+      </value>
+      <value id="20580">
+        <description>[ME3] Allers' story: [Cerberus] "Assassinations, fixed elections, and drug money--tonight we look at the true face of Cerberus." or [Earth] "Off the radar, reaping begins in rural areas."</description>
+      </value>
+      <value id="20581">
+        <description>[ME3] Allers' story: "The Arcturus Station destroyed, and the Alliance Parliament, feared dead."</description>
+      </value>
+      <value id="20582">
+        <description>[ME3] Allers' story: [Cerberus] "Cerberus betrays its principles--with gunfire." or [Earth] "A city of four million, blasted from orbit. Adelaide, Australia is no more."</description>
+      </value>
+      <value id="20583">
+        <description>[ME3] Traynor talks with Allers about the Genophage cure</description>
+      </value>
+      <value id="20584">
+        <description>[ME3] Allers' story: "The Citadel in flames. A brazen attack by Cerberus, repelled by C-SEC."</description>
+      </value>
+      <value id="20585">
+        <description>[ME3] Traynor talks with Allers about Javik</description>
+      </value>
+      <value id="20586">
+        <description>[ME3] Traynor talks with Allers about the Ardat-Yakshi</description>
+      </value>
+      <value id="20587">
+        <description>[ME3] Allers' story: [Cerberus] About salarian Councilor or [Earth] A nightmare on Earth. Human leaders using military force on their own people."</description>
+      </value>
+      <value id="20588">
+        <description>[ME3] "The Exodus Cluster, under heavy attack. Eden Prime and Terra Nova about to fall."</description>
+      </value>
+      <value id="20591">
+        <description>[ME3] Traynor asks Allers, if she had filed her story on Thessia yet</description>
+      </value>
+      <value id="20592">
+        <description>[ME3] Allers is tired and needs a folding chair (or something)</description>
+      </value>
+      <value id="20593">
+        <description>[ME3] Allers' story: "Alliance marines uncover the worst Cerberus war crimes to date."</description>
+      </value>
+      <value id="20595">
+        <description>[ME3] Allers doesn't need face time from Earth, just a data upload ALSO Allers wants Shepard to remind her to tell him/her about the time Allers made an elcor cry</description>
+      </value>
+      <value id="20596">
+        <description>[ME3] Allers says Cerberus are traitors to Earth and the galaxy [relationship 1 dialog]</description>
+      </value>
+      <value id="20624">
+        <description>[ME3] Shepard kicks Allers off Normandy. Hell Yeah! Scr*w War Assets!</description>
+      </value>
+      <value id="20625">
+        <description>[ME3] Allers relationship 1 ???</description>
+      </value>
+      <value id="20626">
+        <description>[ME3] Allers relationship dialog 2 ???</description>
+      </value>
+      <value id="20631">
+        <description>[ME3] Something to do with Allers' interview with Shepard</description>
+      </value>
+      <value id="20647">
+        <description>[ME3] Shepard says that curing genophage is krogan redemption [friendly reply] [Allers relationship dialog 2]</description>
+      </value>
+      <value id="20650">
+        <description>[ME3] Shepard believes that krogan won't rebel after the war is over [hostile reply] [Allers relationship dialog 2]</description>
+      </value>
+      <value id="20697">
+        <description>[ME3] Supported Allers [Allers/unknown NPC argument over airing Allers' "controversial" opinion on "not needing Terra Nova"]</description>
+      </value>
+      <value id="20700">
+        <description>[ME3] Supported unknown male from crew [Allers/unknown NPC argument over airing Allers' "controversial" opinion on "not needing Terra Nova"]</description>
+      </value>
+      <value id="20841">
+        <description>[ME3] Tell Donnely to sober up and "get out of here"</description>
+      </value>
+      <value id="20845">
+        <description>[ME3] Supported Gabby in Gabby/Kenneth argument</description>
+      </value>
+      <value id="20846">
+        <description>[ME3] Gabby/Ken argument scene happened ?</description>
+      </value>
+      <value id="20847">
+        <description>[ME3] Supported Kenneth in Gabby/Kenneth argument</description>
+      </value>
+      <value id="21017">
+        <description>[ME3] Shepard asks Engineer Adams what does he think of EDI</description>
+      </value>
+      <value id="21018">
+        <description>[ME3] Shepard asks Engineer Adams if his family is okay</description>
+      </value>
+      <value id="21019">
+        <description>[ME3] Shepard asks Engineer Adams if the new Normandy stack up to the old SR-1</description>
+      </value>
+      <value id="21022">
+        <description>[ME3] Engineer Adams informs Shepard that GX12 thermal pipe has arrived</description>
+      </value>
+      <value id="21025">
+        <description>[ME3] Acquired Adams quest - buy GX12 thermal pipe on Citadel [not sure since 19912 seems to do the same thing]</description>
+      </value>
+      <value id="21026">
+        <description>[ME3] Shepard agrees to look for GX12 thermal pipe on Citadel</description>
+      </value>
+      <value id="21041">
+        <description>[ME3] Got boo?</description>
+      </value>
+      <value id="21080">
+        <description>[ME3] Relationship ambient [Cortez stuff] ???</description>
+      </value>
+      <value id="21084">
+        <description>[ME3] One shot [Cortez stuff] ???</description>
+      </value>
+      <value id="21166">
+        <description>[ME3] Kenneth is glad Shepard didn't forget about Kenneth and Gabby down in the engineering</description>
+      </value>
+      <value id="21167">
+        <description>[ME3] Kenneth and Gabby talks about death of Kelly Chambers</description>
+      </value>
+      <value id="21169">
+        <description>[ME3] Ken asks Gabby if she had seen EDI's new body</description>
+      </value>
+      <value id="21170">
+        <description>[ME3] Ken talks about the little mech dog roaming the ship [Collector's Edition special in-game item]</description>
+      </value>
+      <value id="21171">
+        <description>[ME3] Ken asks Gabby what did she think about the new yeoman, Ms. Traynor</description>
+      </value>
+      <value id="21172">
+        <description>[ME3] Ken asks Gabby if she had helped repair EDI's mobile frame after the last mission</description>
+      </value>
+      <value id="21173">
+        <description>[ME3] Ken talks with Gabby about Illusive Man's (poor) choice of liquor</description>
+      </value>
+      <value id="21174">
+        <description>[ME3] Ken asks Gabby if she had ever seen recordings of Matriarch Benezia</description>
+      </value>
+      <value id="21175">
+        <description>[ME3] Gabby asks Ken if he ever thought about the time being abducted by the Collectors</description>
+      </value>
+      <value id="21176">
+        <description>[ME3] Gabby tells Ken that new poker table up in the lounge is going to waste</description>
+      </value>
+      <value id="21177">
+        <description>[ME3] Shepard caught Kenneth and Gabby "in action"</description>
+      </value>
+      <value id="21178">
+        <description>[ME3] Gabby asks Kenneth if he thinks Shepard had noticed them together "in action"</description>
+      </value>
+      <value id="21180">
+        <description>[ME3] Kenneth (and Gabby) talk about Quarian destruction</description>
+      </value>
+      <value id="21183">
+        <description>[ME3] Kenneth (and Gabby) talk about Quarian destruction</description>
+      </value>
+      <value id="21184">
+        <description>[ME3] Kenneth/Gabby tells Shepard the FBA couplings are still holding up</description>
+      </value>
+      <value id="21185">
+        <description>[ME3] Kenneth whines about keeping the grid balanced</description>
+      </value>
+      <value id="21186">
+        <description>[ME3] Kenneth wishes Gabby could be on the Normandy to see all this [probably Quarian destruction]</description>
+      </value>
+      <value id="21187">
+        <description>[ME3] KEI-9 is in the Cargo hold</description>
+      </value>
+      <value id="21196">
+        <description>[ME3] [Citadel: Hanar Diplomat] Completed mission</description>
+      </value>
+      <value id="21342">
+        <description>[ME3] Allers relationship 1 ???</description>
+      </value>
+      <value id="21343">
+        <description>[ME3] Allers is talking about Second Star Broadcasting offering her a job</description>
+      </value>
+      <value id="21344">
+        <description>[ME3] Allers chats about makeup, cameras and the old days</description>
+      </value>
+      <value id="21347">
+        <description>[ME3] Allers talks about Williams or Kaidan</description>
+      </value>
+      <value id="21348">
+        <description>[ME3] Allers talks about "Cerberus stealthily striking star system Sheol..."</description>
+      </value>
+      <value id="21349">
+        <description>[ME3] Allers is complaining about Liara not allowing her to Liara's office</description>
+      </value>
+      <value id="21410">
+        <description>[ME3] Allers comments on EDI new body</description>
+      </value>
+      <value id="21451">
+        <description>[ME3] [Citadel: Hanar Diplomat] Saved homeworld</description>
+      </value>
+      <value id="21518">
+        <description>[ME3] Tali's glad she's on Normandy [Tali's intro dialog on Normandy]</description>
+      </value>
+      <value id="21531">
+        <description>[ME3] Weapon Upgrade Kit unlocked</description>
+      </value>
+      <value id="21532">
+        <description>[ME3] Weapon Upgrade Kit purchased</description>
+      </value>
+      <value id="21533">
+        <description>[ME3] Intel from Battle of Arcturus unlocked</description>
+      </value>
+      <value id="21534">
+        <description>[ME3] Intel from Battle of Arcturus purchased</description>
+      </value>
+      <value id="21535">
+        <description>[ME3] Biotic Research Data unlocked</description>
+      </value>
+      <value id="21536">
+        <description>[ME3] Biotic Research Data purchased</description>
+      </value>
+      <value id="21537">
+        <description>[ME3] Remains of Reaper Destroyer unlocked</description>
+      </value>
+      <value id="21538">
+        <description>[ME3] Remains of Reaper Destroyer purchased</description>
+      </value>
+      <value id="21539">
+        <description>[ME3] Intact Reaper Weapon unlocked</description>
+      </value>
+      <value id="21540">
+        <description>[ME3] Intact Reaper Weapon purchased</description>
+      </value>
+      <value id="21541">
+        <description>[ME3] Volus Intelligence Archives unlocked</description>
+      </value>
+      <value id="21542">
+        <description>[ME3] Volus Intelligence Archives purchased</description>
+      </value>
+      <value id="21543">
+        <description>[ME3] Improved Geth Resistors unlocked</description>
+      </value>
+      <value id="21544">
+        <description>[ME3] Improved Geth Resistors purchased</description>
+      </value>
+      <value id="21545">
+        <description>[ME3] Miniaturized Armor Capacitors unlocked</description>
+      </value>
+      <value id="21546">
+        <description>[ME3] Miniaturized Armor Capacitors purchased</description>
+      </value>
+      <value id="21547">
+        <description>[ME3] Gallea's Electronic Signature unlocked</description>
+      </value>
+      <value id="21548">
+        <description>[ME3] Gallea's Electronic Signature purchased</description>
+      </value>
+      <value id="21549">
+        <description>[ME3] Prejek Paddlefish unlocked</description>
+      </value>
+      <value id="21550">
+        <description>[ME3] Prejek Paddlefish purchased</description>
+      </value>
+      <value id="21554">
+        <description>Is ME2 import</description>
+      </value>
+      <value id="21750">
+        <description>[ME3] Romanced Miranda (not sure)</description>
+      </value>
+      <value id="21832">
+        <description>[ME3] Shepard asks James about his family</description>
+      </value>
+      <value id="21833">
+        <description>[ME3] Shepard asks James about his mission against the Collectors</description>
+      </value>
+      <value id="21834">
+        <description>[ME3] Shepard asks James if he still wants to head back to Earth</description>
+      </value>
+      <value id="21835">
+        <description>[ME3] Shepard asks James about Esteban Cortez</description>
+      </value>
+      <value id="21836">
+        <description>[ME3] Shepard asks James what's up with his nicknames</description>
+      </value>
+      <value id="21878">
+        <description>[ME3] Set James' investigate dialog done</description>
+      </value>
+      <value id="22000">
+        <description>[ME3] Liara believes she's discovered plans for a Prothean device [Priority: Mars, meeting with Liara]</description>
+      </value>
+      <value id="22080">
+        <description>[ME3] Had ambient ??? [Ken/Gabby]</description>
+      </value>
+      <value id="22084">
+        <description>[ME3] Something to with Donelly getting drunk in Purgatory</description>
+      </value>
+      <value id="22122">
+        <description>[ME3] James prepared eggs</description>
+      </value>
+      <value id="22185">
+        <description>[ME3] Kaidan's Cat002 dialog in engineering</description>
+      </value>
+      <value id="22226">
+        <description>Is ME1 import</description>
+      </value>
+      <value id="22244">
+        <description>[ME3] Normandy's deck 1 ???</description>
+      </value>
+      <value id="22245">
+        <description>[ME3] Normandy's deck 2 ???</description>
+      </value>
+      <value id="22246">
+        <description>[ME3] Normandy's deck 3 ???</description>
+      </value>
+      <value id="22247">
+        <description>[ME3] Normandy's deck 4 ???</description>
+      </value>
+      <value id="22248">
+        <description>[ME3] Normandy's deck 5 ???</description>
+      </value>
+      <value id="22249">
+        <description>[ME3] The amb choice active ??? [Gabby/Ken argument]</description>
+      </value>
+      <value id="22310">
+        <description>[ME2/3] Admiral Xen dead</description>
+      </value>
+      <value id="22317">
+        <description>[ME3] Ambient choice inactive [Adams/Donelly argument]</description>
+      </value>
+      <value id="22318">
+        <description>[ME3] Adams/Donnely argument - support Adams</description>
+      </value>
+      <value id="22319">
+        <description>[ME3] Adams/Donnelly argument - support Donnelly</description>
+      </value>
+      <value id="22419">
+        <description>[ME3] Armor Modkit unlocked</description>
+      </value>
+      <value id="22420">
+        <description>[ME3] Armor Modkit purchased</description>
+      </value>
+      <value id="22421">
+        <description>[ME3] Advanced Biotic Amps unlocked</description>
+      </value>
+      <value id="22422">
+        <description>[ME3] Advanced Biotic Amps purchased</description>
+      </value>
+      <value id="22465">
+        <description>[ME3] Reasurring Tali of romance: Sure thing Miss vas Normandy [Tali's intro dialog on Normandy]</description>
+      </value>
+      <value id="22497">
+        <description>[ME3] Shepard denies James calling him/her Loco/Lola</description>
+      </value>
+      <value id="22641">
+        <description>[ME3] Med Bay Surgery purchased</description>
+      </value>
+      <value id="22642">
+        <description>[ME3] Shepard had a cosmetic surgery [in ME3]</description>
+      </value>
+      <value id="22718">
+        <description>[ME3] Allers non-text response to Shepard telling her to focus on telling people what's really happening on Earth [Allers relationship dialog 1]</description>
+      </value>
+      <value id="22720">
+        <description>[ME3] Allers says Shepard has inside track on Cerberus and wants him/her to feed him info [relationship 1 dialog]</description>
+      </value>
+      <value id="23484">
+        <description>[ME3] [Leviathan] Grabbed husk from Dr. Bryson lab</description>
+      </value>
+    </bool_values>
+    <int_values>
+      <value id="213">
+        <description>[ME2] Romance state with Jack (romancing = 5, broken up = 6)</description>
+      </value>
+      <value id="266">
+        <description>[ME2] Romance state with Miranda (romancing = 5, broken up = 6)</description>
+      </value>
+      <value id="267">
+        <description>[ME2] Romance state with Jacob (romancing = 5, broken up = 6)</description>
+      </value>
+      <value id="270">
+        <description>[ME2] Romance state with Garrus (romancing = 5, broken up = 6)</description>
+      </value>
+      <value id="271">
+        <description>[ME2] Romance state with Thane (romancing = 5, broken up = 6)</description>
+      </value>
+      <value id="272">
+        <description>[ME2/3] Romance state with Tali (romancing = 5, broken up = 6)</description>
+      </value>
+      <value id="485">
+        <description>[ME2] Illium Skald Fish state</description>
+      </value>
+      <value id="486">
+        <description>[ME2] Thessian Sunfish state</description>
+      </value>
+      <value id="487">
+        <description>[ME2] Prejek Paddle Fish state</description>
+      </value>
+      <value id="10015">
+        <description>[ME1] Kaidan romance state</description>
+      </value>
+      <value id="10016">
+        <description>[ME1] Liara romance state</description>
+      </value>
+      <value id="10017">
+        <description>[ME1] Ashley romance state</description>
+      </value>
+      <value id="10054">
+        <description>[UNC: Asari Writings] Writings found (more than 10 completed, 16 max.)</description>
+      </value>
+      <value id="10065">
+        <description>Persuade multiplier</description>
+      </value>
+      <value id="10151">
+        <description>Character class</description>
+      </value>
+      <value id="10159">
+        <description>Paragon points</description>
+      </value>
+      <value id="10160">
+        <description>Renegade points</description>
+      </value>
+      <value id="10182">
+        <description>[ME3] Garrus and Tali didn't fight the rachni queen (ME1 or ME3) (?)</description>
+      </value>
+      <value id="10209">
+        <description>Generic ambients in engineering?</description>
+      </value>
+      <value id="10212">
+        <description>[ME3] [Priority: Rannoch] Points toward Geth and Quarian peace (at least 5 for peace)</description>
+      </value>
+      <value id="10281">
+        <description>[ME3] Number of medigel dispensers fixed ???</description>
+      </value>
+      <value id="10296">
+        <description>Childhood</description>
+      </value>
+      <value id="10297">
+        <description>Reputation</description>
+      </value>
+      <value id="10300">
+        <description>Extra medigel</description>
+      </value>
+      <value id="10314">
+        <description>[ME3] Ashley.Missions ?</description>
+      </value>
+      <value id="10320">
+        <description>[ME3] Shepard would've liked Liara visiting him/her on Earth, but understands that she didn't [Priority: Mars, meeting with Liara]</description>
+      </value>
+      <value id="10327">
+        <description>[ME3] Tali conversation (???)</description>
+      </value>
+      <value id="10328">
+        <description>[ME3] Liara conversation (???)</description>
+      </value>
+      <value id="10329">
+        <description>[ME3] Kaidan conversation (???)</description>
+      </value>
+      <value id="10330">
+        <description>[ME3] Ashley's conversation counter</description>
+      </value>
+      <value id="10331">
+        <description>[ME3] Garrus conversation (???)</description>
+      </value>
+      <value id="10332">
+        <description>[ME3] EDI conversation (???)</description>
+      </value>
+      <value id="10335">
+        <description>[ME3] James conversation (???)</description>
+      </value>
+      <value id="10380">
+        <description>Reputation points</description>
+      </value>
+      <value id="10430">
+        <description>[ME3] Effective Military Strength</description>
+      </value>
+      <value id="10440">
+        <description>[ME3] Generic counter [Cortez stuff]</description>
+      </value>
+      <value id="10441">
+        <description>[ME3] Cortez state (0: sitting at crates ?, 1: standing at console, 2: working on shuttle, 3: work in the armory) ???</description>
+      </value>
+      <value id="10442">
+        <description>[ME3] One shot counter [Cortez stuff] ???</description>
+      </value>
+      <value id="10453">
+        <description>[ME3] Kenneth's and Gabby's starter dialog counter</description>
+      </value>
+      <value id="10635">
+        <description>[ME3] James' generic counter</description>
+      </value>
+      <value id="10648">
+        <description>[ME3] Tali's dialog counter 1</description>
+      </value>
+      <value id="10649">
+        <description>[ME3] Tali's dialog counter 2</description>
+      </value>
+      <value id="10651">
+        <description>[ME3] Probably Garrus and/or Tali's banter</description>
+      </value>
+      <value id="10652">
+        <description>[ME3] Probably Garrus and/or Tali's banter</description>
+      </value>
+      <value id="10657">
+        <description>[ME3] James' investigate dialog starting/ending reply counter</description>
+      </value>
+    </int_values>
+    <float_values />
+  </plot_values_descriptions>
+  <characters>
+    <character friendly_name="Liara T'soni">
+      <actor_tag>twrhub_liara</actor_tag>
+      <actor_tag>twrli1_liara</actor_tag>
+      <actor_tag>hench_liara</actor_tag>
+      <actor_tag>shdli4_liararadio</actor_tag>
+      <actor_tag>radio_liara</actor_tag>
+    </character>
+    <character friendly_name="Admiral Hackett">
+      <actor_tag>proear_hackett</actor_tag>
+      <actor_tag>global_hackett</actor_tag>
+    </character>
+    <character friendly_name="David Anderson">
+      <actor_tag>npc_anderson</actor_tag>
+      <actor_tag>proear_anderson</actor_tag>
+      <actor_tag>radio_global_anderson</actor_tag>
+      <actor_tag>radio_anderson</actor_tag>
+      <actor_tag>global_anderson</actor_tag>
+    </character>
+    <character friendly_name="James Vega">
+      <actor_tag>proear_james</actor_tag>
+      <actor_tag>hench_marine</actor_tag>
+      <actor_tag>radio_james</actor_tag>
+    </character>
+    <character friendly_name="Ashley Williams">
+      <actor_tag>proear_ashley</actor_tag>
+      <actor_tag>hench_ashley</actor_tag>
+      <actor_tag>radio_ash</actor_tag>
+    </character>
+    <character friendly_name="Mordin Solus">
+      <actor_tag>global_mordin</actor_tag>
+      <actor_tag>radio_mordin</actor_tag>
+    </character>
+    <character friendly_name="Kaidan Alenko">
+      <actor_tag>proear_kaidan</actor_tag>
+      <actor_tag>hench_kaidan</actor_tag>
+      <actor_tag>radio_kaidan</actor_tag>
+    </character>
+    <character friendly_name="Urdnot Wrex">
+      <actor_tag>global_wrex</actor_tag>
+    </character>
+    <character friendly_name="Urdnot Wreav">
+      <actor_tag>global_wreav</actor_tag>
+      <actor_tag>radio_wreav</actor_tag>
+    </character>
+    <character friendly_name="Garrus Vakarian">
+      <actor_tag>hench_garrus</actor_tag>
+      <actor_tag>radio_garrus</actor_tag>
+    </character>
+    <character friendly_name="EDI">
+      <actor_tag>hench_edi</actor_tag>
+      <actor_tag>radio_edi</actor_tag>
+    </character>
+    <character friendly_name="Javik">
+      <actor_tag>hench_prothean</actor_tag>
+    </character>
+    <character friendly_name="Jeff &quot;Joker&quot; Moreau">
+      <actor_tag>radio_joker</actor_tag>
+      <actor_tag>global_joker</actor_tag>
+    </character>
+    <character friendly_name="Illusive Man">
+      <actor_tag>illusiveman_holo</actor_tag>
+      <actor_tag>global_illusive_man</actor_tag>
+    </character>
+    <character friendly_name="Jack">
+      <actor_tag>global_jack</actor_tag>
+    </character>
+    <character friendly_name="Jason Prangley">
+      <actor_tag>omgjck_student_leader</actor_tag>
+    </character>
+    <character friendly_name="Rodriguez">
+      <actor_tag>omgjck_student2</actor_tag>
+    </character>
+    <character friendly_name="Idle student 1.">
+      <actor_tag>omgjck_idlestudent1</actor_tag>
+    </character>
+    <character friendly_name="Idle student 2.">
+      <actor_tag>omgjck_idlestudent2</actor_tag>
+    </character>
+    <character friendly_name="Cerberus Commander">
+      <actor_tag>omgjck_cerberus_commander</actor_tag>
+    </character>
+    <character friendly_name="Kahlee Sanders">
+      <actor_tag>omgjck_radio_kahlee</actor_tag>
+      <actor_tag>omgjck_video_kahleesanders</actor_tag>
+    </character>
+    <character friendly_name="Esteban Cortez">
+      <actor_tag>radio_shuttle_pilot</actor_tag>
+      <actor_tag>nor_pilot</actor_tag>
+    </character>
+    <character friendly_name="Tali'Zorah">
+      <actor_tag>hench_tali</actor_tag>
+      <actor_tag>radio_tali</actor_tag>
+    </character>
+    <character friendly_name="Commander Bailey">
+      <actor_tag>radio_bailey</actor_tag>
+      <actor_tag>global_bailey</actor_tag>
+    </character>
+    <character friendly_name="Udina aka. The Traitor">
+      <actor_tag>global_udina</actor_tag>
+    </character>
+    <character friendly_name="Jacob">
+      <actor_tag>radio_jacob</actor_tag>
+      <actor_tag>global_jacob</actor_tag>
+    </character>
+    <character friendly_name="Prothean VI">
+      <actor_tag>global_prothean_vi</actor_tag>
+    </character>
+    <character friendly_name="Miranda Lawson">
+      <actor_tag>global_miranda</actor_tag>
+      <actor_tag>radio_global_miranda</actor_tag>
+    </character>
+    <character friendly_name="Oriana">
+      <actor_tag>global_oriana</actor_tag>
+      <actor_tag>radio_global_oriana</actor_tag>
+    </character>
+    <character friendly_name="Zaeed Massani">
+      <actor_tag>global_zaeed</actor_tag>
+    </character>
+    <character friendly_name="Aria T'Loak">
+      <actor_tag>radio_aria</actor_tag>
+    </character>
+    <character friendly_name="Eve">
+      <actor_tag>radio_krogan_female</actor_tag>
+      <actor_tag>global_krogan_female</actor_tag>
+    </character>
+    <character friendly_name="Grunt">
+      <actor_tag>radio_grunt</actor_tag>
+      <actor_tag>global_grunt</actor_tag>
+    </character>
+    <character friendly_name="Admiral Hackett">
+      <actor_tag>global_hackett</actor_tag>
+      <actor_tag>proear_hackett</actor_tag>
+    </character>
+    <character friendly_name="Admiral Zaal'Koris">
+      <actor_tag>global_koris</actor_tag>
+      <actor_tag>radio_koris</actor_tag>
+    </character>
+    <character friendly_name="Dr. Chakwas">
+      <actor_tag>nor_chakwas</actor_tag>
+    </character>
+    <character friendly_name="Dr. Michel">
+      <actor_tag>nor_michel</actor_tag>
+    </character>
+    <character friendly_name="Engineer Adams">
+      <actor_tag>nor_adams</actor_tag>
+      <actor_tag>radio_adams</actor_tag>
+    </character>
+    <character friendly_name="Kenneth Donnelly">
+      <actor_tag>nor_ken</actor_tag>
+      <actor_tag>radio_ken</actor_tag>
+    </character>
+    <character friendly_name="Gabriella Daniels">
+      <actor_tag>nor_gabby</actor_tag>
+    </character>
+    <character friendly_name="Admiral Daro'Xen">
+      <actor_tag>radio_xen</actor_tag>
+      <actor_tag>global_xen</actor_tag>
+    </character>
+    <character friendly_name="Admiral Han'Gerrel">
+      <actor_tag>radio_han</actor_tag>
+      <actor_tag>global_han</actor_tag>
+    </character>
+    <character friendly_name="Legion">
+      <actor_tag>global_legion</actor_tag>
+      <actor_tag>radio_legion</actor_tag>
+    </character>
+    <character friendly_name="Tevos (old asari councilor)">
+      <actor_tag>global_oldcouncil_asari</actor_tag>
+    </character>
+    <character friendly_name="Irissa (new asari councilor)">
+      <actor_tag>global_newcouncil_asari</actor_tag>
+    </character>
+    <character friendly_name="Valern (old salarian councilor)">
+      <actor_tag>global_oldcouncil_salarian</actor_tag>
+    </character>
+    <character friendly_name="Esheel (new salarian councilor)">
+      <actor_tag>global_newcouncil_salarian</actor_tag>
+    </character>
+    <character friendly_name="Sparatus (old turian councilor)">
+      <actor_tag>global_oldcouncil_turian</actor_tag>
+    </character>
+    <character friendly_name="Quentius (new turian councilor)">
+      <actor_tag>global_newcouncil_turian</actor_tag>
+    </character>
+    <character friendly_name="Immigration officer">
+      <actor_tag>citwrd_immigration_officer</actor_tag>
+    </character>
+  </characters>
+</plot_database>

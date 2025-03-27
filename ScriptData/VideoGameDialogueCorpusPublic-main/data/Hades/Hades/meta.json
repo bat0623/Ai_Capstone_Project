@@ -1,0 +1,112 @@
+{
+	"game": "Hades",
+	"series": "Hades",
+	"year": 2018,
+	"status": "in progress",
+	"source": "https://hades-dialogue-resources.carrd.co/",
+	"alternativeMeasure": true,
+	"sourceFeatures": {
+		"type": "game data",
+		"completeness": "high",
+		"dialogueOrder": true,
+		"choices": "None"
+	},
+	"parserParameters": {
+		"parser": "HadesParser2",
+		"fileType": ".lua"
+	},
+	"mainPlayerCharacters": ["Zagreus"],
+	"characterGroups": {
+		"male": [
+			"Hades",
+			"Achilles",
+			"Charon",
+			"Hypnos",
+			"Orpheus",
+			"Patroclus",
+			"Sisyphus",
+			"Storyteller",
+			"Thanatos",
+			"Zagreus",
+			"Ares",
+			"Dionysus",
+			"Hermes",
+			"Poseidon",
+			"Zeus",
+			"Asterius",
+			"Skelly",
+			"Theseus",
+			"Bouldy"
+		],
+		"female": [
+			"Eurydice",
+			"Megaera",
+			"Nyx",
+			"Dusa",
+			"Persephone",
+			"Aphrodite",
+			"Artemis",
+			"Athena",
+			"Demeter",
+			"Alecto",			
+			"Tisiphone"
+		],
+		"genderless":[
+			"Chaos"
+		],
+		"neutral": [
+		],
+		"droppedMale": [
+			"DROPPED_Ares",
+			"DROPPED_Hades",
+			"DROPPED_Hypnos",
+			"DROPPED_Megaera",
+			"DROPPED_Minotaur",
+			"DROPPED_Nyx",
+			"DROPPED_Orpheus",
+			"DROPPED_Patroclus",
+			"DROPPED_Poseidon",
+			"DROPPED_Sisyphus",
+			"DROPPED_Skelly",
+			"DROPPED_Storyteller",
+			"DROPPED_Thanatos",
+			"DROPPED_Theseus",
+			"DROPPED_Zagreus",
+			"DROPPED_Zeus"
+		],
+		"droppedFemale" : [
+			"DROPPED_Alecto",
+			"DROPPED_Artemis",
+			"DROPPED_Athena",
+			"DROPPED_Cerberus",
+			"DROPPED_Demeter",
+			"DROPPED_Dusa",
+			"DROPPED_Persephone",
+			"DROPPED_Tisiphone"
+		]
+	},
+	"aliases": {
+		"Unknown": {
+			"Bouldy": [".   .   .   ."],
+			"Asterius": [
+                "Peaaaaace!"
+            ],
+            "Megaera": [
+                "...the problem that I have with that wretched shade is his attitude.",
+                "...I don't know which of them is worse, I swear to you.",
+                "...He truly is an idiot, I'll give you that."
+            	]
+        	},
+		"Scratch": {
+            "Achilles": [
+                "Good to see you, lad, despite the circumstances."
+            ],
+            "Storyteller": [
+	            "Few tales are told of Hades,",
+                "I, however, mean to tell you such a tale."
+            ]
+        },
+        "Minotaur": "Asterius",
+		"Intercom": "Hades"
+	}
+}

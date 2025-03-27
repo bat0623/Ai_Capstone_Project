@@ -1,0 +1,12 @@
+folder,alternativeMeasure,game,series,group,lines,words,sentences,syllables,FleschKincaidReadability,FleschReadability,DaleChallReadability,numCharacters
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,TOTAL,16686,196078,65818,236454,-0.19832036705627232,101.79055244165829,6.578867090827926,41
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,male,10929,125507,42485,152095,-0.13811393560438567,101.31447275086381,6.565936680076714,21
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,female,5354,65269,21449,78076,-0.287854620212908,102.54626534349471,6.596629105502587,12
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,neutral,403,5302,1883,6283,-0.5085800326252894,103.7239702980849,6.667915633135163,8
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,lawyer,7838,82413,27314,100520,-0.020691183032202076,100.5849906118322,6.541497173324511,5
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,prosecutor,1723,22955,6507,29013,0.6999285651090972,96.32775775175953,6.818145007402346,3
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,defence attorney,6115,59458,20807,71507,-0.284300047281695,102.19058297968766,6.4365485111369605,2
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,assistant,1853,20121,6908,23787,-0.5041102324710831,103.86467370069592,6.6217735521145125,2
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,culprit,1200,17010,5406,20350,-0.24587347913775304,102.42965834551853,6.314696516249175,5
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,defendant,2001,22860,7988,26885,-0.596254307094938,104.43461112929239,6.707814558670902,4
+../data/AceAttorney/JusticeForAll/,True,Phoenix Wright: Ace Attorney – Justice for All,Ace Attorney,victim,39,808,167,995,0.8278867018438394,97.74464635086264,6.260614501689689,2
