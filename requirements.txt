@@ -1,6 +1,6 @@
 # 필수 프레임워크
-torch==2.1.2
-transformers==4.36.2
+torch~=2.6.0
+transformers~=4.49.0
 accelerate==0.25.0
 
 # 전이학습용
@@ -11,8 +11,8 @@ datasets==2.16.1
 # 토큰화 및 텍스트 처리
 sentencepiece==0.1.99
 scipy==1.11.4
-numpy==1.24.4
-tqdm==4.66.1
+numpy~=2.2.4
+tqdm~=4.67.1
 
 # 언어 감지 (선택, 다국어 대응 시)
 langdetect==1.0.9
@@ -22,3 +22,12 @@ psutil==5.9.6
 
 # 로그 출력 (선택)
 rich==13.7.0
+
+openai~=1.73.0
+requests~=2.32.3
+bs4~=4.12.3
+beautifulsoup4~=4.12.3
+selenium~=4.24.0
+pandas~=2.2.3
+yaml~=0.2.5
+pyyaml~=6.0.2
