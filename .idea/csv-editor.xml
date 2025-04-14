@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\ChronoTrigger\ChronoTrigger\compareTranslations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\DragonAge\DragonAgeInquisition_B\charDataFromGameData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\DragonAge\DragonAgeOrigins_B\charIDToScreenName.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\ElderScrolls\Daggerfall\questOffers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\ElderScrolls\Morrowind\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\ElderScrolls\Oblivion\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\ElderScrolls\Skyrim\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFIII\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFIV_DS\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFIX_B\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFVIII\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFVII\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFVII_Remake\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFVI\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFV\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFX2\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFXIII-2\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFXIII-LR\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFXIII\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFXV\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\FinalFantasy\FFX_B\tropeData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ScriptData\VideoGameDialogueCorpusPublic-main\data\Tales\TalesOfVesperia\unknownCharacters.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
