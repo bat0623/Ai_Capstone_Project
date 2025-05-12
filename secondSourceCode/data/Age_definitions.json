@@ -1,0 +1,122 @@
+[
+  {
+    "age_group": "유년",
+    "description": "어린이, 아동 수준의 말투와 사고방식을 가짐",
+    "style_traits": ["단순함", "호기심", "직설적"],
+    "speech_patterns": ["이게 뭐야?", "해줄래?", "싫어!"],
+    "typical_contexts": ["장난감 놀이", "질문하기", "감정 표현"],
+    "lexicon_notes": ["감탄사", "의성어", "감정어휘"],
+    "examples": [
+      { "text": "이게 뭐야?",                  "tags": ["유년","호기심"],  "intensity": 3 },
+      { "text": "너랑 놀고 싶어!",              "tags": ["유년","초대"],    "intensity": 4 },
+      { "text": "싫어! 안 해!",               "tags": ["유년","거부"],    "intensity": 5 },
+      { "text": "진짜 신기하다!",              "tags": ["유년","감탄"],    "intensity": 4 },
+      { "text": "무섭지만 해볼래!",             "tags": ["유년","용기"],    "intensity": 3 },
+      { "text": "혼자 못해, 도와줘!",           "tags": ["유년","요청"],    "intensity": 4 },
+      { "text": "맛있다~ 또 먹을래!",           "tags": ["유년","즐거움"],  "intensity": 3 },
+      { "text": "아야! 다쳤어!",               "tags": ["유년","고통"],    "intensity": 4 },
+      { "text": "이거 어떻게 해?",              "tags": ["유년","질문"],    "intensity": 2 },
+      { "text": "정말 재밌어!",                 "tags": ["유년","행복"],    "intensity": 3 }
+    ]
+  },
+  {
+    "age_group": "청소년",
+    "description": "10대 후반에서 20대 초반. 열정적이고 반항적인 말투 포함",
+    "style_traits": ["직설적", "감정적", "반항적"],
+    "speech_patterns": ["~잖아", "야!", "진짜"],
+    "typical_contexts": ["학교생활", "친구 대화", "다툼"],
+    "lexicon_notes": ["속어", "반말", "강조어"],
+    "examples": [
+      { "text": "내가 알아서 할게!",            "tags": ["청소년","자립"],  "intensity": 3 },
+      { "text": "그건 좀 아니지 않아?",         "tags": ["청소년","비판"],  "intensity": 4 },
+      { "text": "도전해보자!",                 "tags": ["청소년","도전"],  "intensity": 4 },
+      { "text": "절대 포기 못 해.",             "tags": ["청소년","결의"],  "intensity": 5 },
+      { "text": "이건 내 길이야.",              "tags": ["청소년","자아"],  "intensity": 4 },
+      { "text": "야, 진짜 못 참겠어!",           "tags": ["청소년","분노"],  "intensity": 5 },
+      { "text": "너나 잘해!",                  "tags": ["청소년","조롱"],  "intensity": 4 },
+      { "text": "오늘 숙제 다 했어?",            "tags": ["청소년","질문"],  "intensity": 2 },
+      { "text": "왜 자꾸 간섭이야?",             "tags": ["청소년","불만"],  "intensity": 4 },
+      { "text": "이제 좀 혼자 내버려 둬.",        "tags": ["청소년","거부"],  "intensity": 3 }
+    ]
+  },
+  {
+    "age_group": "청년",
+    "description": "20대 중반부터 30대 초반. 자기확립과 열정 사이의 균형을 이룸",
+    "style_traits": ["자신감", "도전적", "열정적", "신중함"],
+    "speech_patterns": ["~할래?", "내가...", "해야 해"],
+    "typical_contexts": ["취업 준비", "데이트", "미래 계획"],
+    "lexicon_notes": ["존댓말·반말 혼용", "추상어", "격려어"],
+    "examples": [
+      { "text": "지금이 기회야.",                     "tags": ["청년","동기부여"], "intensity": 3 },
+      { "text": "내가 책임질게.",                     "tags": ["청년","확언"],    "intensity": 4 },
+      { "text": "시작해보자.",                       "tags": ["청년","도전"],    "intensity": 3 },
+      { "text": "후회 없는 선택을 할 거야.",           "tags": ["청년","결의"],    "intensity": 4 },
+      { "text": "믿어봐, 해낼 수 있어.",               "tags": ["청년","격려"],    "intensity": 3 },
+      { "text": "이번 프로젝트에 참여해볼래?",          "tags": ["청년","제안"],    "intensity": 2 },
+      { "text": "장기적인 계획이 필요해.",             "tags": ["청년","조언"],    "intensity": 3 },
+      { "text": "투자해볼 만해.",                     "tags": ["청년","제안"],    "intensity": 3 },
+      { "text": "이번 주말엔 뭐 할까?",                "tags": ["청년","질문"],    "intensity": 2 },
+      { "text": "미래를 위해 준비하고 있어.",           "tags": ["청년","설명"],    "intensity": 3 }
+    ]
+  },
+  {
+    "age_group": "중년",
+    "description": "30대 후반부터 50대. 경험과 현실을 바탕으로 신중함을 강조",
+    "style_traits": ["신중함", "단호함", "조언 중심", "책임감"],
+    "speech_patterns": ["~해야 한다", "~것이 좋다", "내 경험상"],
+    "typical_contexts": ["업무 회의", "가족 상담", "결정"],
+    "lexicon_notes": ["경험담", "조언어", "격식체"],
+    "examples": [
+      { "text": "지금은 물러설 때야.",                 "tags": ["중년","조언"],    "intensity": 3 },
+      { "text": "그렇게 단순한 문제가 아니야.",           "tags": ["중년","경고"],    "intensity": 4 },
+      { "text": "경험상 그건 위험해.",                 "tags": ["중년","분석"],    "intensity": 4 },
+      { "text": "누군가는 감당해야 하니까.",             "tags": ["중년","책임"],    "intensity": 3 },
+      { "text": "모두를 위해 결정해야 해.",             "tags": ["중년","의무"],    "intensity": 4 },
+      { "text": "이건 장기 플랜이 필요해.",             "tags": ["중년","계획"],    "intensity": 3 },
+      { "text": "책임을 회피하지 마.",                 "tags": ["중년","경고"],    "intensity": 3 },
+      { "text": "함께 해결책을 찾아보자.",               "tags": ["중년","제안"],    "intensity": 2 },
+      { "text": "결정적 순간에는 결단이 필요하다.",       "tags": ["중년","교훈"],    "intensity": 3 },
+      { "text": "신중하게 검토한 후 움직이자.",           "tags": ["중년","조언"],    "intensity": 2 }
+    ]
+  },
+  {
+    "age_group": "노년",
+    "description": "60대 이상. 지혜롭고 조용한 분위기를 지님",
+    "style_traits": ["여유", "지혜", "회상", "느린 템포"],
+    "speech_patterns": ["그땐~했었지", "천천히", "인생은~"],
+    "typical_contexts": ["회상", "조언", "휴식"],
+    "lexicon_notes": ["속담", "비유", "과거형"],
+    "examples": [
+      { "text": "그땐 그랬지...",                    "tags": ["노년","회상"],    "intensity": 2 },
+      { "text": "서두를 필요는 없단다.",               "tags": ["노년","조언"],    "intensity": 2 },
+      { "text": "인생은 돌고 도는 법이지.",             "tags": ["노년","교훈"],    "intensity": 3 },
+      { "text": "모든 것은 지나간단다.",               "tags": ["노년","위로"],    "intensity": 2 },
+      { "text": "네가 옳다고 생각하는 길을 가거라.",      "tags": ["노년","격려"],    "intensity": 3 },
+      { "text": "조급해하지 말게.",                   "tags": ["노년","경고"],    "intensity": 2 },
+      { "text": "세월이 약이란 걸 잊지 마.",             "tags": ["노년","비유"],    "intensity": 2 },
+      { "text": "기억은 마음속에 살아 있다.",            "tags": ["노년","회상"],    "intensity": 2 },
+      { "text": "천천히 걸어도 괜찮다.",                "tags": ["노년","위로"],    "intensity": 1 },
+      { "text": "지혜는 시간이 키워 준다.",              "tags": ["노년","지혜"],    "intensity": 3 }
+    ]
+  },
+  {
+    "age_group": "불명",
+    "description": "정확한 나이를 특정할 수 없는 존재. 신격, 정령, 기계 생명체 또는 개념적 존재 등이 해당.",
+    "style_traits": ["초월적", "중립적", "감정 배제", "형식적", "신비로운"],
+    "speech_patterns": ["~이다", "~하노라", "~을지니"],
+    "typical_contexts": ["천계 대화", "예언", "지시"],
+    "lexicon_notes": ["고어", "의례어", "상징어"],
+    "examples": [
+      { "text": "나는 시작과 끝을 모두 본 자다.",        "tags": ["불명","선언"],    "intensity": 4 },
+      { "text": "시간은 의미가 없네.",                  "tags": ["불명","관찰"],    "intensity": 3 },
+      { "text": "모든 것은 하나로 이어진다.",           "tags": ["불명","통찰"],    "intensity": 4 },
+      { "text": "영겁의 시간 속에서 너를 본다.",        "tags": ["불명","예언"],    "intensity": 5 },
+      { "text": "이 세계는 꿈일 뿐이다.",               "tags": ["불명","철학"],    "intensity": 4 },
+      { "text": "운명은 이미 정해져 있다.",             "tags": ["불명","예언"],    "intensity": 4 },
+      { "text": "경계를 넘어라.",                       "tags": ["불명","명령"],    "intensity": 3 },
+      { "text": "질문은 무의미하다.",                  "tags": ["불명","경고"],    "intensity": 2 },
+      { "text": "너의 선택은 이미 이루어졌느니라.",      "tags": ["불명","통찰"],    "intensity": 5 },
+      { "text": "의도대로 움직여라.",                   "tags": ["불명","지시"],    "intensity": 3 }
+    ]
+  }
+]

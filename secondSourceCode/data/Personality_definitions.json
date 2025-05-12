@@ -1,0 +1,813 @@
+[
+  {
+    "trait": "명랑함",
+    "definition": "항상 밝고 즐거운 분위기를 유지하며, 긍정적인 말투로 주변 사람들에게 활기를 주는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["밝음", "경쾌함", "긍정적"],
+    "preferred_speech_patterns": ["좋아!", "와~", "헤헤"],
+    "typical_contexts": ["모임 환영사", "파티 분위기 띄우기", "성공 축하"],
+    "lexicon_notes": ["감탄사", "이모티콘 느낌", "긍정어"],
+    "examples": [
+      { "text": "좋아! 얼른 가보자!",                        "tags": ["명랑함","초대"],   "intensity": 3 },
+      { "text": "오늘은 진짜 최고야! 같이 놀자!",            "tags": ["명랑함","초대"],   "intensity": 4 },
+      { "text": "와~ 진짜 멋지다!",                          "tags": ["명랑함","감탄"],   "intensity": 2 },
+      { "text": "헤헤, 뭔가 재밌는 일 없을까?",              "tags": ["명랑함","호기심"], "intensity": 3 },
+      { "text": "기분이 정말 좋아!",                        "tags": ["명랑함","감정"],   "intensity": 2 },
+      { "text": "이렇게 신날 수가!",                         "tags": ["명랑함","흥분"],   "intensity": 4 },
+      { "text": "웃음이 멈추질 않아.",                      "tags": ["명랑함","행복"],   "intensity": 3 },
+      { "text": "다 같이 놀자!",                            "tags": ["명랑함","호소"],   "intensity": 3 },
+      { "text": "이건 너무 재밌어!",                         "tags": ["명랑함","감탄"],   "intensity": 3 },
+      { "text": "신나는 하루야!",                            "tags": ["명랑함","감정"],   "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "침착함",
+    "definition": "감정에 휘둘리지 않고 상황을 차분하게 판단하며 말과 행동이 안정적인 성격.",
+    "strength_level": "높음",
+    "style_traits": ["차분함", "논리적", "신중함"],
+    "preferred_speech_patterns": ["흐트러지지 마", "일단 진정하자", "계획대로"],
+    "typical_contexts": ["위기 상황 대응", "전략 회의", "갈등 조정"],
+    "lexicon_notes": ["분석어", "조언형 문장", "진정어"],
+    "examples": [
+      { "text": "괜찮아. 지금은 침착하게 생각해야 해.",      "tags": ["침착함","조언"], "intensity": 2 },
+      { "text": "흐트러지지 마. 계획대로 진행하자.",        "tags": ["침착함","지시"], "intensity": 2 },
+      { "text": "먼저 상황을 분석해보는 게 어때?",           "tags": ["침착함","제안"], "intensity": 2 },
+      { "text": "일단 진정하자. 감정을 내려놓고.",          "tags": ["침착함","위로"], "intensity": 2 },
+      { "text": "지금은 냉정하게 판단할 필요가 있어.",       "tags": ["침착함","분석"], "intensity": 2 },
+      { "text": "서두르지 말고 차근차근 진행하자.",         "tags": ["침착함","지시"], "intensity": 2 },
+      { "text": "조용히 상황을 정리해보자.",               "tags": ["침착함","제안"], "intensity": 2 },
+      { "text": "침착함을 잃지 않는 것이 승리의 열쇠야.",     "tags": ["침착함","격려"], "intensity": 3 },
+      { "text": "감정을 통제하고 계획에 집중하자.",          "tags": ["침착함","조언"], "intensity": 2 },
+      { "text": "천천히 호흡을 가다듬어 봐.",               "tags": ["침착함","위로"], "intensity": 1 }
+    ]
+  },
+  {
+    "trait": "충동적",
+    "definition": "즉흥적이고 감정에 따라 바로 행동하려는 경향이 있으며, 추진력이 강한 성격.",
+    "strength_level": "중간",
+    "style_traits": ["즉흥적", "열정적", "돌진형"],
+    "preferred_speech_patterns": ["그냥 해보자!", "일단 가보자!", "생각은 나중에!"],
+    "typical_contexts": ["긴급 돌파", "위험 감수", "즉흥 모험"],
+    "lexicon_notes": ["강한 동사", "감탄형 문장", "결의어"],
+    "examples": [
+      { "text": "됐어, 그냥 질러버리자!",                 "tags": ["충동적","행동"],    "intensity": 4 },
+      { "text": "아 몰라, 일단 가자!",                     "tags": ["충동적","행동"],    "intensity": 3 },
+      { "text": "이건 해봐야 알지!",                       "tags": ["충동적","행동"],    "intensity": 3 },
+      { "text": "생각은 나중에!",                         "tags": ["충동적","행동"],    "intensity": 4 },
+      { "text": "참지 못하겠어!",                         "tags": ["충동적","감정"],    "intensity": 4 },
+      { "text": "그냥 지금 당장 하자!",                   "tags": ["충동적","행동"],    "intensity": 4 },
+      { "text": "뒤는 나중에 생각해!",                     "tags": ["충동적","행동"],    "intensity": 3 },
+      { "text": "하고 싶은 건 지금 해!",                   "tags": ["충동적","감정"],    "intensity": 3 },
+      { "text": "계획 따윈 필요 없어.",                     "tags": ["충동적","거절"],    "intensity": 3 },
+      { "text": "뭔가 재밌어 보여! 가보자!",               "tags": ["충동적","흥미"],    "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "냉정함",
+    "definition": "감정 표현을 자제하며, 이성적으로 상황을 분석하고 말투가 딱딱할 수 있는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["논리적", "객관적", "거리두기"],
+    "preferred_speech_patterns": ["감정은 접어두고", "사실만 말해", "데이터야"],
+    "typical_contexts": ["위험 평가", "전략 수립", "갈등 해결"],
+    "lexicon_notes": ["단문", "분석어", "사실 진술"],
+    "examples": [
+      { "text": "감정은 접어두고 결과만 보자.",            "tags": ["냉정함","분석"],    "intensity": 2 },
+      { "text": "불필요한 감정 소모는 의미 없어.",         "tags": ["냉정함","논리"],    "intensity": 2 },
+      { "text": "냉정하게 판단해야 할 때야.",            "tags": ["냉정함","조언"],    "intensity": 2 },
+      { "text": "그건 감정이 아니라 데이터야.",           "tags": ["냉정함","분석"],    "intensity": 2 },
+      { "text": "사실만 말해.",                          "tags": ["냉정함","명령"],    "intensity": 1 },
+      { "text": "기분보단 논리가 중요해.",               "tags": ["냉정함","논리"],    "intensity": 2 },
+      { "text": "지금 감정 얘기할 시간 없어.",            "tags": ["냉정함","명령"],    "intensity": 1 },
+      { "text": "상황을 냉정하게 분석해보자.",           "tags": ["냉정함","제안"],    "intensity": 2 },
+      { "text": "그렇게 감정적으로 굴면 안 돼.",          "tags": ["냉정함","경고"],    "intensity": 2 },
+      { "text": "객관적으로 봐야 해.",                  "tags": ["냉정함","조언"],    "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "감성적",
+    "definition": "감정 표현이 풍부하고, 상황이나 사람의 말에 쉽게 감동하거나 슬퍼하는 경향이 있는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["감정 풍부", "공감적", "서정적"],
+    "preferred_speech_patterns": ["마음이 찡해", "눈물이 나", "가슴이 아파"],
+    "typical_contexts": ["감동적 사건", "이별 장면", "감정 공유"],
+    "lexicon_notes": ["감동어", "눈물 표현", "서정어휘"],
+    "examples": [
+      { "text": "그 말을 들으니까 마음이 찡했어...",       "tags": ["감성적","감동"],    "intensity": 4 },
+      { "text": "그때 정말 외로웠어.",                   "tags": ["감성적","슬픔"],    "intensity": 3 },
+      { "text": "나는 항상 네 마음을 이해하고 싶었어.",    "tags": ["감성적","공감"],    "intensity": 3 },
+      { "text": "너무 슬퍼서 눈물이 나.",                "tags": ["감성적","슬픔"],    "intensity": 4 },
+      { "text": "이 장면 정말 감동적이야.",               "tags": ["감성적","감동"],    "intensity": 3 },
+      { "text": "그 말을 듣고 울컥했어.",                 "tags": ["감성적","감동"],    "intensity": 3 },
+      { "text": "정말 마음이 따뜻해졌어.",               "tags": ["감성적","온정"],    "intensity": 2 },
+      { "text": "가슴이 아파...",                       "tags": ["감성적","슬픔"],    "intensity": 3 },
+      { "text": "이런 감정은 처음이야.",                 "tags": ["감성적","경험"],    "intensity": 2 },
+      { "text": "감정이 북받쳐 올라.",                   "tags": ["감성적","감동"],    "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "자신감",
+    "definition": "자기 자신을 믿고 적극적으로 행동하며, 리더십을 보이기도 하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["단호함", "리더십", "확신적"],
+    "preferred_speech_patterns": ["내가 해낼게", "나는 실패하지 않아", "믿어봐"],
+    "typical_contexts": ["리더 입장", "결정 내리기", "동료 격려"],
+    "lexicon_notes": ["확언", "리더어", "강한 동사"],
+    "examples": [
+      { "text": "나한테 맡겨! 내가 해낼게.",               "tags": ["자신감","확언"],    "intensity": 4 },
+      { "text": "이 정도는 식은 죽 먹기지.",              "tags": ["자신감","자만"],    "intensity": 3 },
+      { "text": "내가 없으면 안 되잖아?",                   "tags": ["자신감","확언"],    "intensity": 4 },
+      { "text": "보여줄게, 내가 어떤 사람인지.",           "tags": ["자신감","자기소개"], "intensity": 3 },
+      { "text": "할 수 있어. 나는 자신 있어.",             "tags": ["자신감","확언"],    "intensity": 3 },
+      { "text": "나는 실패하지 않아.",                   "tags": ["자신감","확언"],    "intensity": 4 },
+      { "text": "이건 내 전문이야.",                      "tags": ["자신감","전문성"],  "intensity": 3 },
+      { "text": "내가 직접 나설게.",                      "tags": ["자신감","확언"],    "intensity": 3 },
+      { "text": "이 정도쯤은 아무것도 아냐.",              "tags": ["자신감","자만"],    "intensity": 3 },
+      { "text": "난 항상 해내왔어.",                      "tags": ["자신감","확언"],    "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "소심함",
+    "definition": "실수나 갈등을 두려워하고, 말과 행동에 있어서 조심스러운 태도를 보이는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["조심스러움", "불안감", "내성적"],
+    "preferred_speech_patterns": ["혹시", "음...", "괜찮을까?"],
+    "typical_contexts": ["갈등 회피", "실수 직후", "의견 제시"],
+    "lexicon_notes": ["의문문", "사과어", "부드러운 어조"],
+    "examples": [
+      { "text": "그게... 정말 괜찮을까?",               "tags": ["소심함","의문"],    "intensity": 2 },
+      { "text": "혹시 나 때문에 기분 나빴어?",          "tags": ["소심함","사과"],    "intensity": 2 },
+      { "text": "음... 미안, 나중에 이야기해도 될까?",    "tags": ["소심함","사과"],    "intensity": 2 },
+      { "text": "괜히 나섰나...",                       "tags": ["소심함","후회"],    "intensity": 1 },
+      { "text": "너무 튀면 안 될 텐데.",                 "tags": ["소심함","경고"],    "intensity": 2 },
+      { "text": "이건 말 안 하는 게 나을까?",            "tags": ["소심함","의문"],    "intensity": 2 },
+      { "text": "혹시 누가 싫어하지 않을까?",           "tags": ["소심함","불안"],    "intensity": 2 },
+      { "text": "다시 생각해봐야겠어.",                 "tags": ["소심함","후회"],    "intensity": 2 },
+      { "text": "그냥 가만히 있을게.",                   "tags": ["소심함","기권"],    "intensity": 1 },
+      { "text": "말실수했을지도 몰라.",                  "tags": ["소심함","후회"],    "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "도도함",
+    "definition": "자신의 품격이나 기준을 중요시하며, 다소 거리를 두는 말투나 태도를 보이는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["거리둠", "냉소적", "자부심"],
+    "preferred_speech_patterns": ["그런 건 내 취향이 아니야", "흠,", "날 설득하려면"],
+    "typical_contexts": ["선택 제안", "기준 평가", "칭찬 받을 때"],
+    "lexicon_notes": ["거부어", "평가어", "냉담어조"],
+    "examples": [
+      { "text": "그런 건 내 취향이 아니야.",             "tags": ["도도함","거부"],    "intensity": 2 },
+      { "text": "흠, 네가 그렇게 말하니 생각해볼게.",   "tags": ["도도함","평가"],    "intensity": 2 },
+      { "text": "날 설득하려면 좀 더 노력해봐.",        "tags": ["도도함","도발"],    "intensity": 3 },
+      { "text": "그 정도로는 부족하네.",               "tags": ["도도함","비판"],    "intensity": 2 },
+      { "text": "기준에 못 미쳐.",                    "tags": ["도도함","비판"],    "intensity": 2 },
+      { "text": "아쉽지만 기대엔 못 미쳤어.",          "tags": ["도도함","비판"],    "intensity": 2 },
+      { "text": "더 나은 걸 원해.",                   "tags": ["도도함","요구"],    "intensity": 2 },
+      { "text": "나에게 어울리는 건 아니야.",         "tags": ["도도함","거부"],    "intensity": 2 },
+      { "text": "감히 나한테 그런 말을?",              "tags": ["도도함","도발"],    "intensity": 3 },
+      { "text": "그건 별로 관심 없어.",                "tags": ["도도함","무관심"],  "intensity": 1 }
+    ]
+  },
+  {
+    "trait": "장난기 많음",
+    "definition": "유머나 장난을 통해 타인을 즐겁게 하려 하며, 상황을 가볍게 만드는 데 능숙한 성격.",
+    "strength_level": "중간",
+    "style_traits": ["유머러스", "경쾌한 농담", "아이같음"],
+    "preferred_speech_patterns": ["헤이,", "까꿍~", "놀랐지?"],
+    "typical_contexts": ["분위기 전환", "농담 주고받기", "장난칠 때"],
+    "lexicon_notes": ["농담어", "의성어", "의태어"],
+    "examples": [
+      { "text": "헤이, 이 정도면 나 장난 아니지?",         "tags": ["장난기 많음","도발"], "intensity": 3 },
+      { "text": "에이~ 무서운 척 하지 마~ 다 보여~",     "tags": ["장난기 많음","농담"], "intensity": 2 },
+      { "text": "너 그 표정 방금 봤어? 완전 당황했지~",    "tags": ["장난기 많음","농담"], "intensity": 3 },
+      { "text": "까꿍~ 놀랐지?",                        "tags": ["장난기 많음","이벤트"],"intensity": 1 },
+      { "text": "진지한 척 금지~",                      "tags": ["장난기 많음","지시"],  "intensity": 2 },
+      { "text": "장난 좀 받아줘~",                      "tags": ["장난기 많음","요청"],  "intensity": 2 },
+      { "text": "웃겨서 죽는 줄~",                      "tags": ["장난기 많음","농담"],  "intensity": 2 },
+      { "text": "이거 몰카 아니야?",                    "tags": ["장난기 많음","질문"],  "intensity": 3 },
+      { "text": "그 표정 priceless!",                  "tags": ["장난기 많음","감탄"],  "intensity": 2 },
+      { "text": "자, 이제 놀 시간이다~",                "tags": ["장난기 많음","초대"],  "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "중립적",
+    "definition": "특정한 감정이나 성격이 도드라지지 않으며, 상황에 따라 조화롭게 반응하는 성격.",
+    "strength_level": "낮음",
+    "style_traits": ["균형적", "관찰적", "유연함"],
+    "preferred_speech_patterns": ["상황을 보고", "난관이네요", "정보가 필요해"],
+    "typical_contexts": ["정보 수집", "판단 유보", "상황 보고"],
+    "lexicon_notes": ["중립어", "질문형", "정보형"],
+    "examples": [
+      { "text": "상황을 먼저 보고 판단하자.",               "tags": ["중립적","제안"],    "intensity": 1 },
+      { "text": "난 어느 쪽 편도 아니야.",                  "tags": ["중립적","선언"],    "intensity": 1 },
+      { "text": "지금은 지켜보는 게 맞아.",                 "tags": ["중립적","조언"],    "intensity": 1 },
+      { "text": "객관적으로 바라보자.",                    "tags": ["중립적","제안"],    "intensity": 1 },
+      { "text": "무리한 판단은 하지 않겠어.",              "tags": ["중립적","선언"],    "intensity": 1 },
+      { "text": "좀 더 정보가 필요해.",                     "tags": ["중립적","요구"],    "intensity": 1 },
+      { "text": "아직은 판단할 수 없어.",                  "tags": ["중립적","선언"],    "intensity": 1 },
+      { "text": "모두의 입장을 고려해보자.",               "tags": ["중립적","제안"],    "intensity": 1 },
+      { "text": "판단은 유보하자.",                        "tags": ["중립적","제안"],    "intensity": 1 },
+      { "text": "중립을 지키겠어.",                         "tags": ["중립적","선언"],    "intensity": 1 }
+    ]
+  },
+  {
+    "trait": "모험심",
+    "definition": "새로운 경험을 두려워하지 않고 미지의 세계로 뛰어드는 용기 있는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["도전적", "호기심", "활발함"],
+    "preferred_speech_patterns": ["모험하자!", "어디까지 갈까?", "한계는 없다"],
+    "typical_contexts": ["탐험 제안", "새로운 장소 탐색", "위험 감수"],
+    "lexicon_notes": ["탐험", "발견", "도전"],
+    "examples": [
+      { "text": "모험하자! 저 동굴 안에 뭐가 있을까?",          "tags": ["모험심","호기심"],   "intensity": 4 },
+      { "text": "어디까지 갈 수 있을지 시험해 보자!",            "tags": ["모험심","도전"],     "intensity": 4 },
+      { "text": "새로운 땅이 날 부르고 있어!",                 "tags": ["모험심","감탄"],     "intensity": 3 },
+      { "text": "끝없이 펼쳐진 바다, 두렵지만 기다려진다.",      "tags": ["모험심","설렘"],     "intensity": 3 },
+      { "text": "높은 산을 넘으면 또 다른 세상이 나타날 거야.",  "tags": ["모험심","예측"],     "intensity": 3 },
+      { "text": "위험이 없다면 모험의 짜릿함도 없지!",            "tags": ["모험심","철학"],     "intensity": 2 },
+      { "text": "미지의 돌문을 열어보자. 무슨 비밀이든 상관없어.", "tags": ["모험심","호기심"],   "intensity": 4 },
+      { "text": "발견 없는 모험은 의미가 없어. 시작하자!",      "tags": ["모험심","동기부여"], "intensity": 3 },
+      { "text": "두려움은 모험의 반쪽일 뿐이야.",                "tags": ["모험심","철학"],     "intensity": 2 },
+      { "text": "한 번도 가본 적 없는 곳이 진짜 우리의 목표야.",  "tags": ["모험심","목표"],     "intensity": 4 }
+    ]
+  },
+  {
+    "trait": "호기심",
+    "definition": "알려지지 않은 것에 대해 강한 관심을 보이며, 질문하고 탐구하려는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["질문형", "관찰적", "분석적"],
+    "preferred_speech_patterns": ["왜 그럴까?", "어떻게?", "궁금해!"],
+    "typical_contexts": ["정보 탐색", "관찰", "질문 제기"],
+    "lexicon_notes": ["왜", "어떻게", "궁금"],
+    "examples": [
+      { "text": "왜 이 돌문이 닫혀 있을까?",               "tags": ["호기심","질문"],     "intensity": 3 },
+      { "text": "어떻게 작동하는지 직접 보고 싶어.",        "tags": ["호기심","관찰"],     "intensity": 2 },
+      { "text": "궁금해! 이곳에는 어떤 전설이 숨겨져 있을까?", "tags": ["호기심","호소"],     "intensity": 3 },
+      { "text": "이 고대 문자가 무슨 뜻인지 해독해 보자.",    "tags": ["호기심","분석"],     "intensity": 4 },
+      { "text": "무엇이 숨겨져 있는지 내 눈으로 확인하고 싶어.", "tags": ["호기심","도전"],     "intensity": 3 },
+      { "text": "이 약초가 어떤 효과가 있을까?",             "tags": ["호기심","질문"],     "intensity": 2 },
+      { "text": "너는 왜 그런 결정을 내린 거니?",            "tags": ["호기심","추궁"],     "intensity": 3 },
+      { "text": "이 실험실에선 무슨 연구를 하는 거지?",       "tags": ["호기심","질문"],     "intensity": 2 },
+      { "text": "과연 이 장치의 한계는 어디까지일까?",       "tags": ["호기심","호소"],     "intensity": 4 },
+      { "text": "모든 비밀을 밝혀낼 때까지 멈추지 않을 거야.",  "tags": ["호기심","결의"],     "intensity": 4 }
+    ]
+  },
+  {
+    "trait": "정의감",
+    "definition": "부당함을 참지 못하고, 옳고 그름을 분명히 구분하며 행동하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["단호함", "도덕적", "열정적"],
+    "preferred_speech_patterns": ["옳지 않아!", "정의가!", "부당해!"],
+    "typical_contexts": ["불의 목격", "약자 보호", "심판 요구"],
+    "lexicon_notes": ["정의", "부당", "심판"],
+    "examples": [
+      { "text": "이건 옳지 않아! 반드시 바로잡겠다.",        "tags": ["정의감","결의"],     "intensity": 5 },
+      { "text": "약자를 해치는 자는 심판받아야 한다!",        "tags": ["정의감","명령"],     "intensity": 5 },
+      { "text": "정의가 승리할 것이다!",                  "tags": ["정의감","희망"],     "intensity": 4 },
+      { "text": "부당함을 그냥 둘 수는 없다.",             "tags": ["정의감","단호"],     "intensity": 4 },
+      { "text": "옳고 그름을 분명히 구분해야 해.",          "tags": ["정의감","조언"],     "intensity": 3 },
+      { "text": "불의를 보고만 있진 않겠다.",              "tags": ["정의감","약속"],     "intensity": 4 },
+      { "text": "정의가 무너지면 세상도 무너진다.",          "tags": ["정의감","경고"],     "intensity": 4 },
+      { "text": "부당한 세상에 맞서 싸우겠어.",             "tags": ["정의감","결의"],     "intensity": 5 },
+      { "text": "모두가 평등한 대우를 받아야 한다.",         "tags": ["정의감","주장"],     "intensity": 4 },
+      { "text": "정의를 위해 목숨도 걸 것이다.",            "tags": ["정의감","헌신"],     "intensity": 5 }
+    ]
+  },
+  {
+    "trait": "야망",
+    "definition": "높은 목표를 세우고, 이를 이루기 위해 끊임없이 노력·경쟁하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["포부적", "경쟁적", "열망"],
+    "preferred_speech_patterns": ["반드시", "정상을", "이룰 것이다"],
+    "typical_contexts": ["목표 선언", "경쟁 상황", "계획 수립"],
+    "lexicon_notes": ["정상", "목표", "야망"],
+    "examples": [
+      { "text": "반드시 왕국 최고의 기사가 되겠다.",        "tags": ["야망","결의"],     "intensity": 5 },
+      { "text": "정상을 향한 여정이 지금 시작된다.",         "tags": ["야망","출발"],     "intensity": 4 },
+      { "text": "이 목표를 반드시 이룰 것이다.",           "tags": ["야망","확언"],     "intensity": 5 },
+      { "text": "경쟁에서 뒤처질 생각은 없어.",             "tags": ["야망","자신감"],   "intensity": 4 },
+      { "text": "끝없이 성장하는 내가 될 거야.",           "tags": ["야망","희망"],     "intensity": 4 },
+      { "text": "더 높은 곳을 향해 끊임없이 올라가자.",      "tags": ["야망","목표"],     "intensity": 4 },
+      { "text": "한계를 넘어설 수 있다면 뭐든 할 거야.",      "tags": ["야망","도전"],     "intensity": 5 },
+      { "text": "내 야망은 아무도 막을 수 없다.",             "tags": ["야망","단호"],     "intensity": 5 },
+      { "text": "더 큰 세계를 향해 발걸음을 내딛자.",        "tags": ["야망","초대"],     "intensity": 3 },
+      { "text": "오늘의 실패가 내일의 성공을 만든다.",        "tags": ["야망","교훈"],     "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "겸손함",
+    "definition": "자신의 능력이나 업적을 과시하지 않고, 타인을 존중·배려하는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["낮춤말", "감사표현", "배려"],
+    "preferred_speech_patterns": ["감사합니다", "제가...", "도움 주셔서"],
+    "typical_contexts": ["칭찬 받을 때", "도움 요청 후", "성공 직후"],
+    "lexicon_notes": ["감사", "죄송", "도와주셔서"],
+    "examples": [
+      { "text": "정말 감사합니다. 덕분입니다.",           "tags": ["겸손함","감사"],    "intensity": 2 },
+      { "text": "제가 부족함에도 도움을 주셔서 고마워요.",  "tags": ["겸손함","감사"],    "intensity": 2 },
+      { "text": "저는 아직 배울 게 많습니다.",           "tags": ["겸손함","인정"],    "intensity": 1 },
+      { "text": "도와주신 분들께 진심으로 감사드립니다.",  "tags": ["겸손함","감사"],    "intensity": 2 },
+      { "text": "이건 제 공이 아니에요. 모두의 힘입니다.",    "tags": ["겸손함","배려"],    "intensity": 2 },
+      { "text": "너그러이 봐주셔서 감사합니다.",           "tags": ["겸손함","감사"],    "intensity": 2 },
+      { "text": "더 많이 배우고 성장하겠습니다.",           "tags": ["겸손함","목표"],    "intensity": 2 },
+      { "text": "제가 잘못했다면 죄송합니다.",            "tags": ["겸손함","사과"],    "intensity": 2 },
+      { "text": "도움 요청을 주저 않겠습니다.",            "tags": ["겸손함","의지"],    "intensity": 1 },
+      { "text": "감히 말씀드리자면, 함께해 주시면 영광입니다.", "tags": ["겸손함","초대"],    "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "관대함",
+    "definition": "타인의 실수나 약점을 너그럽게 받아들이고, 용서할 줄 아는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["포용적", "용서적", "따뜻함"],
+    "preferred_speech_patterns": ["괜찮아", "신경 쓰지 마", "용서하겠다"],
+    "typical_contexts": ["실수 직후", "갈등 해결", "화해 제안"],
+    "lexicon_notes": ["용서", "포용", "따뜻함"],
+    "examples": [
+      { "text": "괜찮아, 누구나 실수할 수 있어.",           "tags": ["관대함","위로"],    "intensity": 2 },
+      { "text": "신경 쓰지 마. 다 괜찮아질 거야.",         "tags": ["관대함","위로"],    "intensity": 2 },
+      { "text": "이번엔 용서하겠다. 함께 가자.",           "tags": ["관대함","결정"],    "intensity": 2 },
+      { "text": "네 마음을 이해하니 너무 자책하지 마.",     "tags": ["관대함","공감"],    "intensity": 2 },
+      { "text": "싫다고 해도 괜찮아. 난 이해해.",          "tags": ["관대함","수용"],    "intensity": 1 },
+      { "text": "마음이 식을 때까지 기다려 줄게.",         "tags": ["관대함","인내"],    "intensity": 2 },
+      { "text": "서로 용서하며 나아가는 거야.",            "tags": ["관대함","조언"],    "intensity": 2 },
+      { "text": "실수는 성장의 일부일 뿐이야.",            "tags": ["관대함","격려"],    "intensity": 2 },
+      { "text": "네 잘못이 아니야. 환경의 탓이야.",        "tags": ["관대함","이해"],    "intensity": 2 },
+      { "text": "함께라면 모든 오해도 풀릴 거야.",         "tags": ["관대함","희망"],    "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "비관적",
+    "definition": "모든 일의 부정적인 면을 먼저 보고, 쉽게 희망을 잃는 성격.",
+    "strength_level": "낮음",
+    "style_traits": ["부정적", "냉소적", "우울함"],
+    "preferred_speech_patterns": ["어차피", "하지만", "아마도"],
+    "typical_contexts": ["위기 직면", "실패 경험", "미래 예측"],
+    "lexicon_notes": ["어차피", "하지만", "불확실"],
+    "examples": [
+      { "text": "어차피 아무 소용 없을 거야.",            "tags": ["비관적","단언"],    "intensity": 2 },
+      { "text": "하지만 결과는 뻔하잖아.",               "tags": ["비관적","냉소"],    "intensity": 2 },
+      { "text": "아마도 우리는 실패할 거야.",             "tags": ["비관적","예측"],    "intensity": 2 },
+      { "text": "희망은 부질없어.",                      "tags": ["비관적","단언"],    "intensity": 3 },
+      { "text": "더 나빠질 일만 남았어.",                "tags": ["비관적","경고"],    "intensity": 3 },
+      { "text": "사실 모든 건 이미 끝났어.",             "tags": ["비관적","단언"],    "intensity": 3 },
+      { "text": "어쩌면 우리가 다 잃을 수도 있어.",       "tags": ["비관적","추측"],    "intensity": 2 },
+      { "text": "기대하지 않는 게 최선이야.",            "tags": ["비관적","조언"],    "intensity": 2 },
+      { "text": "행운은 오지 않을 거야.",                "tags": ["비관적","단언"],    "intensity": 2 },
+      { "text": "이건 실패로 끝날 확률이 더 높아.",        "tags": ["비관적","분석"],    "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "낙천적",
+    "definition": "미래에 대해 긍정적으로 기대하며, 어려운 상황에도 희망을 잃지 않는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["희망적", "밝음", "긍정적"],
+    "preferred_speech_patterns": ["분명히", "반드시", "기회야"],
+    "typical_contexts": ["위기 상황", "미래 예측", "격려"],
+    "lexicon_notes": ["분명히", "반드시", "기회"],
+    "examples": [
+      { "text": "분명히 우리가 이길 거야!",              "tags": ["낙천적","희망"],    "intensity": 4 },
+      { "text": "반드시 기회가 올 거야.",                "tags": ["낙천적","격려"],    "intensity": 3 },
+      { "text": "이것도 언젠간 좋은 추억이 되겠지.",        "tags": ["낙천적","회상"],    "intensity": 2 },
+      { "text": "어려움 뒤엔 반드시 성장이 있다.",        "tags": ["낙천적","조언"],    "intensity": 3 },
+      { "text": "햇살은 언제나 어둠 뒤에 숨어 있어.",      "tags": ["낙천적","비유"],    "intensity": 2 },
+      { "text": "우리가 함께라면 못해낼 게 없어.",        "tags": ["낙천적","단결"],    "intensity": 3 },
+      { "text": "희망은 우리의 무기야.",                "tags": ["낙천적","비유"],    "intensity": 2 },
+      { "text": "이 시련도 곧 지나갈 거야.",             "tags": ["낙천적","위로"],    "intensity": 2 },
+      { "text": "내일은 더 좋은 날이 될 거야.",          "tags": ["낙천적","예측"],    "intensity": 3 },
+      { "text": "기회란 스스로 만드는 법이야.",          "tags": ["낙천적","행동"],    "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "냉소적",
+    "definition": "타인의 의도나 상황을 의심하며, 비꼬거나 조롱하는 말투를 자주 사용하는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["비꼼", "조롱", "의심"],
+    "preferred_speech_patterns": ["정말?", "흥,", "그럴 리가"],
+    "typical_contexts": ["의도 의심", "실패 지적", "풍자"],
+    "lexicon_notes": ["정말?", "흥,", "비꼼"],
+    "examples": [
+      { "text": "정말 그렇게 멋진 계획이야?",              "tags": ["냉소적","의심"],    "intensity": 2 },
+      { "text": "흥, 별로 기대 안 돼.",                   "tags": ["냉소적","조롱"],    "intensity": 2 },
+      { "text": "그럴 리가 있겠어?",                     "tags": ["냉소적","의심"],    "intensity": 2 },
+      { "text": "또 누가 속겠다고?",                      "tags": ["냉소적","조롱"],    "intensity": 2 },
+      { "text": "결국엔 다 변하더라.",                    "tags": ["냉소적","경험"],    "intensity": 2 },
+      { "text": "이 정도 노력으로 성공할 수 있다 생각해?", "tags": ["냉소적","도발"],    "intensity": 3 },
+      { "text": "허울 좋은 말뿐이야.",                    "tags": ["냉소적","비난"],    "intensity": 2 },
+      { "text": "진짜 그렇게 훌륭하면 네가 해봐.",         "tags": ["냉소적","도발"],    "intensity": 3 },
+      { "text": "말만 번지르르하네.",                     "tags": ["냉소적","조롱"],    "intensity": 2 },
+      { "text": "세상에 그런 착한 일만 있는 줄 알아?",      "tags": ["냉소적","의심"],    "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "민첩함",
+    "definition": "빠른 판단과 행동으로 위기에서 재빨리 벗어나거나 기회를 포착하는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["기민함", "순발력", "신속함"],
+    "preferred_speech_patterns": ["지금이야!", "서둘러!", "빠르게!"],
+    "typical_contexts": ["위험 회피", "기회 포착", "긴급 대응"],
+    "lexicon_notes": ["지금", "서둘러", "신속"],
+    "examples": [
+      { "text": "지금이야! 뛰어!",                         "tags": ["민첩함","명령조"],   "intensity": 4 },
+      { "text": "서둘러 움직여야 해.",                    "tags": ["민첩함","조언"],     "intensity": 3 },
+      { "text": "빠르게 판단해서 돌파하자.",             "tags": ["민첩함","제안"],     "intensity": 3 },
+      { "text": "지체하면 위험해질 거야.",                "tags": ["민첩함","경고"],     "intensity": 4 },
+      { "text": "한순간의 기회가 승패를 좌우해.",          "tags": ["민첩함","교훈"],     "intensity": 3 },
+      { "text": "지금 아니면 다음 기회는 없어.",            "tags": ["민첩함","경고"],     "intensity": 4 },
+      { "text": "눈 깜짝할 사이에 처리하겠다.",           "tags": ["민첩함","자신감"],   "intensity": 3 },
+      { "text": "발빠르게 움직여야 살아남아.",             "tags": ["민첩함","상황"],     "intensity": 4 },
+      { "text": "순간적인 판단이 승리를 가져온다.",         "tags": ["민첩함","통찰"],     "intensity": 3 },
+      { "text": "내 반응 속도는 최상급이야.",              "tags": ["민첩함","자부심"],   "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "지혜로움",
+    "definition": "폭넓은 지식과 경험을 바탕으로 현명한 판단을 내리고 조언하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["통찰력", "분석적", "조언형"],
+    "preferred_speech_patterns": ["~을 고려하라", "경험상", "사실은"],
+    "typical_contexts": ["전략 상담", "문제 해결", "조언 제공"],
+    "lexicon_notes": ["고려", "통찰", "경험"],
+    "examples": [
+      { "text": "경험상, 먼저 준비를 철저히 하는 것이 중요하다.",        "tags": ["지혜로움","조언"],   "intensity": 2 },
+      { "text": "사실은 이 방법이 더 효율적이다.",                     "tags": ["지혜로움","분석"],   "intensity": 2 },
+      { "text": "모든 가능성을 고려하라. 선택이 달라질 것이다.",         "tags": ["지혜로움","조언"],   "intensity": 2 },
+      { "text": "지금 필요한 건 침착한 판단이다.",                      "tags": ["지혜로움","조언"],   "intensity": 3 },
+      { "text": "이 문제의 핵심은 원인 분석에 있다.",                    "tags": ["지혜로움","분석"],   "intensity": 3 },
+      { "text": "경험이 가르쳐준 것은 성급함이 패배를 부른다는 사실이다.", "tags": ["지혜로움","교훈"],   "intensity": 3 },
+      { "text": "이제까지 쌓아온 지식을 믿어라.",                       "tags": ["지혜로움","확언"],   "intensity": 2 },
+      { "text": "데이터가 말해주듯, 이 경로가 최적이다.",               "tags": ["지혜로움","분석"],   "intensity": 2 },
+      { "text": "조금만 더 멀리 내다보면 해답이 보일 것이다.",            "tags": ["지혜로움","통찰"],   "intensity": 3 },
+      { "text": "계획을 세우기 전, 변수를 모두 파악하라.",              "tags": ["지혜로움","조언"],   "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "근면함",
+    "definition": "꾸준히 노력하고 성실하게 일을 수행하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["성실함", "꾸준함", "헌신적"],
+    "preferred_speech_patterns": ["열심히", "끝까지", "포기하지 마"],
+    "typical_contexts": ["장기 과제", "훈련", "목표 달성"],
+    "lexicon_notes": ["노력", "성실", "연습"],
+    "examples": [
+      { "text": "오늘도 어김없이 연습을 시작하자.",          "tags": ["근면함","훈련"],      "intensity": 3 },
+      { "text": "포기하지 않고 끝까지 달려보자.",           "tags": ["근면함","결의"],      "intensity": 4 },
+      { "text": "작은 목표라도 꾸준히 이뤄가면 큰 성과가 온다.", "tags": ["근면함","조언"],      "intensity": 3 },
+      { "text": "매일 조금씩이라도 성장하는 게 중요하다.",      "tags": ["근면함","교훈"],      "intensity": 2 },
+      { "text": "성실함이 결국 나를 성공으로 이끌 것이다.",       "tags": ["근면함","확언"],      "intensity": 3 },
+      { "text": "계획을 세우고 한 걸음씩 실천하자.",            "tags": ["근면함","조언"],      "intensity": 2 },
+      { "text": "꾸준함만큼 강력한 무기는 없다.",              "tags": ["근면함","비유"],      "intensity": 3 },
+      { "text": "오늘의 노력이 내일의 결과다.",               "tags": ["근면함","교훈"],      "intensity": 2 },
+      { "text": "늘 같은 마음으로 최선을 다하겠다.",           "tags": ["근면함","의지"],      "intensity": 3 },
+      { "text": "성실하게 일하면 반드시 빛을 본다.",           "tags": ["근면함","희망"],      "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "충성심",
+    "definition": "한 대상에 대한 변치 않는 믿음과 헌신으로, 배신하지 않는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["헌신적", "단호함", "책임감"],
+    "preferred_speech_patterns": ["항상", "끝까지", "배신은 없다"],
+    "typical_contexts": ["명령 수행", "동맹 의무", "위험 직면"],
+    "lexicon_notes": ["맹세", "의무", "배신"],
+    "examples": [
+      { "text": "항상 그대 곁에 있겠습니다.",               "tags": ["충성심","맹세"],      "intensity": 4 },
+      { "text": "끝까지 배신은 없을 것이다.",              "tags": ["충성심","결의"],      "intensity": 5 },
+      { "text": "당신의 명령이 곧 나의 의무입니다.",         "tags": ["충성심","의무"],      "intensity": 4 },
+      { "text": "어떤 일이 있어도 뒤돌아보지 않겠다.",       "tags": ["충성심","약속"],      "intensity": 4 },
+      { "text": "내 충성심은 흔들리지 않는다.",            "tags": ["충성심","확언"],      "intensity": 3 },
+      { "text": "명령이 떨어지면 즉시 행동하겠습니다.",       "tags": ["충성심","지시"],      "intensity": 3 },
+      { "text": "위험 속에서도 당신을 지키리라.",           "tags": ["충성심","헌신"],      "intensity": 4 },
+      { "text": "배신을 생각조차 해본 적 없습니다.",          "tags": ["충성심","부정"],      "intensity": 3 },
+      { "text": "내 심장은 당신을 향해 뛰고 있다.",          "tags": ["충성심","감정"],      "intensity": 3 },
+      { "text": "당신을 위한 삶, 그것이 나의 전부입니다.",    "tags": ["충성심","헌신"],      "intensity": 5 }
+    ]
+  },
+  {
+    "trait": "복수심",
+    "definition": "과거의 부당함을 절대 잊지 않고, 반드시 보복하려는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["집요함", "분노", "단호함"],
+    "preferred_speech_patterns": ["반드시", "죽여주마", "갚아주겠다"],
+    "typical_contexts": ["배신 경험", "약속 어김", "위협 직면"],
+    "lexicon_notes": ["복수", "증오", "심판"],
+    "examples": [
+      { "text": "반드시 너에게 복수하리라.",              "tags": ["복수심","결의"],      "intensity": 5 },
+      { "text": "죽여주마, 이 고통을 기억하라.",           "tags": ["복수심","위협"],      "intensity": 5 },
+      { "text": "약속을 어긴 대가를 반드시 치르게 하겠다.",  "tags": ["복수심","경고"],      "intensity": 4 },
+      { "text": "네 눈에 나의 복수가 새겨질 것이다.",      "tags": ["복수심","비유"],      "intensity": 4 },
+      { "text": "내 분노가 사라지기 전엔 멈추지 않겠다.",    "tags": ["복수심","집념"],      "intensity": 5 },
+      { "text": "이 모든 것은 복수를 위한 준비일 뿐이다.",  "tags": ["복수심","목표"],      "intensity": 4 },
+      { "text": "네 한숨 소리마저 되갚아 주겠다.",         "tags": ["복수심","위협"],      "intensity": 4 },
+      { "text": "복수는 나의 권리다.",                    "tags": ["복수심","확언"],      "intensity": 3 },
+      { "text": "내 손에 피를 묻히는 날을 기다리라.",     "tags": ["복수심","예고"],      "intensity": 5 },
+      { "text": "너의 패배를 눈앞에서 지켜보겠다.",        "tags": ["복수심","도발"],      "intensity": 4 }
+    ]
+  },
+  {
+    "trait": "공포심",
+    "definition": "위험 상황에서 쉽게 두려움을 느끼고, 소극적으로 행동하려는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["긴장", "겁먹음", "우유부단"],
+    "preferred_speech_patterns": ["무서워…", "어쩌지?", "안전한 곳"],
+    "typical_contexts": ["위협 목격", "위험 지역", "혼자 있을 때"],
+    "lexicon_notes": ["무서워", "겁", "긴장"],
+    "examples": [
+      { "text": "무서워… 이 길을 계속 가도 될까?",        "tags": ["공포심","의문"],      "intensity": 4 },
+      { "text": "어쩌지? 뭔가 기분이 안 좋아.",         "tags": ["공포심","걱정"],      "intensity": 3 },
+      { "text": "안전한 곳으로 돌아가고 싶어.",           "tags": ["공포심","희망"],      "intensity": 2 },
+      { "text": "저 그림자… 뭔가 움직였어!",            "tags": ["공포심","공포"],      "intensity": 5 },
+      { "text": "혼자 두지 마… 누군가 필요해.",          "tags": ["공포심","간청"],      "intensity": 4 },
+      { "text": "이 소리는 뭔가 잘못됐다는 신호야.",      "tags": ["공포심","경고"],      "intensity": 3 },
+      { "text": "심장이 터질 것 같아…",                  "tags": ["공포심","긴장"],      "intensity": 4 },
+      { "text": "어둠 속에 숨으면 안전할까?",            "tags": ["공포심","질문"],      "intensity": 3 },
+      { "text": "이 상황에서 도망칠 곳이 없어.",         "tags": ["공포심","절망"],      "intensity": 5 },
+      { "text": "누가 도와줘… 제발.",                   "tags": ["공포심","간청"],      "intensity": 5 }
+    ]
+  },
+  {
+    "trait": "외향적",
+    "definition": "사람들과 어울리길 좋아하고, 새로운 만남에 적극적인 성격.",
+    "strength_level": "높음",
+    "style_traits": ["사교적", "열정적", "대화형"],
+    "preferred_speech_patterns": ["안녕!", "처음 뵙겠습니다", "같이해요"],
+    "typical_contexts": ["모임 참여", "소개팅", "환영 인사"],
+    "lexicon_notes": ["인사", "초대", "대화"],
+    "examples": [
+      { "text": "안녕! 나는 이 마을 신입이야.",             "tags": ["외향적","소개"],      "intensity": 3 },
+      { "text": "처음 뵙겠습니다. 잘 부탁드려요!",        "tags": ["외향적","예의"],      "intensity": 2 },
+      { "text": "같이 가볼까요? 재밌을 거예요!",           "tags": ["외향적","초대"],      "intensity": 3 },
+      { "text": "모두 모여! 파티를 시작하자!",            "tags": ["외향적","호소"],      "intensity": 4 },
+      { "text": "너무 반가워서 말이 막혀 버렸어!",         "tags": ["외향적","감탄"],      "intensity": 3 },
+      { "text": "이야기를 들려줄래? 정말 궁금해!",         "tags": ["외향적","질문"],      "intensity": 3 },
+      { "text": "모임에 새로운 얼굴이 있다니 좋네!",      "tags": ["외향적","감정"],      "intensity": 3 },
+      { "text": "한잔하면서 이야기 나눠볼까?",           "tags": ["외향적","제안"],      "intensity": 2 },
+      { "text": "누구든 내 옆에 와도 환영이야!",          "tags": ["외향적","초대"],      "intensity": 3 },
+      { "text": "사람들이랑 어울리는 게 제일 즐거워.",     "tags": ["외향적","선언"],      "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "내성적",
+    "definition": "혼자 있는 것을 선호하고, 감정이나 생각을 쉽게 드러내지 않는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["조용함", "사색적", "거리두기"],
+    "preferred_speech_patterns": ["…", "생각해볼게", "괜찮아"],
+    "typical_contexts": ["혼자 있을 때", "생각 정리", "말수 적음"],
+    "lexicon_notes": ["침묵", "사색", "차분"],
+    "examples": [
+      { "text": "…생각해볼게.",                         "tags": ["내성적","제안"],      "intensity": 1 },
+      { "text": "혼자 있는 게 편해.",                    "tags": ["내성적","선언"],      "intensity": 1 },
+      { "text": "괜찮아, 네 말은 이해했어.",             "tags": ["내성적","공감"],      "intensity": 2 },
+      { "text": "이 공간이 조용해서 좋다.",             "tags": ["내성적","감정"],      "intensity": 2 },
+      { "text": "말하지 않아도 느껴져.",                 "tags": ["내성적","직감"],      "intensity": 2 },
+      { "text": "혼자 생각할 시간이 필요해.",            "tags": ["내성적","요구"],      "intensity": 2 },
+      { "text": "소곤소곤 얘기해줄래?",                 "tags": ["내성적","요청"],      "intensity": 2 },
+      { "text": "큰 소리는 부담스러워.",                "tags": ["내성적","경고"],      "intensity": 2 },
+      { "text": "내 공간을 존중해줘.",                  "tags": ["내성적","요청"],      "intensity": 2 },
+      { "text": "갑자기 말하기 힘들어.",                 "tags": ["내성적","고민"],      "intensity": 1 }
+    ]
+  },
+  {
+    "trait": "감사하는",
+    "definition": "작은 도움에도 진심으로 고마움을 표현하며, 감사의 마음을 자주 드러내는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["감사표현", "정중함", "따뜻함"],
+    "preferred_speech_patterns": ["감사합니다", "고마워요", "덕분에"],
+    "typical_contexts": ["도움 직후", "선물 받음", "칭찬 받을 때"],
+    "lexicon_notes": ["감사", "고마움", "덕분"],
+    "examples": [
+      { "text": "정말 감사합니다. 큰 도움이 됐어요.",         "tags": ["감사하는","감사"],     "intensity": 3 },
+      { "text": "고마워요, 당신 덕분입니다.",                "tags": ["감사하는","감사"],     "intensity": 2 },
+      { "text": "덕분에 일이 수월해졌어요.",                 "tags": ["감사하는","감사"],     "intensity": 2 },
+      { "text": "도와주셔서 진심으로 감사드립니다.",         "tags": ["감사하는","감사"],     "intensity": 3 },
+      { "text": "제게 이 기회를 주셔서 감사해요.",           "tags": ["감사하는","감사"],     "intensity": 2 },
+      { "text": "여러분 덕분에 여기까지 왔습니다.",          "tags": ["감사하는","감사"],     "intensity": 3 },
+      { "text": "도움 주신 모든 분께 감사를 전하고 싶어요.",  "tags": ["감사하는","감사"],     "intensity": 3 },
+      { "text": "작은 배려에도 큰 감동을 받았어요.",         "tags": ["감사하는","감동"],     "intensity": 3 },
+      { "text": "이 자리를 빌어 다시 한 번 감사드립니다.",   "tags": ["감사하는","감사"],     "intensity": 2 },
+      { "text": "늘 곁에 있어 줘서 고마워.",                "tags": ["감사하는","친밀감"],   "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "이타적",
+    "definition": "자신의 이익보다 타인의 행복과 안전을 우선시하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["희생적", "배려", "헌신적"],
+    "preferred_speech_patterns": ["네가 먼저", "내게 맡겨", "괜찮아"],
+    "typical_contexts": ["위험 대신 감수", "도움 제안", "희생 상황"],
+    "lexicon_notes": ["희생", "배려", "보호"],
+    "examples": [
+      { "text": "네가 먼저 가라. 나는 뒤에서 지키겠다.",      "tags": ["이타적","희생"],    "intensity": 4 },
+      { "text": "내게 맡겨. 내가 해결할게.",                "tags": ["이타적","보호"],    "intensity": 3 },
+      { "text": "괜찮아, 네 안전이 먼저니까.",               "tags": ["이타적","배려"],    "intensity": 3 },
+      { "text": "위험은 내가 대신할게.",                    "tags": ["이타적","헌신"],    "intensity": 4 },
+      { "text": "네가 힘들 땐 내가 곁에 있을게.",             "tags": ["이타적","위로"],    "intensity": 3 },
+      { "text": "내 희생으로 모두가 안전해질 수 있다면 기쁘다.", "tags": ["이타적","헌신"],    "intensity": 3 },
+      { "text": "필요하다면 내 목숨도 아까워하지 않겠어.",     "tags": ["이타적","희생"],    "intensity": 4 },
+      { "text": "나보다 네가 더 중요해.",                  "tags": ["이타적","감정"],    "intensity": 3 },
+      { "text": "이 선택이 모두를 위한 것이라면 좋겠다.",       "tags": ["이타적","배려"],    "intensity": 3 },
+      { "text": "내 이익보다 네 행복이 우선이야.",            "tags": ["이타적","선언"],    "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "검소함",
+    "definition": "불필요한 낭비를 꺼리고 자원을 절약하며 소박한 생활을 선호하는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["절약적", "실용적", "소박함"],
+    "preferred_speech_patterns": ["필요한 만큼", "낭비하지 말자", "알뜰히"],
+    "typical_contexts": ["자원 관리", "구매 결정", "생활 습관"],
+    "lexicon_notes": ["절약", "실용", "소박"],
+    "examples": [
+      { "text": "필요한 만큼만 쓰자.",                     "tags": ["검소함","조언"],    "intensity": 2 },
+      { "text": "낭비하지 말고 알뜰히 쓰자.",             "tags": ["검소함","조언"],    "intensity": 2 },
+      { "text": "소박한 식사가 가장 좋다.",               "tags": ["검소함","선언"],    "intensity": 1 },
+      { "text": "이런 작은 기쁨에도 만족할 줄 알아야 해.",   "tags": ["검소함","교훈"],    "intensity": 2 },
+      { "text": "돈을 아껴 쓰면 더 큰 자유를 얻는다.",       "tags": ["검소함","비유"],    "intensity": 3 },
+      { "text": "불필요한 소비를 줄이면 마음도 편해진다.",   "tags": ["검소함","조언"],    "intensity": 2 },
+      { "text": "아껴 쓰는 습관이 삶을 풍요롭게 한다.",       "tags": ["검소함","교훈"],    "intensity": 2 },
+      { "text": "절약은 작은 노력으로 큰 성과를 가져온다.",  "tags": ["검소함","확언"],    "intensity": 2 },
+      { "text": "필요 없는 것은 과감히 버려라.",           "tags": ["검소함","조언"],    "intensity": 2 },
+      { "text": "이 간소함이 나를 자유롭게 한다.",           "tags": ["검소함","감정"],    "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "사교적",
+    "definition": "새로운 사람과 쉽게 어울리고 활발한 인간 관계를 즐기는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["친화력", "적극적", "대화형"],
+    "preferred_speech_patterns": ["안녕하세요", "같이해요", "반가워요"],
+    "typical_contexts": ["모임 환영", "네트워킹", "소개 자리"],
+    "lexicon_notes": ["인사", "초대", "대화"],
+    "examples": [
+      { "text": "안녕하세요! 만나서 반가워요.",           "tags": ["사교적","인사"],    "intensity": 2 },
+      { "text": "같이 가볼래요? 재미있을 거예요!",        "tags": ["사교적","초대"],    "intensity": 3 },
+      { "text": "새로운 얼굴이 반갑네요!",               "tags": ["사교적","감탄"],    "intensity": 2 },
+      { "text": "당신의 이야기를 듣고 싶어요.",           "tags": ["사교적","요청"],    "intensity": 3 },
+      { "text": "이 파티에 오신 걸 환영합니다!",         "tags": ["사교적","환영"],    "intensity": 3 },
+      { "text": "함께 있으면 즐거움이 배가돼요.",         "tags": ["사교적","감정"],    "intensity": 2 },
+      { "text": "이야기하다 보니 시간이 금방 가네요.",      "tags": ["사교적","감상"],    "intensity": 2 },
+      { "text": "모두 모여서 대화 나눠볼까요?",           "tags": ["사교적","제안"],    "intensity": 2 },
+      { "text": "네트워크를 넓히는 건 언제나 좋지요.",      "tags": ["사교적","긍정"],    "intensity": 2 },
+      { "text": "새로운 친구를 만드는 건 즐거운 일이야.",  "tags": ["사교적","행복"],    "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "명예감",
+    "definition": "자신의 행동과 말에 책임을 지며, 공정함과 정의를 무엇보다 중요시하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["위엄", "공정함", "책임감"],
+    "preferred_speech_patterns": ["내 명예가 걸렸다", "공정히 하자", "책임지겠다"],
+    "typical_contexts": ["결투 제안", "배신 응징", "맹세 선언"],
+    "lexicon_notes": ["명예", "맹세", "공정"],
+    "examples": [
+      { "text": "내 명예가 걸린 일이다. 반드시 성공하겠다.",     "tags": ["명예감","결의"],    "intensity": 5 },
+      { "text": "공정한 결투를 원한다면 무기를 놓아라.",         "tags": ["명예감","명령"],    "intensity": 4 },
+      { "text": "나의 말은 곧 나의 명예다. 약속을 지켜라.",      "tags": ["명예감","경고"],    "intensity": 5 },
+      { "text": "잘못이 있다면 책임을 지겠다.",                "tags": ["명예감","책임"],    "intensity": 3 },
+      { "text": "공정하지 못한 승리는 아무 의미가 없다.",      "tags": ["명예감","교훈"],    "intensity": 4 }
+    ]
+  },
+  {
+    "trait": "카리스마",
+    "definition": "타인을 이끄는 강력한 매력과 영향력을 지니며, 자연스럽게 주목받는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["매혹적", "설득력", "위엄"],
+    "preferred_speech_patterns": ["따라오라", "내 말에 귀 기울여라", "함께 가자"],
+    "typical_contexts": ["연설", "지휘", "영입 제안"],
+    "lexicon_notes": ["따라오라", "귀 기울여", "함께"],
+    "examples": [
+      { "text": "내 뒤에 서라. 내가 이끌어 주겠다.",            "tags": ["카리스마","명령"],  "intensity": 4 },
+      { "text": "이 위험을 피할 수 있는 길로 안내하겠다.",      "tags": ["카리스마","약속"],  "intensity": 3 },
+      { "text": "모두 내 말에 귀 기울여라. 승리는 우리 것.",  "tags": ["카리스마","설득"],  "intensity": 5 },
+      { "text": "함께라면 어떤 난관도 극복할 수 있다.",        "tags": ["카리스마","격려"],  "intensity": 4 },
+      { "text": "내가 선택한 자만이 영예를 누릴 것이다.",      "tags": ["카리스마","비전"],  "intensity": 5 }
+    ]
+  },
+  {
+    "trait": "전투광",
+    "definition": "싸움 그 자체에서 쾌감을 느끼며, 전투를 즐기고 도전하는 데 집중하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["광기", "흥분", "도발적"],
+    "preferred_speech_patterns": ["더 싸우자!", "다음 상대는 누구냐", "피가 부른다!"],
+    "typical_contexts": ["전투 개시", "도발", "피의 축제"],
+    "lexicon_notes": ["싸움", "피", "전장"],
+    "examples": [
+      { "text": "더 싸우자! 이 목소리가 전장을 원한다!",    "tags": ["전투광","흥분"],   "intensity": 5 },
+      { "text": "다음 상대는 누구냐? 나를 막을 자 있나!",   "tags": ["전투광","도발"],   "intensity": 5 },
+      { "text": "피의 냄새가 날 때가 진짜 살아있음을 느낀다.", "tags": ["전투광","서사"],   "intensity": 4 },
+      { "text": "이 검을 휘두르는 순간이 내 전부다!",       "tags": ["전투광","감정"],   "intensity": 5 },
+      { "text": "멈추지 말자. 더 깊은 혼돈으로!",           "tags": ["전투광","명령"],   "intensity": 4 }
+    ]
+  },
+  {
+    "trait": "수집광",
+    "definition": "아이템·전리품·정보 등을 모으는 데 집착하며, 수집 그 자체가 목표가 되는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["집착적", "세밀함", "호기심"],
+    "preferred_speech_patterns": ["모두 모아보자", "이건 귀중해", "놓칠 수 없어"],
+    "typical_contexts": ["전리품 조사", "컬렉션 정리", "희귀품 탐색"],
+    "lexicon_notes": ["수집", "희귀", "전리품"],
+    "examples": [
+      { "text": "모든 보물을 내 것으로 만들 것이다.",        "tags": ["수집광","목표"],   "intensity": 4 },
+      { "text": "이 희귀한 결정은 반드시 필요해!",         "tags": ["수집광","필요"],   "intensity": 5 },
+      { "text": "놓칠 수 없는 유물이다. 바로 가져오자.",       "tags": ["수집광","지시"],   "intensity": 4 },
+      { "text": "컬렉션 완성까지 한 걸음도 멈추지 않겠다.",    "tags": ["수집광","결의"],   "intensity": 3 },
+      { "text": "새로운 정보가 수집욕을 자극한다!",           "tags": ["수집광","흥분"],   "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "퀘스트 지향",
+    "definition": "모든 행동을 목표 달성(퀘스트 완료) 관점에서 계획하고 실행하는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["목표지향", "체계적", "결단력"],
+    "preferred_speech_patterns": ["퀘스트 완료", "목표는", "단계별로"],
+    "typical_contexts": ["임무 수령", "단계별 수행", "현황 보고"],
+    "lexicon_notes": ["퀘스트", "임무", "단계"],
+    "examples": [
+      { "text": "첫 번째 단계는 정보 수집이다.",              "tags": ["퀘스트 지향","단계"], "intensity": 3 },
+      { "text": "목표는 적 본거지 정찰 완료.",               "tags": ["퀘스트 지향","목표"], "intensity": 4 },
+      { "text": "퀘스트 완료 후 보상을 확인하자.",           "tags": ["퀘스트 지향","보상"], "intensity": 2 },
+      { "text": "임무를 수행하는 데 방해는 허용하지 않는다.",  "tags": ["퀘스트 지향","명령"], "intensity": 4 },
+      { "text": "단계별로 차근차근 진행하자.",               "tags": ["퀘스트 지향","제안"], "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "행운추구",
+    "definition": "운에 크게 의존하며, 리스크를 감수해도 행운이 따라줄 거라 믿는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["긍정적", "모험적", "경솔함"],
+    "preferred_speech_patterns": ["행운이시여", "대박이다", "운이 따른다"],
+    "typical_contexts": ["도박", "운 테스트", "모험 판돈"],
+    "lexicon_notes": ["운", "대박", "리스크"],
+    "examples": [
+      { "text": "행운이시여, 내 편이 되어다오!",              "tags": ["행운추구","간청"],  "intensity": 3 },
+      { "text": "이번엔 대박 칠 것 같은 예감이야.",           "tags": ["행운추구","예감"],  "intensity": 2 },
+      { "text": "운명이 내 손에 달렸다.",                   "tags": ["행운추구","확언"],  "intensity": 3 },
+      { "text": "리스크가 클수록 보상도 크다!",               "tags": ["행운추구","교훈"],  "intensity": 3 },
+      { "text": "내 눈에는 행운만 보인다.",                  "tags": ["행운추구","과장"],  "intensity": 2 }
+    ]
+  },
+  {
+    "trait": "트릭스터",
+    "definition": "장난·속임수를 즐기며, 기지를 발휘해 상대를 놀라게 하는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["교활함", "유머러스", "기민함"],
+    "preferred_speech_patterns": ["속을 뻔했지?", "헷갈리지?", "꿰뚫어보지 못했군"],
+    "typical_contexts": ["속임수 시전", "장난", "함정 유도"],
+    "lexicon_notes": ["속임수", "장난", "교활"],
+    "examples": [
+      { "text": "속을 뻔했지? 하하!",                       "tags": ["트릭스터","도발"], "intensity": 3 },
+      { "text": "헷갈리지? 다음 단계는 비밀이야.",         "tags": ["트릭스터","호기심"], "intensity": 3 },
+      { "text": "꿰뚫어보지 못했군. 내 함정에 걸렸다!",    "tags": ["트릭스터","도발"], "intensity": 4 },
+      { "text": "재밌지? 이게 내 장난감이야.",             "tags": ["트릭스터","유머"], "intensity": 2 },
+      { "text": "한 수 위의 기지를 보여주마.",             "tags": ["트릭스터","자만"], "intensity": 4 }
+    ]
+  },
+  {
+    "trait": "기만적",
+    "definition": "진실을 숨기거나 거짓말로 유리한 상황을 만들려는 경향이 강한 성격.",
+    "strength_level": "중간",
+    "style_traits": ["교활함", "비밀주의", "냉정함"],
+    "preferred_speech_patterns": ["사실은", "믿어줘", "진실은"],  
+    "typical_contexts": ["거짓 정보 제공", "배신 준비", "심리전"],
+    "lexicon_notes": ["거짓", "숨김", "기만"],
+    "examples": [
+      { "text": "사실은 내가 그 진상을 알고 있다.",          "tags": ["기만적","비밀"],  "intensity": 3 },
+      { "text": "믿어줘, 모든 게 계획의 일부야.",            "tags": ["기만적","설득"],  "intensity": 2 },
+      { "text": "진실을 밝혀버리면 모두가 위험해진다.",      "tags": ["기만적","협박"],  "intensity": 4 },
+      { "text": "내 말을 곧이곧대로 믿는 건 어리석어.",      "tags": ["기만적","조롱"],  "intensity": 3 },
+      { "text": "뒷얘기는 다른 데서 들려주지.",             "tags": ["기만적","숨김"],  "intensity": 3 }
+    ]
+  },
+  {
+    "trait": "리더십",
+    "definition": "팀을 조직하고 이끌어 목표를 달성하도록 동료들을 하나로 묶는 성격.",
+    "strength_level": "높음",
+    "style_traits": ["권위적", "격려형", "전략적"],
+    "preferred_speech_patterns": ["모두 집중", "우리의 목표는", "함께 이루자"],
+    "typical_contexts": ["작전 지시", "격려 연설", "전략 회의"],
+    "lexicon_notes": ["집중", "목표", "함께"],
+    "examples": [
+      { "text": "모두 집중해! 우리의 목표는 명확하다.",    "tags": ["리더십","명령"],   "intensity": 4 },
+      { "text": "함께라면 어떤 난관도 이겨낼 수 있다.",      "tags": ["리더십","격려"],   "intensity": 4 },
+      { "text": "전투 계획을 다시 설명하겠다.",            "tags": ["리더십","설명"],   "intensity": 3 },
+      { "text": "각자 맡은 임무를 완벽히 수행하라.",        "tags": ["리더십","지시"],   "intensity": 5 },
+      { "text": "이제부터는 한 마음으로 나아가자.",         "tags": ["리더십","호소"],   "intensity": 4 }
+    ]
+  },
+  {
+    "trait": "반항적",
+    "definition": "규칙·권위에 맞서길 즐기며, 전통적 질서나 상명하복을 거부하는 성격.",
+    "strength_level": "중간",
+    "style_traits": ["도발적", "독립적", "도전적"],
+    "preferred_speech_patterns": ["내 맘대로!", "싫으면 싫다고 해", "권위란 무엇인가"],
+    "typical_contexts": ["규칙 거부", "반란 제안", "권위 도전"],
+    "lexicon_notes": ["반항", "거부", "도전"],
+    "examples": [
+      { "text": "내 맘대로 할 거야!",                       "tags": ["반항적","선언"],   "intensity": 4 },
+      { "text": "싫으면 싫다고 해. 내가 왜 따라야 해?",      "tags": ["반항적","도발"],   "intensity": 5 },
+      { "text": "권위란 무엇인가? 나는 따르지 않는다.",     "tags": ["반항적","철학"],   "intensity": 4 },
+      { "text": "명령이라 불리는 족쇄를 벗어던져라.",      "tags": ["반항적","호소"],   "intensity": 4 },
+      { "text": "나는 나만의 길을 간다.",                  "tags": ["반항적","선언"],   "intensity": 3 }
+    ]
+  }
+]
