@@ -1,0 +1,207 @@
+{
+name: "Mass Effect 3",
+categories:
+[
+{
+name: "Missions",
+Note: "Set to points to 5 in Integers for requirement for Geth/Quarian peace during Rannoch mission.",
+bools: 
+[
+{id: 17787, name: "[Rannoch] Geth destroyed"},
+{id: 17789, name: "[Rannoch] Geth/Quarian peace"},
+{id: 17788, name: "[Rannoch] Quarians destroyed"},
+{id: 17795, name: "[Rannoch] Shepard wants quarians to beat geth"},
+{id: 18927, name: "[Genophage] Cure sabotaged"},
+{id: 18926, name: "[Genophage] Cured"},
+{id: 18846, name: "[Rachni] Saved Breeder"},
+{id: 17900, name: "[Rachni] Saved Queen"},
+{id: 17901, name: "[Rachni] Killed Queen"},
+{id: 17902, name: "[Rachni] Killed Breeder"},
+{id: 19297, name: "[Medigel Sabotage] Finished Quest"},
+{id: 21196, name: "[Hanar Diplomat] Finished Quest"},
+{id: 21451, name: "[Hanar Diplomat] Saved Kahje"},
+{id: 22573, name: "[Aria: Blue Suns] Got artifact for Kannik"},
+{id: 19480, name: "[Temp] Citadel coup debrief finished"},
+{id: 17742, name: "[Temp] Sur'Kesh completed"},
+],
+
+ints:
+[
+{id: 10212, name: "[Rannoch] Points towards Geth/Quarian Peace"},
+],
+},
+{
+name: "Characters",
+Note: "If Steve Cortez Moving On is set to 0, he will die and be considered dead in Priority: Earth. The sum of a character's friendship score in the Integer section determines Shepard's best friends which affects the ending and seemingly the Citadel DLC. *Doesn't really work in actual combat situations, but you can set Shepard isCombatPawn true and have them follow you around near the combat simulator teleporter. **You can have Wrex follow you around anywhere in the Citadel DLC.",
+bools:
+[
+{id: 17680, name: "[Ashley] Recruited"},
+{id: 19724, name: "[Ashley] Locked-in romance"}, 
+{id: 17665, name: "[Ashley] Currently in 3-man squad"},
+{id: 18199, name: "[Ashley] Killed during coup"},
+{id: 18893, name: "[Ashley] Killed by Shepard"},
+{id: 19519, name: "[Ashley] Killed by Garrus"},
+{id: 19521, name: "[Ashley] Killed by James"}, 
+{id: 19523, name: "[Ashley] Killed by Liara"},
+{id: 19525, name: "[Ashley] Killed by EDI"}, 
+{id: 19527, name: "[Ashley] Killed by Javik"}, 
+{id: 18241, name: "[Ashley] Brought on last mission"},
+
+{id: 19181, name: "[Chakwas] Recruited"},
+
+{id: 20630, name: "[Diana] Had sex"},
+{id: 20624, name: "[Diana] Told to get off ship"},
+{id: 20574, name: "[Diana] On Normandy"},
+
+{id: 17682, name: "[EDI] Recruited"},
+{id: 17667, name: "[EDI] Currently in 3-man squad"},
+{id: 18243, name: "[EDI] Brought on last mission"},
+{id: 20166, name: "[EDI] Romancing Joker"},
+
+{id: 17681, name: "[Garrus] Recruited"},
+{id: 17666, name: "[Garrus] Currently in 3-man squad"},
+{id: 19725, name: "[Garrus] Locked-in romance"}, 
+{id: 18242, name: "[Garrus] Brought on last mission"}, 
+{id: 19715, name: "[Garrus] Rekindled romance"}, 
+{id: 19730, name: "[Garrus] Broke up"}, 
+
+{id: 18913, name: "[Grunt] Killed during Krogan Squad Mission"}, 
+{id: 24759, name: "[Grunt] Currently in 3-man squad*"}, 
+
+{id: 19846, name: "[Jack] Locked-in romance"},
+{id: 24755, name: "[Jack] Currently in 3-man squad*"},
+
+{id: 24757, name: "[Jacob] Currently in 3-man squad*"},
+
+{id: 19578, name: "[James] Allowed to call Shepard Loco"},
+{id: 19579, name: "[James] Allowed to call Shepard Lola"},
+{id: 17694, name: "[James] Recruited"},
+{id: 17692, name: "[James] Currently in 3-man squad"},
+{id: 18245, name: "[James] Brought on last mission"},
+{id: 21078, name: "[James] Present during Noveria mission"},
+
+{id: 17683, name: "[Javik] Recruited"},
+{id: 17668, name: "[Javik] Currently in 3-man squad"},
+{id: 18244, name: "[Javik] Brought on last mission"},
+
+{id: 17679, name: "[Kaidan] Recruited"},
+{id: 19723, name: "[Kaidan] Locked-in romance"},
+{id: 17664, name: "[Kaidan] Currently in 3-man squad"},
+
+{id: 18445, name: "[Kaidan] Killed during coup"},
+{id: 19520, name: "[Kaidan] Killed by Garrus"}, 
+{id: 19522, name: "[Kaidan] Killed by James"}, 
+{id: 19524, name: "[Kaidan] Killed by Liara"},
+{id: 19526, name: "[Kaidan] Killed by EDI"}, 
+{id: 19528, name: "[Kaidan] Killed by Javik"}, 
+{id: 20266, name: "[Kaidan] Killed by Shepard"},
+{id: 19251, name: "[Kaidan] Shepard renegade on Mars"},
+{id: 18240, name: "[Kaidan] Brought on last mission"},
+
+{id: 21100, name: "[Kelly] Rekindled romance"},
+
+{id: 19189, name: "[Kirrahe] Killed by Kai Leng"},
+
+{id: 17678, name: "[Liara] Recruited"},
+{id: 17663, name: "[Liara] Currently in 3-man squad"},
+{id: 19722, name: "[Liara] Locked-in romance"},
+{id: 21758, name: "[Liara] Rekindled romance"},
+{id: 19727, name: "[Liara] Broke up"},
+
+{id: 19182, name: "[Michel] Recruited"},
+
+{id: 21750, name: "[Miranda] Locked-in romance"}, 
+{id: 20278, name: "[Miranda] Died on Horizon"},
+{id: 20687, name: "[Miranda] Survived Horizon"},
+{id: 24756, name: "[Miranda] Currently In 3-man squad*"},
+
+{id: 20494, name: "[Mordin/Padok] Agreed to sabotage cure"},
+{id: 19062, name: "[Mordin/Padok] Killed by Shepard"},
+
+{id: 19835, name: "[Samantha] Locked-in romance"},
+
+{id: 24758, name: "[Samara] Currently in 3-man squad*"},
+{id: 19303, name: "[Samara] Committed suicide"},
+{id: 19921, name: "[Samara] Stopped from committing suicide"},
+{id: 25045, name: "[Samara] Romanced?"},
+
+{id: 19838, name: "[Steve] Locked-in romance"},
+
+{id: 17838, name: "[Tali] Recruited"},
+{id: 17836, name: "[Tali] Currently in 3-man squad"},
+{id: 19726, name: "[Tali] Locked-in romance"},
+{id: 17796, name: "[Tali] Rekindled romance"},
+{id: 18246, name: "[Tali] Brought on last mission"},
+{id: 19731, name: "[Tali] Broke up"},
+
+{id: 19283, name: "[Thane] Made out and continued romance"},
+{id: 18819, name: "[Thane] Spoke to him at hospital"},
+{id: 19188, name: "[Thane] Wounded by Kai Leng"},
+{id: 18714, name: "[Thane] Died"},
+{id: 24385, name: "[Thane] Romance Active (Citadel DLC only)"},
+
+{id: 19704, name: "[Udina] Killed by Shepard"},
+
+{id: 19186, name: "[Salarian Councilor] Killed by Kai Leng"},
+
+{id: 19769, name: "[Wrex] Killed by Shepard on Citadel"},
+{id: 514, name: "[Wrex] Currently in 3-man squad**"},
+
+{id: 18184, name: "[Zaal'Korris] Saved"},
+
+{id: 24767, name: "[Zaeed] Currently in 3-man squad*"},
+{id: 21838, name: "[Zaeed] Died"},
+],
+
+ints:
+[
+{id: 10314, name: "[Ashley] Friendship Score A"},
+{id: 10330, name: "[Ashley] Friendship Score B"},
+
+{id: 10316, name: "[EDI] Friendship Score A"},
+{id: 10332, name: "[EDI] Friendship Score B"},
+
+{id: 10315, name: "[Garrus] Friendship Score A"},
+{id: 10331, name: "[Garrus] Friendship Score B"},
+
+{id: 10319, name: "[James] Friendship Score A"},
+{id: 10334, name: "[James] Friendship Score B"},
+
+{id: 10317, name: "[Javik] Friendship Score A"},
+{id: 10333, name: "[Javik] Friendship Score B"},
+
+{id: 10313, name: "[Kaidan] Friendship Score A"},
+{id: 10329, name: "[Kaidan] Friendship Score B"},
+
+{id: 10312, name: "[Liara] Friendship Score A"},
+{id: 10328, name: "[Liara] Friendship Score B"},
+
+{id: 10410, name: "[Steve] Moving On Progress"},
+
+{id: 10318, name: "[Tali] Friendship Score A"},
+{id: 10335, name: "[Tali] Friendship Score B"},
+],
+},
+
+{
+name: "Misc",
+bools:
+[
+{id: 21041, name: "[Space Hamster] Caught"},
+{id: 24821, name: "[Armor] Cerberus Spirit Unlocked"},
+{id: 24820, name: "[Armor] Cerberus Nightmare Unlocked"},
+{id: 24819, name: "[Armor] Cerberus Shade Unlocked"},
+
+
+
+],
+ints:
+[
+{id: 11090, name: "[Bronze Tokens]\nMust be negative - ie. -3 is 3 tokens"},
+{id: 11091, name: "[Silver Tokens]\nMust be negative - ie. -3 is 3 tokens"},
+{id: 11092, name: "[Gold Tokens]\nMust be negative - ie. -3 is 3 tokens"},
+],
+
+},
+],
+}
