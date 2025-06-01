@@ -4,6 +4,7 @@ import copy
 import requests
 from exceptiongroup import catch
 from openai import OpenAI
+import random
 
 def _get_json_data(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
@@ -217,6 +218,25 @@ def get_name_none(npc, description_dict):
     name = json_args.get("name", "이름없음")
     return name, None
 
+def generate_korean_name(name_format_path):
+    name_format = _get_json_data(name_format_path)
+    family_names_list= name_format["family_name"]
+    hanja_list=name_format["Name_Hanja"]
+    hangul_list=name_format["Name_Hangul"]
+
+
+    while True:
+        random_rate = random.randint(0, 100)
+        family_name = random.choice(family_names_list)
+        #full_name=""
+        if random_rate < 50:
+            full_name = family_name+random.choice(hanja_list)+random.choice(hanja_list)
+        else:
+            full_name = family_name+random.choice(hangul_list)
+        print("NAME: ", full_name)
+        yield full_name
+
+
 def turn_npc_args():
     npc=dict()
     description_dict=dict()
@@ -247,16 +267,18 @@ def turn_npc_args():
 
 def make_npc():
     code_int=0
+    korean_name_generator = generate_korean_name("name_format.json")
     for npc, description_dict in turn_npc_args():
         try:
             print(f"다음의 NPC를 생성할 시도: {npc}")
-            if not check_coexistence(npc, description_dict):
-                print(f"존재할 수 없는 NPC: {npc}")
-                continue
+            #if not check_coexistence(npc, description_dict):
+            #    print(f"존재할 수 없는 NPC: {npc}")
+            #    continue
             npc["code"]="N"+str(code_int)
             npc["type"]="npc"
-            name, desc = get_name_description(npc, description_dict)
+            #name, desc = get_name_description(npc, description_dict)
             #name, desc = get_name_none(npc, description_dict)
+            name, desc = next(korean_name_generator), None
             if not name:
                 print(f"이름 생성 실패: {npc}")
                 continue
@@ -267,7 +289,8 @@ def make_npc():
             yield copy.deepcopy(npc)
         except Exception as e:
             print(f"ERROR: {e}")
-            continue
+            #continue
+            raise
 
 
 

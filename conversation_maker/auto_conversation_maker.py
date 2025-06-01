@@ -105,7 +105,7 @@ if __name__ == "__main__":
     conversation_formated_dict = json.load(open("conversation_sample.json"))
 
     conversation_maker = ConversationMaker(player_dict, npc_dict, conversation_formated_dict)
-    jsonl_writer = JsonlWriter("conversation_output.jsonl")
+    jsonl_writer = JsonlWriter("conversation_backup.jsonl")
     jsonl_writer.new_file()
 
     try:
