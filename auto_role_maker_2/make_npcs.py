@@ -126,7 +126,7 @@ def get_name_description(npc, description_dict):
     """
     func_def = {
         "name": "generate_npc_profile",
-        "description": "NPC의 이름과 설명을 생성",
+        "description": "Generate a name and a one-sentence description for the NPC.",
         "parameters": {
             "type": "object",
             "properties": {
@@ -134,14 +134,13 @@ def get_name_description(npc, description_dict):
                     "type": "string",
                     "description":
                         """
-                        1. 어울리는 NPC 이름을 로마자가 아닌 한글로 생성할 것.
-                        2. 제공된 요소들에 어울리는 한글 NPC 이름이어야 한다.
-                        3. 이때 반드시 순수한 이름 이어야 한다. ㅇㅇ공주, ㅇㅇ왕비, ㅇㅇ여왕 등의 호칭이 붙을 경우 죽여버리겠다.
+                        Generate a natural-sounding NPC name by "hangul" for use in an RPG game.
+                        e.g. 레온, 리아, 이안, 아린, 제이드
                         """
                 },
                 "description": {
                     "type": "string",
-                    "description": "NPC의 배경을 설명하는 한글 문장, 여러 어젠더를 사용하여 다양하게 할 것"
+                    "description": "Use diverse agendas and writing styles to describe the NPC’s background in Korean."
                 }
             },
             "required": ["name", "description"]
@@ -149,12 +148,12 @@ def get_name_description(npc, description_dict):
     }
     messages = [
         {"role": "system", "content":
-            "당신은 주어진 NPC 속성으로 적절한 이름과 설명을 만드는 작가입니다."
+            "You are a creative writer who crafts appropriate names and descriptions based on the given NPC attributes."
          },
         {"role": "user", "content":
             f"NPC 정보: {json.dumps(npc, ensure_ascii=False)}\n"
             f"세부 설명: {json.dumps(description_dict, ensure_ascii=False)}\n"
-            "이 NPC에 어울리는 이름과 한 문장 설명을 생성해주세요."
+            "Please generate a suitable name and a one-sentence description for this NPC."
          }
     ]
     resp = openai.chat.completions.create(
@@ -256,8 +255,8 @@ def make_npc():
                 continue
             npc["code"]="N"+str(code_int)
             npc["type"]="npc"
-            #name, desc = get_name_description(npc, description_dict)
-            name, desc = get_name_none(npc, description_dict)
+            name, desc = get_name_description(npc, description_dict)
+            #name, desc = get_name_none(npc, description_dict)
             if not name:
                 print(f"이름 생성 실패: {npc}")
                 continue
