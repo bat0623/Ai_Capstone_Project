@@ -1,3 +1,5 @@
 AIbigdata_link/
 *.jsonl
 
+.venv/
+polyglot-ko-3.8B/
