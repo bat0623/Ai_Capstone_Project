@@ -1,4 +1,6 @@
 AIbigdata_link/
+Fine-tuning-LoRA/
+Merged_model/
 *.jsonl
 
 .venv/
