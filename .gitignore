@@ -1,7 +1,14 @@
 AIbigdata_link/
 Fine-tuning-LoRA/
 Merged_model/
+LORA/
 *.jsonl
 
 .venv/
 polyglot-ko-3.8B/
+/Model3/dataset_cache/
+/polyglot-ko-5.8b-chat/
+/polyglot-ko-3.8b-chat/
+/lora-5.8b-chat/
+/Model3/lora-5.8b-chat/
+/Model3/lora-5.8b-chat(keep)/

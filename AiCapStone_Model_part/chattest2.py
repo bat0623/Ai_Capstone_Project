@@ -9,7 +9,7 @@ from peft import LoraConfig, get_peft_model
 
 # === 0) 설정값 정의 ===
 MODEL_DIR     = "/home/remote/Ai_Capstone_Project/model"
-NPC_JSON_PATH = "/home/remote/Ai_Capstone_Project/secondSourceCode/npc.json"
+NPC_JSON_PATH = "/home/remote/Ai_Capstone_Project/AiCapStone_Model_part/npc.json"
 MAX_LEN       = 512    # prompt+생성 전체 길이 한도
 MAX_NEW_TOKENS = 128   # 실제 생성할 토큰 수
 
