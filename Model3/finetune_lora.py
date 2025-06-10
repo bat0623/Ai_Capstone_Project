@@ -13,43 +13,33 @@ LoRA 파인튜닝 스크립트 (polyglot-ko-5.8b-chat)
 """
 
 import os
-
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 import json
-
 from datasets import load_dataset
-
 import torch
-
 from transformers import (
-
     AutoTokenizer,
-
     AutoModelForCausalLM,
-
     Trainer,
-
     TrainingArguments,
-
     DataCollatorForSeq2Seq
-
 )
-
 from peft import LoraConfig, get_peft_model, TaskType
-# tokenizer 병렬처리 설정
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-# CUDA 메모리 할당 설정
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:128,expandable_segments:True"
+print(f"PyTorch 버전: {torch.__version__}")
+
 
 # CPU 코어 수 자동 인식 (맵핑·DataLoader 워커)
 cpu_count = os.cpu_count() or 1
-n_proc = max(1, cpu_count - 1)
+n_proc = max(1, cpu_count - 16)
 print(f"전체 CPU 코어: {cpu_count}, 데이터 맵핑 프로세스 수: {n_proc}")
 
 # ─── 설정 ──────────────────────────────────────────────────────────────
 MODEL_NAME = "/home/remote/Ai_Capstone_Project/polyglot-ko-5.8b-chat"
-DATA_PATH = "/home/remote/Ai_Capstone_Project/data_singleline.jsonl"
+DATA_PATH = "/home/remote/Ai_Capstone_Project/conversation_1.7G_singleline.jsonl"
 OUTPUT_DIR = "./lora-5.8b-chat"
-BATCH_SIZE = 1
 # EPOCHS     = 5
 EPOCHS = 1
 LR = 1e-4
@@ -65,6 +55,13 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto",
     low_cpu_mem_usage=True,
 )
+
+# finetune_lora.py 중 모델 로딩 직후
+model.gradient_checkpointing_enable()  # gradient checkpointing 활성화
+for n, p in model.named_parameters():
+    if "lora" not in n:
+        p.requires_grad = False
+
 
 # LoRA 설정 최적화
 lora_config = LoraConfig(
@@ -154,8 +151,8 @@ for epoch in range(EPOCHS):
         chunk_ds = ds.select(range(chunk_start, chunk_end))
         training_args = TrainingArguments(
             output_dir=OUTPUT_DIR,
-            per_device_train_batch_size=BATCH_SIZE,
-            gradient_accumulation_steps=128,
+            per_device_train_batch_size=1,
+            gradient_accumulation_steps=8,
             num_train_epochs=1,
             learning_rate=LR,
             fp16=True,
@@ -171,7 +168,8 @@ for epoch in range(EPOCHS):
             ddp_find_unused_parameters=False,
             remove_unused_columns=False,
             dataloader_pin_memory=False,
-            dataloader_num_workers=n_proc
+            dataloader_num_workers=n_proc,
+            #deepspeed = "ds_config.json"
         )
         trainer = Trainer(
             model=model,
