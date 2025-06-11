@@ -109,7 +109,7 @@ def main():
     parser = argparse.ArgumentParser(description='RP 챗봇 with polyglot-ko-5.8b-chat')
     parser.add_argument(
         '--model_dir', type=str,
-        default='/home/remote/Ai_Capstone_Project/polyglot-ko-3.8b-chat',
+        default='/home/remote/Ai_Capstone_Project/polyglot-ko-5.8b-chat',
         help='polyglot-ko-5.8b-chat 디렉토리 절대경로'
     )
     parser.add_argument(
