@@ -17,14 +17,13 @@ from transformers import (
 from peft import LoraConfig, get_peft_model, TaskType, prepare_model_for_kbit_training
 from transformers.safetensors_conversion import auto_conversion
 sys.path.append("../conversation_maker")
-from auto_conversation_maker import ConversationMaker  # 당신의 모듈 이름에 맞게 변경 필요
+from auto_conversation_maker import ConversationMaker
 import pandas as pd
 
 player_dict = json.load(open("../conversation_maker/sample_instruction_info.json"))['players']
 npc_dict = json.load(open("../conversation_maker/npcs_info.json"))
 conversation_formated_dict = json.load(open("../conversation_maker/conversation_sample.json"))
 conversation_maker = ConversationMaker(player_dict, npc_dict, conversation_formated_dict)
-conversation_generator = conversation_maker.conversation_generator_jsonl(player_code=player_dict[0]['code'], npc_code=npc_dict[0]['code'])
 
 
 def jsonl_stream_generator():
@@ -53,7 +52,7 @@ def tokenize_fn(ex, tokenizer):
     tokenized = tokenizer(
         full,
         truncation=True,
-        max_length=128,
+        max_length=256,
         padding="max_length"
     )
     input_ids = tokenized["input_ids"]
@@ -77,7 +76,6 @@ def chunk_producer(queue: Queue, tokenizer, chunk_size):
         try:
             for _ in range(chunk_size):
                 gen_data=next(gen)
-                print(gen_data)
                 chunk.append(gen_data)
         except StopIteration:
             if chunk:
@@ -106,11 +104,10 @@ if __name__ == "__main__":
     print(f"전체 CPU 코어: {cpu_count}")
 
     MODEL_NAME = "/home/remote/Ai_Capstone_Project/polyglot-ko-5.8b-chat"
-    #DATA_PATH = "/home/remote/Ai_Capstone_Project/data_100M_singleline.jsonl"
     OUTPUT_DIR = "./lora-5.8b-chat"
     EPOCHS = 3
     LR = 1e-4
-    CHUNK_SIZE = 10000
+    CHUNK_SIZE = 120000
     CHUNKS_PER_EPOCH = 1000
 
     print("토크나이저 로딩 중...")
@@ -167,7 +164,7 @@ if __name__ == "__main__":
         num_train_epochs=1,
         learning_rate=LR,
         fp16=True,
-        logging_steps=50,
+        logging_steps=100,
         save_steps=100,
         save_total_limit=3,
         max_grad_norm=1.0,
@@ -230,7 +227,7 @@ if __name__ == "__main__":
 
             print(f"중간 저장 중... (청크 {chunk_id + 1})")
             model.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
-            tokenizer.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+            tokenizer.save_pretrained(f"{OUTPUT_DIR + 1}/checkpoint_chunk_{chunk_id + 1}")
 
     print("\n최종 모델 저장 중...")
     model.save_pretrained(OUTPUT_DIR)
