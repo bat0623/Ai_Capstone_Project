@@ -4,7 +4,7 @@ import json
 import gc
 import torch
 import multiprocessing as mp
-from datasets import Dataset
+from datasets import Dataset, disable_caching
 from multiprocessing import Queue, Process
 from transformers import (
     AutoTokenizer,
@@ -28,7 +28,16 @@ conversation_generator = conversation_maker.conversation_generator_jsonl(player_
 
 
 def jsonl_stream_generator():
-    yield from conversation_generator
+    try:
+        for player in player_dict:
+            player_code = player["code"]
+            for npc in npc_dict:
+                npc_code = npc["code"]
+                conv_jsonl_gen = conversation_maker.conversation_generator_jsonl(player_code, npc_code)
+                yield from conv_jsonl_gen
+    except Exception as e:
+        print(e)
+        yield None
 
 
 def make_prompt(example):
@@ -53,7 +62,7 @@ def tokenize_fn(ex, tokenizer):
     tokenized["labels"] = labels
     return tokenized
 
-
+disable_caching()
 def preprocess_chunk(raw_chunk, tokenizer):
     ds = Dataset.from_list(raw_chunk)
     ds = ds.map(make_prompt, remove_columns=ds.column_names)
@@ -93,16 +102,16 @@ if __name__ == "__main__":
     print(f"PyTorch 버전: {torch.__version__}")
 
     cpu_count = os.cpu_count() or 1
-    training_workers = 0
+    training_workers = 1
     print(f"전체 CPU 코어: {cpu_count}")
 
-    MODEL_NAME = "/home/remote/Ai_Capstone_Project/polyglot-ko-3.8b-chat"
-    DATA_PATH = "/home/remote/Ai_Capstone_Project/data_100M_singleline.jsonl"
-    OUTPUT_DIR = "./lora-3.8b-chat"
+    MODEL_NAME = "/home/remote/Ai_Capstone_Project/polyglot-ko-5.8b-chat"
+    #DATA_PATH = "/home/remote/Ai_Capstone_Project/data_100M_singleline.jsonl"
+    OUTPUT_DIR = "./lora-5.8b-chat"
     EPOCHS = 3
     LR = 1e-4
-    CHUNK_SIZE = 2000
-    CHUNKS_PER_EPOCH = 100
+    CHUNK_SIZE = 10000
+    CHUNKS_PER_EPOCH = 1000
 
     print("토크나이저 로딩 중...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
@@ -150,6 +159,32 @@ if __name__ == "__main__":
         padding=True
     )
 
+    training_args = TrainingArguments(
+        output_dir=OUTPUT_DIR,
+        per_device_train_batch_size=6,
+        gradient_accumulation_steps=2,
+        dataloader_pin_memory=True,
+        num_train_epochs=1,
+        learning_rate=LR,
+        fp16=True,
+        logging_steps=50,
+        save_steps=100,
+        save_total_limit=3,
+        max_grad_norm=1.0,
+        warmup_ratio=0.1,
+        label_names=["labels"],
+        gradient_checkpointing=True,
+        ddp_find_unused_parameters=False,
+        remove_unused_columns=False,
+        gradient_checkpointing_kwargs={"use_reentrant": False},
+        dataloader_num_workers=training_workers,
+        optim="adamw_torch",
+        report_to="none",
+        disable_tqdm=False,
+        eval_accumulation_steps=None,
+        prediction_loss_only=True,
+    )
+
     queue = Queue(maxsize=2)
     producer = Process(target=chunk_producer, args=(queue, tokenizer, CHUNK_SIZE))
     producer.start()
@@ -170,32 +205,6 @@ if __name__ == "__main__":
 
             print(f"\n청크 {chunk_id + 1} 처리 중...")
             chunk_ds = get_next_chunk(queue)
-
-            training_args = TrainingArguments(
-                output_dir=OUTPUT_DIR,
-                per_device_train_batch_size=1,
-                gradient_accumulation_steps=4,
-                num_train_epochs=1,
-                learning_rate=LR,
-                fp16=True,
-                logging_steps=50,
-                save_steps=100,
-                save_total_limit=3,
-                max_grad_norm=1.0,
-                warmup_ratio=0.1,
-                label_names=["labels"],
-                gradient_checkpointing=False,
-                ddp_find_unused_parameters=False,
-                remove_unused_columns=False,
-                dataloader_pin_memory=False,
-                gradient_checkpointing_kwargs={"use_reentrant": False},
-                dataloader_num_workers=training_workers,
-                optim="adamw_torch",
-                report_to="none",
-                disable_tqdm=False,
-                eval_accumulation_steps=None,
-                prediction_loss_only=True,
-            )
 
             trainer = Trainer(
                 model=model,
