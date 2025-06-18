@@ -1,4 +1,5 @@
 import os
+import random
 import sys
 import json
 import gc
@@ -20,18 +21,28 @@ sys.path.append("../conversation_maker")
 from auto_conversation_maker import ConversationMaker
 import pandas as pd
 
+
 player_dict = json.load(open("../conversation_maker/sample_instruction_info.json"))['players']
 npc_dict = json.load(open("../conversation_maker/npcs_info.json"))
 conversation_formated_dict = json.load(open("../conversation_maker/conversation_sample.json"))
 conversation_maker = ConversationMaker(player_dict, npc_dict, conversation_formated_dict)
 
+cpu_count = os.cpu_count() or 1
+preprocessing_workers = max(1, cpu_count-1)
+training_workers = 1
 
 def jsonl_stream_generator():
     try:
+        shuffle_player_dict = player_dict.copy()
+        random.shuffle(shuffle_player_dict)
+        shuffle_npc_dict = npc_dict.copy()
+        random.shuffle(shuffle_npc_dict)
+
         for player in player_dict:
             player_code = player["code"]
             for npc in npc_dict:
                 npc_code = npc["code"]
+                print(f"New Generator >> player_code: {player_code}\tcode: {npc_code}")
                 conv_jsonl_gen = conversation_maker.conversation_generator_jsonl(player_code, npc_code)
                 yield from conv_jsonl_gen
     except Exception as e:
@@ -64,8 +75,11 @@ def tokenize_fn(ex, tokenizer):
 disable_caching()
 def preprocess_chunk(raw_chunk, tokenizer):
     ds = Dataset.from_list(raw_chunk)
-    ds = ds.map(make_prompt, remove_columns=ds.column_names)
-    ds = ds.map(lambda ex: tokenize_fn(ex, tokenizer), remove_columns=["prompt", "target"])
+    print("dataset sample:",ds[:5])
+    print("MAP for make_prompt")
+    ds = ds.map(make_prompt, remove_columns=ds.column_names,)
+    print("MAP for tokenize_fn")
+    ds = ds.map(lambda ex: tokenize_fn(ex, tokenizer), remove_columns=["prompt", "target"],)
     return ds
 
 
@@ -79,16 +93,21 @@ def chunk_producer(queue: Queue, tokenizer, chunk_size):
                 chunk.append(gen_data)
         except StopIteration:
             if chunk:
+                print("StopIteration")
                 queue.put(preprocess_chunk(chunk, tokenizer))
             break
         except Exception as e:
             print(f"[제너레이터] 오류 발생: {e}")
             continue
+        print(f"put_chunk: {chunk[-1]}")
         queue.put(preprocess_chunk(chunk, tokenizer))
 
 
 def get_next_chunk(queue: Queue):
-    return queue.get()
+    data=queue.get()
+    print("get_next_chunk: ")
+    print(f"queue.qsize: {queue.qsize()}")
+    return data
 
 
 if __name__ == "__main__":
@@ -98,17 +117,13 @@ if __name__ == "__main__":
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
     print(f"PyTorch 버전: {torch.__version__}")
-
-    cpu_count = os.cpu_count() or 1
-    training_workers = 1
     print(f"전체 CPU 코어: {cpu_count}")
-
     MODEL_NAME = "/home/remote/Ai_Capstone_Project/polyglot-ko-5.8b-chat"
     OUTPUT_DIR = "./lora-5.8b-chat"
     EPOCHS = 3
     LR = 1e-4
-    CHUNK_SIZE = 120000
-    CHUNKS_PER_EPOCH = 1000
+    CHUNK_SIZE = 12000
+    CHUNKS_PER_EPOCH = 100
 
     print("토크나이저 로딩 중...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
@@ -165,7 +180,7 @@ if __name__ == "__main__":
         learning_rate=LR,
         fp16=True,
         logging_steps=100,
-        save_steps=100,
+        save_steps=1,
         save_total_limit=3,
         max_grad_norm=1.0,
         warmup_ratio=0.1,
@@ -182,7 +197,7 @@ if __name__ == "__main__":
         prediction_loss_only=True,
     )
 
-    queue = Queue(maxsize=2)
+    queue = Queue(maxsize=1)
     producer = Process(target=chunk_producer, args=(queue, tokenizer, CHUNK_SIZE))
     producer.start()
 
@@ -227,7 +242,7 @@ if __name__ == "__main__":
 
             print(f"중간 저장 중... (청크 {chunk_id + 1})")
             model.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
-            tokenizer.save_pretrained(f"{OUTPUT_DIR + 1}/checkpoint_chunk_{chunk_id + 1}")
+            tokenizer.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
 
     print("\n최종 모델 저장 중...")
     model.save_pretrained(OUTPUT_DIR)
