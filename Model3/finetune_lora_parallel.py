@@ -38,9 +38,9 @@ def jsonl_stream_generator():
         shuffle_npc_dict = npc_dict.copy()
         random.shuffle(shuffle_npc_dict)
 
-        for player in player_dict:
+        for player in shuffle_player_dict:
             player_code = player["code"]
-            for npc in npc_dict:
+            for npc in shuffle_npc_dict:
                 npc_code = npc["code"]
                 print(f"New Generator >> player_code: {player_code}\tcode: {npc_code}")
                 conv_jsonl_gen = conversation_maker.conversation_generator_jsonl(player_code, npc_code)
