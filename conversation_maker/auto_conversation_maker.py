@@ -74,7 +74,7 @@ class ConversationMaker:
                                                 )
 
                 instruction = "배경: {n_era}  도시: {n_city}    플레이어: {p_name}({p_job}, {p_social_status})  NPC: {n_name}({n_job}, {n_social_status}, {n_relation}))"
-                instruction+=f" 상황: {situation["description"]}"
+                instruction+=f" 상황: {situation['description']}"
                 instruction = instruction.format(n_name=npc_info["name"],
                                                  n_city=npc_info["city"],
                                                  n_age=npc_info["age"],

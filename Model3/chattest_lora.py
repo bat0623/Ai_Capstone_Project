@@ -80,27 +80,22 @@ def chat_loop(system_prompt, tokenizer, model, device, player, npc, backgrounds)
             # 컨텍스트 구성
             bg = backgrounds[player['background_code']]
             cities = "; ".join(f"{c['name']}({c['type']})" for c in bg['cities'])
-            
+            context = (
+                system_prompt + "\n"
+                f"Background: {bg['description']} | Cities: {cities}\n"
+                f"Player: Name={player['name']}, Job={player['job']}, Gender={player['gender']}\n"
+                f"NPC:   Name={npc['name']}, Job={npc['job']}, Gender={npc['gender']}, Relation={npc['relation']}\n"
+            )
+
             # 대화 이력과 사용자 질문 합치기
-            dialogue = ""
-            for u, b in history[-3:]:  # 최근 3개의 대화만 포함
+            dialogue = context
+            for u, b in history:
                 dialogue += f"{user_label}: {u}\n{bot_label}: {b}\n"
             dialogue += f"{user_label}: {user_input}\n{bot_label}:"
 
-            # 전체 프롬프트 구성
-            full_prompt = (
-                system_prompt + "\n\n"
-                f"현재 상황:\n"
-                f"- 배경: {bg['description']}\n"
-                f"- 도시들: {cities}\n"
-                f"- 플레이어 정보: 이름={player['name']}, 직업={player['job']}, 성별={player['gender']}\n"
-                f"- NPC 정보: 이름={npc['name']}, 직업={npc['job']}, 성별={npc['gender']}, 관계={npc['relation']}\n\n"
-                f"이전 대화:\n{dialogue}"
-            )
-
             # 토크나이즈 & 생성
             inputs = tokenizer(
-                full_prompt,
+                dialogue,
                 return_tensors='pt',
                 return_token_type_ids=False
             )
@@ -110,10 +105,8 @@ def chat_loop(system_prompt, tokenizer, model, device, player, npc, backgrounds)
                 outputs = model.generate(
                     **inputs,
                     max_new_tokens=100,
-                    temperature=0.7,  # 약간 높여서 다양성 증가
+                    temperature=0.2,
                     top_p=0.9,
-                    repetition_penalty=1.2,  # 반복 방지
-                    no_repeat_ngram_size=3,  # 3-gram 반복 방지
                     eos_token_id=tokenizer.eos_token_id,
                     pad_token_id=tokenizer.pad_token_id,
                     do_sample=True
@@ -122,10 +115,6 @@ def chat_loop(system_prompt, tokenizer, model, device, player, npc, backgrounds)
             # 전체 디코딩 후 첫 줄만 추출
             text = tokenizer.decode(outputs[0], skip_special_tokens=True)
             reply = text.split(f"{bot_label}:")[-1].strip().split("\n")[0]
-
-            # 응답이 비어있거나 너무 짧은 경우 기본 응답으로 대체
-            if not reply or len(reply) < 2:
-                reply = "죄송합니다. 다시 한 번 말씀해 주시겠어요?"
 
             print(f"{bot_label}: {reply}")
             history.append((user_input, reply))
@@ -212,18 +201,40 @@ def main():
         f"- 사회적 지위: {npc['social_status']}\n"
         f"- 소속 도시: {npc['city']}\n"
         f"- 성격: {npc['description']}\n\n"
-        f"2. 대화 규칙:\n"
-        f"- 항상 자신의 정체성을 유지하며 대화하세요\n"
-        f"- 플레이어의 질문에 구체적이고 자연스럽게 답변하세요\n"
-        f"- 이전 대화 맥락을 고려하여 일관성 있게 응답하세요\n"
-        f"- 단순 인사에는 간단히 답하고, 정보를 요구하는 질문에는 상세히 답변하세요\n"
-        f"- 자신의 직업, 도시, 배경에 맞는 전문적인 지식을 보여주세요\n"
-        f"- 플레이어와의 관계({npc['relation']})에 맞는 태도를 유지하세요\n\n"
-        f"3. 응답 지침:\n"
-        f"- 최소 2단어 이상으로 응답하세요\n"
-        f"- 같은 말을 반복하지 마세요\n"
-        f"- 플레이어의 질문을 이해하지 못했다면, 다시 물어보세요\n"
-        f"- 대화가 자연스럽게 이어질 수 있도록 답변하세요\n"
+        f"2. 대화 상대 정보:\n"
+        f"- 이름: {player['name']}\n"
+        f"- 직업: {player['job']}\n"
+        f"- 사회적 지위: {player['social_status']}\n"
+        f"- 관계: {npc['relation']}\n\n"
+        f"3. 도시 정보:\n"
+        f"- 도시명: {npc_city['name']}\n"
+        f"- 특성: {', '.join(npc_city['traits'])}\n"
+        f"- 설명: {npc_city['description']}\n\n"
+        f"4. 대화 규칙:\n"
+        f"- 호칭: 플레이어를 '{player['name']}{status_honorific.get(player['social_status'], '님')}'으로 호칭\n"
+        f"- 자칭: 자신을 '{npc_self_honorific.get(npc['social_status'], '저')}'로 지칭\n"
+        f"- 태도: {relation_attitude.get(npc['relation'], '정중한')} 태도로 대화\n\n"
+        f"5. 응답 지침:\n"
+        f"- 자신의 정체성과 역할을 일관되게 유지\n"
+        f"- 플레이어와의 관계({npc['relation']})에 맞는 태도 유지\n"
+        f"- 도시의 특성과 자신의 직업을 자연스럽게 반영\n"
+        f"- 일상적 대화에도 전문성과 개성 유지\n"
+        f"- 침묵하지 말고 항상 상황에 맞는 대화 진행\n"
+        f"- 이전 대화 맥락을 기억하고 일관성 있게 답변\n\n"
+        f"6. 직업별 특성:\n"
+        f"- 상인: 정직한 거래와 신뢰 중시, 상품 정보 제공\n"
+        f"- 정보상: 정보의 가치 중시, 대가를 요구하는 정보 제공\n"
+        f"- 병사: 질서와 안전 중시, 경계심 있는 대화\n\n"
+        f"7. 상황별 대응:\n"
+        f"- 인사: 자신의 직업과 도시를 언급하며 응답\n"
+        f"- 질문: 자신의 전문 분야에 맞게 답변\n"
+        f"- 요청: 관계와 상황을 고려하여 응답\n"
+        f"- 일상: 도시의 특성과 자신의 직업을 반영한 대화\n\n"
+        f"8. 주의사항:\n"
+        f"- 자신의 정체성에 대한 질문에는 정확하게 답변\n"
+        f"- 같은 답변을 반복하지 않기\n"
+        f"- 대화의 맥락을 유지하며 자연스럽게 대화 진행\n"
+        f"- 자신의 직업과 도시에 대한 전문성 보여주기\n"
     )
 
     chat_loop(system_prompt, tokenizer, model, device, player, npc, backgrounds)

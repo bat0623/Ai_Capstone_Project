@@ -1,0 +1,16 @@
+{
+    "train_batch_size": 2,
+    "gradient_accumulation_steps": 2,
+    "optimizer": {
+        "type": "AdamW",
+        "params": {
+            "lr": 1e-4
+        }
+    },
+    "fp16": {
+        "enabled": false
+    },
+    "zero_optimization": {
+        "stage": 2
+    }
+}
