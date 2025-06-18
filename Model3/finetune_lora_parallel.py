@@ -15,15 +15,20 @@ from transformers import (
     BitsAndBytesConfig
 )
 from peft import LoraConfig, get_peft_model, TaskType, prepare_model_for_kbit_training
+from transformers.safetensors_conversion import auto_conversion
+sys.path.append("../conversation_maker")
+from auto_conversation_maker import ConversationMaker  # 당신의 모듈 이름에 맞게 변경 필요
+import pandas as pd
+
+player_dict = json.load(open("../conversation_maker/sample_instruction_info.json"))['players']
+npc_dict = json.load(open("../conversation_maker/npcs_info.json"))
+conversation_formated_dict = json.load(open("../conversation_maker/conversation_sample.json"))
+conversation_maker = ConversationMaker(player_dict, npc_dict, conversation_formated_dict)
+conversation_generator = conversation_maker.conversation_generator_jsonl(player_code=player_dict[0]['code'], npc_code=npc_dict[0]['code'])
 
 
-def jsonl_stream_generator(filepath):
-    with open(filepath, "r", encoding="utf-8") as f:
-        for line in f:
-            try:
-                yield json.loads(line.strip())
-            except Exception as e:
-                print(f"[제너레이터] 잘못된 JSON 라인 무시: {e}")
+def jsonl_stream_generator():
+    yield from conversation_generator
 
 
 def make_prompt(example):
@@ -56,13 +61,15 @@ def preprocess_chunk(raw_chunk, tokenizer):
     return ds
 
 
-def chunk_producer(filepath, queue: Queue, tokenizer, chunk_size):
-    gen = jsonl_stream_generator(filepath)
+def chunk_producer(queue: Queue, tokenizer, chunk_size):
+    gen = jsonl_stream_generator()
     while True:
         chunk = []
         try:
             for _ in range(chunk_size):
-                chunk.append(next(gen))
+                gen_data=next(gen)
+                print(gen_data)
+                chunk.append(gen_data)
         except StopIteration:
             if chunk:
                 queue.put(preprocess_chunk(chunk, tokenizer))
@@ -144,7 +151,7 @@ if __name__ == "__main__":
     )
 
     queue = Queue(maxsize=2)
-    producer = Process(target=chunk_producer, args=(DATA_PATH, queue, tokenizer, CHUNK_SIZE))
+    producer = Process(target=chunk_producer, args=(queue, tokenizer, CHUNK_SIZE))
     producer.start()
 
     current_iteration = 0
