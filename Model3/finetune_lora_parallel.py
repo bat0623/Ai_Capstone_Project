@@ -2,7 +2,7 @@ import os
 import random
 import sys
 import json
-import gc
+import re
 import torch
 import multiprocessing as mp
 from datasets import Dataset, disable_caching
@@ -109,6 +109,18 @@ def get_next_chunk(queue: Queue):
     print(f"queue.qsize: {queue.qsize()}")
     return data
 
+def find_latest_checkpoint(output_dir):
+    checkpoints = [
+        d for d in os.listdir(output_dir)
+        if os.path.isdir(os.path.join(output_dir, d)) and d.startswith("checkpoint_chunk_")
+    ]
+    if not checkpoints:
+        return None, 0
+    # 숫자만 추출해서 정렬
+    checkpoints = sorted(checkpoints, key=lambda x: int(re.findall(r"\d+", x)[0]))
+    latest = checkpoints[-1]
+    latest_id = int(re.findall(r"\d+", latest)[0])
+    return os.path.join(output_dir, latest), latest_id
 
 if __name__ == "__main__":
     mp.set_start_method("spawn", force=True)
@@ -120,16 +132,9 @@ if __name__ == "__main__":
     print(f"전체 CPU 코어: {cpu_count}")
     MODEL_NAME = "/home/remote/Ai_Capstone_Project/polyglot-ko-5.8b-chat"
     OUTPUT_DIR = "./lora-5.8b-chat"
-    EPOCHS = 3
     LR = 1e-4
     CHUNK_SIZE = 12000
-    CHUNKS_PER_EPOCH = 100
-
-    print("토크나이저 로딩 중...")
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
-    if tokenizer.pad_token is None:
-        tokenizer.pad_token = tokenizer.eos_token
-        tokenizer.pad_token_id = tokenizer.eos_token_id
+    CHUNKS_PER_EPOCH = 100000
 
     print("기본 모델 로딩 중...")
     bnb_config = BitsAndBytesConfig(
@@ -164,6 +169,25 @@ if __name__ == "__main__":
     model = get_peft_model(model, lora_config)
     model.print_trainable_parameters()
 
+    latest_ckpt_path, last_chunk_id = find_latest_checkpoint(OUTPUT_DIR)
+    if latest_ckpt_path:
+        print(f"이전 체크포인트 발견: {latest_ckpt_path}")
+        model.load_adapter(latest_ckpt_path, adapter_name="default", is_trainable=True)
+
+        print("토크나이저 로딩 중...")
+        tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+            tokenizer.pad_token_id = tokenizer.eos_token_id
+    else:
+        print("체크포인트 없음: 처음부터 시작")
+        print("토크나이저 로딩 중...")
+        tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+            tokenizer.pad_token_id = tokenizer.eos_token_id
+        last_chunk_id = 0
+
     data_collator = DataCollatorForSeq2Seq(
         tokenizer,
         pad_to_multiple_of=8,
@@ -195,54 +219,59 @@ if __name__ == "__main__":
         disable_tqdm=False,
         eval_accumulation_steps=None,
         prediction_loss_only=True,
+        save_strategy="no"
     )
 
     queue = Queue(maxsize=1)
     producer = Process(target=chunk_producer, args=(queue, tokenizer, CHUNK_SIZE))
     producer.start()
 
-    current_iteration = 0
-    total_iterations = EPOCHS * CHUNKS_PER_EPOCH
+    current_iteration = last_chunk_id
+    total_iterations = CHUNKS_PER_EPOCH
 
-    for epoch in range(EPOCHS):
-        print(f"\n에포크 {epoch + 1}/{EPOCHS} 시작")
-        for chunk_id in range(CHUNKS_PER_EPOCH):
-            current_iteration += 1
-            progress = current_iteration / total_iterations
-            bar_length = 30
-            filled_length = int(bar_length * progress)
-            bar = "█" * filled_length + "-" * (bar_length - filled_length)
-            percent = int(progress * 100)
-            print(f"\r전체 진행률: |{bar}| {percent}% ({current_iteration}/{total_iterations})", end="", flush=True)
+    for chunk_id in range(last_chunk_id, CHUNKS_PER_EPOCH):
+        current_iteration += 1
+        progress = current_iteration / total_iterations
+        bar_length = 100
+        filled_length = int(bar_length * progress)
+        bar = "█" * filled_length + "-" * (bar_length - filled_length)
+        percent = int(progress * 100)
 
-            print(f"\n청크 {chunk_id + 1} 처리 중...")
-            chunk_ds = get_next_chunk(queue)
+        print(f"청크 {chunk_id + 1} 처리 중...")
+        chunk_ds = get_next_chunk(queue)
 
-            trainer = Trainer(
-                model=model,
-                args=training_args,
-                train_dataset=chunk_ds,
-                data_collator=data_collator,
-            )
+        trainer = Trainer(
+            model=model,
+            args=training_args,
+            train_dataset=chunk_ds,
+            data_collator=data_collator,
+        )
 
-            torch.cuda.empty_cache()
-            print("*** trainer.train() ***")
-            try:
-                trainer.train()
-            except RecursionError as e:
-                print(f"재귀 오류 발생: {e}")
-                if hasattr(model, 'module'):
-                    model = model.module
-                continue
-            except Exception as e:
-                print(f"학습 중 오류 발생: {e}")
-                continue
+        torch.cuda.empty_cache()
+        print(f"\r전체 진행률: |{bar}| {percent}% ({current_iteration}/{total_iterations})", end="", flush=True)
+        print(f"\n*** {chunk_id + 1} train START ***")
+        try:
+            trainer.train()
+        except RecursionError as e:
+            print(f"재귀 오류 발생: {e}")
+            if hasattr(model, 'module'):
+                model = model.module
+            continue
+        except KeyboardInterrupt:
+            print("\n 강제 종료")
+            producer.terminate()
+            sys.exit(0)
+        except Exception as e:
+            print(f"학습 중 오류 발생: {e}")
+            continue
 
-            torch.cuda.empty_cache()
+        torch.cuda.empty_cache()
 
-            print(f"중간 저장 중... (청크 {chunk_id + 1})")
-            model.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
-            tokenizer.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+        print(f"중간 저장 중... (청크 {chunk_id + 1})")
+        trainer.save_model(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+        trainer.save_state(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+        model.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+        tokenizer.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
 
     print("\n최종 모델 저장 중...")
     model.save_pretrained(OUTPUT_DIR)
