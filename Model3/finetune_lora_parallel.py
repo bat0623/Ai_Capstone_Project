@@ -5,6 +5,7 @@ import json
 import re
 import torch
 import multiprocessing as mp
+import pathlib
 from datasets import Dataset, disable_caching
 from multiprocessing import Queue, Process
 from transformers import (
@@ -132,6 +133,7 @@ def stop_learning():
     producer.join()
     queue.close()
     queue.join_thread()
+    torch.cuda.empty_cache()
     print("*** 종료 완료 ***")
     sys.exit(0)
 
@@ -280,10 +282,19 @@ if __name__ == "__main__":
         torch.cuda.empty_cache()
 
         print(f"중간 저장 중... (청크 {chunk_id + 1})")
-        trainer.save_model(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
-        trainer.save_state(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
-        model.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+        checkpoint_dir = f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}"
+        tokenizer.save_pretrained(checkpoint_dir)
+        trainer.save_model(checkpoint_dir)
+        trainer.save_state()
+
+        merged_model = model.merge_and_unload()  # LoRA 어댑터를 베이스 모델에 병합
+        torch.save(merged_model.state_dict(), f"{checkpoint_dir}/pytorch_model.pt")
+
+
+        checkpoint_dir = f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}"
         tokenizer.save_pretrained(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+        trainer.save_model(f"{OUTPUT_DIR}/checkpoint_chunk_{chunk_id + 1}")
+        trainer.save_state()
 
     print("\n최종 모델 저장 중...")
     model.save_pretrained(OUTPUT_DIR)
