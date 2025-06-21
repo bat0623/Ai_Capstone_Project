@@ -164,7 +164,8 @@ if __name__ == "__main__":
         torch_dtype=torch.float16,
         device_map="auto",
         low_cpu_mem_usage=True,
-        trust_remote_code=True
+        trust_remote_code=True,
+        use_cache = False
     )
 
     print("모델을 LoRA 학습에 맞게 준비 중...")
@@ -207,7 +208,7 @@ if __name__ == "__main__":
         tokenizer,
         pad_to_multiple_of=8,
         return_tensors="pt",
-        padding=True
+        padding=True,
     )
 
     training_args = TrainingArguments(
@@ -217,7 +218,8 @@ if __name__ == "__main__":
         dataloader_pin_memory=True,
         num_train_epochs=1,
         learning_rate=LR,
-        fp16=True,
+        fp16=False,
+        bf16=True,
         logging_steps=100,
         save_steps=1,
         save_total_limit=3,
@@ -239,6 +241,7 @@ if __name__ == "__main__":
 
     queue = Queue(maxsize=1)
     producer = Process(target=chunk_producer, args=(queue, tokenizer, CHUNK_SIZE))
+    producer.demon = True
     producer.start()
 
     current_iteration = last_chunk_id
@@ -277,7 +280,7 @@ if __name__ == "__main__":
             stop_learning()
         except Exception as e:
             print(f"학습 중 오류 발생: {e}")
-            continue
+            stop_learning()
 
         torch.cuda.empty_cache()
 
