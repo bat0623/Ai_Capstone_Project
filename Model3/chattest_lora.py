@@ -11,6 +11,8 @@ LoRA 파인튜닝된 5.8B 챗봇 모델 사용 예제:
 import argparse
 import gc
 import json
+import os
+import re
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel, PeftConfig
@@ -20,6 +22,24 @@ def clear_memory(device):
     if device.type == "cuda":
         torch.cuda.empty_cache()
     gc.collect()
+
+def find_latest_checkpoint(base_dir):
+    """가장 최신 체크포인트 디렉토리 찾기"""
+    if not os.path.exists(base_dir):
+        return None
+    
+    checkpoints = [
+        d for d in os.listdir(base_dir)
+        if os.path.isdir(os.path.join(base_dir, d)) and d.startswith("checkpoint_chunk_")
+    ]
+    
+    if not checkpoints:
+        return None
+    
+    # 숫자 기준으로 정렬해서 가장 큰 번호 찾기
+    checkpoints = sorted(checkpoints, key=lambda x: int(re.findall(r"\d+", x)[0]))
+    latest = checkpoints[-1]
+    return os.path.join(base_dir, latest)
 
 def load_world(json_path):
     """JSON 파일에서 backgrounds, players, npcs 로드하여 dict로 반환"""
@@ -131,8 +151,13 @@ def main():
     )
     parser.add_argument(
         '--lora_dir', type=str,
+        default=None,  # 기본값을 None으로 설정
+        help='LoRA 어댑터 디렉토리 절대경로 (None이면 자동으로 최신 체크포인트 탐색)'
+    )
+    parser.add_argument(
+        '--lora_base_dir', type=str,
         default='/home/remote/Ai_Capstone_Project/Model3/lora-5.8b-chat',
-        help='LoRA 어댑터 디렉토리 절대경로'
+        help='LoRA 체크포인트들이 있는 기본 디렉토리 (lora_dir이 None일 때 사용)'
     )
     parser.add_argument(
         '--world_json', type=str,
@@ -147,12 +172,37 @@ def main():
     device = torch.device(args.device if torch.cuda.is_available() and args.device=='cuda' else 'cpu')
     clear_memory(device)
 
+    # LoRA 디렉토리 결정
+    if args.lora_dir is None:
+        print(f"📁 최신 LoRA 체크포인트 탐색 중: {args.lora_base_dir}")
+        latest_checkpoint = find_latest_checkpoint(args.lora_base_dir)
+        if latest_checkpoint is None:
+            print(f"❌ LoRA 체크포인트를 찾을 수 없습니다: {args.lora_base_dir}")
+            print("   체크포인트 폴더가 있는지 확인해주세요.")
+            return
+        lora_dir = latest_checkpoint
+        print(f"✅ 최신 체크포인트 발견: {lora_dir}")
+    else:
+        lora_dir = args.lora_dir
+        print(f"📁 지정된 LoRA 디렉토리 사용: {lora_dir}")
+    
+    # LoRA 디렉토리 존재 확인
+    if not os.path.exists(lora_dir):
+        print(f"❌ LoRA 디렉토리가 존재하지 않습니다: {lora_dir}")
+        return
+    
+    # adapter_config.json 파일 존재 확인
+    config_path = os.path.join(lora_dir, "adapter_config.json")
+    if not os.path.exists(config_path):
+        print(f"❌ adapter_config.json 파일을 찾을 수 없습니다: {config_path}")
+        return
+
     backgrounds, players, npcs = load_world(args.world_json)
     player    = select_entity(players, '플레이어')
     npc       = select_entity(npcs,    'NPC')
     
     print("\n모델 로딩 중...")
-    tokenizer, model = load_model_with_lora(args.base_model_dir, args.lora_dir, device)
+    tokenizer, model = load_model_with_lora(args.base_model_dir, lora_dir, device)
 
     # NPC의 도시 정보 가져오기
     npc_city = next((city for city in backgrounds[player['background_code']]['cities'] 
@@ -240,4 +290,4 @@ def main():
     chat_loop(system_prompt, tokenizer, model, device, player, npc, backgrounds)
 
 if __name__ == '__main__':
-    main() 
+    main()
