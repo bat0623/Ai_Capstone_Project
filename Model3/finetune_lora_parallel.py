@@ -101,10 +101,14 @@ def chunk_producer(queue: Queue, tokenizer, chunk_size):
             continue
         print(f"put_chunk: {chunk[-1]}")
         queue.put(preprocess_chunk(chunk, tokenizer))
+    queue.put(None)
 
 
 def get_next_chunk(queue: Queue):
     data=queue.get()
+    if data is None:
+        print("종료 시그널 수신됨. 학습 중단.")
+        stop_learning()
     print("get_next_chunk: ")
     print(f"queue.qsize: {queue.qsize()}")
     return data
@@ -121,6 +125,15 @@ def find_latest_checkpoint(output_dir):
     latest = checkpoints[-1]
     latest_id = int(re.findall(r"\d+", latest)[0])
     return os.path.join(output_dir, latest), latest_id
+
+def stop_learning():
+    print("\n\n 종료중...")
+    producer.terminate()
+    producer.join()
+    queue.close()
+    queue.join_thread()
+    print("*** 종료 완료 ***")
+    sys.exit(0)
 
 if __name__ == "__main__":
     mp.set_start_method("spawn", force=True)
@@ -258,9 +271,8 @@ if __name__ == "__main__":
                 model = model.module
             continue
         except KeyboardInterrupt:
-            print("\n 강제 종료")
-            producer.terminate()
-            sys.exit(0)
+            print("강제 학습 중단")
+            stop_learning()
         except Exception as e:
             print(f"학습 중 오류 발생: {e}")
             continue
