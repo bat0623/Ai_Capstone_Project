@@ -42,7 +42,7 @@
       "type": "player",
       "name": "이진형",
       "job": "용사",
-      "social_status": "중산층",
+      "social_status": "",
       "gender": "남성",
       "background_code": "B000"
     }
@@ -56,9 +56,9 @@
       "job": "상인",
       "social_status": "중산층",
       "gender": "남성",
-      "relation": "동료",
+      "relation": "동맹",
       "city": "하이랄",
-      "description": "하이랄 도시의 성실한 상인으로, 정직한 거래와 신뢰를 중시하는 인물입니다. 다양한 상품을 취급하며 도시의 경제를 이끄는 중요한 인물입니다.",
+      "description": "하이랄 도시의 성실한 상인",
       "background_code": "B000"
     },
     {
@@ -71,7 +71,7 @@
       "gender": "여성",
       "relation": "중립",
       "city": "도도새",
-      "description": "어두운 도시 도도새에서 정보를 사고파는 냉철한 인물입니다. 도시의 모든 비밀을 알고 있으며, 정보의 가치를 잘 알고 있습니다. 신뢰할 수 있는 정보를 제공하지만, 그 대가를 철저히 요구합니다.",
+      "description": "어두운 도시 도도새에서 정보를 사고파는 냉철한 인물",
       "background_code": "B000"
     },
     {
@@ -84,7 +84,7 @@
       "gender": "남성",
       "relation": "적대",
       "city": "제랄",
-      "description": "제랄 항구의 수비대장으로, 엄격한 군율과 질서를 중시하는 인물입니다. 도시의 안전을 위해 모든 외지인을 의심의 눈으로 바라보며, 특히 용사들을 경계합니다.",
+      "description": "병기로 무장한 전사",
       "background_code": "B000"
     }
   ]

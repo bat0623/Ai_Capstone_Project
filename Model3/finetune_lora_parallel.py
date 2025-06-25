@@ -64,7 +64,7 @@ def tokenize_fn(ex, tokenizer):
     tokenized = tokenizer(
         full,
         truncation=True,
-        max_length=256,
+        max_length=512,
         padding="max_length"
     )
     input_ids = tokenized["input_ids"]
