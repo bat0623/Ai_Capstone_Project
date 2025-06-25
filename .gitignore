@@ -1,17 +1,17 @@
-AIbigdata_link/
-Fine-tuning-LoRA/
-Merged_model/
-LORA/
-*.jsonl
+# 이전 버전 폴더
+prervious_model_version/
 
+# 다운로드 가능한 베이스 모델들
+polyglot-ko-*/
+
+# 생성되는 모델들
+Model/
+Model3/lora-*/
+
+# 대용량 데이터 파일들 (100MB+ GitHub 제한)
+conversation_backup.jsonl
+
+# 개발 환경
 .venv/
-polyglot-ko-3.8B/
-/Model3/dataset_cache/
-/polyglot-ko-5.8b-chat/
-/polyglot-ko-3.8b-chat/
-/lora-5.8b-chat/
-/Model3/lora-3.8b-chat/
-/Model3/lora-3.8b-chat2/
-/Model3/lora-5.8b-chat/
-/Model3/lora-5.8b-chat2/
-/Model3/lora-5.8b-chat(keep)/
+__pycache__/
+.idea/

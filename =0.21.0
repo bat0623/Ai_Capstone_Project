@@ -1,3 +1,0 @@
-Requirement already satisfied: accelerate in /home/remote/anaconda3/envs/CAP_model/lib/python3.9/site-packages (1.7.0)
-Collecting safetensors
-  Using cached safetensors-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.8 kB)
