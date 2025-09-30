@@ -15,3 +15,4 @@ conversation_backup.jsonl
 .venv/
 __pycache__/
 .idea/
+AiCapStone_Model_part/data/lora_data.jsonl
